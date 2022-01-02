@@ -6,7 +6,7 @@ on:
   schedule:
     - cron: '06,13,20 13 * * *'
 jobs:
-  generate-redirects:
+  generate-calendars:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -14,8 +14,8 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: 3.8
-      - name: Create workdir
-        run: git workdir add calendars
+      - name: Create worktree
+        run: git worktree add calendars
       - name: Generate link files
         run: ./pull-calendars "$(pwd)/calendars"
       - name: Save and commit changes
