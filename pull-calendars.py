@@ -53,6 +53,8 @@ def combinations(page):
             for disciplines in Discipline.combinations():
                 p = filename(org, classes, disciplines)
                 t = text_list(map(desc, disciplines))
+                if len(disciplines) == 0:
+                    t = "All disciplines"
                 page.write('  <li>')
                 page.write(f'<a href="./{p}">{t}</a>')
                 page.write('</li>\n')
