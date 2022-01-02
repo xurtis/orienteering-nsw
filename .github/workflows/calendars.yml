@@ -15,7 +15,9 @@ jobs:
         with:
           python-version: 3.8
       - name: Create worktree
-        run: git worktree add calendars
+        run: |
+          git fetch --depth=1 origin calendars
+          git worktree add calendars
       - name: Generate link files
         run: ./pull-calendars "$(pwd)/calendars"
       - name: Save and commit changes
