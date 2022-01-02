@@ -1,0 +1,48 @@
+#!/bin/sh
+
+SCRIPT_DIR="${0%/*}"
+YEAR="$(date "+%Y")"
+DIRECTORY="$1"; shift
+INDEX="${DIRECTORY}/index.html"
+
+echo "Index in ${INDEX}"
+
+mkdir -p "${DIRECTORY}"
+cat > "${INDEX}" <<- __end_template
+	<doctype html>
+
+	<html>
+	  <head>
+	    <meta charset="utf-8" />
+	    <title>Eventor Orienteering Calendars</title>
+	    <meta
+	      http-equiv="refresh"
+	      content="time; URL=./${YEAR}/index.html"
+	    />
+	  </head>
+	  <body>
+	    <h1>Eventor Orienteering Calendars</h1>
+	    <pre>Redirecting to ${YEAR}...</pre>
+	  </body>
+	</html>
+__end_template
+
+DIRECTORY="${DIRECTORY}/${YEAR}"
+INDEX="${DIRECTORY}/index.html"
+
+echo "${YEAR} Index in ${INDEX}"
+
+mkdir -p "${DIRECTORY}"
+cat > "${INDEX}" <<- __end_template
+	<doctype html>
+
+	<html>
+	  <head>
+	    <meta charset="utf-8" />
+	    <title>Eventor Orienteering Calendars ${YEAR}</title>
+	  </head>
+	  <body>
+	$("${SCRIPT_DIR}/pull-calendars.py" "${DIRECTORY}")
+	  </body>
+	</html>
+__end_template
