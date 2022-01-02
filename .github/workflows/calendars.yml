@@ -17,6 +17,7 @@ jobs:
       - name: Create worktree
         run: |
           git fetch --depth=1 origin calendars
+          git branch -u origin/calendars calendars
           git worktree add calendars
       - name: Generate link files
         run: ./pull-calendars "$(pwd)/calendars"
