@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Svenska Orienteringsförbundet//Eventor
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:Event_16702@eventor.orienteering.asn.au
+DTSTAMP:20211231T011055Z
+DTSTART:20220118T130000Z
+DTEND:20220119T130000Z
+SUMMARY:Proposed Summer Camp (TBA), Orienteering Tasmania
+URL:https://eventor.orienteering.asn.au/Events/Show/16702
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_16819@eventor.orienteering.asn.au
+DTSTAMP:20211231T011055Z
+DTSTART:20220311T130000Z
+DTEND:20220312T130000Z
+SUMMARY:St Helens - East Coast 3 Days - Day 1, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/16819
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_16820@eventor.orienteering.asn.au
+DTSTAMP:20211231T011055Z
+DTSTART:20220312T130000Z
+DTEND:20220313T130000Z
+SUMMARY:St Helens - East Coast 3 Days - Day 2 - Long - OST 1, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/16820
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_16821@eventor.orienteering.asn.au
+DTSTAMP:20211231T011055Z
+DTSTART:20220313T130000Z
+DTEND:20220314T130000Z
+SUMMARY:St Helens - East Coast 3 Days - Day 3 - Middle - OST 2, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/16821
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_16822@eventor.orienteering.asn.au
+DTSTAMP:20211231T011055Z
+DTSTART:20220409T140000Z
+DTEND:20220410T140000Z
+SUMMARY:Glen Stuart - Tas Schools Champs (Schools Selection Event 1) , Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/16822
+END:VEVENT
+END:VCALENDAR

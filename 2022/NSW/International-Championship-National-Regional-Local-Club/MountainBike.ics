@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Svenska Orienteringsförbundet//Eventor
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:Event_16544@eventor.orienteering.asn.au
+DTSTAMP:20211028T072131Z
+DTSTART:20211231T210000Z
+DTEND:20220101T003000Z
+SUMMARY:Tba, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/16544
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_10928@eventor.orienteering.asn.au
+DTSTAMP:20220101T214652Z
+DTSTART:20220115T210000Z
+DTEND:20220116T000000Z
+SUMMARY:BOSS Season 2021/2022 Event #3, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/10928
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_10929@eventor.orienteering.asn.au
+DTSTAMP:20211004T232918Z
+DTSTART:20220212T210000Z
+DTEND:20220213T000000Z
+SUMMARY:BOSS Season 2021/2022 Event #4, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/10929
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_10930@eventor.orienteering.asn.au
+DTSTAMP:20211004T233027Z
+DTSTART:20220312T210000Z
+DTEND:20220313T000000Z
+SUMMARY:BOSS Season 2021/2022 Event #5, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/10930
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_8654@eventor.orienteering.asn.au
+DTSTAMP:20211222T050831Z
+DTSTART:20220324T130000Z
+DTEND:20220325T130000Z
+SUMMARY:2021 Australian MTBO Championships, Newcastle Orienteering Club / Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/8654
+GEO:-32.9255093538619;151.561411089668
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_8655@eventor.orienteering.asn.au
+DTSTAMP:20211222T051034Z
+DTSTART:20220325T220000Z
+DTEND:20220325T220000Z
+SUMMARY:2021 Australian MTBO Championships - Sprint, Newcastle Orienteering Club / Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/8655
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_10315@eventor.orienteering.asn.au
+DTSTAMP:20211222T051141Z
+DTSTART:20220326T030000Z
+DTEND:20220326T070000Z
+SUMMARY:2021 Australian MTBO Championships - Middle, Newcastle Orienteering Club / Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/10315
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_8656@eventor.orienteering.asn.au
+DTSTAMP:20211222T051222Z
+DTSTART:20220326T130000Z
+DTEND:20220327T130000Z
+SUMMARY:2021 Australian MTBO Championships - Long, Newcastle Orienteering Club / Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/8656
+END:VEVENT
+END:VCALENDAR

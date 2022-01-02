@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Svenska Orienteringsförbundet//Eventor
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:Event_16790@eventor.orienteering.asn.au
+DTSTAMP:20211222T024508Z
+DTSTART:20220318T140000Z
+DTEND:20220319T140000Z
+SUMMARY:OQ Coaching Day, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/16790
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_16570@eventor.orienteering.asn.au
+DTSTAMP:20211125T032112Z
+DTSTART:20221008T130000Z
+DTEND:20221009T130000Z
+SUMMARY:QLD MTBO Champs, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/16570
+END:VEVENT
+END:VCALENDAR

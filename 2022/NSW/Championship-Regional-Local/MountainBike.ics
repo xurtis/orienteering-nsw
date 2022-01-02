@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Svenska Orienteringsförbundet//Eventor
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:Event_10928@eventor.orienteering.asn.au
+DTSTAMP:20220101T214652Z
+DTSTART:20220115T210000Z
+DTEND:20220116T000000Z
+SUMMARY:BOSS Season 2021/2022 Event #3, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/10928
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_10929@eventor.orienteering.asn.au
+DTSTAMP:20211004T232918Z
+DTSTART:20220212T210000Z
+DTEND:20220213T000000Z
+SUMMARY:BOSS Season 2021/2022 Event #4, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/10929
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_10930@eventor.orienteering.asn.au
+DTSTAMP:20211004T233027Z
+DTSTART:20220312T210000Z
+DTEND:20220313T000000Z
+SUMMARY:BOSS Season 2021/2022 Event #5, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/10930
+END:VEVENT
+END:VCALENDAR

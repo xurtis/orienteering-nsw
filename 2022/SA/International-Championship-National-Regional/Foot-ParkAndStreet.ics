@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Svenska Orienteringsförbundet//Eventor
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:Event_16794@eventor.orienteering.asn.au
+DTSTAMP:20211228T050932Z
+DTSTART:20220305T233000Z
+DTEND:20220306T013000Z
+SUMMARY:SA Sprint Championships Keithcot Farm, Tintookies Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/16794
+GEO:-34.7987391634201;138.678439725252
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_16799@eventor.orienteering.asn.au
+DTSTAMP:20211227T034646Z
+DTSTART:20220828T003000Z
+DTEND:20220828T003000Z
+SUMMARY:SA Middle DIstance Champs Pympton, Tintookies Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/16799
+END:VEVENT
+END:VCALENDAR
