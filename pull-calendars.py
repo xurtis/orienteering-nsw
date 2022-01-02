@@ -132,7 +132,7 @@ class Classification(Enum):
 
     @staticmethod
     def combinations():
-        all_classes = [
+        yield [
             Classification.INTERNATIONAL,
             Classification.CHAMPIONSHIP,
             Classification.NATIONAL,
@@ -141,14 +141,17 @@ class Classification(Enum):
             Classification.CLUB,
         ]
 
-        for classification in all_classes:
-            yield [classification]
-
         yield [
             Classification.INTERNATIONAL,
             Classification.CHAMPIONSHIP,
             Classification.NATIONAL,
             Classification.REGIONAL,
+        ]
+
+        yield [
+            Classification.CHAMPIONSHIP,
+            Classification.REGIONAL,
+            Classification.LOCAL,
         ]
 
         yield [
