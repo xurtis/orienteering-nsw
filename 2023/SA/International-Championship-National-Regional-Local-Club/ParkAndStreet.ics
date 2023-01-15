@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Svenska Orienteringsförbundet//Eventor
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:Event_18240@eventor.orienteering.asn.au
+DTSTAMP:20221219T025827Z
+DTSTART:20230120T073000Z
+DTEND:20230120T073000Z
+SUMMARY:Twilight Series - Event #7 - St Clair, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18240
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18241@eventor.orienteering.asn.au
+DTSTAMP:20221219T030317Z
+DTSTART:20230126T133000Z
+DTEND:20230127T133000Z
+SUMMARY:Twilight Series - Event #8 - SE Parklands and Wetlands, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18241
+GEO:-34.9317632278785;138.617295988095
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18376@eventor.orienteering.asn.au
+DTSTAMP:20230103T054523Z
+DTSTART:20230429T040000Z
+DTEND:20230429T040000Z
+SUMMARY:Port Elliot, Onkaparinga Hills Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18376
+GEO:-35.5321617577696;138.686414376724
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Svenska Orienteringsförbundet//Eventor
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:Event_18108@eventor.orienteering.asn.au
+DTSTAMP:20230106T104609Z
+DTSTART:20230217T220000Z
+DTEND:20230219T060000Z
+SUMMARY:ACT MTBO Training Weekend, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/18108
+GEO:-35.2551182427839;149.110836008904
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17909@eventor.orienteering.asn.au
+DTSTAMP:20230106T105755Z
+DTSTART:20230225T220000Z
+DTEND:20230226T020000Z
+SUMMARY:ACT MTBO Series #1: Coleman Ridge, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/17909
+GEO:-35.3496385439431;149.023820221177
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17910@eventor.orienteering.asn.au
+DTSTAMP:20221220T054142Z
+DTSTART:20230527T230000Z
+DTEND:20230528T030000Z
+SUMMARY:ACT MTBO Series #2: Pierces Creek, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/17910
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17911@eventor.orienteering.asn.au
+DTSTAMP:20221220T054246Z
+DTSTART:20230916T230000Z
+DTEND:20230916T230000Z
+SUMMARY:ACT MTBO Series #3: Jerrabomberra (SCAR), Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/17911
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17891@eventor.orienteering.asn.au
+DTSTAMP:20221220T054733Z
+DTSTART:20231013T230000Z
+DTEND:20231014T010000Z
+SUMMARY:2023 ACT MTBO MIDDLE Championships: The Pinnacle (TBA), Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/17891
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17918@eventor.orienteering.asn.au
+DTSTAMP:20221220T054820Z
+DTSTART:20231014T030000Z
+DTEND:20231014T050000Z
+SUMMARY:2023 ACT MTBO SPRINT Championships: Cotter Pines (TBA), Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/17918
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17913@eventor.orienteering.asn.au
+DTSTAMP:20221220T054916Z
+DTSTART:20231014T220000Z
+DTEND:20231015T020000Z
+SUMMARY:2023 ACT MTBO LONG Championships: Blue Range Hut, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/17913
+END:VEVENT
+END:VCALENDAR

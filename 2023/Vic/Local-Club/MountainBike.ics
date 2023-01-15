@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Svenska Orienteringsförbundet//Eventor
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:Event_18331@eventor.orienteering.asn.au
+DTSTAMP:20230103T235716Z
+DTSTART:20230121T070000Z
+DTEND:20230121T084500Z
+SUMMARY:BikeO-75 - Lysterfield, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18331
+GEO:-37.955038190126;145.283485489181
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18333@eventor.orienteering.asn.au
+DTSTAMP:20221227T012129Z
+DTSTART:20230204T070000Z
+DTEND:20230204T084500Z
+SUMMARY:BikeO-75 - Woodlands, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18333
+GEO:-37.6353512396768;144.835268380456
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18334@eventor.orienteering.asn.au
+DTSTAMP:20221227T012151Z
+DTSTART:20230218T070000Z
+DTEND:20230218T084500Z
+SUMMARY:BikeO-75 - Templestowe, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18334
+GEO:-37.7341476428124;145.141921422521
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18332@eventor.orienteering.asn.au
+DTSTAMP:20221227T012106Z
+DTSTART:20230304T070000Z
+DTEND:20230304T084500Z
+SUMMARY:BikeO-75 - You Yangs, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18332
+GEO:-37.9640381542571;144.409315808163
+END:VEVENT
+END:VCALENDAR

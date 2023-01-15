@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Svenska Orienteringsförbundet//Eventor
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:Event_17504@eventor.orienteering.asn.au
+DTSTAMP:20230114T024133Z
+DTSTART:20230114T210000Z
+DTEND:20230115T000000Z
+SUMMARY:BOSS4 MTBO - Clarencetown, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/17504
+GEO:-32.5994629928077;151.731331277559
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17505@eventor.orienteering.asn.au
+DTSTAMP:20220517T001609Z
+DTSTART:20230218T130000Z
+DTEND:20230219T130000Z
+SUMMARY:Newcastle BOSS MTBO 2022/2023 #5, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/17505
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17506@eventor.orienteering.asn.au
+DTSTAMP:20220517T001747Z
+DTSTART:20230318T130000Z
+DTEND:20230319T130000Z
+SUMMARY:Newcastle BOSS MTBO 2022/2023 #6, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/17506
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18411@eventor.orienteering.asn.au
+DTSTAMP:20230107T020054Z
+DTSTART:20231007T210000Z
+DTEND:20231008T000000Z
+SUMMARY:BOSS 1 Newcastle MTBO, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18411
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18412@eventor.orienteering.asn.au
+DTSTAMP:20230107T020347Z
+DTSTART:20231111T210000Z
+DTEND:20231112T000000Z
+SUMMARY:BOSS 2 NEWCASTLE MTBO, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18412
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18413@eventor.orienteering.asn.au
+DTSTAMP:20230107T020542Z
+DTSTART:20231209T210000Z
+DTEND:20231210T000000Z
+SUMMARY:BOSS 3 NEWCASTLE MTBO, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18413
+END:VEVENT
+END:VCALENDAR
