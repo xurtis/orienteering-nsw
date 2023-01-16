@@ -3,6 +3,15 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
+UID:Event_18453@eventor.orienteering.asn.au
+DTSTAMP:20230116T003610Z
+DTSTART:20230130T080000Z
+DTEND:20230130T080000Z
+SUMMARY:MTBO Club Social Night, Multi Terrain Bike Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18453
+GEO:-27.3824357752154;153.078596084412
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_16955@eventor.orienteering.asn.au
 DTSTAMP:20221115T022723Z
 DTSTART:20230225T053000Z
@@ -20,11 +29,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18011
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17906@eventor.orienteering.asn.au
-DTSTAMP:20220926T104943Z
+DTSTAMP:20230116T003809Z
 DTSTART:20230304T140000Z
 DTEND:20230305T140000Z
-SUMMARY:MTBO, Multi Terrain Bike Orienteers
+SUMMARY:Samford MTBO, Multi Terrain Bike Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17906
+GEO:-27.357148107476;152.882792781498
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17936@eventor.orienteering.asn.au

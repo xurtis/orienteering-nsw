@@ -13,15 +13,16 @@ GEO:-34.9037857747069;138.615902914489
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18240@eventor.orienteering.asn.au
-DTSTAMP:20221219T025827Z
+DTSTAMP:20230116T095642Z
 DTSTART:20230120T073000Z
 DTEND:20230120T073000Z
 SUMMARY:Twilight Series - Event #7 - St Clair, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18240
+GEO:-34.8654347305943;138.531434786915
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18241@eventor.orienteering.asn.au
-DTSTAMP:20221219T030317Z
+DTSTAMP:20230116T095750Z
 DTSTART:20230126T133000Z
 DTEND:20230127T133000Z
 SUMMARY:Twilight Series - Event #8 - SE Parklands and Wetlands, Orienteering SA
@@ -43,6 +44,15 @@ DTSTART:20230210T080000Z
 DTEND:20230210T093000Z
 SUMMARY:Snap Sprint Series Race 2, SA Arrows
 URL:https://eventor.orienteering.asn.au/Events/Show/18173
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18454@eventor.orienteering.asn.au
+DTSTAMP:20230116T055650Z
+DTSTART:20230215T000000Z
+DTEND:20230215T023000Z
+SUMMARY:Midweek Training Athelstone, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18454
+GEO:-34.8631930674593;138.720830022975
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18379@eventor.orienteering.asn.au
@@ -94,6 +104,15 @@ SUMMARY:SA Sprint Championships - Reynella, Tjuringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17818
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18455@eventor.orienteering.asn.au
+DTSTAMP:20230116T073049Z
+DTSTART:20230315T000000Z
+DTEND:20230315T023000Z
+SUMMARY:Midweek Training Mt Crawford, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18455
+GEO:-34.7018867516933;138.958380877371
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18373@eventor.orienteering.asn.au
 DTSTAMP:20230103T053730Z
 DTSTART:20230318T233000Z
@@ -109,6 +128,15 @@ DTSTART:20230325T233000Z
 DTEND:20230326T023000Z
 SUMMARY:Belair National Park, Wallaringa Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18176
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18456@eventor.orienteering.asn.au
+DTSTAMP:20230116T080025Z
+DTSTART:20230419T010000Z
+DTEND:20230419T033000Z
+SUMMARY:Midweek Training at Mack Creek, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18456
+GEO:-34.7109399631349;138.833656096911
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18376@eventor.orienteering.asn.au
