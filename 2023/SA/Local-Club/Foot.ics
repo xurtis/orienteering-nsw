@@ -21,6 +21,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18240
 GEO:-34.8654347305943;138.531434786915
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18467@eventor.orienteering.asn.au
+DTSTAMP:20230117T103654Z
+DTSTART:20230125T143000Z
+DTEND:20230126T143000Z
+SUMMARY:NT: 2023 Australia Day Come and Try, Top End Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18467
+GEO:-12.4450009899947;130.836773172451
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18241@eventor.orienteering.asn.au
 DTSTAMP:20230116T095750Z
 DTSTART:20230126T133000Z
@@ -46,8 +55,16 @@ SUMMARY:Snap Sprint Series Race 2, SA Arrows
 URL:https://eventor.orienteering.asn.au/Events/Show/18173
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18457@eventor.orienteering.asn.au
+DTSTAMP:20230117T115013Z
+DTSTART:20230214T133000Z
+DTEND:20230215T133000Z
+SUMMARY:Midweek Training Season Ticket, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18457
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18454@eventor.orienteering.asn.au
-DTSTAMP:20230116T055650Z
+DTSTAMP:20230117T115313Z
 DTSTART:20230215T000000Z
 DTEND:20230215T023000Z
 SUMMARY:Midweek Training Athelstone, Orienteering SA
@@ -149,6 +166,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18408
 GEO:-35.5574044762028;138.610624539349
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18459@eventor.orienteering.asn.au
+DTSTAMP:20230117T052147Z
+DTSTART:20230517T010000Z
+DTEND:20230517T033000Z
+SUMMARY:Midweek Training at Belair, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18459
+GEO:-35.0103794435464;138.636292868727
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18177@eventor.orienteering.asn.au
 DTSTAMP:20221104T040904Z
 DTSTART:20230521T003000Z
@@ -183,6 +209,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18375
 GEO:-31.5705267674661;138.660328236696
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18460@eventor.orienteering.asn.au
+DTSTAMP:20230117T054238Z
+DTSTART:20230621T010000Z
+DTEND:20230621T033000Z
+SUMMARY:Midweek Training at Kuitpo, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18460
+GEO:-35.2148065582618;138.700460140054
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17025@eventor.orienteering.asn.au
 DTSTAMP:20221104T041146Z
 DTSTART:20230624T090000Z
@@ -201,6 +236,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17026
 GEO:-34.683836607132;138.966374521357
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18461@eventor.orienteering.asn.au
+DTSTAMP:20230117T055413Z
+DTSTART:20230712T010000Z
+DTEND:20230712T033000Z
+SUMMARY:Midweek Training at Mt Crawford, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18461
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18314@eventor.orienteering.asn.au
 DTSTAMP:20221205T112434Z
 DTSTART:20230813T003000Z
@@ -208,6 +251,15 @@ DTEND:20230813T033000Z
 SUMMARY:Shepherds Hill - including MTBO, Tjuringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18314
 GEO:-35.014976966548;138.584375741474
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18462@eventor.orienteering.asn.au
+DTSTAMP:20230117T060404Z
+DTSTART:20230816T010000Z
+DTEND:20230816T033000Z
+SUMMARY:Midweek Training at Para Wirra, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18462
+GEO:-34.6881659005812;138.830729572038
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18377@eventor.orienteering.asn.au
@@ -244,6 +296,23 @@ SUMMARY:SA Middle Distance Championships - Crooked Straight, Yalanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17820
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18463@eventor.orienteering.asn.au
+DTSTAMP:20230117T061416Z
+DTSTART:20230913T010000Z
+DTEND:20230913T033000Z
+SUMMARY:Midweek Training at Simmonds Hill, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18463
+GEO:-34.8066993741179;138.84117162503
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18464@eventor.orienteering.asn.au
+DTSTAMP:20230117T062132Z
+DTSTART:20231018T000000Z
+DTEND:20231018T023000Z
+SUMMARY:Midweek Training at Kuitpo, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18464
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18315@eventor.orienteering.asn.au
 DTSTAMP:20221205T111831Z
 DTSTART:20231028T233000Z
@@ -251,5 +320,22 @@ DTEND:20231029T023000Z
 SUMMARY:West Parklands, Tjuringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18315
 GEO:-34.9268068167547;138.585697486905
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18465@eventor.orienteering.asn.au
+DTSTAMP:20230117T062634Z
+DTSTART:20231115T000000Z
+DTEND:20231115T023000Z
+SUMMARY:Midweek Training at Mt Crawford, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18465
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18466@eventor.orienteering.asn.au
+DTSTAMP:20230117T063300Z
+DTSTART:20231213T000000Z
+DTEND:20231213T023000Z
+SUMMARY:Midweek Training at Mt Lofty, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18466
+GEO:-34.986122206675;138.719624837724
 END:VEVENT
 END:VCALENDAR
