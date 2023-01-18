@@ -352,7 +352,7 @@ GEO:-37.9148773748206;145.051772755159
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16765@eventor.orienteering.asn.au
-DTSTAMP:20230104T000129Z
+DTSTAMP:20230117T225606Z
 DTSTART:20230117T073000Z
 DTEND:20230117T073000Z
 SUMMARY:Night Nav - Oxford Park BCC, Enoggeroos
@@ -370,7 +370,7 @@ GEO:-37.7270464045158;144.931734636847
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17786@eventor.orienteering.asn.au
-DTSTAMP:20230112T024706Z
+DTSTAMP:20230118T120247Z
 DTSTART:20230118T053000Z
 DTEND:20230118T053000Z
 SUMMARY:2022/23 Sydney Summer Series #16 Rushcutters Bay, Illawarra Kareelah Orienteers
@@ -379,7 +379,7 @@ GEO:-33.8739840070667;151.228740744377
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17849@eventor.orienteering.asn.au
-DTSTAMP:20230117T095119Z
+DTSTAMP:20230118T105645Z
 DTSTART:20230118T060000Z
 DTEND:20230118T083000Z
 SUMMARY:Newcastle Summer Street Series - #13 Warabrook, Newcastle Orienteering Club
@@ -1077,11 +1077,12 @@ GEO:-27.50598560629;152.938565938887
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16953@eventor.orienteering.asn.au
-DTSTAMP:20220429T052112Z
+DTSTAMP:20230118T115258Z
 DTSTART:20230211T053000Z
-DTEND:20230211T053000Z
+DTEND:20230211T070000Z
 SUMMARY:Park O #4 - Dumbarton Drive Park, Kenmore - BCC, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/16953
+GEO:-27.5114713967507;152.9272705585
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18004@eventor.orienteering.asn.au
@@ -1269,14 +1270,6 @@ SUMMARY:Saturday Orienteering Series 3D 3, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/18424
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_16954@eventor.orienteering.asn.au
-DTSTAMP:20220429T052155Z
-DTSTART:20230217T140000Z
-DTEND:20230218T140000Z
-SUMMARY:Park-O #5 - Mt Coot-tha Botanic Gardens, Toowong - BCC, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/16954
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18370@eventor.orienteering.asn.au
 DTSTAMP:20230112T051556Z
 DTSTART:20230217T213000Z
@@ -1302,6 +1295,15 @@ DTEND:20230219T060000Z
 SUMMARY:ACT MTBO Training Weekend, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18108
 GEO:-35.2551182427839;149.110836008904
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_16954@eventor.orienteering.asn.au
+DTSTAMP:20230118T110242Z
+DTSTART:20230218T053000Z
+DTEND:20230218T070000Z
+SUMMARY:Park-O #5 - Mt Coot-tha Botanic Gardens, Toowong - BCC, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/16954
+GEO:-27.4752265693778;152.976542385425
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18334@eventor.orienteering.asn.au
@@ -1716,6 +1718,14 @@ SUMMARY:Melbourne Park Street Wednesday Summer Series - Blackburn Creeklands, Ya
 URL:https://eventor.orienteering.asn.au/Events/Show/18294
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18468@eventor.orienteering.asn.au
+DTSTAMP:20230118T050259Z
+DTSTART:20230308T230000Z
+DTEND:20230308T230000Z
+SUMMARY:Darling Downs School Trials, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18468
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18279@eventor.orienteering.asn.au
 DTSTAMP:20221129T062438Z
 DTSTART:20230309T073000Z
@@ -2081,12 +2091,12 @@ GEO:-27.6237840526382;153.093814396407
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18382@eventor.orienteering.asn.au
-DTSTAMP:20230106T102653Z
+DTSTAMP:20230117T223629Z
 DTSTART:20230401T013000Z
 DTEND:20230401T030000Z
 SUMMARY:Bendigo Bush 1 - Stumpy Gully, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18382
-GEO:-36.7590206652943;144.279464241988
+GEO:-36.7667822464798;144.204905796794
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17936@eventor.orienteering.asn.au
@@ -3038,12 +3048,28 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18315
 GEO:-34.9268068167547;138.585697486905
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18469@eventor.orienteering.asn.au
+DTSTAMP:20230118T114556Z
+DTSTART:20231104T053000Z
+DTEND:20231104T053000Z
+SUMMARY:Park-O #1, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18469
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17609@eventor.orienteering.asn.au
 DTSTAMP:20220615T003316Z
 DTSTART:20231107T073000Z
 DTEND:20231107T073000Z
 SUMMARY:Night Nav - EN TBC, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/17609
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18472@eventor.orienteering.asn.au
+DTSTAMP:20230118T115324Z
+DTSTART:20231111T053000Z
+DTEND:20231111T053000Z
+SUMMARY:Cyclones Sprint #1, QLD Cyclones
+URL:https://eventor.orienteering.asn.au/Events/Show/18472
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18434@eventor.orienteering.asn.au
@@ -3088,6 +3114,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18435
 GEO:-37.7643114658902;145.305021997336
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18470@eventor.orienteering.asn.au
+DTSTAMP:20230118T114916Z
+DTSTART:20231118T053000Z
+DTEND:20231118T053000Z
+SUMMARY:Park-O #2, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18470
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18406@eventor.orienteering.asn.au
 DTSTAMP:20230106T123138Z
 DTSTART:20231118T070000Z
@@ -3113,6 +3147,14 @@ SUMMARY:Night Nav - EN TBC, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/17611
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18473@eventor.orienteering.asn.au
+DTSTAMP:20230118T115434Z
+DTSTART:20231125T053000Z
+DTEND:20231125T053000Z
+SUMMARY:Cyclones Sprint #2, QLD Cyclones
+URL:https://eventor.orienteering.asn.au/Events/Show/18473
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17612@eventor.orienteering.asn.au
 DTSTAMP:20221023T050401Z
 DTSTART:20231128T073000Z
@@ -3122,6 +3164,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17612
 GEO:-27.4100476705996;152.923478931987
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18471@eventor.orienteering.asn.au
+DTSTAMP:20230118T114844Z
+DTSTART:20231202T053000Z
+DTEND:20231202T053000Z
+SUMMARY:Park-O #3, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18471
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17613@eventor.orienteering.asn.au
 DTSTAMP:20230110T231515Z
 DTSTART:20231205T073000Z
@@ -3129,6 +3179,14 @@ DTEND:20231205T073000Z
 SUMMARY:Night Nav - Stafford Heights, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/17613
 GEO:-27.3940643926795;153.006218385662
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18474@eventor.orienteering.asn.au
+DTSTAMP:20230118T115534Z
+DTSTART:20231209T053000Z
+DTEND:20231209T053000Z
+SUMMARY:Cyclones Sprint #3, QLD Cyclones
+URL:https://eventor.orienteering.asn.au/Events/Show/18474
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18413@eventor.orienteering.asn.au
