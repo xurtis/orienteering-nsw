@@ -199,7 +199,7 @@ GEO:-42.8678045913353;147.32486405054
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17786@eventor.orienteering.asn.au
-DTSTAMP:20230118T120247Z
+DTSTAMP:20230119T050601Z
 DTSTART:20230118T053000Z
 DTEND:20230118T053000Z
 SUMMARY:2022/23 Sydney Summer Series #16 Rushcutters Bay, Illawarra Kareelah Orienteers
@@ -249,7 +249,7 @@ DTSTART:20230121T220000Z
 DTEND:20230121T233000Z
 SUMMARY:ACT Summer Short Course Series #5, Haig Park, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18055
-GEO:-35.2673081705255;149.123006106205
+GEO:-35.2676019646977;149.122204300952
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17750@eventor.orienteering.asn.au
@@ -288,7 +288,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17850
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18358@eventor.orienteering.asn.au
-DTSTAMP:20230106T060332Z
+DTSTAMP:20230118T213807Z
 DTSTART:20230127T220000Z
 DTEND:20230128T003000Z
 SUMMARY:SHOO's Summer Saturdays #3 - Spring Farm Riverside Park, Southern Highlands Orienteers
@@ -311,6 +311,7 @@ DTSTART:20230128T220000Z
 DTEND:20230128T233000Z
 SUMMARY:ACT Summer Short Course Series #6, Telopea Park, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18050
+GEO:-35.313144680938;149.138490382488
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18049@eventor.orienteering.asn.au
@@ -521,10 +522,10 @@ GEO:-34.0280523113147;150.739106788855
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18306@eventor.orienteering.asn.au
-DTSTAMP:20230117T014347Z
+DTSTAMP:20230119T004452Z
 DTSTART:20230218T220000Z
 DTEND:20230218T233000Z
-SUMMARY:ACT Sprint Series #3, Daramalan College, Orienteering ACT
+SUMMARY:ACT Sprint Series #3, Canberra Girls Grammar Senior School, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18306
 END:VEVENT
 BEGIN:VEVENT
@@ -723,10 +724,10 @@ GEO:-34.5315385113091;150.258052873398
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18308@eventor.orienteering.asn.au
-DTSTAMP:20230117T014351Z
+DTSTAMP:20230119T004505Z
 DTSTART:20230325T220000Z
 DTEND:20230325T233000Z
-SUMMARY:ACT Sprint Series #5, Canberra Girls Grammar Senior School, Orienteering ACT
+SUMMARY:ACT Sprint Series #5, Daramalan College, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18308
 END:VEVENT
 BEGIN:VEVENT
@@ -814,11 +815,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17897
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18018@eventor.orienteering.asn.au
-DTSTAMP:20230109T101028Z
+DTSTAMP:20230119T121509Z
 DTSTART:20230430T140000Z
 DTEND:20230501T140000Z
 SUMMARY:OY5 - Qld Middle Distance Championships - Cabbage Tree Mountain (Maryborough), Orienteering Queensland / Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18018
+GEO:-25.579409;152.400829
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17857@eventor.orienteering.asn.au
@@ -875,6 +877,14 @@ DTSTART:20230520T140000Z
 DTEND:20230521T140000Z
 SUMMARY:2023 NSW State League #6 - Long Distance, Big Foot Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17756
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18022@eventor.orienteering.asn.au
+DTSTAMP:20230119T013852Z
+DTSTART:20230520T140000Z
+DTEND:20230521T140000Z
+SUMMARY:OY6 - Clear Mountain, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/18022
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17860@eventor.orienteering.asn.au
@@ -953,10 +963,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17862
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18020@eventor.orienteering.asn.au
-DTSTAMP:20221012T042734Z
+DTSTAMP:20230119T013931Z
 DTSTART:20230617T140000Z
 DTEND:20230618T140000Z
-SUMMARY:OY6 - Woodlands (location tbc) - bush, Range Runners Orienteering Club
+SUMMARY:OY7 - Woodlands (location tbc) - bush, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18020
 END:VEVENT
 BEGIN:VEVENT
@@ -993,10 +1003,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17809
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18021@eventor.orienteering.asn.au
-DTSTAMP:20221012T044523Z
+DTSTAMP:20230119T013812Z
 DTSTART:20230715T140000Z
 DTEND:20230716T140000Z
-SUMMARY:OY7 - location tba (bush), Enoggeroos
+SUMMARY:OY8 - location tba (bush), Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/18021
 END:VEVENT
 BEGIN:VEVENT
@@ -1083,14 +1093,6 @@ SUMMARY:2023 Sydney North Schools Orienteering Championships, Bold Horizons Even
 URL:https://eventor.orienteering.asn.au/Events/Show/18182
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18022@eventor.orienteering.asn.au
-DTSTAMP:20221012T044911Z
-DTSTART:20230811T140000Z
-DTEND:20230812T140000Z
-SUMMARY:OY8 - McEuen Forest, Wondai, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/18022
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_17868@eventor.orienteering.asn.au
 DTSTAMP:20220906T014200Z
 DTSTART:20230812T003000Z
@@ -1100,10 +1102,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17868
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18023@eventor.orienteering.asn.au
-DTSTAMP:20221012T045049Z
+DTSTAMP:20230119T012829Z
 DTSTART:20230812T140000Z
 DTEND:20230813T140000Z
-SUMMARY:OY9 - Reedy Creek, Kingaroy, Ugly Gully Orienteers
+SUMMARY:OY9 - Sheepstation Creek (Wivenhoe) - location TBC, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18023
 END:VEVENT
 BEGIN:VEVENT

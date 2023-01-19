@@ -139,12 +139,30 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18373
 GEO:-35.0738274757432;138.594981000879
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18489@eventor.orienteering.asn.au
+DTSTAMP:20230119T063030Z
+DTSTART:20230318T233000Z
+DTEND:20230319T033000Z
+SUMMARY:Wetlands-Tower Hill, Saltbush Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18489
+GEO:-33.0388192972662;137.562380923218
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18176@eventor.orienteering.asn.au
 DTSTAMP:20221104T040747Z
 DTSTART:20230325T233000Z
 DTEND:20230326T023000Z
 SUMMARY:Belair National Park, Wallaringa Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18176
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18490@eventor.orienteering.asn.au
+DTSTAMP:20230119T063342Z
+DTSTART:20230402T003000Z
+DTEND:20230402T043000Z
+SUMMARY:Gowrie-Lacey, Saltbush Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18490
+GEO:-33.0270183817113;137.564784182495
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18456@eventor.orienteering.asn.au
@@ -172,6 +190,15 @@ DTEND:20230430T020000Z
 SUMMARY:Victor Harbor Foot and MTBO, Yalanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18408
 GEO:-35.5574044762028;138.610624539349
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18491@eventor.orienteering.asn.au
+DTSTAMP:20230119T063922Z
+DTSTART:20230430T003000Z
+DTEND:20230430T043000Z
+SUMMARY:False Bay, Saltbush Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18491
+GEO:-32.9432872993413;137.747517718262
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18459@eventor.orienteering.asn.au

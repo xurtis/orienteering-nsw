@@ -76,9 +76,9 @@ GEO:-27.3980613263906;152.966136126194
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18302@eventor.orienteering.asn.au
-DTSTAMP:20221203T030410Z
+DTSTAMP:20230119T121036Z
 DTSTART:20230119T073000Z
-DTEND:20230119T093000Z
+DTEND:20230119T073000Z
 SUMMARY:Night Nav - Southside - Moorooka, Toohey Forest Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18302
 GEO:-27.5321081938423;153.031580906467
@@ -187,6 +187,15 @@ DTEND:20230211T070000Z
 SUMMARY:Park O #4 - Dumbarton Drive Park, Kenmore - BCC, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/16953
 GEO:-27.5114713967507;152.9272705585
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18483@eventor.orienteering.asn.au
+DTSTAMP:20230119T014238Z
+DTSTART:20230211T230000Z
+DTEND:20230212T030000Z
+SUMMARY:Mackay MapRun Demo, 21Degrees South Multisport Assoc.
+URL:https://eventor.orienteering.asn.au/Events/Show/18483
+GEO:-21.1446790394685;149.182241155502
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18419@eventor.orienteering.asn.au
@@ -350,7 +359,7 @@ DTSTART:20230330T003000Z
 DTEND:20230330T010000Z
 SUMMARY:Teralba Park, Everton Park. Park & Street. (BCC Sponsored) (MAPRUN EVENT), Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/17959
-GEO:-27.4021768075863;152.981322347144
+GEO:-27.4024362193824;152.981437628859
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18017@eventor.orienteering.asn.au
@@ -407,11 +416,12 @@ GEO:-25.579409;152.400829
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18018@eventor.orienteering.asn.au
-DTSTAMP:20230109T101028Z
+DTSTAMP:20230119T121509Z
 DTSTART:20230430T140000Z
 DTEND:20230501T140000Z
 SUMMARY:OY5 - Qld Middle Distance Championships - Cabbage Tree Mountain (Maryborough), Orienteering Queensland / Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18018
+GEO:-25.579409;152.400829
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17960@eventor.orienteering.asn.au
@@ -454,6 +464,14 @@ DTSTART:20230520T040000Z
 DTEND:20230520T040000Z
 SUMMARY:EODS - Ross Road Park BCC, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/16772
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18022@eventor.orienteering.asn.au
+DTSTAMP:20230119T013852Z
+DTSTART:20230520T140000Z
+DTEND:20230521T140000Z
+SUMMARY:OY6 - Clear Mountain, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/18022
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18187@eventor.orienteering.asn.au
@@ -540,10 +558,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/16776
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18020@eventor.orienteering.asn.au
-DTSTAMP:20221012T042734Z
+DTSTAMP:20230119T013931Z
 DTSTART:20230617T140000Z
 DTEND:20230618T140000Z
-SUMMARY:OY6 - Woodlands (location tbc) - bush, Range Runners Orienteering Club
+SUMMARY:OY7 - Woodlands (location tbc) - bush, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18020
 END:VEVENT
 BEGIN:VEVENT
@@ -565,10 +583,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17809
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18021@eventor.orienteering.asn.au
-DTSTAMP:20221012T044523Z
+DTSTAMP:20230119T013812Z
 DTSTART:20230715T140000Z
 DTEND:20230716T140000Z
-SUMMARY:OY7 - location tba (bush), Enoggeroos
+SUMMARY:OY8 - location tba (bush), Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/18021
 END:VEVENT
 BEGIN:VEVENT
@@ -616,19 +634,11 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18325
 GEO:-26.490154;150.079749
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18022@eventor.orienteering.asn.au
-DTSTAMP:20221012T044911Z
-DTSTART:20230811T140000Z
-DTEND:20230812T140000Z
-SUMMARY:OY8 - McEuen Forest, Wondai, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/18022
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18023@eventor.orienteering.asn.au
-DTSTAMP:20221012T045049Z
+DTSTAMP:20230119T012829Z
 DTSTART:20230812T140000Z
 DTEND:20230813T140000Z
-SUMMARY:OY9 - Reedy Creek, Kingaroy, Ugly Gully Orienteers
+SUMMARY:OY9 - Sheepstation Creek (Wivenhoe) - location TBC, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18023
 END:VEVENT
 BEGIN:VEVENT

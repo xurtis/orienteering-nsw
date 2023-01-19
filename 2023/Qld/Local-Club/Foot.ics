@@ -76,9 +76,9 @@ GEO:-27.3980613263906;152.966136126194
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18302@eventor.orienteering.asn.au
-DTSTAMP:20221203T030410Z
+DTSTAMP:20230119T121036Z
 DTSTART:20230119T073000Z
-DTEND:20230119T093000Z
+DTEND:20230119T073000Z
 SUMMARY:Night Nav - Southside - Moorooka, Toohey Forest Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18302
 GEO:-27.5321081938423;153.031580906467
@@ -187,6 +187,15 @@ DTEND:20230211T070000Z
 SUMMARY:Park O #4 - Dumbarton Drive Park, Kenmore - BCC, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/16953
 GEO:-27.5114713967507;152.9272705585
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18483@eventor.orienteering.asn.au
+DTSTAMP:20230119T014238Z
+DTSTART:20230211T230000Z
+DTEND:20230212T030000Z
+SUMMARY:Mackay MapRun Demo, 21Degrees South Multisport Assoc.
+URL:https://eventor.orienteering.asn.au/Events/Show/18483
+GEO:-21.1446790394685;149.182241155502
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18419@eventor.orienteering.asn.au
@@ -333,7 +342,7 @@ DTSTART:20230330T003000Z
 DTEND:20230330T010000Z
 SUMMARY:Teralba Park, Everton Park. Park & Street. (BCC Sponsored) (MAPRUN EVENT), Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/17959
-GEO:-27.4021768075863;152.981322347144
+GEO:-27.4024362193824;152.981437628859
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17313@eventor.orienteering.asn.au

@@ -344,11 +344,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17754
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18018@eventor.orienteering.asn.au
-DTSTAMP:20230109T101028Z
+DTSTAMP:20230119T121509Z
 DTSTART:20230430T140000Z
 DTEND:20230501T140000Z
 SUMMARY:OY5 - Qld Middle Distance Championships - Cabbage Tree Mountain (Maryborough), Orienteering Queensland / Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18018
+GEO:-25.579409;152.400829
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18318@eventor.orienteering.asn.au
@@ -409,6 +410,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18344
 GEO:-37.900132737781;145.578162641161
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18022@eventor.orienteering.asn.au
+DTSTAMP:20230119T013852Z
+DTSTART:20230520T140000Z
+DTEND:20230521T140000Z
+SUMMARY:OY6 - Clear Mountain, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/18022
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18320@eventor.orienteering.asn.au
 DTSTAMP:20230112T042232Z
 DTSTART:20230527T140000Z
@@ -461,10 +470,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17819
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18020@eventor.orienteering.asn.au
-DTSTAMP:20221012T042734Z
+DTSTAMP:20230119T013931Z
 DTSTART:20230617T140000Z
 DTEND:20230618T140000Z
-SUMMARY:OY6 - Woodlands (location tbc) - bush, Range Runners Orienteering Club
+SUMMARY:OY7 - Woodlands (location tbc) - bush, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18020
 END:VEVENT
 BEGIN:VEVENT
@@ -485,10 +494,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17809
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18021@eventor.orienteering.asn.au
-DTSTAMP:20221012T044523Z
+DTSTAMP:20230119T013812Z
 DTSTART:20230715T140000Z
 DTEND:20230716T140000Z
-SUMMARY:OY7 - location tba (bush), Enoggeroos
+SUMMARY:OY8 - location tba (bush), Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/18021
 END:VEVENT
 BEGIN:VEVENT
@@ -543,14 +552,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18429
 GEO:-37.3677215844851;144.147955088438
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18022@eventor.orienteering.asn.au
-DTSTAMP:20221012T044911Z
-DTSTART:20230811T140000Z
-DTEND:20230812T140000Z
-SUMMARY:OY8 - McEuen Forest, Wondai, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/18022
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_17912@eventor.orienteering.asn.au
 DTSTAMP:20220912T031125Z
 DTSTART:20230812T140000Z
@@ -560,10 +561,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17912
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18023@eventor.orienteering.asn.au
-DTSTAMP:20221012T045049Z
+DTSTAMP:20230119T012829Z
 DTSTART:20230812T140000Z
 DTEND:20230813T140000Z
-SUMMARY:OY9 - Reedy Creek, Kingaroy, Ugly Gully Orienteers
+SUMMARY:OY9 - Sheepstation Creek (Wivenhoe) - location TBC, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18023
 END:VEVENT
 BEGIN:VEVENT

@@ -254,7 +254,7 @@ GEO:-37.7270464045158;144.931734636847
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17786@eventor.orienteering.asn.au
-DTSTAMP:20230118T120247Z
+DTSTAMP:20230119T050601Z
 DTSTART:20230118T053000Z
 DTEND:20230118T053000Z
 SUMMARY:2022/23 Sydney Summer Series #16 Rushcutters Bay, Illawarra Kareelah Orienteers
@@ -280,6 +280,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18229
 GEO:-37.787933882641;145.150816170773
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18302@eventor.orienteering.asn.au
+DTSTAMP:20230119T121036Z
+DTSTART:20230119T073000Z
+DTEND:20230119T073000Z
+SUMMARY:Night Nav - Southside - Moorooka, Toohey Forest Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18302
+GEO:-27.5321081938423;153.031580906467
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18233@eventor.orienteering.asn.au
 DTSTAMP:20230103T222650Z
 DTSTART:20230119T073000Z
@@ -287,15 +296,6 @@ DTEND:20230119T091500Z
 SUMMARY:Melbourne Park Street Thursday Summer Series - Banyule/Viewbank, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18233
 GEO:-37.7361567577496;145.08536039577
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18302@eventor.orienteering.asn.au
-DTSTAMP:20221203T030410Z
-DTSTART:20230119T073000Z
-DTEND:20230119T093000Z
-SUMMARY:Night Nav - Southside - Moorooka, Toohey Forest Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18302
-GEO:-27.5321081938423;153.031580906467
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18198@eventor.orienteering.asn.au
@@ -477,7 +477,7 @@ GEO:-34.9317632278785;138.617295988095
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18358@eventor.orienteering.asn.au
-DTSTAMP:20230106T060332Z
+DTSTAMP:20230118T213807Z
 DTSTART:20230127T220000Z
 DTEND:20230128T003000Z
 SUMMARY:SHOO's Summer Saturdays #3 - Spring Farm Riverside Park, Southern Highlands Orienteers
@@ -789,6 +789,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18338
 GEO:-34.3917521482134;150.892535926316
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18483@eventor.orienteering.asn.au
+DTSTAMP:20230119T014238Z
+DTSTART:20230211T230000Z
+DTEND:20230212T030000Z
+SUMMARY:Mackay MapRun Demo, 21Degrees South Multisport Assoc.
+URL:https://eventor.orienteering.asn.au/Events/Show/18483
+GEO:-21.1446790394685;149.182241155502
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18419@eventor.orienteering.asn.au
 DTSTAMP:20230107T052227Z
 DTSTART:20230212T050000Z
@@ -798,7 +807,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18419
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18450@eventor.orienteering.asn.au
-DTSTAMP:20230114T005848Z
+DTSTAMP:20230119T002548Z
 DTSTART:20230212T073000Z
 DTEND:20230212T093000Z
 SUMMARY:Big Swamp Bunbury (SWOT Urban Series 2), South-West Orienteering Trekkers
@@ -935,11 +944,12 @@ GEO:-34.4244999743076;150.861384521324
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18451@eventor.orienteering.asn.au
-DTSTAMP:20230114T010627Z
+DTSTAMP:20230119T002747Z
 DTSTART:20230219T073000Z
 DTEND:20230219T093000Z
 SUMMARY:Galway Green (SWOT Urban Series 3), South-West Orienteering Trekkers
 URL:https://eventor.orienteering.asn.au/Events/Show/18451
+GEO:-33.2604133691211;115.730799071886
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18255@eventor.orienteering.asn.au
@@ -1259,6 +1269,15 @@ SUMMARY:Mornington Peninsula Sunday MapRun - Koonya, Bayside Kangaroos Orienteer
 URL:https://eventor.orienteering.asn.au/Events/Show/18281
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18489@eventor.orienteering.asn.au
+DTSTAMP:20230119T063030Z
+DTSTART:20230318T233000Z
+DTEND:20230319T033000Z
+SUMMARY:Wetlands-Tower Hill, Saltbush Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18489
+GEO:-33.0388192972662;137.562380923218
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18259@eventor.orienteering.asn.au
 DTSTAMP:20221129T003623Z
 DTSTART:20230320T060000Z
@@ -1349,6 +1368,15 @@ DTSTART:20230329T073000Z
 DTEND:20230329T091500Z
 SUMMARY:Melbourne Park Street Wednesday Summer Series - Tunstall Junction; Awards Night, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18297
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18490@eventor.orienteering.asn.au
+DTSTAMP:20230119T063342Z
+DTSTART:20230402T003000Z
+DTEND:20230402T043000Z
+SUMMARY:Gowrie-Lacey, Saltbush Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18490
+GEO:-33.0270183817113;137.564784182495
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18376@eventor.orienteering.asn.au
