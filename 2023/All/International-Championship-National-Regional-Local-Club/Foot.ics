@@ -632,10 +632,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18181
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18475@eventor.orienteering.asn.au
-DTSTAMP:20230118T214409Z
+DTSTAMP:20230120T060827Z
 DTSTART:20230202T130000Z
 DTEND:20230203T130000Z
-SUMMARY:Hobart O-Fest, Australopers
+SUMMARY:Hobart O-Fest - Sprint - Hobart Region (TBA), Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18475
 END:VEVENT
 BEGIN:VEVENT
@@ -648,19 +648,11 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18172
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18476@eventor.orienteering.asn.au
-DTSTAMP:20230118T214539Z
+DTSTAMP:20230120T060150Z
 DTSTART:20230203T130000Z
 DTEND:20230204T130000Z
-SUMMARY:Hobart O-Fest, Australopers
+SUMMARY:Hobart O-Fest - Gravity O - Waterworks Reserve, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18476
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18477@eventor.orienteering.asn.au
-DTSTAMP:20230118T214739Z
-DTSTART:20230203T130000Z
-DTEND:20230204T130000Z
-SUMMARY:Hobart O-Fest, Australopers
-URL:https://eventor.orienteering.asn.au/Events/Show/18477
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18422@eventor.orienteering.asn.au
@@ -1259,14 +1251,6 @@ SUMMARY:SA Sprint Championships - Reynella, Tjuringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17818
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18012@eventor.orienteering.asn.au
-DTSTAMP:20221127T050719Z
-DTSTART:20230304T140000Z
-DTEND:20230305T140000Z
-SUMMARY:OY1 Cyclones Sprint, QLD Cyclones
-URL:https://eventor.orienteering.asn.au/Events/Show/18012
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18087@eventor.orienteering.asn.au
 DTSTAMP:20221120T082234Z
 DTSTART:20230304T220000Z
@@ -1282,6 +1266,14 @@ DTSTART:20230304T220000Z
 DTEND:20230304T233000Z
 SUMMARY:ACT Sprint Series #4, St Jude’s and Montessori Schools, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18307
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18012@eventor.orienteering.asn.au
+DTSTAMP:20230120T015822Z
+DTSTART:20230304T230000Z
+DTEND:20230305T010000Z
+SUMMARY:OY1 Cyclones Sprint - QUT Kelvin Grove, QLD Cyclones
+URL:https://eventor.orienteering.asn.au/Events/Show/18012
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16946@eventor.orienteering.asn.au
@@ -1450,6 +1442,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18353
 GEO:-27.5184205253548;152.985718137149
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18492@eventor.orienteering.asn.au
+DTSTAMP:20230119T215532Z
+DTSTART:20230314T130000Z
+DTEND:20230315T130000Z
+SUMMARY:Bellerive + Fort - Southern Autumn Schools/Twilight Series #5, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/18492
+GEO:-42.8804800057833;147.367144158479
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18455@eventor.orienteering.asn.au
 DTSTAMP:20230116T073049Z
 DTSTART:20230315T000000Z
@@ -1587,6 +1588,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18354
 GEO:-27.4869444011934;153.016634683232
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18493@eventor.orienteering.asn.au
+DTSTAMP:20230119T215814Z
+DTSTART:20230321T130000Z
+DTEND:20230322T130000Z
+SUMMARY:Waterworks - Southern Autumn Schools/Twilight Series #6, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/18493
+GEO:-42.9069147983181;147.29570084773
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17797@eventor.orienteering.asn.au
 DTSTAMP:20220816T073443Z
 DTSTART:20230322T053000Z
@@ -1637,6 +1647,15 @@ DTEND:20230326T130000Z
 SUMMARY:2023 NSW State League #2 - Middle Distance, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17752
 GEO:-34.5315385113091;150.258052873398
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18494@eventor.orienteering.asn.au
+DTSTAMP:20230119T220127Z
+DTSTART:20230325T130000Z
+DTEND:20230326T130000Z
+SUMMARY:Mt Nelson - Southern School Champs + Southern Local #2	, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/18494
+GEO:-42.918960884208;147.315014918362
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18192@eventor.orienteering.asn.au
@@ -1715,6 +1734,15 @@ DTEND:20230401T030000Z
 SUMMARY:Bendigo Bush 1 - Stumpy Gully, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18382
 GEO:-36.7667822464798;144.204905796794
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18495@eventor.orienteering.asn.au
+DTSTAMP:20230119T221509Z
+DTSTART:20230401T130000Z
+DTEND:20230402T140000Z
+SUMMARY:Stags Head - Tas Schools Champs (Schools Selection Event 1)	, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/18495
+GEO:-42.306267;147.152249
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18246@eventor.orienteering.asn.au

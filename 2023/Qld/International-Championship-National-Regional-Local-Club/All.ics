@@ -275,14 +275,6 @@ SUMMARY:(Back-up date for Foot-MTBO Duo tbc), Multi Terrain Bike Orienteers / Ug
 URL:https://eventor.orienteering.asn.au/Events/Show/18011
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18012@eventor.orienteering.asn.au
-DTSTAMP:20221127T050719Z
-DTSTART:20230304T140000Z
-DTEND:20230305T140000Z
-SUMMARY:OY1 Cyclones Sprint, QLD Cyclones
-URL:https://eventor.orienteering.asn.au/Events/Show/18012
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_17906@eventor.orienteering.asn.au
 DTSTAMP:20230116T003809Z
 DTSTART:20230304T140000Z
@@ -290,6 +282,14 @@ DTEND:20230305T140000Z
 SUMMARY:Samford MTBO, Multi Terrain Bike Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17906
 GEO:-27.357148107476;152.882792781498
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18012@eventor.orienteering.asn.au
+DTSTAMP:20230120T015822Z
+DTSTART:20230304T230000Z
+DTEND:20230305T010000Z
+SUMMARY:OY1 Cyclones Sprint - QUT Kelvin Grove, QLD Cyclones
+URL:https://eventor.orienteering.asn.au/Events/Show/18012
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16946@eventor.orienteering.asn.au

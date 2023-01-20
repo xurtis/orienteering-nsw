@@ -500,10 +500,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18181
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18475@eventor.orienteering.asn.au
-DTSTAMP:20230118T214409Z
+DTSTAMP:20230120T060827Z
 DTSTART:20230202T130000Z
 DTEND:20230203T130000Z
-SUMMARY:Hobart O-Fest, Australopers
+SUMMARY:Hobart O-Fest - Sprint - Hobart Region (TBA), Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18475
 END:VEVENT
 BEGIN:VEVENT
@@ -516,19 +516,11 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18172
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18476@eventor.orienteering.asn.au
-DTSTAMP:20230118T214539Z
+DTSTAMP:20230120T060150Z
 DTSTART:20230203T130000Z
 DTEND:20230204T130000Z
-SUMMARY:Hobart O-Fest, Australopers
+SUMMARY:Hobart O-Fest - Gravity O - Waterworks Reserve, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18476
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18477@eventor.orienteering.asn.au
-DTSTAMP:20230118T214739Z
-DTSTART:20230203T130000Z
-DTEND:20230204T130000Z
-SUMMARY:Hobart O-Fest, Australopers
-URL:https://eventor.orienteering.asn.au/Events/Show/18477
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18422@eventor.orienteering.asn.au
@@ -1240,6 +1232,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18353
 GEO:-27.5184205253548;152.985718137149
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18492@eventor.orienteering.asn.au
+DTSTAMP:20230119T215532Z
+DTSTART:20230314T130000Z
+DTEND:20230315T130000Z
+SUMMARY:Bellerive + Fort - Southern Autumn Schools/Twilight Series #5, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/18492
+GEO:-42.8804800057833;147.367144158479
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18455@eventor.orienteering.asn.au
 DTSTAMP:20230116T073049Z
 DTSTART:20230315T000000Z
@@ -1360,6 +1361,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18354
 GEO:-27.4869444011934;153.016634683232
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18493@eventor.orienteering.asn.au
+DTSTAMP:20230119T215814Z
+DTSTART:20230321T130000Z
+DTEND:20230322T130000Z
+SUMMARY:Waterworks - Southern Autumn Schools/Twilight Series #6, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/18493
+GEO:-42.9069147983181;147.29570084773
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17797@eventor.orienteering.asn.au
 DTSTAMP:20220816T073443Z
 DTSTART:20230322T053000Z
@@ -1393,6 +1403,15 @@ DTEND:20230325T030000Z
 SUMMARY:Come and Try It: 2 Ironstone Hill, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18372
 GEO:-36.7083690507829;144.285672572536
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18494@eventor.orienteering.asn.au
+DTSTAMP:20230119T220127Z
+DTSTART:20230325T130000Z
+DTEND:20230326T130000Z
+SUMMARY:Mt Nelson - Southern School Champs + Southern Local #2	, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/18494
+GEO:-42.918960884208;147.315014918362
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18192@eventor.orienteering.asn.au
