@@ -99,12 +99,28 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17380
 GEO:-42.8678045913353;147.32486405054
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_17961@eventor.orienteering.asn.au
-DTSTAMP:20221031T025655Z
+UID:Event_18518@eventor.orienteering.asn.au
+DTSTAMP:20230122T004212Z
 DTSTART:20230310T130000Z
+DTEND:20230311T130000Z
+SUMMARY:St Helens - East Coast 3 Days - Day 1, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/18518
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18519@eventor.orienteering.asn.au
+DTSTAMP:20230122T004212Z
+DTSTART:20230311T130000Z
+DTEND:20230312T130000Z
+SUMMARY:St Helens - Transit Flats - East Coast 3 Days - Day 2 - Long - OST 1, Australopers / Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/18519
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18520@eventor.orienteering.asn.au
+DTSTAMP:20230122T004212Z
+DTSTART:20230312T130000Z
 DTEND:20230313T130000Z
-SUMMARY:East Coast 3 Day, Esk Valley
-URL:https://eventor.orienteering.asn.au/Events/Show/17961
+SUMMARY:St Helens - Golden Fleece - East Coast 3 Days - Day 3 - Middle - OST 2, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/18520
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18495@eventor.orienteering.asn.au
@@ -114,5 +130,13 @@ DTEND:20230402T140000Z
 SUMMARY:Stags Head - Tas Schools Champs (Schools Selection Event 1)	, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18495
 GEO:-42.306267;147.152249
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18528@eventor.orienteering.asn.au
+DTSTAMP:20230122T013408Z
+DTSTART:20230422T140000Z
+DTEND:20230423T140000Z
+SUMMARY:Central Plateau - Clarence River Marshes - OST 3, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/18528
 END:VEVENT
 END:VCALENDAR

@@ -102,15 +102,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18250
 GEO:-35.4268052208185;149.232474763055
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_17786@eventor.orienteering.asn.au
-DTSTAMP:20230119T050601Z
-DTSTART:20230118T053000Z
-DTEND:20230118T053000Z
-SUMMARY:2022/23 Sydney Summer Series #16 Rushcutters Bay, Illawarra Kareelah Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/17786
-GEO:-33.8739840070667;151.228740744377
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_17849@eventor.orienteering.asn.au
 DTSTAMP:20230118T105645Z
 DTSTART:20230118T060000Z
@@ -130,7 +121,7 @@ GEO:-34.0510258918903;150.761345359541
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17946@eventor.orienteering.asn.au
-DTSTAMP:20230101T061858Z
+DTSTAMP:20230122T000521Z
 DTSTART:20230121T220000Z
 DTEND:20230121T220000Z
 SUMMARY:Central Coast Summer Series 8 - Killarney Vale, Central Coast Orienteers
@@ -139,7 +130,7 @@ GEO:-33.3586026695577;151.44977578717
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17750@eventor.orienteering.asn.au
-DTSTAMP:20230121T074817Z
+DTSTAMP:20230122T010807Z
 DTSTART:20230121T223000Z
 DTEND:20230122T010000Z
 SUMMARY:West Sydney Orienteering Series #6, Western and Hills Orienteers
@@ -148,7 +139,7 @@ GEO:-33.8556552152248;151.018958655154
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17815@eventor.orienteering.asn.au
-DTSTAMP:20230113T071719Z
+DTSTAMP:20230122T024710Z
 DTSTART:20230122T000000Z
 DTEND:20230122T020000Z
 SUMMARY:Port Macquarie Summer 2022-23 Orienteering - Town Beach Score Course, Hastings Orienteering Group
@@ -183,7 +174,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17850
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18358@eventor.orienteering.asn.au
-DTSTAMP:20230118T213807Z
+DTSTAMP:20230122T034101Z
 DTSTART:20230127T220000Z
 DTEND:20230128T003000Z
 SUMMARY:SHOO's Summer Saturdays #3 - Spring Farm Riverside Park, Southern Highlands Orienteers
@@ -244,6 +235,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17948
 GEO:-33.4039009781674;151.467852346364
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18337@eventor.orienteering.asn.au
+DTSTAMP:20230122T033237Z
+DTSTART:20230204T230000Z
+DTEND:20230205T010000Z
+SUMMARY:Illawarra Map Running #1 - Wollongong, Illawarra Kareelah Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18337
+GEO:-34.4245813905303;150.904467830248
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18204@eventor.orienteering.asn.au
 DTSTAMP:20221120T071219Z
 DTSTART:20230205T040000Z
@@ -298,6 +298,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17949
 GEO:-33.4403143950231;151.385312466608
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18338@eventor.orienteering.asn.au
+DTSTAMP:20230122T033407Z
+DTSTART:20230211T230000Z
+DTEND:20230212T010000Z
+SUMMARY:Illawarra Map Running #2 - Fairymeadow, Illawarra Kareelah Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18338
+GEO:-34.3917521482134;150.892535926316
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18254@eventor.orienteering.asn.au
 DTSTAMP:20221205T014400Z
 DTSTART:20230213T060000Z
@@ -325,12 +334,21 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17853
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18361@eventor.orienteering.asn.au
-DTSTAMP:20230112T055447Z
+DTSTAMP:20230122T034408Z
 DTSTART:20230217T220000Z
 DTEND:20230218T003000Z
-SUMMARY:SHOO's Summer Saturdays #6 - Harrington Park, Southern Highlands Orienteers
+SUMMARY:SHOO's Summer Saturdays #6 - Fairfax Reserve, Harrington Park, Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18361
 GEO:-34.0280523113147;150.739106788855
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18339@eventor.orienteering.asn.au
+DTSTAMP:20230122T033509Z
+DTSTART:20230218T230000Z
+DTEND:20230219T010000Z
+SUMMARY:Illawarra Map Running #3 - Figtree, Illawarra Kareelah Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18339
+GEO:-34.4244999743076;150.861384521324
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18255@eventor.orienteering.asn.au

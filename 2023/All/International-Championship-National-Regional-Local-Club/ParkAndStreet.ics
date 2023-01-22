@@ -254,7 +254,7 @@ GEO:-37.7270464045158;144.931734636847
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17786@eventor.orienteering.asn.au
-DTSTAMP:20230119T050601Z
+DTSTAMP:20230122T034058Z
 DTSTART:20230118T053000Z
 DTEND:20230118T053000Z
 SUMMARY:2022/23 Sydney Summer Series #16 Rushcutters Bay, Illawarra Kareelah Orienteers
@@ -344,7 +344,7 @@ GEO:-38.2590023427025;144.539185869546
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17946@eventor.orienteering.asn.au
-DTSTAMP:20230101T061858Z
+DTSTAMP:20230122T000521Z
 DTSTART:20230121T220000Z
 DTEND:20230121T220000Z
 SUMMARY:Central Coast Summer Series 8 - Killarney Vale, Central Coast Orienteers
@@ -362,7 +362,7 @@ GEO:-35.1054508195533;147.375040109141
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17750@eventor.orienteering.asn.au
-DTSTAMP:20230121T074817Z
+DTSTAMP:20230122T010807Z
 DTSTART:20230121T223000Z
 DTEND:20230122T010000Z
 SUMMARY:West Sydney Orienteering Series #6, Western and Hills Orienteers
@@ -380,7 +380,7 @@ GEO:-38.26705111953;145.014529943036
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17815@eventor.orienteering.asn.au
-DTSTAMP:20230113T071719Z
+DTSTAMP:20230122T024710Z
 DTSTART:20230122T000000Z
 DTEND:20230122T020000Z
 SUMMARY:Port Macquarie Summer 2022-23 Orienteering - Town Beach Score Course, Hastings Orienteering Group
@@ -389,7 +389,7 @@ GEO:-31.4282530392017;152.916977947946
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18368@eventor.orienteering.asn.au
-DTSTAMP:20230101T063604Z
+DTSTAMP:20230122T034413Z
 DTSTART:20230122T003000Z
 DTEND:20230122T023000Z
 SUMMARY:Albany - SRT & NASHS, Albany & Denmark Hinterland Orienteering Club
@@ -477,7 +477,7 @@ GEO:-34.9317632278785;138.617295988095
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18358@eventor.orienteering.asn.au
-DTSTAMP:20230118T213807Z
+DTSTAMP:20230122T034101Z
 DTSTART:20230127T220000Z
 DTEND:20230128T003000Z
 SUMMARY:SHOO's Summer Saturdays #3 - Spring Farm Riverside Park, Southern Highlands Orienteers
@@ -513,10 +513,10 @@ GEO:-33.4738859190344;151.354956411893
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18420@eventor.orienteering.asn.au
-DTSTAMP:20230107T052542Z
+DTSTAMP:20230122T020030Z
 DTSTART:20230129T050000Z
 DTEND:20230129T050000Z
-SUMMARY:Queens Park, Toowoomba, Range Runners Orienteering Club
+SUMMARY:Queens Park, Toowoomba, MapRun, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18420
 END:VEVENT
 BEGIN:VEVENT
@@ -607,7 +607,7 @@ GEO:-34.1616873352386;150.611543007937
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18003@eventor.orienteering.asn.au
-DTSTAMP:20230115T094605Z
+DTSTAMP:20230122T031647Z
 DTSTART:20230204T090000Z
 DTEND:20230204T101500Z
 SUMMARY:MetrO 10 - Manning, Kulgun 225 Orienteers / Orienteering WA
@@ -634,7 +634,7 @@ GEO:-35.0716299099544;147.357177998927
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18337@eventor.orienteering.asn.au
-DTSTAMP:20230113T054046Z
+DTSTAMP:20230122T033237Z
 DTSTART:20230204T230000Z
 DTEND:20230205T010000Z
 SUMMARY:Illawarra Map Running #1 - Wollongong, Illawarra Kareelah Orienteers
@@ -781,7 +781,7 @@ GEO:-33.4403143950231;151.385312466608
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18338@eventor.orienteering.asn.au
-DTSTAMP:20230113T080905Z
+DTSTAMP:20230122T033407Z
 DTSTART:20230211T230000Z
 DTEND:20230212T010000Z
 SUMMARY:Illawarra Map Running #2 - Fairymeadow, Illawarra Kareelah Orienteers
@@ -899,10 +899,10 @@ GEO:-29.6930934817449;152.932194649683
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18361@eventor.orienteering.asn.au
-DTSTAMP:20230112T055447Z
+DTSTAMP:20230122T034408Z
 DTSTART:20230217T220000Z
 DTEND:20230218T003000Z
-SUMMARY:SHOO's Summer Saturdays #6 - Harrington Park, Southern Highlands Orienteers
+SUMMARY:SHOO's Summer Saturdays #6 - Fairfax Reserve, Harrington Park, Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18361
 GEO:-34.0280523113147;150.739106788855
 END:VEVENT
@@ -935,7 +935,7 @@ GEO:-35.1596537599068;147.343473493614
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18339@eventor.orienteering.asn.au
-DTSTAMP:20230113T054222Z
+DTSTAMP:20230122T033509Z
 DTSTART:20230218T230000Z
 DTEND:20230219T010000Z
 SUMMARY:Illawarra Map Running #3 - Figtree, Illawarra Kareelah Orienteers
@@ -1116,6 +1116,15 @@ DTEND:20230304T220000Z
 SUMMARY:Waggaroos Local event, Rawlings Park, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18087
 GEO:-35.1702865686855;147.387713195108
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18529@eventor.orienteering.asn.au
+DTSTAMP:20230122T091906Z
+DTSTART:20230305T033000Z
+DTEND:20230305T033000Z
+SUMMARY:Albany - Bethel School, Albany & Denmark Hinterland Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18529
+GEO:-35.0057887262552;117.881726530661
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18257@eventor.orienteering.asn.au
@@ -1301,6 +1310,14 @@ DTEND:20230319T033000Z
 SUMMARY:Wetlands-Tower Hill, Saltbush Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18489
 GEO:-33.0388192972662;137.562380923218
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18530@eventor.orienteering.asn.au
+DTSTAMP:20230122T093725Z
+DTSTART:20230319T010000Z
+DTEND:20230319T010000Z
+SUMMARY:Albany - Mt Barker College, Albany & Denmark Hinterland Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18530
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18259@eventor.orienteering.asn.au
@@ -1597,6 +1614,47 @@ SUMMARY:Night Nav - location tbc - World Orienteering Day, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18179
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18532@eventor.orienteering.asn.au
+DTSTAMP:20230122T100145Z
+DTSTART:20230709T003000Z
+DTEND:20230709T003000Z
+SUMMARY:Albany - Goode Beach, Albany & Denmark Hinterland Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18532
+GEO:-35.0876098157693;117.939590113591
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18533@eventor.orienteering.asn.au
+DTSTAMP:20230122T095102Z
+DTSTART:20230903T003000Z
+DTEND:20230903T003000Z
+SUMMARY:Albany - ASHS & Mt Clarence, Albany & Denmark Hinterland Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18533
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18537@eventor.orienteering.asn.au
+DTSTAMP:20230122T100446Z
+DTSTART:20231014T053000Z
+DTEND:20231014T053000Z
+SUMMARY:Albany - Historic Forts, Albany & Denmark Hinterland Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18537
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18538@eventor.orienteering.asn.au
+DTSTAMP:20230122T100700Z
+DTSTART:20231015T010000Z
+DTEND:20231015T010000Z
+SUMMARY:Albany - Denmark SHS, Albany & Denmark Hinterland Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18538
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18534@eventor.orienteering.asn.au
+DTSTAMP:20230122T095401Z
+DTSTART:20231029T003000Z
+DTEND:20231029T003000Z
+SUMMARY:Albany - Great Southern Grammar, Albany & Denmark Hinterland Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18534
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18469@eventor.orienteering.asn.au
 DTSTAMP:20230118T114556Z
 DTSTART:20231104T053000Z
@@ -1605,12 +1663,28 @@ SUMMARY:Park-O #1, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18469
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18535@eventor.orienteering.asn.au
+DTSTAMP:20230122T095715Z
+DTSTART:20231112T003000Z
+DTEND:20231112T003000Z
+SUMMARY:Albany - Town Centre, Albany & Denmark Hinterland Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18535
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18470@eventor.orienteering.asn.au
 DTSTAMP:20230118T114916Z
 DTSTART:20231118T053000Z
 DTEND:20231118T053000Z
 SUMMARY:Park-O #2, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18470
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18536@eventor.orienteering.asn.au
+DTSTAMP:20230122T100014Z
+DTSTART:20231126T003000Z
+DTEND:20231126T003000Z
+SUMMARY:Albany - St Josephs, Albany & Denmark Hinterland Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18536
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18471@eventor.orienteering.asn.au

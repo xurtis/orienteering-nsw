@@ -31,7 +31,7 @@ GEO:-35.0533246094523;117.912984587043
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18368@eventor.orienteering.asn.au
-DTSTAMP:20230101T063604Z
+DTSTAMP:20230122T034413Z
 DTSTART:20230122T003000Z
 DTEND:20230122T023000Z
 SUMMARY:Albany - SRT & NASHS, Albany & Denmark Hinterland Orienteering Club
@@ -49,7 +49,7 @@ GEO:-31.8254146723965;115.778601781062
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18003@eventor.orienteering.asn.au
-DTSTAMP:20230115T094605Z
+DTSTAMP:20230122T031647Z
 DTSTART:20230204T090000Z
 DTEND:20230204T101500Z
 SUMMARY:MetrO 10 - Manning, Kulgun 225 Orienteers / Orienteering WA
@@ -100,11 +100,85 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18451
 GEO:-33.2604133691211;115.730799071886
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18529@eventor.orienteering.asn.au
+DTSTAMP:20230122T091906Z
+DTSTART:20230305T033000Z
+DTEND:20230305T033000Z
+SUMMARY:Albany - Bethel School, Albany & Denmark Hinterland Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18529
+GEO:-35.0057887262552;117.881726530661
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18452@eventor.orienteering.asn.au
 DTSTAMP:20230114T012114Z
 DTSTART:20230312T073000Z
 DTEND:20230312T093000Z
 SUMMARY:Dalyellup Score (SWOT Urban Series 4), South-West Orienteering Trekkers
 URL:https://eventor.orienteering.asn.au/Events/Show/18452
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18530@eventor.orienteering.asn.au
+DTSTAMP:20230122T093725Z
+DTSTART:20230319T010000Z
+DTEND:20230319T010000Z
+SUMMARY:Albany - Mt Barker College, Albany & Denmark Hinterland Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18530
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18532@eventor.orienteering.asn.au
+DTSTAMP:20230122T100145Z
+DTSTART:20230709T003000Z
+DTEND:20230709T003000Z
+SUMMARY:Albany - Goode Beach, Albany & Denmark Hinterland Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18532
+GEO:-35.0876098157693;117.939590113591
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18533@eventor.orienteering.asn.au
+DTSTAMP:20230122T095102Z
+DTSTART:20230903T003000Z
+DTEND:20230903T003000Z
+SUMMARY:Albany - ASHS & Mt Clarence, Albany & Denmark Hinterland Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18533
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18537@eventor.orienteering.asn.au
+DTSTAMP:20230122T100446Z
+DTSTART:20231014T053000Z
+DTEND:20231014T053000Z
+SUMMARY:Albany - Historic Forts, Albany & Denmark Hinterland Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18537
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18538@eventor.orienteering.asn.au
+DTSTAMP:20230122T100700Z
+DTSTART:20231015T010000Z
+DTEND:20231015T010000Z
+SUMMARY:Albany - Denmark SHS, Albany & Denmark Hinterland Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18538
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18534@eventor.orienteering.asn.au
+DTSTAMP:20230122T095401Z
+DTSTART:20231029T003000Z
+DTEND:20231029T003000Z
+SUMMARY:Albany - Great Southern Grammar, Albany & Denmark Hinterland Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18534
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18535@eventor.orienteering.asn.au
+DTSTAMP:20230122T095715Z
+DTSTART:20231112T003000Z
+DTEND:20231112T003000Z
+SUMMARY:Albany - Town Centre, Albany & Denmark Hinterland Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18535
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18536@eventor.orienteering.asn.au
+DTSTAMP:20230122T100014Z
+DTSTART:20231126T003000Z
+DTEND:20231126T003000Z
+SUMMARY:Albany - St Josephs, Albany & Denmark Hinterland Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18536
 END:VEVENT
 END:VCALENDAR

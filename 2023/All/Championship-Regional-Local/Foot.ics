@@ -198,15 +198,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17380
 GEO:-42.8678045913353;147.32486405054
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_17786@eventor.orienteering.asn.au
-DTSTAMP:20230119T050601Z
-DTSTART:20230118T053000Z
-DTEND:20230118T053000Z
-SUMMARY:2022/23 Sydney Summer Series #16 Rushcutters Bay, Illawarra Kareelah Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/17786
-GEO:-33.8739840070667;151.228740744377
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_17849@eventor.orienteering.asn.au
 DTSTAMP:20230118T105645Z
 DTSTART:20230118T060000Z
@@ -235,7 +226,7 @@ GEO:-34.0510258918903;150.761345359541
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17946@eventor.orienteering.asn.au
-DTSTAMP:20230101T061858Z
+DTSTAMP:20230122T000521Z
 DTSTART:20230121T220000Z
 DTEND:20230121T220000Z
 SUMMARY:Central Coast Summer Series 8 - Killarney Vale, Central Coast Orienteers
@@ -244,7 +235,7 @@ GEO:-33.3586026695577;151.44977578717
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18055@eventor.orienteering.asn.au
-DTSTAMP:20230110T220521Z
+DTSTAMP:20230121T232706Z
 DTSTART:20230121T220000Z
 DTEND:20230121T233000Z
 SUMMARY:ACT Summer Short Course Series #5, Haig Park, Orienteering ACT
@@ -253,7 +244,7 @@ GEO:-35.2676019646977;149.122204300952
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17750@eventor.orienteering.asn.au
-DTSTAMP:20230121T074817Z
+DTSTAMP:20230122T010807Z
 DTSTART:20230121T223000Z
 DTEND:20230122T010000Z
 SUMMARY:West Sydney Orienteering Series #6, Western and Hills Orienteers
@@ -262,7 +253,7 @@ GEO:-33.8556552152248;151.018958655154
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17815@eventor.orienteering.asn.au
-DTSTAMP:20230113T071719Z
+DTSTAMP:20230122T024710Z
 DTSTART:20230122T000000Z
 DTEND:20230122T020000Z
 SUMMARY:Port Macquarie Summer 2022-23 Orienteering - Town Beach Score Course, Hastings Orienteering Group
@@ -288,7 +279,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17850
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18358@eventor.orienteering.asn.au
-DTSTAMP:20230118T213807Z
+DTSTAMP:20230122T034101Z
 DTSTART:20230127T220000Z
 DTEND:20230128T003000Z
 SUMMARY:SHOO's Summer Saturdays #3 - Spring Farm Riverside Park, Southern Highlands Orienteers
@@ -390,6 +381,15 @@ SUMMARY:ACT Sprint Series #1, Amaroo Primary, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18304
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18337@eventor.orienteering.asn.au
+DTSTAMP:20230122T033237Z
+DTSTART:20230204T230000Z
+DTEND:20230205T010000Z
+SUMMARY:Illawarra Map Running #1 - Wollongong, Illawarra Kareelah Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18337
+GEO:-34.4245813905303;150.904467830248
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18204@eventor.orienteering.asn.au
 DTSTAMP:20221120T071219Z
 DTSTART:20230205T040000Z
@@ -469,6 +469,15 @@ SUMMARY:ACT Sprint Series #2, CIT Bruce, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18305
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18338@eventor.orienteering.asn.au
+DTSTAMP:20230122T033407Z
+DTSTART:20230211T230000Z
+DTEND:20230212T010000Z
+SUMMARY:Illawarra Map Running #2 - Fairymeadow, Illawarra Kareelah Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18338
+GEO:-34.3917521482134;150.892535926316
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17792@eventor.orienteering.asn.au
 DTSTAMP:20230103T051305Z
 DTSTART:20230215T053000Z
@@ -513,10 +522,10 @@ GEO:-37.7822922573462;144.963485160643
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18361@eventor.orienteering.asn.au
-DTSTAMP:20230112T055447Z
+DTSTAMP:20230122T034408Z
 DTSTART:20230217T220000Z
 DTEND:20230218T003000Z
-SUMMARY:SHOO's Summer Saturdays #6 - Harrington Park, Southern Highlands Orienteers
+SUMMARY:SHOO's Summer Saturdays #6 - Fairfax Reserve, Harrington Park, Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18361
 GEO:-34.0280523113147;150.739106788855
 END:VEVENT
@@ -527,6 +536,15 @@ DTSTART:20230218T220000Z
 DTEND:20230218T233000Z
 SUMMARY:ACT Sprint Series #3, Canberra Girls Grammar Senior School, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18306
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18339@eventor.orienteering.asn.au
+DTSTAMP:20230122T033509Z
+DTSTART:20230218T230000Z
+DTEND:20230219T010000Z
+SUMMARY:Illawarra Map Running #3 - Figtree, Illawarra Kareelah Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18339
+GEO:-34.4244999743076;150.861384521324
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17793@eventor.orienteering.asn.au
@@ -647,12 +665,28 @@ SUMMARY:ACT Runners Shop Twilight Series #14: Black Mountain Peninsula, Abominab
 URL:https://eventor.orienteering.asn.au/Events/Show/17742
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_17961@eventor.orienteering.asn.au
-DTSTAMP:20221031T025655Z
+UID:Event_18518@eventor.orienteering.asn.au
+DTSTAMP:20230122T004212Z
 DTSTART:20230310T130000Z
+DTEND:20230311T130000Z
+SUMMARY:St Helens - East Coast 3 Days - Day 1, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/18518
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18519@eventor.orienteering.asn.au
+DTSTAMP:20230122T004212Z
+DTSTART:20230311T130000Z
+DTEND:20230312T130000Z
+SUMMARY:St Helens - Transit Flats - East Coast 3 Days - Day 2 - Long - OST 1, Australopers / Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/18519
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18520@eventor.orienteering.asn.au
+DTSTAMP:20230122T004212Z
+DTSTART:20230312T130000Z
 DTEND:20230313T130000Z
-SUMMARY:East Coast 3 Day, Esk Valley
-URL:https://eventor.orienteering.asn.au/Events/Show/17961
+SUMMARY:St Helens - Golden Fleece - East Coast 3 Days - Day 3 - Middle - OST 2, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/18520
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17796@eventor.orienteering.asn.au
@@ -780,6 +814,14 @@ DTSTART:20230401T230100Z
 DTEND:20230401T230200Z
 SUMMARY:ACT Sprint Series Season Pass, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18310
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18528@eventor.orienteering.asn.au
+DTSTAMP:20230122T013408Z
+DTSTART:20230422T140000Z
+DTEND:20230423T140000Z
+SUMMARY:Central Plateau - Clarence River Marshes - OST 3, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/18528
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17753@eventor.orienteering.asn.au
