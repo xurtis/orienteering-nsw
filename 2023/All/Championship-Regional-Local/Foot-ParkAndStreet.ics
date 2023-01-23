@@ -217,7 +217,7 @@ GEO:-42.8678045913353;147.32486405054
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17849@eventor.orienteering.asn.au
-DTSTAMP:20230118T105645Z
+DTSTAMP:20230122T233656Z
 DTSTART:20230118T060000Z
 DTEND:20230118T083000Z
 SUMMARY:Newcastle Summer Street Series - #13 Warabrook, Newcastle Orienteering Club
@@ -298,11 +298,12 @@ GEO:-33.8425553084635;151.171598854689
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17850@eventor.orienteering.asn.au
-DTSTAMP:20230117T025758Z
+DTSTAMP:20230122T225245Z
 DTSTART:20230125T060000Z
 DTEND:20230125T083000Z
 SUMMARY:Newcastle Summer Street Series - #14 Dudley, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/17850
+GEO:-32.9898543878279;151.719639061995
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18358@eventor.orienteering.asn.au
@@ -383,21 +384,22 @@ SUMMARY:ACT TrakOTack, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18181
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18422@eventor.orienteering.asn.au
-DTSTAMP:20230109T002844Z
-DTSTART:20230203T130000Z
-DTEND:20230204T130000Z
-SUMMARY:Saturday Orienteering Series 3D 1, Bold Horizons Event Organiser
-URL:https://eventor.orienteering.asn.au/Events/Show/18422
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18359@eventor.orienteering.asn.au
-DTSTAMP:20230112T052405Z
+DTSTAMP:20230123T022844Z
 DTSTART:20230203T220000Z
 DTEND:20230204T003000Z
 SUMMARY:SHOO's Summer Saturdays #4 - Picton Botanic Gardens, Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18359
 GEO:-34.1616873352386;150.611543007937
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18422@eventor.orienteering.asn.au
+DTSTAMP:20230123T022920Z
+DTSTART:20230203T223000Z
+DTEND:20230203T223000Z
+SUMMARY:Saturday Orienteering Series 3D 1, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/18422
+GEO:-33.7218990971866;151.101244467234
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17948@eventor.orienteering.asn.au
@@ -445,12 +447,12 @@ GEO:-35.3207395564067;149.091449578814
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16209@eventor.orienteering.asn.au
-DTSTAMP:20221013T073430Z
+DTSTAMP:20230123T102559Z
 DTSTART:20230208T053000Z
 DTEND:20230208T083000Z
 SUMMARY:2022/23 Sydney Summer Series #19 Camperdown, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/16209
-GEO:-33.8951590255937;151.178503810377
+GEO:-33.894680921866;151.178046196257
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17738@eventor.orienteering.asn.au
@@ -585,10 +587,10 @@ GEO:-34.0280523113147;150.739106788855
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18306@eventor.orienteering.asn.au
-DTSTAMP:20230119T004452Z
+DTSTAMP:20230122T235223Z
 DTSTART:20230218T220000Z
 DTEND:20230218T233000Z
-SUMMARY:ACT Sprint Series #3, Canberra Girls Grammar Senior School, Orienteering ACT
+SUMMARY:ACT Sprint Series #3, tba, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18306
 END:VEVENT
 BEGIN:VEVENT
@@ -711,11 +713,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18307
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18012@eventor.orienteering.asn.au
-DTSTAMP:20230120T015822Z
+DTSTAMP:20230123T062639Z
 DTSTART:20230304T230000Z
 DTEND:20230305T010000Z
 SUMMARY:OY1 Cyclones Sprint - QUT Kelvin Grove, QLD Cyclones
 URL:https://eventor.orienteering.asn.au/Events/Show/18012
+GEO:-27.4497598675082;153.0176064959
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18257@eventor.orienteering.asn.au
@@ -811,10 +814,10 @@ GEO:-28.6028672550282;151.77488364834
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17888@eventor.orienteering.asn.au
-DTSTAMP:20220907T075328Z
+DTSTAMP:20230123T005537Z
 DTSTART:20230318T230000Z
 DTEND:20230319T030000Z
-SUMMARY:ACT Classic Series: ACT League #1, Glendale, Red Roos
+SUMMARY:ACT Classic Series: ACT League #1, Tuggeranong Hill, Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/17888
 END:VEVENT
 BEGIN:VEVENT

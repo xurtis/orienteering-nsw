@@ -112,7 +112,7 @@ GEO:-33.8739840070667;151.228740744377
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17849@eventor.orienteering.asn.au
-DTSTAMP:20230118T105645Z
+DTSTAMP:20230122T233656Z
 DTSTART:20230118T060000Z
 DTEND:20230118T083000Z
 SUMMARY:Newcastle Summer Street Series - #13 Warabrook, Newcastle Orienteering Club
@@ -184,11 +184,12 @@ GEO:-33.8425553084635;151.171598854689
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17850@eventor.orienteering.asn.au
-DTSTAMP:20230117T025758Z
+DTSTAMP:20230122T225245Z
 DTSTART:20230125T060000Z
 DTEND:20230125T083000Z
 SUMMARY:Newcastle Summer Street Series - #14 Dudley, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/17850
+GEO:-32.9898543878279;151.719639061995
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18358@eventor.orienteering.asn.au
@@ -226,21 +227,22 @@ SUMMARY:Newcastle Summer Street Series - #15 Jesmond, Newcastle Orienteering Clu
 URL:https://eventor.orienteering.asn.au/Events/Show/17851
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18422@eventor.orienteering.asn.au
-DTSTAMP:20230109T002844Z
-DTSTART:20230203T130000Z
-DTEND:20230204T130000Z
-SUMMARY:Saturday Orienteering Series 3D 1, Bold Horizons Event Organiser
-URL:https://eventor.orienteering.asn.au/Events/Show/18422
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18359@eventor.orienteering.asn.au
-DTSTAMP:20230112T052405Z
+DTSTAMP:20230123T022844Z
 DTSTART:20230203T220000Z
 DTEND:20230204T003000Z
 SUMMARY:SHOO's Summer Saturdays #4 - Picton Botanic Gardens, Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18359
 GEO:-34.1616873352386;150.611543007937
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18422@eventor.orienteering.asn.au
+DTSTAMP:20230123T022920Z
+DTSTART:20230203T223000Z
+DTEND:20230203T223000Z
+SUMMARY:Saturday Orienteering Series 3D 1, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/18422
+GEO:-33.7218990971866;151.101244467234
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17948@eventor.orienteering.asn.au
@@ -280,12 +282,12 @@ GEO:-31.4557475127046;152.904767117231
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16209@eventor.orienteering.asn.au
-DTSTAMP:20221013T073430Z
+DTSTAMP:20230123T102559Z
 DTSTART:20230208T053000Z
 DTEND:20230208T083000Z
 SUMMARY:2022/23 Sydney Summer Series #19 Camperdown, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/16209
-GEO:-33.8951590255937;151.178503810377
+GEO:-33.894680921866;151.178046196257
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17852@eventor.orienteering.asn.au
