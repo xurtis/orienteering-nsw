@@ -280,7 +280,7 @@ GEO:-31.4282530392017;152.916977947946
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18251@eventor.orienteering.asn.au
-DTSTAMP:20230116T030830Z
+DTSTAMP:20230123T224408Z
 DTSTART:20230123T060000Z
 DTEND:20230123T081500Z
 SUMMARY:ACT MapRun Street Series: Curtin, 19-23 Jan, Orienteering ACT
@@ -964,10 +964,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17856
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17754@eventor.orienteering.asn.au
-DTSTAMP:20220804T074711Z
-DTSTART:20230429T140000Z
-DTEND:20230430T140000Z
-SUMMARY:2023 NSW State League #4 - Long Distance, Southern Highlands Orienteers
+DTSTAMP:20230124T094837Z
+DTSTART:20230429T233000Z
+DTEND:20230430T040000Z
+SUMMARY:2023 NSW State League #4 - Soapy Flat, near Mittagong, Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17754
 END:VEVENT
 BEGIN:VEVENT
@@ -1095,11 +1095,12 @@ GEO:-37.6356379845367;145.101996637863
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17757@eventor.orienteering.asn.au
-DTSTAMP:20220804T081658Z
+DTSTAMP:20230124T032055Z
 DTSTART:20230609T140000Z
 DTEND:20230612T140000Z
 SUMMARY:2023 QB3 and NSW State Leagues #7 to #9, Central Coast Orienteers / Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/17757
+GEO:-33.1665564725522;151.388226117534
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18428@eventor.orienteering.asn.au
@@ -1133,6 +1134,22 @@ DTSTART:20230617T140000Z
 DTEND:20230618T140000Z
 SUMMARY:OY7 - Woodlands (location tbc) - bush, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18020
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18547@eventor.orienteering.asn.au
+DTSTAMP:20230124T053156Z
+DTSTART:20230618T230000Z
+DTEND:20230619T050000Z
+SUMMARY:Closed school event, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/18547
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18548@eventor.orienteering.asn.au
+DTSTAMP:20230124T053049Z
+DTSTART:20230619T230000Z
+DTEND:20230620T050000Z
+SUMMARY:Closed School Event, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/18548
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17863@eventor.orienteering.asn.au
@@ -1278,7 +1295,7 @@ UID:Event_17826@eventor.orienteering.asn.au
 DTSTAMP:20220908T061756Z
 DTSTART:20230818T140000Z
 DTEND:20230819T140000Z
-SUMMARY:ACT Middle Distance Championships: ACT League #8, NSW SL #10, Collector Hill, Parawanga Orienteers
+SUMMARY:ACT Middle Distance Championships: ACT League #8, NSW SL #10, Collector Hill, Orienteering ACT / Orienteering NSW / Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17826
 END:VEVENT
 BEGIN:VEVENT
@@ -1286,7 +1303,7 @@ UID:Event_17827@eventor.orienteering.asn.au
 DTSTAMP:20220908T061801Z
 DTSTART:20230819T140000Z
 DTEND:20230820T140000Z
-SUMMARY:ACT Long Distance Championships: ACT League #9, NSW SL #11, Murdering Shed, Red Roos
+SUMMARY:ACT Long Distance Championships: ACT League #9, NSW SL #11, Murdering Shed, Orienteering ACT / Orienteering NSW / Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/17827
 END:VEVENT
 BEGIN:VEVENT
@@ -1520,12 +1537,28 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18144
 GEO:-31.9869383862952;115.7762335606
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18549@eventor.orienteering.asn.au
+DTSTAMP:20230124T053524Z
+DTSTART:20231017T230000Z
+DTEND:20231018T050000Z
+SUMMARY:Closed School Event, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/18549
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18027@eventor.orienteering.asn.au
 DTSTAMP:20221012T050208Z
 DTSTART:20231021T140000Z
 DTEND:20231022T140000Z
 SUMMARY:Club relays, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18027
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18550@eventor.orienteering.asn.au
+DTSTAMP:20230124T054121Z
+DTSTART:20231031T230000Z
+DTEND:20231101T050000Z
+SUMMARY:Closed School Event, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/18550
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18335@eventor.orienteering.asn.au
