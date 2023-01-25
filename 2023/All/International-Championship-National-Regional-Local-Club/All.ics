@@ -700,7 +700,7 @@ GEO:-37.8962583463827;145.078892568225
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16766@eventor.orienteering.asn.au
-DTSTAMP:20230122T233015Z
+DTSTAMP:20230124T213835Z
 DTSTART:20230124T073000Z
 DTEND:20230124T073000Z
 SUMMARY:Night Nav - Upper Kedron/Ferny Grove New Map, Enoggeroos
@@ -718,7 +718,7 @@ GEO:-37.7907996412358;144.901197212739
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17787@eventor.orienteering.asn.au
-DTSTAMP:20230121T103444Z
+DTSTAMP:20230125T090905Z
 DTSTART:20230125T053000Z
 DTEND:20230125T083000Z
 SUMMARY:2022/23 Sydney Summer Series #17 Woolwich, Garingal Orienteers
@@ -727,7 +727,7 @@ GEO:-33.8425553084635;151.171598854689
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17850@eventor.orienteering.asn.au
-DTSTAMP:20230122T225245Z
+DTSTAMP:20230125T115325Z
 DTSTART:20230125T060000Z
 DTEND:20230125T083000Z
 SUMMARY:Newcastle Summer Street Series - #14 Dudley, Newcastle Orienteering Club
@@ -960,6 +960,15 @@ SUMMARY:Hobart O-Fest - Sprint - Hobart Region (TBA), Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18475
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18560@eventor.orienteering.asn.au
+DTSTAMP:20230125T000237Z
+DTSTART:20230203T070000Z
+DTEND:20230203T070000Z
+SUMMARY:Goldseekers Summer Program, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18560
+GEO:-33.2881609852823;149.087579490286
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18172@eventor.orienteering.asn.au
 DTSTAMP:20230123T011322Z
 DTSTART:20230203T080000Z
@@ -987,10 +996,10 @@ GEO:-34.1616873352386;150.611543007937
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18422@eventor.orienteering.asn.au
-DTSTAMP:20230123T022920Z
+DTSTAMP:20230125T051513Z
 DTSTART:20230203T223000Z
 DTEND:20230203T223000Z
-SUMMARY:Saturday Orienteering Series 3D 1, Bold Horizons Event Organiser
+SUMMARY:Saturday Orienteering Series 3D - Normanhurst, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/18422
 GEO:-33.7218990971866;151.101244467234
 END:VEVENT
@@ -1186,6 +1195,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18089
 GEO:-33.8600827370036;151.18581104917
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18561@eventor.orienteering.asn.au
+DTSTAMP:20230125T000544Z
+DTSTART:20230210T070000Z
+DTEND:20230210T070000Z
+SUMMARY:Goldseekers Summer Program, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18561
+GEO:-33.282897421639;149.090745177991
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18173@eventor.orienteering.asn.au
 DTSTAMP:20230122T112210Z
 DTSTART:20230210T080000Z
@@ -1196,11 +1214,12 @@ GEO:-34.9165898726727;138.603686639085
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18423@eventor.orienteering.asn.au
-DTSTAMP:20230109T003111Z
+DTSTAMP:20230125T051616Z
 DTSTART:20230210T130000Z
 DTEND:20230211T130000Z
-SUMMARY:Saturday Orienteering Series 3D 2, Bold Horizons Event Organiser
+SUMMARY:Saturday Orienteering Series 3D - Frenchs Forest, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/18423
+GEO:-33.743523;151.204432
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18369@eventor.orienteering.asn.au
@@ -1461,6 +1480,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18138
 GEO:-29.6930934817449;152.932194649683
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18562@eventor.orienteering.asn.au
+DTSTAMP:20230125T001243Z
+DTSTART:20230217T070000Z
+DTEND:20230217T070000Z
+SUMMARY:Goldseekers Summer Program, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18562
+GEO:-33.2709179781352;149.078983961616
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18174@eventor.orienteering.asn.au
 DTSTAMP:20230122T060942Z
 DTSTART:20230217T080000Z
@@ -1468,14 +1496,6 @@ DTEND:20230217T080000Z
 SUMMARY:Snap Sprint Series Race 3 - Belair National Park (old golf course), SA Arrows
 URL:https://eventor.orienteering.asn.au/Events/Show/18174
 GEO:-35.0104189837131;138.63617773913
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18424@eventor.orienteering.asn.au
-DTSTAMP:20230109T003324Z
-DTSTART:20230217T130000Z
-DTEND:20230218T130000Z
-SUMMARY:Saturday Orienteering Series 3D 3, Bold Horizons Event Organiser
-URL:https://eventor.orienteering.asn.au/Events/Show/18424
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18370@eventor.orienteering.asn.au
@@ -1503,6 +1523,15 @@ DTEND:20230219T060000Z
 SUMMARY:ACT MTBO Training Weekend, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18108
 GEO:-35.2551182427839;149.110836008904
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18424@eventor.orienteering.asn.au
+DTSTAMP:20230125T052332Z
+DTSTART:20230217T223000Z
+DTEND:20230218T010000Z
+SUMMARY:Saturday Orienteering Series 3D - Pennant Hills, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/18424
+GEO:-33.7406264164356;151.0602492889
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16954@eventor.orienteering.asn.au
@@ -1693,6 +1722,15 @@ SUMMARY:Geelong Park Street Thursday Summer Series - Sailors Rest, Bayside Kanga
 URL:https://eventor.orienteering.asn.au/Events/Show/18285
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18563@eventor.orienteering.asn.au
+DTSTAMP:20230125T001544Z
+DTSTART:20230224T070000Z
+DTEND:20230224T070000Z
+SUMMARY:Goldseekers Summer Program, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18563
+GEO:-33.2610806997682;149.106951603313
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18175@eventor.orienteering.asn.au
 DTSTAMP:20230122T052139Z
 DTSTART:20230224T080000Z
@@ -1702,14 +1740,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18175
 GEO:-34.8755932090116;138.649401515018
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18425@eventor.orienteering.asn.au
-DTSTAMP:20230109T003619Z
-DTSTART:20230224T130000Z
-DTEND:20230225T130000Z
-SUMMARY:Saturday Orienteering Series #D 4, Bold Horizons Event Organiser
-URL:https://eventor.orienteering.asn.au/Events/Show/18425
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18362@eventor.orienteering.asn.au
 DTSTAMP:20230112T055827Z
 DTSTART:20230224T220000Z
@@ -1717,6 +1747,15 @@ DTEND:20230225T003000Z
 SUMMARY:SHOO's Summer Saturdays #7 - Oran Park, Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18362
 GEO:-33.999051092421;150.743087108305
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18425@eventor.orienteering.asn.au
+DTSTAMP:20230125T051856Z
+DTSTART:20230224T223000Z
+DTEND:20230225T010000Z
+SUMMARY:Saturday Orienteering Series 3D - Killara, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/18425
+GEO:-33.7560116619594;151.173965551294
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16955@eventor.orienteering.asn.au
@@ -1734,6 +1773,14 @@ DTEND:20230226T073000Z
 SUMMARY:BendiGo ToDay (Boot Hill), Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18458
 GEO:-36.8829354477779;143.756821249805
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18556@eventor.orienteering.asn.au
+DTSTAMP:20230124T212829Z
+DTSTART:20230225T130000Z
+DTEND:20230226T130000Z
+SUMMARY:Latrobe - NW Local #1, Pathfinders
+URL:https://eventor.orienteering.asn.au/Events/Show/18556
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18480@eventor.orienteering.asn.au
@@ -1880,14 +1927,6 @@ SUMMARY:Geelong Park Street Thursday Summer Series - Swans, Bayside Kangaroos Or
 URL:https://eventor.orienteering.asn.au/Events/Show/18286
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18426@eventor.orienteering.asn.au
-DTSTAMP:20230109T003751Z
-DTSTART:20230303T130000Z
-DTEND:20230304T130000Z
-SUMMARY:Saturday Orienteering Series 3D 5, Bold Horizons Event Organiser
-URL:https://eventor.orienteering.asn.au/Events/Show/18426
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18238@eventor.orienteering.asn.au
 DTSTAMP:20221125T231554Z
 DTSTART:20230303T130000Z
@@ -1902,6 +1941,15 @@ DTSTART:20230303T140000Z
 DTEND:20230304T140000Z
 SUMMARY:(Back-up date for Foot-MTBO Duo tbc), Multi Terrain Bike Orienteers / Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18011
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18426@eventor.orienteering.asn.au
+DTSTAMP:20230125T052119Z
+DTSTART:20230303T223000Z
+DTEND:20230304T010000Z
+SUMMARY:Saturday Orienteering Series 3D - Cherrybrook, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/18426
+GEO:-33.719538;151.037407
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18332@eventor.orienteering.asn.au
@@ -2509,11 +2557,12 @@ GEO:-41.4446610042362;147.092615329631
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17751@eventor.orienteering.asn.au
-DTSTAMP:20220816T035214Z
+DTSTAMP:20230124T201221Z
 DTSTART:20230324T130000Z
 DTEND:20230325T130000Z
 SUMMARY:2023 NSW State League #1 - Sprint (NSW Sprint Championships), Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17751
+GEO:-34.507763927991;150.408861270795
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17808@eventor.orienteering.asn.au
@@ -2534,15 +2583,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18372
 GEO:-36.7083690507829;144.285672572536
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_17752@eventor.orienteering.asn.au
-DTSTAMP:20220812T234909Z
-DTSTART:20230325T130000Z
-DTEND:20230326T130000Z
-SUMMARY:2023 NSW State League #2 - Middle Distance, Uringa Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/17752
-GEO:-34.5315385113091;150.258052873398
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18494@eventor.orienteering.asn.au
 DTSTAMP:20230119T220127Z
 DTSTART:20230325T130000Z
@@ -2561,6 +2601,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18349
 GEO:-37.0553379173649;143.743733480509
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18557@eventor.orienteering.asn.au
+DTSTAMP:20230124T213442Z
+DTSTART:20230325T130000Z
+DTEND:20230326T130000Z
+SUMMARY:Shorewell Park - NW Local #2, Pathfinders
+URL:https://eventor.orienteering.asn.au/Events/Show/18557
+GEO:-41.0613007141333;145.883598126638
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18192@eventor.orienteering.asn.au
 DTSTAMP:20221115T015041Z
 DTSTART:20230325T140000Z
@@ -2576,6 +2625,15 @@ DTSTART:20230325T220000Z
 DTEND:20230325T233000Z
 SUMMARY:ACT Sprint Series #5, Daramalan College, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18308
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17752@eventor.orienteering.asn.au
+DTSTAMP:20230124T200700Z
+DTSTART:20230325T223000Z
+DTEND:20230325T223000Z
+SUMMARY:2023 NSW State League #2 - Middle Distance, Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/17752
+GEO:-34.5311279168138;150.214386193726
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18176@eventor.orienteering.asn.au
@@ -2828,6 +2886,15 @@ DTSTART:20230415T040000Z
 DTEND:20230415T051000Z
 SUMMARY:Melbourne Park Street Saturday Series - Croydon Greens, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18516
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18558@eventor.orienteering.asn.au
+DTSTAMP:20230124T213859Z
+DTSTART:20230415T140000Z
+DTEND:20230416T140000Z
+SUMMARY:Buttons Beach - NW Local #3, Pathfinders
+URL:https://eventor.orienteering.asn.au/Events/Show/18558
+GEO:-41.1519663453949;146.175252683073
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18555@eventor.orienteering.asn.au
@@ -3325,6 +3392,14 @@ DTEND:20230527T040000Z
 SUMMARY:EODS - Wittonga Park The Gap BCC, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/16773
 GEO:-27.4382766351026;152.934598033828
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18559@eventor.orienteering.asn.au
+DTSTAMP:20230124T214222Z
+DTSTART:20230527T140000Z
+DTEND:20230528T140000Z
+SUMMARY:East Devonport - NW Local #4, Pathfinders
+URL:https://eventor.orienteering.asn.au/Events/Show/18559
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18320@eventor.orienteering.asn.au
@@ -3992,11 +4067,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18439
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17758@eventor.orienteering.asn.au
-DTSTAMP:20220804T081625Z
+DTSTAMP:20230124T214115Z
 DTSTART:20230825T140000Z
 DTEND:20230826T140000Z
 SUMMARY:2023 NSW State League #12 - Sprint (NSW Schools Champs), Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17758
+GEO:-33.7869520425252;151.025363896413
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17869@eventor.orienteering.asn.au
@@ -4017,11 +4093,12 @@ GEO:-36.7487294091634;144.301893428594
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17759@eventor.orienteering.asn.au
-DTSTAMP:20220804T081625Z
+DTSTAMP:20230124T220012Z
 DTSTART:20230826T140000Z
 DTEND:20230827T140000Z
 SUMMARY:2023 NSW State League #13 - Middle (NSW Schools Champs), Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17759
+GEO:-33.8194881281495;150.618483178807
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18345@eventor.orienteering.asn.au

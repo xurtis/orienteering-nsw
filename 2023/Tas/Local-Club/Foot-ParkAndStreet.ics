@@ -98,6 +98,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18479
 GEO:-42.8702580530303;147.36810619733
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18556@eventor.orienteering.asn.au
+DTSTAMP:20230124T212829Z
+DTSTART:20230225T130000Z
+DTEND:20230226T130000Z
+SUMMARY:Latrobe - NW Local #1, Pathfinders
+URL:https://eventor.orienteering.asn.au/Events/Show/18556
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18480@eventor.orienteering.asn.au
 DTSTAMP:20230118T220532Z
 DTSTART:20230225T130000Z
@@ -194,5 +202,31 @@ DTEND:20230326T130000Z
 SUMMARY:Mt Nelson - Southern School Champs + Southern Local #2	, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18494
 GEO:-42.918960884208;147.315014918362
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18557@eventor.orienteering.asn.au
+DTSTAMP:20230124T213442Z
+DTSTART:20230325T130000Z
+DTEND:20230326T130000Z
+SUMMARY:Shorewell Park - NW Local #2, Pathfinders
+URL:https://eventor.orienteering.asn.au/Events/Show/18557
+GEO:-41.0613007141333;145.883598126638
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18558@eventor.orienteering.asn.au
+DTSTAMP:20230124T213859Z
+DTSTART:20230415T140000Z
+DTEND:20230416T140000Z
+SUMMARY:Buttons Beach - NW Local #3, Pathfinders
+URL:https://eventor.orienteering.asn.au/Events/Show/18558
+GEO:-41.1519663453949;146.175252683073
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18559@eventor.orienteering.asn.au
+DTSTAMP:20230124T214222Z
+DTSTART:20230527T140000Z
+DTEND:20230528T140000Z
+SUMMARY:East Devonport - NW Local #4, Pathfinders
+URL:https://eventor.orienteering.asn.au/Events/Show/18559
 END:VEVENT
 END:VCALENDAR

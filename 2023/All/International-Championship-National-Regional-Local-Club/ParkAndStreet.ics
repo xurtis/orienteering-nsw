@@ -416,7 +416,7 @@ GEO:-37.8962583463827;145.078892568225
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16766@eventor.orienteering.asn.au
-DTSTAMP:20230122T233015Z
+DTSTAMP:20230124T213835Z
 DTSTART:20230124T073000Z
 DTEND:20230124T073000Z
 SUMMARY:Night Nav - Upper Kedron/Ferny Grove New Map, Enoggeroos
@@ -434,7 +434,7 @@ GEO:-37.7907996412358;144.901197212739
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17787@eventor.orienteering.asn.au
-DTSTAMP:20230121T103444Z
+DTSTAMP:20230125T090905Z
 DTSTART:20230125T053000Z
 DTEND:20230125T083000Z
 SUMMARY:2022/23 Sydney Summer Series #17 Woolwich, Garingal Orienteers
@@ -443,7 +443,7 @@ GEO:-33.8425553084635;151.171598854689
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17850@eventor.orienteering.asn.au
-DTSTAMP:20230122T225245Z
+DTSTAMP:20230125T115325Z
 DTSTART:20230125T060000Z
 DTEND:20230125T083000Z
 SUMMARY:Newcastle Summer Street Series - #14 Dudley, Newcastle Orienteering Club
@@ -599,6 +599,15 @@ SUMMARY:Geelong Park Street Thursday Summer Series - Balyang Sanctuary, Bayside 
 URL:https://eventor.orienteering.asn.au/Events/Show/18282
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18560@eventor.orienteering.asn.au
+DTSTAMP:20230125T000237Z
+DTSTART:20230203T070000Z
+DTEND:20230203T070000Z
+SUMMARY:Goldseekers Summer Program, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18560
+GEO:-33.2881609852823;149.087579490286
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18359@eventor.orienteering.asn.au
 DTSTAMP:20230123T022844Z
 DTSTART:20230203T220000Z
@@ -744,6 +753,15 @@ DTSTART:20230209T080000Z
 DTEND:20230209T091500Z
 SUMMARY:Geelong Park Street Thursday Summer Series - Red Cliffs, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18283
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18561@eventor.orienteering.asn.au
+DTSTAMP:20230125T000544Z
+DTSTART:20230210T070000Z
+DTEND:20230210T070000Z
+SUMMARY:Goldseekers Summer Program, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18561
+GEO:-33.282897421639;149.090745177991
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18360@eventor.orienteering.asn.au
@@ -909,6 +927,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18138
 GEO:-29.6930934817449;152.932194649683
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18562@eventor.orienteering.asn.au
+DTSTAMP:20230125T001243Z
+DTSTART:20230217T070000Z
+DTEND:20230217T070000Z
+SUMMARY:Goldseekers Summer Program, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18562
+GEO:-33.2709179781352;149.078983961616
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18361@eventor.orienteering.asn.au
 DTSTAMP:20230122T034408Z
 DTSTART:20230217T220000Z
@@ -1035,6 +1062,15 @@ DTSTART:20230223T080000Z
 DTEND:20230223T091500Z
 SUMMARY:Geelong Park Street Thursday Summer Series - Sailors Rest, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18285
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18563@eventor.orienteering.asn.au
+DTSTAMP:20230125T001544Z
+DTSTART:20230224T070000Z
+DTEND:20230224T070000Z
+SUMMARY:Goldseekers Summer Program, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18563
+GEO:-33.2610806997682;149.106951603313
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18362@eventor.orienteering.asn.au
