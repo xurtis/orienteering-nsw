@@ -251,6 +251,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18351
 GEO:-27.4990682850369;153.004500085927
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18565@eventor.orienteering.asn.au
+DTSTAMP:20230126T010427Z
+DTSTART:20230222T073000Z
+DTEND:20230222T091500Z
+SUMMARY:MapRun Night Nav- Glenella, 21Degrees South Multisport Assoc.
+URL:https://eventor.orienteering.asn.au/Events/Show/18565
+GEO:-21.1122997419669;149.145747020134
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_16955@eventor.orienteering.asn.au
 DTSTAMP:20221115T022723Z
 DTSTART:20230225T053000Z
@@ -355,6 +364,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18354
 GEO:-27.4869444011934;153.016634683232
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18566@eventor.orienteering.asn.au
+DTSTAMP:20230126T011512Z
+DTSTART:20230322T073000Z
+DTEND:20230322T091500Z
+SUMMARY:MapRun Night Nav Dolphin Heads, 21Degrees South Multisport Assoc.
+URL:https://eventor.orienteering.asn.au/Events/Show/18566
+GEO:-21.0467143179078;149.185668791012
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17808@eventor.orienteering.asn.au
 DTSTAMP:20221012T051302Z
 DTSTART:20230324T140000Z
@@ -424,6 +442,15 @@ DTEND:20230416T030000Z
 SUMMARY:Brooklands, north of Dalveen, Bullecourt Boulder Bounders
 URL:https://eventor.orienteering.asn.au/Events/Show/18555
 GEO:-28.4378726212686;152.026865132112
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18567@eventor.orienteering.asn.au
+DTSTAMP:20230126T012328Z
+DTSTART:20230419T073000Z
+DTEND:20230419T091500Z
+SUMMARY:MapRun Night Nav North Mackay, 21Degrees South Multisport Assoc.
+URL:https://eventor.orienteering.asn.au/Events/Show/18567
+GEO:-21.1224555142976;149.181372906805
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17958@eventor.orienteering.asn.au
@@ -528,6 +555,15 @@ SUMMARY:Night Nav - location tbc - World Orienteering Day, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18179
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18568@eventor.orienteering.asn.au
+DTSTAMP:20230126T014217Z
+DTSTART:20230524T073000Z
+DTEND:20230524T091500Z
+SUMMARY:MapRun Night Nav Botanic Gardens, 21Degrees South Multisport Assoc.
+URL:https://eventor.orienteering.asn.au/Events/Show/18568
+GEO:-21.1529012524425;149.156237384185
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18438@eventor.orienteering.asn.au
 DTSTAMP:20230112T092837Z
 DTSTART:20230525T003000Z
@@ -627,6 +663,15 @@ SUMMARY:Closed School Event, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18548
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18569@eventor.orienteering.asn.au
+DTSTAMP:20230126T014709Z
+DTSTART:20230621T073000Z
+DTEND:20230621T091500Z
+SUMMARY:MapRun Night Nav Mackay Harbour, 21Degrees South Multisport Assoc.
+URL:https://eventor.orienteering.asn.au/Events/Show/18569
+GEO:-21.1187310699104;149.221824968533
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_16777@eventor.orienteering.asn.au
 DTSTAMP:20220708T013938Z
 DTSTART:20230624T040000Z
@@ -650,6 +695,15 @@ DTSTART:20230715T140000Z
 DTEND:20230716T140000Z
 SUMMARY:OY8 - location tba (bush), Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/18021
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18570@eventor.orienteering.asn.au
+DTSTAMP:20230126T015500Z
+DTSTART:20230719T073000Z
+DTEND:20230719T091500Z
+SUMMARY:MapRun Night Nav Oralea, 21Degrees South Multisport Assoc.
+URL:https://eventor.orienteering.asn.au/Events/Show/18570
+GEO:-21.1735710941858;149.149711096959
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17884@eventor.orienteering.asn.au
@@ -712,6 +766,15 @@ SUMMARY:Mt Coot-tha. Bush., Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18439
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18571@eventor.orienteering.asn.au
+DTSTAMP:20230126T020003Z
+DTSTART:20230830T073000Z
+DTEND:20230830T091500Z
+SUMMARY:MapRun Night Nav Andergrove, 21Degrees South Multisport Assoc.
+URL:https://eventor.orienteering.asn.au/Events/Show/18571
+GEO:-21.0864935217468;149.182301485104
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18024@eventor.orienteering.asn.au
 DTSTAMP:20221012T045336Z
 DTSTART:20230902T140000Z
@@ -736,12 +799,30 @@ SUMMARY:OY11 - bush event, Warwick region, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18026
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18572@eventor.orienteering.asn.au
+DTSTAMP:20230126T020455Z
+DTSTART:20230920T073000Z
+DTEND:20230920T091500Z
+SUMMARY:MapRun Night Nav East Mackay, 21Degrees South Multisport Assoc.
+URL:https://eventor.orienteering.asn.au/Events/Show/18572
+GEO:-21.1634159859388;149.197309395902
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18549@eventor.orienteering.asn.au
 DTSTAMP:20230124T053524Z
 DTSTART:20231017T230000Z
 DTEND:20231018T050000Z
 SUMMARY:Closed School Event, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18549
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18573@eventor.orienteering.asn.au
+DTSTAMP:20230126T020912Z
+DTSTART:20231018T073000Z
+DTEND:20231018T091500Z
+SUMMARY:MapRun Night Nav Lamberts Beach, 21Degrees South Multisport Assoc.
+URL:https://eventor.orienteering.asn.au/Events/Show/18573
+GEO:-21.0745298092222;149.227795539657
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18027@eventor.orienteering.asn.au
@@ -800,6 +881,15 @@ SUMMARY:Night Nav - EN TBC, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/17610
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18574@eventor.orienteering.asn.au
+DTSTAMP:20230126T021304Z
+DTSTART:20231115T073000Z
+DTEND:20231115T091500Z
+SUMMARY:MapRun Night Nav Glenella, 21Degrees South Multisport Assoc.
+URL:https://eventor.orienteering.asn.au/Events/Show/18574
+GEO:-21.1123156478759;149.145682419019
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18470@eventor.orienteering.asn.au
 DTSTAMP:20230118T114916Z
 DTSTART:20231118T053000Z
@@ -848,6 +938,15 @@ DTEND:20231205T073000Z
 SUMMARY:Night Nav - Stafford Heights, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/17613
 GEO:-27.3940643926795;153.006218385662
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18575@eventor.orienteering.asn.au
+DTSTAMP:20230126T021810Z
+DTSTART:20231206T073000Z
+DTEND:20231206T091500Z
+SUMMARY:MapRun Night Nav Christmas Lights in the City, 21Degrees South Multisport Assoc.
+URL:https://eventor.orienteering.asn.au/Events/Show/18575
+GEO:-21.139517887245;149.187930858556
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18474@eventor.orienteering.asn.au
