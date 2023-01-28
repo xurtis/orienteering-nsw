@@ -280,7 +280,7 @@ GEO:-32.9898543878279;151.719639061995
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18358@eventor.orienteering.asn.au
-DTSTAMP:20230122T034101Z
+DTSTAMP:20230128T041445Z
 DTSTART:20230127T220000Z
 DTEND:20230128T003000Z
 SUMMARY:SHOO's Summer Saturdays #3 - Spring Farm Riverside Park, Southern Highlands Orienteers
@@ -349,6 +349,14 @@ SUMMARY:ACT TrakOTack, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18181
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18585@eventor.orienteering.asn.au
+DTSTAMP:20230128T063533Z
+DTSTART:20230202T060000Z
+DTEND:20230202T074500Z
+SUMMARY:Beadle Grove, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18585
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18560@eventor.orienteering.asn.au
 DTSTAMP:20230125T000237Z
 DTSTART:20230203T070000Z
@@ -394,7 +402,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18304
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18337@eventor.orienteering.asn.au
-DTSTAMP:20230122T033237Z
+DTSTAMP:20230128T042756Z
 DTSTART:20230204T230000Z
 DTEND:20230205T010000Z
 SUMMARY:Illawarra Map Running #1 - Wollongong, Illawarra Kareelah Orienteers
@@ -412,12 +420,12 @@ GEO:-31.4557475127046;152.904767117231
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16209@eventor.orienteering.asn.au
-DTSTAMP:20230127T074810Z
+DTSTAMP:20230128T060119Z
 DTSTART:20230208T053000Z
 DTEND:20230208T083000Z
 SUMMARY:2022/23 Sydney Summer Series #19 Camperdown, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/16209
-GEO:-33.894680921866;151.178046196257
+GEO:-33.8946966986971;151.177891730707
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17738@eventor.orienteering.asn.au
@@ -793,6 +801,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17751
 GEO:-34.507763927991;150.408861270795
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_17808@eventor.orienteering.asn.au
+DTSTAMP:20230128T041419Z
+DTSTART:20230325T000000Z
+DTEND:20230325T000000Z
+SUMMARY:Womens Skills Development Camp (Gold Coast), Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/17808
+GEO:-27.9082639084571;153.396954203014
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18308@eventor.orienteering.asn.au
 DTSTAMP:20230119T004505Z
 DTSTART:20230325T220000Z
@@ -925,6 +942,14 @@ DTSTART:20230506T003000Z
 DTEND:20230506T030000Z
 SUMMARY:ACT Metro Series: Junior League #2, Bruce Ridge, Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/17857
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18586@eventor.orienteering.asn.au
+DTSTAMP:20230128T062551Z
+DTSTART:20230508T230000Z
+DTEND:20230509T033000Z
+SUMMARY:Riverina Schools Championships, Willan's Hill, Wagga and Riverina Occasional Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18586
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17858@eventor.orienteering.asn.au

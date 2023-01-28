@@ -522,7 +522,7 @@ GEO:-12.4450009899947;130.836773172451
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18241@eventor.orienteering.asn.au
-DTSTAMP:20230116T095750Z
+DTSTAMP:20230128T002020Z
 DTSTART:20230126T133000Z
 DTEND:20230127T133000Z
 SUMMARY:Twilight Series - Event #8 - SE Parklands and Wetlands, Orienteering SA
@@ -531,7 +531,7 @@ GEO:-34.9324116715973;138.619319679549
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18358@eventor.orienteering.asn.au
-DTSTAMP:20230122T034101Z
+DTSTAMP:20230128T041445Z
 DTSTART:20230127T220000Z
 DTEND:20230128T003000Z
 SUMMARY:SHOO's Summer Saturdays #3 - Spring Farm Riverside Park, Southern Highlands Orienteers
@@ -632,6 +632,14 @@ DTSTART:20230201T060100Z
 DTEND:20230201T060200Z
 SUMMARY:ACT TrakOTack, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18181
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18585@eventor.orienteering.asn.au
+DTSTAMP:20230128T063533Z
+DTSTART:20230202T060000Z
+DTEND:20230202T074500Z
+SUMMARY:Beadle Grove, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18585
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18475@eventor.orienteering.asn.au
@@ -740,7 +748,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18304
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18337@eventor.orienteering.asn.au
-DTSTAMP:20230122T033237Z
+DTSTAMP:20230128T042756Z
 DTSTART:20230204T230000Z
 DTEND:20230205T010000Z
 SUMMARY:Illawarra Map Running #1 - Wollongong, Illawarra Kareelah Orienteers
@@ -802,12 +810,12 @@ GEO:-27.4490706722979;152.997282213787
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16209@eventor.orienteering.asn.au
-DTSTAMP:20230127T074810Z
+DTSTAMP:20230128T060119Z
 DTSTART:20230208T053000Z
 DTEND:20230208T083000Z
 SUMMARY:2022/23 Sydney Summer Series #19 Camperdown, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/16209
-GEO:-33.894680921866;151.178046196257
+GEO:-33.8946966986971;151.177891730707
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17738@eventor.orienteering.asn.au
@@ -1758,6 +1766,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18102
 GEO:-37.2219484339152;144.153486084669
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18581@eventor.orienteering.asn.au
+DTSTAMP:20230128T063015Z
+DTSTART:20230318T230000Z
+DTEND:20230319T023000Z
+SUMMARY:Waggaroos - AWOC Interclub #1, Wolfram, Wagga and Riverina Occasional Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18581
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17888@eventor.orienteering.asn.au
 DTSTAMP:20230123T005537Z
 DTSTART:20230318T230000Z
@@ -1864,9 +1880,9 @@ GEO:-34.507763927991;150.408861270795
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17808@eventor.orienteering.asn.au
-DTSTAMP:20221012T051302Z
-DTSTART:20230324T140000Z
-DTEND:20230326T140000Z
+DTSTAMP:20230128T041419Z
+DTSTART:20230325T000000Z
+DTEND:20230325T000000Z
 SUMMARY:Womens Skills Development Camp (Gold Coast), Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/17808
 GEO:-27.9082639084571;153.396954203014
@@ -1986,6 +2002,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18382
 GEO:-36.7667822464798;144.204905796794
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18582@eventor.orienteering.asn.au
+DTSTAMP:20230128T061737Z
+DTSTART:20230401T020000Z
+DTEND:20230402T033000Z
+SUMMARY:Waggaroos Training Weekend, location TBC, Wagga and Riverina Occasional Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18582
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18495@eventor.orienteering.asn.au
 DTSTAMP:20230119T221509Z
 DTSTART:20230401T130000Z
@@ -2083,6 +2107,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18555
 GEO:-28.4378726212686;152.026865132112
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18583@eventor.orienteering.asn.au
+DTSTAMP:20230128T063044Z
+DTSTART:20230416T000000Z
+DTEND:20230416T033000Z
+SUMMARY:Waggaroos - AWOC Interclub #2, Yackandandah, Wagga and Riverina Occasional Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18583
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18456@eventor.orienteering.asn.au
 DTSTAMP:20230116T080025Z
 DTSTART:20230419T010000Z
@@ -2125,6 +2157,14 @@ DTSTART:20230422T140000Z
 DTEND:20230423T140000Z
 SUMMARY:Central Plateau - Clarence River Marshes - OST 3, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18528
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18584@eventor.orienteering.asn.au
+DTSTAMP:20230128T062706Z
+DTSTART:20230423T000000Z
+DTEND:20230423T033000Z
+SUMMARY:Waggaroos Come and Try It, Pomingalarna, Wagga and Riverina Occasional Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18584
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17753@eventor.orienteering.asn.au
@@ -2272,6 +2312,14 @@ SUMMARY:Night Nav - location tbc, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/16947
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18586@eventor.orienteering.asn.au
+DTSTAMP:20230128T062551Z
+DTSTART:20230508T230000Z
+DTEND:20230509T033000Z
+SUMMARY:Riverina Schools Championships, Willan's Hill, Wagga and Riverina Occasional Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18586
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17858@eventor.orienteering.asn.au
 DTSTAMP:20220906T013924Z
 DTSTART:20230513T003000Z
@@ -2321,6 +2369,14 @@ DTEND:20230514T000000Z
 SUMMARY:MelBushO 3 - Banksia Park, Bulleen, Melbourne Forest Racers
 URL:https://eventor.orienteering.asn.au/Events/Show/18442
 GEO:-37.7592307138098;145.080034480795
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18587@eventor.orienteering.asn.au
+DTSTAMP:20230128T062827Z
+DTSTART:20230514T000000Z
+DTEND:20230514T033000Z
+SUMMARY:Waggaroos Local event, Willan's Hill, Wagga and Riverina Occasional Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18587
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18531@eventor.orienteering.asn.au
@@ -2490,6 +2546,14 @@ SUMMARY:Cameron Creek (Kholo), Bush - BCC, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/16952
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18588@eventor.orienteering.asn.au
+DTSTAMP:20230128T062948Z
+DTSTART:20230528T000000Z
+DTEND:20230528T033000Z
+SUMMARY:Waggaroos - AWOC Interclub #3, Narrandera, Wagga and Riverina Occasional Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18588
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18374@eventor.orienteering.asn.au
 DTSTAMP:20230103T054157Z
 DTSTART:20230528T003000Z
@@ -2616,6 +2680,14 @@ DTSTART:20230610T143000Z
 DTEND:20230611T143000Z
 SUMMARY:SA Long Distance Championships, Tintookies Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17819
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18589@eventor.orienteering.asn.au
+DTSTAMP:20230128T063216Z
+DTSTART:20230611T000000Z
+DTEND:20230611T033000Z
+SUMMARY:Waggaroos Local event, Rocky Hill, Wagga and Riverina Occasional Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18589
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18375@eventor.orienteering.asn.au
