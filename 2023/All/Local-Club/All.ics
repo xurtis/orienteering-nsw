@@ -781,7 +781,7 @@ GEO:-35.2490106751359;149.099677094461
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17851@eventor.orienteering.asn.au
-DTSTAMP:20230125T235231Z
+DTSTAMP:20230129T223337Z
 DTSTART:20230201T060000Z
 DTEND:20230201T083000Z
 SUMMARY:Newcastle Summer Street Series - #15 Wallsend, Newcastle Orienteering Club
@@ -807,11 +807,12 @@ GEO:-37.802954478434;145.236850900647
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18585@eventor.orienteering.asn.au
-DTSTAMP:20230128T063533Z
+DTSTAMP:20230129T223610Z
 DTSTART:20230202T060000Z
 DTEND:20230202T074500Z
 SUMMARY:Beadle Grove, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18585
+GEO:-30.5284844020291;151.653295010219
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18274@eventor.orienteering.asn.au
@@ -894,7 +895,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18580
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18422@eventor.orienteering.asn.au
-DTSTAMP:20230127T072921Z
+DTSTAMP:20230129T223759Z
 DTSTART:20230203T223000Z
 DTEND:20230203T223000Z
 SUMMARY:Saturday Orienteering Series 3D - Normanhurst, Bold Horizons Event Organiser
@@ -983,12 +984,12 @@ GEO:-35.0045662042806;138.717689674643
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18204@eventor.orienteering.asn.au
-DTSTAMP:20221120T071219Z
-DTSTART:20230205T040000Z
-DTEND:20230205T060000Z
+DTSTAMP:20230130T092717Z
+DTSTART:20230205T000000Z
+DTEND:20230205T020000Z
 SUMMARY:Wayne Richards Park 22-23 Summer Series # 3, Hastings Orienteering Group
 URL:https://eventor.orienteering.asn.au/Events/Show/18204
-GEO:-31.4557475127046;152.904767117231
+GEO:-31.4541001087937;152.900164446561
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18418@eventor.orienteering.asn.au
@@ -1045,8 +1046,8 @@ GEO:-37.7951001126481;144.880568843889
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16948@eventor.orienteering.asn.au
-DTSTAMP:20230101T052202Z
-DTSTART:20230207T074500Z
+DTSTAMP:20230130T080254Z
+DTSTART:20230207T073000Z
 DTEND:20230207T093000Z
 SUMMARY:Night Nav - Red Hill, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/16948
@@ -1232,10 +1233,10 @@ GEO:-28.2219810889659;152.018771549646
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18338@eventor.orienteering.asn.au
-DTSTAMP:20230122T033407Z
+DTSTAMP:20230130T084749Z
 DTSTART:20230211T230000Z
 DTEND:20230212T010000Z
-SUMMARY:Illawarra Map Running #2 - Fairymeadow, Illawarra Kareelah Orienteers
+SUMMARY:Illawarra Map Running #2 - Fairy Meadow, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18338
 GEO:-34.3917521482134;150.892535926316
 END:VEVENT
@@ -1302,8 +1303,8 @@ GEO:-37.8666883991789;144.904897259366
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18350@eventor.orienteering.asn.au
-DTSTAMP:20230107T033811Z
-DTSTART:20230214T074500Z
+DTSTAMP:20230130T080553Z
+DTSTART:20230214T073000Z
 DTEND:20230214T093000Z
 SUMMARY:Night Nav - Auchenflower, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18350
@@ -1311,7 +1312,7 @@ GEO:-27.4780905455066;152.995640864651
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18540@eventor.orienteering.asn.au
-DTSTAMP:20230123T012530Z
+DTSTAMP:20230130T104416Z
 DTSTART:20230214T130000Z
 DTEND:20230215T130000Z
 SUMMARY:Enter all Northern Autumn Twilight Events at Discounted Rate, Esk Valley
@@ -1344,15 +1345,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18454
 GEO:-34.8631930674593;138.720830022975
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18521@eventor.orienteering.asn.au
-DTSTAMP:20230123T011643Z
-DTSTART:20230215T040000Z
-DTEND:20230215T040000Z
-SUMMARY:Heritage Forest - Northern Autumn Twilight Series #1, Esk Valley
-URL:https://eventor.orienteering.asn.au/Events/Show/18521
-GEO:-41.4090368382169;147.140047346
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18478@eventor.orienteering.asn.au
 DTSTAMP:20230122T232427Z
 DTSTART:20230215T040000Z
@@ -1360,6 +1352,15 @@ DTEND:20230215T040000Z
 SUMMARY:Lambert Gully - Southern Autumn Schools/Twilight Series #1, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18478
 GEO:-42.9048196317678;147.333325839848
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18521@eventor.orienteering.asn.au
+DTSTAMP:20230130T104835Z
+DTSTART:20230215T050000Z
+DTEND:20230215T050000Z
+SUMMARY:Heritage Forest - Northern Autumn Twilight Series #1, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/18521
+GEO:-41.4090368382169;147.140047346
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17792@eventor.orienteering.asn.au
@@ -1610,8 +1611,8 @@ GEO:-37.7444104220228;144.898356283066
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18351@eventor.orienteering.asn.au
-DTSTAMP:20230107T043915Z
-DTSTART:20230221T074500Z
+DTSTAMP:20230130T080616Z
+DTSTART:20230221T073000Z
 DTEND:20230221T093000Z
 SUMMARY:Night Nav - St Lucia, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18351
@@ -1619,7 +1620,7 @@ GEO:-27.4990682850369;153.004500085927
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18522@eventor.orienteering.asn.au
-DTSTAMP:20230122T005937Z
+DTSTAMP:20230130T105740Z
 DTSTART:20230221T130000Z
 DTEND:20230222T130000Z
 SUMMARY:First Basin - Northern Autumn Twilight Series #2, Esk Valley
@@ -1858,8 +1859,8 @@ GEO:-37.8659703725292;144.784462236449
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18352@eventor.orienteering.asn.au
-DTSTAMP:20230129T115822Z
-DTSTART:20230228T074500Z
+DTSTAMP:20230130T080635Z
+DTSTART:20230228T073000Z
 DTEND:20230228T093000Z
 SUMMARY:Night Nav - Cicada Park, Chapel Hill, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18352
@@ -1867,10 +1868,10 @@ GEO:-27.4948593335112;152.941656840581
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18523@eventor.orienteering.asn.au
-DTSTAMP:20230122T010431Z
+DTSTAMP:20230130T102604Z
 DTSTART:20230228T130000Z
 DTEND:20230301T130000Z
-SUMMARY:Punchbowl - Northern Autumn Twilight Series #3, Esk Valley
+SUMMARY:LCGS- Northern Autumn Twilight Series #3, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/18523
 GEO:-41.4566940220496;147.167921955353
 END:VEVENT
@@ -2047,8 +2048,8 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18504
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16946@eventor.orienteering.asn.au
-DTSTAMP:20221227T044619Z
-DTSTART:20230307T074500Z
+DTSTAMP:20230130T081029Z
+DTSTART:20230307T073000Z
 DTEND:20230307T093000Z
 SUMMARY:Night Nav - Rosalie - BCC, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/16946
@@ -2183,14 +2184,6 @@ SUMMARY:Dalyellup Score (SWOT Urban Series 4), South-West Orienteering Trekkers
 URL:https://eventor.orienteering.asn.au/Events/Show/18452
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18525@eventor.orienteering.asn.au
-DTSTAMP:20230122T011051Z
-DTSTART:20230312T130000Z
-DTEND:20230313T130000Z
-SUMMARY:Royal and Riverbend Parks - 	Northern Autumn Twilight Series #5, Esk Valley
-URL:https://eventor.orienteering.asn.au/Events/Show/18525
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18007@eventor.orienteering.asn.au
 DTSTAMP:20230103T051511Z
 DTSTART:20230312T130000Z
@@ -2225,8 +2218,8 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18505
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18353@eventor.orienteering.asn.au
-DTSTAMP:20230111T054314Z
-DTSTART:20230314T074500Z
+DTSTAMP:20230130T081049Z
+DTSTART:20230314T073000Z
 DTEND:20230314T093000Z
 SUMMARY:Night Nav - Chelmer, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18353
@@ -2240,6 +2233,14 @@ DTEND:20230315T130000Z
 SUMMARY:Bellerive + Fort - Southern Autumn Schools/Twilight Series #5, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18492
 GEO:-42.8804800057833;147.367144158479
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18525@eventor.orienteering.asn.au
+DTSTAMP:20230130T102733Z
+DTSTART:20230314T130000Z
+DTEND:20230315T130000Z
+SUMMARY:Trevallyn- Northern Autumn Twilight Series #5, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/18525
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18455@eventor.orienteering.asn.au
@@ -2426,12 +2427,21 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18506
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18354@eventor.orienteering.asn.au
-DTSTAMP:20230111T054741Z
-DTSTART:20230321T074500Z
+DTSTAMP:20230130T081109Z
+DTSTART:20230321T073000Z
 DTEND:20230321T093000Z
 SUMMARY:Night Nav - West End, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18354
 GEO:-27.4869444011934;153.016634683232
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18526@eventor.orienteering.asn.au
+DTSTAMP:20230130T103306Z
+DTSTART:20230321T130000Z
+DTEND:20230322T130000Z
+SUMMARY:Punchbowl- Northern Autumn Twilight Series #6, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/18526
+GEO:-41.4035146151223;147.094023076246
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18493@eventor.orienteering.asn.au
@@ -2441,15 +2451,6 @@ DTEND:20230322T130000Z
 SUMMARY:Waterworks - Southern Autumn Schools/Twilight Series #6, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18493
 GEO:-42.9069147983181;147.29570084773
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18526@eventor.orienteering.asn.au
-DTSTAMP:20230122T011315Z
-DTSTART:20230321T130000Z
-DTEND:20230322T130000Z
-SUMMARY:Windsor Precinct - Northern Autumn Twilight Series #6, Esk Valley
-URL:https://eventor.orienteering.asn.au/Events/Show/18526
-GEO:-41.4035146151223;147.094023076246
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17797@eventor.orienteering.asn.au
@@ -2580,8 +2581,8 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18507
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18355@eventor.orienteering.asn.au
-DTSTAMP:20230111T060526Z
-DTSTART:20230328T074500Z
+DTSTAMP:20230130T081132Z
+DTSTART:20230328T073000Z
 DTEND:20230328T093000Z
 SUMMARY:Night Nav - Centenary, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18355
