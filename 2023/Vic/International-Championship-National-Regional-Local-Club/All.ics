@@ -415,12 +415,12 @@ GEO:-37.8383865867062;145.190840402628
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18277@eventor.orienteering.asn.au
-DTSTAMP:20230129T074755Z
+DTSTAMP:20230131T004251Z
 DTSTART:20230223T073000Z
 DTEND:20230223T091500Z
 SUMMARY:Melbourne Park Street Thursday Summer Series - Springthorpe - PAS CHAMPS FINAL, Yarra Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18277
-GEO:-37.7178175230519;145.06043169749
+GEO:-37.721819156096;145.058915964586
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18285@eventor.orienteering.asn.au
@@ -772,6 +772,14 @@ DTSTART:20230415T040000Z
 DTEND:20230415T051000Z
 SUMMARY:Melbourne Park Street Saturday Series - Croydon Greens, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18516
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18612@eventor.orienteering.asn.au
+DTSTAMP:20230131T005214Z
+DTSTART:20230416T010000Z
+DTEND:20230416T021000Z
+SUMMARY:Mornington Peninsula Sunday MapRun - St Andrews Beach, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18612
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18498@eventor.orienteering.asn.au
