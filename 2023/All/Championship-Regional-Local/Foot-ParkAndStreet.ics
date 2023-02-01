@@ -351,7 +351,7 @@ GEO:-35.2221000563204;149.019280976106
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17788@eventor.orienteering.asn.au
-DTSTAMP:20221231T233524Z
+DTSTAMP:20230201T103728Z
 DTSTART:20230201T053000Z
 DTEND:20230201T083000Z
 SUMMARY:2022/23 Sydney Summer Series #18 Concord, Uringa Orienteers
@@ -360,7 +360,7 @@ GEO:-33.8434022309194;151.117575297632
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17737@eventor.orienteering.asn.au
-DTSTAMP:20230116T001713Z
+DTSTAMP:20230201T092144Z
 DTSTART:20230201T060000Z
 DTEND:20230201T083000Z
 SUMMARY:ACT Runners Shop Twilight Series #9: Bruce Ridge, Abominable O-Men
@@ -369,7 +369,7 @@ GEO:-35.2490106751359;149.099677094461
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17851@eventor.orienteering.asn.au
-DTSTAMP:20230129T223337Z
+DTSTAMP:20230201T104414Z
 DTSTART:20230201T060000Z
 DTEND:20230201T083000Z
 SUMMARY:Newcastle Summer Street Series - #15 Wallsend, Newcastle Orienteering Club
@@ -386,7 +386,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18181
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18585@eventor.orienteering.asn.au
-DTSTAMP:20230129T223610Z
+DTSTAMP:20230131T235714Z
 DTSTART:20230202T060000Z
 DTEND:20230202T074500Z
 SUMMARY:Beadle Grove, Northern Tablelands Orienteering Club
@@ -722,6 +722,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17794
 GEO:-33.8538680257018;151.184160757271
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18614@eventor.orienteering.asn.au
+DTSTAMP:20230201T010940Z
+DTSTART:20230301T054500Z
+DTEND:20230301T080000Z
+SUMMARY:2023 Urban Foot Orienteering #1, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18614
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17741@eventor.orienteering.asn.au
 DTSTAMP:20230116T001659Z
 DTSTART:20230301T060000Z
@@ -791,6 +799,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17795
 GEO:-33.7832620120146;151.162161300034
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18615@eventor.orienteering.asn.au
+DTSTAMP:20230201T010958Z
+DTSTART:20230308T054500Z
+DTEND:20230308T080000Z
+SUMMARY:2023 Urban Foot Orienteering #2, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18615
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17742@eventor.orienteering.asn.au
 DTSTAMP:20230116T001703Z
 DTSTART:20230308T060000Z
@@ -838,6 +854,14 @@ DTEND:20230315T083000Z
 SUMMARY:2022/23 Sydney Summer Series #24 Chatswood West, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17796
 GEO:-33.7970322830352;151.161221818829
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18616@eventor.orienteering.asn.au
+DTSTAMP:20230201T011017Z
+DTSTART:20230315T054500Z
+DTEND:20230315T080000Z
+SUMMARY:2023 Urban Foot Orienteering #3, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18616
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18316@eventor.orienteering.asn.au
@@ -891,6 +915,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17797
 GEO:-33.8083663853401;151.050458426139
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18617@eventor.orienteering.asn.au
+DTSTAMP:20230201T011036Z
+DTSTART:20230322T054500Z
+DTEND:20230322T080000Z
+SUMMARY:2023 Urban Foot Orienteering Final, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18617
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17751@eventor.orienteering.asn.au
 DTSTAMP:20230124T201221Z
 DTSTART:20230324T130000Z
@@ -901,7 +933,7 @@ GEO:-34.507763927991;150.408861270795
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17808@eventor.orienteering.asn.au
-DTSTAMP:20230129T112250Z
+DTSTAMP:20230201T011715Z
 DTSTART:20230325T000000Z
 DTEND:20230326T030000Z
 SUMMARY:Womens Skills Development Camp (Gold Coast), Orienteering Queensland
@@ -999,6 +1031,14 @@ DTSTART:20230422T140000Z
 DTEND:20230423T140000Z
 SUMMARY:Central Plateau - Clarence River Marshes - OST 3, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18528
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18618@eventor.orienteering.asn.au
+DTSTAMP:20230201T011223Z
+DTSTART:20230425T140000Z
+DTEND:20230426T140000Z
+SUMMARY:Newcastle Night Urban Champs, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18618
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17753@eventor.orienteering.asn.au
@@ -1157,12 +1197,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17890
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18321@eventor.orienteering.asn.au
-DTSTAMP:20230116T030622Z
+DTSTAMP:20230201T012526Z
 DTSTART:20230609T140000Z
 DTEND:20230610T140000Z
-SUMMARY:Vic Series (Bush) 4 - Hawkestowe, Plenty Gorge Parklands, Melbourne Forest Racers
+SUMMARY:Vic Series (Bush) 4 - Granite Hills, South Morang, Melbourne Forest Racers
 URL:https://eventor.orienteering.asn.au/Events/Show/18321
-GEO:-37.6356379845367;145.101996637863
+GEO:-37.6222626717964;145.076668091567
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17757@eventor.orienteering.asn.au

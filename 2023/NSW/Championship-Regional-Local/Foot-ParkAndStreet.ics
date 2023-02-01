@@ -166,7 +166,7 @@ GEO:-33.4738859190344;151.354956411893
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17788@eventor.orienteering.asn.au
-DTSTAMP:20221231T233524Z
+DTSTAMP:20230201T103728Z
 DTSTART:20230201T053000Z
 DTEND:20230201T083000Z
 SUMMARY:2022/23 Sydney Summer Series #18 Concord, Uringa Orienteers
@@ -175,7 +175,7 @@ GEO:-33.8434022309194;151.117575297632
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17851@eventor.orienteering.asn.au
-DTSTAMP:20230129T223337Z
+DTSTAMP:20230201T104414Z
 DTSTART:20230201T060000Z
 DTEND:20230201T083000Z
 SUMMARY:Newcastle Summer Street Series - #15 Wallsend, Newcastle Orienteering Club
@@ -184,7 +184,7 @@ GEO:-32.8997876811242;151.679966025691
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18585@eventor.orienteering.asn.au
-DTSTAMP:20230129T223610Z
+DTSTAMP:20230131T235714Z
 DTSTART:20230202T060000Z
 DTEND:20230202T074500Z
 SUMMARY:Beadle Grove, Northern Tablelands Orienteering Club
@@ -415,6 +415,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17794
 GEO:-33.8538680257018;151.184160757271
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18614@eventor.orienteering.asn.au
+DTSTAMP:20230201T010940Z
+DTSTART:20230301T054500Z
+DTEND:20230301T080000Z
+SUMMARY:2023 Urban Foot Orienteering #1, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18614
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18238@eventor.orienteering.asn.au
 DTSTAMP:20221125T231554Z
 DTSTART:20230303T130000Z
@@ -441,6 +449,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17795
 GEO:-33.7832620120146;151.162161300034
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18615@eventor.orienteering.asn.au
+DTSTAMP:20230201T010958Z
+DTSTART:20230308T054500Z
+DTEND:20230308T080000Z
+SUMMARY:2023 Urban Foot Orienteering #2, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18615
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17796@eventor.orienteering.asn.au
 DTSTAMP:20220816T040045Z
 DTSTART:20230315T053000Z
@@ -450,6 +466,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17796
 GEO:-33.7970322830352;151.161221818829
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18616@eventor.orienteering.asn.au
+DTSTAMP:20230201T011017Z
+DTSTART:20230315T054500Z
+DTEND:20230315T080000Z
+SUMMARY:2023 Urban Foot Orienteering #3, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18616
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17797@eventor.orienteering.asn.au
 DTSTAMP:20220816T073443Z
 DTSTART:20230322T053000Z
@@ -457,6 +481,14 @@ DTEND:20230322T083000Z
 SUMMARY:2022/23 Sydney Summer Series #25 Ermington, Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17797
 GEO:-33.8083663853401;151.050458426139
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18617@eventor.orienteering.asn.au
+DTSTAMP:20230201T011036Z
+DTSTART:20230322T054500Z
+DTEND:20230322T080000Z
+SUMMARY:2023 Urban Foot Orienteering Final, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18617
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17751@eventor.orienteering.asn.au
@@ -484,6 +516,14 @@ DTEND:20230329T083000Z
 SUMMARY:2022/23 Sydney Summer Series #26 Gordon, Bennelong Northside Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17798
 GEO:-33.7608060742783;151.146202567483
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18618@eventor.orienteering.asn.au
+DTSTAMP:20230201T011223Z
+DTSTART:20230425T140000Z
+DTEND:20230426T140000Z
+SUMMARY:Newcastle Night Urban Champs, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18618
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17753@eventor.orienteering.asn.au
