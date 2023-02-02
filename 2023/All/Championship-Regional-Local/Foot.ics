@@ -333,7 +333,7 @@ GEO:-35.2490106751359;149.099677094461
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17851@eventor.orienteering.asn.au
-DTSTAMP:20230201T104414Z
+DTSTAMP:20230201T232306Z
 DTSTART:20230201T060000Z
 DTEND:20230201T083000Z
 SUMMARY:Newcastle Summer Street Series - #15 Wallsend, Newcastle Orienteering Club
@@ -350,7 +350,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18181
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18585@eventor.orienteering.asn.au
-DTSTAMP:20230131T235714Z
+DTSTAMP:20230202T035050Z
 DTSTART:20230202T060000Z
 DTEND:20230202T074500Z
 SUMMARY:Beadle Grove, Northern Tablelands Orienteering Club
@@ -400,7 +400,7 @@ DTSTART:20230204T220000Z
 DTEND:20230204T233000Z
 SUMMARY:ACT Sprint Series #1, Amaroo Primary, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18304
-GEO:-35.1651985031445;149.128687602596
+GEO:-35.1653264480956;149.125917050469
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18337@eventor.orienteering.asn.au
@@ -446,6 +446,15 @@ DTEND:20230208T083000Z
 SUMMARY:Newcastle Summer Series - #16 Thornton East, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/17852
 GEO:-32.7789380616759;151.654551263506
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18619@eventor.orienteering.asn.au
+DTSTAMP:20230201T222027Z
+DTSTART:20230209T060000Z
+DTEND:20230209T074500Z
+SUMMARY:Bruce Browning Oval, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18619
+GEO:-30.5015283727401;151.675236178063
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18561@eventor.orienteering.asn.au
@@ -536,6 +545,14 @@ SUMMARY:Newcastle Summer Street Series - #17 Elermore Vale, Newcastle Orienteeri
 URL:https://eventor.orienteering.asn.au/Events/Show/17853
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18620@eventor.orienteering.asn.au
+DTSTAMP:20230202T042151Z
+DTSTART:20230216T060000Z
+DTEND:20230216T074500Z
+SUMMARY:TBA, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18620
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18562@eventor.orienteering.asn.au
 DTSTAMP:20230131T062943Z
 DTSTART:20230217T070000Z
@@ -573,10 +590,10 @@ GEO:-33.7406264164356;151.0602492889
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18306@eventor.orienteering.asn.au
-DTSTAMP:20230122T235223Z
+DTSTAMP:20230202T061701Z
 DTSTART:20230218T220000Z
 DTEND:20230218T233000Z
-SUMMARY:ACT Sprint Series #3, tba, Orienteering ACT
+SUMMARY:ACT Sprint Series #3, Namadgi School, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18306
 END:VEVENT
 BEGIN:VEVENT
@@ -613,6 +630,14 @@ DTSTART:20230222T060000Z
 DTEND:20230222T083000Z
 SUMMARY:Newcastle Summer Street Series - Presentations & Run (Blackalls Park), Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/17854
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18621@eventor.orienteering.asn.au
+DTSTAMP:20230202T042322Z
+DTSTART:20230223T060000Z
+DTEND:20230223T074500Z
+SUMMARY:TBA, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18621
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18563@eventor.orienteering.asn.au
@@ -911,6 +936,15 @@ DTSTART:20230401T230100Z
 DTEND:20230401T230200Z
 SUMMARY:ACT Sprint Series Season Pass, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18310
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18622@eventor.orienteering.asn.au
+DTSTAMP:20230202T042904Z
+DTSTART:20230402T000000Z
+DTEND:20230402T030000Z
+SUMMARY:Dorrigo Dash, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18622
+GEO:-30.3379529338159;152.706501310254
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18528@eventor.orienteering.asn.au

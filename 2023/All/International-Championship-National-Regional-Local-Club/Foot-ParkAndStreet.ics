@@ -886,7 +886,7 @@ GEO:-35.2490106751359;149.099677094461
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17851@eventor.orienteering.asn.au
-DTSTAMP:20230201T104414Z
+DTSTAMP:20230201T232306Z
 DTSTART:20230201T060000Z
 DTEND:20230201T083000Z
 SUMMARY:Newcastle Summer Street Series - #15 Wallsend, Newcastle Orienteering Club
@@ -912,7 +912,7 @@ GEO:-37.802954478434;145.236850900647
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18585@eventor.orienteering.asn.au
-DTSTAMP:20230131T235714Z
+DTSTAMP:20230202T035050Z
 DTSTART:20230202T060000Z
 DTEND:20230202T074500Z
 SUMMARY:Beadle Grove, Northern Tablelands Orienteering Club
@@ -966,7 +966,7 @@ GEO:-33.2881609852823;149.087579490286
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18172@eventor.orienteering.asn.au
-DTSTAMP:20230131T040054Z
+DTSTAMP:20230201T225855Z
 DTSTART:20230203T080000Z
 DTEND:20230203T093000Z
 SUMMARY:Snap Sprint Series Race 1 - Botanic Park (Plane Tree Drive), SA Arrows
@@ -1019,7 +1019,7 @@ GEO:-34.9003781157257;138.594060341663
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18003@eventor.orienteering.asn.au
-DTSTAMP:20230122T031647Z
+DTSTAMP:20230202T084613Z
 DTSTART:20230204T090000Z
 DTEND:20230204T101500Z
 SUMMARY:MetrO 10 - Manning, Kulgun 225 Orienteers / Orienteering WA
@@ -1060,7 +1060,7 @@ DTSTART:20230204T220000Z
 DTEND:20230204T233000Z
 SUMMARY:ACT Sprint Series #1, Amaroo Primary, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18304
-GEO:-35.1651985031445;149.128687602596
+GEO:-35.1653264480956;149.125917050469
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18337@eventor.orienteering.asn.au
@@ -1198,6 +1198,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18290
 GEO:-37.8248054706666;145.080002567211
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18619@eventor.orienteering.asn.au
+DTSTAMP:20230201T222027Z
+DTSTART:20230209T060000Z
+DTEND:20230209T074500Z
+SUMMARY:Bruce Browning Oval, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18619
+GEO:-30.5015283727401;151.675236178063
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18275@eventor.orienteering.asn.au
 DTSTAMP:20230129T072614Z
 DTSTART:20230209T073000Z
@@ -1235,12 +1244,12 @@ GEO:-33.282897421639;149.090745177991
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18173@eventor.orienteering.asn.au
-DTSTAMP:20230129T112411Z
+DTSTAMP:20230201T224827Z
 DTSTART:20230210T080000Z
 DTEND:20230210T093000Z
-SUMMARY:Snap Sprint Series Race 2 - Adelaide Universities (War Memorial Drive), SA Arrows
+SUMMARY:Snap Sprint Series Race 2 - Adelaide Universities (Victoria Drive), SA Arrows
 URL:https://eventor.orienteering.asn.au/Events/Show/18173
-GEO:-34.9165898726727;138.603686639085
+GEO:-34.917749675238;138.603823327429
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18423@eventor.orienteering.asn.au
@@ -1507,6 +1516,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18379
 GEO:-34.9427502590878;138.591658988948
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18620@eventor.orienteering.asn.au
+DTSTAMP:20230202T042151Z
+DTSTART:20230216T060000Z
+DTEND:20230216T074500Z
+SUMMARY:TBA, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18620
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18276@eventor.orienteering.asn.au
 DTSTAMP:20230129T073417Z
 DTSTART:20230216T073000Z
@@ -1624,19 +1641,19 @@ GEO:-35.1596537599068;147.343473493614
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18306@eventor.orienteering.asn.au
-DTSTAMP:20230122T235223Z
+DTSTAMP:20230202T061701Z
 DTSTART:20230218T220000Z
 DTEND:20230218T233000Z
-SUMMARY:ACT Sprint Series #3, tba, Orienteering ACT
+SUMMARY:ACT Sprint Series #3, Namadgi School, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18306
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18421@eventor.orienteering.asn.au
-DTSTAMP:20230107T053142Z
+UID:Event_18623@eventor.orienteering.asn.au
+DTSTAMP:20230202T115952Z
 DTSTART:20230218T230000Z
 DTEND:20230218T230000Z
 SUMMARY:Perseverance Dam, Range Runners Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18421
+URL:https://eventor.orienteering.asn.au/Events/Show/18623
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18339@eventor.orienteering.asn.au
@@ -1770,6 +1787,14 @@ DTEND:20230222T090000Z
 SUMMARY:Course Planning Workshop - Session 2, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18380
 GEO:-34.9427167810855;138.592323092808
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18621@eventor.orienteering.asn.au
+DTSTAMP:20230202T042322Z
+DTSTART:20230223T060000Z
+DTEND:20230223T074500Z
+SUMMARY:TBA, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18621
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18277@eventor.orienteering.asn.au
@@ -2351,10 +2376,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18520
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18007@eventor.orienteering.asn.au
-DTSTAMP:20230131T040436Z
+DTSTAMP:20230201T205852Z
 DTSTART:20230312T220000Z
 DTEND:20230313T010000Z
-SUMMARY:Richard Pattison, Bennelong Northside Orienteers
+SUMMARY:Sydney Sprint Weekend Epilogue : Middle Head & Georges Heights, Bennelong Northside Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18007
 GEO:-33.8349690388927;151.254889195979
 END:VEVENT
@@ -2527,7 +2552,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18281
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18101@eventor.orienteering.asn.au
-DTSTAMP:20230112T051623Z
+DTSTAMP:20230202T034916Z
 DTSTART:20230318T230000Z
 DTEND:20230319T020000Z
 SUMMARY:Maxi (Individual) - Mt Franklin Gorge, Nillumbik Emus Orienteering Club
@@ -2536,7 +2561,7 @@ GEO:-37.2217800552058;144.153267050224
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18102@eventor.orienteering.asn.au
-DTSTAMP:20230112T051650Z
+DTSTAMP:20230202T034959Z
 DTSTART:20230318T230000Z
 DTEND:20230319T020000Z
 SUMMARY:Maxi (Team) - Mt Franklin Gorge, Nillumbik Emus Orienteering Club
@@ -2908,6 +2933,15 @@ DTSTART:20230401T230100Z
 DTEND:20230401T230200Z
 SUMMARY:ACT Sprint Series Season Pass, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18310
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18622@eventor.orienteering.asn.au
+DTSTAMP:20230202T042904Z
+DTSTART:20230402T000000Z
+DTEND:20230402T030000Z
+SUMMARY:Dorrigo Dash, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18622
+GEO:-30.3379529338159;152.706501310254
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18490@eventor.orienteering.asn.au
@@ -3648,6 +3682,15 @@ SUMMARY:ACT Classic Series: Jim Sawkins Memorial Handicap, ACT League #4, Glenda
 URL:https://eventor.orienteering.asn.au/Events/Show/17890
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18624@eventor.orienteering.asn.au
+DTSTAMP:20230202T132139Z
+DTSTART:20230607T020000Z
+DTEND:20230607T050000Z
+SUMMARY:Secondary School Orienteering Championship, Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/18624
+GEO:-31.9608920029423;115.853146071512
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18546@eventor.orienteering.asn.au
 DTSTAMP:20230124T051914Z
 DTSTART:20230608T230000Z
@@ -4268,6 +4311,14 @@ DTEND:20230827T140000Z
 SUMMARY:2023 NSW State League #13 - Middle (NSW Schools Champs), Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17759
 GEO:-33.8194881281495;150.618483178807
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18625@eventor.orienteering.asn.au
+DTSTAMP:20230202T131444Z
+DTSTART:20230830T020000Z
+DTEND:20230830T050000Z
+SUMMARY:Primary School Orienteering Championship, Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/18625
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18571@eventor.orienteering.asn.au

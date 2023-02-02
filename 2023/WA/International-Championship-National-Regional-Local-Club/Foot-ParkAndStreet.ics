@@ -49,7 +49,7 @@ GEO:-31.8254146723965;115.778601781062
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18003@eventor.orienteering.asn.au
-DTSTAMP:20230122T031647Z
+DTSTAMP:20230202T084613Z
 DTSTART:20230204T090000Z
 DTEND:20230204T101500Z
 SUMMARY:MetrO 10 - Manning, Kulgun 225 Orienteers / Orienteering WA
@@ -135,6 +135,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18531
 GEO:-35.053085689329;117.9139503009
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18624@eventor.orienteering.asn.au
+DTSTAMP:20230202T132139Z
+DTSTART:20230607T020000Z
+DTEND:20230607T050000Z
+SUMMARY:Secondary School Orienteering Championship, Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/18624
+GEO:-31.9608920029423;115.853146071512
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18532@eventor.orienteering.asn.au
 DTSTAMP:20230122T100145Z
 DTSTART:20230709T003000Z
@@ -142,6 +151,14 @@ DTEND:20230709T003000Z
 SUMMARY:Albany - Goode Beach, Albany & Denmark Hinterland Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18532
 GEO:-35.0876098157693;117.939590113591
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18625@eventor.orienteering.asn.au
+DTSTAMP:20230202T131444Z
+DTSTART:20230830T020000Z
+DTEND:20230830T050000Z
+SUMMARY:Primary School Orienteering Championship, Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/18625
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18533@eventor.orienteering.asn.au

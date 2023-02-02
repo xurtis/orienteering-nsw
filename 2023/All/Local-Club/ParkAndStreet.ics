@@ -568,7 +568,7 @@ GEO:-33.8434022309194;151.117575297632
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17851@eventor.orienteering.asn.au
-DTSTAMP:20230201T104414Z
+DTSTAMP:20230201T232306Z
 DTSTART:20230201T060000Z
 DTEND:20230201T083000Z
 SUMMARY:Newcastle Summer Street Series - #15 Wallsend, Newcastle Orienteering Club
@@ -586,7 +586,7 @@ GEO:-37.802954478434;145.236850900647
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18585@eventor.orienteering.asn.au
-DTSTAMP:20230131T235714Z
+DTSTAMP:20230202T035050Z
 DTSTART:20230202T060000Z
 DTEND:20230202T074500Z
 SUMMARY:Beadle Grove, Northern Tablelands Orienteering Club
@@ -640,7 +640,7 @@ GEO:-34.1616873352386;150.611543007937
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18003@eventor.orienteering.asn.au
-DTSTAMP:20230122T031647Z
+DTSTAMP:20230202T084613Z
 DTSTART:20230204T090000Z
 DTEND:20230204T101500Z
 SUMMARY:MetrO 10 - Manning, Kulgun 225 Orienteers / Orienteering WA
@@ -763,6 +763,15 @@ DTEND:20230208T091500Z
 SUMMARY:Melbourne Park Street Wednesday Summer Series - Canterbury Trails; Schools 1, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18290
 GEO:-37.8248054706666;145.080002567211
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18619@eventor.orienteering.asn.au
+DTSTAMP:20230201T222027Z
+DTSTART:20230209T060000Z
+DTEND:20230209T074500Z
+SUMMARY:Bruce Browning Oval, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18619
+GEO:-30.5015283727401;151.675236178063
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18275@eventor.orienteering.asn.au
@@ -951,6 +960,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18291
 GEO:-37.7848639250008;145.240722129198
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18620@eventor.orienteering.asn.au
+DTSTAMP:20230202T042151Z
+DTSTART:20230216T060000Z
+DTEND:20230216T074500Z
+SUMMARY:TBA, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18620
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18276@eventor.orienteering.asn.au
 DTSTAMP:20230129T073417Z
 DTSTART:20230216T073000Z
@@ -1127,6 +1144,14 @@ DTEND:20230222T091500Z
 SUMMARY:Melbourne Park Street Wednesday Summer Series - Bellbird Dell; Schools 3, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18292
 GEO:-37.8383865867062;145.190840402628
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18621@eventor.orienteering.asn.au
+DTSTAMP:20230202T042322Z
+DTSTART:20230223T060000Z
+DTEND:20230223T074500Z
+SUMMARY:TBA, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18621
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18277@eventor.orienteering.asn.au
@@ -1416,10 +1441,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18452
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18007@eventor.orienteering.asn.au
-DTSTAMP:20230131T040436Z
+DTSTAMP:20230201T205852Z
 DTSTART:20230312T220000Z
 DTEND:20230313T010000Z
-SUMMARY:Richard Pattison, Bennelong Northside Orienteers
+SUMMARY:Sydney Sprint Weekend Epilogue : Middle Head & Georges Heights, Bennelong Northside Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18007
 GEO:-33.8349690388927;151.254889195979
 END:VEVENT
@@ -1654,6 +1679,15 @@ DTSTART:20230401T030000Z
 DTEND:20230401T041000Z
 SUMMARY:Melbourne Park Street Saturday Series - Tirhatuan, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18514
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18622@eventor.orienteering.asn.au
+DTSTAMP:20230202T042904Z
+DTSTART:20230402T000000Z
+DTEND:20230402T030000Z
+SUMMARY:Dorrigo Dash, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18622
+GEO:-30.3379529338159;152.706501310254
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18490@eventor.orienteering.asn.au

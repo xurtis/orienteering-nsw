@@ -202,7 +202,7 @@ GEO:-33.8434022309194;151.117575297632
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17851@eventor.orienteering.asn.au
-DTSTAMP:20230201T104414Z
+DTSTAMP:20230201T232306Z
 DTSTART:20230201T060000Z
 DTEND:20230201T083000Z
 SUMMARY:Newcastle Summer Street Series - #15 Wallsend, Newcastle Orienteering Club
@@ -211,7 +211,7 @@ GEO:-32.8997876811242;151.679966025691
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18585@eventor.orienteering.asn.au
-DTSTAMP:20230131T235714Z
+DTSTAMP:20230202T035050Z
 DTSTART:20230202T060000Z
 DTEND:20230202T074500Z
 SUMMARY:Beadle Grove, Northern Tablelands Orienteering Club
@@ -291,6 +291,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17852
 GEO:-32.7789380616759;151.654551263506
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18619@eventor.orienteering.asn.au
+DTSTAMP:20230201T222027Z
+DTSTART:20230209T060000Z
+DTEND:20230209T074500Z
+SUMMARY:Bruce Browning Oval, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18619
+GEO:-30.5015283727401;151.675236178063
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18561@eventor.orienteering.asn.au
 DTSTAMP:20230131T062729Z
 DTSTART:20230210T070000Z
@@ -342,6 +351,14 @@ DTSTART:20230215T060000Z
 DTEND:20230215T083000Z
 SUMMARY:Newcastle Summer Street Series - #17 Elermore Vale, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/17853
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18620@eventor.orienteering.asn.au
+DTSTAMP:20230202T042151Z
+DTSTART:20230216T060000Z
+DTEND:20230216T074500Z
+SUMMARY:TBA, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18620
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18138@eventor.orienteering.asn.au
@@ -404,6 +421,14 @@ DTSTART:20230222T060000Z
 DTEND:20230222T083000Z
 SUMMARY:Newcastle Summer Street Series - Presentations & Run (Blackalls Park), Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/17854
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18621@eventor.orienteering.asn.au
+DTSTAMP:20230202T042322Z
+DTSTART:20230223T060000Z
+DTEND:20230223T074500Z
+SUMMARY:TBA, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18621
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18563@eventor.orienteering.asn.au
@@ -477,10 +502,10 @@ GEO:-29.6930974988806;152.932199243544
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18007@eventor.orienteering.asn.au
-DTSTAMP:20230131T040436Z
+DTSTAMP:20230201T205852Z
 DTSTART:20230312T220000Z
 DTEND:20230313T010000Z
-SUMMARY:Richard Pattison, Bennelong Northside Orienteers
+SUMMARY:Sydney Sprint Weekend Epilogue : Middle Head & Georges Heights, Bennelong Northside Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18007
 GEO:-33.8349690388927;151.254889195979
 END:VEVENT
@@ -534,6 +559,15 @@ DTEND:20230329T083000Z
 SUMMARY:2022/23 Sydney Summer Series #26 Gordon, Bennelong Northside Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17798
 GEO:-33.7608060742783;151.146202567483
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18622@eventor.orienteering.asn.au
+DTSTAMP:20230202T042904Z
+DTSTART:20230402T000000Z
+DTEND:20230402T030000Z
+SUMMARY:Dorrigo Dash, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18622
+GEO:-30.3379529338159;152.706501310254
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18618@eventor.orienteering.asn.au
