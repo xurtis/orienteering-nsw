@@ -939,7 +939,7 @@ GEO:-38.1632375193236;144.332071443328
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18475@eventor.orienteering.asn.au
-DTSTAMP:20230131T061222Z
+DTSTAMP:20230203T085613Z
 DTSTART:20230202T130000Z
 DTEND:20230203T130000Z
 SUMMARY:Hobart O-Fest - Sprint - UTAS Sandy Bay, Australopers
@@ -957,7 +957,7 @@ GEO:-12.3774482262303;130.870120578665
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18560@eventor.orienteering.asn.au
-DTSTAMP:20230131T062418Z
+DTSTAMP:20230203T084823Z
 DTSTART:20230203T070000Z
 DTEND:20230203T083000Z
 SUMMARY:Goldseekers Summer Series #1, Goldseekers Orienteers
@@ -992,16 +992,8 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18359
 GEO:-34.1616873352386;150.611543007937
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18580@eventor.orienteering.asn.au
-DTSTAMP:20230201T011908Z
-DTSTART:20230203T220000Z
-DTEND:20230211T010000Z
-SUMMARY:SOS Term 1 Pass (Explorer Pass), Bold Horizons Event Organiser
-URL:https://eventor.orienteering.asn.au/Events/Show/18580
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18422@eventor.orienteering.asn.au
-DTSTAMP:20230129T223759Z
+DTSTAMP:20230203T070420Z
 DTSTART:20230203T223000Z
 DTEND:20230203T223000Z
 SUMMARY:Saturday Orienteering Series 3D - Normanhurst, Bold Horizons Event Organiser
@@ -1288,6 +1280,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18360
 GEO:-34.046279958867;150.745749729955
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18580@eventor.orienteering.asn.au
+DTSTAMP:20230203T065424Z
+DTSTART:20230210T220000Z
+DTEND:20230211T010000Z
+SUMMARY:SOS Term 1 Pass (Explorer Pass), Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/18580
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18189@eventor.orienteering.asn.au
 DTSTAMP:20230105T002902Z
 DTSTART:20230211T000000Z
@@ -1446,12 +1446,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18457
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18454@eventor.orienteering.asn.au
-DTSTAMP:20230117T115313Z
+DTSTAMP:20230203T020644Z
 DTSTART:20230215T000000Z
 DTEND:20230215T023000Z
 SUMMARY:Midweek Training Athelstone, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18454
-GEO:-34.8631930674593;138.720830022975
+GEO:-34.8641385214979;138.714750296252
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18478@eventor.orienteering.asn.au
@@ -1543,7 +1543,7 @@ GEO:-38.1569550765707;144.346700198273
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18579@eventor.orienteering.asn.au
-DTSTAMP:20230127T074603Z
+DTSTAMP:20230203T065131Z
 DTSTART:20230216T130000Z
 DTEND:20230219T130000Z
 SUMMARY:Orange HighPerformance Training, Orienteering Australia
@@ -1649,10 +1649,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18306
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18623@eventor.orienteering.asn.au
-DTSTAMP:20230202T115952Z
+DTSTAMP:20230203T102913Z
 DTSTART:20230218T230000Z
 DTEND:20230218T230000Z
-SUMMARY:Perseverance Dam, Range Runners Orienteering Club
+SUMMARY:Perseverance Dam Coaching, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18623
 END:VEVENT
 BEGIN:VEVENT
@@ -2417,21 +2417,21 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18353
 GEO:-27.5184205253548;152.985718137149
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18492@eventor.orienteering.asn.au
-DTSTAMP:20230119T215532Z
+UID:Event_18525@eventor.orienteering.asn.au
+DTSTAMP:20230203T074904Z
 DTSTART:20230314T130000Z
 DTEND:20230315T130000Z
-SUMMARY:Bellerive + Fort - Southern Autumn Schools/Twilight Series #5, Australopers
-URL:https://eventor.orienteering.asn.au/Events/Show/18492
-GEO:-42.8804800057833;147.367144158479
+SUMMARY:Trevallyn - Northern Autumn Twilight Series #5, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/18525
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18525@eventor.orienteering.asn.au
-DTSTAMP:20230130T102733Z
+UID:Event_18492@eventor.orienteering.asn.au
+DTSTAMP:20230203T073412Z
 DTSTART:20230314T130000Z
 DTEND:20230315T130000Z
-SUMMARY:Trevallyn- Northern Autumn Twilight Series #5, Esk Valley
-URL:https://eventor.orienteering.asn.au/Events/Show/18525
+SUMMARY:Wentworth Park - Southern Autumn Schools/Twilight Series #5, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/18492
+GEO:-42.8804800057833;147.367144158479
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18455@eventor.orienteering.asn.au
@@ -2645,10 +2645,10 @@ GEO:-27.4869444011934;153.016634683232
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18526@eventor.orienteering.asn.au
-DTSTAMP:20230130T103306Z
+DTSTAMP:20230203T074919Z
 DTSTART:20230321T130000Z
 DTEND:20230322T130000Z
-SUMMARY:Punchbowl- Northern Autumn Twilight Series #6, Esk Valley
+SUMMARY:Punchbowl - Northern Autumn Twilight Series #6, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/18526
 GEO:-41.4035146151223;147.094023076246
 END:VEVENT
@@ -2714,7 +2714,7 @@ GEO:-41.4446610042362;147.092615329631
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17751@eventor.orienteering.asn.au
-DTSTAMP:20230124T201221Z
+DTSTAMP:20230202T235850Z
 DTSTART:20230324T130000Z
 DTEND:20230325T130000Z
 SUMMARY:2023 NSW State League #1 - Sprint (NSW Sprint Championships), Uringa Orienteers
@@ -2781,7 +2781,7 @@ DTSTART:20230325T223000Z
 DTEND:20230325T223000Z
 SUMMARY:2023 NSW State League #2 - Middle Distance, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17752
-GEO:-34.5311279168138;150.214386193726
+GEO:-34.531111610278;150.214316721886
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18176@eventor.orienteering.asn.au
@@ -2820,7 +2820,7 @@ UID:Event_18507@eventor.orienteering.asn.au
 DTSTAMP:20230120T051637Z
 DTSTART:20230328T073000Z
 DTEND:20230328T091000Z
-SUMMARY:Melbourne Park Street Tuesday Autumn Series - Newport, Bayside Kangaroos Orienteers
+SUMMARY:Melbourne Park Street Tuesday Autumn Series - Newport, Tuckonie Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18507
 END:VEVENT
 BEGIN:VEVENT
@@ -3333,10 +3333,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17857
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16770@eventor.orienteering.asn.au
-DTSTAMP:20211214T012731Z
+DTSTAMP:20230203T012234Z
 DTSTART:20230506T040000Z
 DTEND:20230506T040000Z
-SUMMARY:EODS - Venue TBC, Enoggeroos
+SUMMARY:EODS - Venue The Gap SHS?? TBC, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/16770
 END:VEVENT
 BEGIN:VEVENT
@@ -3649,14 +3649,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18388
 GEO:-36.7607740577348;144.28427020408
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_16774@eventor.orienteering.asn.au
-DTSTAMP:20211214T012943Z
-DTSTART:20230603T040000Z
-DTEND:20230603T040000Z
-SUMMARY:EODS - Venue TBC, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/16774
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18193@eventor.orienteering.asn.au
 DTSTAMP:20221115T065835Z
 DTSTART:20230603T230000Z
@@ -3786,10 +3778,10 @@ GEO:-36.7652326518926;144.304901002862
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16776@eventor.orienteering.asn.au
-DTSTAMP:20211214T013031Z
+DTSTAMP:20230203T015207Z
 DTSTART:20230617T040000Z
 DTEND:20230617T040000Z
-SUMMARY:EODS - Venue TBC, Enoggeroos
+SUMMARY:EODS - Venue Sprint?? TBC, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/16776
 END:VEVENT
 BEGIN:VEVENT
@@ -3862,10 +3854,10 @@ GEO:-36.7576881958577;144.289786553218
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16777@eventor.orienteering.asn.au
-DTSTAMP:20220708T013938Z
+DTSTAMP:20230203T013430Z
 DTSTART:20230624T040000Z
 DTEND:20230624T040000Z
-SUMMARY:EODS - Venue TBC, Enoggeroos
+SUMMARY:EODS - Venue Ferny Grove SHS?? TBC, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/16777
 GEO:-27.4207588232106;152.909709899862
 END:VEVENT
