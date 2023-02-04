@@ -38,11 +38,35 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18475
 GEO:-42.9000665150859;147.330676295602
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18476@eventor.orienteering.asn.au
-DTSTAMP:20230126T014548Z
+UID:Event_18637@eventor.orienteering.asn.au
+DTSTAMP:20230204T054016Z
 DTSTART:20230203T130000Z
 DTEND:20230204T130000Z
-SUMMARY:Hobart O-Fest - Gravity O - Waterworks Reserve, Australopers
+SUMMARY:Hobart O-Fest - Gravity O - Elite Stages 1 to 4 - Results Only, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/18637
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18633@eventor.orienteering.asn.au
+DTSTAMP:20230204T043317Z
+DTSTART:20230203T130000Z
+DTEND:20230204T130000Z
+SUMMARY:Hobart O-Fest - Gravity O - Normal Hard & Moderate - Results Only, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/18633
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18636@eventor.orienteering.asn.au
+DTSTAMP:20230204T052219Z
+DTSTART:20230203T130000Z
+DTEND:20230204T130000Z
+SUMMARY:Hobart O-Fest - Gravity O - Pro Stages 1 to 3 - Results Only, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/18636
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18476@eventor.orienteering.asn.au
+DTSTAMP:20230204T043903Z
+DTSTART:20230203T130000Z
+DTEND:20230204T130000Z
+SUMMARY:Hobart O-Fest - Gravity O - Waterworks - Entry Only, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18476
 GEO:-42.9094585708535;147.287612401257
 END:VEVENT

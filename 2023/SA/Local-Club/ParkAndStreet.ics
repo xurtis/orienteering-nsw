@@ -92,4 +92,21 @@ SUMMARY:Port Elliot, Onkaparinga Hills Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18376
 GEO:-35.5321617577696;138.686414376724
 END:VEVENT
+BEGIN:VEVENT
+UID:Event_18630@eventor.orienteering.asn.au
+DTSTAMP:20230204T034541Z
+DTSTART:20230514T003000Z
+DTEND:20230514T003000Z
+SUMMARY:Carisbrooke Park, Tintookies Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18630
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18631@eventor.orienteering.asn.au
+DTSTAMP:20230204T034604Z
+DTSTART:20230723T003000Z
+DTEND:20230723T003000Z
+SUMMARY:Keithcot Farm, Tintookies Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18631
+GEO:-34.7983309349021;138.678757421329
+END:VEVENT
 END:VCALENDAR
