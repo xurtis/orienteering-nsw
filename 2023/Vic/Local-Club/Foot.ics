@@ -13,9 +13,9 @@ GEO:-36.8070803110643;144.232435739719
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18576@eventor.orienteering.asn.au
-DTSTAMP:20230126T233751Z
+DTSTAMP:20230204T223340Z
 DTSTART:20230208T070000Z
-DTEND:20230208T070000Z
+DTEND:20230208T090000Z
 SUMMARY:Central Highlands Orienteers Twilight Sprints - Gisborne, Central Highlands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18576
 GEO:-37.4853918453318;144.592036576456
@@ -30,6 +30,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18369
 GEO:-37.7822948773832;144.963444083639
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18639@eventor.orienteering.asn.au
+DTSTAMP:20230204T223645Z
+DTSTART:20230215T070000Z
+DTEND:20230215T090000Z
+SUMMARY:Central Highlands Orienteers Twilight Sprints - Kyneton, Central Highlands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18639
+GEO:-37.253281825803;144.450063939598
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18370@eventor.orienteering.asn.au
 DTSTAMP:20230112T051556Z
 DTSTART:20230217T213000Z
@@ -37,6 +46,15 @@ DTEND:20230217T213000Z
 SUMMARY:Princes Park Orienteering Week 2, Melbourne Forest Racers
 URL:https://eventor.orienteering.asn.au/Events/Show/18370
 GEO:-37.7822922573462;144.963485160643
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18640@eventor.orienteering.asn.au
+DTSTAMP:20230204T224315Z
+DTSTART:20230222T070000Z
+DTEND:20230222T090000Z
+SUMMARY:Central Highlands Orienteers Twilight Sprints - Woodend, Central Highlands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18640
+GEO:-37.3540244417617;144.529263167172
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18458@eventor.orienteering.asn.au
@@ -210,6 +228,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18390
 GEO:-36.7576881958577;144.289786553218
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18641@eventor.orienteering.asn.au
+DTSTAMP:20230205T025148Z
+DTSTART:20230625T000000Z
+DTEND:20230625T000000Z
+SUMMARY:Ballart Winter Series #1 Nerrina, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18641
+GEO:-37.5428542049789;143.895493942536
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18391@eventor.orienteering.asn.au
 DTSTAMP:20230106T113603Z
 DTSTART:20230701T023000Z
@@ -217,6 +244,15 @@ DTEND:20230701T040000Z
 SUMMARY:Bendigo Bush 9 - Virginia Hill, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18391
 GEO:-36.7285297797463;144.270994942995
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18642@eventor.orienteering.asn.au
+DTSTAMP:20230205T025301Z
+DTSTART:20230702T000000Z
+DTEND:20230702T000000Z
+SUMMARY:Ballarat Winter Series #2 Yuille Wetlands , Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18642
+GEO:-37.5921740276354;143.846549507287
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18445@eventor.orienteering.asn.au
@@ -235,6 +271,15 @@ DTEND:20230708T040000Z
 SUMMARY:Bendigo Training - Score Event - New St Mungo, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18392
 GEO:-36.7580860215876;144.297999753514
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18643@eventor.orienteering.asn.au
+DTSTAMP:20230205T022921Z
+DTSTART:20230709T000000Z
+DTEND:20230709T000000Z
+SUMMARY:Ballarat Winter Series #3 Federation Uni , Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18643
+GEO:-37.6248005967573;143.890436299191
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18393@eventor.orienteering.asn.au
@@ -262,6 +307,15 @@ DTEND:20230722T040000Z
 SUMMARY:Bendigo Bush 11 - Smiths Reef, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18394
 GEO:-36.7479656063416;144.294917760531
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18644@eventor.orienteering.asn.au
+DTSTAMP:20230205T032347Z
+DTSTART:20230723T000000Z
+DTEND:20230723T000000Z
+SUMMARY:Ballarat Winter Series #4 Lake Daylesford, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18644
+GEO:-37.3482295014598;144.137437064277
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18395@eventor.orienteering.asn.au

@@ -58,7 +58,7 @@ GEO:-32.0202684829925;115.877535014648
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18449@eventor.orienteering.asn.au
-DTSTAMP:20230201T112706Z
+DTSTAMP:20230205T102900Z
 DTSTART:20230205T073000Z
 DTEND:20230205T093000Z
 SUMMARY:Marlston (SWOT Urban Series 1), South-West Orienteering Trekkers
@@ -67,7 +67,7 @@ GEO:-33.3197416522615;115.637112523186
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18004@eventor.orienteering.asn.au
-DTSTAMP:20230201T102510Z
+DTSTAMP:20230205T111758Z
 DTSTART:20230211T090000Z
 DTEND:20230211T101500Z
 SUMMARY:MetrO 11 - Viveash, Bibbulmun Orienteers / Orienteering WA
@@ -102,6 +102,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18451
 GEO:-33.2604133691211;115.730799071886
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18645@eventor.orienteering.asn.au
+DTSTAMP:20230205T062108Z
+DTSTART:20230225T160000Z
+DTEND:20230226T160000Z
+SUMMARY:NavDash 1 ECU Joondalup, Orienteering WA / Wullundigong Orienteers of the West
+URL:https://eventor.orienteering.asn.au/Events/Show/18645
+GEO:-31.752611847366;115.772448426353
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18529@eventor.orienteering.asn.au
 DTSTAMP:20230204T041934Z
 DTSTART:20230305T033000Z
@@ -109,6 +118,15 @@ DTEND:20230305T040000Z
 SUMMARY:Albany - Bethel School, Albany & Denmark Hinterland Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18529
 GEO:-35.0057887262552;117.881726530661
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18646@eventor.orienteering.asn.au
+DTSTAMP:20230205T105346Z
+DTSTART:20230311T160000Z
+DTEND:20230312T160000Z
+SUMMARY:NavDash 2 Russell's Gully, Bibbulmun Orienteers / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/18646
+GEO:-31.7750371187953;116.080372437529
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18452@eventor.orienteering.asn.au
@@ -126,6 +144,15 @@ DTSTART:20230319T010000Z
 DTEND:20230319T010000Z
 SUMMARY:Albany - Mt Barker College, Albany & Denmark Hinterland Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18530
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18647@eventor.orienteering.asn.au
+DTSTAMP:20230205T110846Z
+DTSTART:20230325T160000Z
+DTEND:20230326T160000Z
+SUMMARY:NavDash 3 North Lake SC, Kulgun 225 Orienteers / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/18647
+GEO:-32.0734628307084;115.813696633746
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18531@eventor.orienteering.asn.au

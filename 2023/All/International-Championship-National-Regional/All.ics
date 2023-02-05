@@ -264,12 +264,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17888
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17751@eventor.orienteering.asn.au
-DTSTAMP:20230202T235850Z
+DTSTAMP:20230204T185343Z
 DTSTART:20230324T130000Z
 DTEND:20230325T130000Z
 SUMMARY:2023 NSW State League #1 - Sprint (NSW Sprint Championships), Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17751
-GEO:-34.507763927991;150.408861270795
+GEO:-34.5084563672071;150.40761969796
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17808@eventor.orienteering.asn.au
@@ -281,22 +281,22 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17808
 GEO:-27.9229337680812;153.358151897178
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18349@eventor.orienteering.asn.au
-DTSTAMP:20230112T050939Z
-DTSTART:20230325T130000Z
-DTEND:20230326T130000Z
-SUMMARY:MTBO Vic Series #1 - Maryborough, Bayside Kangaroos Orienteers / Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18349
-GEO:-37.0553379173649;143.743733480509
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_17752@eventor.orienteering.asn.au
-DTSTAMP:20230124T200700Z
+DTSTAMP:20230205T080735Z
 DTSTART:20230325T223000Z
 DTEND:20230325T223000Z
 SUMMARY:2023 NSW State League #2 - Middle Distance, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17752
-GEO:-34.531111610278;150.214316721886
+GEO:-34.5307847844207;150.210218028659
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18349@eventor.orienteering.asn.au
+DTSTAMP:20230205T030008Z
+DTSTART:20230325T230000Z
+DTEND:20230325T230000Z
+SUMMARY:MTBO Vic Series #1 - Maryborough, Bayside Kangaroos Orienteers / Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18349
+GEO:-37.0553379173649;143.743733480509
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18017@eventor.orienteering.asn.au
