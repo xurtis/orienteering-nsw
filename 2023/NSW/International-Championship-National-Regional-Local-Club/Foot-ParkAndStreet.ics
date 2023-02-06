@@ -327,7 +327,7 @@ GEO:-30.5015283727401;151.675236178063
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18089@eventor.orienteering.asn.au
-DTSTAMP:20221022T092744Z
+DTSTAMP:20230206T005046Z
 DTSTART:20230209T223000Z
 DTEND:20230210T010000Z
 SUMMARY:NSW Seniors Festival: Balmain, Uringa Orienteers
@@ -342,15 +342,6 @@ DTEND:20230210T083000Z
 SUMMARY:Goldseekers Summer Series #2, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18561
 GEO:-33.282897421639;149.090745177991
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18423@eventor.orienteering.asn.au
-DTSTAMP:20230125T051616Z
-DTSTART:20230210T130000Z
-DTEND:20230211T130000Z
-SUMMARY:Saturday Orienteering Series 3D - Frenchs Forest, Bold Horizons Event Organiser
-URL:https://eventor.orienteering.asn.au/Events/Show/18423
-GEO:-33.743523;151.204432
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18360@eventor.orienteering.asn.au
@@ -368,6 +359,15 @@ DTSTART:20230210T220000Z
 DTEND:20230211T010000Z
 SUMMARY:SOS Term 1 Pass (Explorer Pass), Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/18580
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18423@eventor.orienteering.asn.au
+DTSTAMP:20230206T005117Z
+DTSTART:20230210T223000Z
+DTEND:20230210T223000Z
+SUMMARY:Saturday Orienteering Series 3D - Frenchs Forest, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/18423
+GEO:-33.743523;151.204432
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17949@eventor.orienteering.asn.au
@@ -711,7 +711,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18617
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17751@eventor.orienteering.asn.au
-DTSTAMP:20230204T185343Z
+DTSTAMP:20230206T031124Z
 DTSTART:20230324T130000Z
 DTEND:20230325T130000Z
 SUMMARY:2023 NSW State League #1 - Sprint (NSW Sprint Championships), Uringa Orienteers

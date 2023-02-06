@@ -520,15 +520,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18561
 GEO:-33.282897421639;149.090745177991
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18423@eventor.orienteering.asn.au
-DTSTAMP:20230125T051616Z
-DTSTART:20230210T130000Z
-DTEND:20230211T130000Z
-SUMMARY:Saturday Orienteering Series 3D - Frenchs Forest, Bold Horizons Event Organiser
-URL:https://eventor.orienteering.asn.au/Events/Show/18423
-GEO:-33.743523;151.204432
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18369@eventor.orienteering.asn.au
 DTSTAMP:20230112T051515Z
 DTSTART:20230210T213000Z
@@ -547,6 +538,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18360
 GEO:-34.046279958867;150.745749729955
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18423@eventor.orienteering.asn.au
+DTSTAMP:20230206T005117Z
+DTSTART:20230210T223000Z
+DTEND:20230210T223000Z
+SUMMARY:Saturday Orienteering Series 3D - Frenchs Forest, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/18423
+GEO:-33.743523;151.204432
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17949@eventor.orienteering.asn.au
 DTSTAMP:20230131T000520Z
 DTSTART:20230211T220000Z
@@ -562,6 +562,7 @@ DTSTART:20230211T220000Z
 DTEND:20230211T233000Z
 SUMMARY:ACT Sprint Series #2, CIT Bruce, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18305
+GEO:-35.2493134922181;149.095394421722
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18338@eventor.orienteering.asn.au
@@ -644,7 +645,7 @@ GEO:-34.0280523113147;150.739106788855
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18108@eventor.orienteering.asn.au
-DTSTAMP:20230106T104609Z
+DTSTAMP:20230205T212835Z
 DTSTART:20230217T220000Z
 DTEND:20230219T060000Z
 SUMMARY:ACT MTBO Training Weekend, Orienteering ACT
@@ -693,6 +694,7 @@ DTSTART:20230220T060000Z
 DTEND:20230220T081500Z
 SUMMARY:ACT MapRun Street Series: Conder, 16-20 Feb, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18255
+GEO:-35.4591938064088;149.093571765666
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17793@eventor.orienteering.asn.au
@@ -1002,7 +1004,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18617
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17751@eventor.orienteering.asn.au
-DTSTAMP:20230204T185343Z
+DTSTAMP:20230206T031124Z
 DTSTART:20230324T130000Z
 DTEND:20230325T130000Z
 SUMMARY:2023 NSW State League #1 - Sprint (NSW Sprint Championships), Uringa Orienteers
@@ -1036,13 +1038,13 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17752
 GEO:-34.5307847844207;150.210218028659
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18349@eventor.orienteering.asn.au
-DTSTAMP:20230205T030008Z
+UID:Event_18659@eventor.orienteering.asn.au
+DTSTAMP:20230206T105641Z
 DTSTART:20230325T230000Z
-DTEND:20230325T230000Z
+DTEND:20230326T050000Z
 SUMMARY:MTBO Vic Series #1 - Maryborough, Bayside Kangaroos Orienteers / Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18349
-GEO:-37.0553379173649;143.743733480509
+URL:https://eventor.orienteering.asn.au/Events/Show/18659
+GEO:-37.0552389803869;143.743587987092
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18260@eventor.orienteering.asn.au
@@ -1079,21 +1081,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18017
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18495@eventor.orienteering.asn.au
-DTSTAMP:20230119T221509Z
+DTSTAMP:20230205T222334Z
 DTSTART:20230401T130000Z
 DTEND:20230402T140000Z
-SUMMARY:Stags Head - Tas Schools Champs (Schools Selection Event 1)	, Australopers
+SUMMARY:Stags Head - Tas Schools Champs - Schools Selection Event 1, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18495
 GEO:-42.306267;147.152249
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18246@eventor.orienteering.asn.au
-DTSTAMP:20230112T051734Z
-DTSTART:20230401T130000Z
-DTEND:20230402T140000Z
-SUMMARY:Victorian Relays- Woowookarung, Ballarat, Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18246
-GEO:-37.579869954156;143.892611898277
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18309@eventor.orienteering.asn.au
@@ -1110,6 +1103,15 @@ DTSTART:20230401T230100Z
 DTEND:20230401T230200Z
 SUMMARY:ACT Sprint Series Season Pass, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18310
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18246@eventor.orienteering.asn.au
+DTSTAMP:20230206T003058Z
+DTSTART:20230402T000000Z
+DTEND:20230402T000000Z
+SUMMARY:Victorian Relays- Woowookarung, Ballarat, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18246
+GEO:-37.579869954156;143.892611898277
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18622@eventor.orienteering.asn.au
@@ -1609,6 +1611,15 @@ SUMMARY:MTBO Vic Series #3 - Fingerpost Corner, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18345
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18541@eventor.orienteering.asn.au
+DTSTAMP:20230206T014816Z
+DTSTART:20230901T140000Z
+DTEND:20230902T140000Z
+SUMMARY:NSW MTBO Champs - Long, Bush n Beach Orienteering Club / Hastings Orienteering Group / Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18541
+GEO:-31.1025492928456;152.828099573909
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18245@eventor.orienteering.asn.au
 DTSTAMP:20230112T051837Z
 DTSTART:20230901T140000Z
@@ -1632,6 +1643,23 @@ DTSTART:20230902T003100Z
 DTEND:20230902T003200Z
 SUMMARY:ACT Metro Series Season Pass, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/17871
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18542@eventor.orienteering.asn.au
+DTSTAMP:20230206T014848Z
+DTSTART:20230902T140000Z
+DTEND:20230903T140000Z
+SUMMARY:NSW MTBO Champs - Middle, Bush n Beach Orienteering Club / Hastings Orienteering Group / Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18542
+GEO:-30.6692998592909;152.952265402865
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18543@eventor.orienteering.asn.au
+DTSTAMP:20230206T014922Z
+DTSTART:20230902T140000Z
+DTEND:20230903T140000Z
+SUMMARY:NSW MTBO Champs - Sprint, Bush n Beach Orienteering Club / Hastings Orienteering Group / Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18543
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18244@eventor.orienteering.asn.au

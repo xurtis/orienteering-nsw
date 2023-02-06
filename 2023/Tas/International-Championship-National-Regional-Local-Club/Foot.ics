@@ -204,7 +204,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18539
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18478@eventor.orienteering.asn.au
-DTSTAMP:20230122T232427Z
+DTSTAMP:20230205T224417Z
 DTSTART:20230215T040000Z
 DTEND:20230215T040000Z
 SUMMARY:Lambert Gully - Southern Autumn Schools/Twilight Series #1, Australopers
@@ -231,7 +231,7 @@ GEO:-41.4462538892628;147.120771623236
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18479@eventor.orienteering.asn.au
-DTSTAMP:20230118T220306Z
+DTSTAMP:20230205T224520Z
 DTSTART:20230221T130000Z
 DTEND:20230222T130000Z
 SUMMARY:Kangaroo Bay	- Southern Autumn Schools/Twilight Series #2, Australopers
@@ -370,10 +370,10 @@ GEO:-41.0613007141333;145.883598126638
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18495@eventor.orienteering.asn.au
-DTSTAMP:20230119T221509Z
+DTSTAMP:20230205T222334Z
 DTSTART:20230401T130000Z
 DTEND:20230402T140000Z
-SUMMARY:Stags Head - Tas Schools Champs (Schools Selection Event 1)	, Australopers
+SUMMARY:Stags Head - Tas Schools Champs - Schools Selection Event 1, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18495
 GEO:-42.306267;147.152249
 END:VEVENT
@@ -387,6 +387,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18558
 GEO:-41.1519663453949;146.175252683073
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18650@eventor.orienteering.asn.au
+DTSTAMP:20230205T222305Z
+DTSTART:20230421T140000Z
+DTEND:20230422T140000Z
+SUMMARY:Tarraleah - Sprint - Schools Selection Event 3, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/18650
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18528@eventor.orienteering.asn.au
 DTSTAMP:20230122T013408Z
 DTSTART:20230422T140000Z
@@ -395,11 +403,29 @@ SUMMARY:Central Plateau - Clarence River Marshes - OST 3, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18528
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18652@eventor.orienteering.asn.au
+DTSTAMP:20230205T223059Z
+DTSTART:20230513T140000Z
+DTEND:20230514T140000Z
+SUMMARY:Coningham - Southern Local #3, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/18652
+GEO:-43.0805065281044;147.28589607175
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18559@eventor.orienteering.asn.au
 DTSTAMP:20230124T214222Z
 DTSTART:20230527T140000Z
 DTEND:20230528T140000Z
 SUMMARY:East Devonport - NW Local #4, Pathfinders
 URL:https://eventor.orienteering.asn.au/Events/Show/18559
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18654@eventor.orienteering.asn.au
+DTSTAMP:20230205T223937Z
+DTSTART:20230527T140000Z
+DTEND:20230528T140000Z
+SUMMARY:Tolosa Park - Southern Local #4, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/18654
+GEO:-42.855598487678;147.244785916588
 END:VEVENT
 END:VCALENDAR

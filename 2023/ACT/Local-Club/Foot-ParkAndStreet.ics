@@ -124,6 +124,7 @@ DTSTART:20230211T220000Z
 DTEND:20230211T233000Z
 SUMMARY:ACT Sprint Series #2, CIT Bruce, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18305
+GEO:-35.2493134922181;149.095394421722
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18254@eventor.orienteering.asn.au
@@ -158,6 +159,7 @@ DTSTART:20230220T060000Z
 DTEND:20230220T081500Z
 SUMMARY:ACT MapRun Street Series: Conder, 16-20 Feb, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18255
+GEO:-35.4591938064088;149.093571765666
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17740@eventor.orienteering.asn.au
@@ -262,11 +264,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18488
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18427@eventor.orienteering.asn.au
-DTSTAMP:20230110T104435Z
+DTSTAMP:20230206T021930Z
 DTSTART:20230316T220000Z
 DTEND:20230318T220000Z
 SUMMARY:ACT March Training Camp, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18427
+GEO:-36.2396441344374;149.110931943445
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18259@eventor.orienteering.asn.au

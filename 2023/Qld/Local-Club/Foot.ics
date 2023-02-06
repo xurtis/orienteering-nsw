@@ -145,6 +145,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/16767
 GEO:-27.4479228410289;152.948086834599
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18367@eventor.orienteering.asn.au
+DTSTAMP:20230205T235354Z
+DTSTART:20230204T140000Z
+DTEND:20230205T140000Z
+SUMMARY:MapRun Parks 2023 - Fig Tree Pocket - Cliveden Park, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18367
+GEO:-27.517065;152.95937
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18418@eventor.orienteering.asn.au
 DTSTAMP:20230205T081450Z
 DTSTART:20230205T050000Z
@@ -152,15 +161,6 @@ DTEND:20230205T050000Z
 SUMMARY:Pittsworth SHS, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18418
 GEO:-27.7106370601773;151.643997474541
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18367@eventor.orienteering.asn.au
-DTSTAMP:20221229T214244Z
-DTSTART:20230205T060000Z
-DTEND:20230205T060000Z
-SUMMARY:MapRun Parks 2023 - Fig Tree Pocket - Cliveden Park, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18367
-GEO:-27.517065;152.95937
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16948@eventor.orienteering.asn.au
@@ -225,6 +225,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18350
 GEO:-27.4780905455066;152.995640864651
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18649@eventor.orienteering.asn.au
+DTSTAMP:20230206T015955Z
+DTSTART:20230214T080000Z
+DTEND:20230214T100000Z
+SUMMARY:Night Nav - Brightwater, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18649
+GEO:-26.7013474705379;153.106801921433
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_16954@eventor.orienteering.asn.au
 DTSTAMP:20230118T110242Z
 DTSTART:20230218T053000Z
@@ -260,6 +269,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18351
 GEO:-27.4990682850369;153.004500085927
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18658@eventor.orienteering.asn.au
+DTSTAMP:20230206T062425Z
+DTSTART:20230221T080000Z
+DTEND:20230221T080000Z
+SUMMARY:Night Nav - Kings Beach, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18658
+GEO:-26.8015126182198;153.143620803738
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18565@eventor.orienteering.asn.au
 DTSTAMP:20230126T010427Z
 DTSTART:20230222T073000Z
@@ -270,10 +288,10 @@ GEO:-21.1122997419669;149.145747020134
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16955@eventor.orienteering.asn.au
-DTSTAMP:20221115T022723Z
+DTSTAMP:20230206T104817Z
 DTSTART:20230225T053000Z
 DTEND:20230225T053000Z
-SUMMARY:Park-O #6 Spring Mountain PLUS Foot/MTBO DUO , Ugly Gully Orienteers
+SUMMARY:Park-O #6 Spring Mountain, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/16955
 END:VEVENT
 BEGIN:VEVENT
@@ -293,6 +311,15 @@ DTEND:20230228T093000Z
 SUMMARY:Night Nav - Cicada Park, Chapel Hill, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18352
 GEO:-27.4948593335112;152.941656840581
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18660@eventor.orienteering.asn.au
+DTSTAMP:20230206T064124Z
+DTSTART:20230228T080000Z
+DTEND:20230228T080000Z
+SUMMARY:Night Nav - Noosa , Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18660
+GEO:-26.4124838557542;153.093028506248
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18011@eventor.orienteering.asn.au
@@ -319,6 +346,14 @@ DTEND:20230307T093000Z
 SUMMARY:Night Nav - Rosalie - BCC, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/16946
 GEO:-27.4687133725805;153.00018131552
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18661@eventor.orienteering.asn.au
+DTSTAMP:20230206T064542Z
+DTSTART:20230307T080000Z
+DTEND:20230307T080000Z
+SUMMARY:Night Nav - Sunshine Cove, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18661
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18468@eventor.orienteering.asn.au

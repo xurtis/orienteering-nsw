@@ -657,6 +657,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18648
 GEO:-34.7210914219892;135.861201082877
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18367@eventor.orienteering.asn.au
+DTSTAMP:20230205T235354Z
+DTSTART:20230204T140000Z
+DTEND:20230205T140000Z
+SUMMARY:MapRun Parks 2023 - Fig Tree Pocket - Cliveden Park, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18367
+GEO:-27.517065;152.95937
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17948@eventor.orienteering.asn.au
 DTSTAMP:20230205T003332Z
 DTSTART:20230204T220000Z
@@ -944,6 +953,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18350
 GEO:-27.4780905455066;152.995640864651
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18649@eventor.orienteering.asn.au
+DTSTAMP:20230206T015955Z
+DTSTART:20230214T080000Z
+DTEND:20230214T100000Z
+SUMMARY:Night Nav - Brightwater, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18649
+GEO:-26.7013474705379;153.106801921433
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17792@eventor.orienteering.asn.au
 DTSTAMP:20230131T041002Z
 DTSTART:20230215T053000Z
@@ -1092,6 +1110,7 @@ DTSTART:20230220T060000Z
 DTEND:20230220T081500Z
 SUMMARY:ACT MapRun Street Series: Conder, 16-20 Feb, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18255
+GEO:-35.4591938064088;149.093571765666
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18264@eventor.orienteering.asn.au
@@ -1119,6 +1138,15 @@ DTEND:20230221T093000Z
 SUMMARY:Night Nav - St Lucia, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18351
 GEO:-27.4990682850369;153.004500085927
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18658@eventor.orienteering.asn.au
+DTSTAMP:20230206T062425Z
+DTSTART:20230221T080000Z
+DTEND:20230221T080000Z
+SUMMARY:Night Nav - Kings Beach, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18658
+GEO:-26.8015126182198;153.143620803738
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17793@eventor.orienteering.asn.au
@@ -1272,6 +1300,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18352
 GEO:-27.4948593335112;152.941656840581
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18660@eventor.orienteering.asn.au
+DTSTAMP:20230206T064124Z
+DTSTART:20230228T080000Z
+DTEND:20230228T080000Z
+SUMMARY:Night Nav - Noosa , Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18660
+GEO:-26.4124838557542;153.093028506248
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17794@eventor.orienteering.asn.au
 DTSTAMP:20230128T210021Z
 DTSTART:20230301T053000Z
@@ -1381,6 +1418,14 @@ DTEND:20230307T093000Z
 SUMMARY:Night Nav - Rosalie - BCC, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/16946
 GEO:-27.4687133725805;153.00018131552
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18661@eventor.orienteering.asn.au
+DTSTAMP:20230206T064542Z
+DTSTART:20230307T080000Z
+DTEND:20230307T080000Z
+SUMMARY:Night Nav - Sunshine Cove, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18661
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17795@eventor.orienteering.asn.au
@@ -1949,7 +1994,7 @@ GEO:-21.1735710941858;149.149711096959
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18644@eventor.orienteering.asn.au
-DTSTAMP:20230205T032347Z
+DTSTAMP:20230205T235611Z
 DTSTART:20230723T000000Z
 DTEND:20230723T000000Z
 SUMMARY:Ballarat Winter Series #4 Lake Daylesford, Eureka Orienteers
