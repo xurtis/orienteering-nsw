@@ -164,7 +164,7 @@ GEO:-27.517065;152.95937
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18418@eventor.orienteering.asn.au
-DTSTAMP:20230205T081450Z
+DTSTAMP:20230207T121840Z
 DTSTART:20230205T050000Z
 DTEND:20230205T050000Z
 SUMMARY:Pittsworth SHS, Range Runners Orienteering Club
@@ -179,6 +179,15 @@ DTEND:20230207T093000Z
 SUMMARY:Night Nav - Red Hill, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/16948
 GEO:-27.4490706722979;152.997282213787
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18662@eventor.orienteering.asn.au
+DTSTAMP:20230206T232703Z
+DTSTART:20230208T071500Z
+DTEND:20230208T091500Z
+SUMMARY:TTOC Urban Adventure 2023 - Round 1 (Townsville), Totally Tropical Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18662
+GEO:-19.2579652423831;146.815692552858
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18189@eventor.orienteering.asn.au
@@ -200,9 +209,9 @@ GEO:-27.5114713967507;152.9272705585
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18552@eventor.orienteering.asn.au
-DTSTAMP:20230130T225518Z
+DTSTAMP:20230206T225610Z
 DTSTART:20230211T230000Z
-DTEND:20230211T230000Z
+DTEND:20230212T010000Z
 SUMMARY:Victoria Park and Streets of West Warwick, Warwick, Bullecourt Boulder Bounders
 URL:https://eventor.orienteering.asn.au/Events/Show/18552
 GEO:-28.2219810889659;152.018771549646
@@ -252,6 +261,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18649
 GEO:-26.7013474705379;153.106801921433
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18663@eventor.orienteering.asn.au
+DTSTAMP:20230206T233143Z
+DTSTART:20230215T071500Z
+DTEND:20230215T091500Z
+SUMMARY:TTOC Urban Adventure 2023 - Round 2 (Townsville), Totally Tropical Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18663
+GEO:-19.2406714897381;146.802435545828
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_16954@eventor.orienteering.asn.au
 DTSTAMP:20230118T110242Z
 DTSTART:20230218T053000Z
@@ -296,6 +314,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18658
 GEO:-26.8015126182198;153.143620803738
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18664@eventor.orienteering.asn.au
+DTSTAMP:20230206T233602Z
+DTSTART:20230222T071500Z
+DTEND:20230222T091500Z
+SUMMARY:TTOC Urban Adventure 2023 - Round 3 (Townsville), Totally Tropical Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18664
+GEO:-19.2652035419607;146.817857578984
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18565@eventor.orienteering.asn.au
 DTSTAMP:20230126T010427Z
 DTSTART:20230222T073000Z
@@ -306,11 +333,12 @@ GEO:-21.1122997419669;149.145747020134
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16955@eventor.orienteering.asn.au
-DTSTAMP:20230206T104817Z
+DTSTAMP:20230207T015414Z
 DTSTART:20230225T053000Z
 DTEND:20230225T053000Z
-SUMMARY:Park-O #6 Spring Mountain, Ugly Gully Orienteers
+SUMMARY:Park-O #6 Spring Mountain (Greenbank) - Park & Bush - NEW MAP, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/16955
+GEO:-27.7391926199221;152.92262347445
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18553@eventor.orienteering.asn.au
@@ -347,6 +375,23 @@ DTEND:20230228T080000Z
 SUMMARY:Night Nav - Noosa , Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18660
 GEO:-26.4124838557542;153.093028506248
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18665@eventor.orienteering.asn.au
+DTSTAMP:20230206T233958Z
+DTSTART:20230301T071500Z
+DTEND:20230302T091500Z
+SUMMARY:TTOC Urban Adventure 2023 - Round 4 (Townsville), Totally Tropical Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18665
+GEO:-19.2456138350501;146.810419246761
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18682@eventor.orienteering.asn.au
+DTSTAMP:20230207T050804Z
+DTSTART:20230302T003000Z
+DTEND:20230302T010000Z
+SUMMARY:White's Hill, (Camp Hill). Bush. (MapRun Event), Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/18682
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18011@eventor.orienteering.asn.au
@@ -394,7 +439,7 @@ GEO:-27.4687133725805;153.00018131552
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18661@eventor.orienteering.asn.au
-DTSTAMP:20230206T064542Z
+DTSTAMP:20230207T013428Z
 DTSTART:20230307T080000Z
 DTEND:20230307T080000Z
 SUMMARY:Night Nav - Sunshine Cove, Sunshine Orienteers Club
@@ -436,6 +481,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18353
 GEO:-27.5184205253548;152.985718137149
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18671@eventor.orienteering.asn.au
+DTSTAMP:20230207T020014Z
+DTSTART:20230314T080000Z
+DTEND:20230314T080000Z
+SUMMARY:Night Nav - Golden Beach, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18671
+GEO:-26.8174762609401;153.115456114736
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18437@eventor.orienteering.asn.au
 DTSTAMP:20230112T091740Z
 DTSTART:20230316T003000Z
@@ -462,6 +516,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18354
 GEO:-27.4869444011934;153.016634683232
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18679@eventor.orienteering.asn.au
+DTSTAMP:20230207T034239Z
+DTSTART:20230321T080000Z
+DTEND:20230321T080000Z
+SUMMARY:Night Nav - Bli Bli, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18679
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18566@eventor.orienteering.asn.au
 DTSTAMP:20230126T011512Z
 DTSTART:20230322T073000Z
@@ -469,6 +531,14 @@ DTEND:20230322T091500Z
 SUMMARY:MapRun Night Nav Dolphin Heads, 21Degrees South Multisport Assoc.
 URL:https://eventor.orienteering.asn.au/Events/Show/18566
 GEO:-21.0467143179078;149.185668791012
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18680@eventor.orienteering.asn.au
+DTSTAMP:20230207T035645Z
+DTSTART:20230323T003000Z
+DTEND:20230323T010000Z
+SUMMARY:New Farm Park, New Farm. (MAPRUN EVENT), Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/18680
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17808@eventor.orienteering.asn.au
@@ -498,6 +568,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18355
 GEO:-27.5344658799769;152.956409128077
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18673@eventor.orienteering.asn.au
+DTSTAMP:20230207T025756Z
+DTSTART:20230328T080000Z
+DTEND:20230328T080000Z
+SUMMARY:Night Nav - Noosa Waters, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18673
+GEO:-26.4093512014164;153.060006312386
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17959@eventor.orienteering.asn.au
 DTSTAMP:20221004T032116Z
 DTSTART:20230330T003000Z
@@ -525,11 +604,12 @@ GEO:-27.6237840526382;153.093814396407
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17936@eventor.orienteering.asn.au
-DTSTAMP:20230206T020732Z
-DTSTART:20230401T140000Z
-DTEND:20230402T140000Z
+DTSTAMP:20230207T033513Z
+DTSTART:20230401T223000Z
+DTEND:20230401T223000Z
 SUMMARY:MTBO Sugarbag Road, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/17936
+GEO:-26.7938911243511;153.123951307545
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16951@eventor.orienteering.asn.au
@@ -610,6 +690,15 @@ DTSTART:20230506T040000Z
 DTEND:20230506T040000Z
 SUMMARY:EODS - Venue The Gap SHS?? TBC, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/16770
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18670@eventor.orienteering.asn.au
+DTSTAMP:20230207T020358Z
+DTSTART:20230507T060000Z
+DTEND:20230507T063000Z
+SUMMARY:Maprun Parks 2023 - Underwood Park, Rochedale South, Toohey Forest Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18670
+GEO:-27.6016101334277;153.146470214014
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16947@eventor.orienteering.asn.au
@@ -787,6 +876,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18569
 GEO:-21.1187310699104;149.221824968533
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18681@eventor.orienteering.asn.au
+DTSTAMP:20230207T040659Z
+DTSTART:20230622T003000Z
+DTEND:20230622T010000Z
+SUMMARY:Underwood Park, Priestdale. Park, Street, & Bush., Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/18681
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_16777@eventor.orienteering.asn.au
 DTSTAMP:20230203T013430Z
 DTSTART:20230624T040000Z
@@ -873,6 +970,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18325
 GEO:-26.490154;150.079749
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18667@eventor.orienteering.asn.au
+DTSTAMP:20230207T013024Z
+DTSTART:20230729T230000Z
+DTEND:20230730T023000Z
+SUMMARY:Fiona Calabro Memorial Event - Stockyard Creek, Toohey Forest Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18667
+GEO:-27.5706017735456;153.164232072566
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17938@eventor.orienteering.asn.au
 DTSTAMP:20230206T031526Z
 DTSTART:20230805T140000Z
@@ -888,6 +994,15 @@ DTSTART:20230812T140000Z
 DTEND:20230813T140000Z
 SUMMARY:OY9 - Sheepstation Creek (Wivenhoe) - location TBC, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18023
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18669@eventor.orienteering.asn.au
+DTSTAMP:20230207T013756Z
+DTSTART:20230819T230000Z
+DTEND:20230820T023000Z
+SUMMARY:Parkinson Forest, Parkinson, Toohey Forest Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18669
+GEO:-27.6574626002588;153.023656877118
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18439@eventor.orienteering.asn.au
@@ -974,6 +1089,15 @@ DTEND:20230920T091500Z
 SUMMARY:MapRun Night Nav East Mackay, 21Degrees South Multisport Assoc.
 URL:https://eventor.orienteering.asn.au/Events/Show/18572
 GEO:-21.1634159859388;149.197309395902
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18668@eventor.orienteering.asn.au
+DTSTAMP:20230207T020616Z
+DTSTART:20230924T060000Z
+DTEND:20230924T063000Z
+SUMMARY:Maprun Parks 2023 - Boronia Bushland Reserve, Boronia, Toohey Forest Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18668
+GEO:-27.6933619085246;153.027446824627
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17939@eventor.orienteering.asn.au

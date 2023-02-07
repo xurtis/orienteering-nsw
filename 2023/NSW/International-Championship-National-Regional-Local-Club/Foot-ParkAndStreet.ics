@@ -300,7 +300,7 @@ GEO:-31.4541001087937;152.900164446561
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16209@eventor.orienteering.asn.au
-DTSTAMP:20230204T111052Z
+DTSTAMP:20230207T095424Z
 DTSTART:20230208T053000Z
 DTEND:20230208T083000Z
 SUMMARY:2022/23 Sydney Summer Series #19 Camperdown, Garingal Orienteers
@@ -309,7 +309,7 @@ GEO:-33.8946966986971;151.177891730707
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17852@eventor.orienteering.asn.au
-DTSTAMP:20221006T113136Z
+DTSTAMP:20230207T052427Z
 DTSTART:20230208T060000Z
 DTEND:20230208T083000Z
 SUMMARY:Newcastle Summer Series - #16 Thornton East, Newcastle Orienteering Club
@@ -362,7 +362,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18580
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18423@eventor.orienteering.asn.au
-DTSTAMP:20230206T005117Z
+DTSTAMP:20230207T001406Z
 DTSTART:20230210T223000Z
 DTEND:20230210T223000Z
 SUMMARY:Saturday Orienteering Series 3D - Frenchs Forest, Bold Horizons Event Organiser
@@ -441,7 +441,7 @@ GEO:-34.0280523113147;150.739106788855
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18424@eventor.orienteering.asn.au
-DTSTAMP:20230125T052332Z
+DTSTAMP:20230207T002943Z
 DTSTART:20230217T223000Z
 DTEND:20230218T010000Z
 SUMMARY:Saturday Orienteering Series 3D - Pennant Hills, Bold Horizons Event Organiser
@@ -529,18 +529,19 @@ GEO:-33.8538680257018;151.184160757271
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18614@eventor.orienteering.asn.au
-DTSTAMP:20230201T010940Z
+DTSTAMP:20230207T061723Z
 DTSTART:20230301T054500Z
 DTEND:20230301T080000Z
 SUMMARY:2023 Urban Foot Orienteering #1, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18614
+GEO:-32.9165841586706;151.780368344208
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18238@eventor.orienteering.asn.au
-DTSTAMP:20221125T231554Z
+DTSTAMP:20230207T094651Z
 DTSTART:20230303T130000Z
 DTEND:20230305T130000Z
-SUMMARY:O'Shea 2 Days, Central Coast Orienteers
+SUMMARY:Toukley 2 Days, Central Coast Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18238
 END:VEVENT
 BEGIN:VEVENT
@@ -572,11 +573,12 @@ GEO:-33.7832620120146;151.162161300034
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18615@eventor.orienteering.asn.au
-DTSTAMP:20230201T010958Z
+DTSTAMP:20230207T063615Z
 DTSTART:20230308T054500Z
 DTEND:20230308T080000Z
 SUMMARY:2023 Urban Foot Orienteering #2, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18615
+GEO:-32.9049693966347;151.714358982825
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18139@eventor.orienteering.asn.au
@@ -592,16 +594,16 @@ UID:Event_17304@eventor.orienteering.asn.au
 DTSTAMP:20230131T230107Z
 DTSTART:20230310T130000Z
 DTEND:20230311T130000Z
-SUMMARY:Sydney Sprint Weekend - All four races, Orienteering NSW
+SUMMARY:Sydney Sprint Weekend - All four races, Big Foot Orienteers / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/17304
 GEO:-33.8863061552062;151.191824066587
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17991@eventor.orienteering.asn.au
-DTSTAMP:20221118T071912Z
+DTSTAMP:20230206T140501Z
 DTSTART:20230310T130000Z
 DTEND:20230311T130000Z
-SUMMARY:Sydney Sprint Weekend - SIAC Hire, Orienteering NSW
+SUMMARY:Sydney Sprint Weekend - SIAC Hire, Big Foot Orienteers / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/17991
 GEO:-33.8436695838677;151.190344012421
 END:VEVENT
@@ -610,7 +612,7 @@ UID:Event_17962@eventor.orienteering.asn.au
 DTSTAMP:20230131T230214Z
 DTSTART:20230310T130000Z
 DTEND:20230311T130000Z
-SUMMARY:Sydney Sprint Weekend Race 1: Elite Individual Sprint (NOL,WRE) + Public Sprint, Orienteering NSW
+SUMMARY:Sydney Sprint Weekend Race 1: Elite Individual Sprint (NOL,WRE) + Public Sprint, Big Foot Orienteers / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/17962
 GEO:-33.887705682019;151.190073399155
 END:VEVENT
@@ -619,16 +621,16 @@ UID:Event_17963@eventor.orienteering.asn.au
 DTSTAMP:20230131T230316Z
 DTSTART:20230310T130000Z
 DTEND:20230311T130000Z
-SUMMARY:Sydney Sprint Weekend Race 2: Elite Mixed Sprint Relay (NOL) + Public Individual Sprint, Orienteering NSW
+SUMMARY:Sydney Sprint Weekend Race 2: Elite Mixed Sprint Relay (NOL) + Public Individual Sprint, Big Foot Orienteers / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/17963
 GEO:-33.9175112491417;151.229931979328
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17964@eventor.orienteering.asn.au
-DTSTAMP:20221118T072205Z
+DTSTAMP:20230206T140649Z
 DTSTART:20230310T130000Z
 DTEND:20230311T130000Z
-SUMMARY:Sydney Sprint Weekend: NOL Mixed Sprint Relay - Team entry only, Orienteering NSW
+SUMMARY:Sydney Sprint Weekend: NOL Mixed Sprint Relay - Team entry only, Big Foot Orienteers / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/17964
 GEO:-33.9172350427118;151.22978517256
 END:VEVENT
@@ -637,7 +639,7 @@ UID:Event_17965@eventor.orienteering.asn.au
 DTSTAMP:20230131T230402Z
 DTSTART:20230311T130000Z
 DTEND:20230312T130000Z
-SUMMARY:Sydney Sprint Weekend Race 3: Elite KO (NOL) + Public Sprint, Orienteering NSW
+SUMMARY:Sydney Sprint Weekend Race 3: Elite KO (NOL) + Public Sprint, Big Foot Orienteers / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/17965
 GEO:-34.0374842970058;150.786000455865
 END:VEVENT
@@ -646,7 +648,7 @@ UID:Event_17966@eventor.orienteering.asn.au
 DTSTAMP:20230131T230451Z
 DTSTART:20230311T130000Z
 DTEND:20230312T130000Z
-SUMMARY:Sydney Sprint Weekend Race 4: Elite KO (NOL) + Public Sprint, Orienteering NSW
+SUMMARY:Sydney Sprint Weekend Race 4: Elite KO (NOL) + Public Sprint, Big Foot Orienteers / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/17966
 GEO:-34.0692435852915;150.79075777071
 END:VEVENT
@@ -703,11 +705,12 @@ GEO:-33.8083663853401;151.050458426139
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18617@eventor.orienteering.asn.au
-DTSTAMP:20230201T011036Z
+DTSTAMP:20230207T064214Z
 DTSTART:20230322T054500Z
 DTEND:20230322T080000Z
 SUMMARY:2023 Urban Foot Orienteering Final, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18617
+GEO:-32.9979272580381;151.638284725781
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17751@eventor.orienteering.asn.au
@@ -760,6 +763,14 @@ DTSTART:20230416T000000Z
 DTEND:20230416T033000Z
 SUMMARY:Waggaroos - AWOC Interclub #2, Yackandandah, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18583
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18674@eventor.orienteering.asn.au
+DTSTAMP:20230207T023902Z
+DTSTART:20230422T233000Z
+DTEND:20230422T233000Z
+SUMMARY:2023 Metro League #1, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18674
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18584@eventor.orienteering.asn.au
@@ -834,6 +845,14 @@ SUMMARY:2023 NSW State League #6 - Long Distance, Big Foot Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17756
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18675@eventor.orienteering.asn.au
+DTSTAMP:20230207T024239Z
+DTSTART:20230527T233000Z
+DTEND:20230527T233000Z
+SUMMARY:2023 Metro League #2, Western and Hills Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18675
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18588@eventor.orienteering.asn.au
 DTSTAMP:20230128T062948Z
 DTSTART:20230528T000000Z
@@ -859,6 +878,14 @@ SUMMARY:Waggaroos Local event, Rocky Hill, Wagga and Riverina Occasional Oriente
 URL:https://eventor.orienteering.asn.au/Events/Show/18589
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18666@eventor.orienteering.asn.au
+DTSTAMP:20230207T005319Z
+DTSTART:20230624T233000Z
+DTEND:20230624T233000Z
+SUMMARY:2023 Metro League #3, Illawarra Kareelah Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18666
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18591@eventor.orienteering.asn.au
 DTSTAMP:20230129T023140Z
 DTSTART:20230625T000000Z
@@ -875,12 +902,28 @@ SUMMARY:Waggaroos Local event, Charles Sturt Uni, Wagga and Riverina Occasional 
 URL:https://eventor.orienteering.asn.au/Events/Show/18590
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18676@eventor.orienteering.asn.au
+DTSTAMP:20230207T024210Z
+DTSTART:20230722T233000Z
+DTEND:20230722T233000Z
+SUMMARY:2023 Metro League #4, Bennelong Northside Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18676
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18592@eventor.orienteering.asn.au
 DTSTAMP:20230129T023256Z
 DTSTART:20230730T000000Z
 DTEND:20230730T033000Z
 SUMMARY:Waggaroos - AWOC Interclub #5, Burngoogee, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18592
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18677@eventor.orienteering.asn.au
+DTSTAMP:20230207T024359Z
+DTSTART:20230805T233000Z
+DTEND:20230805T233000Z
+SUMMARY:2023 Metro League #5, Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18677
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18182@eventor.orienteering.asn.au
@@ -963,6 +1006,14 @@ DTSTART:20230909T140000Z
 DTEND:20230910T140000Z
 SUMMARY:2023 Orienteering NSW State Championships (Long) / State League #15, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17715
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18678@eventor.orienteering.asn.au
+DTSTAMP:20230207T024458Z
+DTSTART:20230916T233000Z
+DTEND:20230916T233000Z
+SUMMARY:2023 Metro League #6 and Final, Big Foot Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18678
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18247@eventor.orienteering.asn.au
