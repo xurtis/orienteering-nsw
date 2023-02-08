@@ -1196,6 +1196,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18262
 GEO:-38.1053566053879;145.181449859709
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_16948@eventor.orienteering.asn.au
+DTSTAMP:20230208T005240Z
+DTSTART:20230206T140000Z
+DTEND:20230207T140000Z
+SUMMARY:Night Nav - Red Hill, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/16948
+GEO:-27.4490706722979;152.997282213787
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18270@eventor.orienteering.asn.au
 DTSTAMP:20230129T071756Z
 DTSTART:20230207T073000Z
@@ -1205,17 +1214,8 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18270
 GEO:-37.7951001126481;144.880568843889
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_16948@eventor.orienteering.asn.au
-DTSTAMP:20230130T080254Z
-DTSTART:20230207T073000Z
-DTEND:20230207T093000Z
-SUMMARY:Night Nav - Red Hill, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/16948
-GEO:-27.4490706722979;152.997282213787
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_16209@eventor.orienteering.asn.au
-DTSTAMP:20230207T095424Z
+DTSTAMP:20230208T090046Z
 DTSTART:20230208T053000Z
 DTEND:20230208T083000Z
 SUMMARY:2022/23 Sydney Summer Series #19 Camperdown, Garingal Orienteers
@@ -1224,7 +1224,7 @@ GEO:-33.8946966986971;151.177891730707
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17738@eventor.orienteering.asn.au
-DTSTAMP:20230116T001717Z
+DTSTAMP:20230208T095104Z
 DTSTART:20230208T060000Z
 DTEND:20230208T083000Z
 SUMMARY:ACT Runners Shop Twilight Series #10: Fadden Pines, Parawanga Orienteers
@@ -1233,7 +1233,7 @@ GEO:-35.4103961634775;149.119643851807
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17852@eventor.orienteering.asn.au
-DTSTAMP:20230207T052427Z
+DTSTAMP:20230208T105517Z
 DTSTART:20230208T060000Z
 DTEND:20230208T083000Z
 SUMMARY:Newcastle Summer Series - #16 Thornton East, Newcastle Orienteering Club
@@ -1242,7 +1242,7 @@ GEO:-32.7789380616759;151.654551263506
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18576@eventor.orienteering.asn.au
-DTSTAMP:20230204T223340Z
+DTSTAMP:20230208T095705Z
 DTSTART:20230208T070000Z
 DTEND:20230208T090000Z
 SUMMARY:Central Highlands Orienteers Twilight Sprints - Gisborne, Central Highlands Orienteering Club
@@ -1439,7 +1439,7 @@ GEO:-21.1446790394685;149.182241155502
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18419@eventor.orienteering.asn.au
-DTSTAMP:20230127T113155Z
+DTSTAMP:20230208T072241Z
 DTSTART:20230212T050000Z
 DTEND:20230212T050000Z
 SUMMARY:Picnic Point, Toowoomba, Range Runners Orienteering Club
@@ -1562,7 +1562,7 @@ GEO:-41.4090368382169;147.140047346
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17792@eventor.orienteering.asn.au
-DTSTAMP:20230131T041002Z
+DTSTAMP:20230208T010921Z
 DTSTART:20230215T053000Z
 DTEND:20230215T083000Z
 SUMMARY:2022/23 Sydney Summer Series #20 Belrose, Bennelong Northside Orienteers
@@ -2231,6 +2231,7 @@ DTSTART:20230302T003000Z
 DTEND:20230302T010000Z
 SUMMARY:White's Hill, (Camp Hill). Bush. (MapRun Event), Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18682
+GEO:-27.5156866945903;153.076924631862
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18278@eventor.orienteering.asn.au
@@ -2470,6 +2471,15 @@ DTSTART:20230308T230000Z
 DTEND:20230308T230000Z
 SUMMARY:Darling Downs School Trials, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18468
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18687@eventor.orienteering.asn.au
+DTSTAMP:20230208T090759Z
+DTSTART:20230309T003000Z
+DTEND:20230309T010000Z
+SUMMARY:Merri Merri Park, Chapel Hill. Bush, Park, & Street., Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/18687
+GEO:-27.4856456720154;152.939678640268
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18279@eventor.orienteering.asn.au
@@ -3564,6 +3574,15 @@ SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - Koonung Crossing
 URL:https://eventor.orienteering.asn.au/Events/Show/18503
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18683@eventor.orienteering.asn.au
+DTSTAMP:20230208T025320Z
+DTSTART:20230427T003000Z
+DTEND:20230427T010000Z
+SUMMARY:Opossum North (Grech Park).Spring Mountain. Bush., Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/18683
+GEO:-27.7044554574577;152.909287646783
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18613@eventor.orienteering.asn.au
 DTSTAMP:20230131T015618Z
 DTSTART:20230427T100000Z
@@ -4300,6 +4319,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18569
 GEO:-21.1187310699104;149.221824968533
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18684@eventor.orienteering.asn.au
+DTSTAMP:20230208T030446Z
+DTSTART:20230622T003000Z
+DTEND:20230622T010000Z
+SUMMARY:Marstaellar Rd, Mt Crosby. Bush, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/18684
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18681@eventor.orienteering.asn.au
 DTSTAMP:20230207T040659Z
 DTSTART:20230622T003000Z
@@ -4529,6 +4556,14 @@ DTEND:20230719T091500Z
 SUMMARY:MapRun Night Nav Oralea, 21Degrees South Multisport Assoc.
 URL:https://eventor.orienteering.asn.au/Events/Show/18570
 GEO:-21.1735710941858;149.149711096959
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18685@eventor.orienteering.asn.au
+DTSTAMP:20230208T031331Z
+DTSTART:20230720T003000Z
+DTEND:20230720T010000Z
+SUMMARY:Haig Street Bushland, Brassall. Bush., Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/18685
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17884@eventor.orienteering.asn.au
@@ -5290,6 +5325,15 @@ DTEND:20231004T060000Z
 SUMMARY:Kambarang Classic Day 2, Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/18149
 GEO:-32.3374996180962;116.837449130719
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18686@eventor.orienteering.asn.au
+DTSTAMP:20230208T031944Z
+DTSTART:20231005T003000Z
+DTEND:20231005T010000Z
+SUMMARY:Springfield Lakes, Norfolk Street. Bush., Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/18686
+GEO:-27.6820864853434;152.924201762413
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18150@eventor.orienteering.asn.au

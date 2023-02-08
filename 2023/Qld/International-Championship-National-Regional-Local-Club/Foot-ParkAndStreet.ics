@@ -164,9 +164,9 @@ GEO:-27.7106370601773;151.643997474541
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16948@eventor.orienteering.asn.au
-DTSTAMP:20230130T080254Z
-DTSTART:20230207T073000Z
-DTEND:20230207T093000Z
+DTSTAMP:20230208T005240Z
+DTSTART:20230206T140000Z
+DTEND:20230207T140000Z
 SUMMARY:Night Nav - Red Hill, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/16948
 GEO:-27.4490706722979;152.997282213787
@@ -218,7 +218,7 @@ GEO:-21.1446790394685;149.182241155502
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18419@eventor.orienteering.asn.au
-DTSTAMP:20230127T113155Z
+DTSTAMP:20230208T072241Z
 DTSTART:20230212T050000Z
 DTEND:20230212T050000Z
 SUMMARY:Picnic Point, Toowoomba, Range Runners Orienteering Club
@@ -383,6 +383,7 @@ DTSTART:20230302T003000Z
 DTEND:20230302T010000Z
 SUMMARY:White's Hill, (Camp Hill). Bush. (MapRun Event), Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18682
+GEO:-27.5156866945903;153.076924631862
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18011@eventor.orienteering.asn.au
@@ -434,6 +435,15 @@ DTSTART:20230308T230000Z
 DTEND:20230308T230000Z
 SUMMARY:Darling Downs School Trials, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18468
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18687@eventor.orienteering.asn.au
+DTSTAMP:20230208T090759Z
+DTSTART:20230309T003000Z
+DTEND:20230309T010000Z
+SUMMARY:Merri Merri Park, Chapel Hill. Bush, Park, & Street., Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/18687
+GEO:-27.4856456720154;152.939678640268
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18554@eventor.orienteering.asn.au
@@ -628,6 +638,15 @@ DTEND:20230422T040000Z
 SUMMARY:EODS - 7th Brigade Park BCC, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/16768
 GEO:-27.3780769479398;153.045242893828
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18683@eventor.orienteering.asn.au
+DTSTAMP:20230208T025320Z
+DTSTART:20230427T003000Z
+DTEND:20230427T010000Z
+SUMMARY:Opossum North (Grech Park).Spring Mountain. Bush., Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/18683
+GEO:-27.7044554574577;152.909287646783
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18019@eventor.orienteering.asn.au
@@ -832,6 +851,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18569
 GEO:-21.1187310699104;149.221824968533
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18684@eventor.orienteering.asn.au
+DTSTAMP:20230208T030446Z
+DTSTART:20230622T003000Z
+DTEND:20230622T010000Z
+SUMMARY:Marstaellar Rd, Mt Crosby. Bush, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/18684
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18681@eventor.orienteering.asn.au
 DTSTAMP:20230207T040659Z
 DTSTART:20230622T003000Z
@@ -872,6 +899,14 @@ DTEND:20230719T091500Z
 SUMMARY:MapRun Night Nav Oralea, 21Degrees South Multisport Assoc.
 URL:https://eventor.orienteering.asn.au/Events/Show/18570
 GEO:-21.1735710941858;149.149711096959
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18685@eventor.orienteering.asn.au
+DTSTAMP:20230208T031331Z
+DTSTART:20230720T003000Z
+DTEND:20230720T010000Z
+SUMMARY:Haig Street Bushland, Brassall. Bush., Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/18685
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17884@eventor.orienteering.asn.au
@@ -1001,6 +1036,15 @@ DTEND:20230924T063000Z
 SUMMARY:Maprun Parks 2023 - Boronia Bushland Reserve, Boronia, Toohey Forest Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18668
 GEO:-27.6933619085246;153.027446824627
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18686@eventor.orienteering.asn.au
+DTSTAMP:20230208T031944Z
+DTSTART:20231005T003000Z
+DTEND:20231005T010000Z
+SUMMARY:Springfield Lakes, Norfolk Street. Bush., Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/18686
+GEO:-27.6820864853434;152.924201762413
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18549@eventor.orienteering.asn.au
