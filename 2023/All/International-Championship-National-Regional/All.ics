@@ -143,14 +143,6 @@ SUMMARY:Orange HighPerformance Training, Orienteering Australia
 URL:https://eventor.orienteering.asn.au/Events/Show/18579
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_17818@eventor.orienteering.asn.au
-DTSTAMP:20221205T105909Z
-DTSTART:20230304T133000Z
-DTEND:20230305T133000Z
-SUMMARY:SA Sprint Championships - Reynella, Tjuringa Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/17818
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18012@eventor.orienteering.asn.au
 DTSTAMP:20230123T062639Z
 DTSTART:20230304T230000Z
@@ -158,6 +150,14 @@ DTEND:20230305T010000Z
 SUMMARY:OY1 Cyclones Sprint - QUT Kelvin Grove, QLD Cyclones
 URL:https://eventor.orienteering.asn.au/Events/Show/18012
 GEO:-27.4497598675082;153.0176064959
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17818@eventor.orienteering.asn.au
+DTSTAMP:20230209T003824Z
+DTSTART:20230304T233000Z
+DTEND:20230305T020000Z
+SUMMARY:SA Sprint Championships - Reynella, Tjuringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/17818
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18518@eventor.orienteering.asn.au
@@ -271,6 +271,14 @@ DTEND:20230325T130000Z
 SUMMARY:2023 NSW State League #1 - Sprint (NSW Sprint Championships), Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17751
 GEO:-34.5084563672071;150.40761969796
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18692@eventor.orienteering.asn.au
+DTSTAMP:20230209T104337Z
+DTSTART:20230324T220000Z
+DTEND:20230325T060000Z
+SUMMARY:Course Setting Workshop, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/18692
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17808@eventor.orienteering.asn.au

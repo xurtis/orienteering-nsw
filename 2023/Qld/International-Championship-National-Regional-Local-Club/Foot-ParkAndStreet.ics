@@ -1130,10 +1130,10 @@ GEO:-21.1123156478759;149.145682419019
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18470@eventor.orienteering.asn.au
-DTSTAMP:20230118T114916Z
+DTSTAMP:20230209T040740Z
 DTSTART:20231118T053000Z
 DTEND:20231118T053000Z
-SUMMARY:Park-O #2, Ugly Gully Orienteers
+SUMMARY:Park-O #2 - Spring Mountain Reserve, Greenbank - LCC (TBC), Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18470
 END:VEVENT
 BEGIN:VEVENT
@@ -1160,6 +1160,15 @@ DTEND:20231128T073000Z
 SUMMARY:Night Nav - Upper Kedron - BCC TBC, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/17612
 GEO:-27.4100476705996;152.923478931987
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18691@eventor.orienteering.asn.au
+DTSTAMP:20230209T050533Z
+DTSTART:20231130T073000Z
+DTEND:20231130T093000Z
+SUMMARY:Maprun Parks 2024 - Underwood Park, Rochedale South, Toohey Forest Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18691
+GEO:-27.590639194972;153.133406882762
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18471@eventor.orienteering.asn.au

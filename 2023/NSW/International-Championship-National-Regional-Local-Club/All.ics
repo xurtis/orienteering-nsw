@@ -237,9 +237,9 @@ GEO:-32.8997876811242;151.679966025691
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18585@eventor.orienteering.asn.au
-DTSTAMP:20230202T035050Z
+DTSTAMP:20230209T044838Z
 DTSTART:20230202T060000Z
-DTEND:20230202T074500Z
+DTEND:20230202T060000Z
 SUMMARY:Beadle Grove, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18585
 GEO:-30.5284844020291;151.653295010219
@@ -318,7 +318,7 @@ GEO:-33.8946966986971;151.177891730707
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17852@eventor.orienteering.asn.au
-DTSTAMP:20230208T105517Z
+DTSTAMP:20230209T025500Z
 DTSTART:20230208T060000Z
 DTEND:20230208T083000Z
 SUMMARY:Newcastle Summer Series - #16 Thornton East, Newcastle Orienteering Club
@@ -354,7 +354,7 @@ GEO:-33.282897421639;149.090745177991
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18360@eventor.orienteering.asn.au
-DTSTAMP:20230112T053523Z
+DTSTAMP:20230209T113503Z
 DTSTART:20230210T220000Z
 DTEND:20230211T003000Z
 SUMMARY:SHOO's Summer Saturdays #5 - Liquidamber Reserve, Narellan Vale, Southern Highlands Orienteers
@@ -398,7 +398,7 @@ GEO:-34.3917521482134;150.892535926316
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17792@eventor.orienteering.asn.au
-DTSTAMP:20230208T010921Z
+DTSTAMP:20230209T091818Z
 DTSTART:20230215T053000Z
 DTEND:20230215T083000Z
 SUMMARY:2022/23 Sydney Summer Series #20 Belrose, Bennelong Northside Orienteers
@@ -415,11 +415,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17853
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18620@eventor.orienteering.asn.au
-DTSTAMP:20230202T042151Z
+DTSTAMP:20230209T050213Z
 DTSTART:20230216T060000Z
 DTEND:20230216T074500Z
-SUMMARY:TBA, Northern Tablelands Orienteering Club
+SUMMARY:Moran Oval, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18620
+GEO:-30.5273453102252;151.666840765675
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18138@eventor.orienteering.asn.au
@@ -441,7 +442,7 @@ GEO:-33.270173990583;149.079446823113
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18361@eventor.orienteering.asn.au
-DTSTAMP:20230127T052800Z
+DTSTAMP:20230209T113029Z
 DTSTART:20230217T220000Z
 DTEND:20230218T003000Z
 SUMMARY:SHOO's Summer Saturdays #6 - Fairfax Reserve, Harrington Park, Southern Highlands Orienteers
@@ -503,11 +504,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17854
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18621@eventor.orienteering.asn.au
-DTSTAMP:20230202T042322Z
+DTSTAMP:20230209T063518Z
 DTSTART:20230223T060000Z
 DTEND:20230223T074500Z
-SUMMARY:TBA, Northern Tablelands Orienteering Club
+SUMMARY:Elizabeth Park, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18621
+GEO:-30.5053868388534;151.656578070269
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18563@eventor.orienteering.asn.au
@@ -520,12 +522,12 @@ GEO:-33.2612620373052;149.106986272027
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18362@eventor.orienteering.asn.au
-DTSTAMP:20230112T055827Z
+DTSTAMP:20230209T112714Z
 DTSTART:20230224T220000Z
 DTEND:20230225T003000Z
-SUMMARY:SHOO's Summer Saturdays #7 - Oran Park, Southern Highlands Orienteers
+SUMMARY:SHOO's Summer Saturdays #7 - Oran Park NEW MAP, Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18362
-GEO:-33.999051092421;150.743087108305
+GEO:-34.0031786511004;150.742966928051
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18425@eventor.orienteering.asn.au
@@ -904,6 +906,14 @@ SUMMARY:Waggaroos Local event, Rocky Hill, Wagga and Riverina Occasional Oriente
 URL:https://eventor.orienteering.asn.au/Events/Show/18589
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18688@eventor.orienteering.asn.au
+DTSTAMP:20230209T021302Z
+DTSTART:20230617T233000Z
+DTEND:20230617T233000Z
+SUMMARY:Come and Try It + club championship, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18688
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18666@eventor.orienteering.asn.au
 DTSTAMP:20230207T005319Z
 DTSTART:20230624T233000Z
@@ -920,6 +930,14 @@ SUMMARY:Waggaroos - AWOC Interclub #4, Walbundrie, Wagga and Riverina Occasional
 URL:https://eventor.orienteering.asn.au/Events/Show/18591
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18690@eventor.orienteering.asn.au
+DTSTAMP:20230209T022013Z
+DTSTART:20230715T233000Z
+DTEND:20230715T233000Z
+SUMMARY:Ultrasprint, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18690
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18590@eventor.orienteering.asn.au
 DTSTAMP:20230129T023000Z
 DTSTART:20230716T000000Z
@@ -934,6 +952,14 @@ DTSTART:20230722T233000Z
 DTEND:20230722T233000Z
 SUMMARY:2023 Metro League #4, Bennelong Northside Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18676
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18689@eventor.orienteering.asn.au
+DTSTAMP:20230209T022049Z
+DTSTART:20230729T233000Z
+DTEND:20230729T233000Z
+SUMMARY:Warwick S Selby, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18689
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18592@eventor.orienteering.asn.au

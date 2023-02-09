@@ -3,6 +3,14 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
+UID:Event_18692@eventor.orienteering.asn.au
+DTSTAMP:20230209T104337Z
+DTSTART:20230324T220000Z
+DTEND:20230325T060000Z
+SUMMARY:Course Setting Workshop, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/18692
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18659@eventor.orienteering.asn.au
 DTSTAMP:20230206T105641Z
 DTSTART:20230325T230000Z

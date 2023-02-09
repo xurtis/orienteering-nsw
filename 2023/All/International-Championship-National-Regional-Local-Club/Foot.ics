@@ -635,9 +635,9 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18181
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18585@eventor.orienteering.asn.au
-DTSTAMP:20230202T035050Z
+DTSTAMP:20230209T044838Z
 DTSTART:20230202T060000Z
-DTEND:20230202T074500Z
+DTEND:20230202T060000Z
 SUMMARY:Beadle Grove, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18585
 GEO:-30.5284844020291;151.653295010219
@@ -866,7 +866,7 @@ GEO:-35.4103961634775;149.119643851807
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17852@eventor.orienteering.asn.au
-DTSTAMP:20230208T105517Z
+DTSTAMP:20230209T025500Z
 DTSTART:20230208T060000Z
 DTEND:20230208T083000Z
 SUMMARY:Newcastle Summer Series - #16 Thornton East, Newcastle Orienteering Club
@@ -947,7 +947,7 @@ GEO:-37.7822948773832;144.963444083639
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18360@eventor.orienteering.asn.au
-DTSTAMP:20230112T053523Z
+DTSTAMP:20230209T113503Z
 DTSTART:20230210T220000Z
 DTEND:20230211T003000Z
 SUMMARY:SHOO's Summer Saturdays #5 - Liquidamber Reserve, Narellan Vale, Southern Highlands Orienteers
@@ -1123,7 +1123,7 @@ GEO:-41.4090368382169;147.140047346
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17792@eventor.orienteering.asn.au
-DTSTAMP:20230208T010921Z
+DTSTAMP:20230209T091818Z
 DTSTART:20230215T053000Z
 DTEND:20230215T083000Z
 SUMMARY:2022/23 Sydney Summer Series #20 Belrose, Bennelong Northside Orienteers
@@ -1176,11 +1176,12 @@ GEO:-34.9427502590878;138.591658988948
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18620@eventor.orienteering.asn.au
-DTSTAMP:20230202T042151Z
+DTSTAMP:20230209T050213Z
 DTSTART:20230216T060000Z
 DTEND:20230216T074500Z
-SUMMARY:TBA, Northern Tablelands Orienteering Club
+SUMMARY:Moran Oval, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18620
+GEO:-30.5273453102252;151.666840765675
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18579@eventor.orienteering.asn.au
@@ -1237,7 +1238,7 @@ GEO:-37.7822922573462;144.963485160643
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18361@eventor.orienteering.asn.au
-DTSTAMP:20230127T052800Z
+DTSTAMP:20230209T113029Z
 DTSTART:20230217T220000Z
 DTEND:20230218T003000Z
 SUMMARY:SHOO's Summer Saturdays #6 - Fairfax Reserve, Harrington Park, Southern Highlands Orienteers
@@ -1414,11 +1415,12 @@ GEO:-34.9427167810855;138.592323092808
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18621@eventor.orienteering.asn.au
-DTSTAMP:20230202T042322Z
+DTSTAMP:20230209T063518Z
 DTSTART:20230223T060000Z
 DTEND:20230223T074500Z
-SUMMARY:TBA, Northern Tablelands Orienteering Club
+SUMMARY:Elizabeth Park, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18621
+GEO:-30.5053868388534;151.656578070269
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18610@eventor.orienteering.asn.au
@@ -1449,12 +1451,12 @@ GEO:-34.8755932090116;138.649401515018
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18362@eventor.orienteering.asn.au
-DTSTAMP:20230112T055827Z
+DTSTAMP:20230209T112714Z
 DTSTART:20230224T220000Z
 DTEND:20230225T003000Z
-SUMMARY:SHOO's Summer Saturdays #7 - Oran Park, Southern Highlands Orienteers
+SUMMARY:SHOO's Summer Saturdays #7 - Oran Park NEW MAP, Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18362
-GEO:-33.999051092421;150.743087108305
+GEO:-34.0031786511004;150.742966928051
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18425@eventor.orienteering.asn.au
@@ -1650,14 +1652,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18426
 GEO:-33.719538;151.037407
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_17818@eventor.orienteering.asn.au
-DTSTAMP:20221205T105909Z
-DTSTART:20230304T133000Z
-DTEND:20230305T133000Z
-SUMMARY:SA Sprint Championships - Reynella, Tjuringa Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/17818
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18087@eventor.orienteering.asn.au
 DTSTAMP:20221120T082234Z
 DTSTART:20230304T220000Z
@@ -1682,6 +1676,14 @@ DTEND:20230305T010000Z
 SUMMARY:OY1 Cyclones Sprint - QUT Kelvin Grove, QLD Cyclones
 URL:https://eventor.orienteering.asn.au/Events/Show/18012
 GEO:-27.4497598675082;153.0176064959
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17818@eventor.orienteering.asn.au
+DTSTAMP:20230209T003824Z
+DTSTART:20230304T233000Z
+DTEND:20230305T020000Z
+SUMMARY:SA Sprint Championships - Reynella, Tjuringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/17818
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18529@eventor.orienteering.asn.au
@@ -1922,7 +1924,7 @@ GEO:-27.4061770149295;153.051877826447
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18452@eventor.orienteering.asn.au
-DTSTAMP:20230114T012114Z
+DTSTAMP:20230209T041602Z
 DTSTART:20230312T073000Z
 DTEND:20230312T093000Z
 SUMMARY:Dalyellup Score (SWOT Urban Series 4), South-West Orienteering Trekkers
@@ -2230,6 +2232,14 @@ DTEND:20230325T130000Z
 SUMMARY:2023 NSW State League #1 - Sprint (NSW Sprint Championships), Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17751
 GEO:-34.5084563672071;150.40761969796
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18692@eventor.orienteering.asn.au
+DTSTAMP:20230209T104337Z
+DTSTART:20230324T220000Z
+DTEND:20230325T060000Z
+SUMMARY:Course Setting Workshop, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/18692
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17808@eventor.orienteering.asn.au
@@ -3198,6 +3208,14 @@ SUMMARY:OY7 - Woodlands (location tbc) - bush, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18020
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18688@eventor.orienteering.asn.au
+DTSTAMP:20230209T021302Z
+DTSTART:20230617T233000Z
+DTEND:20230617T233000Z
+SUMMARY:Come and Try It + club championship, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18688
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18444@eventor.orienteering.asn.au
 DTSTAMP:20230116T031220Z
 DTSTART:20230618T000000Z
@@ -3429,6 +3447,14 @@ SUMMARY:OY8 - location tba (bush), Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/18021
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18690@eventor.orienteering.asn.au
+DTSTAMP:20230209T022013Z
+DTSTART:20230715T233000Z
+DTEND:20230715T233000Z
+SUMMARY:Ultrasprint, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18690
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18446@eventor.orienteering.asn.au
 DTSTAMP:20230116T032022Z
 DTSTART:20230716T000000Z
@@ -3582,6 +3608,14 @@ DTEND:20230730T023000Z
 SUMMARY:Fiona Calabro Memorial Event - Stockyard Creek, Toohey Forest Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18667
 GEO:-27.5706017735456;153.164232072566
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18689@eventor.orienteering.asn.au
+DTSTAMP:20230209T022049Z
+DTSTART:20230729T233000Z
+DTEND:20230729T233000Z
+SUMMARY:Warwick S Selby, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18689
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18447@eventor.orienteering.asn.au
@@ -4391,10 +4425,10 @@ GEO:-37.7643114658902;145.305021997336
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18470@eventor.orienteering.asn.au
-DTSTAMP:20230118T114916Z
+DTSTAMP:20230209T040740Z
 DTSTART:20231118T053000Z
 DTEND:20231118T053000Z
-SUMMARY:Park-O #2, Ugly Gully Orienteers
+SUMMARY:Park-O #2 - Spring Mountain Reserve, Greenbank - LCC (TBC), Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18470
 END:VEVENT
 BEGIN:VEVENT
