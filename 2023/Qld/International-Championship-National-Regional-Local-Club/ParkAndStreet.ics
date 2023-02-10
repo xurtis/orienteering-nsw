@@ -102,7 +102,7 @@ GEO:-19.2579652423831;146.815692552858
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16953@eventor.orienteering.asn.au
-DTSTAMP:20230118T115258Z
+DTSTAMP:20230210T012123Z
 DTSTART:20230211T053000Z
 DTEND:20230211T070000Z
 SUMMARY:Park O #4 - Dumbarton Drive Park, Kenmore - BCC, Ugly Gully Orienteers
@@ -359,6 +359,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18673
 GEO:-26.4093512014164;153.060006312386
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18011@eventor.orienteering.asn.au
+DTSTAMP:20230210T032309Z
+DTSTART:20230418T073000Z
+DTEND:20230418T093000Z
+SUMMARY:Night Nav - location tbc, Multi Terrain Bike Orienteers / Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18011
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18567@eventor.orienteering.asn.au
 DTSTAMP:20230126T012328Z
 DTSTART:20230419T073000Z
@@ -482,10 +490,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18470
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18691@eventor.orienteering.asn.au
-DTSTAMP:20230209T050533Z
+DTSTAMP:20230210T063528Z
 DTSTART:20231130T073000Z
 DTEND:20231130T093000Z
-SUMMARY:Maprun Parks 2024 - Underwood Park, Rochedale South, Toohey Forest Orienteers
+SUMMARY:Night Nav - Southside - Rochedale South, Toohey Forest Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18691
 GEO:-27.590639194972;153.133406882762
 END:VEVENT

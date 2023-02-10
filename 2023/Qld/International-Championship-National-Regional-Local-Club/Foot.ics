@@ -191,7 +191,7 @@ GEO:-27.50598560629;152.938565938887
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16953@eventor.orienteering.asn.au
-DTSTAMP:20230118T115258Z
+DTSTAMP:20230210T012123Z
 DTSTART:20230211T053000Z
 DTEND:20230211T070000Z
 SUMMARY:Park O #4 - Dumbarton Drive Park, Kenmore - BCC, Ugly Gully Orienteers
@@ -366,14 +366,6 @@ DTEND:20230302T010000Z
 SUMMARY:White's Hill, (Camp Hill). Bush. (MapRun Event), Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18682
 GEO:-27.5156866945903;153.076924631862
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18011@eventor.orienteering.asn.au
-DTSTAMP:20230131T005933Z
-DTSTART:20230303T140000Z
-DTEND:20230304T140000Z
-SUMMARY:(Back-up date for Foot-MTBO Duo tbc), Multi Terrain Bike Orienteers / Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18011
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18012@eventor.orienteering.asn.au
@@ -593,6 +585,14 @@ DTEND:20230416T030000Z
 SUMMARY:Brooklands, north of Dalveen, Bullecourt Boulder Bounders
 URL:https://eventor.orienteering.asn.au/Events/Show/18555
 GEO:-28.4378726212686;152.026865132112
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18011@eventor.orienteering.asn.au
+DTSTAMP:20230210T032309Z
+DTSTART:20230418T073000Z
+DTEND:20230418T093000Z
+SUMMARY:Night Nav - location tbc, Multi Terrain Bike Orienteers / Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18011
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18567@eventor.orienteering.asn.au
