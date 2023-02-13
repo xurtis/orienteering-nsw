@@ -2,4 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
+BEGIN:VEVENT
+UID:Event_18702@eventor.orienteering.asn.au
+DTSTAMP:20230213T073939Z
+DTSTART:20230402T013000Z
+DTEND:20230402T033000Z
+SUMMARY:MTBO 1 Applecross Attadale, Kulgun 225 Orienteers / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/18702
+GEO:-32.0236167051527;115.812402579275
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18704@eventor.orienteering.asn.au
+DTSTAMP:20230213T083155Z
+DTSTART:20230430T013000Z
+DTEND:20230430T013000Z
+SUMMARY:MTBO 2 Roleystone, Bibbulmun Orienteers / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/18704
+GEO:-32.1095296803847;116.071637349473
+END:VEVENT
 END:VCALENDAR
