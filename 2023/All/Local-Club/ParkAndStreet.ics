@@ -919,7 +919,7 @@ GEO:-33.3432427377075;115.633335034647
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18254@eventor.orienteering.asn.au
-DTSTAMP:20221205T014400Z
+DTSTAMP:20230214T070658Z
 DTSTART:20230213T060000Z
 DTEND:20230213T081500Z
 SUMMARY:ACT MapRun Street Series: Latham, 9-13 Feb, Orienteering ACT
@@ -936,6 +936,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18263
 GEO:-37.990438134579;145.175334387875
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18350@eventor.orienteering.asn.au
+DTSTAMP:20230214T114354Z
+DTSTART:20230213T140000Z
+DTEND:20230214T140000Z
+SUMMARY:Night Nav - Auchenflower, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18350
+GEO:-27.4780905455066;152.995640864651
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18271@eventor.orienteering.asn.au
 DTSTAMP:20230129T073131Z
 DTSTART:20230214T073000Z
@@ -943,24 +952,6 @@ DTEND:20230214T091500Z
 SUMMARY:Melbourne Park Street Tuesday Summer Series - Williamstown Beach, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18271
 GEO:-37.8666883991789;144.904897259366
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18350@eventor.orienteering.asn.au
-DTSTAMP:20230130T080553Z
-DTSTART:20230214T073000Z
-DTEND:20230214T093000Z
-SUMMARY:Night Nav - Auchenflower, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18350
-GEO:-27.4780905455066;152.995640864651
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18649@eventor.orienteering.asn.au
-DTSTAMP:20230206T015955Z
-DTSTART:20230214T080000Z
-DTEND:20230214T100000Z
-SUMMARY:Night Nav - Brightwater, Sunshine Orienteers Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18649
-GEO:-26.7013474705379;153.106801921433
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17792@eventor.orienteering.asn.au
@@ -988,6 +979,15 @@ DTEND:20230215T091500Z
 SUMMARY:Melbourne Park Street Wednesday Summer Series - Quamby Quandary; Schools 2, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18291
 GEO:-37.7848639250008;145.240722129198
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18649@eventor.orienteering.asn.au
+DTSTAMP:20230214T100407Z
+DTSTART:20230215T080000Z
+DTEND:20230215T100000Z
+SUMMARY:Night Nav - Brightwater, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18649
+GEO:-26.7013474705379;153.106801921433
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18620@eventor.orienteering.asn.au
@@ -1063,12 +1063,12 @@ GEO:-27.4752265693778;152.976542385425
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18005@eventor.orienteering.asn.au
-DTSTAMP:20230201T102726Z
+DTSTAMP:20230214T113748Z
 DTSTART:20230218T090000Z
 DTEND:20230218T101500Z
 SUMMARY:MetrO 12 - City Beach Central, LOST / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/18005
-GEO:-31.935486563034;115.765205500771
+GEO:-31.9333626340265;115.765230676717
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18086@eventor.orienteering.asn.au
@@ -1162,11 +1162,12 @@ GEO:-33.7609888541446;151.006042092645
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17854@eventor.orienteering.asn.au
-DTSTAMP:20221006T124440Z
+DTSTAMP:20230214T084231Z
 DTSTART:20230222T060000Z
 DTEND:20230222T083000Z
-SUMMARY:Newcastle Summer Street Series - Presentations & Run (Blackalls Park), Newcastle Orienteering Club
+SUMMARY:Summer Street Series - Presentations & Run (Blackalls Park), Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/17854
+GEO:-32.998581887175;151.589519201128
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18664@eventor.orienteering.asn.au
@@ -1340,10 +1341,10 @@ GEO:-33.8538680257018;151.184160757271
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18614@eventor.orienteering.asn.au
-DTSTAMP:20230207T061723Z
+DTSTAMP:20230214T035440Z
 DTSTART:20230301T054500Z
 DTEND:20230301T080000Z
-SUMMARY:2023 Urban Foot Orienteering #1, Newcastle Orienteering Club
+SUMMARY:Urban Foot Orienteering Qual 1 - Stockton , Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18614
 GEO:-32.9165841586706;151.780368344208
 END:VEVENT
@@ -1469,10 +1470,10 @@ GEO:-33.7832620120146;151.162161300034
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18615@eventor.orienteering.asn.au
-DTSTAMP:20230207T063615Z
+DTSTAMP:20230214T030304Z
 DTSTART:20230308T054500Z
 DTEND:20230308T080000Z
-SUMMARY:2023 Urban Foot Orienteering #2, Newcastle Orienteering Club
+SUMMARY:Urban Foot Orienteering #2 - Waratah West, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18615
 GEO:-32.9049693966347;151.714358982825
 END:VEVENT
@@ -1696,10 +1697,10 @@ GEO:-33.8083663853401;151.050458426139
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18617@eventor.orienteering.asn.au
-DTSTAMP:20230207T064214Z
+DTSTAMP:20230214T034305Z
 DTSTART:20230322T054500Z
 DTEND:20230322T080000Z
-SUMMARY:2023 Urban Foot Orienteering Final, Newcastle Orienteering Club
+SUMMARY:Urban Foot Orienteering Final - Eleebana, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18617
 GEO:-32.9979272580381;151.638284725781
 END:VEVENT
