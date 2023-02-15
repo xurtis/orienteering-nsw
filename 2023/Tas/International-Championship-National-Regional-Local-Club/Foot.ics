@@ -186,15 +186,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18476
 GEO:-42.9094585708535;147.287612401257
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18540@eventor.orienteering.asn.au
-DTSTAMP:20230214T080951Z
-DTSTART:20230214T130000Z
-DTEND:20230215T130000Z
-SUMMARY:Enter all Northern Autumn Twilight Events at Discounted Rate, Esk Valley
-URL:https://eventor.orienteering.asn.au/Events/Show/18540
-GEO:-41.4088659898251;147.139443912616
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18539@eventor.orienteering.asn.au
 DTSTAMP:20230122T232620Z
 DTSTART:20230214T130000Z
@@ -204,7 +195,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18539
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18478@eventor.orienteering.asn.au
-DTSTAMP:20230205T224417Z
+DTSTAMP:20230215T085543Z
 DTSTART:20230215T040000Z
 DTEND:20230215T040000Z
 SUMMARY:Lambert Gully - Southern Autumn Schools/Twilight Series #1, Australopers
@@ -213,7 +204,7 @@ GEO:-42.9048196317678;147.333325839848
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18521@eventor.orienteering.asn.au
-DTSTAMP:20230214T120616Z
+DTSTAMP:20230215T094132Z
 DTSTART:20230215T050000Z
 DTEND:20230215T050000Z
 SUMMARY:Heritage Forest - Northern Autumn Twilight Series #1, Esk Valley
@@ -221,8 +212,17 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18521
 GEO:-41.4090368382169;147.140047346
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18540@eventor.orienteering.asn.au
+DTSTAMP:20230215T093839Z
+DTSTART:20230221T130000Z
+DTEND:20230222T130000Z
+SUMMARY:Enter all Northern Autumn Twilight Events at Discounted Rate, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/18540
+GEO:-41.4088659898251;147.139443912616
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18522@eventor.orienteering.asn.au
-DTSTAMP:20230130T105740Z
+DTSTAMP:20230215T013303Z
 DTSTART:20230221T130000Z
 DTEND:20230222T130000Z
 SUMMARY:First Basin - Northern Autumn Twilight Series #2, Esk Valley
@@ -231,20 +231,12 @@ GEO:-41.4462538892628;147.120771623236
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18479@eventor.orienteering.asn.au
-DTSTAMP:20230205T224520Z
-DTSTART:20230221T130000Z
-DTEND:20230222T130000Z
+DTSTAMP:20230215T012338Z
+DTSTART:20230222T043000Z
+DTEND:20230222T043000Z
 SUMMARY:Kangaroo Bay	- Southern Autumn Schools/Twilight Series #2, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18479
 GEO:-42.8702580530303;147.36810619733
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18556@eventor.orienteering.asn.au
-DTSTAMP:20230124T212829Z
-DTSTART:20230225T130000Z
-DTEND:20230226T130000Z
-SUMMARY:Latrobe - NW Local #1, Pathfinders
-URL:https://eventor.orienteering.asn.au/Events/Show/18556
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18480@eventor.orienteering.asn.au
@@ -254,6 +246,14 @@ DTEND:20230226T130000Z
 SUMMARY:Risdon Brook - Southern Local #1, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18480
 GEO:-42.8045348310601;147.338076274385
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18556@eventor.orienteering.asn.au
+DTSTAMP:20230214T223126Z
+DTSTART:20230225T130000Z
+DTEND:20230226T130000Z
+SUMMARY:Tiagarra - NW Local #1, Pathfinders
+URL:https://eventor.orienteering.asn.au/Events/Show/18556
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18523@eventor.orienteering.asn.au
