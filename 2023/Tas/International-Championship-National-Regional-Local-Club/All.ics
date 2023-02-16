@@ -186,14 +186,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18476
 GEO:-42.9094585708535;147.287612401257
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18539@eventor.orienteering.asn.au
-DTSTAMP:20230122T232620Z
-DTSTART:20230214T130000Z
-DTEND:20230215T130000Z
-SUMMARY:Enter all Southern Autumn Twilight Events at Discounted Rate, Australopers
-URL:https://eventor.orienteering.asn.au/Events/Show/18539
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18478@eventor.orienteering.asn.au
 DTSTAMP:20230215T085543Z
 DTSTART:20230215T040000Z
@@ -221,31 +213,30 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18540
 GEO:-41.4088659898251;147.139443912616
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18522@eventor.orienteering.asn.au
-DTSTAMP:20230215T013303Z
+UID:Event_18539@eventor.orienteering.asn.au
+DTSTAMP:20230216T035202Z
 DTSTART:20230221T130000Z
 DTEND:20230222T130000Z
-SUMMARY:First Basin - Northern Autumn Twilight Series #2, Esk Valley
+SUMMARY:Enter all Southern Autumn Twilight Events at Discounted Rate, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/18539
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18522@eventor.orienteering.asn.au
+DTSTAMP:20230216T033839Z
+DTSTART:20230221T130000Z
+DTEND:20230222T130000Z
+SUMMARY:Western Suburbs Community Park - Northern Autumn Twilight Series #2, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/18522
 GEO:-41.4462538892628;147.120771623236
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18479@eventor.orienteering.asn.au
-DTSTAMP:20230215T012338Z
-DTSTART:20230222T043000Z
-DTEND:20230222T043000Z
+DTSTAMP:20230215T233004Z
+DTSTART:20230222T040000Z
+DTEND:20230222T080000Z
 SUMMARY:Kangaroo Bay	- Southern Autumn Schools/Twilight Series #2, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18479
 GEO:-42.8702580530303;147.36810619733
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18480@eventor.orienteering.asn.au
-DTSTAMP:20230118T220532Z
-DTSTART:20230225T130000Z
-DTEND:20230226T130000Z
-SUMMARY:Risdon Brook - Southern Local #1, Australopers
-URL:https://eventor.orienteering.asn.au/Events/Show/18480
-GEO:-42.8045348310601;147.338076274385
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18556@eventor.orienteering.asn.au
@@ -254,6 +245,15 @@ DTSTART:20230225T130000Z
 DTEND:20230226T130000Z
 SUMMARY:Tiagarra - NW Local #1, Pathfinders
 URL:https://eventor.orienteering.asn.au/Events/Show/18556
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18480@eventor.orienteering.asn.au
+DTSTAMP:20230216T030939Z
+DTSTART:20230225T230000Z
+DTEND:20230225T230000Z
+SUMMARY:Risdon Brook - Southern Local #1, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/18480
+GEO:-42.8045348310601;147.338076274385
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18523@eventor.orienteering.asn.au
@@ -293,29 +293,30 @@ GEO:-41.4511038172478;147.17494124812
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18518@eventor.orienteering.asn.au
-DTSTAMP:20230212T021247Z
-DTSTART:20230310T130000Z
-DTEND:20230311T130000Z
+DTSTAMP:20230216T034218Z
+DTSTART:20230311T023000Z
+DTEND:20230311T031500Z
 SUMMARY:St Helens - East Coast 3 Days - Day 1, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/18518
 GEO:-41.3145449799917;148.155605768953
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18519@eventor.orienteering.asn.au
-DTSTAMP:20230122T004212Z
-DTSTART:20230311T130000Z
-DTEND:20230312T130000Z
+DTSTAMP:20230216T033421Z
+DTSTART:20230311T230000Z
+DTEND:20230312T023000Z
 SUMMARY:St Helens - Transit Flats - East Coast 3 Days - Day 2 - Long - OST 1, Australopers / Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/18519
 GEO:-41.3557;148.1183
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18520@eventor.orienteering.asn.au
-DTSTAMP:20230122T004212Z
-DTSTART:20230312T130000Z
-DTEND:20230313T130000Z
+DTSTAMP:20230216T032552Z
+DTSTART:20230312T223000Z
+DTEND:20230313T013000Z
 SUMMARY:St Helens - Golden Fleece - East Coast 3 Days - Day 3 - Middle - OST 2, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/18520
+GEO:-41.30958;148.168346
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18525@eventor.orienteering.asn.au

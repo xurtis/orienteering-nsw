@@ -160,15 +160,6 @@ SUMMARY:SA Sprint Championships - Reynella, Tjuringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17818
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18518@eventor.orienteering.asn.au
-DTSTAMP:20230212T021247Z
-DTSTART:20230310T130000Z
-DTEND:20230311T130000Z
-SUMMARY:St Helens - East Coast 3 Days - Day 1, Esk Valley
-URL:https://eventor.orienteering.asn.au/Events/Show/18518
-GEO:-41.3145449799917;148.155605768953
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_17304@eventor.orienteering.asn.au
 DTSTAMP:20230211T234321Z
 DTSTART:20230310T130000Z
@@ -179,7 +170,7 @@ GEO:-33.8863061552062;151.191824066587
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17962@eventor.orienteering.asn.au
-DTSTAMP:20230211T234353Z
+DTSTAMP:20230216T050307Z
 DTSTART:20230310T130000Z
 DTEND:20230311T130000Z
 SUMMARY:Sydney Sprint Weekend Race 1: Elite Individual Sprint (NOL,WRE) + Public Sprint, Orienteering NSW
@@ -188,7 +179,7 @@ GEO:-33.887705682019;151.190073399155
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17963@eventor.orienteering.asn.au
-DTSTAMP:20230211T234425Z
+DTSTAMP:20230216T050400Z
 DTSTART:20230310T130000Z
 DTEND:20230311T130000Z
 SUMMARY:Sydney Sprint Weekend Race 2: Elite Mixed Sprint Relay (NOL) + Public Individual Sprint, Orienteering NSW
@@ -205,21 +196,21 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17964
 GEO:-33.9172350427118;151.22978517256
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18518@eventor.orienteering.asn.au
+DTSTAMP:20230216T034218Z
+DTSTART:20230311T023000Z
+DTEND:20230311T031500Z
+SUMMARY:St Helens - East Coast 3 Days - Day 1, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/18518
+GEO:-41.3145449799917;148.155605768953
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18638@eventor.orienteering.asn.au
 DTSTAMP:20230206T063405Z
 DTSTART:20230311T080000Z
 DTEND:20230311T080000Z
 SUMMARY:NOL Sydney Social Event, Orienteering Australia
 URL:https://eventor.orienteering.asn.au/Events/Show/18638
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18519@eventor.orienteering.asn.au
-DTSTAMP:20230122T004212Z
-DTSTART:20230311T130000Z
-DTEND:20230312T130000Z
-SUMMARY:St Helens - Transit Flats - East Coast 3 Days - Day 2 - Long - OST 1, Australopers / Esk Valley
-URL:https://eventor.orienteering.asn.au/Events/Show/18519
-GEO:-41.3557;148.1183
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17965@eventor.orienteering.asn.au
@@ -240,12 +231,22 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17966
 GEO:-34.0692435852915;150.79075777071
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18519@eventor.orienteering.asn.au
+DTSTAMP:20230216T033421Z
+DTSTART:20230311T230000Z
+DTEND:20230312T023000Z
+SUMMARY:St Helens - Transit Flats - East Coast 3 Days - Day 2 - Long - OST 1, Australopers / Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/18519
+GEO:-41.3557;148.1183
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18520@eventor.orienteering.asn.au
-DTSTAMP:20230122T004212Z
-DTSTART:20230312T130000Z
-DTEND:20230313T130000Z
+DTSTAMP:20230216T032552Z
+DTSTART:20230312T223000Z
+DTEND:20230313T013000Z
 SUMMARY:St Helens - Golden Fleece - East Coast 3 Days - Day 3 - Middle - OST 2, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/18520
+GEO:-41.30958;148.168346
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18015@eventor.orienteering.asn.au

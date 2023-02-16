@@ -1501,14 +1501,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18271
 GEO:-37.8666883991789;144.904897259366
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18539@eventor.orienteering.asn.au
-DTSTAMP:20230122T232620Z
-DTSTART:20230214T130000Z
-DTEND:20230215T130000Z
-SUMMARY:Enter all Southern Autumn Twilight Events at Discounted Rate, Australopers
-URL:https://eventor.orienteering.asn.au/Events/Show/18539
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18457@eventor.orienteering.asn.au
 DTSTAMP:20230117T115013Z
 DTSTART:20230214T133000Z
@@ -1563,7 +1555,7 @@ GEO:-35.2557982293937;149.161046704379
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17853@eventor.orienteering.asn.au
-DTSTAMP:20230215T103803Z
+DTSTAMP:20230215T232417Z
 DTSTART:20230215T060000Z
 DTEND:20230215T083000Z
 SUMMARY:Newcastle Summer Street Series - #17 Elermore Vale, Newcastle Orienteering Club
@@ -1729,11 +1721,11 @@ DTSTART:20230218T053000Z
 DTEND:20230218T070000Z
 SUMMARY:Park-O #5 - Mt Coot-tha Botanic Gardens, Toowong - BCC, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/16954
-GEO:-27.4752265693778;152.976542385425
+GEO:-27.475645093039;152.97649933943
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18334@eventor.orienteering.asn.au
-DTSTAMP:20230215T114249Z
+DTSTAMP:20230216T081459Z
 DTSTART:20230218T070000Z
 DTEND:20230218T084500Z
 SUMMARY:BikeO-75 - Templestowe, Nillumbik Emus Orienteering Club
@@ -1875,19 +1867,27 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18540
 GEO:-41.4088659898251;147.139443912616
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18522@eventor.orienteering.asn.au
-DTSTAMP:20230215T013303Z
+UID:Event_18539@eventor.orienteering.asn.au
+DTSTAMP:20230216T035202Z
 DTSTART:20230221T130000Z
 DTEND:20230222T130000Z
-SUMMARY:First Basin - Northern Autumn Twilight Series #2, Esk Valley
+SUMMARY:Enter all Southern Autumn Twilight Events at Discounted Rate, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/18539
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18522@eventor.orienteering.asn.au
+DTSTAMP:20230216T033839Z
+DTSTART:20230221T130000Z
+DTEND:20230222T130000Z
+SUMMARY:Western Suburbs Community Park - Northern Autumn Twilight Series #2, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/18522
 GEO:-41.4462538892628;147.120771623236
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18479@eventor.orienteering.asn.au
-DTSTAMP:20230215T012338Z
-DTSTART:20230222T043000Z
-DTEND:20230222T043000Z
+DTSTAMP:20230215T233004Z
+DTSTART:20230222T040000Z
+DTEND:20230222T080000Z
 SUMMARY:Kangaroo Bay	- Southern Autumn Schools/Twilight Series #2, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18479
 GEO:-42.8702580530303;147.36810619733
@@ -2055,15 +2055,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18458
 GEO:-36.8829354477779;143.756821249805
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18480@eventor.orienteering.asn.au
-DTSTAMP:20230118T220532Z
-DTSTART:20230225T130000Z
-DTEND:20230226T130000Z
-SUMMARY:Risdon Brook - Southern Local #1, Australopers
-URL:https://eventor.orienteering.asn.au/Events/Show/18480
-GEO:-42.8045348310601;147.338076274385
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18556@eventor.orienteering.asn.au
 DTSTAMP:20230214T223126Z
 DTSTART:20230225T130000Z
@@ -2073,10 +2064,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18556
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17909@eventor.orienteering.asn.au
-DTSTAMP:20230106T105755Z
+DTSTAMP:20230216T022306Z
 DTSTART:20230225T220000Z
 DTEND:20230226T020000Z
-SUMMARY:ACT MTBO Series #1: Coleman Ridge, Orienteering ACT
+SUMMARY:ACT MTBO Series #1: Cooleman Ridge, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/17909
 GEO:-35.3496385439431;149.023820221177
 END:VEVENT
@@ -2087,6 +2078,15 @@ DTSTART:20230225T223000Z
 DTEND:20230225T223000Z
 SUMMARY:Course Planning Workshop - Practical Session, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18381
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18480@eventor.orienteering.asn.au
+DTSTAMP:20230216T030939Z
+DTSTART:20230225T230000Z
+DTEND:20230225T230000Z
+SUMMARY:Risdon Brook - Southern Local #1, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/18480
+GEO:-42.8045348310601;147.338076274385
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18280@eventor.orienteering.asn.au
@@ -2283,7 +2283,7 @@ GEO:-12.4527974917763;130.829557239605
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18238@eventor.orienteering.asn.au
-DTSTAMP:20230211T062340Z
+DTSTAMP:20230216T060446Z
 DTSTART:20230303T130000Z
 DTEND:20230305T130000Z
 SUMMARY:Toukley 2 Days, Central Coast Orienteers
@@ -2523,15 +2523,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18139
 GEO:-29.6930974988806;152.932199243544
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18518@eventor.orienteering.asn.au
-DTSTAMP:20230212T021247Z
-DTSTART:20230310T130000Z
-DTEND:20230311T130000Z
-SUMMARY:St Helens - East Coast 3 Days - Day 1, Esk Valley
-URL:https://eventor.orienteering.asn.au/Events/Show/18518
-GEO:-41.3145449799917;148.155605768953
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_17304@eventor.orienteering.asn.au
 DTSTAMP:20230211T234321Z
 DTSTART:20230310T130000Z
@@ -2551,7 +2542,7 @@ GEO:-33.8436695838677;151.190344012421
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17962@eventor.orienteering.asn.au
-DTSTAMP:20230211T234353Z
+DTSTAMP:20230216T050307Z
 DTSTART:20230310T130000Z
 DTEND:20230311T130000Z
 SUMMARY:Sydney Sprint Weekend Race 1: Elite Individual Sprint (NOL,WRE) + Public Sprint, Orienteering NSW
@@ -2560,7 +2551,7 @@ GEO:-33.887705682019;151.190073399155
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17963@eventor.orienteering.asn.au
-DTSTAMP:20230211T234425Z
+DTSTAMP:20230216T050400Z
 DTSTART:20230310T130000Z
 DTEND:20230311T130000Z
 SUMMARY:Sydney Sprint Weekend Race 2: Elite Mixed Sprint Relay (NOL) + Public Individual Sprint, Orienteering NSW
@@ -2577,21 +2568,21 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17964
 GEO:-33.9172350427118;151.22978517256
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18518@eventor.orienteering.asn.au
+DTSTAMP:20230216T034218Z
+DTSTART:20230311T023000Z
+DTEND:20230311T031500Z
+SUMMARY:St Helens - East Coast 3 Days - Day 1, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/18518
+GEO:-41.3145449799917;148.155605768953
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18638@eventor.orienteering.asn.au
 DTSTAMP:20230206T063405Z
 DTSTART:20230311T080000Z
 DTEND:20230311T080000Z
 SUMMARY:NOL Sydney Social Event, Orienteering Australia
 URL:https://eventor.orienteering.asn.au/Events/Show/18638
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18519@eventor.orienteering.asn.au
-DTSTAMP:20230122T004212Z
-DTSTART:20230311T130000Z
-DTEND:20230312T130000Z
-SUMMARY:St Helens - Transit Flats - East Coast 3 Days - Day 2 - Long - OST 1, Australopers / Esk Valley
-URL:https://eventor.orienteering.asn.au/Events/Show/18519
-GEO:-41.3557;148.1183
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17965@eventor.orienteering.asn.au
@@ -2630,6 +2621,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18440
 GEO:-37.6330541614207;144.852177185186
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18519@eventor.orienteering.asn.au
+DTSTAMP:20230216T033421Z
+DTSTART:20230311T230000Z
+DTEND:20230312T023000Z
+SUMMARY:St Helens - Transit Flats - East Coast 3 Days - Day 2 - Long - OST 1, Australopers / Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/18519
+GEO:-41.3557;148.1183
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18554@eventor.orienteering.asn.au
 DTSTAMP:20230124T100835Z
 DTSTART:20230311T230000Z
@@ -2657,14 +2657,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18452
 GEO:-33.3978907790314;115.605115864092
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18520@eventor.orienteering.asn.au
-DTSTAMP:20230122T004212Z
-DTSTART:20230312T130000Z
-DTEND:20230313T130000Z
-SUMMARY:St Helens - Golden Fleece - East Coast 3 Days - Day 3 - Middle - OST 2, Esk Valley
-URL:https://eventor.orienteering.asn.au/Events/Show/18520
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18007@eventor.orienteering.asn.au
 DTSTAMP:20230201T205852Z
 DTSTART:20230312T220000Z
@@ -2672,6 +2664,15 @@ DTEND:20230313T010000Z
 SUMMARY:Sydney Sprint Weekend Epilogue : Middle Head & Georges Heights, Bennelong Northside Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18007
 GEO:-33.8349690388927;151.254889195979
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18520@eventor.orienteering.asn.au
+DTSTAMP:20230216T032552Z
+DTSTART:20230312T223000Z
+DTEND:20230313T013000Z
+SUMMARY:St Helens - Golden Fleece - East Coast 3 Days - Day 3 - Middle - OST 2, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/18520
+GEO:-41.30958;148.168346
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18258@eventor.orienteering.asn.au
@@ -2743,12 +2744,12 @@ GEO:-34.7018867516933;138.958380877371
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17796@eventor.orienteering.asn.au
-DTSTAMP:20220816T040045Z
+DTSTAMP:20230216T090554Z
 DTSTART:20230315T053000Z
 DTEND:20230315T083000Z
 SUMMARY:2022/23 Sydney Summer Series #24 Chatswood West, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17796
-GEO:-33.7970322830352;151.161221818829
+GEO:-33.8039935726002;151.15700717321
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18616@eventor.orienteering.asn.au
@@ -2836,11 +2837,12 @@ GEO:-36.7883017168463;144.223481983236
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18341@eventor.orienteering.asn.au
-DTSTAMP:20221221T170220Z
+DTSTAMP:20230216T032421Z
 DTSTART:20230318T040000Z
 DTEND:20230318T060000Z
-SUMMARY:Kirrawee tbc, Illawarra Kareelah Orienteers
+SUMMARY:Kirrawee South, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18341
+GEO:-34.0393053702245;151.065902495968
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17506@eventor.orienteering.asn.au
