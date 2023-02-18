@@ -124,14 +124,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18479
 GEO:-42.8702580530303;147.36810619733
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18556@eventor.orienteering.asn.au
-DTSTAMP:20230214T223126Z
-DTSTART:20230225T130000Z
-DTEND:20230226T130000Z
-SUMMARY:Tiagarra - NW Local #1, Pathfinders
-URL:https://eventor.orienteering.asn.au/Events/Show/18556
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18480@eventor.orienteering.asn.au
 DTSTAMP:20230216T030939Z
 DTSTART:20230225T230000Z
@@ -139,6 +131,15 @@ DTEND:20230225T230000Z
 SUMMARY:Risdon Brook - Southern Local #1, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18480
 GEO:-42.8045348310601;147.338076274385
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18556@eventor.orienteering.asn.au
+DTSTAMP:20230218T022115Z
+DTSTART:20230226T000000Z
+DTEND:20230226T030000Z
+SUMMARY:Tiagarra - NW Local #1, Pathfinders
+URL:https://eventor.orienteering.asn.au/Events/Show/18556
+GEO:-41.1623769064547;146.339082442038
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18523@eventor.orienteering.asn.au
@@ -237,14 +238,6 @@ DTEND:20230416T140000Z
 SUMMARY:Buttons Beach - NW Local #3, Pathfinders
 URL:https://eventor.orienteering.asn.au/Events/Show/18558
 GEO:-41.1519663453949;146.175252683073
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18650@eventor.orienteering.asn.au
-DTSTAMP:20230205T222305Z
-DTSTART:20230421T140000Z
-DTEND:20230422T140000Z
-SUMMARY:Tarraleah - Sprint - Schools Selection Event 3, Australopers
-URL:https://eventor.orienteering.asn.au/Events/Show/18650
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18652@eventor.orienteering.asn.au
