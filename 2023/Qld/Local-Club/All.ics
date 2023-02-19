@@ -271,8 +271,17 @@ URL:https://eventor.orienteering.asn.au/Events/Show/16954
 GEO:-27.475645093039;152.97649933943
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18603@eventor.orienteering.asn.au
+DTSTAMP:20230219T110357Z
+DTSTART:20230218T140000Z
+DTEND:20230219T140000Z
+SUMMARY:MapRun Parks 2023 - Meadowlands, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18603
+GEO:-27.490429572002;153.115956934907
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18623@eventor.orienteering.asn.au
-DTSTAMP:20230203T102913Z
+DTSTAMP:20230219T065105Z
 DTSTART:20230218T230000Z
 DTEND:20230218T230000Z
 SUMMARY:Perseverance Dam Coaching, Range Runners Orienteering Club
@@ -286,15 +295,6 @@ DTEND:20230218T230000Z
 SUMMARY:Training activity at Brooklands, north of Dalveen, Bullecourt Boulder Bounders
 URL:https://eventor.orienteering.asn.au/Events/Show/18699
 GEO:-28.4373186099696;152.028234383051
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18603@eventor.orienteering.asn.au
-DTSTAMP:20230129T110845Z
-DTSTART:20230219T060000Z
-DTEND:20230219T060000Z
-SUMMARY:MapRun Parks 2023 - Meadowlands, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18603
-GEO:-27.490429572002;153.115956934907
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18351@eventor.orienteering.asn.au
@@ -535,12 +535,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18680
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18192@eventor.orienteering.asn.au
-DTSTAMP:20221115T015041Z
-DTSTART:20230325T140000Z
-DTEND:20230326T140000Z
+DTSTAMP:20230219T032828Z
+DTSTART:20230325T230000Z
+DTEND:20230325T230000Z
 SUMMARY:Nerang NP TBC, Paradise Lost Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18192
-GEO:-27.9850107211014;153.331928115584
+GEO:-27.9858541637193;153.331642038718
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18355@eventor.orienteering.asn.au

@@ -3,6 +3,15 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
+UID:Event_18713@eventor.orienteering.asn.au
+DTSTAMP:20230219T124933Z
+DTSTART:20230225T210000Z
+DTEND:20230225T210000Z
+SUMMARY:Controller Application Forms User Training, Orienteering Australia
+URL:https://eventor.orienteering.asn.au/Events/Show/18713
+GEO:-26.0737994215372;134.357624125
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17912@eventor.orienteering.asn.au
 DTSTAMP:20220912T031125Z
 DTSTART:20230812T140000Z
