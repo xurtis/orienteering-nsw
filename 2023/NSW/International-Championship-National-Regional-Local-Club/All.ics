@@ -524,7 +524,7 @@ GEO:-33.2616140661525;149.107939309972
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18362@eventor.orienteering.asn.au
-DTSTAMP:20230209T112714Z
+DTSTAMP:20230220T032224Z
 DTSTART:20230224T220000Z
 DTEND:20230225T003000Z
 SUMMARY:SHOO's Summer Saturdays #7 - Oran Park NEW MAP, Southern Highlands Orienteers
@@ -559,15 +559,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18614
 GEO:-32.9165841586706;151.780368344208
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18238@eventor.orienteering.asn.au
-DTSTAMP:20230216T060446Z
-DTSTART:20230303T130000Z
-DTEND:20230305T130000Z
-SUMMARY:Toukley 2 Days, Central Coast Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18238
-GEO:-33.457945951182;151.392339695767
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18426@eventor.orienteering.asn.au
 DTSTAMP:20230213T012631Z
 DTSTART:20230303T223000Z
@@ -575,6 +566,15 @@ DTEND:20230304T010000Z
 SUMMARY:Saturday Orienteering Series 3D - Cherrybrook, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/18426
 GEO:-33.719538;151.037407
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18238@eventor.orienteering.asn.au
+DTSTAMP:20230220T032626Z
+DTSTART:20230304T010000Z
+DTEND:20230304T130000Z
+SUMMARY:Toukley 2 Days, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18238
+GEO:-33.457945951182;151.392339695767
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18087@eventor.orienteering.asn.au
@@ -804,6 +804,15 @@ DTSTART:20230416T000000Z
 DTEND:20230416T033000Z
 SUMMARY:Waggaroos - AWOC Interclub #2, Yackandandah, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18583
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18714@eventor.orienteering.asn.au
+DTSTAMP:20230220T024855Z
+DTSTART:20230420T020000Z
+DTEND:20230423T020000Z
+SUMMARY:Bluebottles Junior Orienteering Training Camp, Newcastle Orienteering Club / Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/18714
+GEO:-32.6311085616595;151.591346187545
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18674@eventor.orienteering.asn.au

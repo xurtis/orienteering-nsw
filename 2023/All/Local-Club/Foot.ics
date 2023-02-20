@@ -930,14 +930,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18350
 GEO:-27.4780905455066;152.995640864651
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18457@eventor.orienteering.asn.au
-DTSTAMP:20230117T115013Z
-DTSTART:20230214T133000Z
-DTEND:20230215T133000Z
-SUMMARY:Midweek Training Season Ticket, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/18457
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18454@eventor.orienteering.asn.au
 DTSTAMP:20230203T020644Z
 DTSTART:20230215T000000Z
@@ -1190,7 +1182,7 @@ GEO:-27.4990682850369;153.004500085927
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18658@eventor.orienteering.asn.au
-DTSTAMP:20230206T062425Z
+DTSTAMP:20230220T121949Z
 DTSTART:20230221T080000Z
 DTEND:20230221T080000Z
 SUMMARY:Night Nav - Kings Beach, Sunshine Orienteers Club
@@ -1333,7 +1325,7 @@ GEO:-34.8761059135417;138.648959412758
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18362@eventor.orienteering.asn.au
-DTSTAMP:20230209T112714Z
+DTSTAMP:20230220T032224Z
 DTSTART:20230224T220000Z
 DTEND:20230225T003000Z
 SUMMARY:SHOO's Summer Saturdays #7 - Oran Park NEW MAP, Southern Highlands Orienteers
@@ -1403,14 +1395,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18645
 GEO:-31.7535830273523;115.773899498867
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18419@eventor.orienteering.asn.au
-DTSTAMP:20230212T102058Z
-DTSTART:20230226T050000Z
-DTEND:20230226T050000Z
-SUMMARY:Picnic Point, Toowoomba, Range Runners Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18419
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18604@eventor.orienteering.asn.au
 DTSTAMP:20230129T111359Z
 DTSTART:20230226T060000Z
@@ -1418,6 +1402,14 @@ DTEND:20230226T060000Z
 SUMMARY:MapRun Parks 2023 - Rafting Ground Reserve (Kenmore), Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18604
 GEO:-27.5201800434318;152.923363309132
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18419@eventor.orienteering.asn.au
+DTSTAMP:20230220T102918Z
+DTSTART:20230226T060000Z
+DTEND:20230226T060000Z
+SUMMARY:Picnic Point, Toowoomba, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18419
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18352@eventor.orienteering.asn.au
@@ -1435,7 +1427,7 @@ DTSTART:20230228T080000Z
 DTEND:20230228T080000Z
 SUMMARY:Night Nav - Noosa , Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18660
-GEO:-26.4124838557542;153.093028506248
+GEO:-26.3978139837786;153.087630134412
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18523@eventor.orienteering.asn.au
@@ -1518,15 +1510,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18611
 GEO:-12.4527974917763;130.829557239605
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18238@eventor.orienteering.asn.au
-DTSTAMP:20230216T060446Z
-DTSTART:20230303T130000Z
-DTEND:20230305T130000Z
-SUMMARY:Toukley 2 Days, Central Coast Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18238
-GEO:-33.457945951182;151.392339695767
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18426@eventor.orienteering.asn.au
 DTSTAMP:20230213T012631Z
 DTSTART:20230303T223000Z
@@ -1534,6 +1517,15 @@ DTEND:20230304T010000Z
 SUMMARY:Saturday Orienteering Series 3D - Cherrybrook, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/18426
 GEO:-33.719538;151.037407
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18238@eventor.orienteering.asn.au
+DTSTAMP:20230220T032626Z
+DTSTART:20230304T010000Z
+DTEND:20230304T130000Z
+SUMMARY:Toukley 2 Days, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18238
+GEO:-33.457945951182;151.392339695767
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18087@eventor.orienteering.asn.au
@@ -1762,6 +1754,14 @@ DTEND:20230315T130000Z
 SUMMARY:Wentworth Park - Southern Autumn Schools/Twilight Series #5, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18492
 GEO:-42.8804800057833;147.367144158479
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18457@eventor.orienteering.asn.au
+DTSTAMP:20230220T081816Z
+DTSTART:20230314T133000Z
+DTEND:20230315T133000Z
+SUMMARY:Midweek Training Season Ticket, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18457
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18455@eventor.orienteering.asn.au
@@ -2017,7 +2017,7 @@ GEO:-41.0613007141333;145.883598126638
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18647@eventor.orienteering.asn.au
-DTSTAMP:20230219T084459Z
+DTSTAMP:20230220T055247Z
 DTSTART:20230325T160000Z
 DTEND:20230326T160000Z
 SUMMARY:NavDash 3 North Lake SC, Kulgun 225 Orienteers / Orienteering WA
@@ -2241,6 +2241,15 @@ DTEND:20230420T010000Z
 SUMMARY:Grinstead Park, Alderley. (BCC Sponsored) (MAPRUN EVENT), Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/17958
 GEO:-27.4174214401261;153.00054520267
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18714@eventor.orienteering.asn.au
+DTSTAMP:20230220T024855Z
+DTSTART:20230420T020000Z
+DTEND:20230423T020000Z
+SUMMARY:Bluebottles Junior Orienteering Training Camp, Newcastle Orienteering Club / Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/18714
+GEO:-32.6311085616595;151.591346187545
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16768@eventor.orienteering.asn.au
@@ -2795,12 +2804,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17862
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18389@eventor.orienteering.asn.au
-DTSTAMP:20230219T114636Z
+DTSTAMP:20230220T103058Z
 DTSTART:20230617T023000Z
 DTEND:20230617T040000Z
 SUMMARY:Bendigo Bush 7 - Kangaroo Gully, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18389
-GEO:-36.7652326518926;144.304901002862
+GEO:-36.8215394083286;144.26376705362
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16776@eventor.orienteering.asn.au
@@ -2809,6 +2818,15 @@ DTSTART:20230617T040000Z
 DTEND:20230617T040000Z
 SUMMARY:EODS - Venue Sprint?? TBC, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/16776
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18716@eventor.orienteering.asn.au
+DTSTAMP:20230220T082808Z
+DTSTART:20230617T060000Z
+DTEND:20230617T060000Z
+SUMMARY:NavDash 5 Araluen, Bibbulmun Orienteers / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/18716
+GEO:-32.122067194162;116.101973519042
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18688@eventor.orienteering.asn.au
@@ -3484,12 +3502,12 @@ GEO:-21.1634159859388;149.197309395902
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18402@eventor.orienteering.asn.au
-DTSTAMP:20230106T121923Z
+DTSTAMP:20230220T102902Z
 DTSTART:20230923T023000Z
 DTEND:20230923T040000Z
 SUMMARY:Bendigo Bush 16 - Korong Spur, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18402
-GEO:-36.7590923187803;144.292137408559
+GEO:-36.4543621835638;143.753676064828
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18668@eventor.orienteering.asn.au

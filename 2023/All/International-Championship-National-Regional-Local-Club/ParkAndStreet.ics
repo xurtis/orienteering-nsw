@@ -1153,7 +1153,7 @@ GEO:-27.4990682850369;153.004500085927
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18658@eventor.orienteering.asn.au
-DTSTAMP:20230206T062425Z
+DTSTAMP:20230220T121949Z
 DTSTART:20230221T080000Z
 DTEND:20230221T080000Z
 SUMMARY:Night Nav - Kings Beach, Sunshine Orienteers Club
@@ -1252,7 +1252,7 @@ GEO:-33.2616140661525;149.107939309972
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18362@eventor.orienteering.asn.au
-DTSTAMP:20230209T112714Z
+DTSTAMP:20230220T032224Z
 DTSTART:20230224T220000Z
 DTEND:20230225T003000Z
 SUMMARY:SHOO's Summer Saturdays #7 - Oran Park NEW MAP, Southern Highlands Orienteers
@@ -1278,14 +1278,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18553
 GEO:-28.6528214678097;151.931754500775
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18419@eventor.orienteering.asn.au
-DTSTAMP:20230212T102058Z
-DTSTART:20230226T050000Z
-DTEND:20230226T050000Z
-SUMMARY:Picnic Point, Toowoomba, Range Runners Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18419
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18604@eventor.orienteering.asn.au
 DTSTAMP:20230129T111359Z
 DTSTART:20230226T060000Z
@@ -1293,6 +1285,14 @@ DTEND:20230226T060000Z
 SUMMARY:MapRun Parks 2023 - Rafting Ground Reserve (Kenmore), Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18604
 GEO:-27.5201800434318;152.923363309132
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18419@eventor.orienteering.asn.au
+DTSTAMP:20230220T102918Z
+DTSTART:20230226T060000Z
+DTEND:20230226T060000Z
+SUMMARY:Picnic Point, Toowoomba, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18419
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18256@eventor.orienteering.asn.au
@@ -1337,7 +1337,7 @@ DTSTART:20230228T080000Z
 DTEND:20230228T080000Z
 SUMMARY:Night Nav - Noosa , Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18660
-GEO:-26.4124838557542;153.093028506248
+GEO:-26.3978139837786;153.087630134412
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17794@eventor.orienteering.asn.au
@@ -1937,6 +1937,15 @@ DTSTART:20230419T083000Z
 DTEND:20230419T101000Z
 SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - Colchester, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18502
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18714@eventor.orienteering.asn.au
+DTSTAMP:20230220T024855Z
+DTSTART:20230420T020000Z
+DTEND:20230423T020000Z
+SUMMARY:Bluebottles Junior Orienteering Training Camp, Newcastle Orienteering Club / Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/18714
+GEO:-32.6311085616595;151.591346187545
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18499@eventor.orienteering.asn.au

@@ -102,14 +102,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18173
 GEO:-34.917749675238;138.603823327429
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18457@eventor.orienteering.asn.au
-DTSTAMP:20230117T115013Z
-DTSTART:20230214T133000Z
-DTEND:20230215T133000Z
-SUMMARY:Midweek Training Season Ticket, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/18457
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18454@eventor.orienteering.asn.au
 DTSTAMP:20230203T020644Z
 DTSTART:20230215T000000Z
@@ -205,6 +197,14 @@ DTSTART:20230304T233000Z
 DTEND:20230305T020000Z
 SUMMARY:SA Sprint Championships - Reynella, Tjuringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17818
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18457@eventor.orienteering.asn.au
+DTSTAMP:20230220T081816Z
+DTSTART:20230314T133000Z
+DTEND:20230315T133000Z
+SUMMARY:Midweek Training Season Ticket, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18457
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18455@eventor.orienteering.asn.au
