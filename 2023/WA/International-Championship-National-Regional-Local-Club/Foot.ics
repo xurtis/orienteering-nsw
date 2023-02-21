@@ -49,7 +49,7 @@ GEO:-33.2604133691211;115.730799071886
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18645@eventor.orienteering.asn.au
-DTSTAMP:20230212T144351Z
+DTSTAMP:20230221T083431Z
 DTSTART:20230226T020000Z
 DTEND:20230226T043000Z
 SUMMARY:NavDash 1 ECU Joondalup, Orienteering WA / Wullundigong Orienteers of the West
@@ -162,6 +162,15 @@ DTEND:20230617T060000Z
 SUMMARY:NavDash 5 Araluen, Bibbulmun Orienteers / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/18716
 GEO:-32.122067194162;116.101973519042
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18720@eventor.orienteering.asn.au
+DTSTAMP:20230221T065348Z
+DTSTART:20230618T013000Z
+DTEND:20230618T050000Z
+SUMMARY:Bush 5 Little Frazzle, Kulgun 225 Orienteers / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/18720
+GEO:-32.3348208885365;116.816413014158
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18532@eventor.orienteering.asn.au

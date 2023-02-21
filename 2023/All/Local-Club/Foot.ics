@@ -859,7 +859,7 @@ GEO:-27.50598560629;152.938565938887
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16953@eventor.orienteering.asn.au
-DTSTAMP:20230211T074127Z
+DTSTAMP:20230221T101657Z
 DTSTART:20230211T053000Z
 DTEND:20230211T070000Z
 SUMMARY:Park O #4 - Dumbarton Drive Park, Kenmore - BCC, Ugly Gully Orienteers
@@ -1173,9 +1173,9 @@ GEO:-33.2604133691211;115.730799071886
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18351@eventor.orienteering.asn.au
-DTSTAMP:20230130T080616Z
-DTSTART:20230221T073000Z
-DTEND:20230221T093000Z
+DTSTAMP:20230221T114911Z
+DTSTART:20230220T140000Z
+DTEND:20230221T140000Z
 SUMMARY:Night Nav - St Lucia, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18351
 GEO:-27.4990682850369;153.004500085927
@@ -1352,10 +1352,10 @@ GEO:-27.7391926199221;152.92262347445
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18458@eventor.orienteering.asn.au
-DTSTAMP:20230121T112624Z
+DTSTAMP:20230221T072006Z
 DTSTART:20230225T073000Z
 DTEND:20230226T073000Z
-SUMMARY:BendiGo ToDay (Boot Hill), Bendigo Orienteers
+SUMMARY:BendiGo ToDay, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18458
 GEO:-36.8829354477779;143.756821249805
 END:VEVENT
@@ -1387,7 +1387,7 @@ GEO:-41.1623769064547;146.339082442038
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18645@eventor.orienteering.asn.au
-DTSTAMP:20230212T144351Z
+DTSTAMP:20230221T083431Z
 DTSTART:20230226T020000Z
 DTEND:20230226T043000Z
 SUMMARY:NavDash 1 ECU Joondalup, Orienteering WA / Wullundigong Orienteers of the West
@@ -1449,7 +1449,7 @@ GEO:-42.9520113203141;147.351942797956
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17794@eventor.orienteering.asn.au
-DTSTAMP:20230128T210021Z
+DTSTAMP:20230221T065945Z
 DTSTART:20230301T053000Z
 DTEND:20230301T083000Z
 SUMMARY:2022/23 Sydney Summer Series #22 Balmain, Uringa Orienteers
@@ -1493,7 +1493,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18484
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18682@eventor.orienteering.asn.au
-DTSTAMP:20230207T050804Z
+DTSTAMP:20230221T011651Z
 DTSTART:20230302T003000Z
 DTEND:20230302T010000Z
 SUMMARY:White's Hill, (Camp Hill). Bush. (MapRun Event), Orienteering Queensland
@@ -1508,6 +1508,14 @@ DTEND:20230303T143000Z
 SUMMARY:NT: 2023 Wet Season series Event 5 - Larrakeyah, Top End Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18611
 GEO:-12.4527974917763;130.829557239605
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18718@eventor.orienteering.asn.au
+DTSTAMP:20230221T050321Z
+DTSTART:20230303T220000Z
+DTEND:20230305T030000Z
+SUMMARY:Bluebottles Sprint Training Opportunity, Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/18718
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18426@eventor.orienteering.asn.au
@@ -1528,6 +1536,24 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18238
 GEO:-33.457945951182;151.392339695767
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18722@eventor.orienteering.asn.au
+DTSTAMP:20230221T094339Z
+DTSTART:20230304T023000Z
+DTEND:20230304T040000Z
+SUMMARY:Toukley 2 day Saturday pm(relay) -single entry, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18722
+GEO:-33.4582016917813;151.392349538833
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18723@eventor.orienteering.asn.au
+DTSTAMP:20230221T100021Z
+DTSTART:20230304T090000Z
+DTEND:20230304T103000Z
+SUMMARY:Toukley 2 Day single night entry, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18723
+GEO:-33.4411131407304;151.424944628553
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18087@eventor.orienteering.asn.au
 DTSTAMP:20221120T082234Z
 DTSTART:20230304T220000Z
@@ -1543,6 +1569,15 @@ DTSTART:20230304T220000Z
 DTEND:20230304T233000Z
 SUMMARY:ACT Sprint Series #4, St Jude’s and Montessori Schools, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18307
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18724@eventor.orienteering.asn.au
+DTSTAMP:20230221T102234Z
+DTSTART:20230304T230000Z
+DTEND:20230305T010000Z
+SUMMARY:Toukley 2 Day Sunday single entry, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18724
+GEO:-33.4583352464832;151.392208672021
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18529@eventor.orienteering.asn.au
@@ -1641,12 +1676,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18468
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18687@eventor.orienteering.asn.au
-DTSTAMP:20230208T090759Z
+DTSTAMP:20230221T011647Z
 DTSTART:20230309T003000Z
 DTEND:20230309T010000Z
-SUMMARY:Merri Merri Park, Chapel Hill. Bush, Park, & Street., Orienteering Queensland
+SUMMARY:Merri Merri Park, Chapel Hill. Bush, Park, & Street. (MapRun Event), Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18687
-GEO:-27.4856456720154;152.939678640268
+GEO:-27.4854895976579;152.939800039997
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18139@eventor.orienteering.asn.au
@@ -1891,7 +1926,7 @@ DTSTART:20230318T233000Z
 DTEND:20230318T233000Z
 SUMMARY:Aberfoyle Park HS and surrounds, Onkaparinga Hills Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18373
-GEO:-35.0738274757432;138.594981000879
+GEO:-35.0734393873177;138.594927392012
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18489@eventor.orienteering.asn.au
@@ -2039,7 +2074,7 @@ DTSTART:20230325T230000Z
 DTEND:20230325T230000Z
 SUMMARY:Nerang NP TBC, Paradise Lost Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18192
-GEO:-27.9858541637193;153.331642038718
+GEO:-27.9862458574041;153.331331610223
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18176@eventor.orienteering.asn.au
@@ -2155,8 +2190,17 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18490
 GEO:-33.0270183817113;137.564784182495
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18717@eventor.orienteering.asn.au
+DTSTAMP:20230221T000001Z
+DTSTART:20230402T230000Z
+DTEND:20230403T020000Z
+SUMMARY:Hardings Paddock - bush - Ipswich region, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18717
+GEO:-27.7358707464712;152.766576192841
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_16951@eventor.orienteering.asn.au
-DTSTAMP:20221122T233644Z
+DTSTAMP:20230221T101250Z
 DTSTART:20230412T230000Z
 DTEND:20230413T010000Z
 SUMMARY:Bowman Park, Bardon - BCC, Ugly Gully Orienteers
@@ -2250,6 +2294,15 @@ DTEND:20230423T020000Z
 SUMMARY:Bluebottles Junior Orienteering Training Camp, Newcastle Orienteering Club / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/18714
 GEO:-32.6311085616595;151.591346187545
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18719@eventor.orienteering.asn.au
+DTSTAMP:20230221T051911Z
+DTSTART:20230421T230000Z
+DTEND:20230422T060000Z
+SUMMARY:Controllers Workshop, Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/18719
+GEO:-33.8453628418841;151.074846083098
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16768@eventor.orienteering.asn.au
@@ -2844,6 +2897,15 @@ DTEND:20230618T000000Z
 SUMMARY:MelBushO 5 - Yellow Gum Park, Yan Yean, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18444
 GEO:-37.6704489751723;145.090670479002
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18720@eventor.orienteering.asn.au
+DTSTAMP:20230221T065348Z
+DTSTART:20230618T013000Z
+DTEND:20230618T050000Z
+SUMMARY:Bush 5 Little Frazzle, Kulgun 225 Orienteers / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/18720
+GEO:-32.3348208885365;116.816413014158
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18547@eventor.orienteering.asn.au
