@@ -166,7 +166,7 @@ GEO:-12.4392965478267;130.854281255348
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18175@eventor.orienteering.asn.au
-DTSTAMP:20230204T064242Z
+DTSTAMP:20230222T060819Z
 DTSTART:20230224T080000Z
 DTEND:20230224T093000Z
 SUMMARY:Snap Sprint Series Race 4 - Lochiel Park Eco Village, SA Arrows
@@ -199,6 +199,15 @@ SUMMARY:SA Sprint Championships - Reynella, Tjuringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17818
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18727@eventor.orienteering.asn.au
+DTSTAMP:20230222T073121Z
+DTSTART:20230309T051500Z
+DTEND:20230309T063000Z
+SUMMARY:Central Adelaide Schools Zone Event 1 Burnside, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18727
+GEO:-34.9354332702898;138.660955055345
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18457@eventor.orienteering.asn.au
 DTSTAMP:20230220T081816Z
 DTSTART:20230314T133000Z
@@ -214,6 +223,15 @@ DTEND:20230315T023000Z
 SUMMARY:Midweek Training Mt Crawford, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18455
 GEO:-34.7018867516933;138.958380877371
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18729@eventor.orienteering.asn.au
+DTSTAMP:20230222T085942Z
+DTSTART:20230316T051500Z
+DTEND:20230316T063000Z
+SUMMARY:Central Adelaide Schools Zone Event 2 Linden Park, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18729
+GEO:-34.9473340203569;138.646762182117
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18373@eventor.orienteering.asn.au
@@ -232,6 +250,15 @@ DTEND:20230319T033000Z
 SUMMARY:Whyalla - Wetlands-Tower Hill, Saltbush Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18489
 GEO:-33.0388192972662;137.562380923218
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18728@eventor.orienteering.asn.au
+DTSTAMP:20230222T085937Z
+DTSTART:20230323T051500Z
+DTEND:20230323T063000Z
+SUMMARY:Central Adelaide Schools Zone Event 3 Seymour, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18728
+GEO:-34.956227770905;138.648207346649
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18176@eventor.orienteering.asn.au
@@ -328,6 +355,15 @@ DTEND:20230528T003000Z
 SUMMARY:Cornerstone College, Mt Barker, Onkaparinga Hills Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18374
 GEO:-35.0595046143147;138.859359352046
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18721@eventor.orienteering.asn.au
+DTSTAMP:20230222T012608Z
+DTSTART:20230529T140000Z
+DTEND:20230529T140000Z
+SUMMARY:SA Schools' Orienteering Championships, Tjuringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18721
+GEO:-34.9075883535298;138.5800501296
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18312@eventor.orienteering.asn.au
