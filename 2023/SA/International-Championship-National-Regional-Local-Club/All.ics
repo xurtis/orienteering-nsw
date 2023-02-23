@@ -166,10 +166,10 @@ GEO:-12.4392965478267;130.854281255348
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18175@eventor.orienteering.asn.au
-DTSTAMP:20230222T060819Z
+DTSTAMP:20230223T064913Z
 DTSTART:20230224T080000Z
 DTEND:20230224T093000Z
-SUMMARY:Snap Sprint Series Race 4 - Lochiel Park Eco Village, SA Arrows
+SUMMARY:Snap Sprint Series Race 4 - Lochiel Park Eco Village (Lochend Drive), SA Arrows
 URL:https://eventor.orienteering.asn.au/Events/Show/18175
 GEO:-34.8761059135417;138.648959412758
 END:VEVENT
@@ -217,7 +217,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18457
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18455@eventor.orienteering.asn.au
-DTSTAMP:20230116T073049Z
+DTSTAMP:20230223T063203Z
 DTSTART:20230315T000000Z
 DTEND:20230315T023000Z
 SUMMARY:Midweek Training Mt Crawford, Orienteering SA
@@ -267,6 +267,15 @@ DTSTART:20230325T233000Z
 DTEND:20230326T023000Z
 SUMMARY:Belair National Park, Wallaringa Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18176
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18731@eventor.orienteering.asn.au
+DTSTAMP:20230223T075308Z
+DTSTART:20230330T051500Z
+DTEND:20230330T063000Z
+SUMMARY:Central Adelaide Schools Zone Event 4 Black Forest, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18731
+GEO:-34.9607584958151;138.574837353824
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18629@eventor.orienteering.asn.au

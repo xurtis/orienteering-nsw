@@ -115,7 +115,7 @@ DTSTART:20230301T060000Z
 DTEND:20230301T083000Z
 SUMMARY:ACT Runners Shop Twilight Series #13: Gossan Hill, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/17741
-GEO:-35.2457656055279;149.090060578038
+GEO:-35.2430672228692;149.084611528208
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18484@eventor.orienteering.asn.au
@@ -304,6 +304,15 @@ DTSTART:20230520T003000Z
 DTEND:20230520T030000Z
 SUMMARY:ACT Metro Series: Junior League #4, The Pinnacle, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/17859
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18730@eventor.orienteering.asn.au
+DTSTAMP:20230223T010425Z
+DTSTART:20230520T220000Z
+DTEND:20230520T220000Z
+SUMMARY:ACT World Maze Race, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/18730
+GEO:-35.2836783721036;149.136491716182
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17860@eventor.orienteering.asn.au

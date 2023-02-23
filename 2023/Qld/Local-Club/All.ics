@@ -620,7 +620,7 @@ UID:Event_18011@eventor.orienteering.asn.au
 DTSTAMP:20230210T032309Z
 DTSTART:20230418T073000Z
 DTEND:20230418T093000Z
-SUMMARY:Night Nav - location tbc, Multi Terrain Bike Orienteers / Ugly Gully Orienteers
+SUMMARY:Night Nav - location tbc, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18011
 END:VEVENT
 BEGIN:VEVENT
@@ -946,6 +946,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18325
 GEO:-26.490154;150.079749
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18736@eventor.orienteering.asn.au
+DTSTAMP:20230223T085841Z
+DTSTART:20230725T073000Z
+DTEND:20230725T093000Z
+SUMMARY:Night Nav - St Lucia East - BCC, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18736
+GEO:-27.4989291284518;153.004504353542
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18667@eventor.orienteering.asn.au
 DTSTAMP:20230207T013024Z
 DTSTART:20230729T230000Z
@@ -981,6 +990,15 @@ SUMMARY:Mt Coot-tha. Bush., Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18439
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18732@eventor.orienteering.asn.au
+DTSTAMP:20230223T084434Z
+DTSTART:20230827T060000Z
+DTEND:20230827T060000Z
+SUMMARY:MapRun Parks 2023 - Sherwoood Arboretum - BCC, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18732
+GEO:-27.5327301080009;152.973799605355
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18571@eventor.orienteering.asn.au
 DTSTAMP:20230126T020003Z
 DTSTART:20230830T073000Z
@@ -991,11 +1009,20 @@ GEO:-21.0864935217468;149.182301485104
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18024@eventor.orienteering.asn.au
-DTSTAMP:20221012T045336Z
+DTSTAMP:20230223T102721Z
 DTSTART:20230902T140000Z
 DTEND:20230903T140000Z
-SUMMARY:Anzac Park, Toowong - BCC (tbc), Ugly Gully Orienteers
+SUMMARY:Bowman Park, Bardon - BCC , Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18024
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18737@eventor.orienteering.asn.au
+DTSTAMP:20230223T090320Z
+DTSTART:20230919T073000Z
+DTEND:20230919T093000Z
+SUMMARY:Night Nav - Rainworth - BCC, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18737
+GEO:-27.4669901494569;152.983161587259
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18572@eventor.orienteering.asn.au
@@ -1048,6 +1075,15 @@ DTEND:20231018T091500Z
 SUMMARY:MapRun Night Nav Lamberts Beach, 21Degrees South Multisport Assoc.
 URL:https://eventor.orienteering.asn.au/Events/Show/18573
 GEO:-21.0745298092222;149.227795539657
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18733@eventor.orienteering.asn.au
+DTSTAMP:20230223T084748Z
+DTSTART:20231029T060000Z
+DTEND:20231029T060000Z
+SUMMARY:MapRun Parks 2023 - Moore Park - BCC, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18733
+GEO:-27.4997779891425;152.963991915636
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18550@eventor.orienteering.asn.au
