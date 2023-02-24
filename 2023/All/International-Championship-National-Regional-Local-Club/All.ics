@@ -1134,7 +1134,7 @@ GEO:-35.1653264480956;149.125917050469
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18337@eventor.orienteering.asn.au
-DTSTAMP:20230205T012910Z
+DTSTAMP:20230224T073444Z
 DTSTART:20230204T230000Z
 DTEND:20230205T010000Z
 SUMMARY:Illawarra Map Running #1 - Wollongong, Illawarra Kareelah Orienteers
@@ -2199,7 +2199,7 @@ GEO:-41.4566940220496;147.167921955353
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18481@eventor.orienteering.asn.au
-DTSTAMP:20230118T220738Z
+DTSTAMP:20230224T050131Z
 DTSTART:20230228T130000Z
 DTEND:20230301T130000Z
 SUMMARY:Taroona - Southern Autumn Schools/Twilight Series #3, Australopers
@@ -2312,7 +2312,7 @@ GEO:-33.719538;151.037407
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18238@eventor.orienteering.asn.au
-DTSTAMP:20230223T054623Z
+DTSTAMP:20230224T082759Z
 DTSTART:20230304T013000Z
 DTEND:20230304T013000Z
 SUMMARY:Toukley 2 Days, Central Coast Orienteers
@@ -2348,7 +2348,7 @@ GEO:-37.9640381542571;144.409315808163
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18723@eventor.orienteering.asn.au
-DTSTAMP:20230221T100021Z
+DTSTAMP:20230224T112903Z
 DTSTART:20230304T090000Z
 DTEND:20230304T103000Z
 SUMMARY:Toukley 2 Day single night entry, Central Coast Orienteers
@@ -2919,9 +2919,9 @@ GEO:-36.7883017168463;144.223481983236
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18341@eventor.orienteering.asn.au
-DTSTAMP:20230222T083944Z
+DTSTAMP:20230224T073524Z
 DTSTART:20230318T040000Z
-DTEND:20230318T060000Z
+DTEND:20230318T050000Z
 SUMMARY:Kirrawee South (new map), Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18341
 GEO:-34.0393053702245;151.065902495968
@@ -4735,6 +4735,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17026
 GEO:-34.683836607132;138.966374521357
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18740@eventor.orienteering.asn.au
+DTSTAMP:20230224T062258Z
+DTSTART:20230625T013000Z
+DTEND:20230625T013000Z
+SUMMARY:MTBO 4 Lake Leschenaultia, Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/18740
+GEO:-31.8513644865601;116.25334645304
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17864@eventor.orienteering.asn.au
 DTSTAMP:20220906T014054Z
 DTSTART:20230701T003000Z
@@ -4768,6 +4777,15 @@ DTEND:20230702T000000Z
 SUMMARY:MelBushO 6 - Westerfolds Park, Templestowe, Yarra Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18445
 GEO:-37.7509438225222;145.129094749978
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18741@eventor.orienteering.asn.au
+DTSTAMP:20230224T063615Z
+DTSTART:20230702T013000Z
+DTEND:20230702T013000Z
+SUMMARY:Bush 6 Jumbuck Ridge, Orienteering WA / Wullundigong Orienteers of the West
+URL:https://eventor.orienteering.asn.au/Events/Show/18741
+GEO:-31.7262704879621;116.068826642616
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17809@eventor.orienteering.asn.au
@@ -4880,6 +4898,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18410
 GEO:-34.9762062795337;138.671269452577
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18742@eventor.orienteering.asn.au
+DTSTAMP:20230224T065036Z
+DTSTART:20230716T013000Z
+DTEND:20230716T013000Z
+SUMMARY:NavDash 6 Club Relays - entries only, Kulgun 225 Orienteers / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/18742
+GEO:-31.9724193056581;116.065894902568
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18570@eventor.orienteering.asn.au
 DTSTAMP:20230126T015500Z
 DTSTART:20230719T073000Z
@@ -4984,6 +5011,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18325
 GEO:-26.490154;150.079749
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18743@eventor.orienteering.asn.au
+DTSTAMP:20230224T071451Z
+DTSTART:20230723T013000Z
+DTEND:20230723T050000Z
+SUMMARY:MTBO 5 WA Middle Distance Championships, Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/18743
+GEO:-32.3193194366382;116.069529863635
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18736@eventor.orienteering.asn.au
 DTSTAMP:20230223T085841Z
 DTSTART:20230725T073000Z
@@ -5050,6 +5086,15 @@ DTSTART:20230730T000000Z
 DTEND:20230730T040000Z
 SUMMARY:ACT Classic Series: ACT League #7, Isaacs Ridge, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/17893
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18744@eventor.orienteering.asn.au
+DTSTAMP:20230224T072850Z
+DTSTART:20230730T013000Z
+DTEND:20230730T013000Z
+SUMMARY:Bush 7 Yetar Spring, LOST / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/18744
+GEO:-31.9251334860808;116.34915897081
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17867@eventor.orienteering.asn.au
@@ -5128,6 +5173,15 @@ SUMMARY:Shellharbour, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18695
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18745@eventor.orienteering.asn.au
+DTSTAMP:20230224T075222Z
+DTSTART:20230812T060000Z
+DTEND:20230812T080000Z
+SUMMARY:NavDash 7 WA Sprint Championships, LOST / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/18745
+GEO:-32.0050418366148;115.767826494553
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17912@eventor.orienteering.asn.au
 DTSTAMP:20220912T031125Z
 DTSTART:20230812T140000Z
@@ -5168,6 +5222,15 @@ DTEND:20230813T033000Z
 SUMMARY:Shepherds Hill - including MTBO, Tjuringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18314
 GEO:-35.014976966548;138.584375741474
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18746@eventor.orienteering.asn.au
+DTSTAMP:20230224T081403Z
+DTSTART:20230813T013000Z
+DTEND:20230813T050000Z
+SUMMARY:Bush 8 WA Middle Distance Championships, Orienteering WA / Wullundigong Orienteers of the West
+URL:https://eventor.orienteering.asn.au/Events/Show/18746
+GEO:-31.939814577118;116.305100139105
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18462@eventor.orienteering.asn.au
@@ -5295,6 +5358,15 @@ DTSTART:20230826T140000Z
 DTEND:20230827T140000Z
 SUMMARY:MTBO Vic Series #3 - Fingerpost Corner, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18345
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18747@eventor.orienteering.asn.au
+DTSTAMP:20230224T082846Z
+DTSTART:20230827T013000Z
+DTEND:20230827T013000Z
+SUMMARY:Bush 9 Ngangaguringguring, Bibbulmun Orienteers / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/18747
+GEO:-31.9059590814022;116.360325688639
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18732@eventor.orienteering.asn.au
@@ -5528,6 +5600,15 @@ SUMMARY:SA Middle Distance Championships - Crooked Straight, Yalanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17820
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18748@eventor.orienteering.asn.au
+DTSTAMP:20230224T084725Z
+DTSTART:20230910T013000Z
+DTEND:20230910T013000Z
+SUMMARY:Bush 10 Marginata, LOST / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/18748
+GEO:-32.0106028013119;116.421941771013
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18463@eventor.orienteering.asn.au
 DTSTAMP:20230117T061416Z
 DTSTART:20230913T010000Z
@@ -5592,6 +5673,15 @@ DTSTART:20230917T000000Z
 DTEND:20230917T033000Z
 SUMMARY:Waggaroos Local event, Willan's Hill, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18596
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18749@eventor.orienteering.asn.au
+DTSTAMP:20230224T091000Z
+DTSTART:20230917T013000Z
+DTEND:20230917T050000Z
+SUMMARY:Bush 11 WA Long Distance Championships, Bibbulmun Orienteers / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/18749
+GEO:-32.2891377589149;116.739978188663
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18737@eventor.orienteering.asn.au

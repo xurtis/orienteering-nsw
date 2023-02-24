@@ -3,6 +3,42 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
+UID:Event_18743@eventor.orienteering.asn.au
+DTSTAMP:20230224T071451Z
+DTSTART:20230723T013000Z
+DTEND:20230723T050000Z
+SUMMARY:MTBO 5 WA Middle Distance Championships, Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/18743
+GEO:-32.3193194366382;116.069529863635
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18745@eventor.orienteering.asn.au
+DTSTAMP:20230224T075222Z
+DTSTART:20230812T060000Z
+DTEND:20230812T080000Z
+SUMMARY:NavDash 7 WA Sprint Championships, LOST / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/18745
+GEO:-32.0050418366148;115.767826494553
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18746@eventor.orienteering.asn.au
+DTSTAMP:20230224T081403Z
+DTSTART:20230813T013000Z
+DTEND:20230813T050000Z
+SUMMARY:Bush 8 WA Middle Distance Championships, Orienteering WA / Wullundigong Orienteers of the West
+URL:https://eventor.orienteering.asn.au/Events/Show/18746
+GEO:-31.939814577118;116.305100139105
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18749@eventor.orienteering.asn.au
+DTSTAMP:20230224T091000Z
+DTSTART:20230917T013000Z
+DTEND:20230917T050000Z
+SUMMARY:Bush 11 WA Long Distance Championships, Bibbulmun Orienteers / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/18749
+GEO:-32.2891377589149;116.739978188663
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18140@eventor.orienteering.asn.au
 DTSTAMP:20221214T053717Z
 DTSTART:20230929T160000Z

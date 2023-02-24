@@ -440,7 +440,7 @@ GEO:-35.1653264480956;149.125917050469
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18337@eventor.orienteering.asn.au
-DTSTAMP:20230205T012910Z
+DTSTAMP:20230224T073444Z
 DTSTART:20230204T230000Z
 DTEND:20230205T010000Z
 SUMMARY:Illawarra Map Running #1 - Wollongong, Illawarra Kareelah Orienteers
@@ -818,7 +818,7 @@ GEO:-33.719538;151.037407
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18238@eventor.orienteering.asn.au
-DTSTAMP:20230223T054623Z
+DTSTAMP:20230224T082759Z
 DTSTART:20230304T013000Z
 DTEND:20230304T013000Z
 SUMMARY:Toukley 2 Days, Central Coast Orienteers
@@ -974,9 +974,9 @@ GEO:-33.7560116619594;151.173965551294
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18341@eventor.orienteering.asn.au
-DTSTAMP:20230222T083944Z
+DTSTAMP:20230224T073524Z
 DTSTART:20230318T040000Z
-DTEND:20230318T060000Z
+DTEND:20230318T050000Z
 SUMMARY:Kirrawee South (new map), Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18341
 GEO:-34.0393053702245;151.065902495968
@@ -1599,12 +1599,30 @@ SUMMARY:Shellharbour, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18695
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18745@eventor.orienteering.asn.au
+DTSTAMP:20230224T075222Z
+DTSTART:20230812T060000Z
+DTEND:20230812T080000Z
+SUMMARY:NavDash 7 WA Sprint Championships, LOST / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/18745
+GEO:-32.0050418366148;115.767826494553
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18023@eventor.orienteering.asn.au
 DTSTAMP:20230119T012829Z
 DTSTART:20230812T140000Z
 DTEND:20230813T140000Z
 SUMMARY:OY9 - Sheepstation Creek (Wivenhoe) - location TBC, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18023
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18746@eventor.orienteering.asn.au
+DTSTAMP:20230224T081403Z
+DTSTART:20230813T013000Z
+DTEND:20230813T050000Z
+SUMMARY:Bush 8 WA Middle Distance Championships, Orienteering WA / Wullundigong Orienteers of the West
+URL:https://eventor.orienteering.asn.au/Events/Show/18746
+GEO:-31.939814577118;116.305100139105
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17826@eventor.orienteering.asn.au
@@ -1754,6 +1772,15 @@ DTSTART:20230916T233000Z
 DTEND:20230917T023000Z
 SUMMARY:MetroLeague 6 - St Ives Showground, Big Foot Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18247
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18749@eventor.orienteering.asn.au
+DTSTAMP:20230224T091000Z
+DTSTART:20230917T013000Z
+DTEND:20230917T050000Z
+SUMMARY:Bush 11 WA Long Distance Championships, Bibbulmun Orienteers / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/18749
+GEO:-32.2891377589149;116.739978188663
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18140@eventor.orienteering.asn.au
