@@ -204,15 +204,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18521
 GEO:-41.4090368382169;147.140047346
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18540@eventor.orienteering.asn.au
-DTSTAMP:20230215T093839Z
-DTSTART:20230221T130000Z
-DTEND:20230222T130000Z
-SUMMARY:Enter all Northern Autumn Twilight Events at Discounted Rate, Esk Valley
-URL:https://eventor.orienteering.asn.au/Events/Show/18540
-GEO:-41.4088659898251;147.139443912616
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18539@eventor.orienteering.asn.au
 DTSTAMP:20230216T035202Z
 DTSTART:20230221T130000Z
@@ -239,6 +230,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18479
 GEO:-42.8702580530303;147.36810619733
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18540@eventor.orienteering.asn.au
+DTSTAMP:20230225T041648Z
+DTSTART:20230225T130000Z
+DTEND:20230226T130000Z
+SUMMARY:Enter all Northern Autumn Twilight Events at Discounted Rate, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/18540
+GEO:-41.4088659898251;147.139443912616
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18480@eventor.orienteering.asn.au
 DTSTAMP:20230216T030939Z
 DTSTART:20230225T230000Z
@@ -258,12 +258,12 @@ GEO:-41.1623769064547;146.339082442038
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18523@eventor.orienteering.asn.au
-DTSTAMP:20230130T102604Z
+DTSTAMP:20230225T045803Z
 DTSTART:20230228T130000Z
 DTEND:20230301T130000Z
 SUMMARY:LCGS- Northern Autumn Twilight Series #3, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/18523
-GEO:-41.4566940220496;147.167921955353
+GEO:-41.40779084208;147.128319598606
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18481@eventor.orienteering.asn.au
@@ -282,15 +282,6 @@ DTEND:20230308T130000Z
 SUMMARY:Domain - Southern Autumn Schools/Twilight Series #4, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18482
 GEO:-42.866844593505;147.323410630623
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18524@eventor.orienteering.asn.au
-DTSTAMP:20230217T002157Z
-DTSTART:20230307T130000Z
-DTEND:20230308T130000Z
-SUMMARY:First Basin Reserve - Northern Autumn Twilight Series #4, Esk Valley
-URL:https://eventor.orienteering.asn.au/Events/Show/18524
-GEO:-41.4511038172478;147.17494124812
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18518@eventor.orienteering.asn.au
@@ -321,11 +312,12 @@ GEO:-41.30958;148.168346
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18525@eventor.orienteering.asn.au
-DTSTAMP:20230203T074904Z
+DTSTAMP:20230225T061513Z
 DTSTART:20230314T130000Z
 DTEND:20230315T130000Z
-SUMMARY:Trevallyn - Northern Autumn Twilight Series #5, Esk Valley
+SUMMARY:Trevallyn - Northern Autumn Twilight Series #4, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/18525
+GEO:-41.4585083527061;147.103917939258
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18492@eventor.orienteering.asn.au
@@ -338,12 +330,12 @@ GEO:-42.8804800057833;147.367144158479
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18526@eventor.orienteering.asn.au
-DTSTAMP:20230203T074919Z
+DTSTAMP:20230225T054827Z
 DTSTART:20230321T130000Z
 DTEND:20230322T130000Z
-SUMMARY:Punchbowl - Northern Autumn Twilight Series #6, Esk Valley
+SUMMARY:Punchbowl - Northern Autumn Twilight Series #5, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/18526
-GEO:-41.4035146151223;147.094023076246
+GEO:-41.4568621959821;147.169613065848
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18493@eventor.orienteering.asn.au
@@ -371,6 +363,15 @@ DTEND:20230326T130000Z
 SUMMARY:Shorewell Park - NW Local #2, Pathfinders
 URL:https://eventor.orienteering.asn.au/Events/Show/18557
 GEO:-41.0613007141333;145.883598126638
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18524@eventor.orienteering.asn.au
+DTSTAMP:20230225T055341Z
+DTSTART:20230328T130000Z
+DTEND:20230329T130000Z
+SUMMARY:First Basin Reserve - Northern Autumn Twilight Series #4, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/18524
+GEO:-41.4458765835258;147.121279720527
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18495@eventor.orienteering.asn.au

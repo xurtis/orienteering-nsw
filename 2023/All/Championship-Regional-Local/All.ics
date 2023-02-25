@@ -773,7 +773,7 @@ GEO:-33.2616140661525;149.107939309972
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18362@eventor.orienteering.asn.au
-DTSTAMP:20230220T032224Z
+DTSTAMP:20230225T022027Z
 DTSTART:20230224T220000Z
 DTEND:20230225T003000Z
 SUMMARY:SHOO's Summer Saturdays #7 - Oran Park NEW MAP, Southern Highlands Orienteers
@@ -880,7 +880,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18307
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18012@eventor.orienteering.asn.au
-DTSTAMP:20230221T105618Z
+DTSTAMP:20230225T033608Z
 DTSTART:20230304T230000Z
 DTEND:20230305T010000Z
 SUMMARY:OY1 Cyclones Sprint - QUT Kelvin Grove - +OQ AGM, QLD Cyclones
@@ -981,7 +981,7 @@ DTSTART:20230315T053000Z
 DTEND:20230315T083000Z
 SUMMARY:2022/23 Sydney Summer Series #24 Chatswood West, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17796
-GEO:-33.8039935726002;151.15700717321
+GEO:-33.8039008015789;151.156445333895
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18616@eventor.orienteering.asn.au
@@ -1019,7 +1019,7 @@ GEO:-33.7560116619594;151.173965551294
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18341@eventor.orienteering.asn.au
-DTSTAMP:20230224T073524Z
+DTSTAMP:20230225T024824Z
 DTSTART:20230318T040000Z
 DTEND:20230318T050000Z
 SUMMARY:Kirrawee South (new map), Illawarra Kareelah Orienteers
@@ -1224,24 +1224,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18714
 GEO:-32.6311085616595;151.591346187545
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18116@eventor.orienteering.asn.au
-DTSTAMP:20230223T061900Z
-DTSTART:20230421T140000Z
-DTEND:20230422T140000Z
-SUMMARY:Vic MTBO Middle Distance Championships , Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18116
-GEO:-37.043403490159;144.197053911103
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18115@eventor.orienteering.asn.au
-DTSTAMP:20230223T060137Z
-DTSTART:20230421T140000Z
-DTEND:20230422T140000Z
-SUMMARY:Vic MTBO Sprint Distance Championships, Bendigo Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18115
-GEO:-37.0434085001883;144.197068369504
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18719@eventor.orienteering.asn.au
 DTSTAMP:20230221T051911Z
 DTSTART:20230421T230000Z
@@ -1249,6 +1231,24 @@ DTEND:20230422T060000Z
 SUMMARY:Controllers Workshop, Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/18719
 GEO:-33.8453628418841;151.074846083098
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18115@eventor.orienteering.asn.au
+DTSTAMP:20230225T064100Z
+DTSTART:20230422T000000Z
+DTEND:20230422T020000Z
+SUMMARY:Vic MTBO Sprint Distance Championships, Bendigo Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18115
+GEO:-37.0434085001883;144.197068369504
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18116@eventor.orienteering.asn.au
+DTSTAMP:20230225T063546Z
+DTSTART:20230422T040000Z
+DTEND:20230422T070000Z
+SUMMARY:Vic MTBO Middle Distance Championships , Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18116
+GEO:-37.043403490159;144.197053911103
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18528@eventor.orienteering.asn.au
@@ -1259,21 +1259,21 @@ SUMMARY:Central Plateau - Clarence River Marshes - OST 3, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18528
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18117@eventor.orienteering.asn.au
-DTSTAMP:20230223T032348Z
-DTSTART:20230422T140000Z
-DTEND:20230423T140000Z
-SUMMARY:Vic MTBO Long Distance Championships , Nillumbik Emus Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18117
-GEO:-37.0601891131363;144.10766885874
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18674@eventor.orienteering.asn.au
 DTSTAMP:20230207T023902Z
 DTSTART:20230422T233000Z
 DTEND:20230422T233000Z
 SUMMARY:2023 Metro League #1, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18674
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18117@eventor.orienteering.asn.au
+DTSTAMP:20230225T064937Z
+DTSTART:20230423T000000Z
+DTEND:20230423T040000Z
+SUMMARY:Vic MTBO Long Distance Championships , Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18117
+GEO:-37.0601891131363;144.10766885874
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18618@eventor.orienteering.asn.au
@@ -1285,10 +1285,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18618
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17753@eventor.orienteering.asn.au
-DTSTAMP:20230222T003902Z
+DTSTAMP:20230224T224649Z
 DTSTART:20230428T140000Z
 DTEND:20230429T140000Z
-SUMMARY:2023 NSW State League #3 - Middle Distance, Illawarra Kareelah Orienteers
+SUMMARY:2023 NSW State League #3 - Middle Distance Belanglo, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17753
 END:VEVENT
 BEGIN:VEVENT

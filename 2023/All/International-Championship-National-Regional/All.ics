@@ -153,7 +153,7 @@ GEO:-26.0737994215372;134.357624125
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18012@eventor.orienteering.asn.au
-DTSTAMP:20230221T105618Z
+DTSTAMP:20230225T033608Z
 DTSTART:20230304T230000Z
 DTEND:20230305T010000Z
 SUMMARY:OY1 Cyclones Sprint - QUT Kelvin Grove - +OQ AGM, QLD Cyclones
@@ -184,7 +184,7 @@ DTSTART:20230310T130000Z
 DTEND:20230311T130000Z
 SUMMARY:Sydney Sprint Weekend Race 1: Elite Individual Sprint (NOL,WRE) + Public Sprint, Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/17962
-GEO:-33.887705682019;151.190073399155
+GEO:-33.8853294348111;151.189689307086
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17963@eventor.orienteering.asn.au
@@ -193,7 +193,7 @@ DTSTART:20230310T130000Z
 DTEND:20230311T130000Z
 SUMMARY:Sydney Sprint Weekend Race 2: Elite Mixed Sprint Relay (NOL) + Public Individual Sprint, Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/17963
-GEO:-33.9175112491417;151.229931979328
+GEO:-33.9198744063512;151.229902734426
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17964@eventor.orienteering.asn.au
@@ -228,7 +228,7 @@ DTSTART:20230311T130000Z
 DTEND:20230312T130000Z
 SUMMARY:Sydney Sprint Weekend Race 3: Elite KO (NOL) + Public Sprint, Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/17965
-GEO:-34.0374842970058;150.786000455865
+GEO:-34.0374344445811;150.786107884035
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17966@eventor.orienteering.asn.au
@@ -237,7 +237,7 @@ DTSTART:20230311T130000Z
 DTEND:20230312T130000Z
 SUMMARY:Sydney Sprint Weekend Race 4: Elite KO (NOL) + Public Sprint, Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/17966
-GEO:-34.0692435852915;150.79075777071
+GEO:-34.0688924517767;150.791617615248
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18519@eventor.orienteering.asn.au
@@ -363,22 +363,22 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18203
 GEO:-36.53175;149.4025
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18116@eventor.orienteering.asn.au
-DTSTAMP:20230223T061900Z
-DTSTART:20230421T140000Z
-DTEND:20230422T140000Z
-SUMMARY:Vic MTBO Middle Distance Championships , Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18116
-GEO:-37.043403490159;144.197053911103
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18115@eventor.orienteering.asn.au
-DTSTAMP:20230223T060137Z
-DTSTART:20230421T140000Z
-DTEND:20230422T140000Z
+DTSTAMP:20230225T064100Z
+DTSTART:20230422T000000Z
+DTEND:20230422T020000Z
 SUMMARY:Vic MTBO Sprint Distance Championships, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18115
 GEO:-37.0434085001883;144.197068369504
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18116@eventor.orienteering.asn.au
+DTSTAMP:20230225T063546Z
+DTSTART:20230422T040000Z
+DTEND:20230422T070000Z
+SUMMARY:Vic MTBO Middle Distance Championships , Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18116
+GEO:-37.043403490159;144.197053911103
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18528@eventor.orienteering.asn.au
@@ -390,19 +390,19 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18528
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18117@eventor.orienteering.asn.au
-DTSTAMP:20230223T032348Z
-DTSTART:20230422T140000Z
-DTEND:20230423T140000Z
+DTSTAMP:20230225T064937Z
+DTSTART:20230423T000000Z
+DTEND:20230423T040000Z
 SUMMARY:Vic MTBO Long Distance Championships , Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18117
 GEO:-37.0601891131363;144.10766885874
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17753@eventor.orienteering.asn.au
-DTSTAMP:20230222T003902Z
+DTSTAMP:20230224T224649Z
 DTSTART:20230428T140000Z
 DTEND:20230429T140000Z
-SUMMARY:2023 NSW State League #3 - Middle Distance, Illawarra Kareelah Orienteers
+SUMMARY:2023 NSW State League #3 - Middle Distance Belanglo, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17753
 END:VEVENT
 BEGIN:VEVENT
