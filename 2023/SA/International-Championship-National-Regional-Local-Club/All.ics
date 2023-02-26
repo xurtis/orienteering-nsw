@@ -183,12 +183,21 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18381
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18611@eventor.orienteering.asn.au
-DTSTAMP:20230215T123437Z
+DTSTAMP:20230226T125123Z
 DTSTART:20230302T143000Z
 DTEND:20230303T143000Z
 SUMMARY:NT: 2023 Wet Season series Event 5 - Larrakeyah, Top End Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18611
 GEO:-12.4527974917763;130.829557239605
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18759@eventor.orienteering.asn.au
+DTSTAMP:20230226T035526Z
+DTSTART:20230303T073000Z
+DTEND:20230303T083000Z
+SUMMARY:Lincoln West, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18759
+GEO:-34.7244978787997;135.84380779551
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17818@eventor.orienteering.asn.au
@@ -206,6 +215,24 @@ DTEND:20230309T063000Z
 SUMMARY:Central Adelaide Schools Zone Event 1 Burnside, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18727
 GEO:-34.9354332702898;138.660955055345
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18771@eventor.orienteering.asn.au
+DTSTAMP:20230226T130647Z
+DTSTART:20230309T143000Z
+DTEND:20230310T143000Z
+SUMMARY:NT: 2023 Wet Season series Event 6 - Lyons, Top End Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18771
+GEO:-12.3592467675085;130.887914583951
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18773@eventor.orienteering.asn.au
+DTSTAMP:20230226T131735Z
+DTSTART:20230311T213000Z
+DTEND:20230311T223000Z
+SUMMARY:NT: 2023 Territory Wildlife Park, Top End Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18773
+GEO:-12.7085120602272;130.99224386119
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18457@eventor.orienteering.asn.au
@@ -232,6 +259,24 @@ DTEND:20230316T063000Z
 SUMMARY:Central Adelaide Schools Zone Event 2 Linden Park, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18729
 GEO:-34.9473340203569;138.646762182117
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18772@eventor.orienteering.asn.au
+DTSTAMP:20230226T131131Z
+DTSTART:20230316T143000Z
+DTEND:20230317T143000Z
+SUMMARY:NT: 2023 Wet Season series Event 7 - Rapid Creek, Top End Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18772
+GEO:-12.3764455692195;130.856057549614
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18760@eventor.orienteering.asn.au
+DTSTAMP:20230226T035625Z
+DTSTART:20230317T073000Z
+DTEND:20230317T083000Z
+SUMMARY:Rustler's Gully, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18760
+GEO:-34.7048531362692;135.852635229281
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18373@eventor.orienteering.asn.au
@@ -276,6 +321,15 @@ DTEND:20230330T063000Z
 SUMMARY:Central Adelaide Schools Zone Event 4 Black Forest, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18731
 GEO:-34.9607584958151;138.574837353824
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18761@eventor.orienteering.asn.au
+DTSTAMP:20230226T035709Z
+DTSTART:20230401T230000Z
+DTEND:20230402T000000Z
+SUMMARY:Kirton Point, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18761
+GEO:-34.7245585009577;135.882419294098
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18629@eventor.orienteering.asn.au
@@ -332,6 +386,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18491
 GEO:-32.9432872993413;137.747517718262
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18762@eventor.orienteering.asn.au
+DTSTAMP:20230226T035833Z
+DTSTART:20230507T010000Z
+DTEND:20230507T033000Z
+SUMMARY:Louth Bay, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18762
+GEO:-34.5433913552795;135.931058721203
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18630@eventor.orienteering.asn.au
 DTSTAMP:20230204T034541Z
 DTSTART:20230514T003000Z
@@ -357,6 +420,15 @@ SUMMARY:Beaumont Park and Street Orienteering, Wallaringa Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18177
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18763@eventor.orienteering.asn.au
+DTSTAMP:20230226T040117Z
+DTSTART:20230521T003000Z
+DTEND:20230521T053000Z
+SUMMARY:Boston Island, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18763
+GEO:-34.7036140450237;135.927821782799
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18374@eventor.orienteering.asn.au
 DTSTAMP:20230103T054157Z
 DTSTART:20230528T003000Z
@@ -373,6 +445,14 @@ DTEND:20230529T140000Z
 SUMMARY:SA Schools' Orienteering Championships, Tjuringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18721
 GEO:-34.9075883535298;138.5800501296
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18764@eventor.orienteering.asn.au
+DTSTAMP:20230226T040248Z
+DTSTART:20230604T010000Z
+DTEND:20230604T033000Z
+SUMMARY:Warunda Creek, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18764
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18312@eventor.orienteering.asn.au
@@ -410,6 +490,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18409
 GEO:-35.1575908796763;138.498952047073
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18765@eventor.orienteering.asn.au
+DTSTAMP:20230226T040601Z
+DTSTART:20230618T010000Z
+DTEND:20230618T033000Z
+SUMMARY:Tadpole, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18765
+GEO:-34.5458951378559;135.443327874312
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18460@eventor.orienteering.asn.au
 DTSTAMP:20230117T054238Z
 DTSTART:20230621T010000Z
@@ -435,6 +524,15 @@ DTEND:20230625T033000Z
 SUMMARY:Mt Crawford: Wirra Wirra Bush O , Wallaringa Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/17026
 GEO:-34.683836607132;138.966374521357
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18766@eventor.orienteering.asn.au
+DTSTAMP:20230226T040806Z
+DTSTART:20230709T010000Z
+DTEND:20230709T033000Z
+SUMMARY:Donington, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18766
+GEO:-34.7294434123375;135.989875326793
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18461@eventor.orienteering.asn.au
@@ -463,6 +561,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18631
 GEO:-34.7983309349021;138.678757421329
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18767@eventor.orienteering.asn.au
+DTSTAMP:20230226T040928Z
+DTSTART:20230730T010000Z
+DTEND:20230730T033000Z
+SUMMARY:Mt Dutton, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18767
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18314@eventor.orienteering.asn.au
 DTSTAMP:20221205T112434Z
 DTSTART:20230813T003000Z
@@ -470,6 +576,15 @@ DTEND:20230813T033000Z
 SUMMARY:Shepherds Hill - including MTBO, Tjuringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18314
 GEO:-35.014976966548;138.584375741474
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18768@eventor.orienteering.asn.au
+DTSTAMP:20230226T041251Z
+DTSTART:20230813T010000Z
+DTEND:20230813T033000Z
+SUMMARY:Surfleet Cove/Stamford Beach EP Relays, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18768
+GEO:-34.7666087245669;135.957036166837
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18462@eventor.orienteering.asn.au
@@ -498,6 +613,15 @@ SUMMARY:Merridee Orienteer of the Year event, Wallaringa Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18178
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18769@eventor.orienteering.asn.au
+DTSTAMP:20230226T041540Z
+DTSTART:20230827T010000Z
+DTEND:20230827T033000Z
+SUMMARY:gurra yarda, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18769
+GEO:-34.6536050507978;135.836533906295
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18632@eventor.orienteering.asn.au
 DTSTAMP:20230204T034306Z
 DTSTART:20230903T003000Z
@@ -521,6 +645,14 @@ DTSTART:20230909T143000Z
 DTEND:20230910T143000Z
 SUMMARY:SA Middle Distance Championships - Crooked Straight, Yalanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17820
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18770@eventor.orienteering.asn.au
+DTSTAMP:20230226T041716Z
+DTSTART:20230910T010000Z
+DTEND:20230910T023000Z
+SUMMARY:Lincoln Orienteers End of Season Event, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18770
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18463@eventor.orienteering.asn.au

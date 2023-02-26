@@ -115,17 +115,8 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18479
 GEO:-42.8702580530303;147.36810619733
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18540@eventor.orienteering.asn.au
-DTSTAMP:20230225T041648Z
-DTSTART:20230225T130000Z
-DTEND:20230226T130000Z
-SUMMARY:Enter all Northern Autumn Twilight Events at Discounted Rate, Esk Valley
-URL:https://eventor.orienteering.asn.au/Events/Show/18540
-GEO:-41.4088659898251;147.139443912616
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18480@eventor.orienteering.asn.au
-DTSTAMP:20230216T030939Z
+DTSTAMP:20230226T050123Z
 DTSTART:20230225T230000Z
 DTEND:20230225T230000Z
 SUMMARY:Risdon Brook - Southern Local #1, Australopers
@@ -140,6 +131,15 @@ DTEND:20230226T030000Z
 SUMMARY:Tiagarra - NW Local #1, Pathfinders
 URL:https://eventor.orienteering.asn.au/Events/Show/18556
 GEO:-41.1623769064547;146.339082442038
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18540@eventor.orienteering.asn.au
+DTSTAMP:20230226T034837Z
+DTSTART:20230227T130000Z
+DTEND:20230228T130000Z
+SUMMARY:Enter all Northern Autumn Twilight Events at Discounted Rate, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/18540
+GEO:-41.4088659898251;147.139443912616
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18523@eventor.orienteering.asn.au
