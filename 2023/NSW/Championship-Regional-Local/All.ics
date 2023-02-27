@@ -454,7 +454,7 @@ GEO:-33.8538680257018;151.184160757271
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18614@eventor.orienteering.asn.au
-DTSTAMP:20230222T024815Z
+DTSTAMP:20230227T034512Z
 DTSTART:20230301T054500Z
 DTEND:20230301T080000Z
 SUMMARY:Urban Foot Orienteering Qual 1 - Stockton , Newcastle Orienteering Club
@@ -481,12 +481,21 @@ GEO:-33.719538;151.037407
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18238@eventor.orienteering.asn.au
-DTSTAMP:20230224T082759Z
+DTSTAMP:20230226T222233Z
 DTSTART:20230304T013000Z
-DTEND:20230304T013000Z
+DTEND:20230306T013000Z
 SUMMARY:Toukley 2 Days, Central Coast Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18238
 GEO:-33.457945951182;151.392339695767
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17795@eventor.orienteering.asn.au
+DTSTAMP:20230227T002806Z
+DTSTART:20230308T053000Z
+DTEND:20230308T090000Z
+SUMMARY:2022/23 Sydney Summer Series #23 Lindfield, Big Foot Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/17795
+GEO:-33.7832620120146;151.162161300034
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18615@eventor.orienteering.asn.au
@@ -498,15 +507,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18615
 GEO:-32.9049693966347;151.714358982825
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_17795@eventor.orienteering.asn.au
-DTSTAMP:20230222T102600Z
-DTSTART:20230308T100000Z
-DTEND:20230308T110000Z
-SUMMARY:2022/23 Sydney Summer Series #23 Lindfield, Big Foot Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/17795
-GEO:-33.7832620120146;151.162161300034
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18725@eventor.orienteering.asn.au
 DTSTAMP:20230222T004847Z
 DTSTART:20230311T130000Z
@@ -514,6 +514,14 @@ DTEND:20230312T130000Z
 SUMMARY:Goldseekers Lake Canobolas & AGM, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18725
 GEO:-33.3045482060419;149.02545838271
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18774@eventor.orienteering.asn.au
+DTSTAMP:20230226T222006Z
+DTSTART:20230311T230000Z
+DTEND:20230312T030000Z
+SUMMARY:TBA, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18774
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17796@eventor.orienteering.asn.au
@@ -620,7 +628,7 @@ DTSTART:20230402T000000Z
 DTEND:20230402T030000Z
 SUMMARY:Dorrigo Dash, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18622
-GEO:-30.3379529338159;152.706501310254
+GEO:-30.3404537630426;152.709297458257
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18714@eventor.orienteering.asn.au
@@ -633,7 +641,7 @@ GEO:-32.6311085616595;151.591346187545
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18719@eventor.orienteering.asn.au
-DTSTAMP:20230221T051911Z
+DTSTAMP:20230227T040003Z
 DTSTART:20230421T230000Z
 DTEND:20230422T060000Z
 SUMMARY:Controllers Workshop, Orienteering NSW
@@ -658,11 +666,21 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18618
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17753@eventor.orienteering.asn.au
-DTSTAMP:20230224T224649Z
-DTSTART:20230428T140000Z
-DTEND:20230429T140000Z
+DTSTAMP:20230227T015514Z
+DTSTART:20230429T023000Z
+DTEND:20230429T040000Z
 SUMMARY:2023 NSW State League #3 - Middle Distance Belanglo, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17753
+GEO:-34.5073643530854;150.246006858826
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18775@eventor.orienteering.asn.au
+DTSTAMP:20230227T042208Z
+DTSTART:20230429T040000Z
+DTEND:20230429T060000Z
+SUMMARY:Coffs Diggers Beach, Bush n Beach Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18775
+GEO:-30.2740698493694;153.14254836615
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17754@eventor.orienteering.asn.au
@@ -682,8 +700,17 @@ SUMMARY:Riverina Schools Championships, Willan's Hill, Wagga and Riverina Occasi
 URL:https://eventor.orienteering.asn.au/Events/Show/18586
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18776@eventor.orienteering.asn.au
+DTSTAMP:20230227T042527Z
+DTSTART:20230513T040000Z
+DTEND:20230513T060000Z
+SUMMARY:Coffs Jetty Foreshores Score, Bush n Beach Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18776
+GEO:-30.3016114209838;153.140423894011
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17755@eventor.orienteering.asn.au
-DTSTAMP:20220824T045750Z
+DTSTAMP:20230227T041646Z
 DTSTART:20230519T140000Z
 DTEND:20230520T140000Z
 SUMMARY:2023 NSW State League #5 - Middle Distance, Bennelong Northside Orienteers
@@ -713,6 +740,15 @@ DTEND:20230612T140000Z
 SUMMARY:2023 QB3 and NSW State Leagues #7 to #9, Central Coast Orienteers / Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/17757
 GEO:-33.1665564725522;151.388226117534
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18777@eventor.orienteering.asn.au
+DTSTAMP:20230227T042909Z
+DTSTART:20230622T080000Z
+DTEND:20230622T093000Z
+SUMMARY:Coffs Winter Solstice Night-O, Bush n Beach Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18777
+GEO:-30.3008462088598;153.118238993898
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18666@eventor.orienteering.asn.au
@@ -761,6 +797,14 @@ DTSTART:20230812T140000Z
 DTEND:20230813T140000Z
 SUMMARY:2023 ACT & NSW Ski-O Championships, Orienteering ACT / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/17912
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18778@eventor.orienteering.asn.au
+DTSTAMP:20230227T043546Z
+DTSTART:20230813T000000Z
+DTEND:20230813T030000Z
+SUMMARY:Coffs Bom Bom State Forest, Bush n Beach Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18778
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17826@eventor.orienteering.asn.au

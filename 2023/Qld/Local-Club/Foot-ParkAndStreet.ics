@@ -333,6 +333,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/16955
 GEO:-27.7391926199221;152.92262347445
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18604@eventor.orienteering.asn.au
+DTSTAMP:20230227T054125Z
+DTSTART:20230225T140000Z
+DTEND:20230226T140000Z
+SUMMARY:MapRun Parks 2023 - Rafting Ground Reserve (Kenmore), Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18604
+GEO:-27.5201800434318;152.923363309132
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18553@eventor.orienteering.asn.au
 DTSTAMP:20230226T082023Z
 DTSTART:20230225T230000Z
@@ -342,17 +351,8 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18553
 GEO:-28.6528214678097;151.931754500775
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18604@eventor.orienteering.asn.au
-DTSTAMP:20230129T111359Z
-DTSTART:20230226T060000Z
-DTEND:20230226T060000Z
-SUMMARY:MapRun Parks 2023 - Rafting Ground Reserve (Kenmore), Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18604
-GEO:-27.5201800434318;152.923363309132
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18419@eventor.orienteering.asn.au
-DTSTAMP:20230220T102918Z
+DTSTAMP:20230227T072736Z
 DTSTART:20230226T060000Z
 DTEND:20230226T060000Z
 SUMMARY:Picnic Point, Toowoomba, Range Runners Orienteering Club
@@ -1144,10 +1144,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18473
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17612@eventor.orienteering.asn.au
-DTSTAMP:20221023T050401Z
+DTSTAMP:20230226T225740Z
 DTSTART:20231128T073000Z
 DTEND:20231128T073000Z
-SUMMARY:Night Nav - Upper Kedron - BCC TBC, Enoggeroos
+SUMMARY:Night Nav - Upper Kedron - BCC, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/17612
 GEO:-27.4100476705996;152.923478931987
 END:VEVENT
@@ -1196,19 +1196,19 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18474
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17614@eventor.orienteering.asn.au
-DTSTAMP:20221023T053013Z
+DTSTAMP:20230226T225709Z
 DTSTART:20231212T073000Z
 DTEND:20231212T073000Z
-SUMMARY:Night Nav - Clayfied - BCC TBC, Enoggeroos
+SUMMARY:Night Nav - Clayfied - BCC, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/17614
 GEO:-27.4290877212154;153.057710928518
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17615@eventor.orienteering.asn.au
-DTSTAMP:20221023T053344Z
+DTSTAMP:20230226T225806Z
 DTSTART:20231219T073000Z
 DTEND:20231219T073000Z
-SUMMARY:Night Nav - Keperra BCC TBC, Enoggeroos
+SUMMARY:Night Nav - Keperra  TBC, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/17615
 GEO:-27.4165074662438;152.942864282274
 END:VEVENT
