@@ -764,16 +764,16 @@ GEO:-35.2139183295188;149.053318123014
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17794@eventor.orienteering.asn.au
-DTSTAMP:20230228T072138Z
+DTSTAMP:20230301T121154Z
 DTSTART:20230301T053000Z
 DTEND:20230301T083000Z
-SUMMARY:2022/23 Sydney Summer Series #22 Balmain, Uringa Orienteers
+SUMMARY:sss22, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17794
 GEO:-33.8538680257018;151.184160757271
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18614@eventor.orienteering.asn.au
-DTSTAMP:20230228T052713Z
+DTSTAMP:20230301T090506Z
 DTSTART:20230301T054500Z
 DTEND:20230301T080000Z
 SUMMARY:Urban Foot Orienteering Qual 1 - Stockton , Newcastle Orienteering Club
@@ -782,7 +782,7 @@ GEO:-32.9165841586706;151.780368344208
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17741@eventor.orienteering.asn.au
-DTSTAMP:20230116T001659Z
+DTSTAMP:20230301T083522Z
 DTSTART:20230301T060000Z
 DTEND:20230301T083000Z
 SUMMARY:ACT Runners Shop Twilight Series #13: Gossan Hill, Bushflyers
@@ -896,6 +896,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18518
 GEO:-41.3145449799917;148.155605768953
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18780@eventor.orienteering.asn.au
+DTSTAMP:20230301T025340Z
+DTSTART:20230311T063000Z
+DTEND:20230311T063000Z
+SUMMARY:St Helens - Bayside Inn - OT Annual General Meeting, Orienteering Tasmania
+URL:https://eventor.orienteering.asn.au/Events/Show/18780
+GEO:-41.3246252497909;148.249431756091
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18725@eventor.orienteering.asn.au
 DTSTAMP:20230222T004847Z
 DTSTART:20230311T130000Z
@@ -920,6 +929,15 @@ DTSTART:20230311T230000Z
 DTEND:20230312T030000Z
 SUMMARY:TBA, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18774
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18779@eventor.orienteering.asn.au
+DTSTAMP:20230301T025315Z
+DTSTART:20230312T060000Z
+DTEND:20230312T060000Z
+SUMMARY:St Helens - Portland Hall - Oceania Volunteer BBQ & Quiz Night, Orienteering Tasmania
+URL:https://eventor.orienteering.asn.au/Events/Show/18779
+GEO:-41.3222251354133;148.249440135297
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18520@eventor.orienteering.asn.au
@@ -1443,10 +1461,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17862
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18020@eventor.orienteering.asn.au
-DTSTAMP:20230119T013931Z
+DTSTAMP:20230228T221319Z
 DTSTART:20230617T140000Z
 DTEND:20230618T140000Z
-SUMMARY:OY7 - Woodlands (location tbc) - bush, Range Runners Orienteering Club
+SUMMARY:OY7 - Leyburn North - bush, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18020
 END:VEVENT
 BEGIN:VEVENT

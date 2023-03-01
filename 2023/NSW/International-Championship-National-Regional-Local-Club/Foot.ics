@@ -523,17 +523,25 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18693
 GEO:-33.770627;151.099638
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18782@eventor.orienteering.asn.au
+DTSTAMP:20230301T121144Z
+DTSTART:20230301T040000Z
+DTEND:20230301T040000Z
+SUMMARY:2022/23 Sydney Summer Series #22 Balmain, Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18782
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17794@eventor.orienteering.asn.au
-DTSTAMP:20230228T072138Z
+DTSTAMP:20230301T121154Z
 DTSTART:20230301T053000Z
 DTEND:20230301T083000Z
-SUMMARY:2022/23 Sydney Summer Series #22 Balmain, Uringa Orienteers
+SUMMARY:sss22, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17794
 GEO:-33.8538680257018;151.184160757271
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18614@eventor.orienteering.asn.au
-DTSTAMP:20230228T052713Z
+DTSTAMP:20230301T090506Z
 DTSTART:20230301T054500Z
 DTEND:20230301T080000Z
 SUMMARY:Urban Foot Orienteering Qual 1 - Stockton , Newcastle Orienteering Club
@@ -664,7 +672,7 @@ DTSTART:20230310T130000Z
 DTEND:20230311T130000Z
 SUMMARY:Sydney Sprint Weekend Race 2: Elite Mixed Sprint Relay (NOL) + Public Individual Sprint, Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/17963
-GEO:-33.9198744063512;151.229902734426
+GEO:-33.9195367015451;151.231137628867
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17964@eventor.orienteering.asn.au
