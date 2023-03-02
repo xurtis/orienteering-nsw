@@ -396,7 +396,7 @@ GEO:-19.2456138350501;146.810419246761
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18682@eventor.orienteering.asn.au
-DTSTAMP:20230228T091907Z
+DTSTAMP:20230302T080816Z
 DTSTART:20230302T003000Z
 DTEND:20230302T010000Z
 SUMMARY:Mid Week at Whites Hill, Orienteering Queensland
@@ -437,6 +437,7 @@ DTSTART:20230307T080000Z
 DTEND:20230307T080000Z
 SUMMARY:Night Nav - Sunshine Cove, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18661
+GEO:-26.6599668464446;153.079178034255
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18468@eventor.orienteering.asn.au
@@ -507,6 +508,15 @@ DTSTART:20230316T003000Z
 DTEND:20230316T010000Z
 SUMMARY:Chermside Hill. Bush, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18437
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18784@eventor.orienteering.asn.au
+DTSTAMP:20230301T224225Z
+DTSTART:20230318T050000Z
+DTEND:20230318T060000Z
+SUMMARY:Sprint event at Warwick High School (to be confirmed), Bullecourt Boulder Bounders
+URL:https://eventor.orienteering.asn.au/Events/Show/18784
+GEO:-28.2122927815762;152.032225519188
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18354@eventor.orienteering.asn.au
@@ -746,6 +756,15 @@ SUMMARY:Ningi MTBO, Multi Terrain Bike Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17934
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18786@eventor.orienteering.asn.au
+DTSTAMP:20230302T064549Z
+DTSTART:20230513T230000Z
+DTEND:20230514T030000Z
+SUMMARY:Lode Creek, east of Stanthorpe, Bullecourt Boulder Bounders
+URL:https://eventor.orienteering.asn.au/Events/Show/18786
+GEO:-28.6742047873462;152.021120597503
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_16772@eventor.orienteering.asn.au
 DTSTAMP:20220708T014002Z
 DTSTART:20230520T040000Z
@@ -921,6 +940,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/16777
 GEO:-27.4207588232106;152.909709899862
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18787@eventor.orienteering.asn.au
+DTSTAMP:20230302T064916Z
+DTSTART:20230701T230000Z
+DTEND:20230702T030000Z
+SUMMARY:Dalmoak, north east of Stanthorpe, Bullecourt Boulder Bounders
+URL:https://eventor.orienteering.asn.au/Events/Show/18787
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18756@eventor.orienteering.asn.au
 DTSTAMP:20230226T031051Z
 DTSTART:20230706T003000Z
@@ -1024,6 +1051,15 @@ DTSTART:20230824T003000Z
 DTEND:20230824T010000Z
 SUMMARY:Mt Coot-tha. Bush., Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18439
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18788@eventor.orienteering.asn.au
+DTSTAMP:20230302T065212Z
+DTSTART:20230826T230000Z
+DTEND:20230827T030000Z
+SUMMARY:McAdam's, off Old Stanthorpe Road, 15km north of Dalveen, Bullecourt Boulder Bounders
+URL:https://eventor.orienteering.asn.au/Events/Show/18788
+GEO:-28.3354675032474;152.050228496973
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18732@eventor.orienteering.asn.au

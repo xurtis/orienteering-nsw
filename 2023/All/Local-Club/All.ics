@@ -2093,6 +2093,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17741
 GEO:-35.2430672228692;149.084611528208
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18783@eventor.orienteering.asn.au
+DTSTAMP:20230301T214729Z
+DTSTART:20230301T063000Z
+DTEND:20230301T080000Z
+SUMMARY:Albury-Wodonga Park & Street - Willow Park MapRun, Albury-Wodonga Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18783
+GEO:-36.1360440741107;146.876336133135
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18665@eventor.orienteering.asn.au
 DTSTAMP:20230206T233958Z
 DTSTART:20230301T071500Z
@@ -2112,15 +2121,15 @@ GEO:-37.834101412149;145.029793166423
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18484@eventor.orienteering.asn.au
-DTSTAMP:20230214T013942Z
-DTSTART:20230301T204000Z
+DTSTAMP:20230302T051112Z
+DTSTART:20230301T205900Z
 DTEND:20230301T214500Z
 SUMMARY:SC-ORE #1: Torrens Primary School, Torrens, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18484
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18682@eventor.orienteering.asn.au
-DTSTAMP:20230228T091907Z
+DTSTAMP:20230302T080816Z
 DTSTART:20230302T003000Z
 DTEND:20230302T010000Z
 SUMMARY:Mid Week at Whites Hill, Orienteering Queensland
@@ -2165,7 +2174,7 @@ GEO:-34.7244978787997;135.84380779551
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18718@eventor.orienteering.asn.au
-DTSTAMP:20230222T035856Z
+DTSTAMP:20230302T060107Z
 DTSTART:20230303T220000Z
 DTEND:20230305T030000Z
 SUMMARY:Bluebottles Sprint Training Opportunity, Orienteering NSW
@@ -2174,10 +2183,10 @@ GEO:-33.720152768317;151.037875607015
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18426@eventor.orienteering.asn.au
-DTSTAMP:20230213T012631Z
+DTSTAMP:20230302T054557Z
 DTSTART:20230303T223000Z
 DTEND:20230304T010000Z
-SUMMARY:Saturday Orienteering Series 3D - Cherrybrook, Bold Horizons Event Organiser
+SUMMARY:Saturday Orienteering Series - Cherrybrook, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/18426
 GEO:-33.719538;151.037407
 END:VEVENT
@@ -2323,6 +2332,7 @@ DTSTART:20230307T080000Z
 DTEND:20230307T080000Z
 SUMMARY:Night Nav - Sunshine Cove, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18661
+GEO:-26.6599668464446;153.079178034255
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18482@eventor.orienteering.asn.au
@@ -2765,6 +2775,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18341
 GEO:-34.0393053702245;151.065902495968
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18784@eventor.orienteering.asn.au
+DTSTAMP:20230301T224225Z
+DTSTART:20230318T050000Z
+DTEND:20230318T060000Z
+SUMMARY:Sprint event at Warwick High School (to be confirmed), Bullecourt Boulder Bounders
+URL:https://eventor.orienteering.asn.au/Events/Show/18784
+GEO:-28.2122927815762;152.032225519188
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17506@eventor.orienteering.asn.au
 DTSTAMP:20230226T021311Z
 DTSTART:20230318T210000Z
@@ -2810,7 +2829,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18581
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18373@eventor.orienteering.asn.au
-DTSTAMP:20230103T053730Z
+DTSTAMP:20230302T101422Z
 DTSTART:20230318T233000Z
 DTEND:20230318T233000Z
 SUMMARY:Aberfoyle Park HS and surrounds, Onkaparinga Hills Orienteering Club
@@ -3778,6 +3797,15 @@ SUMMARY:Ningi MTBO, Multi Terrain Bike Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17934
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18786@eventor.orienteering.asn.au
+DTSTAMP:20230302T064549Z
+DTSTART:20230513T230000Z
+DTEND:20230514T030000Z
+SUMMARY:Lode Creek, east of Stanthorpe, Bullecourt Boulder Bounders
+URL:https://eventor.orienteering.asn.au/Events/Show/18786
+GEO:-28.6742047873462;152.021120597503
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18442@eventor.orienteering.asn.au
 DTSTAMP:20230116T030149Z
 DTSTART:20230514T000000Z
@@ -3819,6 +3847,15 @@ DTEND:20230517T033000Z
 SUMMARY:Midweek Training at Belair, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18459
 GEO:-35.0103794435464;138.636292868727
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18785@eventor.orienteering.asn.au
+DTSTAMP:20230302T050317Z
+DTSTART:20230519T135900Z
+DTEND:20230519T135900Z
+SUMMARY:NSW Schools Team Nominations, NSW Stingers / Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/18785
+GEO:-32.339948866044;116.839006905831
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17859@eventor.orienteering.asn.au
@@ -4375,6 +4412,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18391
 GEO:-36.7285297797463;144.270994942995
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18787@eventor.orienteering.asn.au
+DTSTAMP:20230302T064916Z
+DTSTART:20230701T230000Z
+DTEND:20230702T030000Z
+SUMMARY:Dalmoak, north east of Stanthorpe, Bullecourt Boulder Bounders
+URL:https://eventor.orienteering.asn.au/Events/Show/18787
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18642@eventor.orienteering.asn.au
 DTSTAMP:20230205T235523Z
 DTSTART:20230702T000000Z
@@ -4670,6 +4715,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18744
 GEO:-31.9251334860808;116.34915897081
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18789@eventor.orienteering.asn.au
+DTSTAMP:20230302T105751Z
+DTSTART:20230730T140000Z
+DTEND:20230731T140000Z
+SUMMARY:test event, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18789
+GEO:-30.5215413927936;151.649216221194
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17867@eventor.orienteering.asn.au
 DTSTAMP:20220906T014148Z
 DTSTART:20230805T003000Z
@@ -4864,6 +4918,15 @@ DTEND:20230826T040000Z
 SUMMARY:Bendigo Bush 14 - Lockwood Range, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18399
 GEO:-36.7487294091634;144.301893428594
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18788@eventor.orienteering.asn.au
+DTSTAMP:20230302T065212Z
+DTSTART:20230826T230000Z
+DTEND:20230827T030000Z
+SUMMARY:McAdam's, off Old Stanthorpe Road, 15km north of Dalveen, Bullecourt Boulder Bounders
+URL:https://eventor.orienteering.asn.au/Events/Show/18788
+GEO:-28.3354675032474;152.050228496973
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18769@eventor.orienteering.asn.au

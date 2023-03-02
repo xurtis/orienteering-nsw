@@ -1366,6 +1366,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18614
 GEO:-32.9165841586706;151.780368344208
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18783@eventor.orienteering.asn.au
+DTSTAMP:20230301T214729Z
+DTSTART:20230301T063000Z
+DTEND:20230301T080000Z
+SUMMARY:Albury-Wodonga Park & Street - Willow Park MapRun, Albury-Wodonga Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18783
+GEO:-36.1360440741107;146.876336133135
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18665@eventor.orienteering.asn.au
 DTSTAMP:20230206T233958Z
 DTSTART:20230301T071500Z
@@ -1421,7 +1430,7 @@ GEO:-34.7244978787997;135.84380779551
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18718@eventor.orienteering.asn.au
-DTSTAMP:20230222T035856Z
+DTSTAMP:20230302T060107Z
 DTSTART:20230303T220000Z
 DTEND:20230305T030000Z
 SUMMARY:Bluebottles Sprint Training Opportunity, Orienteering NSW
@@ -1498,6 +1507,7 @@ DTSTART:20230307T080000Z
 DTEND:20230307T080000Z
 SUMMARY:Night Nav - Sunshine Cove, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18661
+GEO:-26.6599668464446;153.079178034255
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17795@eventor.orienteering.asn.au
@@ -1703,6 +1713,15 @@ DTEND:20230318T050000Z
 SUMMARY:Kirrawee South (new map), Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18341
 GEO:-34.0393053702245;151.065902495968
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18784@eventor.orienteering.asn.au
+DTSTAMP:20230301T224225Z
+DTSTART:20230318T050000Z
+DTEND:20230318T060000Z
+SUMMARY:Sprint event at Warwick High School (to be confirmed), Bullecourt Boulder Bounders
+URL:https://eventor.orienteering.asn.au/Events/Show/18784
+GEO:-28.2122927815762;152.032225519188
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18281@eventor.orienteering.asn.au

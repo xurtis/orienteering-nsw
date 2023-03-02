@@ -542,7 +542,7 @@ GEO:-32.9165841586706;151.780368344208
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18718@eventor.orienteering.asn.au
-DTSTAMP:20230222T035856Z
+DTSTAMP:20230302T060107Z
 DTSTART:20230303T220000Z
 DTEND:20230305T030000Z
 SUMMARY:Bluebottles Sprint Training Opportunity, Orienteering NSW
@@ -551,10 +551,10 @@ GEO:-33.720152768317;151.037875607015
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18426@eventor.orienteering.asn.au
-DTSTAMP:20230213T012631Z
+DTSTAMP:20230302T054557Z
 DTSTART:20230303T223000Z
 DTEND:20230304T010000Z
-SUMMARY:Saturday Orienteering Series 3D - Cherrybrook, Bold Horizons Event Organiser
+SUMMARY:Saturday Orienteering Series - Cherrybrook, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/18426
 GEO:-33.719538;151.037407
 END:VEVENT
@@ -854,6 +854,15 @@ SUMMARY:Waggaroos Local event, Willan's Hill, Wagga and Riverina Occasional Orie
 URL:https://eventor.orienteering.asn.au/Events/Show/18587
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18785@eventor.orienteering.asn.au
+DTSTAMP:20230302T050317Z
+DTSTART:20230519T135900Z
+DTEND:20230519T135900Z
+SUMMARY:NSW Schools Team Nominations, NSW Stingers / Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/18785
+GEO:-32.339948866044;116.839006905831
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18675@eventor.orienteering.asn.au
 DTSTAMP:20230207T024239Z
 DTSTART:20230527T233000Z
@@ -949,6 +958,15 @@ DTSTART:20230730T000000Z
 DTEND:20230730T033000Z
 SUMMARY:Waggaroos - AWOC Interclub #5, Burngoogee, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18592
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18789@eventor.orienteering.asn.au
+DTSTAMP:20230302T105751Z
+DTSTART:20230730T140000Z
+DTEND:20230731T140000Z
+SUMMARY:test event, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18789
+GEO:-30.5215413927936;151.649216221194
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18677@eventor.orienteering.asn.au

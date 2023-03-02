@@ -286,6 +286,7 @@ DTSTART:20230307T080000Z
 DTEND:20230307T080000Z
 SUMMARY:Night Nav - Sunshine Cove, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18661
+GEO:-26.6599668464446;153.079178034255
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18606@eventor.orienteering.asn.au
@@ -313,6 +314,15 @@ DTEND:20230314T080000Z
 SUMMARY:Night Nav - Golden Beach, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18671
 GEO:-26.8174762609401;153.115456114736
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18784@eventor.orienteering.asn.au
+DTSTAMP:20230301T224225Z
+DTSTART:20230318T050000Z
+DTEND:20230318T060000Z
+SUMMARY:Sprint event at Warwick High School (to be confirmed), Bullecourt Boulder Bounders
+URL:https://eventor.orienteering.asn.au/Events/Show/18784
+GEO:-28.2122927815762;152.032225519188
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18354@eventor.orienteering.asn.au
