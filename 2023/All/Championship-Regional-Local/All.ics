@@ -1063,15 +1063,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18341
 GEO:-34.0393053702245;151.065902495968
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18015@eventor.orienteering.asn.au
-DTSTAMP:20230222T065015Z
-DTSTART:20230318T140000Z
-DTEND:20230319T140000Z
-SUMMARY:OY2 - The Cascades/Amiens, west of Stanthorpe, Bullecourt Boulder Bounders
-URL:https://eventor.orienteering.asn.au/Events/Show/18015
-GEO:-28.6060966184224;151.776928956441
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_17506@eventor.orienteering.asn.au
 DTSTAMP:20230226T021311Z
 DTSTART:20230318T210000Z
@@ -1079,6 +1070,15 @@ DTEND:20230319T003000Z
 SUMMARY:Newcastle BOSS MTBO 2022/2023 #6, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/17506
 GEO:-32.8202290683508;151.41928095648
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18015@eventor.orienteering.asn.au
+DTSTAMP:20230303T093136Z
+DTSTART:20230318T230000Z
+DTEND:20230318T230000Z
+SUMMARY:OY2 - The Cascades/Amiens, west of Stanthorpe, Bullecourt Boulder Bounders
+URL:https://eventor.orienteering.asn.au/Events/Show/18015
+GEO:-28.6060966184224;151.776928956441
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17888@eventor.orienteering.asn.au
@@ -1474,6 +1474,15 @@ SUMMARY:OY6 - Clear Mountain, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/18022
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18721@eventor.orienteering.asn.au
+DTSTAMP:20230303T063503Z
+DTSTART:20230526T140000Z
+DTEND:20230526T140000Z
+SUMMARY:SA Schools' Orienteering Championships, Tjuringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18721
+GEO:-34.9075883535298;138.5800501296
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17860@eventor.orienteering.asn.au
 DTSTAMP:20220906T013950Z
 DTSTART:20230527T003000Z
@@ -1505,15 +1514,6 @@ DTSTART:20230527T233000Z
 DTEND:20230527T233000Z
 SUMMARY:2023 Metro League #2, Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18675
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18721@eventor.orienteering.asn.au
-DTSTAMP:20230222T012608Z
-DTSTART:20230529T140000Z
-DTEND:20230529T140000Z
-SUMMARY:SA Schools' Orienteering Championships, Tjuringa Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18721
-GEO:-34.9075883535298;138.5800501296
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17861@eventor.orienteering.asn.au
@@ -1888,6 +1888,15 @@ DTSTART:20230826T140000Z
 DTEND:20230827T140000Z
 SUMMARY:MTBO Vic Series #3 - Fingerpost Corner, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18345
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18792@eventor.orienteering.asn.au
+DTSTAMP:20230303T064222Z
+DTSTART:20230901T000000Z
+DTEND:20230901T140000Z
+SUMMARY:SA School Relay Championships, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18792
+GEO:-34.8734477845165;138.689432868122
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18541@eventor.orienteering.asn.au

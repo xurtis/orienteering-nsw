@@ -467,7 +467,7 @@ GEO:-26.3896436466168;153.025868717688
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18554@eventor.orienteering.asn.au
-DTSTAMP:20230124T100835Z
+DTSTAMP:20230303T082242Z
 DTSTART:20230311T230000Z
 DTEND:20230312T030000Z
 SUMMARY:Training day at Braeside between Warwick and Stanthorpe, Bullecourt Boulder Bounders
@@ -503,20 +503,30 @@ GEO:-26.8174762609401;153.115456114736
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18437@eventor.orienteering.asn.au
-DTSTAMP:20230112T091740Z
+DTSTAMP:20230303T013411Z
 DTSTART:20230316T003000Z
 DTEND:20230316T010000Z
 SUMMARY:Chermside Hill. Bush, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18437
+GEO:-27.3802091722168;153.000588824554
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18791@eventor.orienteering.asn.au
+DTSTAMP:20230303T091531Z
+DTSTART:20230317T230000Z
+DTEND:20230318T030000Z
+SUMMARY:Orienteering Instructor Course (Level 0) Killarney, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18791
+GEO:-28.3413361732306;152.297932746854
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18784@eventor.orienteering.asn.au
-DTSTAMP:20230301T224225Z
-DTSTART:20230318T050000Z
-DTEND:20230318T060000Z
-SUMMARY:Sprint event at Warwick High School (to be confirmed), Bullecourt Boulder Bounders
+DTSTAMP:20230303T082703Z
+DTSTART:20230318T053000Z
+DTEND:20230318T053000Z
+SUMMARY:Warwick High School Sprint, Bullecourt Boulder Bounders
 URL:https://eventor.orienteering.asn.au/Events/Show/18784
-GEO:-28.2122927815762;152.032225519188
+GEO:-28.2119822600287;152.032233072456
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18354@eventor.orienteering.asn.au
@@ -555,7 +565,7 @@ GEO:-27.470953107586;153.051171458957
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18192@eventor.orienteering.asn.au
-DTSTAMP:20230228T091010Z
+DTSTAMP:20230303T012004Z
 DTSTART:20230325T230000Z
 DTEND:20230325T230000Z
 SUMMARY:Nerang (bush), Paradise Lost Orienteers
@@ -773,14 +783,6 @@ SUMMARY:EODS - Ross Road Park BCC, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/16772
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18711@eventor.orienteering.asn.au
-DTSTAMP:20230218T040035Z
-DTSTART:20230520T140000Z
-DTEND:20230521T140000Z
-SUMMARY:Leyburn South Coaching, Range Runners Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18711
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18187@eventor.orienteering.asn.au
 DTSTAMP:20221111T030112Z
 DTSTART:20230520T230000Z
@@ -871,6 +873,14 @@ DTEND:20230610T040000Z
 SUMMARY:EODS - Sedgley Park BCC, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/16775
 GEO:-27.4283269985861;153.00448650263
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18711@eventor.orienteering.asn.au
+DTSTAMP:20230303T092149Z
+DTSTART:20230610T140000Z
+DTEND:20230611T140000Z
+SUMMARY:Leyburn South Coaching, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18711
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17937@eventor.orienteering.asn.au

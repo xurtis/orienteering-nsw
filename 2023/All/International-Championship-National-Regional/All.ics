@@ -170,7 +170,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17818
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17304@eventor.orienteering.asn.au
-DTSTAMP:20230221T082144Z
+DTSTAMP:20230303T091229Z
 DTSTART:20230310T130000Z
 DTEND:20230311T130000Z
 SUMMARY:Sydney Sprint Weekend - All four races, Orienteering NSW
@@ -179,7 +179,7 @@ GEO:-33.8863061552062;151.191824066587
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17962@eventor.orienteering.asn.au
-DTSTAMP:20230221T082309Z
+DTSTAMP:20230303T091308Z
 DTSTART:20230310T130000Z
 DTEND:20230311T130000Z
 SUMMARY:Sydney Sprint Weekend Race 1: Elite Individual Sprint (NOL,WRE) + Public Sprint, Orienteering NSW
@@ -188,7 +188,7 @@ GEO:-33.8853294348111;151.189689307086
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17963@eventor.orienteering.asn.au
-DTSTAMP:20230221T082408Z
+DTSTAMP:20230303T091403Z
 DTSTART:20230310T130000Z
 DTEND:20230311T130000Z
 SUMMARY:Sydney Sprint Weekend Race 2: Elite Mixed Sprint Relay (NOL) + Public Individual Sprint, Orienteering NSW
@@ -223,7 +223,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18638
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17965@eventor.orienteering.asn.au
-DTSTAMP:20230221T082516Z
+DTSTAMP:20230303T091438Z
 DTSTART:20230311T130000Z
 DTEND:20230312T130000Z
 SUMMARY:Sydney Sprint Weekend Race 3: Elite KO (NOL) + Public Sprint, Orienteering NSW
@@ -232,7 +232,7 @@ GEO:-34.0374344445811;150.786107884035
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17966@eventor.orienteering.asn.au
-DTSTAMP:20230221T082816Z
+DTSTAMP:20230303T091517Z
 DTSTART:20230311T130000Z
 DTEND:20230312T130000Z
 SUMMARY:Sydney Sprint Weekend Race 4: Elite KO (NOL) + Public Sprint, Orienteering NSW
@@ -259,9 +259,9 @@ GEO:-41.30958;148.168346
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18015@eventor.orienteering.asn.au
-DTSTAMP:20230222T065015Z
-DTSTART:20230318T140000Z
-DTEND:20230319T140000Z
+DTSTAMP:20230303T093136Z
+DTSTART:20230318T230000Z
+DTEND:20230318T230000Z
 SUMMARY:OY2 - The Cascades/Amiens, west of Stanthorpe, Bullecourt Boulder Bounders
 URL:https://eventor.orienteering.asn.au/Events/Show/18015
 GEO:-28.6060966184224;151.776928956441
@@ -501,6 +501,15 @@ SUMMARY:OY6 - Clear Mountain, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/18022
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18721@eventor.orienteering.asn.au
+DTSTAMP:20230303T063503Z
+DTSTART:20230526T140000Z
+DTEND:20230526T140000Z
+SUMMARY:SA Schools' Orienteering Championships, Tjuringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18721
+GEO:-34.9075883535298;138.5800501296
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18320@eventor.orienteering.asn.au
 DTSTAMP:20230112T042232Z
 DTSTART:20230527T140000Z
@@ -508,15 +517,6 @@ DTEND:20230528T140000Z
 SUMMARY:Vic Series (Bush) 3 - Kookaburra Rises, Glenluce, Central Highlands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18320
 GEO:-37.2038136057444;144.249656021543
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18721@eventor.orienteering.asn.au
-DTSTAMP:20230222T012608Z
-DTSTART:20230529T140000Z
-DTEND:20230529T140000Z
-SUMMARY:SA Schools' Orienteering Championships, Tjuringa Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18721
-GEO:-34.9075883535298;138.5800501296
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17890@eventor.orienteering.asn.au
@@ -737,6 +737,15 @@ DTSTART:20230826T140000Z
 DTEND:20230827T140000Z
 SUMMARY:MTBO Vic Series #3 - Fingerpost Corner, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18345
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18792@eventor.orienteering.asn.au
+DTSTAMP:20230303T064222Z
+DTSTART:20230901T000000Z
+DTEND:20230901T140000Z
+SUMMARY:SA School Relay Championships, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18792
+GEO:-34.8734477845165;138.689432868122
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18541@eventor.orienteering.asn.au

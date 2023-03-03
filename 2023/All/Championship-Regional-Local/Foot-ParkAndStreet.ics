@@ -1019,9 +1019,9 @@ GEO:-34.0393053702245;151.065902495968
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18015@eventor.orienteering.asn.au
-DTSTAMP:20230222T065015Z
-DTSTART:20230318T140000Z
-DTEND:20230319T140000Z
+DTSTAMP:20230303T093136Z
+DTSTART:20230318T230000Z
+DTEND:20230318T230000Z
 SUMMARY:OY2 - The Cascades/Amiens, west of Stanthorpe, Bullecourt Boulder Bounders
 URL:https://eventor.orienteering.asn.au/Events/Show/18015
 GEO:-28.6060966184224;151.776928956441
@@ -1375,6 +1375,15 @@ SUMMARY:OY6 - Clear Mountain, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/18022
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18721@eventor.orienteering.asn.au
+DTSTAMP:20230303T063503Z
+DTSTART:20230526T140000Z
+DTEND:20230526T140000Z
+SUMMARY:SA Schools' Orienteering Championships, Tjuringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18721
+GEO:-34.9075883535298;138.5800501296
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17860@eventor.orienteering.asn.au
 DTSTAMP:20220906T013950Z
 DTSTART:20230527T003000Z
@@ -1398,15 +1407,6 @@ DTSTART:20230527T233000Z
 DTEND:20230527T233000Z
 SUMMARY:2023 Metro League #2, Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18675
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18721@eventor.orienteering.asn.au
-DTSTAMP:20230222T012608Z
-DTSTART:20230529T140000Z
-DTEND:20230529T140000Z
-SUMMARY:SA Schools' Orienteering Championships, Tjuringa Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18721
-GEO:-34.9075883535298;138.5800501296
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17861@eventor.orienteering.asn.au
@@ -1756,6 +1756,15 @@ DTEND:20230827T140000Z
 SUMMARY:2023 NSW State League #13 - Middle (NSW Schools Champs), Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17759
 GEO:-33.8194881281495;150.618483178807
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18792@eventor.orienteering.asn.au
+DTSTAMP:20230303T064222Z
+DTSTART:20230901T000000Z
+DTEND:20230901T140000Z
+SUMMARY:SA School Relay Championships, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18792
+GEO:-34.8734477845165;138.689432868122
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18245@eventor.orienteering.asn.au
