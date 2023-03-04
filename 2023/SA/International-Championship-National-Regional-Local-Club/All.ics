@@ -192,7 +192,7 @@ GEO:-12.4527974917763;130.829557239605
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18759@eventor.orienteering.asn.au
-DTSTAMP:20230226T035526Z
+DTSTAMP:20230304T093648Z
 DTSTART:20230303T073000Z
 DTEND:20230303T083000Z
 SUMMARY:Lincoln West, Lincoln Orienteers
@@ -313,6 +313,14 @@ DTEND:20230324T143000Z
 SUMMARY:NT: 2023 Wet Season series Event 8 - Museum/Vesteys and AGM, Top End Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18793
 GEO:-12.4366415857054;130.836768813145
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18800@eventor.orienteering.asn.au
+DTSTAMP:20230304T093045Z
+DTSTART:20230324T233000Z
+DTEND:20230325T023000Z
+SUMMARY:Men's training day, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18800
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18176@eventor.orienteering.asn.au
@@ -438,15 +446,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18763
 GEO:-34.7036140450237;135.927821782799
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18721@eventor.orienteering.asn.au
-DTSTAMP:20230303T063503Z
-DTSTART:20230526T140000Z
-DTEND:20230526T140000Z
-SUMMARY:SA Schools' Orienteering Championships, Tjuringa Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18721
-GEO:-34.9075883535298;138.5800501296
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18374@eventor.orienteering.asn.au
 DTSTAMP:20230103T054157Z
 DTSTART:20230528T003000Z
@@ -454,6 +453,15 @@ DTEND:20230528T003000Z
 SUMMARY:Cornerstone College, Mt Barker, Onkaparinga Hills Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18374
 GEO:-35.0595046143147;138.859359352046
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18721@eventor.orienteering.asn.au
+DTSTAMP:20230304T013620Z
+DTSTART:20230529T003000Z
+DTEND:20230529T030000Z
+SUMMARY:SA Schools' Orienteering Championships, Tjuringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18721
+GEO:-34.9075883535298;138.5800501296
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18764@eventor.orienteering.asn.au

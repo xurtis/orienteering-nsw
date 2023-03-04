@@ -472,7 +472,7 @@ GEO:-33.720152768317;151.037875607015
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18426@eventor.orienteering.asn.au
-DTSTAMP:20230302T054557Z
+DTSTAMP:20230304T012751Z
 DTSTART:20230303T223000Z
 DTEND:20230304T010000Z
 SUMMARY:Saturday Orienteering Series - Cherrybrook, Bold Horizons Event Organiser
@@ -517,11 +517,12 @@ GEO:-33.3045482060419;149.02545838271
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18774@eventor.orienteering.asn.au
-DTSTAMP:20230226T222006Z
+DTSTAMP:20230303T221549Z
 DTSTART:20230311T230000Z
 DTEND:20230312T030000Z
-SUMMARY:TBA, Northern Tablelands Orienteering Club
+SUMMARY:Blue Hole, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18774
+GEO:-30.6007688337803;151.79884178847
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17796@eventor.orienteering.asn.au
@@ -666,7 +667,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18618
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17753@eventor.orienteering.asn.au
-DTSTAMP:20230227T015514Z
+DTSTAMP:20230304T052558Z
 DTSTART:20230429T023000Z
 DTEND:20230429T040000Z
 SUMMARY:2023 NSW State League #3 - Middle Distance Belanglo, Illawarra Kareelah Orienteers
@@ -765,6 +766,15 @@ DTSTART:20230722T233000Z
 DTEND:20230722T233000Z
 SUMMARY:2023 Metro League #4, Bennelong Northside Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18676
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18789@eventor.orienteering.asn.au
+DTSTAMP:20230304T095051Z
+DTSTART:20230731T000000Z
+DTEND:20230731T030000Z
+SUMMARY:test event, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18789
+GEO:-30.5215413927936;151.649216221194
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18677@eventor.orienteering.asn.au

@@ -818,7 +818,7 @@ GEO:-33.720152768317;151.037875607015
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18426@eventor.orienteering.asn.au
-DTSTAMP:20230302T054557Z
+DTSTAMP:20230304T012751Z
 DTSTART:20230303T223000Z
 DTEND:20230304T010000Z
 SUMMARY:Saturday Orienteering Series - Cherrybrook, Bold Horizons Event Organiser
@@ -933,11 +933,12 @@ GEO:-41.3557;148.1183
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18774@eventor.orienteering.asn.au
-DTSTAMP:20230226T222006Z
+DTSTAMP:20230303T221549Z
 DTSTART:20230311T230000Z
 DTEND:20230312T030000Z
-SUMMARY:TBA, Northern Tablelands Orienteering Club
+SUMMARY:Blue Hole, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18774
+GEO:-30.6007688337803;151.79884178847
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18779@eventor.orienteering.asn.au
@@ -1250,7 +1251,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17856
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17753@eventor.orienteering.asn.au
-DTSTAMP:20230227T015514Z
+DTSTAMP:20230304T052558Z
 DTSTART:20230429T023000Z
 DTEND:20230429T040000Z
 SUMMARY:2023 NSW State League #3 - Middle Distance Belanglo, Illawarra Kareelah Orienteers
@@ -1375,15 +1376,6 @@ SUMMARY:OY6 - Clear Mountain, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/18022
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18721@eventor.orienteering.asn.au
-DTSTAMP:20230303T063503Z
-DTSTART:20230526T140000Z
-DTEND:20230526T140000Z
-SUMMARY:SA Schools' Orienteering Championships, Tjuringa Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18721
-GEO:-34.9075883535298;138.5800501296
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_17860@eventor.orienteering.asn.au
 DTSTAMP:20220906T013950Z
 DTSTART:20230527T003000Z
@@ -1393,7 +1385,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17860
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18320@eventor.orienteering.asn.au
-DTSTAMP:20230112T042232Z
+DTSTAMP:20230304T013206Z
 DTSTART:20230527T140000Z
 DTEND:20230528T140000Z
 SUMMARY:Vic Series (Bush) 3 - Kookaburra Rises, Glenluce, Central Highlands Orienteering Club
@@ -1407,6 +1399,15 @@ DTSTART:20230527T233000Z
 DTEND:20230527T233000Z
 SUMMARY:2023 Metro League #2, Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18675
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18721@eventor.orienteering.asn.au
+DTSTAMP:20230304T013620Z
+DTSTART:20230529T003000Z
+DTEND:20230529T030000Z
+SUMMARY:SA Schools' Orienteering Championships, Tjuringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18721
+GEO:-34.9075883535298;138.5800501296
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17861@eventor.orienteering.asn.au
@@ -1614,6 +1615,15 @@ DTSTART:20230730T000000Z
 DTEND:20230730T040000Z
 SUMMARY:ACT Classic Series: ACT League #7, Isaacs Ridge, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/17893
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18789@eventor.orienteering.asn.au
+DTSTAMP:20230304T095051Z
+DTSTART:20230731T000000Z
+DTEND:20230731T030000Z
+SUMMARY:test event, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18789
+GEO:-30.5215413927936;151.649216221194
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17867@eventor.orienteering.asn.au

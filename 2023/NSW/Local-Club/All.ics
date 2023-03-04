@@ -569,7 +569,7 @@ GEO:-33.720152768317;151.037875607015
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18426@eventor.orienteering.asn.au
-DTSTAMP:20230302T054557Z
+DTSTAMP:20230304T012751Z
 DTSTART:20230303T223000Z
 DTEND:20230304T010000Z
 SUMMARY:Saturday Orienteering Series - Cherrybrook, Bold Horizons Event Organiser
@@ -658,6 +658,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17991
 GEO:-33.8436695838677;151.190344012421
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18798@eventor.orienteering.asn.au
+DTSTAMP:20230304T024044Z
+DTSTART:20230310T230000Z
+DTEND:20230310T230000Z
+SUMMARY:Sydney Sprint Weekend Race 1: Elite Individual Sprint (NOL,WRE), Big Foot Orienteers / Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/18798
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18725@eventor.orienteering.asn.au
 DTSTAMP:20230222T004847Z
 DTSTART:20230311T130000Z
@@ -667,12 +675,21 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18725
 GEO:-33.3045482060419;149.02545838271
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18799@eventor.orienteering.asn.au
+DTSTAMP:20230304T060723Z
+DTSTART:20230311T210000Z
+DTEND:20230311T210000Z
+SUMMARY:Sydney Sprint Weekend: Elite KO (NOL), Big Foot Orienteers / Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/18799
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18774@eventor.orienteering.asn.au
-DTSTAMP:20230226T222006Z
+DTSTAMP:20230303T221549Z
 DTSTART:20230311T230000Z
 DTEND:20230312T030000Z
-SUMMARY:TBA, Northern Tablelands Orienteering Club
+SUMMARY:Blue Hole, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18774
+GEO:-30.6007688337803;151.79884178847
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18007@eventor.orienteering.asn.au
@@ -848,6 +865,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18775
 GEO:-30.2740698493694;153.14254836615
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18794@eventor.orienteering.asn.au
+DTSTAMP:20230304T004052Z
+DTSTART:20230507T000000Z
+DTEND:20230507T040000Z
+SUMMARY:Oakview, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18794
+GEO:-30.4875242970311;151.456640197932
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18586@eventor.orienteering.asn.au
 DTSTAMP:20230128T062551Z
 DTSTART:20230508T230000Z
@@ -947,6 +973,15 @@ SUMMARY:Waggaroos - AWOC Interclub #4, Walbundrie, Wagga and Riverina Occasional
 URL:https://eventor.orienteering.asn.au/Events/Show/18591
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18795@eventor.orienteering.asn.au
+DTSTAMP:20230304T004119Z
+DTSTART:20230625T000000Z
+DTEND:20230625T040000Z
+SUMMARY:Mt Brown, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18795
+GEO:-30.4628561245573;151.319724156558
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18690@eventor.orienteering.asn.au
 DTSTAMP:20230209T022013Z
 DTSTART:20230715T233000Z
@@ -961,6 +996,15 @@ DTSTART:20230716T000000Z
 DTEND:20230716T033000Z
 SUMMARY:Waggaroos Local event, Charles Sturt Uni, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18590
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18796@eventor.orienteering.asn.au
+DTSTAMP:20230304T004149Z
+DTSTART:20230716T000000Z
+DTEND:20230716T040000Z
+SUMMARY:West Newholme, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18796
+GEO:-30.4323964912023;151.626772715747
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18676@eventor.orienteering.asn.au
@@ -988,9 +1032,9 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18592
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18789@eventor.orienteering.asn.au
-DTSTAMP:20230302T105751Z
-DTSTART:20230730T140000Z
-DTEND:20230731T140000Z
+DTSTAMP:20230304T095051Z
+DTSTART:20230731T000000Z
+DTEND:20230731T030000Z
 SUMMARY:test event, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18789
 GEO:-30.5215413927936;151.649216221194
@@ -1034,6 +1078,15 @@ DTSTART:20230813T000000Z
 DTEND:20230813T033000Z
 SUMMARY:Waggaroos - AWOC Interclub #6, Nail Can Hill, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18593
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18797@eventor.orienteering.asn.au
+DTSTAMP:20230304T004217Z
+DTSTART:20230813T000000Z
+DTEND:20230813T040000Z
+SUMMARY:Sawmill Ck, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18797
+GEO:-30.6154292392018;151.943603095442
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18594@eventor.orienteering.asn.au

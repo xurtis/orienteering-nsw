@@ -1668,7 +1668,7 @@ GEO:-12.4527974917763;130.829557239605
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18759@eventor.orienteering.asn.au
-DTSTAMP:20230226T035526Z
+DTSTAMP:20230304T093648Z
 DTSTART:20230303T073000Z
 DTEND:20230303T083000Z
 SUMMARY:Lincoln West, Lincoln Orienteers
@@ -1686,7 +1686,7 @@ GEO:-33.720152768317;151.037875607015
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18426@eventor.orienteering.asn.au
-DTSTAMP:20230302T054557Z
+DTSTAMP:20230304T012751Z
 DTSTART:20230303T223000Z
 DTEND:20230304T010000Z
 SUMMARY:Saturday Orienteering Series - Cherrybrook, Bold Horizons Event Organiser
@@ -1853,7 +1853,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18468
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18687@eventor.orienteering.asn.au
-DTSTAMP:20230221T011647Z
+DTSTAMP:20230304T002725Z
 DTSTART:20230309T003000Z
 DTEND:20230309T010000Z
 SUMMARY:Merri Merri Park, Chapel Hill. Bush, Park, & Street. (MapRun Event), Orienteering Queensland
@@ -1907,30 +1907,38 @@ GEO:-33.8436695838677;151.190344012421
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17962@eventor.orienteering.asn.au
-DTSTAMP:20230303T091308Z
+DTSTAMP:20230304T055427Z
 DTSTART:20230310T130000Z
 DTEND:20230311T130000Z
-SUMMARY:Sydney Sprint Weekend Race 1: Elite Individual Sprint (NOL,WRE) + Public Sprint, Orienteering NSW
+SUMMARY:Sydney Sprint Weekend Race 1: Individual Sprint, Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/17962
 GEO:-33.8853294348111;151.189689307086
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17963@eventor.orienteering.asn.au
-DTSTAMP:20230303T091403Z
+DTSTAMP:20230304T052442Z
 DTSTART:20230310T130000Z
 DTEND:20230311T130000Z
-SUMMARY:Sydney Sprint Weekend Race 2: Elite Mixed Sprint Relay (NOL) + Public Individual Sprint, Orienteering NSW
+SUMMARY:Sydney Sprint Weekend Race 2: Public Sprint, Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/17963
 GEO:-33.9195367015451;151.231137628867
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17964@eventor.orienteering.asn.au
-DTSTAMP:20230226T195811Z
+DTSTAMP:20230304T052144Z
 DTSTART:20230310T130000Z
 DTEND:20230311T130000Z
-SUMMARY:Sydney Sprint Weekend: NOL Mixed Sprint Relay - Team entry only, Orienteering NSW
+SUMMARY:Sydney Sprint Weekend: NOL Mixed Sprint Relay - Team entry only, Big Foot Orienteers / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/17964
 GEO:-33.9172350427118;151.22978517256
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18798@eventor.orienteering.asn.au
+DTSTAMP:20230304T024044Z
+DTSTART:20230310T230000Z
+DTEND:20230310T230000Z
+SUMMARY:Sydney Sprint Weekend Race 1: Elite Individual Sprint (NOL,WRE), Big Foot Orienteers / Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/18798
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18518@eventor.orienteering.asn.au
@@ -1969,19 +1977,19 @@ GEO:-33.3045482060419;149.02545838271
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17965@eventor.orienteering.asn.au
-DTSTAMP:20230303T091438Z
+DTSTAMP:20230304T043146Z
 DTSTART:20230311T130000Z
 DTEND:20230312T130000Z
-SUMMARY:Sydney Sprint Weekend Race 3: Elite KO (NOL) + Public Sprint, Orienteering NSW
+SUMMARY:Sydney Sprint Weekend Race 3: Public Sprint, Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/17965
 GEO:-34.0374344445811;150.786107884035
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17966@eventor.orienteering.asn.au
-DTSTAMP:20230303T091517Z
+DTSTAMP:20230304T043246Z
 DTSTART:20230311T130000Z
 DTEND:20230312T130000Z
-SUMMARY:Sydney Sprint Weekend Race 4: Elite KO (NOL) + Public Sprint, Orienteering NSW
+SUMMARY:Sydney Sprint Weekend Race 4:  Public Sprint, Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/17966
 GEO:-34.0688924517767;150.791617615248
 END:VEVENT
@@ -1993,6 +2001,14 @@ DTEND:20230312T160000Z
 SUMMARY:NavDash 2 Russell's Gully, Bibbulmun Orienteers / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/18646
 GEO:-31.7750371187953;116.080372437529
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18799@eventor.orienteering.asn.au
+DTSTAMP:20230304T060723Z
+DTSTART:20230311T210000Z
+DTEND:20230311T210000Z
+SUMMARY:Sydney Sprint Weekend: Elite KO (NOL), Big Foot Orienteers / Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/18799
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18773@eventor.orienteering.asn.au
@@ -2032,11 +2048,12 @@ GEO:-41.3557;148.1183
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18774@eventor.orienteering.asn.au
-DTSTAMP:20230226T222006Z
+DTSTAMP:20230303T221549Z
 DTSTART:20230311T230000Z
 DTEND:20230312T030000Z
-SUMMARY:TBA, Northern Tablelands Orienteering Club
+SUMMARY:Blue Hole, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18774
+GEO:-30.6007688337803;151.79884178847
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18554@eventor.orienteering.asn.au
@@ -2126,7 +2143,7 @@ DTSTART:20230314T130000Z
 DTEND:20230315T130000Z
 SUMMARY:Wentworth Park - Southern Autumn Schools/Twilight Series #5, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18492
-GEO:-42.8804800057833;147.367144158479
+GEO:-42.8807323557081;147.398417294655
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18457@eventor.orienteering.asn.au
@@ -2270,7 +2287,7 @@ GEO:-34.0393053702245;151.065902495968
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18784@eventor.orienteering.asn.au
-DTSTAMP:20230303T082703Z
+DTSTAMP:20230304T023532Z
 DTSTART:20230318T053000Z
 DTEND:20230318T053000Z
 SUMMARY:Warwick High School Sprint, Bullecourt Boulder Bounders
@@ -2460,6 +2477,14 @@ DTSTART:20230324T220000Z
 DTEND:20230325T060000Z
 SUMMARY:Course Setting Workshop, Orienteering Victoria
 URL:https://eventor.orienteering.asn.au/Events/Show/18692
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18800@eventor.orienteering.asn.au
+DTSTAMP:20230304T093045Z
+DTSTART:20230324T233000Z
+DTEND:20230325T023000Z
+SUMMARY:Men's training day, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18800
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17808@eventor.orienteering.asn.au
@@ -2927,7 +2952,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17856
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17753@eventor.orienteering.asn.au
-DTSTAMP:20230227T015514Z
+DTSTAMP:20230304T052558Z
 DTSTART:20230429T023000Z
 DTEND:20230429T040000Z
 SUMMARY:2023 NSW State League #3 - Middle Distance Belanglo, Illawarra Kareelah Orienteers
@@ -3064,6 +3089,15 @@ DTSTART:20230506T140000Z
 DTEND:20230507T140000Z
 SUMMARY:NOL & Vic Series (Bush) 2 - Wattle Gully, Yarra Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18319
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18794@eventor.orienteering.asn.au
+DTSTAMP:20230304T004052Z
+DTSTART:20230507T000000Z
+DTEND:20230507T040000Z
+SUMMARY:Oakview, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18794
+GEO:-30.4875242970311;151.456640197932
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18762@eventor.orienteering.asn.au
@@ -3355,15 +3389,6 @@ SUMMARY:Anzac Park, Toowong. Bush and Park., Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18438
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18721@eventor.orienteering.asn.au
-DTSTAMP:20230303T063503Z
-DTSTART:20230526T140000Z
-DTEND:20230526T140000Z
-SUMMARY:SA Schools' Orienteering Championships, Tjuringa Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18721
-GEO:-34.9075883535298;138.5800501296
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_17860@eventor.orienteering.asn.au
 DTSTAMP:20220906T013950Z
 DTSTART:20230527T003000Z
@@ -3408,7 +3433,7 @@ GEO:-42.855598487678;147.244785916588
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18320@eventor.orienteering.asn.au
-DTSTAMP:20230112T042232Z
+DTSTAMP:20230304T013206Z
 DTSTART:20230527T140000Z
 DTEND:20230528T140000Z
 SUMMARY:Vic Series (Bush) 3 - Kookaburra Rises, Glenluce, Central Highlands Orienteering Club
@@ -3447,6 +3472,15 @@ DTEND:20230528T003000Z
 SUMMARY:Cornerstone College, Mt Barker, Onkaparinga Hills Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18374
 GEO:-35.0595046143147;138.859359352046
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18721@eventor.orienteering.asn.au
+DTSTAMP:20230304T013620Z
+DTSTART:20230529T003000Z
+DTEND:20230529T030000Z
+SUMMARY:SA Schools' Orienteering Championships, Tjuringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18721
+GEO:-34.9075883535298;138.5800501296
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17967@eventor.orienteering.asn.au
@@ -3824,6 +3858,15 @@ SUMMARY:Waggaroos - AWOC Interclub #4, Walbundrie, Wagga and Riverina Occasional
 URL:https://eventor.orienteering.asn.au/Events/Show/18591
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18795@eventor.orienteering.asn.au
+DTSTAMP:20230304T004119Z
+DTSTART:20230625T000000Z
+DTEND:20230625T040000Z
+SUMMARY:Mt Brown, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18795
+GEO:-30.4628561245573;151.319724156558
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17026@eventor.orienteering.asn.au
 DTSTAMP:20221104T041248Z
 DTSTART:20230625T003000Z
@@ -4003,6 +4046,15 @@ DTSTART:20230716T000000Z
 DTEND:20230716T040000Z
 SUMMARY:ACT Classic Series: ACT League #6, Ainslie-Majura, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17892
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18796@eventor.orienteering.asn.au
+DTSTAMP:20230304T004149Z
+DTSTART:20230716T000000Z
+DTEND:20230716T040000Z
+SUMMARY:West Newholme, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18796
+GEO:-30.4323964912023;151.626772715747
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18742@eventor.orienteering.asn.au
@@ -4204,9 +4256,9 @@ GEO:-31.9251334860808;116.34915897081
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18789@eventor.orienteering.asn.au
-DTSTAMP:20230302T105751Z
-DTSTART:20230730T140000Z
-DTEND:20230731T140000Z
+DTSTAMP:20230304T095051Z
+DTSTART:20230731T000000Z
+DTEND:20230731T030000Z
 SUMMARY:test event, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18789
 GEO:-30.5215413927936;151.649216221194
@@ -4319,6 +4371,15 @@ DTSTART:20230813T000000Z
 DTEND:20230813T033000Z
 SUMMARY:Waggaroos - AWOC Interclub #6, Nail Can Hill, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18593
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18797@eventor.orienteering.asn.au
+DTSTAMP:20230304T004217Z
+DTSTART:20230813T000000Z
+DTEND:20230813T040000Z
+SUMMARY:Sawmill Ck, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18797
+GEO:-30.6154292392018;151.943603095442
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18314@eventor.orienteering.asn.au
@@ -5223,6 +5284,7 @@ DTSTART:20231126T003000Z
 DTEND:20231126T003000Z
 SUMMARY:Albany - St Josephs, Albany & Denmark Hinterland Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18536
+GEO:-34.9997946784077;117.907377623318
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17612@eventor.orienteering.asn.au
