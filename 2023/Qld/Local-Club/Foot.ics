@@ -431,7 +431,7 @@ GEO:-26.3896436466168;153.025868717688
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18554@eventor.orienteering.asn.au
-DTSTAMP:20230303T082242Z
+DTSTAMP:20230305T074322Z
 DTSTART:20230311T230000Z
 DTEND:20230312T030000Z
 SUMMARY:Training day at Braeside between Warwick and Stanthorpe, Bullecourt Boulder Bounders
@@ -702,6 +702,15 @@ DTSTART:20230508T140000Z
 DTEND:20230509T140000Z
 SUMMARY:Night Nav - location tbc, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/16947
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18801@eventor.orienteering.asn.au
+DTSTAMP:20230305T043608Z
+DTSTART:20230511T003000Z
+DTEND:20230511T010000Z
+SUMMARY:Mid Week in the Bush at White's Hill (North Side) MAPRUN, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/18801
+GEO:-27.5061425287856;153.086796534212
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16771@eventor.orienteering.asn.au
