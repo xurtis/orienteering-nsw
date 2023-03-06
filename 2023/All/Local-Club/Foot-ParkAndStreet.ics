@@ -1987,18 +1987,18 @@ GEO:-42.9520113203141;147.351942797956
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18782@eventor.orienteering.asn.au
-DTSTAMP:20230301T121144Z
+DTSTAMP:20230306T004433Z
 DTSTART:20230301T040000Z
 DTEND:20230301T040000Z
-SUMMARY:2022/23 Sydney Summer Series #22 Balmain, Uringa Orienteers
+SUMMARY:holding event, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18782
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17794@eventor.orienteering.asn.au
-DTSTAMP:20230301T121154Z
+DTSTAMP:20230306T003324Z
 DTSTART:20230301T053000Z
 DTEND:20230301T083000Z
-SUMMARY:sss22, Uringa Orienteers
+SUMMARY:2022/23 Sydney Summer Series #22 Balmain, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17794
 GEO:-33.8538680257018;151.184160757271
 END:VEVENT
@@ -2285,8 +2285,9 @@ UID:Event_17742@eventor.orienteering.asn.au
 DTSTAMP:20230116T001703Z
 DTSTART:20230308T060000Z
 DTEND:20230308T083000Z
-SUMMARY:ACT Runners Shop Twilight Series #14: Black Mountain Peninsula, Abominable O-Men
+SUMMARY:ACT Runners Shop Twilight Series #14: Black Mountain Peninsula, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/17742
+GEO:-35.287041562988;149.101566884264
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18294@eventor.orienteering.asn.au
@@ -2586,7 +2587,7 @@ DTSTART:20230315T053000Z
 DTEND:20230315T083000Z
 SUMMARY:2022/23 Sydney Summer Series #24 Chatswood West, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17796
-GEO:-33.8039008015789;151.156445333895
+GEO:-33.8039190509262;151.155435197723
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18616@eventor.orienteering.asn.au
@@ -3046,7 +3047,7 @@ GEO:-41.4458765835258;147.121279720527
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17798@eventor.orienteering.asn.au
-DTSTAMP:20230223T083059Z
+DTSTAMP:20230306T062746Z
 DTSTART:20230329T053000Z
 DTEND:20230329T083000Z
 SUMMARY:2022/23 Sydney Summer Series #26 Gordon, Bennelong Northside Orienteers
@@ -3151,12 +3152,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18310
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18622@eventor.orienteering.asn.au
-DTSTAMP:20230202T042904Z
+DTSTAMP:20230306T031505Z
 DTSTART:20230402T000000Z
 DTEND:20230402T030000Z
 SUMMARY:Dorrigo Dash, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18622
-GEO:-30.3404537630426;152.709297458257
+GEO:-30.3416395544745;152.709436385616
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18629@eventor.orienteering.asn.au
@@ -3248,10 +3249,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18501
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16951@eventor.orienteering.asn.au
-DTSTAMP:20230221T101250Z
+DTSTAMP:20230306T020318Z
 DTSTART:20230412T230000Z
 DTEND:20230413T010000Z
-SUMMARY:Bowman Park, Bardon - BCC, Ugly Gully Orienteers
+SUMMARY:Bardon Bush and Park BCC, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/16951
 GEO:-27.4594594119418;152.977871449349
 END:VEVENT
@@ -3964,6 +3965,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17967
 GEO:-27.5818253079113;153.181338782998
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18805@eventor.orienteering.asn.au
+DTSTAMP:20230306T063725Z
+DTSTART:20230601T060000Z
+DTEND:20230601T064500Z
+SUMMARY:HIGH SC-ORE #1: Melba OACT, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/18805
+GEO:-35.213607162506;149.049461903176
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17861@eventor.orienteering.asn.au
 DTSTAMP:20220906T014004Z
 DTSTART:20230603T003000Z
@@ -4032,6 +4042,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18624
 GEO:-31.9608920029423;115.853146071512
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18806@eventor.orienteering.asn.au
+DTSTAMP:20230306T070325Z
+DTSTART:20230608T060000Z
+DTEND:20230608T064500Z
+SUMMARY:HIGH SC-ORE #2, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/18806
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18546@eventor.orienteering.asn.au
 DTSTAMP:20230124T051914Z
 DTSTART:20230608T230000Z
@@ -4080,6 +4098,14 @@ DTEND:20230612T000000Z
 SUMMARY:Manawarra - Prelinna, Onkaparinga Hills Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18375
 GEO:-31.5705267674661;138.660328236696
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18807@eventor.orienteering.asn.au
+DTSTAMP:20230306T070713Z
+DTSTART:20230615T060000Z
+DTEND:20230615T064500Z
+SUMMARY:HIGH SC-ORE #3, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/18807
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17862@eventor.orienteering.asn.au
@@ -4199,6 +4225,14 @@ DTSTART:20230622T003000Z
 DTEND:20230622T010000Z
 SUMMARY:Underwood Park, Priestdale. Park, Street, & Bush., Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18681
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18808@eventor.orienteering.asn.au
+DTSTAMP:20230306T070855Z
+DTSTART:20230622T060000Z
+DTEND:20230622T064500Z
+SUMMARY:HIGH SC-ORE #4, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/18808
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18777@eventor.orienteering.asn.au
@@ -4615,7 +4649,7 @@ DTSTART:20230731T000000Z
 DTEND:20230731T030000Z
 SUMMARY:test event, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18789
-GEO:-30.5215413927936;151.649216221194
+GEO:-30.341660264763;152.709510431938
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17867@eventor.orienteering.asn.au

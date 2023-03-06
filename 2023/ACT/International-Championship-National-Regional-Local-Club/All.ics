@@ -238,8 +238,9 @@ UID:Event_17742@eventor.orienteering.asn.au
 DTSTAMP:20230116T001703Z
 DTSTART:20230308T060000Z
 DTEND:20230308T083000Z
-SUMMARY:ACT Runners Shop Twilight Series #14: Black Mountain Peninsula, Abominable O-Men
+SUMMARY:ACT Runners Shop Twilight Series #14: Black Mountain Peninsula, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/17742
+GEO:-35.287041562988;149.101566884264
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18487@eventor.orienteering.asn.au
@@ -464,6 +465,15 @@ SUMMARY:ACT MTBO Series #2: Pierces Creek, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/17910
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18805@eventor.orienteering.asn.au
+DTSTAMP:20230306T063725Z
+DTSTART:20230601T060000Z
+DTEND:20230601T064500Z
+SUMMARY:HIGH SC-ORE #1: Melba OACT, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/18805
+GEO:-35.213607162506;149.049461903176
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17861@eventor.orienteering.asn.au
 DTSTAMP:20220906T014004Z
 DTSTART:20230603T003000Z
@@ -480,12 +490,36 @@ SUMMARY:ACT Classic Series: Jim Sawkins Memorial Handicap, ACT League #4, Glenda
 URL:https://eventor.orienteering.asn.au/Events/Show/17890
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18806@eventor.orienteering.asn.au
+DTSTAMP:20230306T070325Z
+DTSTART:20230608T060000Z
+DTEND:20230608T064500Z
+SUMMARY:HIGH SC-ORE #2, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/18806
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18807@eventor.orienteering.asn.au
+DTSTAMP:20230306T070713Z
+DTSTART:20230615T060000Z
+DTEND:20230615T064500Z
+SUMMARY:HIGH SC-ORE #3, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/18807
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17862@eventor.orienteering.asn.au
 DTSTAMP:20220906T014016Z
 DTSTART:20230617T003000Z
 DTEND:20230617T030000Z
 SUMMARY:ACT Metro Series: Junior League #7, Mt Ainslie North, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/17862
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18808@eventor.orienteering.asn.au
+DTSTAMP:20230306T070855Z
+DTSTART:20230622T060000Z
+DTEND:20230622T064500Z
+SUMMARY:HIGH SC-ORE #4, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/18808
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17863@eventor.orienteering.asn.au
