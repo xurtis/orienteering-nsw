@@ -1802,9 +1802,9 @@ GEO:-27.5485424248493;152.948967028615
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16946@eventor.orienteering.asn.au
-DTSTAMP:20230130T081029Z
-DTSTART:20230307T073000Z
-DTEND:20230307T093000Z
+DTSTAMP:20230307T120312Z
+DTSTART:20230306T140000Z
+DTEND:20230307T140000Z
 SUMMARY:Night Nav - Rosalie - BCC, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/16946
 GEO:-27.4687133725805;153.00018131552
@@ -1829,7 +1829,7 @@ GEO:-42.8672240209921;147.324014656631
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17795@eventor.orienteering.asn.au
-DTSTAMP:20230227T002806Z
+DTSTAMP:20230307T081720Z
 DTSTART:20230308T053000Z
 DTEND:20230308T090000Z
 SUMMARY:2022/23 Sydney Summer Series #23 Lindfield, Big Foot Orienteers
@@ -1953,7 +1953,7 @@ GEO:-33.9172350427118;151.22978517256
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18798@eventor.orienteering.asn.au
-DTSTAMP:20230304T024044Z
+DTSTAMP:20230307T021249Z
 DTSTART:20230310T230000Z
 DTEND:20230310T230000Z
 SUMMARY:Sydney Sprint Weekend Race 1: Elite Individual Sprint (NOL,WRE), Big Foot Orienteers / Orienteering NSW
@@ -1987,7 +1987,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18638
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18725@eventor.orienteering.asn.au
-DTSTAMP:20230222T004847Z
+DTSTAMP:20230307T104008Z
 DTSTART:20230311T130000Z
 DTEND:20230312T130000Z
 SUMMARY:Goldseekers Lake Canobolas & AGM, Goldseekers Orienteers
@@ -2023,7 +2023,7 @@ GEO:-31.7750371187953;116.080372437529
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18799@eventor.orienteering.asn.au
-DTSTAMP:20230304T060723Z
+DTSTAMP:20230307T021826Z
 DTSTART:20230311T210000Z
 DTEND:20230311T210000Z
 SUMMARY:Sydney Sprint Weekend: Elite KO (NOL), Big Foot Orienteers / Orienteering NSW
@@ -2055,6 +2055,15 @@ DTEND:20230311T230000Z
 SUMMARY:MelBushO 1 - Woodlands, Greenvale, Bayside Kangaroos Orienteers / Victorian ARDF Group
 URL:https://eventor.orienteering.asn.au/Events/Show/18440
 GEO:-37.6330541614207;144.852177185186
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18812@eventor.orienteering.asn.au
+DTSTAMP:20230307T103104Z
+DTSTART:20230311T230000Z
+DTEND:20230312T013000Z
+SUMMARY:2023 Bush Series #1, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18812
+GEO:-33.3018177841638;149.02900177332
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18519@eventor.orienteering.asn.au
@@ -2200,12 +2209,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18616
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18316@eventor.orienteering.asn.au
-DTSTAMP:20221215T005634Z
+DTSTAMP:20230307T024825Z
 DTSTART:20230315T060000Z
 DTEND:20230315T083000Z
 SUMMARY:ACT Runners Shop Twilight Series #15: Commonwealth Park, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/18316
-GEO:-35.2896452521606;149.130543080994
+GEO:-35.289156103272;149.136809698899
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17800@eventor.orienteering.asn.au
@@ -2214,6 +2223,15 @@ DTSTART:20230315T070000Z
 DTEND:20230315T070100Z
 SUMMARY:ACT Runners Shop Twilight Series Season Pass, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/17800
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18810@eventor.orienteering.asn.au
+DTSTAMP:20230307T022120Z
+DTSTART:20230315T073000Z
+DTEND:20230315T083000Z
+SUMMARY:Orienteering ACT 2022 End of Year Awards, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/18810
+GEO:-35.2891659190492;149.13680996853
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18488@eventor.orienteering.asn.au
@@ -2350,7 +2368,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18581
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17888@eventor.orienteering.asn.au
-DTSTAMP:20230123T005537Z
+DTSTAMP:20230307T032916Z
 DTSTART:20230318T230000Z
 DTEND:20230319T030000Z
 SUMMARY:ACT Classic Series: ACT League #1, Tuggeranong Hill, Red Roos
@@ -2375,13 +2393,22 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18489
 GEO:-33.0388192972662;137.562380923218
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18809@eventor.orienteering.asn.au
+DTSTAMP:20230307T100232Z
+DTSTART:20230319T003000Z
+DTEND:20230319T013000Z
+SUMMARY:Albany - Yakamia Primary, Albany & Denmark Hinterland Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18809
+GEO:-35.0025374742607;117.873484438097
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18354@eventor.orienteering.asn.au
 DTSTAMP:20230130T081109Z
 DTSTART:20230321T073000Z
 DTEND:20230321T093000Z
 SUMMARY:Night Nav - West End, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18354
-GEO:-27.4869444011934;153.016634683232
+GEO:-27.4887400055931;152.997108493154
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18679@eventor.orienteering.asn.au
@@ -2639,6 +2666,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18017
 GEO:-27.8545499970488;152.5520123731
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18811@eventor.orienteering.asn.au
+DTSTAMP:20230307T092337Z
+DTSTART:20230331T220000Z
+DTEND:20230401T040000Z
+SUMMARY:Urban Heritage Polaris with Maze addition, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/18811
+GEO:-35.3147573727045;149.135577216561
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17313@eventor.orienteering.asn.au
 DTSTAMP:20221221T064321Z
 DTSTART:20230331T230000Z
@@ -2663,15 +2699,6 @@ DTSTART:20230401T020000Z
 DTEND:20230402T033000Z
 SUMMARY:Waggaroos Training Weekend, location Willan's Hill and CSU, Wagga Wagga, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18582
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18726@eventor.orienteering.asn.au
-DTSTAMP:20230222T005638Z
-DTSTART:20230401T130000Z
-DTEND:20230402T140000Z
-SUMMARY:Goldseekers Bridle Track Reserve, Goldseekers Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18726
-GEO:-33.2379986654436;149.158176382393
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18495@eventor.orienteering.asn.au
@@ -2715,6 +2742,15 @@ DTEND:20230402T000000Z
 SUMMARY:Victorian Club Relays - Woowookarung, Ballarat, Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18246
 GEO:-37.579869954156;143.892611898277
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18726@eventor.orienteering.asn.au
+DTSTAMP:20230307T104813Z
+DTSTART:20230402T000000Z
+DTEND:20230402T023000Z
+SUMMARY:Goldseekers Bridle Track Reserve, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18726
+GEO:-33.2379986654436;149.158176382393
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18622@eventor.orienteering.asn.au
@@ -3070,7 +3106,7 @@ GEO:-27.5170092498618;152.958832404476
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18318@eventor.orienteering.asn.au
-DTSTAMP:20230112T042636Z
+DTSTAMP:20230307T035525Z
 DTSTART:20230505T140000Z
 DTEND:20230506T140000Z
 SUMMARY:NOL & Vic Series (Bush) 1 - Wattle Gully, Bendigo Orienteers

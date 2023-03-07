@@ -153,12 +153,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18487
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18316@eventor.orienteering.asn.au
-DTSTAMP:20221215T005634Z
+DTSTAMP:20230307T024825Z
 DTSTART:20230315T060000Z
 DTEND:20230315T083000Z
 SUMMARY:ACT Runners Shop Twilight Series #15: Commonwealth Park, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/18316
-GEO:-35.2896452521606;149.130543080994
+GEO:-35.289156103272;149.136809698899
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17800@eventor.orienteering.asn.au
@@ -167,6 +167,15 @@ DTSTART:20230315T070000Z
 DTEND:20230315T070100Z
 SUMMARY:ACT Runners Shop Twilight Series Season Pass, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/17800
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18810@eventor.orienteering.asn.au
+DTSTAMP:20230307T022120Z
+DTSTART:20230315T073000Z
+DTEND:20230315T083000Z
+SUMMARY:Orienteering ACT 2022 End of Year Awards, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/18810
+GEO:-35.2891659190492;149.13680996853
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18488@eventor.orienteering.asn.au
@@ -200,6 +209,15 @@ DTSTART:20230325T220000Z
 DTEND:20230325T233000Z
 SUMMARY:ACT Sprint Series #5, Daramalan College, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18308
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18811@eventor.orienteering.asn.au
+DTSTAMP:20230307T092337Z
+DTSTART:20230331T220000Z
+DTEND:20230401T040000Z
+SUMMARY:Urban Heritage Polaris with Maze addition, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/18811
+GEO:-35.3147573727045;149.135577216561
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18309@eventor.orienteering.asn.au

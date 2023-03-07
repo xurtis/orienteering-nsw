@@ -200,7 +200,7 @@ GEO:-35.3326367297342;149.049041323946
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18257@eventor.orienteering.asn.au
-DTSTAMP:20230116T030528Z
+DTSTAMP:20230307T032240Z
 DTSTART:20230306T060000Z
 DTEND:20230306T081500Z
 SUMMARY:ACT MapRun Street Series: Oxley, 2-6 Mar, Orienteering ACT
@@ -226,12 +226,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18258
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18316@eventor.orienteering.asn.au
-DTSTAMP:20221215T005634Z
+DTSTAMP:20230307T024825Z
 DTSTART:20230315T060000Z
 DTEND:20230315T083000Z
 SUMMARY:ACT Runners Shop Twilight Series #15: Commonwealth Park, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/18316
-GEO:-35.2896452521606;149.130543080994
+GEO:-35.289156103272;149.136809698899
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17800@eventor.orienteering.asn.au
@@ -243,7 +243,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17800
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17888@eventor.orienteering.asn.au
-DTSTAMP:20230123T005537Z
+DTSTAMP:20230307T032916Z
 DTSTART:20230318T230000Z
 DTEND:20230319T030000Z
 SUMMARY:ACT Classic Series: ACT League #1, Tuggeranong Hill, Red Roos
@@ -280,6 +280,15 @@ DTSTART:20230327T060100Z
 DTEND:20230327T060200Z
 SUMMARY:ACT MapRun Street Series January-March Season Pass, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18248
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18811@eventor.orienteering.asn.au
+DTSTAMP:20230307T092337Z
+DTSTART:20230331T220000Z
+DTEND:20230401T040000Z
+SUMMARY:Urban Heritage Polaris with Maze addition, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/18811
+GEO:-35.3147573727045;149.135577216561
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18309@eventor.orienteering.asn.au

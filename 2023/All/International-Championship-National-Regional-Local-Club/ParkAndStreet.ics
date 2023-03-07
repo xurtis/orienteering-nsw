@@ -1484,7 +1484,7 @@ GEO:-27.5485424248493;152.948967028615
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18257@eventor.orienteering.asn.au
-DTSTAMP:20230116T030528Z
+DTSTAMP:20230307T032240Z
 DTSTART:20230306T060000Z
 DTEND:20230306T081500Z
 SUMMARY:ACT MapRun Street Series: Oxley, 2-6 Mar, Orienteering ACT
@@ -1501,6 +1501,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18266
 GEO:-37.9331380785895;145.200102336604
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_16946@eventor.orienteering.asn.au
+DTSTAMP:20230307T120312Z
+DTSTART:20230306T140000Z
+DTEND:20230307T140000Z
+SUMMARY:Night Nav - Rosalie - BCC, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/16946
+GEO:-27.4687133725805;153.00018131552
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18504@eventor.orienteering.asn.au
 DTSTAMP:20230227T052758Z
 DTSTART:20230307T073000Z
@@ -1508,15 +1517,6 @@ DTEND:20230307T091000Z
 SUMMARY:Melbourne Park Street Tuesday Autumn Series - Yarraville, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18504
 GEO:-37.8181516704713;144.894134118266
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_16946@eventor.orienteering.asn.au
-DTSTAMP:20230130T081029Z
-DTSTART:20230307T073000Z
-DTEND:20230307T093000Z
-SUMMARY:Night Nav - Rosalie - BCC, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/16946
-GEO:-27.4687133725805;153.00018131552
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18661@eventor.orienteering.asn.au
@@ -1529,7 +1529,7 @@ GEO:-26.6599668464446;153.079178034255
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17795@eventor.orienteering.asn.au
-DTSTAMP:20230227T002806Z
+DTSTAMP:20230307T081720Z
 DTSTART:20230308T053000Z
 DTEND:20230308T090000Z
 SUMMARY:2022/23 Sydney Summer Series #23 Lindfield, Big Foot Orienteers
@@ -1760,6 +1760,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18489
 GEO:-33.0388192972662;137.562380923218
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18809@eventor.orienteering.asn.au
+DTSTAMP:20230307T100232Z
+DTSTART:20230319T003000Z
+DTEND:20230319T013000Z
+SUMMARY:Albany - Yakamia Primary, Albany & Denmark Hinterland Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18809
+GEO:-35.0025374742607;117.873484438097
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18259@eventor.orienteering.asn.au
 DTSTAMP:20221129T003623Z
 DTSTART:20230320T060000Z
@@ -1792,7 +1801,7 @@ DTSTART:20230321T073000Z
 DTEND:20230321T093000Z
 SUMMARY:Night Nav - West End, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18354
-GEO:-27.4869444011934;153.016634683232
+GEO:-27.4887400055931;152.997108493154
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18679@eventor.orienteering.asn.au
@@ -1916,6 +1925,15 @@ DTEND:20230329T091500Z
 SUMMARY:Melbourne Park Street Wednesday Summer Series - Tunstall Junction; Awards Night, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18297
 GEO:-37.8141952801263;145.174997646646
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18811@eventor.orienteering.asn.au
+DTSTAMP:20230307T092337Z
+DTSTART:20230331T220000Z
+DTEND:20230401T040000Z
+SUMMARY:Urban Heritage Polaris with Maze addition, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/18811
+GEO:-35.3147573727045;149.135577216561
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18514@eventor.orienteering.asn.au
