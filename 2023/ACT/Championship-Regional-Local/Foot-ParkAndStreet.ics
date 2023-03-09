@@ -223,6 +223,7 @@ DTSTART:20230313T060000Z
 DTEND:20230313T081500Z
 SUMMARY:ACT MapRun Street Series: Aranda-Bruce, 9-13 Mar, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18258
+GEO:-35.2540746577034;149.079165429367
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18316@eventor.orienteering.asn.au
@@ -373,7 +374,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17860
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18805@eventor.orienteering.asn.au
-DTSTAMP:20230306T063725Z
+DTSTAMP:20230309T002019Z
 DTSTART:20230601T060000Z
 DTEND:20230601T064500Z
 SUMMARY:HIGH SC-ORE #1: Melba OACT, Orienteering ACT
@@ -398,18 +399,18 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17890
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18806@eventor.orienteering.asn.au
-DTSTAMP:20230306T070325Z
+DTSTAMP:20230309T002029Z
 DTSTART:20230608T060000Z
 DTEND:20230608T064500Z
-SUMMARY:HIGH SC-ORE #2, Orienteering ACT
+SUMMARY:HIGH SC-ORE #2: Melba Secondary School, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18806
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18807@eventor.orienteering.asn.au
-DTSTAMP:20230306T070713Z
+DTSTAMP:20230309T002040Z
 DTSTART:20230615T060000Z
 DTEND:20230615T064500Z
-SUMMARY:HIGH SC-ORE #3, Orienteering ACT
+SUMMARY:HIGH SC-ORE #3: Telopea Park, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18807
 END:VEVENT
 BEGIN:VEVENT
@@ -422,10 +423,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17862
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18808@eventor.orienteering.asn.au
-DTSTAMP:20230306T070855Z
+DTSTAMP:20230309T002049Z
 DTSTART:20230622T060000Z
 DTEND:20230622T064500Z
-SUMMARY:HIGH SC-ORE #4, Orienteering ACT
+SUMMARY:HIGH SC-ORE #4: Telopea Park, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18808
 END:VEVENT
 BEGIN:VEVENT
