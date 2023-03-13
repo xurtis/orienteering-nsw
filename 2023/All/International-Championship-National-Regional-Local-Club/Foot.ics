@@ -2005,7 +2005,7 @@ GEO:-34.0688924517767;150.791617615248
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18799@eventor.orienteering.asn.au
-DTSTAMP:20230310T100429Z
+DTSTAMP:20230313T010633Z
 DTSTART:20230311T210000Z
 DTEND:20230311T210000Z
 SUMMARY:Sydney Sprint Weekend: Elite KO (NOL), Big Foot Orienteers / Orienteering NSW
@@ -2031,10 +2031,10 @@ GEO:-26.3896436466168;153.025868717688
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18725@eventor.orienteering.asn.au
-DTSTAMP:20230312T031501Z
+DTSTAMP:20230313T011136Z
 DTSTART:20230311T230000Z
 DTEND:20230311T230000Z
-SUMMARY:Goldseekers Lake Canobolas & AGM, Goldseekers Orienteers
+SUMMARY:Goldseekers Bush Series #1 Lake Canobolas & AGM, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18725
 GEO:-33.3045482060419;149.02545838271
 END:VEVENT
@@ -2046,15 +2046,6 @@ DTEND:20230311T230000Z
 SUMMARY:MelBushO 1 - Woodlands, Greenvale, Bayside Kangaroos Orienteers / Victorian ARDF Group
 URL:https://eventor.orienteering.asn.au/Events/Show/18440
 GEO:-37.6330541614207;144.852177185186
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18812@eventor.orienteering.asn.au
-DTSTAMP:20230307T103104Z
-DTSTART:20230311T230000Z
-DTEND:20230312T013000Z
-SUMMARY:2023 Bush Series #1, Goldseekers Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18812
-GEO:-33.3018177841638;149.02900177332
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18519@eventor.orienteering.asn.au
@@ -2076,7 +2067,7 @@ GEO:-30.6007688337803;151.79884178847
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18554@eventor.orienteering.asn.au
-DTSTAMP:20230309T233133Z
+DTSTAMP:20230313T040516Z
 DTSTART:20230311T230000Z
 DTEND:20230312T030000Z
 SUMMARY:Coaching at Braeside between Warwick and Stanthorpe, Bullecourt Boulder Bounders
@@ -2121,7 +2112,7 @@ GEO:-33.3978907790314;115.605115864092
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18007@eventor.orienteering.asn.au
-DTSTAMP:20230312T030437Z
+DTSTAMP:20230313T034844Z
 DTSTART:20230312T220000Z
 DTEND:20230313T010000Z
 SUMMARY:Sydney Sprint Weekend Epilogue : Middle Head & Georges Heights, Bennelong Northside Orienteers
@@ -2130,7 +2121,7 @@ GEO:-33.8349690388927;151.254889195979
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18520@eventor.orienteering.asn.au
-DTSTAMP:20230216T032552Z
+DTSTAMP:20230313T063439Z
 DTSTART:20230312T223000Z
 DTEND:20230313T013000Z
 SUMMARY:St Helens - Golden Fleece - East Coast 3 Days - Day 3 - Middle - OST 2, Esk Valley
@@ -2144,7 +2135,7 @@ DTSTART:20230314T073000Z
 DTEND:20230314T093000Z
 SUMMARY:Night Nav - Chelmer, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18353
-GEO:-27.5184205253548;152.985718137149
+GEO:-27.5272546500193;152.989699139449
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18671@eventor.orienteering.asn.au
@@ -2192,7 +2183,7 @@ GEO:-34.7540936686015;138.939355215935
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17796@eventor.orienteering.asn.au
-DTSTAMP:20230308T215725Z
+DTSTAMP:20230313T110009Z
 DTSTART:20230315T053000Z
 DTEND:20230315T083000Z
 SUMMARY:2022/23 Sydney Summer Series #24 Chatswood West, Garingal Orienteers
@@ -2342,24 +2333,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18015
 GEO:-28.6060966184224;151.776928956441
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18101@eventor.orienteering.asn.au
-DTSTAMP:20230202T034916Z
-DTSTART:20230318T230000Z
-DTEND:20230319T020000Z
-SUMMARY:Maxi (Individual) - Mt Franklin Gorge, Nillumbik Emus Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18101
-GEO:-37.2217800552058;144.153267050224
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18102@eventor.orienteering.asn.au
-DTSTAMP:20230202T034959Z
-DTSTART:20230318T230000Z
-DTEND:20230319T020000Z
-SUMMARY:Maxi (Team) - Mt Franklin Gorge, Nillumbik Emus Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18102
-GEO:-37.2219484339152;144.153486084669
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18581@eventor.orienteering.asn.au
 DTSTAMP:20230128T063015Z
 DTSTART:20230318T230000Z
@@ -2392,6 +2365,24 @@ DTEND:20230319T033000Z
 SUMMARY:Whyalla - Wetlands-Tower Hill, Saltbush Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18489
 GEO:-33.0388192972662;137.562380923218
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18101@eventor.orienteering.asn.au
+DTSTAMP:20230312T233704Z
+DTSTART:20230319T000000Z
+DTEND:20230319T030000Z
+SUMMARY:Maxi (Individual) - Mt Franklin Gorge, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18101
+GEO:-37.2217800552058;144.153267050224
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18102@eventor.orienteering.asn.au
+DTSTAMP:20230312T233915Z
+DTSTART:20230319T000000Z
+DTEND:20230319T030000Z
+SUMMARY:Maxi (Team) - Mt Franklin Gorge, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18102
+GEO:-37.2219484339152;144.153486084669
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18809@eventor.orienteering.asn.au
@@ -2457,7 +2448,7 @@ GEO:-33.8083663853401;151.050458426139
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18617@eventor.orienteering.asn.au
-DTSTAMP:20230222T032008Z
+DTSTAMP:20230313T054512Z
 DTSTART:20230322T054500Z
 DTEND:20230322T080000Z
 SUMMARY:Urban Foot Orienteering Final - Eleebana, Newcastle Orienteering Club
@@ -2483,7 +2474,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18486
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18680@eventor.orienteering.asn.au
-DTSTAMP:20230207T035645Z
+DTSTAMP:20230313T052822Z
 DTSTART:20230323T003000Z
 DTEND:20230323T010000Z
 SUMMARY:New Farm Park, New Farm. (MAPRUN EVENT), Orienteering Queensland
@@ -2518,15 +2509,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18793
 GEO:-12.4366415857054;130.836768813145
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_17751@eventor.orienteering.asn.au
-DTSTAMP:20230206T031124Z
-DTSTART:20230324T130000Z
-DTEND:20230325T130000Z
-SUMMARY:2023 NSW State League #1 - Sprint (NSW Sprint Championships), Uringa Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/17751
-GEO:-34.5084563672071;150.40761969796
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18692@eventor.orienteering.asn.au
 DTSTAMP:20230210T090600Z
 DTSTART:20230324T220000Z
@@ -2550,6 +2532,15 @@ DTEND:20230326T030000Z
 SUMMARY:Womens Skills Development Camp (Gold Coast), Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/17808
 GEO:-27.9229337680812;153.358151897178
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17751@eventor.orienteering.asn.au
+DTSTAMP:20230313T054420Z
+DTSTART:20230325T013000Z
+DTEND:20230325T013000Z
+SUMMARY:2023 NSW State League #1 - Sprint (NSW Sprint Championships), Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/17751
+GEO:-34.5084563672071;150.40761969796
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18372@eventor.orienteering.asn.au
@@ -2605,7 +2596,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18176
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18647@eventor.orienteering.asn.au
-DTSTAMP:20230312T055415Z
+DTSTAMP:20230313T024639Z
 DTSTART:20230326T010000Z
 DTEND:20230326T050000Z
 SUMMARY:NavDash 3 North Lake SC, Kulgun 225 Orienteers / Orienteering WA
@@ -2754,20 +2745,11 @@ SUMMARY:ACT Sprint Series Season Pass, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18310
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18246@eventor.orienteering.asn.au
-DTSTAMP:20230310T061152Z
-DTSTART:20230402T000000Z
-DTEND:20230402T000000Z
-SUMMARY:Victorian Club Relays - Woowookarung, Ballarat, Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18246
-GEO:-37.579869954156;143.892611898277
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18726@eventor.orienteering.asn.au
-DTSTAMP:20230307T104813Z
+DTSTAMP:20230313T011220Z
 DTSTART:20230402T000000Z
 DTEND:20230402T023000Z
-SUMMARY:Goldseekers Bridle Track Reserve, Goldseekers Orienteers
+SUMMARY:Goldseekers Bush Series #2 Bridle Track Reserve, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18726
 GEO:-33.2379986654436;149.158176382393
 END:VEVENT
@@ -2779,6 +2761,24 @@ DTEND:20230402T030000Z
 SUMMARY:Dorrigo Dash, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18622
 GEO:-30.3416395544745;152.709436385616
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18821@eventor.orienteering.asn.au
+DTSTAMP:20230313T041617Z
+DTSTART:20230402T000000Z
+DTEND:20230402T040000Z
+SUMMARY:Victorian Club Relays - Individual Entries - Woowookarung, Ballarat, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18821
+GEO:-37.5792771812795;143.891445139178
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18246@eventor.orienteering.asn.au
+DTSTAMP:20230313T042356Z
+DTSTART:20230402T000000Z
+DTEND:20230402T040000Z
+SUMMARY:Victorian Club Relays - Team Entries - Woowookarung, Ballarat, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18246
+GEO:-37.579869954156;143.892611898277
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18629@eventor.orienteering.asn.au
@@ -2863,12 +2863,12 @@ GEO:-27.4594594119418;152.977871449349
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18407@eventor.orienteering.asn.au
-DTSTAMP:20230219T102224Z
+DTSTAMP:20230313T010148Z
 DTSTART:20230415T023000Z
 DTEND:20230415T040000Z
 SUMMARY:Bendigo Bush 2 - Royal George, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18407
-GEO:-36.7446626806847;144.28646021397
+GEO:-36.7435588022134;144.244366700014
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18558@eventor.orienteering.asn.au
@@ -3157,7 +3157,7 @@ DTSTART:20230505T140000Z
 DTEND:20230506T140000Z
 SUMMARY:NOL & Vic Series (Bush) 1 - Wattle Gully, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18318
-GEO:-37.1140860702506;144.231864599171
+GEO:-37.114242028374;144.234705223664
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17857@eventor.orienteering.asn.au
@@ -3185,11 +3185,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18701
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18319@eventor.orienteering.asn.au
-DTSTAMP:20230112T041644Z
+DTSTAMP:20230313T085431Z
 DTSTART:20230506T140000Z
 DTEND:20230507T140000Z
 SUMMARY:NOL & Vic Series (Bush) 2 - Wattle Gully, Yarra Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18319
+GEO:-37.1142265264697;144.23472577567
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18794@eventor.orienteering.asn.au
@@ -3416,7 +3417,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/16772
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17756@eventor.orienteering.asn.au
-DTSTAMP:20220824T045814Z
+DTSTAMP:20230313T094159Z
 DTSTART:20230520T140000Z
 DTEND:20230521T140000Z
 SUMMARY:2023 NSW State League #6 - Long Distance, Big Foot Orienteers

@@ -241,7 +241,7 @@ GEO:-41.3557;148.1183
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18520@eventor.orienteering.asn.au
-DTSTAMP:20230216T032552Z
+DTSTAMP:20230313T063439Z
 DTSTART:20230312T223000Z
 DTEND:20230313T013000Z
 SUMMARY:St Helens - Golden Fleece - East Coast 3 Days - Day 3 - Middle - OST 2, Esk Valley
@@ -266,15 +266,6 @@ SUMMARY:ACT Classic Series: ACT League #1, Tuggeranong Hill, Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/17888
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_17751@eventor.orienteering.asn.au
-DTSTAMP:20230206T031124Z
-DTSTART:20230324T130000Z
-DTEND:20230325T130000Z
-SUMMARY:2023 NSW State League #1 - Sprint (NSW Sprint Championships), Uringa Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/17751
-GEO:-34.5084563672071;150.40761969796
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18692@eventor.orienteering.asn.au
 DTSTAMP:20230210T090600Z
 DTSTART:20230324T220000Z
@@ -290,6 +281,15 @@ DTEND:20230326T030000Z
 SUMMARY:Womens Skills Development Camp (Gold Coast), Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/17808
 GEO:-27.9229337680812;153.358151897178
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17751@eventor.orienteering.asn.au
+DTSTAMP:20230313T054420Z
+DTSTART:20230325T013000Z
+DTEND:20230325T013000Z
+SUMMARY:2023 NSW State League #1 - Sprint (NSW Sprint Championships), Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/17751
+GEO:-34.5084563672071;150.40761969796
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17752@eventor.orienteering.asn.au
@@ -320,10 +320,10 @@ GEO:-42.306267;147.152249
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18246@eventor.orienteering.asn.au
-DTSTAMP:20230310T061152Z
+DTSTAMP:20230313T042356Z
 DTSTART:20230402T000000Z
-DTEND:20230402T000000Z
-SUMMARY:Victorian Club Relays - Woowookarung, Ballarat, Eureka Orienteers
+DTEND:20230402T040000Z
+SUMMARY:Victorian Club Relays - Team Entries - Woowookarung, Ballarat, Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18246
 GEO:-37.579869954156;143.892611898277
 END:VEVENT
@@ -396,15 +396,16 @@ DTSTART:20230505T140000Z
 DTEND:20230506T140000Z
 SUMMARY:NOL & Vic Series (Bush) 1 - Wattle Gully, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18318
-GEO:-37.1140860702506;144.231864599171
+GEO:-37.114242028374;144.234705223664
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18319@eventor.orienteering.asn.au
-DTSTAMP:20230112T041644Z
+DTSTAMP:20230313T085431Z
 DTSTART:20230506T140000Z
 DTEND:20230507T140000Z
 SUMMARY:NOL & Vic Series (Bush) 2 - Wattle Gully, Yarra Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18319
+GEO:-37.1142265264697;144.23472577567
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17889@eventor.orienteering.asn.au
@@ -432,7 +433,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17755
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17756@eventor.orienteering.asn.au
-DTSTAMP:20220824T045814Z
+DTSTAMP:20230313T094159Z
 DTSTART:20230520T140000Z
 DTEND:20230521T140000Z
 SUMMARY:2023 NSW State League #6 - Long Distance, Big Foot Orienteers
