@@ -2,13 +2,4 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
-BEGIN:VEVENT
-UID:Event_18783@eventor.orienteering.asn.au
-DTSTAMP:20230301T214729Z
-DTSTART:20230301T063000Z
-DTEND:20230301T080000Z
-SUMMARY:Albury-Wodonga Park & Street - Willow Park MapRun, Albury-Wodonga Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18783
-GEO:-36.1360440741107;146.876336133135
-END:VEVENT
 END:VCALENDAR
