@@ -315,6 +315,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18658
 GEO:-26.8015126182198;153.143620803738
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18565@eventor.orienteering.asn.au
+DTSTAMP:20230314T235422Z
+DTSTART:20230221T140000Z
+DTEND:20230222T140000Z
+SUMMARY:MapRun Night Nav- Glenella, 21Degrees South Multisport Assoc.
+URL:https://eventor.orienteering.asn.au/Events/Show/18565
+GEO:-21.1122997419669;149.145747020134
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18664@eventor.orienteering.asn.au
 DTSTAMP:20230206T233602Z
 DTSTART:20230222T071500Z
@@ -322,15 +331,6 @@ DTEND:20230222T091500Z
 SUMMARY:TTOC Urban Adventure 2023 - Round 3 (Townsville), Totally Tropical Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18664
 GEO:-19.2652035419607;146.817857578984
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18565@eventor.orienteering.asn.au
-DTSTAMP:20230126T010427Z
-DTSTART:20230222T073000Z
-DTEND:20230222T091500Z
-SUMMARY:MapRun Night Nav- Glenella, 21Degrees South Multisport Assoc.
-URL:https://eventor.orienteering.asn.au/Events/Show/18565
-GEO:-21.1122997419669;149.145747020134
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16955@eventor.orienteering.asn.au
@@ -457,6 +457,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18687
 GEO:-27.4854895976579;152.939800039997
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18606@eventor.orienteering.asn.au
+DTSTAMP:20230314T234906Z
+DTSTART:20230311T140000Z
+DTEND:20230312T140000Z
+SUMMARY:MapRun Parks 2023 - Kalinga Park, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18606
+GEO:-27.4061770149295;153.051877826447
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18781@eventor.orienteering.asn.au
 DTSTAMP:20230301T081814Z
 DTSTART:20230311T223000Z
@@ -473,15 +482,6 @@ DTEND:20230312T030000Z
 SUMMARY:Coaching at Braeside between Warwick and Stanthorpe, Bullecourt Boulder Bounders
 URL:https://eventor.orienteering.asn.au/Events/Show/18554
 GEO:-28.4029433202331;151.902245661203
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18606@eventor.orienteering.asn.au
-DTSTAMP:20230129T112754Z
-DTSTART:20230312T060000Z
-DTEND:20230312T060000Z
-SUMMARY:MapRun Parks 2023 - Kalinga Park, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18606
-GEO:-27.4061770149295;153.051877826447
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18353@eventor.orienteering.asn.au
@@ -521,7 +521,7 @@ GEO:-28.3413361732306;152.297932746854
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18784@eventor.orienteering.asn.au
-DTSTAMP:20230304T023532Z
+DTSTAMP:20230315T091735Z
 DTSTART:20230318T053000Z
 DTEND:20230318T053000Z
 SUMMARY:Warwick High School Sprint, Bullecourt Boulder Bounders
