@@ -720,10 +720,10 @@ GEO:-34.0393053702245;151.065902495968
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18581@eventor.orienteering.asn.au
-DTSTAMP:20230128T063015Z
-DTSTART:20230318T230000Z
-DTEND:20230319T023000Z
-SUMMARY:Waggaroos - AWOC Interclub #1, Wolfram, Wagga and Riverina Occasional Orienteers
+DTSTAMP:20230316T082506Z
+DTSTART:20230318T130000Z
+DTEND:20230319T130000Z
+SUMMARY:Postponed due to extreme temperatures. Waggaroos - AWOC Interclub #1, Wolfram, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18581
 END:VEVENT
 BEGIN:VEVENT
@@ -762,6 +762,15 @@ SUMMARY:Waggaroos Training Weekend, location Willan's Hill and CSU, Wagga Wagga,
 URL:https://eventor.orienteering.asn.au/Events/Show/18582
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18830@eventor.orienteering.asn.au
+DTSTAMP:20230316T002026Z
+DTSTART:20230401T233000Z
+DTEND:20230402T030000Z
+SUMMARY:NOY1 - Kitchener (tbc), Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18830
+GEO:-32.8877071240043;151.379196858402
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18726@eventor.orienteering.asn.au
 DTSTAMP:20230313T011220Z
 DTSTART:20230402T000000Z
@@ -778,6 +787,24 @@ DTEND:20230402T030000Z
 SUMMARY:Dorrigo Dash, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18622
 GEO:-30.3416395544745;152.709436385616
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18832@eventor.orienteering.asn.au
+DTSTAMP:20230316T023630Z
+DTSTART:20230410T003000Z
+DTEND:20230410T030000Z
+SUMMARY:Bush training Manly Dam, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18832
+GEO:-33.7843074724134;151.260679098448
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18831@eventor.orienteering.asn.au
+DTSTAMP:20230316T003616Z
+DTSTART:20230415T140000Z
+DTEND:20230416T140000Z
+SUMMARY:Newcastle Pairs and Come & Try It - Minmi (TBC), Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18831
+GEO:-32.8599219059299;151.619213180028
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18583@eventor.orienteering.asn.au
@@ -922,6 +949,15 @@ SUMMARY:Come and Try It + club championship, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18688
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18827@eventor.orienteering.asn.au
+DTSTAMP:20230315T233853Z
+DTSTART:20230618T003000Z
+DTEND:20230618T030000Z
+SUMMARY:Highlands Forest Series #1 - Welby, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18827
+GEO:-34.4379617381304;150.428766047376
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18777@eventor.orienteering.asn.au
 DTSTAMP:20230227T042909Z
 DTSTART:20230622T080000Z
@@ -954,6 +990,15 @@ DTEND:20230625T040000Z
 SUMMARY:Mt Brown, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18795
 GEO:-30.4628561245573;151.319724156558
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18828@eventor.orienteering.asn.au
+DTSTAMP:20230315T234853Z
+DTSTART:20230709T003000Z
+DTEND:20230709T030000Z
+SUMMARY:Highlands Forest Series #2 - Penrose SF, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18828
+GEO:-34.6194258085926;150.213609969037
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18690@eventor.orienteering.asn.au

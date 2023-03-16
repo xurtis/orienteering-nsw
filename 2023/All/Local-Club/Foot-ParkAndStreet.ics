@@ -2610,10 +2610,10 @@ GEO:-35.289156103272;149.136809698899
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18823@eventor.orienteering.asn.au
-DTSTAMP:20230313T231859Z
+DTSTAMP:20230316T094714Z
 DTSTART:20230315T063000Z
 DTEND:20230315T063000Z
-SUMMARY:Albury-Wodonga Park & Street - Noreuil-Gateway MapRun, Albury-Wodonga Orienteering Club
+SUMMARY:Albury-Wodonga Park & Street - Noreuil-Linc MapRun, Albury-Wodonga Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18823
 GEO:-36.0876086195031;146.904178380027
 END:VEVENT
@@ -2645,7 +2645,7 @@ GEO:-37.9328542915103;145.178165027846
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18488@eventor.orienteering.asn.au
-DTSTAMP:20230124T012124Z
+DTSTAMP:20230316T002455Z
 DTSTART:20230315T204500Z
 DTEND:20230315T214500Z
 SUMMARY:SC-ORE #3: Trinity Christian School, Wanniassa, Orienteering ACT
@@ -2653,7 +2653,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18488
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18437@eventor.orienteering.asn.au
-DTSTAMP:20230303T013411Z
+DTSTAMP:20230316T035439Z
 DTSTART:20230316T003000Z
 DTEND:20230316T010000Z
 SUMMARY:Chermside Hill. Bush, Orienteering Queensland
@@ -2751,6 +2751,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18784
 GEO:-28.2119822600287;152.032233072456
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18581@eventor.orienteering.asn.au
+DTSTAMP:20230316T082506Z
+DTSTART:20230318T130000Z
+DTEND:20230319T130000Z
+SUMMARY:Postponed due to extreme temperatures. Waggaroos - AWOC Interclub #1, Wolfram, Wagga and Riverina Occasional Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18581
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18281@eventor.orienteering.asn.au
 DTSTAMP:20230227T054142Z
 DTSTART:20230318T230000Z
@@ -2758,14 +2766,6 @@ DTEND:20230319T001500Z
 SUMMARY:Mornington Peninsula Sunday MapRun - Koonya, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18281
 GEO:-38.3538907735717;144.762677617133
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18581@eventor.orienteering.asn.au
-DTSTAMP:20230128T063015Z
-DTSTART:20230318T230000Z
-DTEND:20230319T023000Z
-SUMMARY:Waggaroos - AWOC Interclub #1, Wolfram, Wagga and Riverina Occasional Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18581
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18373@eventor.orienteering.asn.au
@@ -2864,6 +2864,7 @@ DTSTART:20230321T080000Z
 DTEND:20230321T080000Z
 SUMMARY:Night Nav - Bli Bli, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18679
+GEO:-26.6187001184712;153.036077909482
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18526@eventor.orienteering.asn.au
@@ -3026,7 +3027,7 @@ GEO:-27.9862458574041;153.331331610223
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18176@eventor.orienteering.asn.au
-DTSTAMP:20230314T084253Z
+DTSTAMP:20230316T043347Z
 DTSTART:20230325T230000Z
 DTEND:20230326T023000Z
 SUMMARY:Belair National Park, Wallaringa Orienteering Club
@@ -3246,6 +3247,15 @@ SUMMARY:ACT Sprint Series Season Pass, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18310
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18830@eventor.orienteering.asn.au
+DTSTAMP:20230316T002026Z
+DTSTART:20230401T233000Z
+DTEND:20230402T030000Z
+SUMMARY:NOY1 - Kitchener (tbc), Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18830
+GEO:-32.8877071240043;151.379196858402
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18726@eventor.orienteering.asn.au
 DTSTAMP:20230313T011220Z
 DTSTART:20230402T000000Z
@@ -3274,7 +3284,7 @@ GEO:-37.5792771812795;143.891445139178
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18629@eventor.orienteering.asn.au
-DTSTAMP:20230314T103239Z
+DTSTAMP:20230316T114827Z
 DTSTART:20230402T003000Z
 DTEND:20230402T023000Z
 SUMMARY:Para Wirra/Lady Alice Goldfields OY, Tintookies Orienteers
@@ -3363,6 +3373,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18819
 GEO:-27.4631585506693;153.018061297964
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18832@eventor.orienteering.asn.au
+DTSTAMP:20230316T023630Z
+DTSTART:20230410T003000Z
+DTEND:20230410T030000Z
+SUMMARY:Bush training Manly Dam, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18832
+GEO:-33.7843074724134;151.260679098448
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18497@eventor.orienteering.asn.au
 DTSTAMP:20230120T044625Z
 DTSTART:20230410T083000Z
@@ -3412,6 +3431,15 @@ DTEND:20230416T140000Z
 SUMMARY:Buttons Beach - NW Local #3, Pathfinders
 URL:https://eventor.orienteering.asn.au/Events/Show/18558
 GEO:-41.1519663453949;146.175252683073
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18831@eventor.orienteering.asn.au
+DTSTAMP:20230316T003616Z
+DTSTART:20230415T140000Z
+DTEND:20230416T140000Z
+SUMMARY:Newcastle Pairs and Come & Try It - Minmi (TBC), Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18831
+GEO:-32.8599219059299;151.619213180028
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18555@eventor.orienteering.asn.au
@@ -3918,6 +3946,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18459
 GEO:-35.0103794435464;138.636292868727
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18829@eventor.orienteering.asn.au
+DTSTAMP:20230316T001650Z
+DTSTART:20230519T003000Z
+DTEND:20230519T003000Z
+SUMMARY:Victorian Secondary School Event, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/18829
+GEO:-37.7472676790145;145.135244509841
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18785@eventor.orienteering.asn.au
 DTSTAMP:20230314T053204Z
 DTSTART:20230519T135900Z
@@ -4299,6 +4336,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18444
 GEO:-37.6704489751723;145.090670479002
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18827@eventor.orienteering.asn.au
+DTSTAMP:20230315T233853Z
+DTSTART:20230618T003000Z
+DTEND:20230618T030000Z
+SUMMARY:Highlands Forest Series #1 - Welby, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18827
+GEO:-34.4379617381304;150.428766047376
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18765@eventor.orienteering.asn.au
 DTSTAMP:20230226T040601Z
 DTSTART:20230618T010000Z
@@ -4557,6 +4603,15 @@ DTEND:20230709T003000Z
 SUMMARY:Albany - Goode Beach, Albany & Denmark Hinterland Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18532
 GEO:-35.0876098157693;117.939590113591
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18828@eventor.orienteering.asn.au
+DTSTAMP:20230315T234853Z
+DTSTART:20230709T003000Z
+DTEND:20230709T030000Z
+SUMMARY:Highlands Forest Series #2 - Penrose SF, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18828
+GEO:-34.6194258085926;150.213609969037
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18766@eventor.orienteering.asn.au

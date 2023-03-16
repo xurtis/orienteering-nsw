@@ -1077,11 +1077,12 @@ GEO:-28.6060966184224;151.776928956441
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17888@eventor.orienteering.asn.au
-DTSTAMP:20230307T032916Z
+DTSTAMP:20230315T230832Z
 DTSTART:20230318T230000Z
 DTEND:20230319T030000Z
 SUMMARY:ACT Classic Series: ACT League #1, Tuggeranong Hill, Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/17888
+GEO:-35.4443228857937;149.101482782982
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18259@eventor.orienteering.asn.au
@@ -1129,7 +1130,7 @@ GEO:-27.9229337680812;153.358151897178
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17751@eventor.orienteering.asn.au
-DTSTAMP:20230313T054420Z
+DTSTAMP:20230316T071619Z
 DTSTART:20230325T013000Z
 DTEND:20230325T013000Z
 SUMMARY:2023 NSW State League #1 - Sprint (NSW Sprint Championships), Uringa Orienteers
@@ -1338,7 +1339,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18618
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18019@eventor.orienteering.asn.au
-DTSTAMP:20230312T095721Z
+DTSTAMP:20230316T094320Z
 DTSTART:20230428T140000Z
 DTEND:20230430T140000Z
 SUMMARY:OY3-OY4 Qld Long Distance Championships, Cabbage Tree Mountain, Maryborough, Orienteering Queensland / Ugly Gully Orienteers
@@ -1446,6 +1447,15 @@ DTSTART:20230514T030000Z
 DTEND:20230514T030000Z
 SUMMARY:ACT Classic Series: ACT League #3, Wee Jasper - Sprint, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/17899
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18829@eventor.orienteering.asn.au
+DTSTAMP:20230316T001650Z
+DTSTART:20230519T003000Z
+DTEND:20230519T003000Z
+SUMMARY:Victorian Secondary School Event, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/18829
+GEO:-37.7472676790145;145.135244509841
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18785@eventor.orienteering.asn.au
@@ -1633,6 +1643,15 @@ SUMMARY:OY7 - Leyburn North - bush, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18020
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18827@eventor.orienteering.asn.au
+DTSTAMP:20230315T233853Z
+DTSTART:20230618T003000Z
+DTEND:20230618T030000Z
+SUMMARY:Highlands Forest Series #1 - Welby, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18827
+GEO:-34.4379617381304;150.428766047376
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18547@eventor.orienteering.asn.au
 DTSTAMP:20230124T053156Z
 DTSTART:20230618T230000Z
@@ -1704,6 +1723,15 @@ DTSTART:20230705T140000Z
 DTEND:20230709T140000Z
 SUMMARY:Junior Camp - Maryborough region, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/17809
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18828@eventor.orienteering.asn.au
+DTSTAMP:20230315T234853Z
+DTSTART:20230709T003000Z
+DTEND:20230709T030000Z
+SUMMARY:Highlands Forest Series #2 - Penrose SF, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18828
+GEO:-34.6194258085926;150.213609969037
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18021@eventor.orienteering.asn.au

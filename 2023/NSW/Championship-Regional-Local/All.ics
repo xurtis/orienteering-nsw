@@ -589,7 +589,7 @@ GEO:-32.9979272580381;151.638284725781
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17751@eventor.orienteering.asn.au
-DTSTAMP:20230313T054420Z
+DTSTAMP:20230316T071619Z
 DTSTART:20230325T013000Z
 DTEND:20230325T013000Z
 SUMMARY:2023 NSW State League #1 - Sprint (NSW Sprint Championships), Uringa Orienteers
@@ -753,6 +753,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17757
 GEO:-33.1665564725522;151.388226117534
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18827@eventor.orienteering.asn.au
+DTSTAMP:20230315T233853Z
+DTSTART:20230618T003000Z
+DTEND:20230618T030000Z
+SUMMARY:Highlands Forest Series #1 - Welby, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18827
+GEO:-34.4379617381304;150.428766047376
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18777@eventor.orienteering.asn.au
 DTSTAMP:20230227T042909Z
 DTSTART:20230622T080000Z
@@ -768,6 +777,15 @@ DTSTART:20230624T233000Z
 DTEND:20230624T233000Z
 SUMMARY:2023 Metro League #3, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18666
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18828@eventor.orienteering.asn.au
+DTSTAMP:20230315T234853Z
+DTSTART:20230709T003000Z
+DTEND:20230709T030000Z
+SUMMARY:Highlands Forest Series #2 - Penrose SF, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18828
+GEO:-34.6194258085926;150.213609969037
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18676@eventor.orienteering.asn.au
