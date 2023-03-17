@@ -562,9 +562,9 @@ GEO:-34.0393053702245;151.065902495968
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17506@eventor.orienteering.asn.au
-DTSTAMP:20230313T015326Z
-DTSTART:20230318T210000Z
-DTEND:20230319T003000Z
+DTSTAMP:20230317T082216Z
+DTSTART:20230318T203000Z
+DTEND:20230318T230000Z
 SUMMARY:Newcastle BOSS#6 MTBO - Neath, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/17506
 GEO:-32.8202290683508;151.41928095648
@@ -580,7 +580,7 @@ GEO:-33.8083663853401;151.050458426139
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18617@eventor.orienteering.asn.au
-DTSTAMP:20230313T054512Z
+DTSTAMP:20230317T064335Z
 DTSTART:20230322T054500Z
 DTEND:20230322T080000Z
 SUMMARY:Urban Foot Orienteering Final - Eleebana, Newcastle Orienteering Club
@@ -651,6 +651,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18719
 GEO:-33.8453628418841;151.074846083098
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18834@eventor.orienteering.asn.au
+DTSTAMP:20230316T235048Z
+DTSTART:20230422T140000Z
+DTEND:20230423T140000Z
+SUMMARY:Newcastle OY2, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18834
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18674@eventor.orienteering.asn.au
 DTSTAMP:20230207T023902Z
 DTSTART:20230422T233000Z
@@ -694,6 +702,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17754
 GEO:-34.4081237311528;150.392330920117
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18835@eventor.orienteering.asn.au
+DTSTAMP:20230316T235303Z
+DTSTART:20230506T140000Z
+DTEND:20230507T140000Z
+SUMMARY:Newcastle OY3, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18835
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18586@eventor.orienteering.asn.au
 DTSTAMP:20230128T062551Z
 DTSTART:20230508T230000Z
@@ -709,6 +725,14 @@ DTEND:20230513T060000Z
 SUMMARY:Coffs Jetty Foreshores Score, Bush n Beach Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18776
 GEO:-30.3016114209838;153.140423894011
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18836@eventor.orienteering.asn.au
+DTSTAMP:20230316T235530Z
+DTSTART:20230513T140000Z
+DTEND:20230514T140000Z
+SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18836
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18785@eventor.orienteering.asn.au
@@ -736,6 +760,14 @@ SUMMARY:2023 NSW State League #6 - Long Distance, Big Foot Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17756
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18837@eventor.orienteering.asn.au
+DTSTAMP:20230316T235734Z
+DTSTART:20230527T140000Z
+DTEND:20230528T140000Z
+SUMMARY:Newcastle OY4, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18837
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18675@eventor.orienteering.asn.au
 DTSTAMP:20230207T024239Z
 DTSTART:20230527T233000Z
@@ -744,13 +776,29 @@ SUMMARY:2023 Metro League #2, Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18675
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18838@eventor.orienteering.asn.au
+DTSTAMP:20230316T235908Z
+DTSTART:20230603T140000Z
+DTEND:20230604T140000Z
+SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18838
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17757@eventor.orienteering.asn.au
-DTSTAMP:20230315T054735Z
+DTSTAMP:20230317T000054Z
 DTSTART:20230609T140000Z
 DTEND:20230612T140000Z
 SUMMARY:2023 KB3 and NSW State Leagues 7, 8 and 9, Central Coast Orienteers / Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/17757
 GEO:-33.1665564725522;151.388226117534
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18839@eventor.orienteering.asn.au
+DTSTAMP:20230317T000434Z
+DTSTART:20230617T233000Z
+DTEND:20230617T233000Z
+SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18839
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18827@eventor.orienteering.asn.au
@@ -779,6 +827,22 @@ SUMMARY:2023 Metro League #3, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18666
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18840@eventor.orienteering.asn.au
+DTSTAMP:20230317T000617Z
+DTSTART:20230624T233000Z
+DTEND:20230624T233000Z
+SUMMARY:Newcastle OY5, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18840
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18841@eventor.orienteering.asn.au
+DTSTAMP:20230317T001746Z
+DTSTART:20230701T233000Z
+DTEND:20230701T233000Z
+SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18841
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18828@eventor.orienteering.asn.au
 DTSTAMP:20230315T234853Z
 DTSTART:20230709T003000Z
@@ -788,12 +852,28 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18828
 GEO:-34.6194258085926;150.213609969037
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18842@eventor.orienteering.asn.au
+DTSTAMP:20230317T001935Z
+DTSTART:20230715T233000Z
+DTEND:20230715T233000Z
+SUMMARY:Newcastle OY6, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18842
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18676@eventor.orienteering.asn.au
 DTSTAMP:20230207T024210Z
 DTSTART:20230722T233000Z
 DTEND:20230722T233000Z
 SUMMARY:2023 Metro League #4, Bennelong Northside Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18676
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18843@eventor.orienteering.asn.au
+DTSTAMP:20230317T002259Z
+DTSTART:20230724T233000Z
+DTEND:20230724T233000Z
+SUMMARY:Newcastle Schools Championships, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18843
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18789@eventor.orienteering.asn.au
@@ -813,6 +893,14 @@ SUMMARY:2023 Metro League #5, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18677
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18844@eventor.orienteering.asn.au
+DTSTAMP:20230317T002521Z
+DTSTART:20230805T233000Z
+DTEND:20230805T233000Z
+SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18844
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18182@eventor.orienteering.asn.au
 DTSTAMP:20221107T023922Z
 DTSTART:20230806T233000Z
@@ -827,6 +915,14 @@ DTSTART:20230812T043000Z
 DTEND:20230812T063000Z
 SUMMARY:Shellharbour, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18695
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18845@eventor.orienteering.asn.au
+DTSTAMP:20230317T002710Z
+DTSTART:20230812T233000Z
+DTEND:20230812T233000Z
+SUMMARY:Newcastle OY7, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18845
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18778@eventor.orienteering.asn.au
@@ -935,6 +1031,14 @@ DTSTART:20230916T233000Z
 DTEND:20230917T023000Z
 SUMMARY:MetroLeague 6 - St Ives Showground, Big Foot Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18247
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18846@eventor.orienteering.asn.au
+DTSTAMP:20230317T002929Z
+DTSTART:20230923T233000Z
+DTEND:20230923T233000Z
+SUMMARY:Newcastle OY 8 / Hunter Valey Champs, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18846
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18696@eventor.orienteering.asn.au
