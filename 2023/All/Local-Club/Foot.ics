@@ -1999,7 +1999,7 @@ GEO:-36.2396441344374;149.110931943445
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18760@eventor.orienteering.asn.au
-DTSTAMP:20230226T035625Z
+DTSTAMP:20230318T081818Z
 DTSTART:20230317T073000Z
 DTEND:20230317T083000Z
 SUMMARY:Rustler's Gully, Lincoln Orienteers
@@ -2008,7 +2008,7 @@ GEO:-34.7048531362692;135.852635229281
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18425@eventor.orienteering.asn.au
-DTSTAMP:20230213T013958Z
+DTSTAMP:20230318T012718Z
 DTSTART:20230317T223000Z
 DTEND:20230318T010000Z
 SUMMARY:Saturday Orienteering Series 3D - Killara, Bold Horizons Event Organiser
@@ -2035,16 +2035,16 @@ GEO:-36.7883017168463;144.223481983236
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18341@eventor.orienteering.asn.au
-DTSTAMP:20230225T024824Z
+DTSTAMP:20230318T060722Z
 DTSTART:20230318T040000Z
-DTEND:20230318T050000Z
+DTEND:20230318T070000Z
 SUMMARY:Kirrawee South (new map), Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18341
 GEO:-34.0393053702245;151.065902495968
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18784@eventor.orienteering.asn.au
-DTSTAMP:20230315T091735Z
+DTSTAMP:20230318T110426Z
 DTSTART:20230318T053000Z
 DTEND:20230318T053000Z
 SUMMARY:Warwick High School Sprint, Bullecourt Boulder Bounders
@@ -2079,7 +2079,7 @@ GEO:-33.0388192972662;137.562380923218
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18847@eventor.orienteering.asn.au
-DTSTAMP:20230317T113910Z
+DTSTAMP:20230318T010452Z
 DTSTART:20230319T000000Z
 DTEND:20230319T020000Z
 SUMMARY:Port Macquarie Summer 2022-23 - North Haven, Hastings Orienteering Group
@@ -2121,6 +2121,15 @@ DTEND:20230319T060000Z
 SUMMARY:MapRun Parks 2023 - Moore Park, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18816
 GEO:-27.499664;152.963884
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18849@eventor.orienteering.asn.au
+DTSTAMP:20230318T022800Z
+DTSTART:20230319T073000Z
+DTEND:20230319T093000Z
+SUMMARY:Bunbury CBD (SWOT Urban Series 5, South-West Orienteering Trekkers
+URL:https://eventor.orienteering.asn.au/Events/Show/18849
+GEO:-33.3255384709117;115.63582484804
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18354@eventor.orienteering.asn.au
@@ -2273,6 +2282,14 @@ SUMMARY:ACT Sprint Series #5, Daramalan College, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18308
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18848@eventor.orienteering.asn.au
+DTSTAMP:20230318T002451Z
+DTSTART:20230325T230000Z
+DTEND:20230325T230000Z
+SUMMARY:MFR Training Day - Chewton Diggings, Melbourne Forest Racers
+URL:https://eventor.orienteering.asn.au/Events/Show/18848
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18192@eventor.orienteering.asn.au
 DTSTAMP:20230310T045300Z
 DTSTART:20230325T230000Z
@@ -2307,6 +2324,15 @@ DTEND:20230326T060000Z
 SUMMARY:MapRun Parks 2023 - Pine Rivers Park, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18817
 GEO:-27.314015;152.995568
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18850@eventor.orienteering.asn.au
+DTSTAMP:20230318T024345Z
+DTSTART:20230326T073000Z
+DTEND:20230326T093000Z
+SUMMARY:Australind Primary School (SWOT Urban Series 6), South-West Orienteering Trekkers
+URL:https://eventor.orienteering.asn.au/Events/Show/18850
+GEO:-33.2795195342186;115.726878935484
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18355@eventor.orienteering.asn.au
@@ -2502,6 +2528,15 @@ DTEND:20230402T060000Z
 SUMMARY:MapRun Parks 2023 - Sherwood Arboretum, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18818
 GEO:-27.5319931136047;152.973448541895
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18851@eventor.orienteering.asn.au
+DTSTAMP:20230318T025015Z
+DTSTART:20230402T073000Z
+DTEND:20230402T093000Z
+SUMMARY:Grace Christian School (SWOT Urban Series 7), South-West Orienteering Trekkers
+URL:https://eventor.orienteering.asn.au/Events/Show/18851
+GEO:-33.3378828059304;115.680115253954
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18717@eventor.orienteering.asn.au
@@ -3322,9 +3357,9 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18546
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18312@eventor.orienteering.asn.au
-DTSTAMP:20221205T110009Z
+DTSTAMP:20230318T103827Z
 DTSTART:20230610T033000Z
-DTEND:20230610T053000Z
+DTEND:20230610T060000Z
 SUMMARY:Flinders Ranges Day 1 - Rawnsley, Tjuringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18312
 END:VEVENT
