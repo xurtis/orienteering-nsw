@@ -924,7 +924,7 @@ GEO:-34.0393053702245;151.065902495968
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18015@eventor.orienteering.asn.au
-DTSTAMP:20230319T092917Z
+DTSTAMP:20230319T231850Z
 DTSTART:20230318T230000Z
 DTEND:20230318T230000Z
 SUMMARY:OY2 - The Cascades/Amiens, west of Stanthorpe, Bullecourt Boulder Bounders
@@ -1029,15 +1029,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18811
 GEO:-35.3147573727045;149.135577216561
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18495@eventor.orienteering.asn.au
-DTSTAMP:20230308T012109Z
-DTSTART:20230401T130000Z
-DTEND:20230402T140000Z
-SUMMARY:Stags Head - Tasmanian Schools Championships - Schools Selection Event 1, Australopers
-URL:https://eventor.orienteering.asn.au/Events/Show/18495
-GEO:-42.306267;147.152249
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18309@eventor.orienteering.asn.au
 DTSTAMP:20230117T014353Z
 DTSTART:20230401T230000Z
@@ -1070,6 +1061,15 @@ DTEND:20230402T030000Z
 SUMMARY:Dorrigo Dash, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18622
 GEO:-30.3416395544745;152.709436385616
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18495@eventor.orienteering.asn.au
+DTSTAMP:20230320T075953Z
+DTSTART:20230402T000000Z
+DTEND:20230402T030000Z
+SUMMARY:Stags Head - Tasmanian Schools Championships - Schools Selection Event 1, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/18495
+GEO:-42.306267;147.152249
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18246@eventor.orienteering.asn.au
@@ -1583,10 +1583,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18842
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17892@eventor.orienteering.asn.au
-DTSTAMP:20220908T061744Z
+DTSTAMP:20230320T031535Z
 DTSTART:20230716T000000Z
 DTEND:20230716T040000Z
-SUMMARY:ACT Classic Series: ACT League #6, Ainslie-Majura, Parawanga Orienteers
+SUMMARY:ACT Classic Series: ACT League #6, Ballinafad Creek, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17892
 END:VEVENT
 BEGIN:VEVENT
