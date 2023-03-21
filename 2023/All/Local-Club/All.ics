@@ -2878,7 +2878,7 @@ GEO:-35.0734393873177;138.594927392012
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18489@eventor.orienteering.asn.au
-DTSTAMP:20230314T065028Z
+DTSTAMP:20230321T055516Z
 DTSTART:20230318T233000Z
 DTEND:20230319T023000Z
 SUMMARY:Whyalla - Wetlands-Tower Hill, Saltbush Orienteers
@@ -2941,7 +2941,7 @@ GEO:-33.3255384709117;115.63582484804
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18259@eventor.orienteering.asn.au
-DTSTAMP:20221129T003623Z
+DTSTAMP:20230321T014916Z
 DTSTART:20230320T060000Z
 DTEND:20230320T081500Z
 SUMMARY:ACT MapRun Street Series: Denman Prospect, 16-20 Mar, Orienteering ACT
@@ -2958,6 +2958,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18268
 GEO:-37.97895518225;145.078004643255
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18354@eventor.orienteering.asn.au
+DTSTAMP:20230321T114346Z
+DTSTART:20230320T140000Z
+DTEND:20230321T140000Z
+SUMMARY:Night Nav - West End, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18354
+GEO:-27.489354318257;152.997877121282
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18506@eventor.orienteering.asn.au
 DTSTAMP:20230227T054539Z
 DTSTART:20230321T073000Z
@@ -2965,15 +2974,6 @@ DTEND:20230321T091000Z
 SUMMARY:Melbourne Park Street Tuesday Autumn Series - Windy Hill, Tuckonie Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18506
 GEO:-37.75282468872;144.918271526023
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18354@eventor.orienteering.asn.au
-DTSTAMP:20230130T081109Z
-DTSTART:20230321T073000Z
-DTEND:20230321T093000Z
-SUMMARY:Night Nav - West End, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18354
-GEO:-27.489354318257;152.997877121282
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18679@eventor.orienteering.asn.au
@@ -3057,6 +3057,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18296
 GEO:-37.8555263725347;145.102507183699
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18527@eventor.orienteering.asn.au
+DTSTAMP:20230321T020121Z
+DTSTART:20230322T130000Z
+DTEND:20230324T130000Z
+SUMMARY:Trevallyn - Northern Schools Championships, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/18527
+GEO:-41.4446610042362;147.092615329631
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18486@eventor.orienteering.asn.au
 DTSTAMP:20230124T012122Z
 DTSTART:20230322T204500Z
@@ -3083,15 +3092,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18728
 GEO:-34.95634555463;138.649515537714
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18527@eventor.orienteering.asn.au
-DTSTAMP:20230122T011916Z
-DTSTART:20230323T130000Z
-DTEND:20230324T130000Z
-SUMMARY:Trevallyn - Northern Schools Championships, Esk Valley
-URL:https://eventor.orienteering.asn.au/Events/Show/18527
-GEO:-41.4446610042362;147.092615329631
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18793@eventor.orienteering.asn.au
 DTSTAMP:20230319T123311Z
 DTSTART:20230323T143000Z
@@ -3110,21 +3110,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18800
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18372@eventor.orienteering.asn.au
-DTSTAMP:20230102T104029Z
+DTSTAMP:20230321T034421Z
 DTSTART:20230325T013000Z
 DTEND:20230325T030000Z
 SUMMARY:Come and Try It: 2 Ironstone Hill, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18372
 GEO:-36.7083690507829;144.285672572536
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18557@eventor.orienteering.asn.au
-DTSTAMP:20230124T213442Z
-DTSTART:20230325T130000Z
-DTEND:20230326T130000Z
-SUMMARY:Shorewell Park - NW Local #2, Pathfinders
-URL:https://eventor.orienteering.asn.au/Events/Show/18557
-GEO:-41.0613007141333;145.883598126638
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18308@eventor.orienteering.asn.au
@@ -3153,12 +3144,21 @@ GEO:-27.9862458574041;153.331331610223
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18176@eventor.orienteering.asn.au
-DTSTAMP:20230316T043347Z
+DTSTAMP:20230321T112200Z
 DTSTART:20230325T230000Z
 DTEND:20230326T023000Z
 SUMMARY:Belair National Park, Wallaringa Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18176
 GEO:-35.0096415117389;138.635907678694
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18557@eventor.orienteering.asn.au
+DTSTAMP:20230321T054437Z
+DTSTART:20230326T000000Z
+DTEND:20230326T033000Z
+SUMMARY:Buttons Beach - NW Local #2, Pathfinders
+URL:https://eventor.orienteering.asn.au/Events/Show/18557
+GEO:-41.1518729414029;146.175267185053
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18647@eventor.orienteering.asn.au
@@ -3401,6 +3401,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18830
 GEO:-32.8877071240043;151.379196858402
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18879@eventor.orienteering.asn.au
+DTSTAMP:20230321T021512Z
+DTSTART:20230402T000000Z
+DTEND:20230402T000000Z
+SUMMARY:Dorrigo Maze, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18879
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18833@eventor.orienteering.asn.au
 DTSTAMP:20230317T003243Z
 DTSTART:20230402T000000Z
@@ -3411,7 +3419,7 @@ GEO:-26.7937880858589;153.123988444932
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18726@eventor.orienteering.asn.au
-DTSTAMP:20230319T030358Z
+DTSTAMP:20230321T005038Z
 DTSTART:20230402T000000Z
 DTEND:20230402T023000Z
 SUMMARY:Goldseekers Bush Series #2 Bridle Track Reserve, Goldseekers Orienteers
@@ -3604,15 +3612,6 @@ SUMMARY:Melbourne Park Street Saturday Series - Croydon Greens, Dandenong Ranges
 URL:https://eventor.orienteering.asn.au/Events/Show/18516
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18558@eventor.orienteering.asn.au
-DTSTAMP:20230124T213859Z
-DTSTART:20230415T140000Z
-DTEND:20230416T140000Z
-SUMMARY:Buttons Beach - NW Local #3, Pathfinders
-URL:https://eventor.orienteering.asn.au/Events/Show/18558
-GEO:-41.1519663453949;146.175252683073
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18831@eventor.orienteering.asn.au
 DTSTAMP:20230316T003616Z
 DTSTART:20230415T140000Z
@@ -3620,6 +3619,15 @@ DTEND:20230416T140000Z
 SUMMARY:Newcastle Pairs and Come & Try It - Minmi (TBC), Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18831
 GEO:-32.8599219059299;151.619213180028
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18558@eventor.orienteering.asn.au
+DTSTAMP:20230321T052736Z
+DTSTART:20230415T140000Z
+DTEND:20230416T140000Z
+SUMMARY:Shorewell Park - NW Local #3, Pathfinders
+URL:https://eventor.orienteering.asn.au/Events/Show/18558
+GEO:-41.1519663453949;146.175252683073
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18555@eventor.orienteering.asn.au
@@ -4344,6 +4352,15 @@ SUMMARY:Anzac Park, Toowong. Bush and Park., Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18438
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18374@eventor.orienteering.asn.au
+DTSTAMP:20230321T001554Z
+DTSTART:20230527T003000Z
+DTEND:20230527T020000Z
+SUMMARY:Cornerstone College, Mt Barker, Onkaparinga Hills Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18374
+GEO:-35.0595046143147;138.859359352046
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17860@eventor.orienteering.asn.au
 DTSTAMP:20220906T013950Z
 DTSTART:20230527T003000Z
@@ -4425,15 +4442,6 @@ DTSTART:20230528T000000Z
 DTEND:20230528T033000Z
 SUMMARY:Waggaroos - AWOC Interclub #3, Narrandera, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18588
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18374@eventor.orienteering.asn.au
-DTSTAMP:20230103T054157Z
-DTSTART:20230528T003000Z
-DTEND:20230528T003000Z
-SUMMARY:Cornerstone College, Mt Barker, Onkaparinga Hills Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18374
-GEO:-35.0595046143147;138.859359352046
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18707@eventor.orienteering.asn.au
@@ -4569,6 +4577,14 @@ DTSTART:20230608T230000Z
 DTEND:20230609T050000Z
 SUMMARY:Closed School Event, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18546
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18880@eventor.orienteering.asn.au
+DTSTAMP:20230321T110317Z
+DTSTART:20230609T143000Z
+DTEND:20230610T143000Z
+SUMMARY:South Australian Schools team Nomination, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18880
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18312@eventor.orienteering.asn.au
