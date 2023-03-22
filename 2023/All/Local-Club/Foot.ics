@@ -1572,6 +1572,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18723
 GEO:-33.4411131407304;151.424944628553
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18605@eventor.orienteering.asn.au
+DTSTAMP:20230322T082029Z
+DTSTART:20230304T140000Z
+DTEND:20230305T140000Z
+SUMMARY:MapRun Parks 2023 - Edenbrooke, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18605
+GEO:-27.5485424248493;152.948967028615
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18087@eventor.orienteering.asn.au
 DTSTAMP:20230305T055412Z
 DTSTART:20230304T220000Z
@@ -1624,15 +1633,6 @@ DTEND:20230305T040000Z
 SUMMARY:Albany - disregard :-), Albany & Denmark Hinterland Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18529
 GEO:-35.0057887262552;117.881726530661
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18605@eventor.orienteering.asn.au
-DTSTAMP:20230129T111758Z
-DTSTART:20230305T060000Z
-DTEND:20230305T060000Z
-SUMMARY:MapRun Parks 2023 - Edenbrooke, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18605
-GEO:-27.5485424248493;152.948967028615
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16946@eventor.orienteering.asn.au
@@ -2060,6 +2060,15 @@ SUMMARY:Postponed due to extreme temperatures. Waggaroos - AWOC Interclub #1, Wo
 URL:https://eventor.orienteering.asn.au/Events/Show/18581
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18816@eventor.orienteering.asn.au
+DTSTAMP:20230322T081742Z
+DTSTART:20230318T140000Z
+DTEND:20230319T140000Z
+SUMMARY:MapRun Parks 2023 - Moore Park, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18816
+GEO:-27.499664;152.963884
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18373@eventor.orienteering.asn.au
 DTSTAMP:20230319T041451Z
 DTSTART:20230318T233000Z
@@ -2114,15 +2123,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18809
 GEO:-35.0025374742607;117.873484438097
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18816@eventor.orienteering.asn.au
-DTSTAMP:20230311T074021Z
-DTSTART:20230319T060000Z
-DTEND:20230319T060000Z
-SUMMARY:MapRun Parks 2023 - Moore Park, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18816
-GEO:-27.499664;152.963884
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18849@eventor.orienteering.asn.au
 DTSTAMP:20230319T094429Z
 DTSTART:20230319T073000Z
@@ -2151,7 +2151,7 @@ GEO:-26.6187001184712;153.036077909482
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18526@eventor.orienteering.asn.au
-DTSTAMP:20230225T054827Z
+DTSTAMP:20230322T083050Z
 DTSTART:20230321T130000Z
 DTEND:20230322T130000Z
 SUMMARY:Punchbowl - Northern Autumn Twilight Series #5, Esk Valley
@@ -2160,12 +2160,21 @@ GEO:-41.4568621959821;147.169613065848
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18493@eventor.orienteering.asn.au
-DTSTAMP:20230226T235905Z
+DTSTAMP:20230322T100245Z
 DTSTART:20230321T130000Z
 DTEND:20230322T130000Z
 SUMMARY:Waterworks - Southern Autumn Schools/Twilight Series #6, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18493
 GEO:-42.9069147983181;147.29570084773
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18566@eventor.orienteering.asn.au
+DTSTAMP:20230322T110107Z
+DTSTART:20230321T140000Z
+DTEND:20230322T140000Z
+SUMMARY:MapRun Night Nav Dolphin Heads, 21Degrees South Multisport Assoc.
+URL:https://eventor.orienteering.asn.au/Events/Show/18566
+GEO:-21.0467143179078;149.185668791012
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18455@eventor.orienteering.asn.au
@@ -2178,7 +2187,7 @@ GEO:-34.7540936686015;138.939355215935
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17797@eventor.orienteering.asn.au
-DTSTAMP:20230226T102444Z
+DTSTAMP:20230322T084539Z
 DTSTART:20230322T053000Z
 DTEND:20230322T083000Z
 SUMMARY:2022/23 Sydney Summer Series #25 Rydalmere, Western and Hills Orienteers
@@ -2187,21 +2196,12 @@ GEO:-33.8083663853401;151.050458426139
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18617@eventor.orienteering.asn.au
-DTSTAMP:20230317T064335Z
+DTSTAMP:20230322T095430Z
 DTSTART:20230322T054500Z
 DTEND:20230322T080000Z
 SUMMARY:Urban Foot Orienteering Final - Eleebana, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18617
 GEO:-32.9979272580381;151.638284725781
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18566@eventor.orienteering.asn.au
-DTSTAMP:20230126T011512Z
-DTSTART:20230322T073000Z
-DTEND:20230322T091500Z
-SUMMARY:MapRun Night Nav Dolphin Heads, 21Degrees South Multisport Assoc.
-URL:https://eventor.orienteering.asn.au/Events/Show/18566
-GEO:-21.0467143179078;149.185668791012
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18527@eventor.orienteering.asn.au
@@ -2231,10 +2231,10 @@ GEO:-27.470222229614;153.052545122236
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18728@eventor.orienteering.asn.au
-DTSTAMP:20230222T085937Z
+DTSTAMP:20230322T075241Z
 DTSTART:20230323T051500Z
 DTEND:20230323T063000Z
-SUMMARY:Central Adelaide Schools Zone Event 3 Seymour, Orienteering SA
+SUMMARY:Central Adelaide Schools Zone Event 3 Linden Park PS, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18728
 GEO:-34.95634555463;138.649515537714
 END:VEVENT
@@ -2291,7 +2291,7 @@ GEO:-27.9862458574041;153.331331610223
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18176@eventor.orienteering.asn.au
-DTSTAMP:20230321T112200Z
+DTSTAMP:20230322T024451Z
 DTSTART:20230325T230000Z
 DTEND:20230326T023000Z
 SUMMARY:Belair National Park, Wallaringa Orienteering Club
@@ -2408,7 +2408,7 @@ GEO:-35.3147573727045;149.135577216561
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17313@eventor.orienteering.asn.au
-DTSTAMP:20221221T064321Z
+DTSTAMP:20230322T065506Z
 DTSTART:20230331T230000Z
 DTEND:20230401T010000Z
 SUMMARY:Karawatha Forest - bush - BCC promotional event, Toohey Forest Orienteers
@@ -2486,7 +2486,7 @@ GEO:-26.7937880858589;153.123988444932
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18726@eventor.orienteering.asn.au
-DTSTAMP:20230321T005038Z
+DTSTAMP:20230322T100701Z
 DTSTART:20230402T000000Z
 DTEND:20230402T023000Z
 SUMMARY:Goldseekers Bush Series #2 Bridle Track Reserve, Goldseekers Orienteers
@@ -2549,7 +2549,7 @@ GEO:-33.3378828059304;115.680115253954
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18717@eventor.orienteering.asn.au
-DTSTAMP:20230228T123036Z
+DTSTAMP:20230322T045124Z
 DTSTART:20230402T230000Z
 DTEND:20230403T020000Z
 SUMMARY:Hardings Paddock - bush - Ipswich region, Ugly Gully Orienteers
@@ -2896,6 +2896,15 @@ SUMMARY:Newcastle OY3, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18835
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18882@eventor.orienteering.asn.au
+DTSTAMP:20230322T092747Z
+DTSTART:20230507T000000Z
+DTEND:20230507T000000Z
+SUMMARY:Bush Event #3 Ophir South, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18882
+GEO:-33.1694371448252;149.239410864937
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18794@eventor.orienteering.asn.au
 DTSTAMP:20230304T004052Z
 DTSTART:20230507T000000Z
@@ -2905,13 +2914,13 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18794
 GEO:-30.4875242970311;151.456640197932
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18762@eventor.orienteering.asn.au
-DTSTAMP:20230226T035833Z
+UID:Event_18765@eventor.orienteering.asn.au
+DTSTAMP:20230322T010144Z
 DTSTART:20230507T010000Z
 DTEND:20230507T033000Z
-SUMMARY:Louth Bay, Lincoln Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18762
-GEO:-34.5433913552795;135.931058721203
+SUMMARY:Tadpole, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18765
+GEO:-34.5458951378559;135.443327874312
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18705@eventor.orienteering.asn.au
@@ -3332,12 +3341,13 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18443
 GEO:-37.7789308320593;145.061346182846
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18764@eventor.orienteering.asn.au
-DTSTAMP:20230226T040248Z
+UID:Event_18762@eventor.orienteering.asn.au
+DTSTAMP:20230322T010311Z
 DTSTART:20230604T010000Z
 DTEND:20230604T033000Z
-SUMMARY:Warunda Creek, Lincoln Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18764
+SUMMARY:Louth Bay, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18762
+GEO:-34.5433913552795;135.931058721203
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18708@eventor.orienteering.asn.au
@@ -3416,10 +3426,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18589
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18375@eventor.orienteering.asn.au
-DTSTAMP:20230103T054402Z
+DTSTAMP:20230322T050426Z
 DTSTART:20230612T000000Z
 DTEND:20230612T000000Z
-SUMMARY:Manawarra - Prelinna, Onkaparinga Hills Orienteering Club
+SUMMARY:Flinders Ranges Day 3 - Manawarra, Onkaparinga Hills Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18375
 GEO:-31.5705267674661;138.660328236696
 END:VEVENT
@@ -3482,6 +3492,15 @@ SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18839
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18883@eventor.orienteering.asn.au
+DTSTAMP:20230322T094249Z
+DTSTART:20230618T000000Z
+DTEND:20230618T000000Z
+SUMMARY:Bush event #4 Oakey Creek South, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18883
+GEO:-33.1243135157715;149.179293471991
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18444@eventor.orienteering.asn.au
 DTSTAMP:20230215T014008Z
 DTSTART:20230618T000000Z
@@ -3500,13 +3519,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18827
 GEO:-34.4379617381304;150.428766047376
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18765@eventor.orienteering.asn.au
-DTSTAMP:20230226T040601Z
+UID:Event_18764@eventor.orienteering.asn.au
+DTSTAMP:20230322T010232Z
 DTSTART:20230618T010000Z
-DTEND:20230618T033000Z
-SUMMARY:Tadpole, Lincoln Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18765
-GEO:-34.5458951378559;135.443327874312
+DTEND:20230618T053000Z
+SUMMARY:Warunda Creek, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18764
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18720@eventor.orienteering.asn.au
@@ -3720,6 +3738,15 @@ DTEND:20230702T000000Z
 SUMMARY:Ballarat Winter Series #2 Yuille Wetlands , Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18642
 GEO:-37.5921740276354;143.846549507287
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18884@eventor.orienteering.asn.au
+DTSTAMP:20230322T095213Z
+DTSTART:20230702T000000Z
+DTEND:20230702T000000Z
+SUMMARY:Bush event #5 Botanic Gardens, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18884
+GEO:-33.2572761256439;149.096910307928
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18445@eventor.orienteering.asn.au
@@ -4067,6 +4094,15 @@ SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18844
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18885@eventor.orienteering.asn.au
+DTSTAMP:20230322T095551Z
+DTSTART:20230806T000000Z
+DTEND:20230806T000000Z
+SUMMARY:Bush event #6 Gosling Creek, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18885
+GEO:-33.3265595342471;149.08527829107
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18182@eventor.orienteering.asn.au
 DTSTAMP:20221107T023922Z
 DTSTART:20230806T233000Z
@@ -4299,6 +4335,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18571
 GEO:-21.0864935217468;149.182301485104
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18881@eventor.orienteering.asn.au
+DTSTAMP:20230322T070117Z
+DTSTART:20230830T233000Z
+DTEND:20230831T023000Z
+SUMMARY:Mid week - Boronia Bushland Reserve, Boronia, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/18881
+GEO:-27.6933581115108;153.027413218821
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17870@eventor.orienteering.asn.au
 DTSTAMP:20220906T014228Z
 DTSTART:20230902T003000Z
@@ -4321,6 +4366,15 @@ DTSTART:20230902T140000Z
 DTEND:20230903T140000Z
 SUMMARY:Bowman Park, Bardon - BCC , Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18024
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18886@eventor.orienteering.asn.au
+DTSTAMP:20230322T100749Z
+DTSTART:20230903T000000Z
+DTEND:20230903T000000Z
+SUMMARY:Bush event #7 Ophir North, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18886
+GEO:-33.1596537882886;149.244004850035
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18595@eventor.orienteering.asn.au
@@ -4535,6 +4589,15 @@ DTEND:20231014T070000Z
 SUMMARY:Albany - Historic Forts, Albany & Denmark Hinterland Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18537
 GEO:-35.0308006311684;117.912512150603
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18887@eventor.orienteering.asn.au
+DTSTAMP:20230322T100323Z
+DTSTART:20231014T230000Z
+DTEND:20231014T230000Z
+SUMMARY:Bush event #8 Rocky Falls, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18887
+GEO:-33.1036652193602;149.122452516929
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18598@eventor.orienteering.asn.au

@@ -826,7 +826,7 @@ GEO:-31.6378411554748;152.826499747058
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17797@eventor.orienteering.asn.au
-DTSTAMP:20230226T102444Z
+DTSTAMP:20230322T084539Z
 DTSTART:20230322T053000Z
 DTEND:20230322T083000Z
 SUMMARY:2022/23 Sydney Summer Series #25 Rydalmere, Western and Hills Orienteers
@@ -835,7 +835,7 @@ GEO:-33.8083663853401;151.050458426139
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18617@eventor.orienteering.asn.au
-DTSTAMP:20230317T064335Z
+DTSTAMP:20230322T095430Z
 DTSTART:20230322T054500Z
 DTEND:20230322T080000Z
 SUMMARY:Urban Foot Orienteering Final - Eleebana, Newcastle Orienteering Club
@@ -897,7 +897,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18879
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18726@eventor.orienteering.asn.au
-DTSTAMP:20230321T005038Z
+DTSTAMP:20230322T100701Z
 DTSTART:20230402T000000Z
 DTEND:20230402T023000Z
 SUMMARY:Goldseekers Bush Series #2 Bridle Track Reserve, Goldseekers Orienteers
@@ -1023,6 +1023,15 @@ DTSTART:20230506T140000Z
 DTEND:20230507T140000Z
 SUMMARY:Newcastle OY3, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18835
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18882@eventor.orienteering.asn.au
+DTSTAMP:20230322T092747Z
+DTSTART:20230507T000000Z
+DTEND:20230507T000000Z
+SUMMARY:Bush Event #3 Ophir South, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18882
+GEO:-33.1694371448252;149.239410864937
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18794@eventor.orienteering.asn.au
@@ -1165,6 +1174,15 @@ SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18839
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18883@eventor.orienteering.asn.au
+DTSTAMP:20230322T094249Z
+DTSTART:20230618T000000Z
+DTEND:20230618T000000Z
+SUMMARY:Bush event #4 Oakey Creek South, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18883
+GEO:-33.1243135157715;149.179293471991
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18827@eventor.orienteering.asn.au
 DTSTAMP:20230315T233853Z
 DTSTART:20230618T003000Z
@@ -1222,6 +1240,15 @@ DTSTART:20230701T233000Z
 DTEND:20230701T233000Z
 SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18841
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18884@eventor.orienteering.asn.au
+DTSTAMP:20230322T095213Z
+DTSTART:20230702T000000Z
+DTEND:20230702T000000Z
+SUMMARY:Bush event #5 Botanic Gardens, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18884
+GEO:-33.2572761256439;149.096910307928
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18828@eventor.orienteering.asn.au
@@ -1321,6 +1348,15 @@ DTSTART:20230805T233000Z
 DTEND:20230805T233000Z
 SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18844
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18885@eventor.orienteering.asn.au
+DTSTAMP:20230322T095551Z
+DTSTART:20230806T000000Z
+DTEND:20230806T000000Z
+SUMMARY:Bush event #6 Gosling Creek, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18885
+GEO:-33.3265595342471;149.08527829107
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18182@eventor.orienteering.asn.au
@@ -1448,6 +1484,15 @@ SUMMARY:NSW MTBO Champs - Sprint, Bush n Beach Orienteering Club / Hastings Orie
 URL:https://eventor.orienteering.asn.au/Events/Show/18543
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18886@eventor.orienteering.asn.au
+DTSTAMP:20230322T100749Z
+DTSTART:20230903T000000Z
+DTEND:20230903T000000Z
+SUMMARY:Bush event #7 Ophir North, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18886
+GEO:-33.1596537882886;149.244004850035
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18595@eventor.orienteering.asn.au
 DTSTAMP:20230129T023811Z
 DTSTART:20230903T000000Z
@@ -1544,6 +1589,15 @@ DTSTART:20231014T040000Z
 DTEND:20231014T060000Z
 SUMMARY:Cordeaux Heights, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18696
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18887@eventor.orienteering.asn.au
+DTSTAMP:20230322T100323Z
+DTSTART:20231014T230000Z
+DTEND:20231014T230000Z
+SUMMARY:Bush event #8 Rocky Falls, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18887
+GEO:-33.1036652193602;149.122452516929
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18598@eventor.orienteering.asn.au
