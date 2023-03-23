@@ -1182,7 +1182,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18248
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17798@eventor.orienteering.asn.au
-DTSTAMP:20230306T062746Z
+DTSTAMP:20230323T054908Z
 DTSTART:20230329T053000Z
 DTEND:20230329T083000Z
 SUMMARY:2022/23 Sydney Summer Series #26 Gordon, Bennelong Northside Orienteers
@@ -1371,7 +1371,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18618
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18019@eventor.orienteering.asn.au
-DTSTAMP:20230318T032856Z
+DTSTAMP:20230323T011935Z
 DTSTART:20230428T140000Z
 DTEND:20230430T140000Z
 SUMMARY:OY3-OY4 Qld Long Distance Championships, Cabbage Tree Mountain, Maryborough, Orienteering Queensland / Ugly Gully Orienteers
@@ -1424,7 +1424,7 @@ GEO:-35.2810067741941;149.174659942669
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18018@eventor.orienteering.asn.au
-DTSTAMP:20230310T091757Z
+DTSTAMP:20230323T012101Z
 DTSTART:20230430T140000Z
 DTEND:20230501T140000Z
 SUMMARY:OY5 - Qld Middle Distance Championships - Cabbage Tree Mountain (Maryborough), Orienteering Queensland / Sunshine Orienteers Club
@@ -1613,20 +1613,20 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18320
 GEO:-37.2038136057444;144.249656021543
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_17910@eventor.orienteering.asn.au
-DTSTAMP:20221220T054142Z
-DTSTART:20230527T230000Z
-DTEND:20230528T030000Z
-SUMMARY:ACT MTBO Series #2: Pierces Creek, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/17910
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18675@eventor.orienteering.asn.au
 DTSTAMP:20230207T024239Z
 DTSTART:20230527T233000Z
 DTEND:20230527T233000Z
 SUMMARY:2023 Metro League #2, Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18675
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17910@eventor.orienteering.asn.au
+DTSTAMP:20230323T095257Z
+DTSTART:20230528T000000Z
+DTEND:20230528T020000Z
+SUMMARY:ACT MTBO Series #2: Pierces Creek - MTBO Rogaine, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/17910
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18721@eventor.orienteering.asn.au
@@ -1661,6 +1661,15 @@ DTSTART:20230603T003000Z
 DTEND:20230603T030000Z
 SUMMARY:ACT Metro Series: Junior League #6, Campbell Park, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17861
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18888@eventor.orienteering.asn.au
+DTSTAMP:20230323T024323Z
+DTSTART:20230603T040000Z
+DTEND:20230603T060000Z
+SUMMARY:Coffs Tree Fern Creek, Bush n Beach Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18888
+GEO:-30.2893780132759;153.114384894
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18838@eventor.orienteering.asn.au
@@ -2023,6 +2032,15 @@ DTSTART:20230730T000000Z
 DTEND:20230730T040000Z
 SUMMARY:ACT Classic Series: ACT League #7, Isaacs Ridge, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/17893
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18891@eventor.orienteering.asn.au
+DTSTAMP:20230323T105303Z
+DTSTART:20230730T003000Z
+DTEND:20230730T030000Z
+SUMMARY:Highlands Forest Series #3 - Boxvale, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18891
+GEO:-34.4311926297928;150.414389407056
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18789@eventor.orienteering.asn.au

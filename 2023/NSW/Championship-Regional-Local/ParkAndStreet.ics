@@ -490,7 +490,7 @@ GEO:-32.9979272580381;151.638284725781
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17798@eventor.orienteering.asn.au
-DTSTAMP:20230306T062746Z
+DTSTAMP:20230323T054908Z
 DTSTART:20230329T053000Z
 DTEND:20230329T083000Z
 SUMMARY:2022/23 Sydney Summer Series #26 Gordon, Bennelong Northside Orienteers
@@ -522,6 +522,15 @@ DTSTART:20230425T140000Z
 DTEND:20230426T140000Z
 SUMMARY:Newcastle Night Urban Champs, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18618
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18888@eventor.orienteering.asn.au
+DTSTAMP:20230323T024323Z
+DTSTART:20230603T040000Z
+DTEND:20230603T060000Z
+SUMMARY:Coffs Tree Fern Creek, Bush n Beach Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18888
+GEO:-30.2893780132759;153.114384894
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18777@eventor.orienteering.asn.au

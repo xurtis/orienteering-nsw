@@ -607,7 +607,7 @@ GEO:-34.5307847844207;150.210218028659
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17798@eventor.orienteering.asn.au
-DTSTAMP:20230306T062746Z
+DTSTAMP:20230323T054908Z
 DTSTART:20230329T053000Z
 DTEND:20230329T083000Z
 SUMMARY:2022/23 Sydney Summer Series #26 Gordon, Bennelong Northside Orienteers
@@ -776,6 +776,15 @@ SUMMARY:2023 Metro League #2, Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18675
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18888@eventor.orienteering.asn.au
+DTSTAMP:20230323T024323Z
+DTSTART:20230603T040000Z
+DTEND:20230603T060000Z
+SUMMARY:Coffs Tree Fern Creek, Bush n Beach Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18888
+GEO:-30.2893780132759;153.114384894
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18838@eventor.orienteering.asn.au
 DTSTAMP:20230316T235908Z
 DTSTART:20230603T140000Z
@@ -874,6 +883,15 @@ DTSTART:20230724T233000Z
 DTEND:20230724T233000Z
 SUMMARY:Newcastle Schools Championships, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18843
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18891@eventor.orienteering.asn.au
+DTSTAMP:20230323T105303Z
+DTSTART:20230730T003000Z
+DTEND:20230730T030000Z
+SUMMARY:Highlands Forest Series #3 - Boxvale, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18891
+GEO:-34.4311926297928;150.414389407056
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18789@eventor.orienteering.asn.au

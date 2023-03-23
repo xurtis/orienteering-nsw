@@ -774,7 +774,7 @@ GEO:-32.9979272580381;151.638284725781
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17798@eventor.orienteering.asn.au
-DTSTAMP:20230306T062746Z
+DTSTAMP:20230323T054908Z
 DTSTART:20230329T053000Z
 DTEND:20230329T083000Z
 SUMMARY:2022/23 Sydney Summer Series #26 Gordon, Bennelong Northside Orienteers
@@ -792,20 +792,21 @@ GEO:-35.1333979490755;147.369039438832
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18830@eventor.orienteering.asn.au
-DTSTAMP:20230316T234446Z
+DTSTAMP:20230323T053642Z
 DTSTART:20230401T233000Z
 DTEND:20230402T030000Z
-SUMMARY:NOY1 - Kitchener (tbc), Newcastle Orienteering Club
+SUMMARY:NOY1 - Southams Road West, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18830
-GEO:-32.8877071240043;151.379196858402
+GEO:-32.8870301916491;151.379620763339
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18879@eventor.orienteering.asn.au
-DTSTAMP:20230321T021512Z
+DTSTAMP:20230323T085413Z
 DTSTART:20230402T000000Z
 DTEND:20230402T000000Z
 SUMMARY:Dorrigo Maze, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18879
+GEO:-30.3415277524806;152.708497808961
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18726@eventor.orienteering.asn.au
@@ -836,9 +837,9 @@ GEO:-33.7843074724134;151.260679098448
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18831@eventor.orienteering.asn.au
-DTSTAMP:20230316T003616Z
-DTSTART:20230415T140000Z
-DTEND:20230416T140000Z
+DTSTAMP:20230323T085516Z
+DTSTART:20230416T000000Z
+DTEND:20230416T000000Z
 SUMMARY:Newcastle Pairs and Come & Try It - Minmi (TBC), Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18831
 GEO:-32.8599219059299;151.619213180028
@@ -945,6 +946,14 @@ SUMMARY:Riverina Schools Championships, Willan's Hill, Wagga and Riverina Occasi
 URL:https://eventor.orienteering.asn.au/Events/Show/18586
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18889@eventor.orienteering.asn.au
+DTSTAMP:20230323T055234Z
+DTSTART:20230510T073000Z
+DTEND:20230510T094500Z
+SUMMARY:Moonlight Madness #1 - World Orienteering Day, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18889
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18776@eventor.orienteering.asn.au
 DTSTAMP:20230227T042527Z
 DTSTART:20230513T040000Z
@@ -1011,12 +1020,29 @@ SUMMARY:Waggaroos - AWOC Interclub #3, Narrandera, Wagga and Riverina Occasional
 URL:https://eventor.orienteering.asn.au/Events/Show/18588
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18888@eventor.orienteering.asn.au
+DTSTAMP:20230323T024323Z
+DTSTART:20230603T040000Z
+DTEND:20230603T060000Z
+SUMMARY:Coffs Tree Fern Creek, Bush n Beach Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18888
+GEO:-30.2893780132759;153.114384894
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18838@eventor.orienteering.asn.au
 DTSTAMP:20230316T235908Z
 DTSTART:20230603T140000Z
 DTEND:20230604T140000Z
 SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18838
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18890@eventor.orienteering.asn.au
+DTSTAMP:20230323T054806Z
+DTSTART:20230607T073000Z
+DTEND:20230607T094500Z
+SUMMARY:Moonlight Madness #2 - Celebrate VIVID, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18890
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18589@eventor.orienteering.asn.au
@@ -1179,10 +1205,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18843
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18689@eventor.orienteering.asn.au
-DTSTAMP:20230209T022049Z
+DTSTAMP:20230323T052342Z
 DTSTART:20230729T233000Z
 DTEND:20230729T233000Z
-SUMMARY:Warwick S Selby, Garingal Orienteers
+SUMMARY:Come and Try It + Club Championship, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18689
 END:VEVENT
 BEGIN:VEVENT
@@ -1192,6 +1218,15 @@ DTSTART:20230730T000000Z
 DTEND:20230730T033000Z
 SUMMARY:Waggaroos - AWOC Interclub #5, Burngoogee, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18592
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18891@eventor.orienteering.asn.au
+DTSTAMP:20230323T105303Z
+DTSTART:20230730T003000Z
+DTEND:20230730T030000Z
+SUMMARY:Highlands Forest Series #3 - Boxvale, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18891
+GEO:-34.4311926297928;150.414389407056
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18789@eventor.orienteering.asn.au
@@ -1442,7 +1477,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18413
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17077@eventor.orienteering.asn.au
-DTSTAMP:20230308T012617Z
+DTSTAMP:20230323T051049Z
 DTSTART:20231230T130000Z
 DTEND:20231231T130000Z
 SUMMARY:Newcastle Orienteering Club Communication 2023, Newcastle Orienteering Club
