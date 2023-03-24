@@ -1252,7 +1252,7 @@ GEO:-30.3416395544745;152.709436385616
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18495@eventor.orienteering.asn.au
-DTSTAMP:20230320T230400Z
+DTSTAMP:20230323T223212Z
 DTSTART:20230402T000000Z
 DTEND:20230402T030000Z
 SUMMARY:Stags Head - Tasmanian Schools Championships - Schools Selection Event 1, Australopers
@@ -1261,7 +1261,7 @@ GEO:-42.306267;147.152249
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18246@eventor.orienteering.asn.au
-DTSTAMP:20230322T035044Z
+DTSTAMP:20230324T025801Z
 DTSTART:20230402T000000Z
 DTEND:20230402T040000Z
 SUMMARY:Victorian Club Relays - Team Entries - Woowookarung, Ballarat, Eureka Orienteers
@@ -2166,6 +2166,15 @@ SUMMARY:2023 ACT & NSW Ski-O Championships, Orienteering ACT / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/17912
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18892@eventor.orienteering.asn.au
+DTSTAMP:20230324T100634Z
+DTSTART:20230813T003000Z
+DTEND:20230813T030000Z
+SUMMARY:Highlands Forest Series #4 - Soapy Flat, near Mittagong, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18892
+GEO:-34.4021752122608;150.379284655469
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18768@eventor.orienteering.asn.au
 DTSTAMP:20230226T041251Z
 DTSTART:20230813T010000Z
@@ -2341,6 +2350,15 @@ DTSTART:20230903T000000Z
 DTEND:20230903T040000Z
 SUMMARY:ACT Classic Series: ACT League #10, Picaree Hill, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/17894
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18893@eventor.orienteering.asn.au
+DTSTAMP:20230324T102129Z
+DTSTART:20230903T003000Z
+DTEND:20230903T030000Z
+SUMMARY:Highlands Forest Series #5 - Appin, Illawarra Kareelah Orienteers / Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18893
+GEO:-34.200825497085;150.792537962811
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18874@eventor.orienteering.asn.au

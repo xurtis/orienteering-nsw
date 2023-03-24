@@ -910,7 +910,7 @@ UID:Event_18583@eventor.orienteering.asn.au
 DTSTAMP:20230128T063044Z
 DTSTART:20230416T000000Z
 DTEND:20230416T033000Z
-SUMMARY:Waggaroos - AWOC Interclub #2, Yackandandah, Wagga and Riverina Occasional Orienteers
+SUMMARY:Waggaroos - AWOC Interclub #2, Yackandandah, Albury-Wodonga Orienteering Club / Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18583
 END:VEVENT
 BEGIN:VEVENT
@@ -1220,7 +1220,7 @@ UID:Event_18591@eventor.orienteering.asn.au
 DTSTAMP:20230129T023140Z
 DTSTART:20230625T000000Z
 DTEND:20230625T033000Z
-SUMMARY:Waggaroos - AWOC Interclub #4, Walbundrie, Wagga and Riverina Occasional Orienteers
+SUMMARY:Waggaroos - AWOC Interclub #4, Walbundrie, Albury-Wodonga Orienteering Club / Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18591
 END:VEVENT
 BEGIN:VEVENT
@@ -1403,7 +1403,7 @@ UID:Event_18593@eventor.orienteering.asn.au
 DTSTAMP:20230129T023516Z
 DTSTART:20230813T000000Z
 DTEND:20230813T033000Z
-SUMMARY:Waggaroos - AWOC Interclub #6, Nail Can Hill, Wagga and Riverina Occasional Orienteers
+SUMMARY:Waggaroos - AWOC Interclub #6, Nail Can Hill, Albury-Wodonga Orienteering Club / Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18593
 END:VEVENT
 BEGIN:VEVENT
@@ -1414,6 +1414,15 @@ DTEND:20230813T040000Z
 SUMMARY:Sawmill Ck, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18797
 GEO:-30.6154292392018;151.943603095442
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18892@eventor.orienteering.asn.au
+DTSTAMP:20230324T100634Z
+DTSTART:20230813T003000Z
+DTEND:20230813T030000Z
+SUMMARY:Highlands Forest Series #4 - Soapy Flat, near Mittagong, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18892
+GEO:-34.4021752122608;150.379284655469
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17826@eventor.orienteering.asn.au
@@ -1473,6 +1482,15 @@ DTSTART:20230903T000000Z
 DTEND:20230903T033000Z
 SUMMARY:Waggaroos Local event, Victory Memorial Gardens, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18595
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18893@eventor.orienteering.asn.au
+DTSTAMP:20230324T102129Z
+DTSTART:20230903T003000Z
+DTEND:20230903T030000Z
+SUMMARY:Highlands Forest Series #5 - Appin, Illawarra Kareelah Orienteers / Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18893
+GEO:-34.200825497085;150.792537962811
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17714@eventor.orienteering.asn.au

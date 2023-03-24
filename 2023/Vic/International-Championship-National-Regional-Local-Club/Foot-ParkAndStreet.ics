@@ -774,7 +774,7 @@ GEO:-37.5792771812795;143.891445139178
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18246@eventor.orienteering.asn.au
-DTSTAMP:20230322T035044Z
+DTSTAMP:20230324T025801Z
 DTSTART:20230402T000000Z
 DTEND:20230402T040000Z
 SUMMARY:Victorian Club Relays - Team Entries - Woowookarung, Ballarat, Eureka Orienteers
@@ -849,6 +849,14 @@ DTSTART:20230415T040000Z
 DTEND:20230415T051000Z
 SUMMARY:Melbourne Park Street Saturday Series - Croydon Greens, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18516
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18583@eventor.orienteering.asn.au
+DTSTAMP:20230128T063044Z
+DTSTART:20230416T000000Z
+DTEND:20230416T033000Z
+SUMMARY:Waggaroos - AWOC Interclub #2, Yackandandah, Albury-Wodonga Orienteering Club / Wagga and Riverina Occasional Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18583
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18612@eventor.orienteering.asn.au
@@ -1101,6 +1109,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18641
 GEO:-37.5428542049789;143.895493942536
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18591@eventor.orienteering.asn.au
+DTSTAMP:20230129T023140Z
+DTSTART:20230625T000000Z
+DTEND:20230625T033000Z
+SUMMARY:Waggaroos - AWOC Interclub #4, Walbundrie, Albury-Wodonga Orienteering Club / Wagga and Riverina Occasional Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18591
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18391@eventor.orienteering.asn.au
 DTSTAMP:20230106T113603Z
 DTSTART:20230701T023000Z
@@ -1234,6 +1250,14 @@ DTEND:20230813T000000Z
 SUMMARY:MelBushO 9 - Cardinia Reservoir Park, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18448
 GEO:-37.9564781495329;145.382141642718
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18593@eventor.orienteering.asn.au
+DTSTAMP:20230129T023516Z
+DTSTART:20230813T000000Z
+DTEND:20230813T033000Z
+SUMMARY:Waggaroos - AWOC Interclub #6, Nail Can Hill, Albury-Wodonga Orienteering Club / Wagga and Riverina Occasional Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18593
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18398@eventor.orienteering.asn.au
