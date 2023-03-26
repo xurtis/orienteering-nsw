@@ -1139,7 +1139,7 @@ GEO:-34.5084563672071;150.40761969796
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18308@eventor.orienteering.asn.au
-DTSTAMP:20230119T004505Z
+DTSTAMP:20230325T234431Z
 DTSTART:20230325T220000Z
 DTEND:20230325T233000Z
 SUMMARY:ACT Sprint Series #5, Daramalan College, Orienteering ACT
@@ -1148,7 +1148,7 @@ GEO:-35.253688032596;149.138760335568
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17752@eventor.orienteering.asn.au
-DTSTAMP:20230205T080735Z
+DTSTAMP:20230326T022604Z
 DTSTART:20230325T223000Z
 DTEND:20230325T223000Z
 SUMMARY:2023 NSW State League #2 - Middle Distance, Uringa Orienteers
@@ -1157,10 +1157,10 @@ GEO:-34.5307847844207;150.210218028659
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18659@eventor.orienteering.asn.au
-DTSTAMP:20230320T105252Z
+DTSTAMP:20230326T092613Z
 DTSTART:20230325T230000Z
 DTEND:20230326T050000Z
-SUMMARY:MTBO Vic Series #1 - Maryborough, Bayside Kangaroos Orienteers / Eureka Orienteers
+SUMMARY:MTBO Vic Series #1 - Maryborough - Race 1, Bayside Kangaroos Orienteers / Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18659
 GEO:-37.0552389803869;143.743587987092
 END:VEVENT
@@ -1441,6 +1441,14 @@ SUMMARY:ACT MapRun Street Series: TBA, 2 Apr - 1 May, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18856
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18898@eventor.orienteering.asn.au
+DTSTAMP:20230326T000320Z
+DTSTART:20230505T233000Z
+DTEND:20230505T233000Z
+SUMMARY:Saturday Orienteering Term 2 #1, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/18898
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17857@eventor.orienteering.asn.au
 DTSTAMP:20220906T013922Z
 DTSTART:20230506T003000Z
@@ -1471,6 +1479,14 @@ DTSTART:20230508T230000Z
 DTEND:20230509T033000Z
 SUMMARY:Riverina Schools Championships, Willan's Hill, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18586
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18899@eventor.orienteering.asn.au
+DTSTAMP:20230326T000514Z
+DTSTART:20230512T233000Z
+DTEND:20230512T233000Z
+SUMMARY:Saturday Orienteering Term 2 #2, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/18899
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17858@eventor.orienteering.asn.au
@@ -1589,6 +1605,14 @@ SUMMARY:ACT MapRun Street Series: TBA, 18-22 May, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18859
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18900@eventor.orienteering.asn.au
+DTSTAMP:20230326T000723Z
+DTSTART:20230526T233000Z
+DTEND:20230526T233000Z
+SUMMARY:Saturday Orienteering Term 2 #3 Maze Race Week, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/18900
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17860@eventor.orienteering.asn.au
 DTSTAMP:20220906T013950Z
 DTSTART:20230527T003000Z
@@ -1654,6 +1678,14 @@ DTEND:20230601T064500Z
 SUMMARY:HIGH SC-ORE #1: Melba Secondary School, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18805
 GEO:-35.213607162506;149.049461903176
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18901@eventor.orienteering.asn.au
+DTSTAMP:20230326T000903Z
+DTSTART:20230602T233000Z
+DTEND:20230602T233000Z
+SUMMARY:Saturday Orienteering Term 2 #4, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/18901
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17861@eventor.orienteering.asn.au

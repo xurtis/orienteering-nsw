@@ -3118,8 +3118,17 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18372
 GEO:-36.7083690507829;144.285672572536
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18192@eventor.orienteering.asn.au
+DTSTAMP:20230326T090813Z
+DTSTART:20230325T140000Z
+DTEND:20230326T140000Z
+SUMMARY:Nerang (bush), Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18192
+GEO:-27.9862458574041;153.331331610223
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18308@eventor.orienteering.asn.au
-DTSTAMP:20230119T004505Z
+DTSTAMP:20230325T234431Z
 DTSTART:20230325T220000Z
 DTEND:20230325T233000Z
 SUMMARY:ACT Sprint Series #5, Daramalan College, Orienteering ACT
@@ -3135,22 +3144,22 @@ SUMMARY:MFR Training Day - Chewton Diggings, Melbourne Forest Racers
 URL:https://eventor.orienteering.asn.au/Events/Show/18848
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18192@eventor.orienteering.asn.au
-DTSTAMP:20230310T045300Z
-DTSTART:20230325T230000Z
-DTEND:20230325T230000Z
-SUMMARY:Nerang (bush), Paradise Lost Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18192
-GEO:-27.9862458574041;153.331331610223
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18176@eventor.orienteering.asn.au
-DTSTAMP:20230322T024451Z
+DTSTAMP:20230326T023207Z
 DTSTART:20230325T230000Z
 DTEND:20230326T023000Z
 SUMMARY:Belair National Park, Wallaringa Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18176
 GEO:-35.0096415117389;138.635907678694
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18902@eventor.orienteering.asn.au
+DTSTAMP:20230326T093809Z
+DTSTART:20230325T230000Z
+DTEND:20230326T050000Z
+SUMMARY:MTBO Vic Series #1 - Maryborough - Race 2, Bayside Kangaroos Orienteers / Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18902
+GEO:-37.0552333294225;143.744640721622
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18557@eventor.orienteering.asn.au
@@ -3163,7 +3172,7 @@ GEO:-41.1518729414029;146.175267185053
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18647@eventor.orienteering.asn.au
-DTSTAMP:20230313T024639Z
+DTSTAMP:20230326T031803Z
 DTSTART:20230326T010000Z
 DTEND:20230326T050000Z
 SUMMARY:NavDash 3 North Lake SC, Kulgun 225 Orienteers / Orienteering WA
@@ -3181,7 +3190,7 @@ GEO:-27.314015;152.995568
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18850@eventor.orienteering.asn.au
-DTSTAMP:20230318T024345Z
+DTSTAMP:20230326T100129Z
 DTSTART:20230326T073000Z
 DTEND:20230326T093000Z
 SUMMARY:Australind Primary School (SWOT Urban Series 6), South-West Orienteering Trekkers
@@ -3243,7 +3252,7 @@ GEO:-26.4093512014164;153.060006312386
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18826@eventor.orienteering.asn.au
-DTSTAMP:20230315T114224Z
+DTSTAMP:20230326T030436Z
 DTSTART:20230328T130000Z
 DTEND:20230329T130000Z
 SUMMARY:First Basin Autumn Twilight Series #6 , Esk Valley
@@ -3998,6 +4007,14 @@ SUMMARY:Central Adelaide Schools Zone Event 5 - Pityarilla (Marshmallow Park), O
 URL:https://eventor.orienteering.asn.au/Events/Show/18894
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18898@eventor.orienteering.asn.au
+DTSTAMP:20230326T000320Z
+DTSTART:20230505T233000Z
+DTEND:20230505T233000Z
+SUMMARY:Saturday Orienteering Term 2 #1, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/18898
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17857@eventor.orienteering.asn.au
 DTSTAMP:20220906T013922Z
 DTSTART:20230506T003000Z
@@ -4131,6 +4148,14 @@ DTEND:20230511T073000Z
 SUMMARY:Central Adelaide Schools Zone Event 6 - Park 21 West, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18895
 GEO:-34.9396760037316;138.593417538091
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18899@eventor.orienteering.asn.au
+DTSTAMP:20230326T000514Z
+DTSTART:20230512T233000Z
+DTEND:20230512T233000Z
+SUMMARY:Saturday Orienteering Term 2 #2, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/18899
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17858@eventor.orienteering.asn.au
@@ -4406,6 +4431,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18897
 GEO:-34.9297714618054;138.587190450567
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18900@eventor.orienteering.asn.au
+DTSTAMP:20230326T000723Z
+DTSTART:20230526T233000Z
+DTEND:20230526T233000Z
+SUMMARY:Saturday Orienteering Term 2 #3 Maze Race Week, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/18900
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18374@eventor.orienteering.asn.au
 DTSTAMP:20230321T001554Z
 DTSTART:20230527T003000Z
@@ -4531,6 +4564,14 @@ DTEND:20230601T064500Z
 SUMMARY:HIGH SC-ORE #1: Melba Secondary School, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18805
 GEO:-35.213607162506;149.049461903176
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18901@eventor.orienteering.asn.au
+DTSTAMP:20230326T000903Z
+DTSTART:20230602T233000Z
+DTEND:20230602T233000Z
+SUMMARY:Saturday Orienteering Term 2 #4, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/18901
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17861@eventor.orienteering.asn.au
