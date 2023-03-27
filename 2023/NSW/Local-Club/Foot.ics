@@ -1048,6 +1048,7 @@ DTSTART:20230607T073000Z
 DTEND:20230607T094500Z
 SUMMARY:Moonlight Madness #2 - Celebrate VIVID, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18890
+GEO:-33.8403149932765;151.215328648226
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18589@eventor.orienteering.asn.au
@@ -1101,6 +1102,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18777
 GEO:-30.3008462088598;153.118238993898
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18906@eventor.orienteering.asn.au
+DTSTAMP:20230327T085257Z
+DTSTART:20230623T140000Z
+DTEND:20230624T140000Z
+SUMMARY:WHO 40th Birthday, Western and Hills Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18906
+GEO:-33.7630355805982;151.004454380812
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18666@eventor.orienteering.asn.au
 DTSTAMP:20230207T005319Z
 DTSTART:20230624T233000Z
@@ -1134,6 +1144,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18795
 GEO:-30.4628561245573;151.319724156558
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18907@eventor.orienteering.asn.au
+DTSTAMP:20230327T091936Z
+DTSTART:20230701T220000Z
+DTEND:20230702T023000Z
+SUMMARY:2023 Sydney Metropolitan Turkey Trot, Western and Hills Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18907
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18841@eventor.orienteering.asn.au
 DTSTAMP:20230317T001746Z
 DTSTART:20230701T233000Z
@@ -1149,6 +1167,15 @@ DTEND:20230702T000000Z
 SUMMARY:Bush event #5 Botanic Gardens, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18884
 GEO:-33.2572761256439;149.096910307928
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18903@eventor.orienteering.asn.au
+DTSTAMP:20230327T040428Z
+DTSTART:20230705T073000Z
+DTEND:20230705T094500Z
+SUMMARY:Moonlight Madness #3, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18903
+GEO:-33.8394623969007;151.127158094182
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18828@eventor.orienteering.asn.au
@@ -1244,11 +1271,12 @@ GEO:-30.341660264763;152.709510431938
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18677@eventor.orienteering.asn.au
-DTSTAMP:20230207T024359Z
+DTSTAMP:20230326T182314Z
 DTSTART:20230805T233000Z
 DTEND:20230805T233000Z
 SUMMARY:2023 Metro League #5, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18677
+GEO:-33.8925333956362;150.979691423042
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18844@eventor.orienteering.asn.au
@@ -1332,6 +1360,14 @@ DTSTART:20230820T000000Z
 DTEND:20230820T033000Z
 SUMMARY:Waggaroos Local event, Pomingalarna, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18594
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18904@eventor.orienteering.asn.au
+DTSTAMP:20230327T041100Z
+DTSTART:20230830T070000Z
+DTEND:20230830T094500Z
+SUMMARY:Moonlight Madness #5, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18904
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18886@eventor.orienteering.asn.au
