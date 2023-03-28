@@ -1036,6 +1036,7 @@ DTSTART:20230401T230000Z
 DTEND:20230402T003000Z
 SUMMARY:ACT Sprint Series #6, Harrison Primary, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18309
+GEO:-35.2010619373078;149.152374196377
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18310@eventor.orienteering.asn.au
@@ -1100,14 +1101,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18719
 GEO:-33.8453628418841;151.074846083098
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18528@eventor.orienteering.asn.au
-DTSTAMP:20230122T013408Z
-DTSTART:20230422T140000Z
-DTEND:20230423T140000Z
-SUMMARY:Central Plateau - Clarence River Marshes - OST 3, Australopers
-URL:https://eventor.orienteering.asn.au/Events/Show/18528
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18834@eventor.orienteering.asn.au
 DTSTAMP:20230316T235048Z
 DTSTART:20230422T140000Z
@@ -1122,6 +1115,15 @@ DTSTART:20230422T233000Z
 DTEND:20230422T233000Z
 SUMMARY:2023 Metro League #1, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18674
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18528@eventor.orienteering.asn.au
+DTSTAMP:20230328T114432Z
+DTSTART:20230423T000000Z
+DTEND:20230423T033000Z
+SUMMARY:Central Plateau - Clarence River Marshes - OST 3, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/18528
+GEO:-42.132521196362;146.330927596722
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18618@eventor.orienteering.asn.au
@@ -1526,6 +1528,14 @@ SUMMARY:Closed School Event, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18548
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18908@eventor.orienteering.asn.au
+DTSTAMP:20230328T051629Z
+DTSTART:20230620T233000Z
+DTEND:20230620T233000Z
+SUMMARY:Sydney South West Secondary Schools Orienteering Championships, Orienteering NSW / Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18908
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18808@eventor.orienteering.asn.au
 DTSTAMP:20230309T002049Z
 DTSTART:20230622T060000Z
@@ -1573,6 +1583,14 @@ DTSTART:20230624T233000Z
 DTEND:20230624T233000Z
 SUMMARY:Newcastle OY5, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18840
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18909@eventor.orienteering.asn.au
+DTSTAMP:20230328T052218Z
+DTSTART:20230627T233000Z
+DTEND:20230627T233000Z
+SUMMARY:Sydney South West Primary Schools Orienteering Championships, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/18909
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17864@eventor.orienteering.asn.au
@@ -1714,6 +1732,30 @@ DTEND:20230731T030000Z
 SUMMARY:test event, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18789
 GEO:-30.341660264763;152.709510431938
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18910@eventor.orienteering.asn.au
+DTSTAMP:20230328T052608Z
+DTSTART:20230801T233000Z
+DTEND:20230801T233000Z
+SUMMARY:Sydney West Primary Schools Orienteering Champs A, Bold Horizons Event Organiser / Western and Hills Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18910
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18911@eventor.orienteering.asn.au
+DTSTAMP:20230328T052831Z
+DTSTART:20230802T233000Z
+DTEND:20230802T233000Z
+SUMMARY:Sydney West Primary Schools Orienteering Champs B, Bold Horizons Event Organiser / Western and Hills Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18911
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18912@eventor.orienteering.asn.au
+DTSTAMP:20230328T053240Z
+DTSTART:20230803T233000Z
+DTEND:20230803T233000Z
+SUMMARY:Sydney West Secondary Schools Orienteering Championships, Bold Horizons Event Organiser / Western and Hills Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18912
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17867@eventor.orienteering.asn.au

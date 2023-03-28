@@ -792,7 +792,7 @@ GEO:-35.1333979490755;147.369039438832
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18830@eventor.orienteering.asn.au
-DTSTAMP:20230324T225617Z
+DTSTAMP:20230328T001526Z
 DTSTART:20230401T233000Z
 DTEND:20230402T030000Z
 SUMMARY:NOY1 - Southams Road West, Newcastle Orienteering Club
@@ -851,6 +851,15 @@ DTSTART:20230416T000000Z
 DTEND:20230416T033000Z
 SUMMARY:Waggaroos - AWOC Interclub #2, Yackandandah, Albury-Wodonga Orienteering Club / Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18583
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18913@eventor.orienteering.asn.au
+DTSTAMP:20230328T102705Z
+DTSTART:20230416T010000Z
+DTEND:20230416T030000Z
+SUMMARY:Crestwood Orienteering, Hastings Orienteering Group
+URL:https://eventor.orienteering.asn.au/Events/Show/18913
+GEO:-31.4746941309725;152.897651397235
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18714@eventor.orienteering.asn.au
@@ -1003,6 +1012,15 @@ SUMMARY:Waggaroos Local event, Willan's Hill, Wagga and Riverina Occasional Orie
 URL:https://eventor.orienteering.asn.au/Events/Show/18587
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18914@eventor.orienteering.asn.au
+DTSTAMP:20230328T103659Z
+DTSTART:20230514T010000Z
+DTEND:20230514T030000Z
+SUMMARY:Laurieton Orienteering, Hastings Orienteering Group
+URL:https://eventor.orienteering.asn.au/Events/Show/18914
+GEO:-31.6472896548838;152.801862901445
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18785@eventor.orienteering.asn.au
 DTSTAMP:20230314T053204Z
 DTSTART:20230519T135900Z
@@ -1120,6 +1138,23 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18827
 GEO:-34.4379617381304;150.428766047376
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18915@eventor.orienteering.asn.au
+DTSTAMP:20230328T104217Z
+DTSTART:20230618T010000Z
+DTEND:20230618T030000Z
+SUMMARY:Bago Orienteering, Hastings Orienteering Group
+URL:https://eventor.orienteering.asn.au/Events/Show/18915
+GEO:-31.4697183183542;152.731041854616
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18908@eventor.orienteering.asn.au
+DTSTAMP:20230328T051629Z
+DTSTART:20230620T233000Z
+DTEND:20230620T233000Z
+SUMMARY:Sydney South West Secondary Schools Orienteering Championships, Orienteering NSW / Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18908
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18777@eventor.orienteering.asn.au
 DTSTAMP:20230227T042909Z
 DTSTART:20230622T080000Z
@@ -1169,6 +1204,14 @@ DTEND:20230625T040000Z
 SUMMARY:Mt Brown, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18795
 GEO:-30.4628561245573;151.319724156558
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18909@eventor.orienteering.asn.au
+DTSTAMP:20230328T052218Z
+DTSTART:20230627T233000Z
+DTEND:20230627T233000Z
+SUMMARY:Sydney South West Primary Schools Orienteering Championships, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/18909
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18907@eventor.orienteering.asn.au
@@ -1255,6 +1298,15 @@ SUMMARY:2023 Metro League #4, Bennelong Northside Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18676
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18916@eventor.orienteering.asn.au
+DTSTAMP:20230328T104616Z
+DTSTART:20230723T010000Z
+DTEND:20230723T030000Z
+SUMMARY:Tacking Point Orienteering, Hastings Orienteering Group
+URL:https://eventor.orienteering.asn.au/Events/Show/18916
+GEO:-31.4748987152896;152.933381764834
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18843@eventor.orienteering.asn.au
 DTSTAMP:20230317T002259Z
 DTSTART:20230724T233000Z
@@ -1295,6 +1347,30 @@ DTEND:20230731T030000Z
 SUMMARY:test event, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18789
 GEO:-30.341660264763;152.709510431938
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18910@eventor.orienteering.asn.au
+DTSTAMP:20230328T052608Z
+DTSTART:20230801T233000Z
+DTEND:20230801T233000Z
+SUMMARY:Sydney West Primary Schools Orienteering Champs A, Bold Horizons Event Organiser / Western and Hills Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18910
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18911@eventor.orienteering.asn.au
+DTSTAMP:20230328T052831Z
+DTSTART:20230802T233000Z
+DTEND:20230802T233000Z
+SUMMARY:Sydney West Primary Schools Orienteering Champs B, Bold Horizons Event Organiser / Western and Hills Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18911
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18912@eventor.orienteering.asn.au
+DTSTAMP:20230328T053240Z
+DTSTART:20230803T233000Z
+DTEND:20230803T233000Z
+SUMMARY:Sydney West Secondary Schools Orienteering Championships, Bold Horizons Event Organiser / Western and Hills Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18912
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18677@eventor.orienteering.asn.au
@@ -1389,6 +1465,15 @@ SUMMARY:Waggaroos Local event, Pomingalarna, Wagga and Riverina Occasional Orien
 URL:https://eventor.orienteering.asn.au/Events/Show/18594
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18917@eventor.orienteering.asn.au
+DTSTAMP:20230328T104817Z
+DTSTART:20230820T010000Z
+DTEND:20230820T030000Z
+SUMMARY:Kooloonbung Creek Orienteering, Hastings Orienteering Group
+URL:https://eventor.orienteering.asn.au/Events/Show/18917
+GEO:-31.4349289662411;152.907338203876
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18904@eventor.orienteering.asn.au
 DTSTAMP:20230327T041100Z
 DTSTART:20230830T070000Z
@@ -1465,6 +1550,15 @@ SUMMARY:Waggaroos Local event, Willan's Hill, Wagga and Riverina Occasional Orie
 URL:https://eventor.orienteering.asn.au/Events/Show/18596
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18918@eventor.orienteering.asn.au
+DTSTAMP:20230328T105224Z
+DTSTART:20230917T010000Z
+DTEND:20230917T030000Z
+SUMMARY:Lake Cathie Orienteering, Hastings Orienteering Group
+URL:https://eventor.orienteering.asn.au/Events/Show/18918
+GEO:-31.546068852906;152.85695547461
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18846@eventor.orienteering.asn.au
 DTSTAMP:20230317T002929Z
 DTSTART:20230923T233000Z
@@ -1512,6 +1606,15 @@ DTSTART:20231014T230000Z
 DTEND:20231015T023000Z
 SUMMARY:Waggaroos Local event, Livingstone, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18598
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18919@eventor.orienteering.asn.au
+DTSTAMP:20230328T105437Z
+DTSTART:20231022T000000Z
+DTEND:20231022T020000Z
+SUMMARY:Bago Orienteering, Hastings Orienteering Group
+URL:https://eventor.orienteering.asn.au/Events/Show/18919
+GEO:-31.4687320333966;152.723534247102
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18412@eventor.orienteering.asn.au

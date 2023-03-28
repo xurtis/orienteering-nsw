@@ -639,6 +639,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18888
 GEO:-30.2893780132759;153.114384894
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18908@eventor.orienteering.asn.au
+DTSTAMP:20230328T051629Z
+DTSTART:20230620T233000Z
+DTEND:20230620T233000Z
+SUMMARY:Sydney South West Secondary Schools Orienteering Championships, Orienteering NSW / Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18908
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18777@eventor.orienteering.asn.au
 DTSTAMP:20230227T042909Z
 DTSTART:20230622T080000Z
@@ -646,6 +654,14 @@ DTEND:20230622T093000Z
 SUMMARY:Coffs Winter Solstice Night-O, Bush n Beach Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18777
 GEO:-30.3008462088598;153.118238993898
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18909@eventor.orienteering.asn.au
+DTSTAMP:20230328T052218Z
+DTSTART:20230627T233000Z
+DTEND:20230627T233000Z
+SUMMARY:Sydney South West Primary Schools Orienteering Championships, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/18909
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18907@eventor.orienteering.asn.au
@@ -679,6 +695,30 @@ DTEND:20230731T030000Z
 SUMMARY:test event, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18789
 GEO:-30.341660264763;152.709510431938
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18910@eventor.orienteering.asn.au
+DTSTAMP:20230328T052608Z
+DTSTART:20230801T233000Z
+DTEND:20230801T233000Z
+SUMMARY:Sydney West Primary Schools Orienteering Champs A, Bold Horizons Event Organiser / Western and Hills Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18910
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18911@eventor.orienteering.asn.au
+DTSTAMP:20230328T052831Z
+DTSTART:20230802T233000Z
+DTEND:20230802T233000Z
+SUMMARY:Sydney West Primary Schools Orienteering Champs B, Bold Horizons Event Organiser / Western and Hills Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18911
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18912@eventor.orienteering.asn.au
+DTSTAMP:20230328T053240Z
+DTSTART:20230803T233000Z
+DTEND:20230803T233000Z
+SUMMARY:Sydney West Secondary Schools Orienteering Championships, Bold Horizons Event Organiser / Western and Hills Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18912
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18695@eventor.orienteering.asn.au
