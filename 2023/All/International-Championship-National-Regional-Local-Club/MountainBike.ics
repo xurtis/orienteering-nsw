@@ -138,6 +138,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18902
 GEO:-37.0552333294225;143.744640721622
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18702@eventor.orienteering.asn.au
+DTSTAMP:20230328T143148Z
+DTSTART:20230401T160000Z
+DTEND:20230402T160000Z
+SUMMARY:MTBO 1 Applecross Attadale, Kulgun 225 Orienteers / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/18702
+GEO:-32.0241445132084;115.812233263872
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17936@eventor.orienteering.asn.au
 DTSTAMP:20230207T033513Z
 DTSTART:20230401T223000Z
@@ -145,15 +154,6 @@ DTEND:20230401T223000Z
 SUMMARY:MTBO Sugarbag Road, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/17936
 GEO:-26.7938911243511;153.123951307545
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18702@eventor.orienteering.asn.au
-DTSTAMP:20230315T010517Z
-DTSTART:20230402T013000Z
-DTEND:20230402T030000Z
-SUMMARY:MTBO 1 Applecross Attadale, Kulgun 225 Orienteers / Orienteering WA
-URL:https://eventor.orienteering.asn.au/Events/Show/18702
-GEO:-32.0241445132084;115.812233263872
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18115@eventor.orienteering.asn.au

@@ -1951,7 +1951,7 @@ GEO:-26.4093512014164;153.060006312386
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17798@eventor.orienteering.asn.au
-DTSTAMP:20230323T054908Z
+DTSTAMP:20230329T111332Z
 DTSTART:20230329T053000Z
 DTEND:20230329T083000Z
 SUMMARY:2022/23 Sydney Summer Series #26 Gordon, Bennelong Northside Orienteers
@@ -2168,7 +2168,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18502
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18714@eventor.orienteering.asn.au
-DTSTAMP:20230228T002637Z
+DTSTAMP:20230329T032610Z
 DTSTART:20230420T020000Z
 DTEND:20230423T020000Z
 SUMMARY:Bluebottles Junior Orienteering Training Camp, Newcastle Orienteering Club / Orienteering NSW
@@ -2177,11 +2177,12 @@ GEO:-32.6311085616595;151.591346187545
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18855@eventor.orienteering.asn.au
-DTSTAMP:20230328T013642Z
+DTSTAMP:20230329T001909Z
 DTSTART:20230424T070000Z
 DTEND:20230424T091500Z
-SUMMARY:ACT MapRun Street Series: TBA, 20-24 Apr, Orienteering ACT
+SUMMARY:ACT MapRun Street Series: Northwest Kambah, 20-24 Apr, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18855
+GEO:-35.3830766906157;149.050347510716
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18499@eventor.orienteering.asn.au
@@ -2222,7 +2223,7 @@ DTSTART:20230429T040000Z
 DTEND:20230429T040000Z
 SUMMARY:Port Elliot, Onkaparinga Hills Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18376
-GEO:-35.5321617577696;138.686414376724
+GEO:-35.5360131282948;138.682575028227
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18517@eventor.orienteering.asn.au
@@ -2234,11 +2235,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18517
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18856@eventor.orienteering.asn.au
-DTSTAMP:20230328T013644Z
+DTSTAMP:20230329T002103Z
 DTSTART:20230501T070000Z
 DTEND:20230501T091500Z
-SUMMARY:ACT MapRun Street Series: TBA, 2 Apr - 1 May, Orienteering ACT
+SUMMARY:ACT MapRun Street Series: Lyneham, 2 Apr - 1 May, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18856
+GEO:-35.2519949488316;149.125343366529
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18511@eventor.orienteering.asn.au
@@ -2259,10 +2261,10 @@ GEO:-27.6016101334277;153.146470214014
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18857@eventor.orienteering.asn.au
-DTSTAMP:20230328T013646Z
+DTSTAMP:20230329T002149Z
 DTSTART:20230508T070000Z
 DTEND:20230508T091500Z
-SUMMARY:ACT MapRun Street Series: TBA, 4-8 May, Orienteering ACT
+SUMMARY:ACT MapRun Street Series: Hawker, 4-8 May, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18857
 END:VEVENT
 BEGIN:VEVENT
@@ -2299,11 +2301,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18342
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18858@eventor.orienteering.asn.au
-DTSTAMP:20230328T013649Z
+DTSTAMP:20230329T002229Z
 DTSTART:20230515T070000Z
 DTEND:20230515T091500Z
-SUMMARY:ACT MapRun Street Series: TBA, 11-15 May, Orienteering ACT
+SUMMARY:ACT MapRun Street Series: Gilmore, 11-15 May, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18858
+GEO:-35.4137935207635;149.129538128106
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18513@eventor.orienteering.asn.au
@@ -2546,6 +2549,14 @@ DTSTART:20230801T233000Z
 DTEND:20230801T233000Z
 SUMMARY:Sydney West Primary Schools Orienteering Champs A, Bold Horizons Event Organiser / Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18910
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18920@eventor.orienteering.asn.au
+DTSTAMP:20230328T214252Z
+DTSTART:20230802T073000Z
+DTEND:20230802T094500Z
+SUMMARY:Moonlight Madness #4 - Location TBC, Bennelong Northside Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18920
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18911@eventor.orienteering.asn.au

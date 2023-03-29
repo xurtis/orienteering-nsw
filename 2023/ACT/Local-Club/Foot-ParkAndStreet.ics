@@ -373,11 +373,12 @@ GEO:-35.2197797589116;149.1036072784
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18855@eventor.orienteering.asn.au
-DTSTAMP:20230328T013642Z
+DTSTAMP:20230329T001909Z
 DTSTART:20230424T070000Z
 DTEND:20230424T091500Z
-SUMMARY:ACT MapRun Street Series: TBA, 20-24 Apr, Orienteering ACT
+SUMMARY:ACT MapRun Street Series: Northwest Kambah, 20-24 Apr, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18855
+GEO:-35.3830766906157;149.050347510716
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18613@eventor.orienteering.asn.au
@@ -406,11 +407,12 @@ GEO:-35.2810067741941;149.174659942669
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18856@eventor.orienteering.asn.au
-DTSTAMP:20230328T013644Z
+DTSTAMP:20230329T002103Z
 DTSTART:20230501T070000Z
 DTEND:20230501T091500Z
-SUMMARY:ACT MapRun Street Series: TBA, 2 Apr - 1 May, Orienteering ACT
+SUMMARY:ACT MapRun Street Series: Lyneham, 2 Apr - 1 May, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18856
+GEO:-35.2519949488316;149.125343366529
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17857@eventor.orienteering.asn.au
@@ -422,10 +424,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17857
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18857@eventor.orienteering.asn.au
-DTSTAMP:20230328T013646Z
+DTSTAMP:20230329T002149Z
 DTSTART:20230508T070000Z
 DTEND:20230508T091500Z
-SUMMARY:ACT MapRun Street Series: TBA, 4-8 May, Orienteering ACT
+SUMMARY:ACT MapRun Street Series: Hawker, 4-8 May, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18857
 END:VEVENT
 BEGIN:VEVENT
@@ -438,11 +440,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17858
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18858@eventor.orienteering.asn.au
-DTSTAMP:20230328T013649Z
+DTSTAMP:20230329T002229Z
 DTSTART:20230515T070000Z
 DTEND:20230515T091500Z
-SUMMARY:ACT MapRun Street Series: TBA, 11-15 May, Orienteering ACT
+SUMMARY:ACT MapRun Street Series: Gilmore, 11-15 May, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18858
+GEO:-35.4137935207635;149.129538128106
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17859@eventor.orienteering.asn.au
@@ -496,10 +499,10 @@ GEO:-35.213607162506;149.049461903176
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17861@eventor.orienteering.asn.au
-DTSTAMP:20220906T014004Z
+DTSTAMP:20230328T224022Z
 DTSTART:20230603T003000Z
 DTEND:20230603T030000Z
-SUMMARY:ACT Metro Series: Junior League #6, Campbell Park, Parawanga Orienteers
+SUMMARY:ACT Metro Series: Junior League #6, Mt Jerrabomberra, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17861
 END:VEVENT
 BEGIN:VEVENT
@@ -640,10 +643,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18869
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17867@eventor.orienteering.asn.au
-DTSTAMP:20220906T014148Z
+DTSTAMP:20230328T224222Z
 DTSTART:20230805T003000Z
 DTEND:20230805T030000Z
-SUMMARY:ACT Metro Series: Junior League #12, TBA, CBR Cockatoos
+SUMMARY:ACT Metro Series: Junior League #12, Narrabundah Hill, Weston Emus
 URL:https://eventor.orienteering.asn.au/Events/Show/17867
 END:VEVENT
 BEGIN:VEVENT
@@ -656,10 +659,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18870
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17868@eventor.orienteering.asn.au
-DTSTAMP:20220906T014200Z
+DTSTAMP:20230328T224258Z
 DTSTART:20230812T003000Z
 DTEND:20230812T030000Z
-SUMMARY:ACT Metro Series: Junior League #13, TBA, Abominable O-Men
+SUMMARY:ACT Metro Series: Junior League #13, Fadden Pines, Abominable O-Men
 URL:https://eventor.orienteering.asn.au/Events/Show/17868
 END:VEVENT
 BEGIN:VEVENT
@@ -687,6 +690,14 @@ SUMMARY:ACT Metro Series: Junior League #14, Cooleman Ridge, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/17869
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_17871@eventor.orienteering.asn.au
+DTSTAMP:20230329T001327Z
+DTSTART:20230826T003100Z
+DTEND:20230826T003200Z
+SUMMARY:ACT Metro Series Season Pass, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/17871
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18873@eventor.orienteering.asn.au
 DTSTAMP:20230328T013720Z
 DTSTART:20230828T070000Z
@@ -696,19 +707,11 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18873
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17870@eventor.orienteering.asn.au
-DTSTAMP:20220906T014228Z
+DTSTAMP:20230328T224640Z
 DTSTART:20230902T003000Z
 DTEND:20230902T030000Z
-SUMMARY:ACT Metro Series: Junior League #15, Narrabundah Hill, Weston Emus
+SUMMARY:ACT Blue Lightning Event, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/17870
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_17871@eventor.orienteering.asn.au
-DTSTAMP:20220906T021722Z
-DTSTART:20230902T003100Z
-DTEND:20230902T003200Z
-SUMMARY:ACT Metro Series Season Pass, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/17871
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18874@eventor.orienteering.asn.au

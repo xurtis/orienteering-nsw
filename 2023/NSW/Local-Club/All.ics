@@ -774,7 +774,7 @@ GEO:-32.9979272580381;151.638284725781
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17798@eventor.orienteering.asn.au
-DTSTAMP:20230323T054908Z
+DTSTAMP:20230329T111332Z
 DTSTART:20230329T053000Z
 DTEND:20230329T083000Z
 SUMMARY:2022/23 Sydney Summer Series #26 Gordon, Bennelong Northside Orienteers
@@ -792,7 +792,7 @@ GEO:-35.1333979490755;147.369039438832
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18830@eventor.orienteering.asn.au
-DTSTAMP:20230328T001526Z
+DTSTAMP:20230329T085040Z
 DTSTART:20230401T233000Z
 DTEND:20230402T030000Z
 SUMMARY:NOY1 - Southams Road West, Newcastle Orienteering Club
@@ -854,7 +854,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18583
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18913@eventor.orienteering.asn.au
-DTSTAMP:20230328T102705Z
+DTSTAMP:20230328T232811Z
 DTSTART:20230416T010000Z
 DTEND:20230416T030000Z
 SUMMARY:Crestwood Orienteering, Hastings Orienteering Group
@@ -863,7 +863,7 @@ GEO:-31.4746941309725;152.897651397235
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18714@eventor.orienteering.asn.au
-DTSTAMP:20230228T002637Z
+DTSTAMP:20230329T032610Z
 DTSTART:20230420T020000Z
 DTEND:20230423T020000Z
 SUMMARY:Bluebottles Junior Orienteering Training Camp, Newcastle Orienteering Club / Orienteering NSW
@@ -1315,12 +1315,39 @@ SUMMARY:Newcastle Schools Championships, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18843
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18921@eventor.orienteering.asn.au
+DTSTAMP:20230328T230708Z
+DTSTART:20230729T000000Z
+DTEND:20230729T000000Z
+SUMMARY:Newcastle Shorts 1 - Belford, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18921
+GEO:-32.1184563261191;151.190732521672
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18922@eventor.orienteering.asn.au
+DTSTAMP:20230328T230848Z
+DTSTART:20230729T030000Z
+DTEND:20230729T030000Z
+SUMMARY:Newcastle Shorts 2 - Belford, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18922
+GEO:-32.647848331002;151.296344490412
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18689@eventor.orienteering.asn.au
 DTSTAMP:20230323T052342Z
 DTSTART:20230729T233000Z
 DTEND:20230729T233000Z
 SUMMARY:Come and Try It + Club Championship, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18689
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18923@eventor.orienteering.asn.au
+DTSTAMP:20230328T231022Z
+DTSTART:20230730T000000Z
+DTEND:20230730T000000Z
+SUMMARY:Newcastle Shorts 3 - Newcastle Uni, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18923
+GEO:-32.8962443430222;151.697807984999
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18592@eventor.orienteering.asn.au
@@ -1340,6 +1367,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18891
 GEO:-34.4311926297928;150.414389407056
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18924@eventor.orienteering.asn.au
+DTSTAMP:20230328T231147Z
+DTSTART:20230730T030000Z
+DTEND:20230730T030000Z
+SUMMARY:Newcastle Shorts 4 - Newcastle Uni, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18924
+GEO:-32.8955845517098;151.697854426536
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18789@eventor.orienteering.asn.au
 DTSTAMP:20230304T095051Z
 DTSTART:20230731T000000Z
@@ -1355,6 +1391,14 @@ DTSTART:20230801T233000Z
 DTEND:20230801T233000Z
 SUMMARY:Sydney West Primary Schools Orienteering Champs A, Bold Horizons Event Organiser / Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18910
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18920@eventor.orienteering.asn.au
+DTSTAMP:20230328T214252Z
+DTSTART:20230802T073000Z
+DTEND:20230802T094500Z
+SUMMARY:Moonlight Madness #4 - Location TBC, Bennelong Northside Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18920
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18911@eventor.orienteering.asn.au
