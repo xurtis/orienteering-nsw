@@ -137,7 +137,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18848
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18382@eventor.orienteering.asn.au
-DTSTAMP:20230219T101625Z
+DTSTAMP:20230401T040617Z
 DTSTART:20230401T013000Z
 DTEND:20230401T030000Z
 SUMMARY:Bendigo Bush 1 - Stumpy Gully, Bendigo Orienteers
@@ -163,6 +163,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18246
 GEO:-37.579869954156;143.892611898277
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18927@eventor.orienteering.asn.au
+DTSTAMP:20230401T114324Z
+DTSTART:20230414T230000Z
+DTEND:20230415T020000Z
+SUMMARY:Castlemaine CATI, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/18927
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18407@eventor.orienteering.asn.au
 DTSTAMP:20230313T010148Z
 DTSTART:20230415T023000Z
@@ -179,6 +187,14 @@ DTEND:20230416T033000Z
 SUMMARY:Waggaroos - AWOC Interclub #2, Yackandandah, Albury-Wodonga Orienteering Club / Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18583
 GEO:-36.3159627903989;146.869775972874
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18928@eventor.orienteering.asn.au
+DTSTAMP:20230401T114955Z
+DTSTART:20230421T230000Z
+DTEND:20230422T020000Z
+SUMMARY:Castlemaine CATI, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/18928
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18384@eventor.orienteering.asn.au
@@ -343,14 +359,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18641
 GEO:-37.5428542049789;143.895493942536
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18591@eventor.orienteering.asn.au
-DTSTAMP:20230129T023140Z
-DTSTART:20230625T000000Z
-DTEND:20230625T033000Z
-SUMMARY:Waggaroos - AWOC Interclub #4, Walbundrie, Albury-Wodonga Orienteering Club / Wagga and Riverina Occasional Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18591
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18391@eventor.orienteering.asn.au
 DTSTAMP:20230106T113603Z
 DTSTART:20230701T023000Z
@@ -394,6 +402,15 @@ DTEND:20230709T000000Z
 SUMMARY:Ballarat Winter Series #3 Federation Uni , Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18643
 GEO:-37.6248005967573;143.890436299191
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18591@eventor.orienteering.asn.au
+DTSTAMP:20230331T234834Z
+DTSTART:20230709T000000Z
+DTEND:20230709T033000Z
+SUMMARY:Waggaroos - AWOC Interclub #4, Walbundrie, Albury-Wodonga Orienteering Club / Wagga and Riverina Occasional Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18591
+GEO:-35.6911887410571;146.728053378467
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18393@eventor.orienteering.asn.au
@@ -487,11 +504,12 @@ GEO:-37.9564781495329;145.382141642718
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18593@eventor.orienteering.asn.au
-DTSTAMP:20230129T023516Z
+DTSTAMP:20230331T235903Z
 DTSTART:20230813T000000Z
 DTEND:20230813T033000Z
 SUMMARY:Waggaroos - AWOC Interclub #6, Nail Can Hill, Albury-Wodonga Orienteering Club / Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18593
+GEO:-36.0642378182709;146.903708179586
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18398@eventor.orienteering.asn.au

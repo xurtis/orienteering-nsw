@@ -828,7 +828,7 @@ GEO:-36.3159627903989;146.869775972874
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18913@eventor.orienteering.asn.au
-DTSTAMP:20230328T232811Z
+DTSTAMP:20230401T061344Z
 DTSTART:20230416T010000Z
 DTEND:20230416T030000Z
 SUMMARY:Crestwood Orienteering, Hastings Orienteering Group
@@ -1163,14 +1163,6 @@ SUMMARY:Newcastle OY5, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18840
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18591@eventor.orienteering.asn.au
-DTSTAMP:20230129T023140Z
-DTSTART:20230625T000000Z
-DTEND:20230625T033000Z
-SUMMARY:Waggaroos - AWOC Interclub #4, Walbundrie, Albury-Wodonga Orienteering Club / Wagga and Riverina Occasional Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18591
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18795@eventor.orienteering.asn.au
 DTSTAMP:20230304T004119Z
 DTSTART:20230625T000000Z
@@ -1220,6 +1212,15 @@ DTEND:20230705T094500Z
 SUMMARY:Moonlight Madness #3, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18903
 GEO:-33.8394623969007;151.127158094182
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18591@eventor.orienteering.asn.au
+DTSTAMP:20230331T234834Z
+DTSTART:20230709T000000Z
+DTEND:20230709T033000Z
+SUMMARY:Waggaroos - AWOC Interclub #4, Walbundrie, Albury-Wodonga Orienteering Club / Wagga and Riverina Occasional Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18591
+GEO:-35.6911887410571;146.728053378467
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18828@eventor.orienteering.asn.au
@@ -1450,11 +1451,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18778
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18593@eventor.orienteering.asn.au
-DTSTAMP:20230129T023516Z
+DTSTAMP:20230331T235903Z
 DTSTART:20230813T000000Z
 DTEND:20230813T033000Z
 SUMMARY:Waggaroos - AWOC Interclub #6, Nail Can Hill, Albury-Wodonga Orienteering Club / Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18593
+GEO:-36.0642378182709;146.903708179586
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18797@eventor.orienteering.asn.au

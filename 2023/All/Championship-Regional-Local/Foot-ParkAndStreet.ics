@@ -1217,6 +1217,23 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18853
 GEO:-35.3162068982312;149.142379956138
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18927@eventor.orienteering.asn.au
+DTSTAMP:20230401T114324Z
+DTSTART:20230414T230000Z
+DTEND:20230415T020000Z
+SUMMARY:Castlemaine CATI, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/18927
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18913@eventor.orienteering.asn.au
+DTSTAMP:20230401T061344Z
+DTSTART:20230416T010000Z
+DTEND:20230416T030000Z
+SUMMARY:Crestwood Orienteering, Hastings Orienteering Group
+URL:https://eventor.orienteering.asn.au/Events/Show/18913
+GEO:-31.4746941309725;152.897651397235
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18854@eventor.orienteering.asn.au
 DTSTAMP:20230328T011539Z
 DTSTART:20230417T070000Z
@@ -1233,6 +1250,14 @@ DTEND:20230423T020000Z
 SUMMARY:Bluebottles Junior Orienteering Training Camp, Newcastle Orienteering Club / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/18714
 GEO:-32.6311085616595;151.591346187545
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18928@eventor.orienteering.asn.au
+DTSTAMP:20230401T114955Z
+DTSTART:20230421T230000Z
+DTEND:20230422T020000Z
+SUMMARY:Castlemaine CATI, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/18928
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18719@eventor.orienteering.asn.au
@@ -1327,7 +1352,7 @@ DTSTART:20230429T233000Z
 DTEND:20230430T040000Z
 SUMMARY:2023 NSW State League #4 (Long) - Soapy Flat, near Mittagong, Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17754
-GEO:-34.4081237311528;150.392330920117
+GEO:-34.3888603279762;150.330017840283
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17897@eventor.orienteering.asn.au
@@ -1479,6 +1504,7 @@ DTSTART:20230520T140000Z
 DTEND:20230521T140000Z
 SUMMARY:2023 NSW State League #6 - Long Distance, Big Foot Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17756
+GEO:-33.0857191983988;148.706384955307
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18023@eventor.orienteering.asn.au

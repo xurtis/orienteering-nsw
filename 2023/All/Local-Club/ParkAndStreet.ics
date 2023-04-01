@@ -2108,6 +2108,15 @@ SUMMARY:Mornington Peninsula Sunday MapRun - St Andrews Beach, Bayside Kangaroos
 URL:https://eventor.orienteering.asn.au/Events/Show/18612
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18913@eventor.orienteering.asn.au
+DTSTAMP:20230401T061344Z
+DTSTART:20230416T010000Z
+DTEND:20230416T030000Z
+SUMMARY:Crestwood Orienteering, Hastings Orienteering Group
+URL:https://eventor.orienteering.asn.au/Events/Show/18913
+GEO:-31.4746941309725;152.897651397235
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18854@eventor.orienteering.asn.au
 DTSTAMP:20230328T011539Z
 DTSTART:20230417T070000Z
@@ -2334,10 +2343,10 @@ GEO:-21.1529012524425;149.156237384185
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18926@eventor.orienteering.asn.au
-DTSTAMP:20230330T022129Z
+DTSTAMP:20230401T031038Z
 DTSTART:20230526T060000Z
 DTEND:20230526T071500Z
-SUMMARY:Mitcham Hills Zone Event - Hawthorndene Reserve, Orienteering SA
+SUMMARY:Mitcham Hills After School Zone Event #3 - Hawthorndene Reserve, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18926
 GEO:-35.0198367408717;138.623378905089
 END:VEVENT
