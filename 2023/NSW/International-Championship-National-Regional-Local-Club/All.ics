@@ -799,14 +799,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18341
 GEO:-34.0393053702245;151.065902495968
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18581@eventor.orienteering.asn.au
-DTSTAMP:20230316T082506Z
-DTSTART:20230318T130000Z
-DTEND:20230319T130000Z
-SUMMARY:Postponed due to extreme temperatures. Waggaroos - AWOC Interclub #1, Wolfram, Wagga and Riverina Occasional Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18581
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_17506@eventor.orienteering.asn.au
 DTSTAMP:20230319T103930Z
 DTSTART:20230318T203000Z
@@ -870,17 +862,25 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17798
 GEO:-33.7608060742783;151.146202567483
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18930@eventor.orienteering.asn.au
+DTSTAMP:20230402T090636Z
+DTSTART:20230331T220000Z
+DTEND:20230402T133000Z
+SUMMARY:Waggaroos Training Weekend, location CSU, Wagga Wagga, Wagga and Riverina Occasional Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18930
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18582@eventor.orienteering.asn.au
-DTSTAMP:20230320T002306Z
+DTSTAMP:20230402T074440Z
 DTSTART:20230401T020000Z
-DTEND:20230402T033000Z
-SUMMARY:Waggaroos Training Weekend, location Willan's Hill and CSU, Wagga Wagga, Wagga and Riverina Occasional Orienteers
+DTEND:20230401T100000Z
+SUMMARY:Waggaroos Training Weekend, location Willan's Hill, Wagga Wagga, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18582
 GEO:-35.1333979490755;147.369039438832
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18830@eventor.orienteering.asn.au
-DTSTAMP:20230329T085040Z
+DTSTAMP:20230402T034645Z
 DTSTART:20230401T233000Z
 DTEND:20230402T030000Z
 SUMMARY:NOY1 - Southams Road West, Newcastle Orienteering Club
@@ -898,7 +898,7 @@ GEO:-30.3415277524806;152.708497808961
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18726@eventor.orienteering.asn.au
-DTSTAMP:20230322T100701Z
+DTSTAMP:20230402T015834Z
 DTSTART:20230402T000000Z
 DTEND:20230402T023000Z
 SUMMARY:Goldseekers Bush Series #2 Bridle Track Reserve, Goldseekers Orienteers
@@ -978,7 +978,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18834
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18674@eventor.orienteering.asn.au
-DTSTAMP:20230207T023902Z
+DTSTAMP:20230402T113125Z
 DTSTART:20230422T233000Z
 DTEND:20230422T233000Z
 SUMMARY:2023 Metro League #1, Garingal Orienteers
@@ -1037,11 +1037,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18898
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18835@eventor.orienteering.asn.au
-DTSTAMP:20230316T235303Z
+DTSTAMP:20230401T150122Z
 DTSTART:20230506T140000Z
 DTEND:20230507T140000Z
 SUMMARY:Newcastle OY3, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18835
+GEO:-32.8646267688386;151.398961039639
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18882@eventor.orienteering.asn.au
@@ -1068,14 +1069,6 @@ DTSTART:20230508T230000Z
 DTEND:20230509T033000Z
 SUMMARY:Riverina Schools Championships, Willan's Hill, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18586
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18889@eventor.orienteering.asn.au
-DTSTAMP:20230323T055234Z
-DTSTART:20230510T073000Z
-DTEND:20230510T094500Z
-SUMMARY:Moonlight Madness #1 - World Orienteering Day, Garingal Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18889
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18899@eventor.orienteering.asn.au
@@ -1128,6 +1121,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18914
 GEO:-31.6472896548838;152.801862901445
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18889@eventor.orienteering.asn.au
+DTSTAMP:20230402T013906Z
+DTSTART:20230517T073000Z
+DTEND:20230517T094500Z
+SUMMARY:Moonlight Madness #1 - World Orienteering Day, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18889
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18785@eventor.orienteering.asn.au
 DTSTAMP:20230314T053204Z
 DTSTART:20230519T135900Z
@@ -1138,10 +1139,10 @@ GEO:-32.339948866044;116.839006905831
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17755@eventor.orienteering.asn.au
-DTSTAMP:20230227T041646Z
+DTSTAMP:20230402T042206Z
 DTSTART:20230519T140000Z
 DTEND:20230520T140000Z
-SUMMARY:2023 NSW State League #5 - Middle Distance, Bennelong Northside Orienteers
+SUMMARY:2023 NSW State League #5 - Kahli's Rocks - Middle Distance, Bennelong Northside Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17755
 END:VEVENT
 BEGIN:VEVENT
@@ -1221,7 +1222,7 @@ GEO:-33.8403149932765;151.215328648226
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17757@eventor.orienteering.asn.au
-DTSTAMP:20230328T202414Z
+DTSTAMP:20230402T003151Z
 DTSTART:20230609T140000Z
 DTEND:20230612T140000Z
 SUMMARY:2023 KB3 and NSW State Leagues 7, 8 and 9, Central Coast Orienteers / Newcastle Orienteering Club
@@ -1260,6 +1261,14 @@ DTEND:20230618T000000Z
 SUMMARY:Bush event #4 Oakey Creek South, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18883
 GEO:-33.1243135157715;149.179293471991
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18581@eventor.orienteering.asn.au
+DTSTAMP:20230402T093229Z
+DTSTART:20230618T000000Z
+DTEND:20230618T033000Z
+SUMMARY:Waggaroos - AWOC Interclub #1, Wolfram, Wagga and Riverina Occasional Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18581
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18827@eventor.orienteering.asn.au
@@ -1450,12 +1459,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18843
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18921@eventor.orienteering.asn.au
-DTSTAMP:20230328T230708Z
+DTSTAMP:20230401T150618Z
 DTSTART:20230729T000000Z
 DTEND:20230729T000000Z
 SUMMARY:Newcastle Shorts 1 - Belford, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18921
-GEO:-32.1184563261191;151.190732521672
+GEO:-32.6492051657117;151.296640552084
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18922@eventor.orienteering.asn.au
@@ -1823,10 +1832,10 @@ GEO:-31.546068852906;152.85695547461
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18846@eventor.orienteering.asn.au
-DTSTAMP:20230317T002929Z
+DTSTAMP:20230401T151049Z
 DTSTART:20230923T233000Z
 DTEND:20230923T233000Z
-SUMMARY:Newcastle OY 8 / Hunter Valey Champs, Newcastle Orienteering Club
+SUMMARY:Newcastle OY 8 / Hunter Valley Champs, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18846
 END:VEVENT
 BEGIN:VEVENT
