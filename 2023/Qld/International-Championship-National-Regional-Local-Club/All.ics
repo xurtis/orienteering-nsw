@@ -674,7 +674,7 @@ GEO:-27.6237840526382;153.093814396407
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17936@eventor.orienteering.asn.au
-DTSTAMP:20230207T033513Z
+DTSTAMP:20230403T004509Z
 DTSTART:20230401T223000Z
 DTEND:20230401T223000Z
 SUMMARY:MTBO Sugarbag Road, Sunshine Orienteers Club
@@ -701,7 +701,7 @@ GEO:-27.5319931136047;152.973448541895
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18717@eventor.orienteering.asn.au
-DTSTAMP:20230402T012006Z
+DTSTAMP:20230403T013458Z
 DTSTART:20230402T230000Z
 DTEND:20230403T020000Z
 SUMMARY:Hardings Paddock - bush - Ipswich region, Ugly Gully Orienteers
@@ -798,6 +798,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18710
 GEO:-27.3785993313059;151.951214967131
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18932@eventor.orienteering.asn.au
+DTSTAMP:20230403T121754Z
+DTSTART:20230425T073000Z
+DTEND:20230425T093000Z
+SUMMARY:Night Nav - Bardon, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18932
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18683@eventor.orienteering.asn.au
 DTSTAMP:20230208T025320Z
 DTSTART:20230427T003000Z
@@ -823,6 +831,14 @@ DTEND:20230501T140000Z
 SUMMARY:OY5 - Qld Middle Distance Championships - Cabbage Tree Mountain (Maryborough), Orienteering Queensland / Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18018
 GEO:-25.579409;152.400829
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18933@eventor.orienteering.asn.au
+DTSTAMP:20230403T122050Z
+DTSTART:20230502T073000Z
+DTEND:20230502T093000Z
+SUMMARY:Night Nav - Graceville, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18933
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17960@eventor.orienteering.asn.au
@@ -859,12 +875,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18670
 GEO:-27.6016101334277;153.146470214014
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_16947@eventor.orienteering.asn.au
-DTSTAMP:20220429T052727Z
-DTSTART:20230508T140000Z
-DTEND:20230509T140000Z
-SUMMARY:Night Nav - location tbc, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/16947
+UID:Event_18934@eventor.orienteering.asn.au
+DTSTAMP:20230403T122204Z
+DTSTART:20230509T073000Z
+DTEND:20230509T093000Z
+SUMMARY:Night Nav - Yeronga, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18934
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18801@eventor.orienteering.asn.au
@@ -902,6 +918,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18786
 GEO:-28.6742047873462;152.021120597503
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_16947@eventor.orienteering.asn.au
+DTSTAMP:20230403T123338Z
+DTSTART:20230516T073000Z
+DTEND:20230516T093000Z
+SUMMARY:Night Nav - Torwood, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/16947
+GEO:-27.4653658437958;152.989444612256
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_16772@eventor.orienteering.asn.au
 DTSTAMP:20220708T014002Z
 DTSTART:20230520T040000Z
@@ -927,18 +952,19 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18187
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18179@eventor.orienteering.asn.au
-DTSTAMP:20221106T053200Z
-DTSTART:20230523T074500Z
-DTEND:20230523T074500Z
-SUMMARY:Night Nav - location tbc - World Orienteering Day, Ugly Gully Orienteers
+DTSTAMP:20230403T123717Z
+DTSTART:20230523T073000Z
+DTEND:20230523T093000Z
+SUMMARY:Night Nav - New Farm - World Orienteering Day, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18179
+GEO:-27.4711169832772;153.051881546931
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18568@eventor.orienteering.asn.au
-DTSTAMP:20230126T014217Z
+DTSTAMP:20230403T123605Z
 DTSTART:20230524T073000Z
 DTEND:20230524T091500Z
-SUMMARY:MapRun Night Nav Botanic Gardens, 21Degrees South Multisport Assoc.
+SUMMARY:MapRun Night Nav Mackay Botanic Gardens, 21Degrees South Multisport Assoc.
 URL:https://eventor.orienteering.asn.au/Events/Show/18568
 GEO:-21.1529012524425;149.156237384185
 END:VEVENT
@@ -969,6 +995,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/16952
 GEO:-27.5039531921932;152.804267986471
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18935@eventor.orienteering.asn.au
+DTSTAMP:20230403T124038Z
+DTSTART:20230530T073000Z
+DTEND:20230530T093000Z
+SUMMARY:Night Nav - location tbc , Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18935
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17967@eventor.orienteering.asn.au
 DTSTAMP:20221005T000048Z
 DTSTART:20230601T003000Z
@@ -992,6 +1026,15 @@ DTSTART:20230603T230000Z
 DTEND:20230603T230000Z
 SUMMARY:SE Qld All Schools & Public Events TBC, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/18193
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18936@eventor.orienteering.asn.au
+DTSTAMP:20230403T124334Z
+DTSTART:20230606T073000Z
+DTEND:20230606T093000Z
+SUMMARY:Night Nav - Twilight St Kenmore, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18936
+GEO:-27.5222411763055;152.933860435493
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18546@eventor.orienteering.asn.au
@@ -1028,6 +1071,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17937
 GEO:-26.9302555291874;152.998401461759
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18937@eventor.orienteering.asn.au
+DTSTAMP:20230403T124925Z
+DTSTART:20230613T073000Z
+DTEND:20230613T093000Z
+SUMMARY:Night Nav - Indooroopilly, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18937
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_16776@eventor.orienteering.asn.au
 DTSTAMP:20230203T015207Z
 DTSTART:20230617T040000Z
@@ -1058,6 +1109,14 @@ DTSTART:20230619T230000Z
 DTEND:20230620T050000Z
 SUMMARY:Closed School Event, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18548
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18938@eventor.orienteering.asn.au
+DTSTAMP:20230403T125157Z
+DTSTART:20230620T073000Z
+DTEND:20230620T093000Z
+SUMMARY:Night Nav - location tbc, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18938
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18569@eventor.orienteering.asn.au

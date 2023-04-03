@@ -791,6 +791,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18582
 GEO:-35.1333979490755;147.369039438832
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18622@eventor.orienteering.asn.au
+DTSTAMP:20230403T033901Z
+DTSTART:20230401T130000Z
+DTEND:20230402T140000Z
+SUMMARY:Dorrigo Dash, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18622
+GEO:-30.3416395544745;152.709436385616
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18830@eventor.orienteering.asn.au
 DTSTAMP:20230402T034645Z
 DTSTART:20230401T233000Z
@@ -816,15 +825,6 @@ DTEND:20230402T023000Z
 SUMMARY:Goldseekers Bush Series #2 Bridle Track Reserve, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18726
 GEO:-33.2379986654436;149.158176382393
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18622@eventor.orienteering.asn.au
-DTSTAMP:20230306T031505Z
-DTSTART:20230402T000000Z
-DTEND:20230402T030000Z
-SUMMARY:Dorrigo Dash, Northern Tablelands Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18622
-GEO:-30.3416395544745;152.709436385616
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18832@eventor.orienteering.asn.au
@@ -881,20 +881,21 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18719
 GEO:-33.8453628418841;151.074846083098
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18834@eventor.orienteering.asn.au
-DTSTAMP:20230316T235048Z
-DTSTART:20230422T140000Z
-DTEND:20230423T140000Z
-SUMMARY:Newcastle OY2, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18834
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18674@eventor.orienteering.asn.au
-DTSTAMP:20230402T113125Z
+DTSTAMP:20230402T230038Z
 DTSTART:20230422T233000Z
 DTEND:20230422T233000Z
 SUMMARY:2023 Metro League #1, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18674
+GEO:-33.5632129997529;150.919371791805
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18834@eventor.orienteering.asn.au
+DTSTAMP:20230402T225419Z
+DTSTART:20230422T233000Z
+DTEND:20230422T233000Z
+SUMMARY:Newcastle OY2, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18834
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18584@eventor.orienteering.asn.au
