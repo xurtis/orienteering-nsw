@@ -2993,10 +2993,10 @@ GEO:-28.4378726212686;152.026865132112
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18831@eventor.orienteering.asn.au
-DTSTAMP:20230323T085516Z
-DTSTART:20230416T000000Z
-DTEND:20230416T000000Z
-SUMMARY:Newcastle Pairs and Come & Try It - Minmi (TBC), Newcastle Orienteering Club
+DTSTAMP:20230403T205722Z
+DTSTART:20230415T233000Z
+DTEND:20230416T033000Z
+SUMMARY:Newcastle Pairs and Club Minor - Minmi, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18831
 GEO:-32.8599219059299;151.619213180028
 END:VEVENT
@@ -3037,6 +3037,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18820
 GEO:-27.5417525103748;152.960040589901
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18940@eventor.orienteering.asn.au
+DTSTAMP:20230404T001137Z
+DTSTART:20230416T230000Z
+DTEND:20230417T040000Z
+SUMMARY:Training - Beenleigh - Orienteering Instructor - Trinity College, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/18940
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18011@eventor.orienteering.asn.au
 DTSTAMP:20230402T111805Z
 DTSTART:20230418T073000Z
@@ -3046,7 +3054,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18011
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18456@eventor.orienteering.asn.au
-DTSTAMP:20230116T080025Z
+DTSTAMP:20230404T121752Z
 DTSTART:20230419T010000Z
 DTEND:20230419T033000Z
 SUMMARY:Midweek Training at Mack Creek, Orienteering SA
@@ -3159,9 +3167,9 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18932
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18618@eventor.orienteering.asn.au
-DTSTAMP:20230201T011223Z
-DTSTART:20230425T140000Z
-DTEND:20230426T140000Z
+DTSTAMP:20230403T220913Z
+DTSTART:20230426T073000Z
+DTEND:20230426T073000Z
 SUMMARY:Newcastle Night Urban Champs, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18618
 END:VEVENT
@@ -3181,6 +3189,7 @@ DTSTART:20230427T100000Z
 DTEND:20230427T100000Z
 SUMMARY:Orienteering ACT Annual General Meeting, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18613
+GEO:-35.2521505548673;149.069120425393
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18019@eventor.orienteering.asn.au
@@ -3201,7 +3210,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17856
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17753@eventor.orienteering.asn.au
-DTSTAMP:20230304T052558Z
+DTSTAMP:20230404T075033Z
 DTSTART:20230429T023000Z
 DTEND:20230429T040000Z
 SUMMARY:2023 NSW State League #3 - Middle Distance Belanglo, Illawarra Kareelah Orienteers
@@ -3297,6 +3306,15 @@ DTEND:20230501T140000Z
 SUMMARY:OY5 - Qld Middle Distance Championships - Cabbage Tree Mountain (Maryborough), Orienteering Queensland / Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18018
 GEO:-25.579409;152.400829
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18941@eventor.orienteering.asn.au
+DTSTAMP:20230404T070332Z
+DTSTART:20230502T060000Z
+DTEND:20230502T073000Z
+SUMMARY:North Eastern After School Event #1 - The Heights, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18941
+GEO:-34.8111203083229;138.684054342355
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18933@eventor.orienteering.asn.au
@@ -3434,6 +3452,15 @@ DTSTART:20230508T230000Z
 DTEND:20230509T033000Z
 SUMMARY:Riverina Schools Championships, Willan's Hill, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18586
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18942@eventor.orienteering.asn.au
+DTSTAMP:20230404T092825Z
+DTSTART:20230509T060000Z
+DTEND:20230509T073000Z
+SUMMARY: North Eastern After School Event #2 - The Heights, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18942
+GEO:-34.8111883208926;138.684138707553
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18934@eventor.orienteering.asn.au
@@ -3953,10 +3980,10 @@ GEO:-36.7607740577348;144.28427020408
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18888@eventor.orienteering.asn.au
-DTSTAMP:20230323T024323Z
+DTSTAMP:20230403T234213Z
 DTSTART:20230603T040000Z
 DTEND:20230603T060000Z
-SUMMARY:Coffs Tree Fern Creek, Bush n Beach Orienteering Club
+SUMMARY:Coffs Score - Tree Fern Creek, Bush n Beach Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18888
 GEO:-30.2893780132759;153.114384894
 END:VEVENT
@@ -4368,12 +4395,20 @@ GEO:-30.3008462088598;153.118238993898
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18906@eventor.orienteering.asn.au
-DTSTAMP:20230327T085257Z
+DTSTAMP:20230404T124617Z
 DTSTART:20230623T140000Z
 DTEND:20230624T140000Z
 SUMMARY:WHO 40th Birthday, Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18906
 GEO:-33.7630355805982;151.004454380812
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18939@eventor.orienteering.asn.au
+DTSTAMP:20230403T222436Z
+DTSTART:20230623T230000Z
+DTEND:20230626T000000Z
+SUMMARY:Junior Training Camp, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/18939
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17863@eventor.orienteering.asn.au
