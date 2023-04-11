@@ -819,10 +819,10 @@ GEO:-32.8599219059299;151.619213180028
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18583@eventor.orienteering.asn.au
-DTSTAMP:20230331T011855Z
+DTSTAMP:20230411T042247Z
 DTSTART:20230416T000000Z
 DTEND:20230416T033000Z
-SUMMARY:Waggaroos - AWOC Interclub #2, Yackandandah, Albury-Wodonga Orienteering Club / Wagga and Riverina Occasional Orienteers
+SUMMARY:Waggaroos - AWOC Interclub #2, Rowdy Flat, Albury-Wodonga Orienteering Club / Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18583
 GEO:-36.3159627903989;146.869775972874
 END:VEVENT
@@ -894,6 +894,15 @@ DTEND:20230429T060000Z
 SUMMARY:Coffs Diggers Beach, Bush n Beach Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18775
 GEO:-30.2740698493694;153.14254836615
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18947@eventor.orienteering.asn.au
+DTSTAMP:20230411T061426Z
+DTSTART:20230429T073000Z
+DTEND:20230429T100000Z
+SUMMARY:Orienteering NSW Family Trivia Evening, Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/18947
+GEO:-34.4981777363239;150.392658580591
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18898@eventor.orienteering.asn.au
