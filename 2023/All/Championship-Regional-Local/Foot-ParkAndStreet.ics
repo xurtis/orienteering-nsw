@@ -1348,7 +1348,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17856
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17753@eventor.orienteering.asn.au
-DTSTAMP:20230404T075033Z
+DTSTAMP:20230412T000605Z
 DTSTART:20230429T023000Z
 DTEND:20230429T040000Z
 SUMMARY:2023 NSW State League #3 - Middle Distance Belanglo, Illawarra Kareelah Orienteers
@@ -1366,10 +1366,10 @@ GEO:-30.2740698493694;153.14254836615
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18947@eventor.orienteering.asn.au
-DTSTAMP:20230411T061426Z
+DTSTAMP:20230412T073934Z
 DTSTART:20230429T073000Z
 DTEND:20230429T100000Z
-SUMMARY:Orienteering NSW Family Trivia Evening, Orienteering NSW
+SUMMARY:Orienteering NSW Trivia Fun and Food for Everyone, Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/18947
 GEO:-34.4981777363239;150.392658580591
 END:VEVENT
@@ -1433,6 +1433,15 @@ DTEND:20230507T140000Z
 SUMMARY:Newcastle OY3, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18835
 GEO:-32.8646267688386;151.398961039639
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18651@eventor.orienteering.asn.au
+DTSTAMP:20230412T071316Z
+DTSTART:20230506T140000Z
+DTEND:20230507T140000Z
+SUMMARY:Rajah Rock (TBC) - OST 4 - Schools Selection Event 2, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/18651
+GEO:-41.7452178420092;147.766292631862
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18857@eventor.orienteering.asn.au
@@ -1537,7 +1546,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17859
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17756@eventor.orienteering.asn.au
-DTSTAMP:20230313T094159Z
+DTSTAMP:20230412T130131Z
 DTSTART:20230520T140000Z
 DTEND:20230521T140000Z
 SUMMARY:2023 NSW State League #6 - Long Distance, Big Foot Orienteers
@@ -1551,6 +1560,14 @@ DTSTART:20230520T140000Z
 DTEND:20230521T140000Z
 SUMMARY:OY6 - Paperbark Flats -permissions pending, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18023
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18653@eventor.orienteering.asn.au
+DTSTAMP:20230412T071316Z
+DTSTART:20230520T140000Z
+DTEND:20230521T140000Z
+SUMMARY:Uplands - OST 5 Northern Classic - Schools Selection Event 4, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/18653
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18859@eventor.orienteering.asn.au
