@@ -887,6 +887,7 @@ DTSTART:20230422T233000Z
 DTEND:20230422T233000Z
 SUMMARY:Newcastle OY2, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18834
+GEO:-32.8789301678722;151.365325472197
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18674@eventor.orienteering.asn.au
@@ -899,11 +900,12 @@ GEO:-33.5618211791173;150.922098532932
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18584@eventor.orienteering.asn.au
-DTSTAMP:20230128T062706Z
+DTSTAMP:20230413T113253Z
 DTSTART:20230423T000000Z
 DTEND:20230423T033000Z
 SUMMARY:Waggaroos Come and Try It, Pomingalarna, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18584
+GEO:-35.1214905187231;147.309090343097
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18618@eventor.orienteering.asn.au

@@ -256,7 +256,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17856
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17897@eventor.orienteering.asn.au
-DTSTAMP:20230226T033835Z
+DTSTAMP:20230413T025351Z
 DTSTART:20230430T000000Z
 DTEND:20230430T040000Z
 SUMMARY:ACT Classic Series: ACT Relays, Campbell Park, Abominable O-Men
@@ -424,5 +424,13 @@ DTSTART:20230902T003000Z
 DTEND:20230902T030000Z
 SUMMARY:ACT Blue Lightning Event, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/17870
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18948@eventor.orienteering.asn.au
+DTSTAMP:20230413T020729Z
+DTSTART:20231121T230000Z
+DTEND:20231122T030000Z
+SUMMARY:ACT Primary School Championships, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/18948
 END:VEVENT
 END:VCALENDAR
