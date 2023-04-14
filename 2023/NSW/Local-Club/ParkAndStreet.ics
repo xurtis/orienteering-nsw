@@ -622,6 +622,24 @@ SUMMARY:Newcastle Night Urban Champs, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18618
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18775@eventor.orienteering.asn.au
+DTSTAMP:20230414T012042Z
+DTSTART:20230429T040000Z
+DTEND:20230429T060000Z
+SUMMARY:Coffs Score #1 - Diggers Beach, Bush n Beach Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18775
+GEO:-30.2740698493694;153.14254836615
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18776@eventor.orienteering.asn.au
+DTSTAMP:20230414T011613Z
+DTSTART:20230513T040000Z
+DTEND:20230513T060000Z
+SUMMARY:Coffs Score #2 - Jetty Foreshores , Bush n Beach Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18776
+GEO:-30.3016114209838;153.140423894011
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18342@eventor.orienteering.asn.au
 DTSTAMP:20221221T170014Z
 DTSTART:20230513T040000Z
@@ -631,10 +649,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18342
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18888@eventor.orienteering.asn.au
-DTSTAMP:20230403T234213Z
+DTSTAMP:20230414T011528Z
 DTSTART:20230603T040000Z
 DTEND:20230603T060000Z
-SUMMARY:Coffs Score - Tree Fern Creek, Bush n Beach Orienteering Club
+SUMMARY:Coffs Score #3 - Tree Fern Creek, Bush n Beach Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18888
 GEO:-30.2893780132759;153.114384894
 END:VEVENT
@@ -648,7 +666,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18908
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18777@eventor.orienteering.asn.au
-DTSTAMP:20230227T042909Z
+DTSTAMP:20230414T011657Z
 DTSTART:20230622T080000Z
 DTEND:20230622T093000Z
 SUMMARY:Coffs Winter Solstice Night-O, Bush n Beach Orienteering Club

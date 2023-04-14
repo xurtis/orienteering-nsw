@@ -414,12 +414,20 @@ GEO:-32.9432872993413;137.747517718262
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18941@eventor.orienteering.asn.au
-DTSTAMP:20230404T070332Z
+DTSTAMP:20230414T020547Z
 DTSTART:20230502T060000Z
 DTEND:20230502T073000Z
-SUMMARY:North Eastern After School Event #1 - The Heights, Orienteering SA
+SUMMARY:North Eastern Zone After School Event #1 - The Heights, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18941
 GEO:-34.8111203083229;138.684054342355
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18951@eventor.orienteering.asn.au
+DTSTAMP:20230414T025724Z
+DTSTART:20230503T060000Z
+DTEND:20230503T071500Z
+SUMMARY:Heathfield After School Zone Event #1, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18951
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18894@eventor.orienteering.asn.au
@@ -439,13 +447,39 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18765
 GEO:-34.5458951378559;135.443327874312
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18958@eventor.orienteering.asn.au
+DTSTAMP:20230414T033957Z
+DTSTART:20230509T060000Z
+DTEND:20230509T071500Z
+SUMMARY:Birdwood After School Zone Event #1, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18958
+GEO:-34.8194464257837;138.95997858398
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18942@eventor.orienteering.asn.au
-DTSTAMP:20230404T092825Z
+DTSTAMP:20230414T020645Z
 DTSTART:20230509T060000Z
 DTEND:20230509T073000Z
-SUMMARY: North Eastern After School Event #2 - The Heights, Orienteering SA
+SUMMARY: North Eastern Zone After School Event #2 - The Heights, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18942
 GEO:-34.8111883208926;138.684138707553
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18952@eventor.orienteering.asn.au
+DTSTAMP:20230414T030123Z
+DTSTART:20230510T060000Z
+DTEND:20230510T071500Z
+SUMMARY:Heathfield After School Zone Event #2, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18952
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18955@eventor.orienteering.asn.au
+DTSTAMP:20230414T032407Z
+DTSTART:20230510T060000Z
+DTEND:20231214T061500Z
+SUMMARY:Echunga Afterschool Orienteering Zone Session  #1, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18955
+GEO:-35.096939042787;138.791353092349
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18895@eventor.orienteering.asn.au
@@ -483,6 +517,24 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18459
 GEO:-35.0103794435464;138.636292868727
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18956@eventor.orienteering.asn.au
+DTSTAMP:20230414T032851Z
+DTSTART:20230517T060000Z
+DTEND:20230517T071500Z
+SUMMARY:Echunga Afterschool ZONE Event # 2, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18956
+GEO:-35.096475203191;138.790880250804
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18953@eventor.orienteering.asn.au
+DTSTAMP:20230414T030801Z
+DTSTART:20230517T060000Z
+DTEND:20230517T071500Z
+SUMMARY:Heathfield After School Zone Event #3, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18953
+GEO:-35.0139354653894;138.714087766613
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18896@eventor.orienteering.asn.au
 DTSTAMP:20230325T103421Z
 DTSTART:20230518T061500Z
@@ -516,6 +568,23 @@ DTEND:20230521T053000Z
 SUMMARY:Port Lincoln: Boston Island, Lincoln Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18763
 GEO:-34.7036140450237;135.927821782799
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18957@eventor.orienteering.asn.au
+DTSTAMP:20230414T033126Z
+DTSTART:20230524T060000Z
+DTEND:20230524T071500Z
+SUMMARY:Echunga Afterschool ZONE Event # 3, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18957
+GEO:-35.0965060989524;138.791006406758
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18954@eventor.orienteering.asn.au
+DTSTAMP:20230414T031346Z
+DTSTART:20230524T060000Z
+DTEND:20230524T071500Z
+SUMMARY:Heathfield After School Zone Event #4, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18954
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18897@eventor.orienteering.asn.au
