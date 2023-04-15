@@ -396,12 +396,12 @@ GEO:-12.4123915849352;130.830703961951
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18408@eventor.orienteering.asn.au
-DTSTAMP:20230409T075741Z
+DTSTAMP:20230415T072956Z
 DTSTART:20230430T003000Z
 DTEND:20230430T020000Z
 SUMMARY:Victor Harbor Foot and MTBO, Yalanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18408
-GEO:-35.5574044762028;138.610624539349
+GEO:-35.5500945048659;138.608675458005
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18491@eventor.orienteering.asn.au
@@ -465,21 +465,21 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18942
 GEO:-34.8111883208926;138.684138707553
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18955@eventor.orienteering.asn.au
+DTSTAMP:20230415T021227Z
+DTSTART:20230510T060000Z
+DTEND:20230510T071500Z
+SUMMARY:Echunga Afterschool Orienteering Zone Session  #1, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18955
+GEO:-35.096939042787;138.791353092349
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18952@eventor.orienteering.asn.au
 DTSTAMP:20230414T030123Z
 DTSTART:20230510T060000Z
 DTEND:20230510T071500Z
 SUMMARY:Heathfield After School Zone Event #2, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18952
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18955@eventor.orienteering.asn.au
-DTSTAMP:20230414T032407Z
-DTSTART:20230510T060000Z
-DTEND:20231214T061500Z
-SUMMARY:Echunga Afterschool Orienteering Zone Session  #1, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/18955
-GEO:-35.096939042787;138.791353092349
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18895@eventor.orienteering.asn.au
