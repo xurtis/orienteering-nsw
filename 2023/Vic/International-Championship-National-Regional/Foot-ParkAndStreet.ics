@@ -21,7 +21,7 @@ GEO:-37.579869954156;143.892611898277
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18318@eventor.orienteering.asn.au
-DTSTAMP:20230411T092903Z
+DTSTAMP:20230416T061008Z
 DTSTART:20230505T140000Z
 DTEND:20230506T140000Z
 SUMMARY:NOL & Vic Series (Bush) 1 - Wattle Gully, Bendigo Orienteers / Central Highlands Orienteering Club
@@ -30,12 +30,21 @@ GEO:-37.114242028374;144.234705223664
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18949@eventor.orienteering.asn.au
-DTSTAMP:20230415T065234Z
+DTSTAMP:20230416T055652Z
 DTSTART:20230506T140000Z
 DTEND:20230507T140000Z
-SUMMARY:NOL Round 4 - Forest Relay, Orienteering Australia / Orienteering Victoria
+SUMMARY:NOL Round 4 - Relay Team Nominations (For team managers only), Orienteering Australia / Orienteering Victoria
 URL:https://eventor.orienteering.asn.au/Events/Show/18949
-GEO:-37.114293;144
+GEO:-37.1142585190534;144.23464235688
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18975@eventor.orienteering.asn.au
+DTSTAMP:20230416T071622Z
+DTSTART:20230507T000000Z
+DTEND:20230507T040000Z
+SUMMARY:NOL Round 4 - Forest Relay (Individual entry), Orienteering Australia / Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/18975
+GEO:-37.113929415822;144.234683356394
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18319@eventor.orienteering.asn.au

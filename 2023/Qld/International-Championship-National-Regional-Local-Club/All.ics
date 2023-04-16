@@ -736,22 +736,22 @@ URL:https://eventor.orienteering.asn.au/Events/Show/16951
 GEO:-27.4594594119418;152.977871449349
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18820@eventor.orienteering.asn.au
+DTSTAMP:20230416T113207Z
+DTSTART:20230415T140000Z
+DTEND:20230416T140000Z
+SUMMARY:MapRun Parks 2023 - Rocks Riverside, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18820
+GEO:-27.5417525103748;152.960040589901
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18555@eventor.orienteering.asn.au
-DTSTAMP:20230415T034959Z
+DTSTAMP:20230416T122018Z
 DTSTART:20230415T230000Z
 DTEND:20230416T030000Z
 SUMMARY:Brooklands, north of Dalveen, Bullecourt Boulder Bounders
 URL:https://eventor.orienteering.asn.au/Events/Show/18555
 GEO:-28.4340988618721;152.031628735322
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18820@eventor.orienteering.asn.au
-DTSTAMP:20230311T084024Z
-DTSTART:20230416T060000Z
-DTEND:20230416T060000Z
-SUMMARY:MapRun Parks 2023 - Rocks Riverside, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18820
-GEO:-27.5417525103748;152.960040589901
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18940@eventor.orienteering.asn.au
@@ -889,11 +889,12 @@ GEO:-27.5170092498618;152.958832404476
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18701@eventor.orienteering.asn.au
-DTSTAMP:20230213T035246Z
+DTSTAMP:20230416T071950Z
 DTSTART:20230506T140000Z
 DTEND:20230507T140000Z
 SUMMARY:Chinchilla Botanic Gardens, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18701
+GEO:-26.7411757696496;150.629232833854
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18670@eventor.orienteering.asn.au
@@ -973,6 +974,15 @@ DTSTART:20230520T140000Z
 DTEND:20230521T140000Z
 SUMMARY:OY6 - Paperbark Flats -permissions pending, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18023
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18976@eventor.orienteering.asn.au
+DTSTAMP:20230416T064152Z
+DTSTART:20230520T230000Z
+DTEND:20230520T230000Z
+SUMMARY:Sandalwood, via Drillham, Coaching, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18976
+GEO:-26.7222356982432;149.92695872931
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18187@eventor.orienteering.asn.au

@@ -383,7 +383,7 @@ GEO:-37.8759313135487;144.92207725
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18115@eventor.orienteering.asn.au
-DTSTAMP:20230413T073954Z
+DTSTAMP:20230416T105609Z
 DTSTART:20230422T000000Z
 DTEND:20230422T020000Z
 SUMMARY:Vic MTBO Sprint Distance Championships, Bayside Kangaroos Orienteers / Bendigo Orienteers
@@ -392,7 +392,7 @@ GEO:-37.0434085001883;144.197068369504
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18116@eventor.orienteering.asn.au
-DTSTAMP:20230413T074024Z
+DTSTAMP:20230416T105651Z
 DTSTART:20230422T040000Z
 DTEND:20230422T070000Z
 SUMMARY:Vic MTBO Middle Distance Championships , Bayside Kangaroos Orienteers / Bendigo Orienteers
@@ -410,7 +410,7 @@ GEO:-42.132521196362;146.330927596722
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18117@eventor.orienteering.asn.au
-DTSTAMP:20230413T074055Z
+DTSTAMP:20230416T105732Z
 DTSTART:20230423T000000Z
 DTEND:20230423T040000Z
 SUMMARY:Vic MTBO Long Distance Championships , Nillumbik Emus Orienteering Club
@@ -455,7 +455,7 @@ GEO:-25.579409;152.400829
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18318@eventor.orienteering.asn.au
-DTSTAMP:20230411T092903Z
+DTSTAMP:20230416T061008Z
 DTSTART:20230505T140000Z
 DTEND:20230506T140000Z
 SUMMARY:NOL & Vic Series (Bush) 1 - Wattle Gully, Bendigo Orienteers / Central Highlands Orienteering Club
@@ -464,12 +464,12 @@ GEO:-37.114242028374;144.234705223664
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18949@eventor.orienteering.asn.au
-DTSTAMP:20230415T065234Z
+DTSTAMP:20230416T055652Z
 DTSTART:20230506T140000Z
 DTEND:20230507T140000Z
-SUMMARY:NOL Round 4 - Forest Relay, Orienteering Australia / Orienteering Victoria
+SUMMARY:NOL Round 4 - Relay Team Nominations (For team managers only), Orienteering Australia / Orienteering Victoria
 URL:https://eventor.orienteering.asn.au/Events/Show/18949
-GEO:-37.114293;144
+GEO:-37.1142585190534;144.23464235688
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18651@eventor.orienteering.asn.au
@@ -479,6 +479,15 @@ DTEND:20230507T140000Z
 SUMMARY:Rajah Rock (TBC) - OST 4 - Schools Selection Event 2, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18651
 GEO:-41.7452178420092;147.766292631862
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18975@eventor.orienteering.asn.au
+DTSTAMP:20230416T071622Z
+DTSTART:20230507T000000Z
+DTEND:20230507T040000Z
+SUMMARY:NOL Round 4 - Forest Relay (Individual entry), Orienteering Australia / Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/18975
+GEO:-37.113929415822;144.234683356394
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18319@eventor.orienteering.asn.au

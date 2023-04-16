@@ -864,7 +864,7 @@ GEO:-37.7812154372582;145.300420658281
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18583@eventor.orienteering.asn.au
-DTSTAMP:20230411T042247Z
+DTSTAMP:20230416T074953Z
 DTSTART:20230416T000000Z
 DTEND:20230416T033000Z
 SUMMARY:Waggaroos - AWOC Interclub #2, Rowdy Flat, Albury-Wodonga Orienteering Club / Wagga and Riverina Occasional Orienteers
@@ -953,12 +953,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18946
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18384@eventor.orienteering.asn.au
-DTSTAMP:20230414T224949Z
+DTSTAMP:20230416T030856Z
 DTSTART:20230429T023000Z
 DTEND:20230429T040000Z
 SUMMARY:Bendigo Bush 3 - Wildflower Drive, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18384
-GEO:-36.7406440948008;144.30213732182
+GEO:-36.7780692878423;144.332845344681
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18517@eventor.orienteering.asn.au
@@ -1004,7 +1004,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18964
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18318@eventor.orienteering.asn.au
-DTSTAMP:20230411T092903Z
+DTSTAMP:20230416T061008Z
 DTSTART:20230505T140000Z
 DTEND:20230506T140000Z
 SUMMARY:NOL & Vic Series (Bush) 1 - Wattle Gully, Bendigo Orienteers / Central Highlands Orienteering Club
@@ -1021,12 +1021,21 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18969
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18949@eventor.orienteering.asn.au
-DTSTAMP:20230415T065234Z
+DTSTAMP:20230416T055652Z
 DTSTART:20230506T140000Z
 DTEND:20230507T140000Z
-SUMMARY:NOL Round 4 - Forest Relay, Orienteering Australia / Orienteering Victoria
+SUMMARY:NOL Round 4 - Relay Team Nominations (For team managers only), Orienteering Australia / Orienteering Victoria
 URL:https://eventor.orienteering.asn.au/Events/Show/18949
-GEO:-37.114293;144
+GEO:-37.1142585190534;144.23464235688
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18975@eventor.orienteering.asn.au
+DTSTAMP:20230416T071622Z
+DTSTART:20230507T000000Z
+DTEND:20230507T040000Z
+SUMMARY:NOL Round 4 - Forest Relay (Individual entry), Orienteering Australia / Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/18975
+GEO:-37.113929415822;144.234683356394
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18319@eventor.orienteering.asn.au
