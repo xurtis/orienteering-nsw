@@ -347,7 +347,7 @@ GEO:-35.2789453037743;149.119420983474
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18203@eventor.orienteering.asn.au
-DTSTAMP:20230409T234416Z
+DTSTAMP:20230417T063815Z
 DTSTART:20230407T140000Z
 DTEND:20230410T140000Z
 SUMMARY:Australian 3 Days 2023, Orienteering ACT
@@ -383,7 +383,7 @@ GEO:-25.579409;152.400829
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17753@eventor.orienteering.asn.au
-DTSTAMP:20230412T000605Z
+DTSTAMP:20230417T045213Z
 DTSTART:20230429T023000Z
 DTEND:20230429T040000Z
 SUMMARY:2023 NSW State League #3 - Middle Distance Belanglo, Illawarra Kareelah Orienteers
@@ -425,15 +425,6 @@ DTEND:20230507T140000Z
 SUMMARY:NOL Round 4 - Relay Team Nominations (For team managers only), Orienteering Australia / Orienteering Victoria
 URL:https://eventor.orienteering.asn.au/Events/Show/18949
 GEO:-37.1142585190534;144.23464235688
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18651@eventor.orienteering.asn.au
-DTSTAMP:20230412T071316Z
-DTSTART:20230506T140000Z
-DTEND:20230507T140000Z
-SUMMARY:Rajah Rock (TBC) - OST 4 - Schools Selection Event 2, Australopers
-URL:https://eventor.orienteering.asn.au/Events/Show/18651
-GEO:-41.7452178420092;147.766292631862
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18975@eventor.orienteering.asn.au
@@ -481,11 +472,20 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18023
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18653@eventor.orienteering.asn.au
-DTSTAMP:20230412T071316Z
+DTSTAMP:20230417T103716Z
 DTSTART:20230520T140000Z
 DTEND:20230521T140000Z
-SUMMARY:Uplands - OST 5 Northern Classic - Schools Selection Event 4, Esk Valley
+SUMMARY:Uplands - OST 4 Northern Classic - Schools Selection Event 2, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/18653
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18651@eventor.orienteering.asn.au
+DTSTAMP:20230417T103805Z
+DTSTART:20230527T140000Z
+DTEND:20230528T140000Z
+SUMMARY:Springvale, Campania - OST 5 - Schools Selection Event 3, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/18651
+GEO:-41.7452178420092;147.766292631862
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18320@eventor.orienteering.asn.au

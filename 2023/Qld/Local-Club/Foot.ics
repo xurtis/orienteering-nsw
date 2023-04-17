@@ -930,7 +930,7 @@ GEO:-27.5818253079113;153.181338782998
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18700@eventor.orienteering.asn.au
-DTSTAMP:20230213T035007Z
+DTSTAMP:20230416T230147Z
 DTSTART:20230603T140000Z
 DTEND:20230604T140000Z
 SUMMARY:South West Region Schools Trials, Range Runners Orienteering Club
@@ -943,6 +943,15 @@ DTSTART:20230603T230000Z
 DTEND:20230603T230000Z
 SUMMARY:SE Qld All Schools & Public Events TBC, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/18193
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18977@eventor.orienteering.asn.au
+DTSTAMP:20230416T230022Z
+DTSTART:20230604T000000Z
+DTEND:20230604T000000Z
+SUMMARY:Sandalwood, south of Drillham, Public Event, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18977
+GEO:-26.7224656449629;149.926916238778
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18936@eventor.orienteering.asn.au

@@ -1361,10 +1361,10 @@ GEO:-37.043403490159;144.197053911103
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18834@eventor.orienteering.asn.au
-DTSTAMP:20230402T225419Z
+DTSTAMP:20230417T121046Z
 DTSTART:20230422T233000Z
 DTEND:20230422T233000Z
-SUMMARY:Newcastle OY2, Newcastle Orienteering Club
+SUMMARY:Newcastle OY#2 Kitchener, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18834
 GEO:-32.8789301678722;151.365325472197
 END:VEVENT
@@ -1439,7 +1439,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17856
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17753@eventor.orienteering.asn.au
-DTSTAMP:20230412T000605Z
+DTSTAMP:20230417T045213Z
 DTSTART:20230429T023000Z
 DTEND:20230429T040000Z
 SUMMARY:2023 NSW State League #3 - Middle Distance Belanglo, Illawarra Kareelah Orienteers
@@ -1493,10 +1493,10 @@ GEO:-25.579409;152.400829
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18856@eventor.orienteering.asn.au
-DTSTAMP:20230329T002103Z
+DTSTAMP:20230417T001807Z
 DTSTART:20230501T070000Z
 DTEND:20230501T091500Z
-SUMMARY:ACT MapRun Street Series: Lyneham, 2 Apr - 1 May, Orienteering ACT
+SUMMARY:ACT MapRun Street Series: Lyneham, 27 Apr - 1 May, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18856
 GEO:-35.2519949488316;149.125343366529
 END:VEVENT
@@ -1533,15 +1533,6 @@ DTEND:20230507T140000Z
 SUMMARY:Newcastle OY3, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18835
 GEO:-32.8646267688386;151.398961039639
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18651@eventor.orienteering.asn.au
-DTSTAMP:20230412T071316Z
-DTSTART:20230506T140000Z
-DTEND:20230507T140000Z
-SUMMARY:Rajah Rock (TBC) - OST 4 - Schools Selection Event 2, Australopers
-URL:https://eventor.orienteering.asn.au/Events/Show/18651
-GEO:-41.7452178420092;147.766292631862
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18857@eventor.orienteering.asn.au
@@ -1673,10 +1664,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18023
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18653@eventor.orienteering.asn.au
-DTSTAMP:20230412T071316Z
+DTSTAMP:20230417T103716Z
 DTSTART:20230520T140000Z
 DTEND:20230521T140000Z
-SUMMARY:Uplands - OST 5 Northern Classic - Schools Selection Event 4, Esk Valley
+SUMMARY:Uplands - OST 4 Northern Classic - Schools Selection Event 2, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/18653
 END:VEVENT
 BEGIN:VEVENT
@@ -1710,6 +1701,15 @@ DTSTART:20230527T140000Z
 DTEND:20230528T140000Z
 SUMMARY:Newcastle OY4, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18837
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18651@eventor.orienteering.asn.au
+DTSTAMP:20230417T103805Z
+DTSTART:20230527T140000Z
+DTEND:20230528T140000Z
+SUMMARY:Springvale, Campania - OST 5 - Schools Selection Event 3, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/18651
+GEO:-41.7452178420092;147.766292631862
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18320@eventor.orienteering.asn.au
@@ -2305,14 +2305,6 @@ DTSTART:20230812T233000Z
 DTEND:20230812T233000Z
 SUMMARY:Newcastle OY7, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18845
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18778@eventor.orienteering.asn.au
-DTSTAMP:20230227T043546Z
-DTSTART:20230813T000000Z
-DTEND:20230813T030000Z
-SUMMARY:Coffs Bom Bom State Forest, Bush n Beach Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18778
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17912@eventor.orienteering.asn.au
