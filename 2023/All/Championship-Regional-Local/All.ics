@@ -1280,6 +1280,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18853
 GEO:-35.3162068982312;149.142379956138
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18989@eventor.orienteering.asn.au
+DTSTAMP:20230417T225126Z
+DTSTART:20230407T200000Z
+DTEND:20230407T220000Z
+SUMMARY:Easter-O with TRR, Totally Tropical Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18989
+GEO:-19.3172700849625;146.72729731018
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18927@eventor.orienteering.asn.au
 DTSTAMP:20230410T125343Z
 DTSTART:20230414T230000Z
@@ -1307,7 +1316,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18940
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18854@eventor.orienteering.asn.au
-DTSTAMP:20230328T011539Z
+DTSTAMP:20230418T022944Z
 DTSTART:20230417T070000Z
 DTEND:20230417T091500Z
 SUMMARY:ACT MapRun Street Series: Kaleen North, 13-17 April, Orienteering ACT
@@ -1360,11 +1369,20 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18116
 GEO:-37.043403490159;144.197053911103
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18988@eventor.orienteering.asn.au
+DTSTAMP:20230417T224707Z
+DTSTART:20230422T213000Z
+DTEND:20230422T233000Z
+SUMMARY:TTOC - World Book Day Scatter-O, Totally Tropical Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18988
+GEO:-19.2612674728109;146.815853302973
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18834@eventor.orienteering.asn.au
-DTSTAMP:20230417T121046Z
+DTSTAMP:20230418T042848Z
 DTSTART:20230422T233000Z
 DTEND:20230422T233000Z
-SUMMARY:Newcastle OY#2 Kitchener, Newcastle Orienteering Club
+SUMMARY:NOY2 - Kitchener, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18834
 GEO:-32.8789301678722;151.365325472197
 END:VEVENT
@@ -1664,7 +1682,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18023
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18653@eventor.orienteering.asn.au
-DTSTAMP:20230417T103716Z
+DTSTAMP:20230418T022637Z
 DTSTART:20230520T140000Z
 DTEND:20230521T140000Z
 SUMMARY:Uplands - OST 4 Northern Classic - Schools Selection Event 2, Esk Valley
@@ -1794,6 +1812,14 @@ DTSTART:20230603T140000Z
 DTEND:20230604T140000Z
 SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18838
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18990@eventor.orienteering.asn.au
+DTSTAMP:20230418T023150Z
+DTSTART:20230603T140000Z
+DTEND:20230604T140000Z
+SUMMARY:Wild Dog Creek - OST 6, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/18990
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17890@eventor.orienteering.asn.au
@@ -2633,7 +2659,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18852
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18140@eventor.orienteering.asn.au
-DTSTAMP:20230411T061142Z
+DTSTAMP:20230418T063151Z
 DTSTART:20230929T160000Z
 DTEND:20230930T160000Z
 SUMMARY:Australian Championships Middle Distance, Orienteering WA

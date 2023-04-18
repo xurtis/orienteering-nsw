@@ -396,9 +396,9 @@ GEO:-12.4123915849352;130.830703961951
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18408@eventor.orienteering.asn.au
-DTSTAMP:20230415T072956Z
+DTSTAMP:20230418T122109Z
 DTSTART:20230430T003000Z
-DTEND:20230430T020000Z
+DTEND:20230430T030000Z
 SUMMARY:Victor Harbor Foot and MTBO, Yalanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18408
 GEO:-35.5500945048659;138.608675458005
@@ -508,6 +508,15 @@ SUMMARY:Carisbrooke Park, Tintookies Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18630
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18991@eventor.orienteering.asn.au
+DTSTAMP:20230418T055312Z
+DTSTART:20230516T060000Z
+DTEND:20230516T073000Z
+SUMMARY:North Eastern Zone After School Event #3 - The Heights, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18991
+GEO:-34.8111458067079;138.684058453716
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18459@eventor.orienteering.asn.au
 DTSTAMP:20230117T052147Z
 DTSTART:20230517T010000Z
@@ -568,6 +577,15 @@ DTEND:20230521T053000Z
 SUMMARY:Port Lincoln: Boston Island, Lincoln Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18763
 GEO:-34.7036140450237;135.927821782799
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18992@eventor.orienteering.asn.au
+DTSTAMP:20230418T070453Z
+DTSTART:20230523T060000Z
+DTEND:20230523T073000Z
+SUMMARY:North Eastern Zone After School Event #4 - The Heights, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18992
+GEO:-34.811534217663;138.684017925635
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18957@eventor.orienteering.asn.au

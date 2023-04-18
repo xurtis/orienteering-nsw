@@ -93,12 +93,30 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18813
 GEO:-27.6808157072436;152.904300697977
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18989@eventor.orienteering.asn.au
+DTSTAMP:20230417T225126Z
+DTSTART:20230407T200000Z
+DTEND:20230407T220000Z
+SUMMARY:Easter-O with TRR, Totally Tropical Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18989
+GEO:-19.3172700849625;146.72729731018
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18940@eventor.orienteering.asn.au
 DTSTAMP:20230404T001137Z
 DTSTART:20230416T230000Z
 DTEND:20230417T040000Z
 SUMMARY:Training - Beenleigh - Orienteering Instructor - Trinity College, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18940
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18988@eventor.orienteering.asn.au
+DTSTAMP:20230417T224707Z
+DTSTART:20230422T213000Z
+DTEND:20230422T233000Z
+SUMMARY:TTOC - World Book Day Scatter-O, Totally Tropical Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18988
+GEO:-19.2612674728109;146.815853302973
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18019@eventor.orienteering.asn.au
