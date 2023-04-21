@@ -979,7 +979,7 @@ GEO:-32.8789301678722;151.365325472197
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18674@eventor.orienteering.asn.au
-DTSTAMP:20230410T105728Z
+DTSTAMP:20230421T112031Z
 DTSTART:20230422T233000Z
 DTEND:20230423T030000Z
 SUMMARY:2023 Metro League #1, Garingal Orienteers
@@ -1033,7 +1033,7 @@ GEO:-34.4981777363239;150.392658580591
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17754@eventor.orienteering.asn.au
-DTSTAMP:20230310T042113Z
+DTSTAMP:20230421T111641Z
 DTSTART:20230429T233000Z
 DTEND:20230430T040000Z
 SUMMARY:2023 NSW State League #4 (Long) - Soapy Flat, near Mittagong, Southern Highlands Orienteers
@@ -1189,12 +1189,22 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17756
 GEO:-33.0857191983988;148.706384955307
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18900@eventor.orienteering.asn.au
-DTSTAMP:20230326T000723Z
+UID:Event_18994@eventor.orienteering.asn.au
+DTSTAMP:20230421T050610Z
 DTSTART:20230526T233000Z
-DTEND:20230526T233000Z
-SUMMARY:Saturday Orienteering Term 2 #3 Maze Race Week, Bold Horizons Event Organiser
+DTEND:20230527T020000Z
+SUMMARY:SOS Hawkesbury - McGraths Hill (Maze Race week), Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/18994
+GEO:-33.6190254353088;150.832163201987
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18900@eventor.orienteering.asn.au
+DTSTAMP:20230421T045521Z
+DTSTART:20230526T233000Z
+DTEND:20230527T020000Z
+SUMMARY:SOS Northside -  West Pymble (Maze Race week), Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/18900
+GEO:-33.7633091682155;151.133150651011
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18837@eventor.orienteering.asn.au
@@ -1221,12 +1231,22 @@ SUMMARY:Waggaroos - AWOC Interclub #3, Narrandera, Wagga and Riverina Occasional
 URL:https://eventor.orienteering.asn.au/Events/Show/18588
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18901@eventor.orienteering.asn.au
-DTSTAMP:20230326T000903Z
+UID:Event_18995@eventor.orienteering.asn.au
+DTSTAMP:20230421T061122Z
 DTSTART:20230602T233000Z
-DTEND:20230602T233000Z
-SUMMARY:Saturday Orienteering Term 2 #4, Bold Horizons Event Organiser
+DTEND:20230603T020000Z
+SUMMARY:SOS Hawkesbury - Richmond, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/18995
+GEO:-33.6117152700779;150.749094686583
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18901@eventor.orienteering.asn.au
+DTSTAMP:20230421T054631Z
+DTSTART:20230602T233000Z
+DTEND:20230603T020000Z
+SUMMARY:SOS Northside - Lindfield, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/18901
+GEO:-33.7709823901807;151.176074369823
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18888@eventor.orienteering.asn.au
@@ -1270,6 +1290,14 @@ DTSTART:20230611T000000Z
 DTEND:20230611T033000Z
 SUMMARY:Waggaroos Local event, Rocky Hill, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18589
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18996@eventor.orienteering.asn.au
+DTSTAMP:20230421T061510Z
+DTSTART:20230616T233000Z
+DTEND:20230617T020000Z
+SUMMARY:SOS Northside, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/18996
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18688@eventor.orienteering.asn.au
@@ -1349,6 +1377,23 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18906
 GEO:-33.7630355805982;151.004454380812
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18998@eventor.orienteering.asn.au
+DTSTAMP:20230421T063126Z
+DTSTART:20230623T233000Z
+DTEND:20230624T020000Z
+SUMMARY:SOS Hawkesbury - Richmond, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/18998
+GEO:-33.598956305719;150.746440286424
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18997@eventor.orienteering.asn.au
+DTSTAMP:20230421T062154Z
+DTSTART:20230623T233000Z
+DTEND:20230624T020000Z
+SUMMARY:SOS Northside, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/18997
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18666@eventor.orienteering.asn.au
 DTSTAMP:20230207T005319Z
 DTSTART:20230624T233000Z
@@ -1378,7 +1423,7 @@ UID:Event_18909@eventor.orienteering.asn.au
 DTSTAMP:20230328T052218Z
 DTSTART:20230627T233000Z
 DTEND:20230627T233000Z
-SUMMARY:Sydney South West Primary Schools Orienteering Championships, Bold Horizons Event Organiser
+SUMMARY:Sydney South West Primary Schools Orienteering Championships, Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18909
 END:VEVENT
 BEGIN:VEVENT
