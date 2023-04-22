@@ -3988,6 +3988,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18509
 GEO:-37.8003477395718;144.884717139218
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18567@eventor.orienteering.asn.au
+DTSTAMP:20230422T032425Z
+DTSTART:20230418T140000Z
+DTEND:20230419T140000Z
+SUMMARY:MapRun Night Nav North Mackay, 21Degrees South Multisport Assoc.
+URL:https://eventor.orienteering.asn.au/Events/Show/18567
+GEO:-21.1224555142976;149.181372906805
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18456@eventor.orienteering.asn.au
 DTSTAMP:20230406T044246Z
 DTSTART:20230419T010000Z
@@ -3995,15 +4004,6 @@ DTEND:20230419T033000Z
 SUMMARY:Midweek Training at Mack Creek, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18456
 GEO:-34.7246291546692;138.826449628342
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18567@eventor.orienteering.asn.au
-DTSTAMP:20230126T012328Z
-DTSTART:20230419T073000Z
-DTEND:20230419T091500Z
-SUMMARY:MapRun Night Nav North Mackay, 21Degrees South Multisport Assoc.
-URL:https://eventor.orienteering.asn.au/Events/Show/18567
-GEO:-21.1224555142976;149.181372906805
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18502@eventor.orienteering.asn.au
@@ -4052,7 +4052,7 @@ GEO:-33.8453628418841;151.074846083098
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16768@eventor.orienteering.asn.au
-DTSTAMP:20230412T001001Z
+DTSTAMP:20230422T065712Z
 DTSTART:20230422T040000Z
 DTEND:20230422T040000Z
 SUMMARY:EODS - 7th Brigade Park BCC, Enoggeroos
@@ -4221,9 +4221,9 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17856
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17753@eventor.orienteering.asn.au
-DTSTAMP:20230417T045213Z
-DTSTART:20230429T023000Z
-DTEND:20230429T040000Z
+DTSTAMP:20230422T085841Z
+DTSTART:20230429T020000Z
+DTEND:20230429T033000Z
 SUMMARY:2023 NSW State League #3 - Middle Distance Belanglo, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17753
 GEO:-34.5073643530854;150.246006858826
@@ -4737,11 +4737,12 @@ GEO:-30.3016114209838;153.140423894011
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18342@eventor.orienteering.asn.au
-DTSTAMP:20230417T125729Z
+DTSTAMP:20230422T072354Z
 DTSTART:20230513T040000Z
 DTEND:20230513T060000Z
 SUMMARY:Illawarra - Gwynneville, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18342
+GEO:-34.4174603687469;150.88268220759
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18652@eventor.orienteering.asn.au
@@ -5021,10 +5022,10 @@ GEO:-35.2836783721036;149.136491716182
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18976@eventor.orienteering.asn.au
-DTSTAMP:20230416T064152Z
+DTSTAMP:20230422T083342Z
 DTSTART:20230520T230000Z
 DTEND:20230520T230000Z
-SUMMARY:Sandalwood, via Drillham, Coaching, Range Runners Orienteering Club
+SUMMARY:Sandalwood Park, via Drillham, Coaching, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18976
 GEO:-26.7222356982432;149.92695872931
 END:VEVENT
@@ -7351,6 +7352,14 @@ DTSTART:20230923T233000Z
 DTEND:20230923T233000Z
 SUMMARY:Newcastle OY 8 / Hunter Valley Champs, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18846
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18999@eventor.orienteering.asn.au
+DTSTAMP:20230422T100403Z
+DTSTART:20230924T010000Z
+DTEND:20230924T033000Z
+SUMMARY:SA Interclub Relays, SA Arrows
+URL:https://eventor.orienteering.asn.au/Events/Show/18999
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18668@eventor.orienteering.asn.au
