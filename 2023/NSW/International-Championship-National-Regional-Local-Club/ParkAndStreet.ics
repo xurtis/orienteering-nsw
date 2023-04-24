@@ -624,10 +624,10 @@ GEO:-32.6311085616595;151.591346187545
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18618@eventor.orienteering.asn.au
-DTSTAMP:20230420T013659Z
+DTSTAMP:20230423T220209Z
 DTSTART:20230426T081500Z
 DTEND:20230426T103000Z
-SUMMARY:Newcastle Night Urban Champs, Newcastle Orienteering Club
+SUMMARY:Newcastle Night Champs (Urban), Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18618
 GEO:-33.0407976940618;151.596919977145
 END:VEVENT
@@ -651,7 +651,7 @@ GEO:-30.3016114209838;153.140423894011
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18342@eventor.orienteering.asn.au
-DTSTAMP:20230422T072354Z
+DTSTAMP:20230424T022333Z
 DTSTART:20230513T040000Z
 DTEND:20230513T060000Z
 SUMMARY:Illawarra - Gwynneville, Illawarra Kareelah Orienteers
@@ -699,6 +699,14 @@ DTSTART:20230701T220000Z
 DTEND:20230702T023000Z
 SUMMARY:2023 Sydney Metropolitan Turkey Trot, Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18907
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19001@eventor.orienteering.asn.au
+DTSTAMP:20230424T053525Z
+DTSTART:20230715T043000Z
+DTEND:20230715T053000Z
+SUMMARY:Illawarra TBA, Illawarra Kareelah Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19001
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18690@eventor.orienteering.asn.au

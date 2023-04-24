@@ -526,10 +526,10 @@ GEO:-32.6311085616595;151.591346187545
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18618@eventor.orienteering.asn.au
-DTSTAMP:20230420T013659Z
+DTSTAMP:20230423T220209Z
 DTSTART:20230426T081500Z
 DTEND:20230426T103000Z
-SUMMARY:Newcastle Night Urban Champs, Newcastle Orienteering Club
+SUMMARY:Newcastle Night Champs (Urban), Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18618
 GEO:-33.0407976940618;151.596919977145
 END:VEVENT
@@ -550,6 +550,15 @@ DTEND:20230513T060000Z
 SUMMARY:Coffs Score #2 - Jetty Foreshores , Bush n Beach Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18776
 GEO:-30.3016114209838;153.140423894011
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18342@eventor.orienteering.asn.au
+DTSTAMP:20230424T022333Z
+DTSTART:20230513T040000Z
+DTEND:20230513T060000Z
+SUMMARY:Illawarra - Gwynneville, Illawarra Kareelah Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18342
+GEO:-34.4174603687469;150.88268220759
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18888@eventor.orienteering.asn.au
@@ -584,6 +593,14 @@ DTSTART:20230627T233000Z
 DTEND:20230627T233000Z
 SUMMARY:Sydney South West Primary Schools Orienteering Championships, Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18909
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19001@eventor.orienteering.asn.au
+DTSTAMP:20230424T053525Z
+DTSTART:20230715T043000Z
+DTEND:20230715T053000Z
+SUMMARY:Illawarra TBA, Illawarra Kareelah Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19001
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18843@eventor.orienteering.asn.au

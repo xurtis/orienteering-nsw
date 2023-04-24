@@ -960,6 +960,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17934
 GEO:-27.0735430183613;153.026495980863
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18187@eventor.orienteering.asn.au
+DTSTAMP:20230424T091108Z
+DTSTART:20230513T230000Z
+DTEND:20230514T010000Z
+SUMMARY:World Orienteering Day: Bush trail orienteering at Hinterland Regional Park, Gold Coast, Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18187
+GEO:-28.092723751523;153.355568723918
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18786@eventor.orienteering.asn.au
 DTSTAMP:20230302T064549Z
 DTSTART:20230513T230000Z
@@ -1001,14 +1010,6 @@ DTEND:20230520T230000Z
 SUMMARY:Sandalwood Park, via Drillham, Coaching, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18976
 GEO:-26.7222356982432;149.92695872931
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18187@eventor.orienteering.asn.au
-DTSTAMP:20221111T030112Z
-DTSTART:20230520T230000Z
-DTEND:20230521T010000Z
-SUMMARY:World Orienteering Day Event TBC, Paradise Lost Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18187
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18179@eventor.orienteering.asn.au
@@ -1141,6 +1142,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17937
 GEO:-26.9302555291874;152.998401461759
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19002@eventor.orienteering.asn.au
+DTSTAMP:20230424T091022Z
+DTSTART:20230610T230000Z
+DTEND:20230611T010000Z
+SUMMARY:Bush orienteering at Shelter Road, Arundel, Gold Coast, Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19002
+GEO:-27.9174164630292;153.358823406016
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18937@eventor.orienteering.asn.au
 DTSTAMP:20230403T124925Z
 DTSTART:20230613T073000Z
@@ -1206,6 +1216,15 @@ DTSTART:20230622T003000Z
 DTEND:20230622T010000Z
 SUMMARY:Underwood Park, Priestdale. Park, Street, & Bush., Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18681
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19003@eventor.orienteering.asn.au
+DTSTAMP:20230424T091414Z
+DTSTART:20230701T230000Z
+DTEND:20230702T010000Z
+SUMMARY:Bush Orienteering at Nerang National Park, Gold Coast, Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19003
+GEO:-27.9847675951492;153.302014467681
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18787@eventor.orienteering.asn.au
@@ -1356,12 +1375,12 @@ GEO:-27.4827439415576;153.114922415097
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18669@eventor.orienteering.asn.au
-DTSTAMP:20230207T013756Z
+DTSTAMP:20230424T022401Z
 DTSTART:20230819T230000Z
 DTEND:20230820T023000Z
-SUMMARY:Parkinson Forest, Parkinson, Toohey Forest Orienteers
+SUMMARY:Glider Forest, Parkinson, Toohey Forest Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18669
-GEO:-27.6574626002588;153.023656877118
+GEO:-27.6529656566235;153.006056696029
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18439@eventor.orienteering.asn.au
@@ -1418,7 +1437,7 @@ GEO:-27.4593646191735;152.977962978994
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18317@eventor.orienteering.asn.au
-DTSTAMP:20221206T044102Z
+DTSTAMP:20230424T015819Z
 DTSTART:20230907T140000Z
 DTEND:20230908T140000Z
 SUMMARY:Australian MTBO Champs - Mass Start, Multi Terrain Bike Orienteers
@@ -1427,7 +1446,7 @@ GEO:-27.3415286226599;153.075814484248
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17517@eventor.orienteering.asn.au
-DTSTAMP:20220518T104846Z
+DTSTAMP:20230424T015841Z
 DTSTART:20230908T140000Z
 DTEND:20230909T140000Z
 SUMMARY:Australian MTBO Champs - Middle Distance, Multi Terrain Bike Orienteers
@@ -1436,7 +1455,7 @@ GEO:-27.4447991627212;153.101014925671
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17516@eventor.orienteering.asn.au
-DTSTAMP:20220518T104846Z
+DTSTAMP:20230424T015857Z
 DTSTART:20230908T140000Z
 DTEND:20230909T140000Z
 SUMMARY:Australian MTBO Champs - Sprint Distance, Multi Terrain Bike Orienteers
@@ -1445,7 +1464,7 @@ GEO:-27.4449025733238;153.101006821115
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17518@eventor.orienteering.asn.au
-DTSTAMP:20220518T104846Z
+DTSTAMP:20230424T015912Z
 DTSTART:20230909T140000Z
 DTEND:20230910T140000Z
 SUMMARY:Australian MTBO Champs - Long Distance, Multi Terrain Bike Orienteers
@@ -1497,10 +1516,10 @@ GEO:-27.4075276374579;153.051992739612
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18668@eventor.orienteering.asn.au
-DTSTAMP:20230207T020616Z
+DTSTAMP:20230424T120504Z
 DTSTART:20230924T060000Z
 DTEND:20230924T063000Z
-SUMMARY:Maprun Parks 2023 - Boronia Bushland Reserve, Boronia, Toohey Forest Orienteers
+SUMMARY:Maprun Parks 2023 - Boronia Bushland Reserve, Boronia - LCC, Toohey Forest Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18668
 GEO:-27.6933619085246;153.027446824627
 END:VEVENT
@@ -1656,10 +1675,10 @@ GEO:-27.4100476705996;152.923478931987
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18691@eventor.orienteering.asn.au
-DTSTAMP:20230210T063528Z
+DTSTAMP:20230424T120611Z
 DTSTART:20231130T073000Z
 DTEND:20231130T093000Z
-SUMMARY:Night Nav - Southside - Rochedale South, Toohey Forest Orienteers
+SUMMARY:Night Nav - Southside - Rochedale South - LCC, Toohey Forest Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18691
 GEO:-27.590639194972;153.133406882762
 END:VEVENT

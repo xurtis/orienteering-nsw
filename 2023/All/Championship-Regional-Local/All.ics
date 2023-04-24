@@ -1352,10 +1352,10 @@ GEO:-33.8453628418841;151.074846083098
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18115@eventor.orienteering.asn.au
-DTSTAMP:20230422T013841Z
+DTSTAMP:20230424T075323Z
 DTSTART:20230422T000000Z
 DTEND:20230422T020000Z
-SUMMARY:Vic MTBO Sprint Distance Championships, Bayside Kangaroos Orienteers / Bendigo Orienteers
+SUMMARY:Vic MTBO Sprint Distance Championships, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18115
 GEO:-37.0433520186885;144.192951332617
 END:VEVENT
@@ -1424,10 +1424,10 @@ GEO:-35.3830766906157;149.050347510716
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18618@eventor.orienteering.asn.au
-DTSTAMP:20230420T013659Z
+DTSTAMP:20230423T220209Z
 DTSTART:20230426T081500Z
 DTEND:20230426T103000Z
-SUMMARY:Newcastle Night Urban Champs, Newcastle Orienteering Club
+SUMMARY:Newcastle Night Champs (Urban), Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18618
 GEO:-33.0407976940618;151.596919977145
 END:VEVENT
@@ -1458,7 +1458,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17856
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17753@eventor.orienteering.asn.au
-DTSTAMP:20230423T081212Z
+DTSTAMP:20230424T045636Z
 DTSTART:20230429T020000Z
 DTEND:20230429T033000Z
 SUMMARY:2023 NSW State League #3 - Middle Distance Belanglo, Illawarra Kareelah Orienteers
@@ -1494,7 +1494,7 @@ GEO:-34.3888603279762;150.330017840283
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17897@eventor.orienteering.asn.au
-DTSTAMP:20230416T051924Z
+DTSTAMP:20230423T235930Z
 DTSTART:20230430T000000Z
 DTEND:20230430T030000Z
 SUMMARY:ACT Classic Series: ACT Relays, Campbell Park, Abominable O-Men
@@ -1512,10 +1512,10 @@ GEO:-25.579409;152.400829
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18856@eventor.orienteering.asn.au
-DTSTAMP:20230417T001807Z
+DTSTAMP:20230424T021808Z
 DTSTART:20230501T070000Z
 DTEND:20230501T091500Z
-SUMMARY:ACT MapRun Street Series: Lyneham, 27 Apr - 1 May, Orienteering ACT
+SUMMARY:ACT MapRun Street Series: O'Connor-Lyneham, 27 Apr - 1 May, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18856
 GEO:-35.2519949488316;149.125343366529
 END:VEVENT
@@ -1597,6 +1597,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18776
 GEO:-30.3016114209838;153.140423894011
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18342@eventor.orienteering.asn.au
+DTSTAMP:20230424T022333Z
+DTSTART:20230513T040000Z
+DTEND:20230513T060000Z
+SUMMARY:Illawarra - Gwynneville, Illawarra Kareelah Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18342
+GEO:-34.4174603687469;150.88268220759
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18836@eventor.orienteering.asn.au
 DTSTAMP:20230316T235530Z
 DTSTART:20230513T140000Z
@@ -1615,10 +1624,10 @@ GEO:-33.8453285616292;151.074755062431
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18858@eventor.orienteering.asn.au
-DTSTAMP:20230329T002229Z
+DTSTAMP:20230424T021954Z
 DTSTART:20230515T070000Z
 DTEND:20230515T091500Z
-SUMMARY:ACT MapRun Street Series: Gilmore, 11-15 May, Orienteering ACT
+SUMMARY:ACT MapRun Street Series: Gilmore-Chisholm, 11-15 May, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18858
 GEO:-35.4137935207635;149.129538128106
 END:VEVENT
@@ -1710,10 +1719,10 @@ GEO:-33.7633091682155;151.133150651011
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17860@eventor.orienteering.asn.au
-DTSTAMP:20230330T010244Z
+DTSTAMP:20230424T022744Z
 DTSTART:20230527T003000Z
 DTEND:20230527T030000Z
-SUMMARY:ACT Metro Series: Junior League #5, TBA, Abominable O-Men
+SUMMARY:ACT Metro Series: Junior League #5, West Stromlo, Abominable O-Men
 URL:https://eventor.orienteering.asn.au/Events/Show/17860
 END:VEVENT
 BEGIN:VEVENT
@@ -1744,7 +1753,7 @@ GEO:-37.2038136057444;144.249656021543
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18675@eventor.orienteering.asn.au
-DTSTAMP:20230207T024239Z
+DTSTAMP:20230424T005246Z
 DTSTART:20230527T233000Z
 DTEND:20230527T233000Z
 SUMMARY:2023 Metro League #2, Western and Hills Orienteers
@@ -2084,6 +2093,14 @@ SUMMARY:ACT MapRun Street Series: TBA, 6-10 Jul, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18866
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19001@eventor.orienteering.asn.au
+DTSTAMP:20230424T053525Z
+DTSTART:20230715T043000Z
+DTEND:20230715T053000Z
+SUMMARY:Illawarra TBA, Illawarra Kareelah Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19001
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18021@eventor.orienteering.asn.au
 DTSTAMP:20230119T013812Z
 DTSTART:20230715T140000Z
@@ -2159,7 +2176,7 @@ GEO:-26.490154;150.079749
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18743@eventor.orienteering.asn.au
-DTSTAMP:20230224T071451Z
+DTSTAMP:20230424T015701Z
 DTSTART:20230723T013000Z
 DTEND:20230723T050000Z
 SUMMARY:MTBO 5 WA Middle Distance Championships, Orienteering WA
@@ -2475,7 +2492,7 @@ GEO:-34.8734477845165;138.689432868122
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18541@eventor.orienteering.asn.au
-DTSTAMP:20230206T014816Z
+DTSTAMP:20230423T230608Z
 DTSTART:20230901T140000Z
 DTEND:20230902T140000Z
 SUMMARY:NSW MTBO Champs - Long, Bush n Beach Orienteering Club / Hastings Orienteering Group / Newcastle Orienteering Club
@@ -2501,7 +2518,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17870
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18542@eventor.orienteering.asn.au
-DTSTAMP:20230206T014848Z
+DTSTAMP:20230423T230637Z
 DTSTART:20230902T140000Z
 DTEND:20230903T140000Z
 SUMMARY:NSW MTBO Champs - Middle, Bush n Beach Orienteering Club / Hastings Orienteering Group / Newcastle Orienteering Club
@@ -2510,7 +2527,7 @@ GEO:-30.6692998592909;152.952265402865
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18543@eventor.orienteering.asn.au
-DTSTAMP:20230206T014922Z
+DTSTAMP:20230423T230700Z
 DTSTART:20230902T140000Z
 DTEND:20230903T140000Z
 SUMMARY:NSW MTBO Champs - Sprint, Bush n Beach Orienteering Club / Hastings Orienteering Group / Newcastle Orienteering Club
@@ -2551,6 +2568,15 @@ SUMMARY:ACT MapRun Street Series: TBA, 31 Aug - 4 Sep, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18874
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18317@eventor.orienteering.asn.au
+DTSTAMP:20230424T015819Z
+DTSTART:20230907T140000Z
+DTEND:20230908T140000Z
+SUMMARY:Australian MTBO Champs - Mass Start, Multi Terrain Bike Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18317
+GEO:-27.3415286226599;153.075814484248
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17714@eventor.orienteering.asn.au
 DTSTAMP:20230321T063824Z
 DTSTART:20230908T140000Z
@@ -2559,12 +2585,39 @@ SUMMARY:2023 Orienteering NSW State Championships (Middle) / State League #14, G
 URL:https://eventor.orienteering.asn.au/Events/Show/17714
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_17517@eventor.orienteering.asn.au
+DTSTAMP:20230424T015841Z
+DTSTART:20230908T140000Z
+DTEND:20230909T140000Z
+SUMMARY:Australian MTBO Champs - Middle Distance, Multi Terrain Bike Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/17517
+GEO:-27.4447991627212;153.101014925671
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17516@eventor.orienteering.asn.au
+DTSTAMP:20230424T015857Z
+DTSTART:20230908T140000Z
+DTEND:20230909T140000Z
+SUMMARY:Australian MTBO Champs - Sprint Distance, Multi Terrain Bike Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/17516
+GEO:-27.4449025733238;153.101006821115
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17715@eventor.orienteering.asn.au
 DTSTAMP:20230321T063853Z
 DTSTART:20230909T140000Z
 DTEND:20230910T140000Z
 SUMMARY:2023 Orienteering NSW State Championships (Long) / State League #15, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17715
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17518@eventor.orienteering.asn.au
+DTSTAMP:20230424T015912Z
+DTSTART:20230909T140000Z
+DTEND:20230910T140000Z
+SUMMARY:Australian MTBO Champs - Long Distance, Multi Terrain Bike Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/17518
+GEO:-27.44461227836;153.101355118979
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18431@eventor.orienteering.asn.au
@@ -2810,6 +2863,14 @@ DTSTART:20231017T230000Z
 DTEND:20231018T050000Z
 SUMMARY:Closed School Event, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18549
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17821@eventor.orienteering.asn.au
+DTSTAMP:20230424T015731Z
+DTSTART:20231021T133000Z
+DTEND:20231022T133000Z
+SUMMARY:SA MTBO Championships, Tintookies Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/17821
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18027@eventor.orienteering.asn.au

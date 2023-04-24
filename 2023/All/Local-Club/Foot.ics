@@ -2830,10 +2830,10 @@ GEO:-27.4515181969337;152.980956777814
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18618@eventor.orienteering.asn.au
-DTSTAMP:20230420T013659Z
+DTSTAMP:20230423T220209Z
 DTSTART:20230426T081500Z
 DTEND:20230426T103000Z
-SUMMARY:Newcastle Night Urban Champs, Newcastle Orienteering Club
+SUMMARY:Newcastle Night Champs (Urban), Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18618
 GEO:-33.0407976940618;151.596919977145
 END:VEVENT
@@ -2936,7 +2936,7 @@ GEO:-37.7339438428161;144.832276800178
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17897@eventor.orienteering.asn.au
-DTSTAMP:20230416T051924Z
+DTSTAMP:20230423T235930Z
 DTSTART:20230430T000000Z
 DTEND:20230430T030000Z
 SUMMARY:ACT Classic Series: ACT Relays, Campbell Park, Abominable O-Men
@@ -2945,7 +2945,7 @@ GEO:-35.2810067741941;149.174659942669
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18408@eventor.orienteering.asn.au
-DTSTAMP:20230423T020928Z
+DTSTAMP:20230423T235148Z
 DTSTART:20230430T003000Z
 DTEND:20230430T030000Z
 SUMMARY:Victor Harbor Foot and MTBO, Yalanga Orienteers
@@ -3068,7 +3068,7 @@ GEO:-33.1694371448252;149.239410864937
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18794@eventor.orienteering.asn.au
-DTSTAMP:20230304T004052Z
+DTSTAMP:20230424T010553Z
 DTSTART:20230507T000000Z
 DTEND:20230507T040000Z
 SUMMARY:Oakview, Northern Tablelands Orienteering Club
@@ -3164,6 +3164,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18801
 GEO:-27.5061425287856;153.086796534212
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19004@eventor.orienteering.asn.au
+DTSTAMP:20230424T111844Z
+DTSTART:20230511T060000Z
+DTEND:20230511T073000Z
+SUMMARY:Southern Zone After School Event #1 - Hackham East PS, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/19004
+GEO:-35.1400312147388;138.53456481255
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18895@eventor.orienteering.asn.au
 DTSTAMP:20230325T103406Z
 DTSTART:20230511T061500Z
@@ -3236,7 +3245,7 @@ GEO:-30.3016114209838;153.140423894011
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18342@eventor.orienteering.asn.au
-DTSTAMP:20230422T072354Z
+DTSTAMP:20230424T022333Z
 DTSTART:20230513T040000Z
 DTEND:20230513T060000Z
 SUMMARY:Illawarra - Gwynneville, Illawarra Kareelah Orienteers
@@ -3259,6 +3268,15 @@ DTSTART:20230513T140000Z
 DTEND:20230514T140000Z
 SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18836
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18187@eventor.orienteering.asn.au
+DTSTAMP:20230424T091108Z
+DTSTART:20230513T230000Z
+DTEND:20230514T010000Z
+SUMMARY:World Orienteering Day: Bush trail orienteering at Hinterland Regional Park, Gold Coast, Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18187
+GEO:-28.092723751523;153.355568723918
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18786@eventor.orienteering.asn.au
@@ -3289,7 +3307,7 @@ GEO:-37.7592307138098;145.080034480795
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18630@eventor.orienteering.asn.au
-DTSTAMP:20230423T050549Z
+DTSTAMP:20230424T053758Z
 DTSTART:20230514T000000Z
 DTEND:20230514T013000Z
 SUMMARY:Carisbrooke Park, Tintookies Orienteers
@@ -3376,6 +3394,15 @@ SUMMARY:Moonlight Madness #1 - World Orienteering Day, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18889
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19005@eventor.orienteering.asn.au
+DTSTAMP:20230424T111759Z
+DTSTART:20230518T060000Z
+DTEND:20230518T073000Z
+SUMMARY:Southern Zone After School Event #2 - Hackham East PS, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/19005
+GEO:-35.1399539983758;138.534630463637
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18896@eventor.orienteering.asn.au
 DTSTAMP:20230325T103421Z
 DTSTART:20230518T061500Z
@@ -3453,14 +3480,6 @@ DTEND:20230520T230000Z
 SUMMARY:Sandalwood Park, via Drillham, Coaching, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18976
 GEO:-26.7222356982432;149.92695872931
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18187@eventor.orienteering.asn.au
-DTSTAMP:20221111T030112Z
-DTSTART:20230520T230000Z
-DTEND:20230521T010000Z
-SUMMARY:World Orienteering Day Event TBC, Paradise Lost Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18187
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18177@eventor.orienteering.asn.au
@@ -3541,6 +3560,15 @@ SUMMARY:Anzac Park, Toowong. Bush and Park., Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18438
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19006@eventor.orienteering.asn.au
+DTSTAMP:20230424T112634Z
+DTSTART:20230525T060000Z
+DTEND:20230525T073000Z
+SUMMARY:Southern Zone After School Event #3 - Newland Ave. Linear Reserve, Marino, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/19006
+GEO:-35.0434114794201;138.516354172998
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18897@eventor.orienteering.asn.au
 DTSTAMP:20230325T103436Z
 DTSTART:20230525T061500Z
@@ -3587,10 +3615,10 @@ GEO:-35.0595046143147;138.859359352046
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17860@eventor.orienteering.asn.au
-DTSTAMP:20230330T010244Z
+DTSTAMP:20230424T022744Z
 DTSTART:20230527T003000Z
 DTEND:20230527T030000Z
-SUMMARY:ACT Metro Series: Junior League #5, TBA, Abominable O-Men
+SUMMARY:ACT Metro Series: Junior League #5, West Stromlo, Abominable O-Men
 URL:https://eventor.orienteering.asn.au/Events/Show/17860
 END:VEVENT
 BEGIN:VEVENT
@@ -3638,7 +3666,7 @@ GEO:-27.5039531921932;152.804267986471
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18675@eventor.orienteering.asn.au
-DTSTAMP:20230207T024239Z
+DTSTAMP:20230424T005246Z
 DTSTART:20230527T233000Z
 DTEND:20230527T233000Z
 SUMMARY:2023 Metro League #2, Western and Hills Orienteers
@@ -3858,6 +3886,15 @@ DTSTART:20230610T140000Z
 DTEND:20230611T140000Z
 SUMMARY:Leyburn South Coaching, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18711
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19002@eventor.orienteering.asn.au
+DTSTAMP:20230424T091022Z
+DTSTART:20230610T230000Z
+DTEND:20230611T010000Z
+SUMMARY:Bush orienteering at Shelter Road, Arundel, Gold Coast, Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19002
+GEO:-27.9174164630292;153.358823406016
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18589@eventor.orienteering.asn.au
@@ -4252,6 +4289,15 @@ SUMMARY:2023 Sydney Metropolitan Turkey Trot, Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18907
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19003@eventor.orienteering.asn.au
+DTSTAMP:20230424T091414Z
+DTSTART:20230701T230000Z
+DTEND:20230702T010000Z
+SUMMARY:Bush Orienteering at Nerang National Park, Gold Coast, Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19003
+GEO:-27.9847675951492;153.302014467681
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18787@eventor.orienteering.asn.au
 DTSTAMP:20230302T064916Z
 DTSTART:20230701T230000Z
@@ -4400,6 +4446,14 @@ DTEND:20230715T040000Z
 SUMMARY:Bendigo Bush 10 - Fiddlers Green, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18393
 GEO:-36.7450968016985;144.277303068867
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19001@eventor.orienteering.asn.au
+DTSTAMP:20230424T053525Z
+DTSTART:20230715T043000Z
+DTEND:20230715T053000Z
+SUMMARY:Illawarra TBA, Illawarra Kareelah Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19001
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18979@eventor.orienteering.asn.au
@@ -4911,12 +4965,12 @@ GEO:-33.2576261872858;139.005109912589
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18669@eventor.orienteering.asn.au
-DTSTAMP:20230207T013756Z
+DTSTAMP:20230424T022401Z
 DTSTART:20230819T230000Z
 DTEND:20230820T023000Z
-SUMMARY:Parkinson Forest, Parkinson, Toohey Forest Orienteers
+SUMMARY:Glider Forest, Parkinson, Toohey Forest Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18669
-GEO:-27.6574626002588;153.023656877118
+GEO:-27.6529656566235;153.006056696029
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18594@eventor.orienteering.asn.au
@@ -4987,10 +5041,10 @@ GEO:-28.3354675032474;152.050228496973
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18769@eventor.orienteering.asn.au
-DTSTAMP:20230226T041540Z
+DTSTAMP:20230424T002651Z
 DTSTART:20230827T010000Z
 DTEND:20230827T033000Z
-SUMMARY:gurra yarda, Lincoln Orienteers
+SUMMARY:Port Lincoln: gurra yarda, Lincoln Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18769
 GEO:-34.6536050507978;135.836533906295
 END:VEVENT
@@ -5280,10 +5334,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18999
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18668@eventor.orienteering.asn.au
-DTSTAMP:20230207T020616Z
+DTSTAMP:20230424T120504Z
 DTSTART:20230924T060000Z
 DTEND:20230924T063000Z
-SUMMARY:Maprun Parks 2023 - Boronia Bushland Reserve, Boronia, Toohey Forest Orienteers
+SUMMARY:Maprun Parks 2023 - Boronia Bushland Reserve, Boronia - LCC, Toohey Forest Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18668
 GEO:-27.6933619085246;153.027446824627
 END:VEVENT

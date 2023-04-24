@@ -2,4 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
+BEGIN:VEVENT
+UID:Event_17821@eventor.orienteering.asn.au
+DTSTAMP:20230424T015731Z
+DTSTART:20231021T133000Z
+DTEND:20231022T133000Z
+SUMMARY:SA MTBO Championships, Tintookies Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/17821
+END:VEVENT
 END:VCALENDAR

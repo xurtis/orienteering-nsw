@@ -897,6 +897,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/16771
 GEO:-27.4034539934341;153.04103021508
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18187@eventor.orienteering.asn.au
+DTSTAMP:20230424T091108Z
+DTSTART:20230513T230000Z
+DTEND:20230514T010000Z
+SUMMARY:World Orienteering Day: Bush trail orienteering at Hinterland Regional Park, Gold Coast, Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18187
+GEO:-28.092723751523;153.355568723918
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18786@eventor.orienteering.asn.au
 DTSTAMP:20230302T064549Z
 DTSTART:20230513T230000Z
@@ -938,14 +947,6 @@ DTEND:20230520T230000Z
 SUMMARY:Sandalwood Park, via Drillham, Coaching, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18976
 GEO:-26.7222356982432;149.92695872931
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18187@eventor.orienteering.asn.au
-DTSTAMP:20221111T030112Z
-DTSTART:20230520T230000Z
-DTEND:20230521T010000Z
-SUMMARY:World Orienteering Day Event TBC, Paradise Lost Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18187
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18179@eventor.orienteering.asn.au
@@ -1069,6 +1070,15 @@ SUMMARY:Leyburn South Coaching, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18711
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19002@eventor.orienteering.asn.au
+DTSTAMP:20230424T091022Z
+DTSTART:20230610T230000Z
+DTEND:20230611T010000Z
+SUMMARY:Bush orienteering at Shelter Road, Arundel, Gold Coast, Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19002
+GEO:-27.9174164630292;153.358823406016
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18937@eventor.orienteering.asn.au
 DTSTAMP:20230403T124925Z
 DTSTART:20230613T073000Z
@@ -1134,6 +1144,15 @@ DTSTART:20230622T003000Z
 DTEND:20230622T010000Z
 SUMMARY:Underwood Park, Priestdale. Park, Street, & Bush., Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18681
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19003@eventor.orienteering.asn.au
+DTSTAMP:20230424T091414Z
+DTSTART:20230701T230000Z
+DTEND:20230702T010000Z
+SUMMARY:Bush Orienteering at Nerang National Park, Gold Coast, Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19003
+GEO:-27.9847675951492;153.302014467681
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18787@eventor.orienteering.asn.au
@@ -1267,12 +1286,12 @@ GEO:-27.4827439415576;153.114922415097
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18669@eventor.orienteering.asn.au
-DTSTAMP:20230207T013756Z
+DTSTAMP:20230424T022401Z
 DTSTART:20230819T230000Z
 DTEND:20230820T023000Z
-SUMMARY:Parkinson Forest, Parkinson, Toohey Forest Orienteers
+SUMMARY:Glider Forest, Parkinson, Toohey Forest Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18669
-GEO:-27.6574626002588;153.023656877118
+GEO:-27.6529656566235;153.006056696029
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18439@eventor.orienteering.asn.au
@@ -1372,10 +1391,10 @@ GEO:-27.4075276374579;153.051992739612
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18668@eventor.orienteering.asn.au
-DTSTAMP:20230207T020616Z
+DTSTAMP:20230424T120504Z
 DTSTART:20230924T060000Z
 DTEND:20230924T063000Z
-SUMMARY:Maprun Parks 2023 - Boronia Bushland Reserve, Boronia, Toohey Forest Orienteers
+SUMMARY:Maprun Parks 2023 - Boronia Bushland Reserve, Boronia - LCC, Toohey Forest Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18668
 GEO:-27.6933619085246;153.027446824627
 END:VEVENT

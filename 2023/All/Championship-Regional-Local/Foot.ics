@@ -1182,10 +1182,10 @@ GEO:-42.132521196362;146.330927596722
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18618@eventor.orienteering.asn.au
-DTSTAMP:20230420T013659Z
+DTSTAMP:20230423T220209Z
 DTSTART:20230426T081500Z
 DTEND:20230426T103000Z
-SUMMARY:Newcastle Night Urban Champs, Newcastle Orienteering Club
+SUMMARY:Newcastle Night Champs (Urban), Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18618
 GEO:-33.0407976940618;151.596919977145
 END:VEVENT
@@ -1216,7 +1216,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17856
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17753@eventor.orienteering.asn.au
-DTSTAMP:20230423T081212Z
+DTSTAMP:20230424T045636Z
 DTSTART:20230429T020000Z
 DTEND:20230429T033000Z
 SUMMARY:2023 NSW State League #3 - Middle Distance Belanglo, Illawarra Kareelah Orienteers
@@ -1252,7 +1252,7 @@ GEO:-34.3888603279762;150.330017840283
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17897@eventor.orienteering.asn.au
-DTSTAMP:20230416T051924Z
+DTSTAMP:20230423T235930Z
 DTSTART:20230430T000000Z
 DTEND:20230430T030000Z
 SUMMARY:ACT Classic Series: ACT Relays, Campbell Park, Abominable O-Men
@@ -1336,6 +1336,15 @@ DTEND:20230513T060000Z
 SUMMARY:Coffs Score #2 - Jetty Foreshores , Bush n Beach Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18776
 GEO:-30.3016114209838;153.140423894011
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18342@eventor.orienteering.asn.au
+DTSTAMP:20230424T022333Z
+DTSTART:20230513T040000Z
+DTEND:20230513T060000Z
+SUMMARY:Illawarra - Gwynneville, Illawarra Kareelah Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18342
+GEO:-34.4174603687469;150.88268220759
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18836@eventor.orienteering.asn.au
@@ -1425,10 +1434,10 @@ GEO:-33.7633091682155;151.133150651011
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17860@eventor.orienteering.asn.au
-DTSTAMP:20230330T010244Z
+DTSTAMP:20230424T022744Z
 DTSTART:20230527T003000Z
 DTEND:20230527T030000Z
-SUMMARY:ACT Metro Series: Junior League #5, TBA, Abominable O-Men
+SUMMARY:ACT Metro Series: Junior League #5, West Stromlo, Abominable O-Men
 URL:https://eventor.orienteering.asn.au/Events/Show/17860
 END:VEVENT
 BEGIN:VEVENT
@@ -1459,7 +1468,7 @@ GEO:-37.2038136057444;144.249656021543
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18675@eventor.orienteering.asn.au
-DTSTAMP:20230207T024239Z
+DTSTAMP:20230424T005246Z
 DTSTART:20230527T233000Z
 DTEND:20230527T233000Z
 SUMMARY:2023 Metro League #2, Western and Hills Orienteers
@@ -1733,6 +1742,14 @@ DTEND:20230709T030000Z
 SUMMARY:Highlands Forest Series #2 - Penrose SF, Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18828
 GEO:-34.6194258085926;150.213609969037
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19001@eventor.orienteering.asn.au
+DTSTAMP:20230424T053525Z
+DTSTART:20230715T043000Z
+DTEND:20230715T053000Z
+SUMMARY:Illawarra TBA, Illawarra Kareelah Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19001
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18021@eventor.orienteering.asn.au

@@ -388,7 +388,7 @@ GEO:-12.4123915849352;130.830703961951
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18408@eventor.orienteering.asn.au
-DTSTAMP:20230423T020928Z
+DTSTAMP:20230423T235148Z
 DTSTART:20230430T003000Z
 DTEND:20230430T030000Z
 SUMMARY:Victor Harbor Foot and MTBO, Yalanga Orienteers
@@ -474,6 +474,15 @@ SUMMARY:Heathfield After School Zone Event #2, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18952
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19004@eventor.orienteering.asn.au
+DTSTAMP:20230424T111844Z
+DTSTART:20230511T060000Z
+DTEND:20230511T073000Z
+SUMMARY:Southern Zone After School Event #1 - Hackham East PS, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/19004
+GEO:-35.1400312147388;138.53456481255
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18895@eventor.orienteering.asn.au
 DTSTAMP:20230325T103406Z
 DTSTART:20230511T061500Z
@@ -493,7 +502,7 @@ GEO:-35.020864181799;138.636663632954
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18630@eventor.orienteering.asn.au
-DTSTAMP:20230423T050549Z
+DTSTAMP:20230424T053758Z
 DTSTART:20230514T000000Z
 DTEND:20230514T013000Z
 SUMMARY:Carisbrooke Park, Tintookies Orienteers
@@ -535,6 +544,15 @@ DTEND:20230517T071500Z
 SUMMARY:Heathfield After School Zone Event #3, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18953
 GEO:-35.0139354653894;138.714087766613
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19005@eventor.orienteering.asn.au
+DTSTAMP:20230424T111759Z
+DTSTART:20230518T060000Z
+DTEND:20230518T073000Z
+SUMMARY:Southern Zone After School Event #2 - Hackham East PS, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/19005
+GEO:-35.1399539983758;138.534630463637
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18896@eventor.orienteering.asn.au
@@ -596,6 +614,15 @@ DTSTART:20230524T060000Z
 DTEND:20230524T071500Z
 SUMMARY:Heathfield After School Zone Event #4, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18954
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19006@eventor.orienteering.asn.au
+DTSTAMP:20230424T112634Z
+DTSTART:20230525T060000Z
+DTEND:20230525T073000Z
+SUMMARY:Southern Zone After School Event #3 - Newland Ave. Linear Reserve, Marino, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/19006
+GEO:-35.0434114794201;138.516354172998
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18897@eventor.orienteering.asn.au
@@ -791,10 +818,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18178
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18769@eventor.orienteering.asn.au
-DTSTAMP:20230226T041540Z
+DTSTAMP:20230424T002651Z
 DTSTART:20230827T010000Z
 DTEND:20230827T033000Z
-SUMMARY:gurra yarda, Lincoln Orienteers
+SUMMARY:Port Lincoln: gurra yarda, Lincoln Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18769
 GEO:-34.6536050507978;135.836533906295
 END:VEVENT
@@ -855,14 +882,6 @@ DTSTART:20231018T000000Z
 DTEND:20231018T023000Z
 SUMMARY:Midweek Training at Kuitpo, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18464
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_17821@eventor.orienteering.asn.au
-DTSTAMP:20230204T034439Z
-DTSTART:20231021T133000Z
-DTEND:20231022T133000Z
-SUMMARY:SA MTBO Championships, Tintookies Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/17821
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18315@eventor.orienteering.asn.au
