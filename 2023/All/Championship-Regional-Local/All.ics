@@ -1415,7 +1415,7 @@ GEO:-37.0601891131363;144.10766885874
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18855@eventor.orienteering.asn.au
-DTSTAMP:20230330T014633Z
+DTSTAMP:20230425T000955Z
 DTSTART:20230424T070000Z
 DTEND:20230424T091500Z
 SUMMARY:ACT MapRun Street Series: North-west Kambah, 20-24 Apr, Orienteering ACT
@@ -1433,7 +1433,7 @@ GEO:-33.0407976940618;151.596919977145
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18019@eventor.orienteering.asn.au
-DTSTAMP:20230323T011935Z
+DTSTAMP:20230425T065950Z
 DTSTART:20230428T140000Z
 DTEND:20230430T140000Z
 SUMMARY:OY3-OY4 Qld Long Distance Championships, Cabbage Tree Mountain, Maryborough, Orienteering Queensland / Ugly Gully Orienteers
@@ -1503,7 +1503,7 @@ GEO:-35.2810067741941;149.174659942669
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18018@eventor.orienteering.asn.au
-DTSTAMP:20230323T012101Z
+DTSTAMP:20230425T070344Z
 DTSTART:20230430T140000Z
 DTEND:20230501T140000Z
 SUMMARY:OY5 - Qld Middle Distance Championships - Cabbage Tree Mountain (Maryborough), Orienteering Queensland / Sunshine Orienteers Club
@@ -1564,11 +1564,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18857
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18586@eventor.orienteering.asn.au
-DTSTAMP:20230128T062551Z
+DTSTAMP:20230425T044135Z
 DTSTART:20230508T230000Z
 DTEND:20230509T033000Z
 SUMMARY:Riverina Schools Championships, Willan's Hill, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18586
+GEO:-35.1309409729996;147.367327532548
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18899@eventor.orienteering.asn.au
@@ -2011,6 +2012,15 @@ SUMMARY:ACT Sprint Distance Championships: ACT League #3, TBA, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/17825
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19007@eventor.orienteering.asn.au
+DTSTAMP:20230425T032535Z
+DTSTART:20230624T140000Z
+DTEND:20230625T140000Z
+SUMMARY:Lovely Banks - OST 7, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/19007
+GEO:-42.4482655858886;147.227772345213
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18666@eventor.orienteering.asn.au
 DTSTAMP:20230207T005319Z
 DTSTART:20230624T233000Z
@@ -2158,6 +2168,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18322
 GEO:-26.490154;150.079749
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19008@eventor.orienteering.asn.au
+DTSTAMP:20230425T032535Z
+DTSTART:20230722T140000Z
+DTEND:20230723T140000Z
+SUMMARY:Pittwater - Southern Regional Championships - OST 8, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/19008
+GEO:-42.8297468615918;147.581567271709
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18676@eventor.orienteering.asn.au
 DTSTAMP:20230207T024210Z
 DTSTART:20230722T233000Z
@@ -2266,12 +2285,28 @@ SUMMARY:Sydney West Secondary Schools Orienteering Championships, Bold Horizons 
 URL:https://eventor.orienteering.asn.au/Events/Show/18912
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19009@eventor.orienteering.asn.au
+DTSTAMP:20230425T032535Z
+DTSTART:20230804T140000Z
+DTEND:20230805T140000Z
+SUMMARY:Royal George - Tas Relay Champs/Team Event/Format - TBC, Orienteering Tasmania
+URL:https://eventor.orienteering.asn.au/Events/Show/19009
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17867@eventor.orienteering.asn.au
 DTSTAMP:20230330T010258Z
 DTSTART:20230805T003000Z
 DTEND:20230805T030000Z
 SUMMARY:ACT Metro Series: Junior League #12, Narrabundah Hill, Weston Emus
 URL:https://eventor.orienteering.asn.au/Events/Show/17867
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19010@eventor.orienteering.asn.au
+DTSTAMP:20230425T032624Z
+DTSTART:20230805T140000Z
+DTEND:20230806T140000Z
+SUMMARY:Royal George - OST 9, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/19010
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18429@eventor.orienteering.asn.au
@@ -2408,12 +2443,28 @@ SUMMARY:ACT Middle Distance Championships: ACT League #6, NSW SL #10, Collector 
 URL:https://eventor.orienteering.asn.au/Events/Show/17826
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19011@eventor.orienteering.asn.au
+DTSTAMP:20230425T032535Z
+DTSTART:20230818T140000Z
+DTEND:20230819T140000Z
+SUMMARY:Bells Marsh - Tas Long Distance Champs, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/19011
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17827@eventor.orienteering.asn.au
 DTSTAMP:20230330T002020Z
 DTSTART:20230819T140000Z
 DTEND:20230820T140000Z
 SUMMARY:ACT Long Distance Championships: ACT League #7, NSW SL #11, Murdering Shed, Orienteering ACT / Orienteering NSW / Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/17827
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19012@eventor.orienteering.asn.au
+DTSTAMP:20230425T032624Z
+DTSTART:20230819T140000Z
+DTEND:20230820T140000Z
+SUMMARY:Hunt Tin Mine - Tas Middle Distance Championships, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19012
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18430@eventor.orienteering.asn.au

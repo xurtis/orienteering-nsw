@@ -4,7 +4,7 @@ PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
 UID:Event_18239@eventor.orienteering.asn.au
-DTSTAMP:20230114T005757Z
+DTSTAMP:20230425T053706Z
 DTSTART:20230113T073000Z
 DTEND:20230113T073000Z
 SUMMARY:Twilight Series - Event #6 - Torrents Linear Park - Hackney - St Peters, Orienteering SA
@@ -510,7 +510,7 @@ GEO:-35.020864181799;138.636663632954
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18630@eventor.orienteering.asn.au
-DTSTAMP:20230424T053758Z
+DTSTAMP:20230425T053531Z
 DTSTART:20230514T000000Z
 DTEND:20230514T013000Z
 SUMMARY:Carisbrooke Park, Tintookies Orienteers
@@ -763,6 +763,23 @@ DTEND:20230709T033000Z
 SUMMARY:Port Lincoln: Donington, Lincoln Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18766
 GEO:-34.7294434123375;135.989875326793
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19015@eventor.orienteering.asn.au
+DTSTAMP:20230425T101051Z
+DTSTART:20230709T143000Z
+DTEND:20230710T143000Z
+SUMMARY:SA Junior arrows camp - 4 day entry, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/19015
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19016@eventor.orienteering.asn.au
+DTSTAMP:20230425T101811Z
+DTSTART:20230709T143000Z
+DTEND:20230710T143000Z
+SUMMARY:SA junior arrows camp Day 1 training only, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/19016
+GEO:-34.5298917136215;138.688772866191
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18461@eventor.orienteering.asn.au

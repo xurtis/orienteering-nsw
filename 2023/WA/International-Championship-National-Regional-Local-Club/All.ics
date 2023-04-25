@@ -246,6 +246,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18531
 GEO:-35.053085689329;117.9139503009
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19013@eventor.orienteering.asn.au
+DTSTAMP:20230425T033712Z
+DTSTART:20230514T050000Z
+DTEND:20230514T073000Z
+SUMMARY:Crooked Brook (SWOT Bush Series 1), South-West Orienteering Trekkers
+URL:https://eventor.orienteering.asn.au/Events/Show/19013
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18706@eventor.orienteering.asn.au
 DTSTAMP:20230214T084313Z
 DTSTART:20230521T013000Z
@@ -300,15 +308,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18720
 GEO:-32.2979627049865;116.733769681792
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18987@eventor.orienteering.asn.au
-DTSTAMP:20230417T074403Z
-DTSTART:20230624T170000Z
-DTEND:20230624T193000Z
-SUMMARY:SHEARWATER South Bunbury, South-West Orienteering Trekkers
-URL:https://eventor.orienteering.asn.au/Events/Show/18987
-GEO:-33.3810824045736;115.631459717859
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18740@eventor.orienteering.asn.au
 DTSTAMP:20230224T062258Z
 DTSTART:20230625T013000Z
@@ -316,6 +315,15 @@ DTEND:20230625T013000Z
 SUMMARY:MTBO 4 Lake Leschenaultia, Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/18740
 GEO:-31.8513644865601;116.25334645304
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18987@eventor.orienteering.asn.au
+DTSTAMP:20230425T030125Z
+DTSTART:20230625T050000Z
+DTEND:20230625T073000Z
+SUMMARY:Shearwater Forest (SWOT Bush Series 3), South-West Orienteering Trekkers
+URL:https://eventor.orienteering.asn.au/Events/Show/18987
+GEO:-33.3810824045736;115.631459717859
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18741@eventor.orienteering.asn.au
@@ -352,6 +360,14 @@ DTEND:20230723T050000Z
 SUMMARY:MTBO 5 WA Middle Distance Championships, Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/18743
 GEO:-32.3193194366382;116.069529863635
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19014@eventor.orienteering.asn.au
+DTSTAMP:20230425T034243Z
+DTSTART:20230723T050000Z
+DTEND:20230723T073000Z
+SUMMARY:Evedon Ridge (SWOT Bush Series 4), South-West Orienteering Trekkers
+URL:https://eventor.orienteering.asn.au/Events/Show/19014
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18744@eventor.orienteering.asn.au
