@@ -2266,7 +2266,7 @@ GEO:-37.8577198662248;144.896569928964
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18618@eventor.orienteering.asn.au
-DTSTAMP:20230423T220209Z
+DTSTAMP:20230426T100330Z
 DTSTART:20230426T081500Z
 DTEND:20230426T103000Z
 SUMMARY:Newcastle Night Champs (Urban), Newcastle Orienteering Club
@@ -2468,7 +2468,7 @@ DTSTART:20230514T000000Z
 DTEND:20230514T013000Z
 SUMMARY:Carisbrooke Park, Tintookies Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18630
-GEO:-34.7544786281254;138.677612722981
+GEO:-34.7562602126885;138.668114231964
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18858@eventor.orienteering.asn.au
@@ -2505,6 +2505,15 @@ DTEND:20230516T101000Z
 SUMMARY:Melbourne Park Street Tuesday Autumn Series - Essendon, Melbourne Forest Racers
 URL:https://eventor.orienteering.asn.au/Events/Show/18513
 GEO:-37.7469612921437;144.909896043226
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18889@eventor.orienteering.asn.au
+DTSTAMP:20230426T082644Z
+DTSTART:20230517T073000Z
+DTEND:20230517T094500Z
+SUMMARY:Moonlight Madness #1 - World Orienteering Day, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18889
+GEO:-33.8398334985335;151.197094464919
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18966@eventor.orienteering.asn.au

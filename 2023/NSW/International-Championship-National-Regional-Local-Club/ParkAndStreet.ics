@@ -624,7 +624,7 @@ GEO:-32.6311085616595;151.591346187545
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18618@eventor.orienteering.asn.au
-DTSTAMP:20230423T220209Z
+DTSTAMP:20230426T100330Z
 DTSTART:20230426T081500Z
 DTEND:20230426T103000Z
 SUMMARY:Newcastle Night Champs (Urban), Newcastle Orienteering Club
@@ -657,6 +657,15 @@ DTEND:20230513T060000Z
 SUMMARY:Illawarra - Gwynneville, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18342
 GEO:-34.4174603687469;150.88268220759
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18889@eventor.orienteering.asn.au
+DTSTAMP:20230426T082644Z
+DTSTART:20230517T073000Z
+DTEND:20230517T094500Z
+SUMMARY:Moonlight Madness #1 - World Orienteering Day, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18889
+GEO:-33.8398334985335;151.197094464919
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18888@eventor.orienteering.asn.au
