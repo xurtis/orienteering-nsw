@@ -577,6 +577,14 @@ SUMMARY:ACT Classic Series: Jim Sawkins Memorial Handicap, ACT League #2, Glenda
 URL:https://eventor.orienteering.asn.au/Events/Show/17890
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19020@eventor.orienteering.asn.au
+DTSTAMP:20230428T002849Z
+DTSTART:20230609T140000Z
+DTEND:20230610T140000Z
+SUMMARY:Northern Region - Launceston Sprint Weekend, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19020
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18321@eventor.orienteering.asn.au
 DTSTAMP:20230201T012526Z
 DTSTART:20230609T140000Z
@@ -587,12 +595,20 @@ GEO:-37.6222626717964;145.076668091567
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17757@eventor.orienteering.asn.au
-DTSTAMP:20230403T001306Z
+DTSTAMP:20230428T100748Z
 DTSTART:20230609T140000Z
 DTEND:20230612T140000Z
 SUMMARY:2023 KB3 and NSW State Leagues 7, 8 and 9, Central Coast Orienteers / Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/17757
 GEO:-33.1665564725522;151.388226117534
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19021@eventor.orienteering.asn.au
+DTSTAMP:20230428T003805Z
+DTSTART:20230610T140000Z
+DTEND:20230611T140000Z
+SUMMARY:Northern Region - Tas Sprint Championships, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19021
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18428@eventor.orienteering.asn.au
@@ -611,6 +627,14 @@ DTEND:20230611T020000Z
 SUMMARY:SA Long Distance Championships, Tintookies Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17819
 GEO:-31.5143492175691;138.660341991665
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19022@eventor.orienteering.asn.au
+DTSTAMP:20230428T003841Z
+DTSTART:20230611T140000Z
+DTEND:20230612T140000Z
+SUMMARY:Northern Region - Launceston Sprint Weekend, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19022
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18020@eventor.orienteering.asn.au

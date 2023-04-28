@@ -3249,6 +3249,7 @@ DTSTART:20230429T003000Z
 DTEND:20230429T030000Z
 SUMMARY:ACT Metro Series: Junior League #1, Weston Park, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/17856
+GEO:-35.290489884883;149.092437789548
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17753@eventor.orienteering.asn.au
@@ -3986,12 +3987,12 @@ GEO:-34.7036140450237;135.927821782799
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18706@eventor.orienteering.asn.au
-DTSTAMP:20230214T084313Z
+DTSTAMP:20230428T105438Z
 DTSTART:20230521T013000Z
 DTEND:20230521T013000Z
 SUMMARY:Bush 2 Spice Brook, Orienteering WA / Wullundigong Orienteers of the West
 URL:https://eventor.orienteering.asn.au/Events/Show/18706
-GEO:-31.3419700933222;116.208571092741
+GEO:-31.41325637559;116.177206428359
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18992@eventor.orienteering.asn.au
@@ -4171,11 +4172,12 @@ GEO:-27.5039531921932;152.804267986471
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18675@eventor.orienteering.asn.au
-DTSTAMP:20230424T005246Z
+DTSTAMP:20230428T101212Z
 DTSTART:20230527T233000Z
 DTEND:20230527T233000Z
-SUMMARY:2023 Metro League #2, Western and Hills Orienteers
+SUMMARY:MetrO League 2023 #2 - Wianamatta West, Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18675
+GEO:-33.7252177386839;150.740723826347
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18588@eventor.orienteering.asn.au
@@ -4386,6 +4388,14 @@ SUMMARY:Closed School Event, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18546
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19020@eventor.orienteering.asn.au
+DTSTAMP:20230428T002849Z
+DTSTART:20230609T140000Z
+DTEND:20230610T140000Z
+SUMMARY:Northern Region - Launceston Sprint Weekend, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19020
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18321@eventor.orienteering.asn.au
 DTSTAMP:20230201T012526Z
 DTSTART:20230609T140000Z
@@ -4396,7 +4406,7 @@ GEO:-37.6222626717964;145.076668091567
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17757@eventor.orienteering.asn.au
-DTSTAMP:20230403T001306Z
+DTSTAMP:20230428T100748Z
 DTSTART:20230609T140000Z
 DTEND:20230612T140000Z
 SUMMARY:2023 KB3 and NSW State Leagues 7, 8 and 9, Central Coast Orienteers / Newcastle Orienteering Club
@@ -4437,6 +4447,14 @@ SUMMARY:Leyburn South Coaching, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18711
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19021@eventor.orienteering.asn.au
+DTSTAMP:20230428T003805Z
+DTSTART:20230610T140000Z
+DTEND:20230611T140000Z
+SUMMARY:Northern Region - Tas Sprint Championships, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19021
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18428@eventor.orienteering.asn.au
 DTSTAMP:20230112T044209Z
 DTSTART:20230610T140000Z
@@ -4470,6 +4488,14 @@ DTEND:20230611T020000Z
 SUMMARY:SA Long Distance Championships, Tintookies Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17819
 GEO:-31.5143492175691;138.660341991665
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19022@eventor.orienteering.asn.au
+DTSTAMP:20230428T003841Z
+DTSTART:20230611T140000Z
+DTEND:20230612T140000Z
+SUMMARY:Northern Region - Launceston Sprint Weekend, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19022
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18375@eventor.orienteering.asn.au
@@ -4530,6 +4556,14 @@ DTEND:20230617T060000Z
 SUMMARY:NavDash 5 Araluen, Bibbulmun Orienteers / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/18716
 GEO:-32.122067194162;116.101973519042
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19017@eventor.orienteering.asn.au
+DTSTAMP:20230427T235216Z
+DTSTART:20230617T140000Z
+DTEND:20230618T140000Z
+SUMMARY:Glen Stuart - North Local #1, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19017
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18020@eventor.orienteering.asn.au
@@ -5082,12 +5116,28 @@ SUMMARY:Knocklofty North - Southern Local #6, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18979
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19023@eventor.orienteering.asn.au
+DTSTAMP:20230428T003449Z
+DTSTART:20230715T140000Z
+DTEND:20230716T140000Z
+SUMMARY:North West Region - NW Local, Pathfinders
+URL:https://eventor.orienteering.asn.au/Events/Show/19023
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18021@eventor.orienteering.asn.au
 DTSTAMP:20230119T013812Z
 DTSTART:20230715T140000Z
 DTEND:20230716T140000Z
 SUMMARY:OY8 - location tba (bush), Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/18021
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19018@eventor.orienteering.asn.au
+DTSTAMP:20230428T000031Z
+DTSTART:20230715T140000Z
+DTEND:20230716T140000Z
+SUMMARY:Russells Plains - Northern Local #2, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19018
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18842@eventor.orienteering.asn.au
@@ -5582,6 +5632,14 @@ DTSTART:20230812T140000Z
 DTEND:20230813T140000Z
 SUMMARY:OY9 - Clear Mountain, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/18022
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19019@eventor.orienteering.asn.au
+DTSTAMP:20230428T001153Z
+DTSTART:20230812T140000Z
+DTEND:20230813T140000Z
+SUMMARY:Stephensdale - Northern Local #3, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19019
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18981@eventor.orienteering.asn.au
