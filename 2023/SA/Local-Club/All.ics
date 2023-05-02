@@ -510,6 +510,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18630
 GEO:-34.7562602126885;138.668114231964
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19049@eventor.orienteering.asn.au
+DTSTAMP:20230502T083904Z
+DTSTART:20230514T003000Z
+DTEND:20230514T033000Z
+SUMMARY:Mattum Creek, Saltbush Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19049
+GEO:-33.6821099259534;136.785242578224
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18991@eventor.orienteering.asn.au
 DTSTAMP:20230418T055312Z
 DTSTART:20230516T060000Z
@@ -574,11 +583,12 @@ GEO:-35.0329760424219;138.626757278065
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18177@eventor.orienteering.asn.au
-DTSTAMP:20221104T040904Z
+DTSTAMP:20230502T034257Z
 DTSTART:20230521T003000Z
 DTEND:20230521T033000Z
 SUMMARY:Beaumont Park and Street Orienteering, Wallaringa Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18177
+GEO:-34.9423063648822;138.664972531119
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18763@eventor.orienteering.asn.au
@@ -650,6 +660,15 @@ DTEND:20230527T030000Z
 SUMMARY:Cornerstone College, Mt Barker - Saturday Morning, Onkaparinga Hills Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18374
 GEO:-35.061065945861;138.855097997078
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19050@eventor.orienteering.asn.au
+DTSTAMP:20230502T084347Z
+DTSTART:20230604T003000Z
+DTEND:20230604T033000Z
+SUMMARY:Wild Dog Hill, Saltbush Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19050
+GEO:-32.9507348886843;137.522641314453
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18762@eventor.orienteering.asn.au

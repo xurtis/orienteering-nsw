@@ -1423,7 +1423,7 @@ GEO:-25.579409;152.400829
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18856@eventor.orienteering.asn.au
-DTSTAMP:20230424T021808Z
+DTSTAMP:20230502T005546Z
 DTSTART:20230501T070000Z
 DTEND:20230501T091500Z
 SUMMARY:ACT MapRun Street Series: O'Connor-Lyneham, 27 Apr - 1 May, Orienteering ACT
@@ -1459,10 +1459,10 @@ GEO:-37.0546419141374;144.224693015749
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18835@eventor.orienteering.asn.au
-DTSTAMP:20230501T051943Z
+DTSTAMP:20230501T231638Z
 DTSTART:20230506T233000Z
 DTEND:20230506T233000Z
-SUMMARY:Newcastle OY3, Newcastle Orienteering Club
+SUMMARY:NOY3 - Kearsley, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18835
 GEO:-32.8646267688386;151.398961039639
 END:VEVENT
@@ -1473,6 +1473,7 @@ DTSTART:20230508T070000Z
 DTEND:20230508T091500Z
 SUMMARY:ACT MapRun Street Series: Hawker, 4-8 May, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18857
+GEO:-35.2436790340594;149.04337469526
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18586@eventor.orienteering.asn.au
@@ -1499,6 +1500,7 @@ DTSTART:20230513T003000Z
 DTEND:20230513T030000Z
 SUMMARY:ACT Metro Series: Junior League #3, Mt Taylor, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17858
+GEO:-35.3650352582819;149.072188017855
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18776@eventor.orienteering.asn.au
@@ -1564,10 +1566,10 @@ GEO:-32.339948866044;116.839006905831
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17755@eventor.orienteering.asn.au
-DTSTAMP:20230414T235602Z
+DTSTAMP:20230502T010940Z
 DTSTART:20230519T140000Z
 DTEND:20230520T140000Z
-SUMMARY:2023 NSW State League #5 - Kahli's Rocks - Middle Distance, Bennelong Northside Orienteers
+SUMMARY:2023 NSW State League #5 - Middle distance, Kahli's Rocks , Bennelong Northside Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17755
 GEO:-33.4318014165788;149.399535579468
 END:VEVENT
@@ -1578,6 +1580,7 @@ DTSTART:20230520T003000Z
 DTEND:20230520T030000Z
 SUMMARY:ACT Metro Series: Junior League #4, The Pinnacle, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/17859
+GEO:-35.2567634092729;149.046393195724
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17756@eventor.orienteering.asn.au
@@ -1590,10 +1593,10 @@ GEO:-33.0857191983988;148.706384955307
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18023@eventor.orienteering.asn.au
-DTSTAMP:20230423T101950Z
+DTSTAMP:20230502T115209Z
 DTSTART:20230520T140000Z
 DTEND:20230521T140000Z
-SUMMARY:OY6 - Paperbark Flats -permissions pending, Ugly Gully Orienteers
+SUMMARY:OY6 - Paperbark Flats (near Springfield) - bush, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18023
 END:VEVENT
 BEGIN:VEVENT
@@ -1644,7 +1647,6 @@ DTSTART:20230527T140000Z
 DTEND:20230528T140000Z
 SUMMARY:Springvale, Campania - OST 5 - Schools Selection Event 3, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18651
-GEO:-41.7452178420092;147.766292631862
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18320@eventor.orienteering.asn.au
@@ -2601,6 +2603,15 @@ DTEND:20230930T160000Z
 SUMMARY:Australian Championships Middle Distance, Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/18140
 GEO:-31.7271178957005;116.593071571509
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19042@eventor.orienteering.asn.au
+DTSTAMP:20230502T010525Z
+DTSTART:20230929T160000Z
+DTEND:20230930T160000Z
+SUMMARY:Kambarang Carnival SI tags and O tops, Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/19042
+GEO:-31.917183708462;115.8679731125
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18141@eventor.orienteering.asn.au
