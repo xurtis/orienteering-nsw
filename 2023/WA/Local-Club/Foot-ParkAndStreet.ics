@@ -237,7 +237,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19013
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18706@eventor.orienteering.asn.au
-DTSTAMP:20230430T103123Z
+DTSTAMP:20230503T054052Z
 DTSTART:20230521T013000Z
 DTEND:20230521T013000Z
 SUMMARY:Bush 2 Spice Brook, Orienteering WA / Wullundigong Orienteers of the West
@@ -378,12 +378,21 @@ GEO:-32.0106028013119;116.421941771013
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19042@eventor.orienteering.asn.au
-DTSTAMP:20230502T010525Z
+DTSTAMP:20230503T033141Z
 DTSTART:20230929T160000Z
 DTEND:20230930T160000Z
-SUMMARY:Kambarang Carnival SI tags and O tops, Orienteering WA
+SUMMARY:Kambarang Carnival O tops, Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/19042
 GEO:-31.917183708462;115.8679731125
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19052@eventor.orienteering.asn.au
+DTSTAMP:20230503T034530Z
+DTSTART:20230929T160000Z
+DTEND:20230930T160000Z
+SUMMARY:Kambarang Carnival SI tags, Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/19052
+GEO:-32.0662680382735;115.6921918625
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18537@eventor.orienteering.asn.au

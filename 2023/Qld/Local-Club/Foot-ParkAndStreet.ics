@@ -799,7 +799,7 @@ GEO:-25.5348469475715;152.703879645111
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18945@eventor.orienteering.asn.au
-DTSTAMP:20230408T020244Z
+DTSTAMP:20230503T024256Z
 DTSTART:20230429T140000Z
 DTEND:20230430T140000Z
 SUMMARY:MapRun Parks 2023 - City Botanic Gardens, Ugly Gully Orienteers
@@ -904,6 +904,15 @@ DTEND:20230516T093000Z
 SUMMARY:Night Nav - Torwood, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/16947
 GEO:-27.4653658437958;152.989444612256
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19053@eventor.orienteering.asn.au
+DTSTAMP:20230503T113553Z
+DTSTART:20230518T060000Z
+DTEND:20230518T073000Z
+SUMMARY:Queens Park Toowoomba - World Orienteering Day, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19053
+GEO:-27.5604545589791;151.96398953329
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16772@eventor.orienteering.asn.au

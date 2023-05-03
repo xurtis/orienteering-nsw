@@ -918,7 +918,7 @@ GEO:-33.0407976940618;151.596919977145
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18775@eventor.orienteering.asn.au
-DTSTAMP:20230414T012042Z
+DTSTAMP:20230503T062710Z
 DTSTART:20230429T040000Z
 DTEND:20230429T060000Z
 SUMMARY:Coffs Score #1 - Diggers Beach, Bush n Beach Orienteering Club
@@ -1109,7 +1109,7 @@ DTSTART:20230527T233000Z
 DTEND:20230527T233000Z
 SUMMARY:MetrO League 2023 #2 - Wianamatta West, Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18675
-GEO:-33.7252177386839;150.740723826347
+GEO:-33.7274959459382;150.738485771015
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18588@eventor.orienteering.asn.au
@@ -1153,6 +1153,15 @@ DTSTART:20230603T140000Z
 DTEND:20230604T140000Z
 SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18838
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19051@eventor.orienteering.asn.au
+DTSTAMP:20230502T132900Z
+DTSTART:20230604T000000Z
+DTEND:20230604T040000Z
+SUMMARY:The 48th Great NOSH Footrace, Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/19051
+GEO:-33.768228;151.178573
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18890@eventor.orienteering.asn.au

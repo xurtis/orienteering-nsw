@@ -509,8 +509,17 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18905
 GEO:-35.020864181799;138.636663632954
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19054@eventor.orienteering.asn.au
+DTSTAMP:20230503T131630Z
+DTSTART:20230513T143000Z
+DTEND:20230514T143000Z
+SUMMARY:NT: 2023 Lee Pt, Top End Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19054
+GEO:-12.333389396054;130.893451439965
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18630@eventor.orienteering.asn.au
-DTSTAMP:20230427T052014Z
+DTSTAMP:20230503T082021Z
 DTSTART:20230514T000000Z
 DTEND:20230514T013000Z
 SUMMARY:Carisbrooke Park, Tintookies Orienteers
@@ -714,12 +723,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18312
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17819@eventor.orienteering.asn.au
-DTSTAMP:20230411T113033Z
+DTSTAMP:20230503T085304Z
 DTSTART:20230611T003000Z
 DTEND:20230611T020000Z
-SUMMARY:SA Long Distance Championships, Tintookies Orienteers
+SUMMARY:Flinders Ranges Day 2- SA Long Distance Championships, Tintookies Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17819
-GEO:-31.5143492175691;138.660341991665
+GEO:-31.517662;138.661446
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18375@eventor.orienteering.asn.au
