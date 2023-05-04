@@ -225,13 +225,31 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18441
 GEO:-37.7339438428161;144.832276800178
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19057@eventor.orienteering.asn.au
+DTSTAMP:20230504T114943Z
+DTSTART:20230504T013000Z
+DTEND:20230504T023000Z
+SUMMARY:Koolamurt - Girton Jenkin, Bendigo Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19057
+GEO:-36.8051115460043;144.287656507617
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18318@eventor.orienteering.asn.au
-DTSTAMP:20230501T235730Z
-DTSTART:20230505T140000Z
-DTEND:20230506T140000Z
-SUMMARY:NOL & Vic Series (Bush) 1 - Wattle Gully, Bendigo Orienteers / Central Highlands Orienteering Club
+DTSTAMP:20230504T103709Z
+DTSTART:20230506T000000Z
+DTEND:20230506T020000Z
+SUMMARY:Vic Series (Bush) 1 - Wattle Gully, Bendigo Orienteers / Central Highlands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18318
 GEO:-37.114242028374;144.234705223664
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19055@eventor.orienteering.asn.au
+DTSTAMP:20230504T103752Z
+DTSTART:20230506T000000Z
+DTEND:20230506T040000Z
+SUMMARY:NOL Round 4 - Double Middle, Bendigo Orienteers / Central Highlands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19055
+GEO:-37.1143021705444;144.234999777686
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18949@eventor.orienteering.asn.au
@@ -253,7 +271,7 @@ GEO:-37.113929415822;144.234683356394
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18319@eventor.orienteering.asn.au
-DTSTAMP:20230426T115730Z
+DTSTAMP:20230504T103851Z
 DTSTART:20230507T010000Z
 DTEND:20230507T040000Z
 SUMMARY:Vic Series (Bush) 2 - Wattle Gully, Yarra Valley Orienteering Club
@@ -513,12 +531,12 @@ GEO:-36.7404946702717;144.293464782051
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18429@eventor.orienteering.asn.au
-DTSTAMP:20230116T032910Z
+DTSTAMP:20230504T035412Z
 DTSTART:20230805T140000Z
 DTEND:20230806T140000Z
 SUMMARY:Vic Series (Bush) 6 - Musk Vale, Daylesford, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18429
-GEO:-37.3677215844851;144.147955088438
+GEO:-37.3706514807061;144.145666483336
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18397@eventor.orienteering.asn.au

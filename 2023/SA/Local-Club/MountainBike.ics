@@ -3,13 +3,12 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_18408@eventor.orienteering.asn.au
-DTSTAMP:20230430T035629Z
-DTSTART:20230430T003000Z
-DTEND:20230430T030000Z
-SUMMARY:Victor Harbor Foot and MTBO, Yalanga Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18408
-GEO:-35.5576559036648;138.612162050382
+UID:Event_19056@eventor.orienteering.asn.au
+DTSTAMP:20230504T105645Z
+DTSTART:20230429T233000Z
+DTEND:20230429T233000Z
+SUMMARY:Victor Harbor MTBO, Yalanga Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19056
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18409@eventor.orienteering.asn.au

@@ -1270,6 +1270,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18018
 GEO:-25.579409;152.400829
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19057@eventor.orienteering.asn.au
+DTSTAMP:20230504T114943Z
+DTSTART:20230504T013000Z
+DTEND:20230504T023000Z
+SUMMARY:Koolamurt - Girton Jenkin, Bendigo Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19057
+GEO:-36.8051115460043;144.287656507617
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18898@eventor.orienteering.asn.au
 DTSTAMP:20230423T053452Z
 DTSTART:20230505T233000Z
@@ -1277,6 +1286,15 @@ DTEND:20230506T020000Z
 SUMMARY:SOS Northside - North Sydney, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/18898
 GEO:-33.829354968383;151.207266770554
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18318@eventor.orienteering.asn.au
+DTSTAMP:20230504T103709Z
+DTSTART:20230506T000000Z
+DTEND:20230506T020000Z
+SUMMARY:Vic Series (Bush) 1 - Wattle Gully, Bendigo Orienteers / Central Highlands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18318
+GEO:-37.114242028374;144.234705223664
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17857@eventor.orienteering.asn.au
@@ -1304,6 +1322,15 @@ DTEND:20230506T233000Z
 SUMMARY:NOY3 - Kearsley, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18835
 GEO:-32.8646267688386;151.398961039639
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18319@eventor.orienteering.asn.au
+DTSTAMP:20230504T103851Z
+DTSTART:20230507T010000Z
+DTEND:20230507T040000Z
+SUMMARY:Vic Series (Bush) 2 - Wattle Gully, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18319
+GEO:-37.1142289573615;144.23483995661
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18586@eventor.orienteering.asn.au
@@ -1413,20 +1440,22 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17756
 GEO:-33.0857191983988;148.706384955307
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18023@eventor.orienteering.asn.au
-DTSTAMP:20230502T115209Z
-DTSTART:20230520T140000Z
-DTEND:20230521T140000Z
-SUMMARY:OY6 - Paperbark Flats (near Springfield) - bush, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18023
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18653@eventor.orienteering.asn.au
-DTSTAMP:20230421T013532Z
+DTSTAMP:20230504T003240Z
 DTSTART:20230520T140000Z
 DTEND:20230521T140000Z
 SUMMARY:Uplands - OST 4 Northern Classic - Schools Selection Event 2, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/18653
+GEO:-41.657213;147.511878
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18023@eventor.orienteering.asn.au
+DTSTAMP:20230504T025956Z
+DTSTART:20230520T230000Z
+DTEND:20230520T230000Z
+SUMMARY:OY6 - Paperbark Flats (near Springfield) - bush, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18023
+GEO:-27.6765721619323;152.84932308575
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18900@eventor.orienteering.asn.au
@@ -1439,10 +1468,10 @@ GEO:-33.7633091682155;151.133150651011
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17860@eventor.orienteering.asn.au
-DTSTAMP:20230429T022422Z
+DTSTAMP:20230504T002706Z
 DTSTART:20230527T003000Z
 DTEND:20230527T030000Z
-SUMMARY:ACT Metro Series: Junior League #5, West Stromlo, Abominable O-Men
+SUMMARY:ACT Metro Series: Junior League #5, West Stromlo South, Abominable O-Men
 URL:https://eventor.orienteering.asn.au/Events/Show/17860
 END:VEVENT
 BEGIN:VEVENT
@@ -1626,10 +1655,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18807
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17862@eventor.orienteering.asn.au
-DTSTAMP:20230330T010248Z
+DTSTAMP:20230504T002753Z
 DTSTART:20230617T003000Z
 DTEND:20230617T030000Z
-SUMMARY:ACT Metro Series: Junior League #7, Mt Ainslie North, Bushflyers
+SUMMARY:ACT Metro Series: Junior League #7, Stringybark Hill, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/17862
 END:VEVENT
 BEGIN:VEVENT
@@ -1823,10 +1852,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17884
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17865@eventor.orienteering.asn.au
-DTSTAMP:20230330T010254Z
+DTSTAMP:20230504T002723Z
 DTSTART:20230722T003000Z
 DTEND:20230722T030000Z
-SUMMARY:ACT Metro Series: Junior League #10, Stromlo, Bushflyers
+SUMMARY:ACT Metro Series: Junior League #10, West Stromlo North, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/17865
 END:VEVENT
 BEGIN:VEVENT
@@ -1956,12 +1985,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19010
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18429@eventor.orienteering.asn.au
-DTSTAMP:20230116T032910Z
+DTSTAMP:20230504T035412Z
 DTSTART:20230805T140000Z
 DTEND:20230806T140000Z
 SUMMARY:Vic Series (Bush) 6 - Musk Vale, Daylesford, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18429
-GEO:-37.3677215844851;144.147955088438
+GEO:-37.3706514807061;144.145666483336
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18677@eventor.orienteering.asn.au

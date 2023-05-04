@@ -915,14 +915,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19053
 GEO:-27.5604545589791;151.96398953329
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_16772@eventor.orienteering.asn.au
-DTSTAMP:20230426T034308Z
-DTSTART:20230520T040000Z
-DTEND:20230520T040000Z
-SUMMARY:EODS - Venue/Date change required BCC - TBC, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/16772
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18976@eventor.orienteering.asn.au
 DTSTAMP:20230422T083342Z
 DTSTART:20230520T230000Z
@@ -1151,20 +1143,21 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18569
 GEO:-21.1187310699104;149.221824968533
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18684@eventor.orienteering.asn.au
-DTSTAMP:20230208T030446Z
-DTSTART:20230622T003000Z
-DTEND:20230622T010000Z
-SUMMARY:Marstaellar Rd, Mt Crosby. Bush, Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/18684
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18681@eventor.orienteering.asn.au
 DTSTAMP:20230207T040659Z
 DTSTART:20230622T003000Z
 DTEND:20230622T010000Z
 SUMMARY:Underwood Park, Priestdale. Park, Street, & Bush., Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18681
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_16772@eventor.orienteering.asn.au
+DTSTAMP:20230504T032527Z
+DTSTART:20230701T040000Z
+DTEND:20230701T040000Z
+SUMMARY:EODS - Victoria Park BCC, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/16772
+GEO:-27.4496461138036;153.02284246411
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19003@eventor.orienteering.asn.au
@@ -1306,6 +1299,14 @@ DTEND:20230831T023000Z
 SUMMARY:Mid week - Boronia Bushland Reserve, Boronia, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18881
 GEO:-27.6933581115108;153.027413218821
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18684@eventor.orienteering.asn.au
+DTSTAMP:20230504T071246Z
+DTSTART:20230831T003000Z
+DTEND:20230831T010000Z
+SUMMARY:Marstaellar Rd, Mt Crosby. Bush, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/18684
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18024@eventor.orienteering.asn.au
