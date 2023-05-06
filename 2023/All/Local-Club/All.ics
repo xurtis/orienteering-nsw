@@ -4174,7 +4174,7 @@ GEO:-37.8614276610559;145.145223645567
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17960@eventor.orienteering.asn.au
-DTSTAMP:20230502T040934Z
+DTSTAMP:20230506T033923Z
 DTSTART:20230504T003000Z
 DTEND:20230504T010000Z
 SUMMARY:Cliveden Park, Fig Tree Pocket. Park & Street. (BCC Sponsored) , Orienteering Queensland
@@ -4200,7 +4200,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18894
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18898@eventor.orienteering.asn.au
-DTSTAMP:20230504T221647Z
+DTSTAMP:20230506T021822Z
 DTSTART:20230505T233000Z
 DTEND:20230506T020000Z
 SUMMARY:SOS Northside - North Sydney, Bold Horizons Event Organiser
@@ -4209,7 +4209,7 @@ GEO:-33.8290271886831;151.208115323795
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17857@eventor.orienteering.asn.au
-DTSTAMP:20230330T010237Z
+DTSTAMP:20230506T015830Z
 DTSTART:20230506T003000Z
 DTEND:20230506T030000Z
 SUMMARY:ACT Metro Series: Junior League #2, Bruce Ridge, Red Roos
@@ -4313,7 +4313,7 @@ DTSTART:20230508T230000Z
 DTEND:20230509T013000Z
 SUMMARY:Riverina Schools Individual, Willan's Hill, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18586
-GEO:-35.1309409729996;147.367327532548
+GEO:-35.1342045545873;147.365254607006
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19058@eventor.orienteering.asn.au
@@ -4487,12 +4487,12 @@ GEO:-27.4034539934341;153.04103021508
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18776@eventor.orienteering.asn.au
-DTSTAMP:20230414T011613Z
+DTSTAMP:20230506T105114Z
 DTSTART:20230513T040000Z
 DTEND:20230513T060000Z
 SUMMARY:Coffs Score #2 - Jetty Foreshores , Bush n Beach Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18776
-GEO:-30.3016114209838;153.140423894011
+GEO:-30.3066929663181;153.138738810857
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18342@eventor.orienteering.asn.au
@@ -4502,14 +4502,6 @@ DTEND:20230513T060000Z
 SUMMARY:Illawarra - Gwynneville, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18342
 GEO:-34.4174603687469;150.88268220759
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18836@eventor.orienteering.asn.au
-DTSTAMP:20230316T235530Z
-DTSTART:20230513T140000Z
-DTEND:20230514T140000Z
-SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18836
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17934@eventor.orienteering.asn.au
@@ -4555,6 +4547,14 @@ DTEND:20230514T050000Z
 SUMMARY:NSW Coaches Workshop All Levels, Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/18943
 GEO:-33.8453285616292;151.074755062431
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18836@eventor.orienteering.asn.au
+DTSTAMP:20230506T050407Z
+DTSTART:20230513T233000Z
+DTEND:20230513T233000Z
+SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18836
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18652@eventor.orienteering.asn.au
@@ -4806,6 +4806,15 @@ DTEND:20230520T051000Z
 SUMMARY:Melbourne Park Street Saturday Series - Berwick, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18971
 GEO:-38.0149476471833;145.336334411558
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19059@eventor.orienteering.asn.au
+DTSTAMP:20230506T085838Z
+DTSTART:20230520T213000Z
+DTEND:20230521T000000Z
+SUMMARY:TTOC - Short Course Sunday, Totally Tropical Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19059
+GEO:-19.2859781281553;146.800429685751
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18730@eventor.orienteering.asn.au
@@ -5152,7 +5161,7 @@ GEO:-37.844608321823;145.035435167825
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17967@eventor.orienteering.asn.au
-DTSTAMP:20221005T000048Z
+DTSTAMP:20230506T054718Z
 DTSTART:20230601T003000Z
 DTEND:20230601T010000Z
 SUMMARY:Tingalpa Creek, (Emu St Reserve). Bush, Orienteering Queensland
@@ -5291,9 +5300,9 @@ GEO:-34.5433913552795;135.931058721203
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18708@eventor.orienteering.asn.au
-DTSTAMP:20230502T115309Z
+DTSTAMP:20230506T035141Z
 DTSTART:20230604T050000Z
-DTEND:20230604T160000Z
+DTEND:20230604T050000Z
 SUMMARY:Bush 3,4 Kenine Hill WA Classic, Albany & Denmark Hinterland Orienteering Club / Orienteering WA / South-West Orienteering Trekkers
 URL:https://eventor.orienteering.asn.au/Events/Show/18708
 GEO:-33.5805063929578;117.180411175832
@@ -5885,7 +5894,7 @@ GEO:-31.8513644865601;116.25334645304
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18987@eventor.orienteering.asn.au
-DTSTAMP:20230425T030125Z
+DTSTAMP:20230506T042458Z
 DTSTART:20230625T050000Z
 DTEND:20230625T073000Z
 SUMMARY:Shearwater Forest (SWOT Bush Series 3), South-West Orienteering Trekkers

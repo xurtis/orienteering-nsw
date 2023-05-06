@@ -1441,7 +1441,7 @@ GEO:-36.8051115460043;144.287656507617
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18898@eventor.orienteering.asn.au
-DTSTAMP:20230504T221647Z
+DTSTAMP:20230506T021822Z
 DTSTART:20230505T233000Z
 DTEND:20230506T020000Z
 SUMMARY:SOS Northside - North Sydney, Bold Horizons Event Organiser
@@ -1450,16 +1450,16 @@ GEO:-33.8290271886831;151.208115323795
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18318@eventor.orienteering.asn.au
-DTSTAMP:20230504T103709Z
+DTSTAMP:20230506T063255Z
 DTSTART:20230506T000000Z
-DTEND:20230506T020000Z
+DTEND:20230506T060000Z
 SUMMARY:Vic Series (Bush) 1 - Wattle Gully, Bendigo Orienteers / Central Highlands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18318
 GEO:-37.1233675463917;144.219428298121
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17857@eventor.orienteering.asn.au
-DTSTAMP:20230330T010237Z
+DTSTAMP:20230506T015830Z
 DTSTART:20230506T003000Z
 DTEND:20230506T030000Z
 SUMMARY:ACT Metro Series: Junior League #2, Bruce Ridge, Red Roos
@@ -1509,7 +1509,7 @@ DTSTART:20230508T230000Z
 DTEND:20230509T013000Z
 SUMMARY:Riverina Schools Individual, Willan's Hill, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18586
-GEO:-35.1309409729996;147.367327532548
+GEO:-35.1342045545873;147.365254607006
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19058@eventor.orienteering.asn.au
@@ -1540,12 +1540,12 @@ GEO:-35.3650352582819;149.072188017855
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18776@eventor.orienteering.asn.au
-DTSTAMP:20230414T011613Z
+DTSTAMP:20230506T105114Z
 DTSTART:20230513T040000Z
 DTEND:20230513T060000Z
 SUMMARY:Coffs Score #2 - Jetty Foreshores , Bush n Beach Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18776
-GEO:-30.3016114209838;153.140423894011
+GEO:-30.3066929663181;153.138738810857
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18342@eventor.orienteering.asn.au
@@ -1557,14 +1557,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18342
 GEO:-34.4174603687469;150.88268220759
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18836@eventor.orienteering.asn.au
-DTSTAMP:20230316T235530Z
-DTSTART:20230513T140000Z
-DTEND:20230514T140000Z
-SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18836
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18943@eventor.orienteering.asn.au
 DTSTAMP:20230406T232831Z
 DTSTART:20230513T230000Z
@@ -1572,6 +1564,14 @@ DTEND:20230514T050000Z
 SUMMARY:NSW Coaches Workshop All Levels, Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/18943
 GEO:-33.8453285616292;151.074755062431
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18836@eventor.orienteering.asn.au
+DTSTAMP:20230506T050407Z
+DTSTART:20230513T233000Z
+DTEND:20230513T233000Z
+SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18836
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18587@eventor.orienteering.asn.au
@@ -1644,6 +1644,15 @@ DTEND:20230521T140000Z
 SUMMARY:Uplands - OST 4 Northern Classic - Schools Selection Event 2, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/18653
 GEO:-41.657213;147.511878
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19059@eventor.orienteering.asn.au
+DTSTAMP:20230506T085838Z
+DTSTART:20230520T213000Z
+DTEND:20230521T000000Z
+SUMMARY:TTOC - Short Course Sunday, Totally Tropical Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19059
+GEO:-19.2859781281553;146.800429685751
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18023@eventor.orienteering.asn.au
@@ -1901,10 +1910,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17862
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18020@eventor.orienteering.asn.au
-DTSTAMP:20230228T221319Z
-DTSTART:20230617T140000Z
-DTEND:20230618T140000Z
-SUMMARY:OY7 - Leyburn North - bush, Range Runners Orienteering Club
+DTSTAMP:20230506T041015Z
+DTSTART:20230617T230000Z
+DTEND:20230618T030000Z
+SUMMARY:OY7 - Leyburn North, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18020
 END:VEVENT
 BEGIN:VEVENT
@@ -2549,7 +2558,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17870
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18244@eventor.orienteering.asn.au
-DTSTAMP:20230322T075235Z
+DTSTAMP:20230505T221041Z
 DTSTART:20230902T140000Z
 DTEND:20230903T140000Z
 SUMMARY:Victorian Long Distance Championships - Mt Alexander, Harcourt, Melbourne Forest Racers

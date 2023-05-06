@@ -724,7 +724,7 @@ GEO:-34.3888603279762;150.330017840283
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18898@eventor.orienteering.asn.au
-DTSTAMP:20230504T221647Z
+DTSTAMP:20230506T021822Z
 DTSTART:20230505T233000Z
 DTEND:20230506T020000Z
 SUMMARY:SOS Northside - North Sydney, Bold Horizons Event Organiser
@@ -747,7 +747,7 @@ DTSTART:20230508T230000Z
 DTEND:20230509T013000Z
 SUMMARY:Riverina Schools Individual, Willan's Hill, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18586
-GEO:-35.1309409729996;147.367327532548
+GEO:-35.1342045545873;147.365254607006
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19058@eventor.orienteering.asn.au
@@ -769,12 +769,12 @@ GEO:-33.8391334974228;151.127188983936
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18776@eventor.orienteering.asn.au
-DTSTAMP:20230414T011613Z
+DTSTAMP:20230506T105114Z
 DTSTART:20230513T040000Z
 DTEND:20230513T060000Z
 SUMMARY:Coffs Score #2 - Jetty Foreshores , Bush n Beach Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18776
-GEO:-30.3016114209838;153.140423894011
+GEO:-30.3066929663181;153.138738810857
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18342@eventor.orienteering.asn.au
@@ -786,14 +786,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18342
 GEO:-34.4174603687469;150.88268220759
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18836@eventor.orienteering.asn.au
-DTSTAMP:20230316T235530Z
-DTSTART:20230513T140000Z
-DTEND:20230514T140000Z
-SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18836
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18943@eventor.orienteering.asn.au
 DTSTAMP:20230406T232831Z
 DTSTART:20230513T230000Z
@@ -801,6 +793,14 @@ DTEND:20230514T050000Z
 SUMMARY:NSW Coaches Workshop All Levels, Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/18943
 GEO:-33.8453285616292;151.074755062431
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18836@eventor.orienteering.asn.au
+DTSTAMP:20230506T050407Z
+DTSTART:20230513T233000Z
+DTEND:20230513T233000Z
+SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18836
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18587@eventor.orienteering.asn.au

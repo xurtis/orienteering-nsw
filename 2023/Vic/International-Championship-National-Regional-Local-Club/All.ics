@@ -1114,22 +1114,22 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19057
 GEO:-36.8051115460043;144.287656507617
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18318@eventor.orienteering.asn.au
-DTSTAMP:20230504T103709Z
-DTSTART:20230506T000000Z
-DTEND:20230506T020000Z
-SUMMARY:Vic Series (Bush) 1 - Wattle Gully, Bendigo Orienteers / Central Highlands Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18318
-GEO:-37.1233675463917;144.219428298121
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19055@eventor.orienteering.asn.au
-DTSTAMP:20230504T103752Z
+DTSTAMP:20230506T111116Z
 DTSTART:20230506T000000Z
-DTEND:20230506T040000Z
+DTEND:20230506T060000Z
 SUMMARY:NOL Round 4 - Double Middle, Bendigo Orienteers / Central Highlands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19055
 GEO:-37.1233622007633;144.219509148401
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18318@eventor.orienteering.asn.au
+DTSTAMP:20230506T063255Z
+DTSTART:20230506T000000Z
+DTEND:20230506T060000Z
+SUMMARY:Vic Series (Bush) 1 - Wattle Gully, Bendigo Orienteers / Central Highlands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18318
+GEO:-37.1233675463917;144.219428298121
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18969@eventor.orienteering.asn.au
@@ -1745,7 +1745,7 @@ GEO:-37.0186202919063;144.306329449343
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18244@eventor.orienteering.asn.au
-DTSTAMP:20230322T075235Z
+DTSTAMP:20230505T221041Z
 DTSTART:20230902T140000Z
 DTEND:20230903T140000Z
 SUMMARY:Victorian Long Distance Championships - Mt Alexander, Harcourt, Melbourne Forest Racers
