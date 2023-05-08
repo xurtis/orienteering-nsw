@@ -1657,20 +1657,30 @@ GEO:-33.8453285616292;151.074755062431
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18836@eventor.orienteering.asn.au
-DTSTAMP:20230506T050407Z
+DTSTAMP:20230508T020225Z
 DTSTART:20230513T233000Z
 DTEND:20230513T233000Z
-SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
+SUMMARY:Newcastle Minor Event - Tingira Heights, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18836
+GEO:-32.994427303295;151.649135897945
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18587@eventor.orienteering.asn.au
-DTSTAMP:20230505T071942Z
+DTSTAMP:20230508T075224Z
 DTSTART:20230514T000000Z
 DTEND:20230514T033000Z
 SUMMARY:Waggaroos Local event, Willan's Hill, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18587
 GEO:-35.1341948371283;147.365194948717
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19063@eventor.orienteering.asn.au
+DTSTAMP:20230508T014034Z
+DTSTART:20230514T000000Z
+DTEND:20230514T040000Z
+SUMMARY:Try O - Mother's Day special, Albury-Wodonga Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19063
+GEO:-36.1360226501406;146.87636732287
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18858@eventor.orienteering.asn.au
@@ -1701,7 +1711,7 @@ GEO:-32.339948866044;116.839006905831
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17755@eventor.orienteering.asn.au
-DTSTAMP:20230503T045810Z
+DTSTAMP:20230508T033740Z
 DTSTART:20230519T140000Z
 DTEND:20230520T140000Z
 SUMMARY:2023 NSW State League #5 - Middle distance, Kahli's Rocks , Bennelong Northside Orienteers
@@ -1769,6 +1779,15 @@ DTSTART:20230522T070000Z
 DTEND:20230522T091500Z
 SUMMARY:ACT MapRun Street Series: Macquarie, 18-22 May, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18859
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19074@eventor.orienteering.asn.au
+DTSTAMP:20230508T103329Z
+DTSTART:20230525T060000Z
+DTEND:20230525T071500Z
+SUMMARY:Mt Barker Afterschool Orienteering ZONE 3 , Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/19074
+GEO:-35.0594609783743;138.85593097193
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18900@eventor.orienteering.asn.au

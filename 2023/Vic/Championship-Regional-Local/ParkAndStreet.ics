@@ -2,4 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
+BEGIN:VEVENT
+UID:Event_19063@eventor.orienteering.asn.au
+DTSTAMP:20230508T014034Z
+DTSTART:20230514T000000Z
+DTEND:20230514T040000Z
+SUMMARY:Try O - Mother's Day special, Albury-Wodonga Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19063
+GEO:-36.1360226501406;146.87636732287
+END:VEVENT
 END:VCALENDAR
