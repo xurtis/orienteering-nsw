@@ -742,7 +742,7 @@ GEO:-32.8646267688386;151.398961039639
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18586@eventor.orienteering.asn.au
-DTSTAMP:20230505T063804Z
+DTSTAMP:20230509T074322Z
 DTSTART:20230508T230000Z
 DTEND:20230509T013000Z
 SUMMARY:Riverina Schools Individual, Willan's Hill, Wagga and Riverina Occasional Orienteers
@@ -751,21 +751,12 @@ GEO:-35.1342045545873;147.365254607006
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19058@eventor.orienteering.asn.au
-DTSTAMP:20230505T065647Z
+DTSTAMP:20230509T095113Z
 DTSTART:20230509T020000Z
 DTEND:20230509T043000Z
 SUMMARY:Riverina Schools Relays, Willan's Hill, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19058
 GEO:-35.1342323572868;147.365185062722
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18899@eventor.orienteering.asn.au
-DTSTAMP:20230426T123215Z
-DTSTART:20230512T233000Z
-DTEND:20230513T020000Z
-SUMMARY:SOS Northside - Gladesville, Bold Horizons Event Organiser
-URL:https://eventor.orienteering.asn.au/Events/Show/18899
-GEO:-33.8391334974228;151.127188983936
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18776@eventor.orienteering.asn.au
@@ -1150,6 +1141,7 @@ DTSTART:20230818T140000Z
 DTEND:20230819T140000Z
 SUMMARY:ACT Middle Distance Championships: ACT League #6, NSW SL #10, Collector Hill, Orienteering ACT / Orienteering NSW / Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17826
+GEO:-34.9049251919819;149.456326392782
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17827@eventor.orienteering.asn.au
@@ -1158,6 +1150,7 @@ DTSTART:20230819T140000Z
 DTEND:20230820T140000Z
 SUMMARY:ACT Long Distance Championships: ACT League #7, NSW SL #11, Murdering Shed, Orienteering ACT / Orienteering NSW / Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/17827
+GEO:-35.4698906282695;149.362741055141
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18594@eventor.orienteering.asn.au
