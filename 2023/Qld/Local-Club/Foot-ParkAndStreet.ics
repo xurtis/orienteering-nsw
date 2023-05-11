@@ -853,7 +853,7 @@ GEO:-27.5090652000645;153.006017671536
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18801@eventor.orienteering.asn.au
-DTSTAMP:20230508T205702Z
+DTSTAMP:20230511T035005Z
 DTSTART:20230511T003000Z
 DTEND:20230511T010000Z
 SUMMARY:Mid Week in the Bush at White's Hill (North Side) MAPRUN, Orienteering Queensland
@@ -913,6 +913,15 @@ DTEND:20230514T060000Z
 SUMMARY:MapRun Parks 2023 - 7th Brigade Park, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19043
 GEO:-27.37761;153.034401
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19077@eventor.orienteering.asn.au
+DTSTAMP:20230511T065053Z
+DTSTART:20230515T190000Z
+DTEND:20230515T210000Z
+SUMMARY:Runners Jam Promotional Event - Underwood Park (Closed Event), Toohey Forest Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19077
+GEO:-27.6016587937239;153.145806185985
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16947@eventor.orienteering.asn.au
@@ -1326,14 +1335,6 @@ DTEND:20230831T023000Z
 SUMMARY:Mid week - Boronia Bushland Reserve, Boronia, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18881
 GEO:-27.6933581115108;153.027413218821
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18684@eventor.orienteering.asn.au
-DTSTAMP:20230504T071246Z
-DTSTART:20230831T003000Z
-DTEND:20230831T010000Z
-SUMMARY:Marstaellar Rd, Mt Crosby. Bush, Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/18684
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18024@eventor.orienteering.asn.au

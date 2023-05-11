@@ -475,7 +475,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18952
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19071@eventor.orienteering.asn.au
-DTSTAMP:20230508T101659Z
+DTSTAMP:20230511T010850Z
 DTSTART:20230511T060000Z
 DTEND:20230511T060000Z
 SUMMARY:Mt Barker Afterschool Orienteering ZONE 1 , Orienteering SA
@@ -483,7 +483,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19071
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19004@eventor.orienteering.asn.au
-DTSTAMP:20230424T111844Z
+DTSTAMP:20230511T010745Z
 DTSTART:20230511T060000Z
 DTEND:20230511T073000Z
 SUMMARY:Southern Zone After School Event #1 - Hackham East PS, Orienteering SA
@@ -609,7 +609,7 @@ GEO:-35.0329760424219;138.626757278065
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18177@eventor.orienteering.asn.au
-DTSTAMP:20230508T020830Z
+DTSTAMP:20230510T065809Z
 DTSTART:20230521T003000Z
 DTEND:20230521T033000Z
 SUMMARY:Beaumont Park and Street Orienteering, Wallaringa Orienteering Club
@@ -729,6 +729,15 @@ DTSTART:20230610T033000Z
 DTEND:20230610T060000Z
 SUMMARY:Flinders Ranges Day 1 - Rawnsley, Tjuringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18312
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19076@eventor.orienteering.asn.au
+DTSTAMP:20230510T122130Z
+DTSTART:20230610T220000Z
+DTEND:20230611T000000Z
+SUMMARY:NT: 2023 Litchfield East, Top End Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19076
+GEO:-13.0376995618651;130.920754346094
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18375@eventor.orienteering.asn.au
