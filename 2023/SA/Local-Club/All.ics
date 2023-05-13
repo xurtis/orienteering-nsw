@@ -625,15 +625,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18177
 GEO:-34.9423063648822;138.664972531119
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18763@eventor.orienteering.asn.au
-DTSTAMP:20230402T122902Z
-DTSTART:20230521T003000Z
-DTEND:20230521T053000Z
-SUMMARY:Port Lincoln: Boston Island, Lincoln Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18763
-GEO:-34.7036140450237;135.927821782799
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18992@eventor.orienteering.asn.au
 DTSTAMP:20230418T070453Z
 DTSTART:20230523T060000Z
@@ -703,6 +694,15 @@ DTEND:20230527T030000Z
 SUMMARY:Cornerstone College, Mt Barker - Saturday Morning, Onkaparinga Hills Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18374
 GEO:-35.061065945861;138.855097997078
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18763@eventor.orienteering.asn.au
+DTSTAMP:20230513T122533Z
+DTSTART:20230528T003000Z
+DTEND:20230528T033000Z
+SUMMARY:Port Lincoln: Boston Island, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18763
+GEO:-34.7036140450237;135.927821782799
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19050@eventor.orienteering.asn.au
