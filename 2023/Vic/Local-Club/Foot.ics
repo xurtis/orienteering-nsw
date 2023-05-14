@@ -236,7 +236,7 @@ GEO:-36.8824954048386;144.355517637552
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18442@eventor.orienteering.asn.au
-DTSTAMP:20230501T081830Z
+DTSTAMP:20230514T052614Z
 DTSTART:20230514T000000Z
 DTEND:20230514T000000Z
 SUMMARY:MelBushO 3 - Banksia Park, Bulleen, Melbourne Forest Racers
@@ -295,6 +295,15 @@ DTSTART:20230602T000000Z
 DTEND:20230602T020000Z
 SUMMARY:AWOC training #3, Albury-Wodonga Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19066
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19079@eventor.orienteering.asn.au
+DTSTAMP:20230514T114919Z
+DTSTART:20230602T140000Z
+DTEND:20230603T140000Z
+SUMMARY:2023 Victorian Schools team nominations, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/19079
+GEO:-37.8131838410509;144.973948919238
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18388@eventor.orienteering.asn.au
