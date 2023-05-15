@@ -1005,12 +1005,21 @@ GEO:-26.7222356982432;149.92695872931
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19044@eventor.orienteering.asn.au
-DTSTAMP:20230501T234637Z
+DTSTAMP:20230515T002502Z
 DTSTART:20230521T060000Z
 DTEND:20230521T060000Z
-SUMMARY:MapRun Parks 2023 - Robelle Domain, Ugly Gully Orienteers
+SUMMARY:MapRun Parks 2023 - Robelle Domain - World Orienteering Day, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19044
 GEO:-27.680487;152.903461
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19084@eventor.orienteering.asn.au
+DTSTAMP:20230515T012259Z
+DTSTART:20230522T083000Z
+DTEND:20230522T083000Z
+SUMMARY:MTBO Club Social Night, Multi Terrain Bike Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19084
+GEO:-27.3825031635962;153.078358194189
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18179@eventor.orienteering.asn.au

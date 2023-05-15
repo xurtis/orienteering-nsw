@@ -471,27 +471,59 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18990
 GEO:-42.57154943329;147.583733032111
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19020@eventor.orienteering.asn.au
-DTSTAMP:20230428T002849Z
+UID:Event_19082@eventor.orienteering.asn.au
+DTSTAMP:20230515T042018Z
 DTSTART:20230609T140000Z
 DTEND:20230610T140000Z
-SUMMARY:Northern Region - Launceston Sprint Weekend, Esk Valley
+SUMMARY:Launceston Winter Sprint Extravaganza #1,2,3,5 & 6 – All 5 events discounted (Tas Sprint Champs not included), Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19082
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19020@eventor.orienteering.asn.au
+DTSTAMP:20230515T005223Z
+DTSTART:20230610T040000Z
+DTEND:20230610T040000Z
+SUMMARY:Brooks High School (PM) - Launceston Winter Sprint Extravaganza #1, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/19020
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19081@eventor.orienteering.asn.au
+DTSTAMP:20230515T005302Z
+DTSTART:20230610T080000Z
+DTEND:20230610T080000Z
+SUMMARY:Stephensdale (Evening) - Launceston Winter Sprint Extravaganza #2, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19081
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19085@eventor.orienteering.asn.au
+DTSTAMP:20230515T012455Z
+DTSTART:20230611T000000Z
+DTEND:20230611T000000Z
+SUMMARY:TAFE College TBA (AM) - Launceston Winter Sprint Extravaganza #3, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19085
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19021@eventor.orienteering.asn.au
-DTSTAMP:20230428T003805Z
-DTSTART:20230610T140000Z
-DTEND:20230611T140000Z
-SUMMARY:Northern Region - Tas Sprint Championships, Esk Valley
+DTSTAMP:20230515T041925Z
+DTSTART:20230611T040000Z
+DTEND:20230611T040000Z
+SUMMARY:Northern Region TBA - Tas Sprint Championships (requires separate entry), Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/19021
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19083@eventor.orienteering.asn.au
+DTSTAMP:20230515T040928Z
+DTSTART:20230611T080000Z
+DTEND:20230611T080000Z
+SUMMARY:Heritage Forest (Evening) - Launceston Winter Sprint Extravaganza #5, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19083
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19022@eventor.orienteering.asn.au
-DTSTAMP:20230428T003841Z
+DTSTAMP:20230515T040951Z
 DTSTART:20230611T140000Z
 DTEND:20230612T140000Z
-SUMMARY:Northern Region - Launceston Sprint Weekend, Esk Valley
+SUMMARY:Windsor Precinct (AM) - Launceston Winter Sprint Extravaganza #6, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/19022
 END:VEVENT
 BEGIN:VEVENT

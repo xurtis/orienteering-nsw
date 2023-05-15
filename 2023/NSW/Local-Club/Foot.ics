@@ -1025,7 +1025,7 @@ GEO:-32.994427303295;151.649135897945
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18587@eventor.orienteering.asn.au
-DTSTAMP:20230508T075224Z
+DTSTAMP:20230515T020541Z
 DTSTART:20230514T000000Z
 DTEND:20230514T033000Z
 SUMMARY:Waggaroos Local event, Willan's Hill, Wagga and Riverina Occasional Orienteers
@@ -1078,14 +1078,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18900
 GEO:-33.7633091682155;151.133150651011
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18837@eventor.orienteering.asn.au
-DTSTAMP:20230316T235734Z
-DTSTART:20230527T140000Z
-DTEND:20230528T140000Z
-SUMMARY:Newcastle OY4, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18837
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18675@eventor.orienteering.asn.au
 DTSTAMP:20230511T124933Z
 DTSTART:20230527T233000Z
@@ -1093,6 +1085,14 @@ DTEND:20230527T233000Z
 SUMMARY:MetrO League 2023 #2 - Wianamatta West (NEW MAP), Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18675
 GEO:-33.7274959459382;150.738485771015
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18837@eventor.orienteering.asn.au
+DTSTAMP:20230515T001600Z
+DTSTART:20230527T233000Z
+DTEND:20230527T233000Z
+SUMMARY:Newcastle OY4, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18837
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18882@eventor.orienteering.asn.au
@@ -1105,12 +1105,21 @@ GEO:-33.1694371448252;149.239410864937
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18588@eventor.orienteering.asn.au
-DTSTAMP:20230505T072046Z
+DTSTAMP:20230515T070809Z
 DTSTART:20230528T000000Z
 DTEND:20230528T033000Z
 SUMMARY:Waggaroos - AWOC Interclub #3, Narrandera, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18588
 GEO:-34.7508269850894;146.568458688725
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19086@eventor.orienteering.asn.au
+DTSTAMP:20230515T085803Z
+DTSTART:20230531T090000Z
+DTEND:20230531T110000Z
+SUMMARY:Purple Pen Zoom Workshop, Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/19086
+GEO:-33.8460313469102;151.07441599448
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18995@eventor.orienteering.asn.au

@@ -1576,7 +1576,7 @@ GEO:-32.994427303295;151.649135897945
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18587@eventor.orienteering.asn.au
-DTSTAMP:20230508T075224Z
+DTSTAMP:20230515T020541Z
 DTSTART:20230514T000000Z
 DTEND:20230514T033000Z
 SUMMARY:Waggaroos Local event, Willan's Hill, Wagga and Riverina Occasional Orienteers
@@ -1666,16 +1666,16 @@ GEO:-19.2859781281553;146.800429685751
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18023@eventor.orienteering.asn.au
-DTSTAMP:20230511T054904Z
+DTSTAMP:20230515T010747Z
 DTSTART:20230520T230000Z
 DTEND:20230520T230000Z
-SUMMARY:OY6 - Paperbark Flats (near Springfield) - bush, Ugly Gully Orienteers
+SUMMARY:OY6 - Paperbark Flats (near Springfield) - bush - World Orienteering Day, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18023
 GEO:-27.6765721619323;152.84932308575
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17756@eventor.orienteering.asn.au
-DTSTAMP:20230514T004222Z
+DTSTAMP:20230515T065016Z
 DTSTART:20230520T233000Z
 DTEND:20230520T233000Z
 SUMMARY:2023 NSW State League #6 - Long Distance, Big Foot Orienteers
@@ -1711,19 +1711,12 @@ GEO:-33.7633091682155;151.133150651011
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17860@eventor.orienteering.asn.au
-DTSTAMP:20230510T093426Z
+DTSTAMP:20230515T010048Z
 DTSTART:20230527T003000Z
 DTEND:20230527T030000Z
 SUMMARY:ACT Metro Series: Junior League #5, West Stromlo South, Abominable O-Men
 URL:https://eventor.orienteering.asn.au/Events/Show/17860
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18837@eventor.orienteering.asn.au
-DTSTAMP:20230316T235734Z
-DTSTART:20230527T140000Z
-DTEND:20230528T140000Z
-SUMMARY:Newcastle OY4, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18837
+GEO:-35.3253205927243;149.000383452645
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18651@eventor.orienteering.asn.au
@@ -1752,8 +1745,16 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18675
 GEO:-33.7274959459382;150.738485771015
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18837@eventor.orienteering.asn.au
+DTSTAMP:20230515T001600Z
+DTSTART:20230527T233000Z
+DTEND:20230527T233000Z
+SUMMARY:Newcastle OY4, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18837
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18588@eventor.orienteering.asn.au
-DTSTAMP:20230505T072046Z
+DTSTAMP:20230515T070809Z
 DTSTART:20230528T000000Z
 DTEND:20230528T033000Z
 SUMMARY:Waggaroos - AWOC Interclub #3, Narrandera, Wagga and Riverina Occasional Orienteers
@@ -1803,6 +1804,7 @@ DTSTART:20230603T003000Z
 DTEND:20230603T030000Z
 SUMMARY:ACT Metro Series: Junior League #6, Mt Jerrabomberra, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17861
+GEO:-35.3667198660145;149.21752988378
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18888@eventor.orienteering.asn.au
@@ -1855,14 +1857,6 @@ SUMMARY:HIGH SC-ORE #2: Melba Copland Secondary School, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18806
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19020@eventor.orienteering.asn.au
-DTSTAMP:20230428T002849Z
-DTSTART:20230609T140000Z
-DTEND:20230610T140000Z
-SUMMARY:Northern Region - Launceston Sprint Weekend, Esk Valley
-URL:https://eventor.orienteering.asn.au/Events/Show/19020
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18321@eventor.orienteering.asn.au
 DTSTAMP:20230201T012526Z
 DTSTART:20230609T140000Z
@@ -1879,14 +1873,6 @@ DTEND:20230612T140000Z
 SUMMARY:2023 KB3 and NSW State Leagues 7, 8 and 9, Central Coast Orienteers / Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/17757
 GEO:-33.1665564725522;151.388226117534
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19021@eventor.orienteering.asn.au
-DTSTAMP:20230428T003805Z
-DTSTART:20230610T140000Z
-DTEND:20230611T140000Z
-SUMMARY:Northern Region - Tas Sprint Championships, Esk Valley
-URL:https://eventor.orienteering.asn.au/Events/Show/19021
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18428@eventor.orienteering.asn.au
@@ -1907,12 +1893,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17819
 GEO:-31.517662;138.661446
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19022@eventor.orienteering.asn.au
-DTSTAMP:20230428T003841Z
-DTSTART:20230611T140000Z
-DTEND:20230612T140000Z
-SUMMARY:Northern Region - Launceston Sprint Weekend, Esk Valley
-URL:https://eventor.orienteering.asn.au/Events/Show/19022
+UID:Event_19021@eventor.orienteering.asn.au
+DTSTAMP:20230515T041925Z
+DTSTART:20230611T040000Z
+DTEND:20230611T040000Z
+SUMMARY:Northern Region TBA - Tas Sprint Championships (requires separate entry), Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19021
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18862@eventor.orienteering.asn.au

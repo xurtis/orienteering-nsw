@@ -4468,7 +4468,7 @@ GEO:-35.053085689329;117.9139503009
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18587@eventor.orienteering.asn.au
-DTSTAMP:20230508T075224Z
+DTSTAMP:20230515T020541Z
 DTSTART:20230514T000000Z
 DTEND:20230514T033000Z
 SUMMARY:Waggaroos Local event, Willan's Hill, Wagga and Riverina Occasional Orienteers
@@ -4486,7 +4486,7 @@ GEO:-36.1360226501406;146.87636732287
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19049@eventor.orienteering.asn.au
-DTSTAMP:20230502T083904Z
+DTSTAMP:20230515T063607Z
 DTSTART:20230514T003000Z
 DTEND:20230514T033000Z
 SUMMARY:Mattum Creek, Saltbush Orienteers
@@ -4781,10 +4781,10 @@ GEO:-31.41325637559;116.177206428359
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19044@eventor.orienteering.asn.au
-DTSTAMP:20230501T234637Z
+DTSTAMP:20230515T002502Z
 DTSTART:20230521T060000Z
 DTEND:20230521T060000Z
-SUMMARY:MapRun Parks 2023 - Robelle Domain, Ugly Gully Orienteers
+SUMMARY:MapRun Parks 2023 - Robelle Domain - World Orienteering Day, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19044
 GEO:-27.680487;152.903461
 END:VEVENT
@@ -4924,11 +4924,12 @@ GEO:-33.7633091682155;151.133150651011
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17860@eventor.orienteering.asn.au
-DTSTAMP:20230510T093426Z
+DTSTAMP:20230515T010048Z
 DTSTART:20230527T003000Z
 DTEND:20230527T030000Z
 SUMMARY:ACT Metro Series: Junior League #5, West Stromlo South, Abominable O-Men
 URL:https://eventor.orienteering.asn.au/Events/Show/17860
+GEO:-35.3253205927243;149.000383452645
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18374@eventor.orienteering.asn.au
@@ -4975,14 +4976,6 @@ SUMMARY:East Devonport - NW Local #4 *** CANCELLED, Pathfinders
 URL:https://eventor.orienteering.asn.au/Events/Show/18559
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18837@eventor.orienteering.asn.au
-DTSTAMP:20230316T235734Z
-DTSTART:20230527T140000Z
-DTEND:20230528T140000Z
-SUMMARY:Newcastle OY4, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18837
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_16952@eventor.orienteering.asn.au
 DTSTAMP:20221012T042359Z
 DTSTART:20230527T230000Z
@@ -5001,6 +4994,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18675
 GEO:-33.7274959459382;150.738485771015
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18837@eventor.orienteering.asn.au
+DTSTAMP:20230515T001600Z
+DTSTART:20230527T233000Z
+DTEND:20230527T233000Z
+SUMMARY:Newcastle OY4, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18837
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18882@eventor.orienteering.asn.au
 DTSTAMP:20230505T094923Z
 DTSTART:20230528T000000Z
@@ -5011,7 +5012,7 @@ GEO:-33.1694371448252;149.239410864937
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18588@eventor.orienteering.asn.au
-DTSTAMP:20230505T072046Z
+DTSTAMP:20230515T070809Z
 DTSTART:20230528T000000Z
 DTEND:20230528T033000Z
 SUMMARY:Waggaroos - AWOC Interclub #3, Narrandera, Wagga and Riverina Occasional Orienteers
@@ -5073,6 +5074,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18968
 GEO:-37.844608321823;145.035435167825
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19086@eventor.orienteering.asn.au
+DTSTAMP:20230515T085803Z
+DTSTART:20230531T090000Z
+DTEND:20230531T110000Z
+SUMMARY:Purple Pen Zoom Workshop, Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/19086
+GEO:-33.8460313469102;151.07441599448
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17967@eventor.orienteering.asn.au
 DTSTAMP:20230507T023910Z
 DTSTART:20230601T003000Z
@@ -5132,6 +5142,7 @@ DTSTART:20230603T003000Z
 DTEND:20230603T030000Z
 SUMMARY:ACT Metro Series: Junior League #6, Mt Jerrabomberra, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17861
+GEO:-35.3667198660145;149.21752988378
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18388@eventor.orienteering.asn.au
@@ -5314,6 +5325,14 @@ SUMMARY:Closed School Event, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18546
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19082@eventor.orienteering.asn.au
+DTSTAMP:20230515T042018Z
+DTSTART:20230609T140000Z
+DTEND:20230610T140000Z
+SUMMARY:Launceston Winter Sprint Extravaganza #1,2,3,5 & 6 – All 5 events discounted (Tas Sprint Champs not included), Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19082
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18880@eventor.orienteering.asn.au
 DTSTAMP:20230321T110317Z
 DTSTART:20230609T143000Z
@@ -5330,6 +5349,14 @@ SUMMARY:Flinders Ranges Day 1 - Rawnsley, Tjuringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18312
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19020@eventor.orienteering.asn.au
+DTSTAMP:20230515T005223Z
+DTSTART:20230610T040000Z
+DTEND:20230610T040000Z
+SUMMARY:Brooks High School (PM) - Launceston Winter Sprint Extravaganza #1, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19020
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_16775@eventor.orienteering.asn.au
 DTSTAMP:20220401T000942Z
 DTSTART:20230610T040000Z
@@ -5337,6 +5364,14 @@ DTEND:20230610T040000Z
 SUMMARY:EODS - Sedgley Park BCC, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/16775
 GEO:-27.4283269985861;153.00448650263
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19081@eventor.orienteering.asn.au
+DTSTAMP:20230515T005302Z
+DTSTART:20230610T080000Z
+DTEND:20230610T080000Z
+SUMMARY:Stephensdale (Evening) - Launceston Winter Sprint Extravaganza #2, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19081
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18711@eventor.orienteering.asn.au
@@ -5365,6 +5400,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19002
 GEO:-27.9174164630292;153.358823406016
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19085@eventor.orienteering.asn.au
+DTSTAMP:20230515T012455Z
+DTSTART:20230611T000000Z
+DTEND:20230611T000000Z
+SUMMARY:TAFE College TBA (AM) - Launceston Winter Sprint Extravaganza #3, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19085
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19065@eventor.orienteering.asn.au
 DTSTAMP:20230508T021238Z
 DTSTART:20230611T000000Z
@@ -5380,6 +5423,22 @@ DTEND:20230611T060000Z
 SUMMARY:MapRun Parks 2023 - Mercer Park, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19047
 GEO:-27.404889;153.046019
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19083@eventor.orienteering.asn.au
+DTSTAMP:20230515T040928Z
+DTSTART:20230611T080000Z
+DTEND:20230611T080000Z
+SUMMARY:Heritage Forest (Evening) - Launceston Winter Sprint Extravaganza #5, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19083
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19022@eventor.orienteering.asn.au
+DTSTAMP:20230515T040951Z
+DTSTART:20230611T140000Z
+DTEND:20230612T140000Z
+SUMMARY:Windsor Precinct (AM) - Launceston Winter Sprint Extravaganza #6, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19022
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18375@eventor.orienteering.asn.au

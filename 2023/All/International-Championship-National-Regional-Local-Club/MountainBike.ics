@@ -227,12 +227,22 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18344
 GEO:-37.8994546710231;145.575231972584
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19084@eventor.orienteering.asn.au
+DTSTAMP:20230515T012259Z
+DTSTART:20230522T083000Z
+DTEND:20230522T083000Z
+SUMMARY:MTBO Club Social Night, Multi Terrain Bike Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19084
+GEO:-27.3825031635962;153.078358194189
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17910@eventor.orienteering.asn.au
-DTSTAMP:20230330T222740Z
+DTSTAMP:20230515T010229Z
 DTSTART:20230528T000000Z
 DTEND:20230528T020000Z
 SUMMARY:ACT MTBO Series #2: Bruce Ridge  - MTBO Rogaine, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/17910
+GEO:-35.2575196671809;149.106437864656
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18707@eventor.orienteering.asn.au
@@ -417,6 +427,14 @@ DTEND:20230924T043000Z
 SUMMARY:AWOC DuO Championships, Albury-Wodonga Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19069
 GEO:-36.1521797469766;146.609662847021
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19080@eventor.orienteering.asn.au
+DTSTAMP:20230515T002828Z
+DTSTART:20230930T230000Z
+DTEND:20231001T023000Z
+SUMMARY:GO-GO Bike Hike, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19080
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17939@eventor.orienteering.asn.au
