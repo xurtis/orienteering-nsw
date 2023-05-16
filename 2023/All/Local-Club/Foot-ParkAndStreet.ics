@@ -4522,7 +4522,7 @@ GEO:-27.37761;153.034401
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18858@eventor.orienteering.asn.au
-DTSTAMP:20230424T021954Z
+DTSTAMP:20230516T022625Z
 DTSTART:20230515T070000Z
 DTEND:20230515T091500Z
 SUMMARY:ACT MapRun Street Series: Gilmore-Chisholm, 11-15 May, Orienteering ACT
@@ -4537,6 +4537,15 @@ DTEND:20230515T101500Z
 SUMMARY:Melbourne Park Street Monday Autumn Series - Waverley Woods, Orienteering Victoria
 URL:https://eventor.orienteering.asn.au/Events/Show/18961
 GEO:-37.8615267107892;145.124190539838
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_16947@eventor.orienteering.asn.au
+DTSTAMP:20230516T105036Z
+DTSTART:20230515T140000Z
+DTEND:20230516T140000Z
+SUMMARY:Night Nav - Torwood, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/16947
+GEO:-27.4653658437958;152.989444612256
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19077@eventor.orienteering.asn.au
@@ -4555,15 +4564,6 @@ DTEND:20230516T073000Z
 SUMMARY:North Eastern Zone After School Event #3 - The Heights, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18991
 GEO:-34.8111458067079;138.684058453716
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_16947@eventor.orienteering.asn.au
-DTSTAMP:20230403T123338Z
-DTSTART:20230516T073000Z
-DTEND:20230516T093000Z
-SUMMARY:Night Nav - Torwood, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/16947
-GEO:-27.4653658437958;152.989444612256
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18513@eventor.orienteering.asn.au
@@ -4603,7 +4603,7 @@ GEO:-35.0139354653894;138.714087766613
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18889@eventor.orienteering.asn.au
-DTSTAMP:20230508T065617Z
+DTSTAMP:20230516T083011Z
 DTSTART:20230517T073000Z
 DTEND:20230517T094500Z
 SUMMARY:Moonlight Madness #1 - World Orienteering Day - Waverton, Garingal Orienteers
@@ -4620,6 +4620,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18966
 GEO:-37.8426294907997;145.164298565573
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19087@eventor.orienteering.asn.au
+DTSTAMP:20230516T012143Z
+DTSTART:20230518T003000Z
+DTEND:20230518T003000Z
+SUMMARY:Bunyaville East Bush, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19087
+GEO:-27.3807801822358;152.955911383383
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19073@eventor.orienteering.asn.au
 DTSTAMP:20230508T103003Z
 DTSTART:20230518T060000Z
@@ -4630,7 +4639,7 @@ GEO:-35.0593662166185;138.856579698306
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19053@eventor.orienteering.asn.au
-DTSTAMP:20230505T091452Z
+DTSTAMP:20230516T113445Z
 DTSTART:20230518T060000Z
 DTEND:20230518T073000Z
 SUMMARY:Queens Park Toowoomba - World Orienteering Day, Range Runners Orienteering Club
@@ -4772,7 +4781,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18973
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18706@eventor.orienteering.asn.au
-DTSTAMP:20230514T091037Z
+DTSTAMP:20230515T234311Z
 DTSTART:20230521T013000Z
 DTEND:20230521T013000Z
 SUMMARY:Bush 2 Spice Brook, Orienteering WA / Wullundigong Orienteers of the West
@@ -5241,7 +5250,7 @@ GEO:-34.5433913552795;135.931058721203
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18708@eventor.orienteering.asn.au
-DTSTAMP:20230506T035141Z
+DTSTAMP:20230515T234949Z
 DTSTART:20230604T050000Z
 DTEND:20230604T050000Z
 SUMMARY:Bush 3,4 Kenine Hill WA Classic, Albany & Denmark Hinterland Orienteering Club / Orienteering WA / South-West Orienteering Trekkers
@@ -5442,9 +5451,9 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19022
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18375@eventor.orienteering.asn.au
-DTSTAMP:20230322T050426Z
+DTSTAMP:20230516T113604Z
 DTSTART:20230612T000000Z
-DTEND:20230612T000000Z
+DTEND:20230612T023000Z
 SUMMARY:Flinders Ranges Day 3 - Manawarra, Onkaparinga Hills Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18375
 GEO:-31.5705267674661;138.660328236696
@@ -5607,7 +5616,7 @@ DTSTART:20230618T003000Z
 DTEND:20230618T030000Z
 SUMMARY:Highlands Forest Series #1 - Welby, Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18827
-GEO:-34.4379617381304;150.428766047376
+GEO:-34.4415010589529;150.429645811933
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18915@eventor.orienteering.asn.au
@@ -6727,15 +6736,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18462
 GEO:-34.6881659005812;138.830729572038
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18753@eventor.orienteering.asn.au
-DTSTAMP:20230226T005548Z
-DTSTART:20230817T003000Z
-DTEND:20230817T010000Z
-SUMMARY:Minnippi Parklands, Tingalpa. Park. (BCC Sponsored) (MAPRUN EVENT), Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/18753
-GEO:-27.4827439415576;153.114922415097
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18398@eventor.orienteering.asn.au
 DTSTAMP:20230106T120451Z
 DTSTART:20230819T023000Z
@@ -7214,6 +7214,15 @@ DTSTART:20230925T070100Z
 DTEND:20230925T070200Z
 SUMMARY:ACT MapRun Street Series April-September Season Pass, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18852
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18753@eventor.orienteering.asn.au
+DTSTAMP:20230516T092211Z
+DTSTART:20230928T003000Z
+DTEND:20230928T010000Z
+SUMMARY:Minnippi Parklands, Tingalpa. Park. (BCC Sponsored) (MAPRUN EVENT), Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/18753
+GEO:-27.4827439415576;153.114922415097
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19042@eventor.orienteering.asn.au
