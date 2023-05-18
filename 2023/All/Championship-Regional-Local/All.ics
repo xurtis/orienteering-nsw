@@ -1630,7 +1630,7 @@ GEO:-35.3650352582819;149.072188017855
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18776@eventor.orienteering.asn.au
-DTSTAMP:20230506T105114Z
+DTSTAMP:20230518T015157Z
 DTSTART:20230513T040000Z
 DTEND:20230513T060000Z
 SUMMARY:Coffs Score #2 - Jetty Foreshores , Bush n Beach Orienteering Club
@@ -1774,9 +1774,9 @@ GEO:-33.0857191983988;148.706384955307
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18344@eventor.orienteering.asn.au
-DTSTAMP:20230517T070749Z
+DTSTAMP:20230518T032927Z
 DTSTART:20230521T000000Z
-DTEND:20230521T040000Z
+DTEND:20230521T033000Z
 SUMMARY:MTBO Vic Series #2 - Kurth Kiln, Gembrook, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18344
 GEO:-37.8994546710231;145.575231972584
@@ -1818,14 +1818,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17860
 GEO:-35.3253205927243;149.000383452645
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18651@eventor.orienteering.asn.au
-DTSTAMP:20230421T011946Z
-DTSTART:20230527T140000Z
-DTEND:20230528T140000Z
-SUMMARY:Springvale, Campania - OST 5 - Schools Selection Event 3, Australopers
-URL:https://eventor.orienteering.asn.au/Events/Show/18651
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18320@eventor.orienteering.asn.au
 DTSTAMP:20230513T091123Z
 DTSTART:20230527T140000Z
@@ -1850,6 +1842,15 @@ DTSTART:20230527T233000Z
 DTEND:20230527T233000Z
 SUMMARY:Newcastle OY4, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18837
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18651@eventor.orienteering.asn.au
+DTSTAMP:20230518T005706Z
+DTSTART:20230528T000000Z
+DTEND:20230528T000000Z
+SUMMARY:Springvale, Campania - OST 5 - Schools Selection Event 3, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/18651
+GEO:-42.60716;147.47544
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17910@eventor.orienteering.asn.au
@@ -1956,6 +1957,7 @@ DTSTART:20230605T070000Z
 DTEND:20230605T091500Z
 SUMMARY:ACT MapRun Street Series: Chapman, 1-5 Jun, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18861
+GEO:-35.3572085449687;149.045959550842
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18806@eventor.orienteering.asn.au
@@ -2003,11 +2005,12 @@ GEO:-31.517662;138.661446
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19021@eventor.orienteering.asn.au
-DTSTAMP:20230515T041925Z
+DTSTAMP:20230518T014558Z
 DTSTART:20230611T040000Z
 DTEND:20230611T040000Z
-SUMMARY:Northern Region TBA - Tas Sprint Championships (requires separate entry), Esk Valley
+SUMMARY:Northern Region - Tas Sprint Championships (requires separate entry), Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/19021
+GEO:-41.4020963116501;147.125077513043
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18862@eventor.orienteering.asn.au
@@ -2016,6 +2019,7 @@ DTSTART:20230612T070000Z
 DTEND:20230612T091500Z
 SUMMARY:ACT MapRun Street Series: Watson, 8-12 Jun, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18862
+GEO:-35.2391911205213;149.153271830784
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18807@eventor.orienteering.asn.au

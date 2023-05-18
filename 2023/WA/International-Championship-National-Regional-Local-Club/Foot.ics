@@ -193,12 +193,30 @@ GEO:-31.41325637559;116.177206428359
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18708@eventor.orienteering.asn.au
-DTSTAMP:20230517T114200Z
+DTSTAMP:20230518T085459Z
 DTSTART:20230604T050000Z
 DTEND:20230604T050000Z
 SUMMARY:Bush 3,4 Kenine Hill WA Classic, Albany & Denmark Hinterland Orienteering Club / Orienteering WA / South-West Orienteering Trekkers
 URL:https://eventor.orienteering.asn.au/Events/Show/18708
 GEO:-33.5805063929578;117.180411175832
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19089@eventor.orienteering.asn.au
+DTSTAMP:20230518T085342Z
+DTSTART:20230604T050000Z
+DTEND:20230604T080000Z
+SUMMARY:Bush 3 Kenine Hill WA Classic Day 1, Albany & Denmark Hinterland Orienteering Club / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/19089
+GEO:-33.5937296253157;117.190699663287
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19090@eventor.orienteering.asn.au
+DTSTAMP:20230518T085250Z
+DTSTART:20230605T013000Z
+DTEND:20230605T050000Z
+SUMMARY:Bush 4 Kenine Hill WA Classic Day 2, Orienteering WA / South-West Orienteering Trekkers
+URL:https://eventor.orienteering.asn.au/Events/Show/19090
+GEO:-33.5829190570082;117.179981016553
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18624@eventor.orienteering.asn.au
