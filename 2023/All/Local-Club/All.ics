@@ -4809,7 +4809,7 @@ GEO:-35.0593662166185;138.856579698306
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19053@eventor.orienteering.asn.au
-DTSTAMP:20230516T113445Z
+DTSTAMP:20230518T234210Z
 DTSTART:20230518T060000Z
 DTEND:20230518T073000Z
 SUMMARY:Queens Park Toowoomba - World Orienteering Day, Range Runners Orienteering Club
@@ -4863,7 +4863,7 @@ GEO:-32.339948866044;116.839006905831
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19078@eventor.orienteering.asn.au
-DTSTAMP:20230518T120500Z
+DTSTAMP:20230519T013547Z
 DTSTART:20230519T230000Z
 DTEND:20230520T060000Z
 SUMMARY:Mapping Workshop, Ugly Gully Orienteers
@@ -4935,7 +4935,7 @@ GEO:-36.0620938445111;146.906355135534
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18177@eventor.orienteering.asn.au
-DTSTAMP:20230514T060104Z
+DTSTAMP:20230518T233830Z
 DTSTART:20230521T003000Z
 DTEND:20230521T033000Z
 SUMMARY:Beaumont Park and Street Orienteering, Wallaringa Orienteering Club
@@ -4952,10 +4952,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18973
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18706@eventor.orienteering.asn.au
-DTSTAMP:20230515T234311Z
+DTSTAMP:20230519T055953Z
 DTSTART:20230521T013000Z
 DTEND:20230521T013000Z
-SUMMARY:Bush 2 Spice Brook, Orienteering WA / Wullundigong Orienteers of the West
+SUMMARY:Bush 2 Spice Brook a WORLD ORIENTEERING DAY event., Orienteering WA / Wullundigong Orienteers of the West
 URL:https://eventor.orienteering.asn.au/Events/Show/18706
 GEO:-31.41325637559;116.177206428359
 END:VEVENT
@@ -5166,7 +5166,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18559
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16952@eventor.orienteering.asn.au
-DTSTAMP:20221012T042359Z
+DTSTAMP:20230519T000257Z
 DTSTART:20230527T230000Z
 DTEND:20230527T230000Z
 SUMMARY:Cameron Creek (Kholo), Bush - BCC, Ugly Gully Orienteers
@@ -5460,7 +5460,7 @@ UID:Event_19089@eventor.orienteering.asn.au
 DTSTAMP:20230518T085342Z
 DTSTART:20230604T050000Z
 DTEND:20230604T080000Z
-SUMMARY:Bush 3 Kenine Hill WA Classic Day 1, Albany & Denmark Hinterland Orienteering Club / Orienteering WA
+SUMMARY:Bush 3 Kenine Hill WA Classic Day 1, Albany & Denmark Hinterland Orienteering Club / Orienteering WA / South-West Orienteering Trekkers
 URL:https://eventor.orienteering.asn.au/Events/Show/19089
 GEO:-33.5937296253157;117.190699663287
 END:VEVENT
@@ -5475,7 +5475,7 @@ GEO:-27.527153;153.107295
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19090@eventor.orienteering.asn.au
-DTSTAMP:20230518T085250Z
+DTSTAMP:20230519T042725Z
 DTSTART:20230605T013000Z
 DTEND:20230605T050000Z
 SUMMARY:Bush 4 Kenine Hill WA Classic Day 2, Orienteering WA / South-West Orienteering Trekkers
@@ -5569,11 +5569,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18880
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18312@eventor.orienteering.asn.au
-DTSTAMP:20230318T103827Z
+DTSTAMP:20230519T114409Z
 DTSTART:20230610T033000Z
 DTEND:20230610T060000Z
 SUMMARY:Flinders Ranges Day 1 - Rawnsley, Tjuringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18312
+GEO:-31.6459905537017;138.579817710127
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19020@eventor.orienteering.asn.au
@@ -7272,6 +7273,15 @@ DTEND:20230906T140000Z
 SUMMARY:MTBO Training Bom Bom, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18545
 GEO:-29.7449145667866;152.96393323594
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19091@eventor.orienteering.asn.au
+DTSTAMP:20230519T012811Z
+DTSTART:20230908T200000Z
+DTEND:20230908T200000Z
+SUMMARY:MTBO Champs DInner, Multi Terrain Bike Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19091
+GEO:-27.5236299259751;153.23715812727
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18400@eventor.orienteering.asn.au
