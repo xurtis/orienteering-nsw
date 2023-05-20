@@ -92,24 +92,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18317
 GEO:-27.3415286226599;153.075814484248
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_17517@eventor.orienteering.asn.au
-DTSTAMP:20230519T014807Z
-DTSTART:20230908T140000Z
-DTEND:20230909T140000Z
-SUMMARY:Australian MTBO Champs - Middle Distance, Multi Terrain Bike Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/17517
-GEO:-27.5257174373978;153.236382794529
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_17516@eventor.orienteering.asn.au
-DTSTAMP:20230424T015857Z
-DTSTART:20230908T140000Z
-DTEND:20230909T140000Z
-SUMMARY:Australian MTBO Champs - Sprint Distance, Multi Terrain Bike Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/17516
-GEO:-27.4449025733238;153.101006821115
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19091@eventor.orienteering.asn.au
 DTSTAMP:20230519T012811Z
 DTSTART:20230908T200000Z
@@ -119,8 +101,26 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19091
 GEO:-27.5236299259751;153.23715812727
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_17516@eventor.orienteering.asn.au
+DTSTAMP:20230520T012854Z
+DTSTART:20230908T230000Z
+DTEND:20230908T230000Z
+SUMMARY:Australian MTBO Champs - Sprint Distance, Multi Terrain Bike Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/17516
+GEO:-27.4449025733238;153.101006821115
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17517@eventor.orienteering.asn.au
+DTSTAMP:20230520T012948Z
+DTSTART:20230909T040000Z
+DTEND:20230909T040000Z
+SUMMARY:Australian MTBO Champs - Middle Distance, Multi Terrain Bike Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/17517
+GEO:-27.5257174373978;153.236382794529
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17518@eventor.orienteering.asn.au
-DTSTAMP:20230424T015912Z
+DTSTAMP:20230520T011607Z
 DTSTART:20230909T140000Z
 DTEND:20230910T140000Z
 SUMMARY:Australian MTBO Champs - Long Distance, Multi Terrain Bike Orienteers

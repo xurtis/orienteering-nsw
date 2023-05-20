@@ -500,7 +500,7 @@ GEO:-37.1233999405062;144.218274633734
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17755@eventor.orienteering.asn.au
-DTSTAMP:20230516T071632Z
+DTSTAMP:20230520T054352Z
 DTSTART:20230520T013000Z
 DTEND:20230520T013000Z
 SUMMARY:2023 NSW State League #5 - Middle distance, Kahli's Rocks , Bennelong Northside Orienteers
@@ -590,7 +590,7 @@ GEO:-35.6865856912474;149.00257985373
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18321@eventor.orienteering.asn.au
-DTSTAMP:20230515T212726Z
+DTSTAMP:20230519T212525Z
 DTSTART:20230609T140000Z
 DTEND:20230610T140000Z
 SUMMARY:Vic Series (Bush) 4 - Granite Hills, South Morang, Melbourne Forest Racers
@@ -941,22 +941,22 @@ SUMMARY:2023 Orienteering NSW State Championships (Middle) / State League #14, G
 URL:https://eventor.orienteering.asn.au/Events/Show/17714
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_17517@eventor.orienteering.asn.au
-DTSTAMP:20230519T014807Z
-DTSTART:20230908T140000Z
-DTEND:20230909T140000Z
-SUMMARY:Australian MTBO Champs - Middle Distance, Multi Terrain Bike Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/17517
-GEO:-27.5257174373978;153.236382794529
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_17516@eventor.orienteering.asn.au
-DTSTAMP:20230424T015857Z
-DTSTART:20230908T140000Z
-DTEND:20230909T140000Z
+DTSTAMP:20230520T012854Z
+DTSTART:20230908T230000Z
+DTEND:20230908T230000Z
 SUMMARY:Australian MTBO Champs - Sprint Distance, Multi Terrain Bike Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17516
 GEO:-27.4449025733238;153.101006821115
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17517@eventor.orienteering.asn.au
+DTSTAMP:20230520T012948Z
+DTSTART:20230909T040000Z
+DTEND:20230909T040000Z
+SUMMARY:Australian MTBO Champs - Middle Distance, Multi Terrain Bike Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/17517
+GEO:-27.5257174373978;153.236382794529
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19088@eventor.orienteering.asn.au
@@ -976,7 +976,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17715
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17518@eventor.orienteering.asn.au
-DTSTAMP:20230424T015912Z
+DTSTAMP:20230520T011607Z
 DTSTART:20230909T140000Z
 DTEND:20230910T140000Z
 SUMMARY:Australian MTBO Champs - Long Distance, Multi Terrain Bike Orienteers
