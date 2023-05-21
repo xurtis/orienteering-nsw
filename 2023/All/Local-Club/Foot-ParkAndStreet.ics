@@ -4747,7 +4747,7 @@ GEO:-35.2957664951907;149.130407333004
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18976@eventor.orienteering.asn.au
-DTSTAMP:20230517T040738Z
+DTSTAMP:20230521T042332Z
 DTSTART:20230520T230000Z
 DTEND:20230520T230000Z
 SUMMARY:Sandalwood Park, via Drillham, Coaching - World Orienteering Day, Range Runners Orienteering Club
@@ -4765,7 +4765,7 @@ GEO:-36.0620938445111;146.906355135534
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18177@eventor.orienteering.asn.au
-DTSTAMP:20230518T233830Z
+DTSTAMP:20230521T032733Z
 DTSTART:20230521T003000Z
 DTEND:20230521T033000Z
 SUMMARY:Beaumont Park and Street Orienteering, Wallaringa Orienteering Club
@@ -4782,7 +4782,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18973
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18706@eventor.orienteering.asn.au
-DTSTAMP:20230519T055953Z
+DTSTAMP:20230521T072653Z
 DTSTART:20230521T013000Z
 DTEND:20230521T013000Z
 SUMMARY:Bush 2 Spice Brook a WORLD ORIENTEERING DAY event., Orienteering WA / Wullundigong Orienteers of the West
@@ -4791,10 +4791,10 @@ GEO:-31.41325637559;116.177206428359
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19044@eventor.orienteering.asn.au
-DTSTAMP:20230515T002502Z
+DTSTAMP:20230521T014307Z
 DTSTART:20230521T060000Z
 DTEND:20230521T060000Z
-SUMMARY:MapRun Parks 2023 - Robelle Domain - World Orienteering Day, Ugly Gully Orienteers
+SUMMARY:CANCELED MapRun Parks 2023 - Robelle Domain - World Orienteering Day, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19044
 GEO:-27.680487;152.903461
 END:VEVENT
@@ -4817,6 +4817,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18962
 GEO:-37.8873000117244;145.038900608132
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19093@eventor.orienteering.asn.au
+DTSTAMP:20230521T112621Z
+DTSTART:20230523T060000Z
+DTEND:20230523T071500Z
+SUMMARY:Birdwood After School Zone Event # 3 , Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/19093
+GEO:-34.819411624768;138.960663886122
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18992@eventor.orienteering.asn.au
 DTSTAMP:20230418T070453Z
 DTSTART:20230523T060000Z
@@ -4833,15 +4842,6 @@ DTEND:20230523T093000Z
 SUMMARY:Night Nav - New Farm - World Orienteering Day, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18179
 GEO:-27.4711169832772;153.051881546931
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18957@eventor.orienteering.asn.au
-DTSTAMP:20230414T033126Z
-DTSTART:20230524T060000Z
-DTEND:20230524T071500Z
-SUMMARY:Echunga Afterschool ZONE Event # 3, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/18957
-GEO:-35.0965060989524;138.791006406758
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18954@eventor.orienteering.asn.au
@@ -4880,10 +4880,10 @@ GEO:-27.4827404541586;152.9720130796
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19074@eventor.orienteering.asn.au
-DTSTAMP:20230517T130745Z
+DTSTAMP:20230521T051359Z
 DTSTART:20230525T060000Z
 DTEND:20230525T071500Z
-SUMMARY:Mt Barker Afterschool Orienteering ZONE 3 , Orienteering SA
+SUMMARY:CANCELLED - Mt Barker Afterschool Orienteering ZONE 3 , Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/19074
 GEO:-35.0594609783743;138.85593097193
 END:VEVENT
@@ -4904,6 +4904,15 @@ DTEND:20230525T073000Z
 SUMMARY:Central Adelaide Schools Zone Event 8 - Wirrarninthi (Park 23 North), Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18897
 GEO:-34.9297714618054;138.587190450567
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18957@eventor.orienteering.asn.au
+DTSTAMP:20230521T113220Z
+DTSTART:20230526T060000Z
+DTEND:20230526T071500Z
+SUMMARY:Echunga Afterschool ZONE Event # 3, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/18957
+GEO:-35.0965060989524;138.791006406758
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18926@eventor.orienteering.asn.au
@@ -4943,7 +4952,7 @@ GEO:-35.3253205927243;149.000383452645
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18374@eventor.orienteering.asn.au
-DTSTAMP:20230501T092813Z
+DTSTAMP:20230520T231729Z
 DTSTART:20230527T003000Z
 DTEND:20230527T030000Z
 SUMMARY:Cornerstone College, Mt Barker - Saturday Morning, Onkaparinga Hills Orienteering Club
@@ -4952,12 +4961,12 @@ GEO:-35.061065945861;138.855097997078
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18387@eventor.orienteering.asn.au
-DTSTAMP:20230106T123532Z
+DTSTAMP:20230521T114928Z
 DTSTART:20230527T023000Z
 DTEND:20230527T040000Z
 SUMMARY:Bendigo Training - Score event - Crusoe, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18387
-GEO:-36.7585633695294;144.29688856121
+GEO:-36.8364765778145;144.236569417691
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18972@eventor.orienteering.asn.au
@@ -4987,7 +4996,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18559
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16952@eventor.orienteering.asn.au
-DTSTAMP:20230519T000257Z
+DTSTAMP:20230521T051830Z
 DTSTART:20230527T230000Z
 DTEND:20230527T230000Z
 SUMMARY:Cameron Creek (Kholo), Bush - BCC, Ugly Gully Orienteers
@@ -5005,10 +5014,10 @@ GEO:-33.7274959459382;150.738485771015
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18837@eventor.orienteering.asn.au
-DTSTAMP:20230515T001600Z
+DTSTAMP:20230520T215645Z
 DTSTART:20230527T233000Z
-DTEND:20230527T233000Z
-SUMMARY:Newcastle OY4, Newcastle Orienteering Club
+DTEND:20230528T030000Z
+SUMMARY:Newcastle Training/CATI, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18837
 END:VEVENT
 BEGIN:VEVENT
@@ -5129,7 +5138,7 @@ GEO:-37.8131838410509;144.973948919238
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18995@eventor.orienteering.asn.au
-DTSTAMP:20230421T061122Z
+DTSTAMP:20230520T233736Z
 DTSTART:20230602T233000Z
 DTEND:20230603T020000Z
 SUMMARY:SOS Hawkesbury - Richmond, Bold Horizons Event Organiser
@@ -5203,6 +5212,7 @@ DTSTART:20230603T230000Z
 DTEND:20230603T230000Z
 SUMMARY:SE Qld All Schools & Public Events, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/18193
+GEO:-27.3786561625287;152.892889976395
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18443@eventor.orienteering.asn.au
@@ -5250,6 +5260,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18762
 GEO:-34.5433913552795;135.931058721203
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19089@eventor.orienteering.asn.au
+DTSTAMP:20230520T232009Z
+DTSTART:20230604T043000Z
+DTEND:20230604T073000Z
+SUMMARY:Bush 3 Kenine Hill WA Classic Day 1, Albany & Denmark Hinterland Orienteering Club / Orienteering WA / South-West Orienteering Trekkers
+URL:https://eventor.orienteering.asn.au/Events/Show/19089
+GEO:-33.5937296253157;117.190699663287
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18708@eventor.orienteering.asn.au
 DTSTAMP:20230518T085459Z
 DTSTART:20230604T050000Z
@@ -5257,15 +5276,6 @@ DTEND:20230604T050000Z
 SUMMARY:Bush 3,4 Kenine Hill WA Classic, Albany & Denmark Hinterland Orienteering Club / Orienteering WA / South-West Orienteering Trekkers
 URL:https://eventor.orienteering.asn.au/Events/Show/18708
 GEO:-33.5805063929578;117.180411175832
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19089@eventor.orienteering.asn.au
-DTSTAMP:20230518T085342Z
-DTSTART:20230604T050000Z
-DTEND:20230604T080000Z
-SUMMARY:Bush 3 Kenine Hill WA Classic Day 1, Albany & Denmark Hinterland Orienteering Club / Orienteering WA / South-West Orienteering Trekkers
-URL:https://eventor.orienteering.asn.au/Events/Show/19089
-GEO:-33.5937296253157;117.190699663287
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19046@eventor.orienteering.asn.au
@@ -5403,6 +5413,14 @@ DTSTART:20230610T080000Z
 DTEND:20230610T080000Z
 SUMMARY:Stephensdale (Evening) - Launceston Winter Sprint Extravaganza #2, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/19081
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19094@eventor.orienteering.asn.au
+DTSTAMP:20230521T114738Z
+DTSTART:20230610T100000Z
+DTEND:20230610T113000Z
+SUMMARY:RAWNSLEY QUIZ NIGHT, Tjuringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19094
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18711@eventor.orienteering.asn.au
@@ -5616,7 +5634,7 @@ GEO:-33.1243135157715;149.179293471991
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18444@eventor.orienteering.asn.au
-DTSTAMP:20230215T014008Z
+DTSTAMP:20230521T035556Z
 DTSTART:20230618T000000Z
 DTEND:20230618T000000Z
 SUMMARY:MelBushO 5 - Yellow Gum Park, Yan Yean, Nillumbik Emus Orienteering Club
@@ -5820,12 +5838,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17863
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18390@eventor.orienteering.asn.au
-DTSTAMP:20230219T115350Z
+DTSTAMP:20230521T072115Z
 DTSTART:20230624T023000Z
 DTEND:20230624T040000Z
 SUMMARY:Bendigo Bush 8 - One Tree Hill, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18390
-GEO:-36.7576881958577;144.289786553218
+GEO:-36.795570752126;144.306217951186
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19035@eventor.orienteering.asn.au
@@ -5963,7 +5981,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17864
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18391@eventor.orienteering.asn.au
-DTSTAMP:20230106T113603Z
+DTSTAMP:20230521T105636Z
 DTSTART:20230701T023000Z
 DTEND:20230701T040000Z
 SUMMARY:Bendigo Bush 9 - Virginia Hill, Bendigo Orienteers
@@ -6076,7 +6094,7 @@ GEO:-27.5385198109133;152.959842509112
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18392@eventor.orienteering.asn.au
-DTSTAMP:20230106T114249Z
+DTSTAMP:20230521T120529Z
 DTSTART:20230708T023000Z
 DTEND:20230708T040000Z
 SUMMARY:Bendigo Training - Score Event - New St Mungo, Bendigo Orienteers
@@ -6180,7 +6198,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18461
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18393@eventor.orienteering.asn.au
-DTSTAMP:20230106T114832Z
+DTSTAMP:20230521T110126Z
 DTSTART:20230715T023000Z
 DTEND:20230715T040000Z
 SUMMARY:Bendigo Bush 10 - Fiddlers Green, Bendigo Orienteers
@@ -6229,7 +6247,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18690
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18446@eventor.orienteering.asn.au
-DTSTAMP:20230215T003134Z
+DTSTAMP:20230521T041517Z
 DTSTART:20230716T000000Z
 DTEND:20230716T000000Z
 SUMMARY:MelBushO 7 - Candlebark Park (from Westerfolds), Templestowe, Nillumbik Emus Orienteering Club
@@ -6307,7 +6325,7 @@ GEO:-26.6554709428209;150.185156623939
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18394@eventor.orienteering.asn.au
-DTSTAMP:20230106T115203Z
+DTSTAMP:20230521T110836Z
 DTSTART:20230722T023000Z
 DTEND:20230722T040000Z
 SUMMARY:Bendigo Bush 11 - Smiths Reef, Bendigo Orienteers
@@ -6418,7 +6436,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17866
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18395@eventor.orienteering.asn.au
-DTSTAMP:20230106T115402Z
+DTSTAMP:20230521T111414Z
 DTSTART:20230729T023000Z
 DTEND:20230729T040000Z
 SUMMARY:Bendigo Bush 12 - Lyell Forrest, Bendigo Orienteers
@@ -6580,7 +6598,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17867
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18396@eventor.orienteering.asn.au
-DTSTAMP:20230106T115824Z
+DTSTAMP:20230521T120726Z
 DTSTART:20230805T023000Z
 DTEND:20230805T040000Z
 SUMMARY:Bendigo Training - Score Event - Diamond Hill South, Bendigo Orienteers
@@ -6639,7 +6657,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17868
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18397@eventor.orienteering.asn.au
-DTSTAMP:20230106T120201Z
+DTSTAMP:20230521T111955Z
 DTSTART:20230812T023000Z
 DTEND:20230812T040000Z
 SUMMARY:Bendigo Bush 13 - Diamond Hill North, Bendigo Orienteers
@@ -6760,7 +6778,7 @@ GEO:-34.6881659005812;138.830729572038
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18398@eventor.orienteering.asn.au
-DTSTAMP:20230106T120451Z
+DTSTAMP:20230521T121300Z
 DTSTART:20230819T023000Z
 DTEND:20230819T040000Z
 SUMMARY:Bendigo Training - Score Event - Norfolk Hero, Bendigo Orienteers
@@ -6853,7 +6871,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17871
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18399@eventor.orienteering.asn.au
-DTSTAMP:20230106T120734Z
+DTSTAMP:20230521T112519Z
 DTSTART:20230826T023000Z
 DTEND:20230826T040000Z
 SUMMARY:Bendigo Bush 14 - Lockwood Range, Bendigo Orienteers
@@ -7017,10 +7035,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18874
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18400@eventor.orienteering.asn.au
-DTSTAMP:20230106T121346Z
+DTSTAMP:20230520T210318Z
 DTSTART:20230909T023000Z
 DTEND:20230909T040000Z
-SUMMARY:Bendigo Training - Score Event - Mandurang Coolibah, Bendigo Orienteers
+SUMMARY:Bendigo Bush - Mandurang Sheepwash, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18400
 GEO:-36.729443738645;144.28179259232
 END:VEVENT

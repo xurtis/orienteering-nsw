@@ -256,7 +256,7 @@ GEO:-33.4643801593851;115.794386326239
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18706@eventor.orienteering.asn.au
-DTSTAMP:20230519T055953Z
+DTSTAMP:20230521T072653Z
 DTSTART:20230521T013000Z
 DTEND:20230521T013000Z
 SUMMARY:Bush 2 Spice Brook a WORLD ORIENTEERING DAY event., Orienteering WA / Wullundigong Orienteers of the West
@@ -273,6 +273,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18707
 GEO:-32.7122805369152;116.062681729148
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19089@eventor.orienteering.asn.au
+DTSTAMP:20230520T232009Z
+DTSTART:20230604T043000Z
+DTEND:20230604T073000Z
+SUMMARY:Bush 3 Kenine Hill WA Classic Day 1, Albany & Denmark Hinterland Orienteering Club / Orienteering WA / South-West Orienteering Trekkers
+URL:https://eventor.orienteering.asn.au/Events/Show/19089
+GEO:-33.5937296253157;117.190699663287
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18708@eventor.orienteering.asn.au
 DTSTAMP:20230518T085459Z
 DTSTART:20230604T050000Z
@@ -280,15 +289,6 @@ DTEND:20230604T050000Z
 SUMMARY:Bush 3,4 Kenine Hill WA Classic, Albany & Denmark Hinterland Orienteering Club / Orienteering WA / South-West Orienteering Trekkers
 URL:https://eventor.orienteering.asn.au/Events/Show/18708
 GEO:-33.5805063929578;117.180411175832
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19089@eventor.orienteering.asn.au
-DTSTAMP:20230518T085342Z
-DTSTART:20230604T050000Z
-DTEND:20230604T080000Z
-SUMMARY:Bush 3 Kenine Hill WA Classic Day 1, Albany & Denmark Hinterland Orienteering Club / Orienteering WA / South-West Orienteering Trekkers
-URL:https://eventor.orienteering.asn.au/Events/Show/19089
-GEO:-33.5937296253157;117.190699663287
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19090@eventor.orienteering.asn.au
