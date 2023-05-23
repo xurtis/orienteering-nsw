@@ -352,20 +352,12 @@ GEO:-36.8364765778145;144.236569417691
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18320@eventor.orienteering.asn.au
-DTSTAMP:20230513T091123Z
+DTSTAMP:20230523T081914Z
 DTSTART:20230527T140000Z
 DTEND:20230528T140000Z
 SUMMARY:Vic Series (Bush) 3 - Kookaburra Rises, Glenluce, Central Highlands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18320
 GEO:-37.2038136057444;144.249656021543
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19066@eventor.orienteering.asn.au
-DTSTAMP:20230508T021412Z
-DTSTART:20230602T000000Z
-DTEND:20230602T020000Z
-SUMMARY:AWOC training #3, Albury-Wodonga Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19066
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19079@eventor.orienteering.asn.au
@@ -395,6 +387,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18443
 GEO:-37.7789308320593;145.061346182846
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19065@eventor.orienteering.asn.au
+DTSTAMP:20230522T221138Z
+DTSTART:20230604T000000Z
+DTEND:20230604T020000Z
+SUMMARY:AWOC training #2, Albury-Wodonga Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19065
+GEO:-36.1592264675663;146.641548351618
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18321@eventor.orienteering.asn.au
 DTSTAMP:20230519T212525Z
 DTSTART:20230609T140000Z
@@ -402,14 +403,6 @@ DTEND:20230610T140000Z
 SUMMARY:Vic Series (Bush) 4 - Granite Hills, South Morang, Melbourne Forest Racers
 URL:https://eventor.orienteering.asn.au/Events/Show/18321
 GEO:-37.6302509576742;145.077743372771
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19065@eventor.orienteering.asn.au
-DTSTAMP:20230508T021238Z
-DTSTART:20230611T000000Z
-DTEND:20230611T020000Z
-SUMMARY:AWOC training #2, Albury-Wodonga Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19065
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18428@eventor.orienteering.asn.au
@@ -481,6 +474,15 @@ DTEND:20230702T000000Z
 SUMMARY:Ballarat Winter Series #2 Yuille Wetlands , Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18642
 GEO:-37.5921740276354;143.846549507287
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19066@eventor.orienteering.asn.au
+DTSTAMP:20230522T230621Z
+DTSTART:20230702T000000Z
+DTEND:20230702T020000Z
+SUMMARY:AWOC training #3, Albury-Wodonga Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19066
+GEO:-35.9808956426062;146.978122249523
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18445@eventor.orienteering.asn.au
@@ -561,6 +563,7 @@ DTSTART:20230723T000000Z
 DTEND:20230723T020000Z
 SUMMARY:AWOC training #4, Albury-Wodonga Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19067
+GEO:-36.3382724175783;146.691554480522
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18395@eventor.orienteering.asn.au
