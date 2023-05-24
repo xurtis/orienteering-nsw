@@ -1069,10 +1069,10 @@ GEO:-27.443134579764;153.00190026401
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17967@eventor.orienteering.asn.au
-DTSTAMP:20230523T061047Z
+DTSTAMP:20230523T222219Z
 DTSTART:20230601T003000Z
 DTEND:20230601T010000Z
-SUMMARY:Tingalpa Creek, (Emu St Reserve). Bush, Orienteering Queensland
+SUMMARY:Tingalpa Creek, (Emu St Reserve). BCC Event Bush, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/17967
 GEO:-27.5818253079113;153.181338782998
 END:VEVENT
@@ -1086,10 +1086,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18700
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18193@eventor.orienteering.asn.au
-DTSTAMP:20230522T014547Z
+DTSTAMP:20230524T121311Z
 DTSTART:20230603T230000Z
-DTEND:20230603T230000Z
-SUMMARY:SE Qld All Schools & Public Events, Enoggeroos
+DTEND:20230604T010000Z
+SUMMARY:SE Qld All Schools & Public Events, Enoggeroos / Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18193
 GEO:-27.3786561625287;152.892889976395
 END:VEVENT
@@ -1180,6 +1180,15 @@ DTEND:20230613T093000Z
 SUMMARY:Night Nav - Indooroopilly, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18937
 GEO:-27.4993307638526;152.982261598636
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19107@eventor.orienteering.asn.au
+DTSTAMP:20230523T231149Z
+DTSTART:20230615T003000Z
+DTEND:20230615T003000Z
+SUMMARY:Toohey Forest Bush, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19107
+GEO:-27.5372248426252;153.053137157785
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18020@eventor.orienteering.asn.au

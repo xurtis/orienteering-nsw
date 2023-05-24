@@ -1329,6 +1329,24 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18962
 GEO:-37.8873000117244;145.038900608132
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19109@eventor.orienteering.asn.au
+DTSTAMP:20230524T062820Z
+DTSTART:20230523T230000Z
+DTEND:20230523T230000Z
+SUMMARY:Koolamurt - Girton Jones, Bendigo Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19109
+GEO:-36.8051872798256;144.287881857893
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19110@eventor.orienteering.asn.au
+DTSTAMP:20230524T063428Z
+DTSTART:20230524T020000Z
+DTEND:20230524T020000Z
+SUMMARY:Koolamurt - Girton Arherne, Bendigo Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19110
+GEO:-36.8051589389047;144.287870255204
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18967@eventor.orienteering.asn.au
 DTSTAMP:20230424T023949Z
 DTSTART:20230524T083000Z
@@ -1410,7 +1428,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19033
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18443@eventor.orienteering.asn.au
-DTSTAMP:20230116T030452Z
+DTSTAMP:20230524T035059Z
 DTSTART:20230604T000000Z
 DTEND:20230604T000000Z
 SUMMARY:MelBushO 4 - Eaglemont Flats, Ivanhoe, Melbourne Forest Racers
@@ -1462,10 +1480,10 @@ GEO:-37.6459359203978;144.868450196186
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19026@eventor.orienteering.asn.au
-DTSTAMP:20230501T044558Z
-DTSTART:20230612T083000Z
-DTEND:20230612T101000Z
-SUMMARY:Melbourne Park Street Monday Night Series - Boronia Bay, Orienteering Victoria
+DTSTAMP:20230524T040229Z
+DTSTART:20230612T040000Z
+DTEND:20230612T051000Z
+SUMMARY:Melbourne Park Street Monday Night Series - Boronia Bay - DAYTIME EVENT, Orienteering Victoria
 URL:https://eventor.orienteering.asn.au/Events/Show/19026
 END:VEVENT
 BEGIN:VEVENT
@@ -1533,6 +1551,7 @@ DTSTART:20230623T230000Z
 DTEND:20230626T000000Z
 SUMMARY:Junior Training Camp, Orienteering Victoria
 URL:https://eventor.orienteering.asn.au/Events/Show/18939
+GEO:-37.4125374532675;143.859812339562
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18390@eventor.orienteering.asn.au

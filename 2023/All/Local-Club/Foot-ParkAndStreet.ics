@@ -4844,6 +4844,24 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18992
 GEO:-34.811534217663;138.684017925635
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19109@eventor.orienteering.asn.au
+DTSTAMP:20230524T062820Z
+DTSTART:20230523T230000Z
+DTEND:20230523T230000Z
+SUMMARY:Koolamurt - Girton Jones, Bendigo Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19109
+GEO:-36.8051872798256;144.287881857893
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19110@eventor.orienteering.asn.au
+DTSTAMP:20230524T063428Z
+DTSTART:20230524T020000Z
+DTEND:20230524T020000Z
+SUMMARY:Koolamurt - Girton Arherne, Bendigo Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19110
+GEO:-36.8051589389047;144.287870255204
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18954@eventor.orienteering.asn.au
 DTSTAMP:20230414T031346Z
 DTSTART:20230524T060000Z
@@ -4922,6 +4940,14 @@ DTEND:20230526T071500Z
 SUMMARY:Mitcham Hills After School Zone Event #3 - Hawthorndene Reserve, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18926
 GEO:-35.0198367408717;138.623378905089
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19108@eventor.orienteering.asn.au
+DTSTAMP:20230524T003215Z
+DTSTART:20230526T140000Z
+DTEND:20230527T140000Z
+SUMMARY:Come and Try It  - Heritage Forest, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19108
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18994@eventor.orienteering.asn.au
@@ -5095,10 +5121,10 @@ GEO:-37.844608321823;145.035435167825
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17967@eventor.orienteering.asn.au
-DTSTAMP:20230523T061047Z
+DTSTAMP:20230523T222219Z
 DTSTART:20230601T003000Z
 DTEND:20230601T010000Z
-SUMMARY:Tingalpa Creek, (Emu St Reserve). Bush, Orienteering Queensland
+SUMMARY:Tingalpa Creek, (Emu St Reserve). BCC Event Bush, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/17967
 GEO:-27.5818253079113;153.181338782998
 END:VEVENT
@@ -5200,16 +5226,16 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18700
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18193@eventor.orienteering.asn.au
-DTSTAMP:20230522T014547Z
+DTSTAMP:20230524T121311Z
 DTSTART:20230603T230000Z
-DTEND:20230603T230000Z
-SUMMARY:SE Qld All Schools & Public Events, Enoggeroos
+DTEND:20230604T010000Z
+SUMMARY:SE Qld All Schools & Public Events, Enoggeroos / Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18193
 GEO:-27.3786561625287;152.892889976395
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18443@eventor.orienteering.asn.au
-DTSTAMP:20230116T030452Z
+DTSTAMP:20230524T035059Z
 DTSTART:20230604T000000Z
 DTEND:20230604T000000Z
 SUMMARY:MelBushO 4 - Eaglemont Flats, Ivanhoe, Melbourne Forest Racers
@@ -5511,6 +5537,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18375
 GEO:-31.5705267674661;138.660328236696
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19026@eventor.orienteering.asn.au
+DTSTAMP:20230524T040229Z
+DTSTART:20230612T040000Z
+DTEND:20230612T051000Z
+SUMMARY:Melbourne Park Street Monday Night Series - Boronia Bay - DAYTIME EVENT, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/19026
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18862@eventor.orienteering.asn.au
 DTSTAMP:20230428T030428Z
 DTSTART:20230612T070000Z
@@ -5518,14 +5552,6 @@ DTEND:20230612T091500Z
 SUMMARY:ACT MapRun Street Series: Watson, 8-12 Jun, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18862
 GEO:-35.2391911205213;149.153271830784
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19026@eventor.orienteering.asn.au
-DTSTAMP:20230501T044558Z
-DTSTART:20230612T083000Z
-DTEND:20230612T101000Z
-SUMMARY:Melbourne Park Street Monday Night Series - Boronia Bay, Orienteering Victoria
-URL:https://eventor.orienteering.asn.au/Events/Show/19026
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18937@eventor.orienteering.asn.au
@@ -5551,6 +5577,15 @@ DTSTART:20230614T083000Z
 DTEND:20230614T101000Z
 SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - Kangaroo Very Flat, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19030
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19107@eventor.orienteering.asn.au
+DTSTAMP:20230523T231149Z
+DTSTART:20230615T003000Z
+DTEND:20230615T003000Z
+SUMMARY:Toohey Forest Bush, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19107
+GEO:-27.5372248426252;153.053137157785
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18807@eventor.orienteering.asn.au
@@ -5847,6 +5882,7 @@ DTSTART:20230623T230000Z
 DTEND:20230626T000000Z
 SUMMARY:Junior Training Camp, Orienteering Victoria
 URL:https://eventor.orienteering.asn.au/Events/Show/18939
+GEO:-37.4125374532675;143.859812339562
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18998@eventor.orienteering.asn.au
