@@ -4889,12 +4889,21 @@ GEO:-37.8685008617214;145.100962789162
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18438@eventor.orienteering.asn.au
-DTSTAMP:20230523T060637Z
+DTSTAMP:20230525T050313Z
 DTSTART:20230525T003000Z
 DTEND:20230525T010000Z
 SUMMARY:Anzac Park, Toowong. Bush, Park and some Street., Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18438
 GEO:-27.4827404541586;152.9720130796
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19112@eventor.orienteering.asn.au
+DTSTAMP:20230525T050212Z
+DTSTART:20230525T020000Z
+DTEND:20230525T020000Z
+SUMMARY:Koolamurt - Girton Frew, Bendigo Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19112
+GEO:-36.8051375146686;144.287865715863
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19074@eventor.orienteering.asn.au
@@ -4907,10 +4916,10 @@ GEO:-35.0594609783743;138.85593097193
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19006@eventor.orienteering.asn.au
-DTSTAMP:20230424T112634Z
+DTSTAMP:20230525T030627Z
 DTSTART:20230525T060000Z
 DTEND:20230525T073000Z
-SUMMARY:Southern Zone After School Event #3 - Newland Ave. Linear Reserve, Marino, Orienteering SA
+SUMMARY:CANCELLED - Southern Zone After School Event #3 - Newland Ave. Linear Reserve, Marino, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/19006
 GEO:-35.0434114794201;138.516354172998
 END:VEVENT
@@ -5055,6 +5064,15 @@ DTEND:20230528T000000Z
 SUMMARY:Bush Event #3 Ophir South, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18882
 GEO:-33.1694371448252;149.239410864937
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19113@eventor.orienteering.asn.au
+DTSTAMP:20230525T100808Z
+DTSTART:20230528T000000Z
+DTEND:20230528T020000Z
+SUMMARY:Old Maryborough Town Coaching, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19113
+GEO:-25.5250395094602;152.672489569429
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18588@eventor.orienteering.asn.au
@@ -5232,6 +5250,15 @@ DTEND:20230604T010000Z
 SUMMARY:SE Qld All Schools & Public Events, Enoggeroos / Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18193
 GEO:-27.3786561625287;152.892889976395
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19111@eventor.orienteering.asn.au
+DTSTAMP:20230524T231408Z
+DTSTART:20230603T230000Z
+DTEND:20230604T040000Z
+SUMMARY:Scout O 2023, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19111
+GEO:-27.2349170633566;152.937310178537
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18443@eventor.orienteering.asn.au
@@ -6114,14 +6141,6 @@ SUMMARY:Dalmoak, north east of Stanthorpe, Bullecourt Boulder Bounders
 URL:https://eventor.orienteering.asn.au/Events/Show/18787
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18841@eventor.orienteering.asn.au
-DTSTAMP:20230317T001746Z
-DTSTART:20230701T233000Z
-DTEND:20230701T233000Z
-SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18841
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18642@eventor.orienteering.asn.au
 DTSTAMP:20230327T045549Z
 DTSTART:20230702T000000Z
@@ -6217,6 +6236,14 @@ DTEND:20230709T140000Z
 SUMMARY:Stringybark Gully - Southern Local #5, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18978
 GEO:-42.8441399947013;147.414141675969
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18841@eventor.orienteering.asn.au
+DTSTAMP:20230525T052728Z
+DTSTART:20230708T233000Z
+DTEND:20230709T030000Z
+SUMMARY:NOY 4 - Hebburn Road, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18841
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18643@eventor.orienteering.asn.au

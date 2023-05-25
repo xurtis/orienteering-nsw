@@ -1710,6 +1710,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19110
 GEO:-36.8051589389047;144.287870255204
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19112@eventor.orienteering.asn.au
+DTSTAMP:20230525T050212Z
+DTSTART:20230525T020000Z
+DTEND:20230525T020000Z
+SUMMARY:Koolamurt - Girton Frew, Bendigo Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19112
+GEO:-36.8051375146686;144.287865715863
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19074@eventor.orienteering.asn.au
 DTSTAMP:20230521T051359Z
 DTSTART:20230525T060000Z
@@ -1765,7 +1774,7 @@ GEO:-32.7641675382467;151.748563782687
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18651@eventor.orienteering.asn.au
-DTSTAMP:20230518T005706Z
+DTSTAMP:20230525T115831Z
 DTSTART:20230528T000000Z
 DTEND:20230528T000000Z
 SUMMARY:Springvale, Campania - OST 5 - Schools Selection Event 3, Australopers
@@ -1842,6 +1851,15 @@ DTSTART:20230603T140000Z
 DTEND:20230604T140000Z
 SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18838
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19111@eventor.orienteering.asn.au
+DTSTAMP:20230524T231408Z
+DTSTART:20230603T230000Z
+DTEND:20230604T040000Z
+SUMMARY:Scout O 2023, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19111
+GEO:-27.2349170633566;152.937310178537
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18990@eventor.orienteering.asn.au
@@ -2116,14 +2134,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19106
 GEO:-31.8609769377648;116.006664899957
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18841@eventor.orienteering.asn.au
-DTSTAMP:20230317T001746Z
-DTSTART:20230701T233000Z
-DTEND:20230701T233000Z
-SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18841
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18865@eventor.orienteering.asn.au
 DTSTAMP:20230428T030548Z
 DTSTART:20230703T070000Z
@@ -2139,6 +2149,14 @@ DTEND:20230708T140000Z
 SUMMARY:Junior Camp - Maryborough region, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/17809
 GEO:-27.4417238695566;152.978400684421
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18841@eventor.orienteering.asn.au
+DTSTAMP:20230525T052728Z
+DTSTART:20230708T233000Z
+DTEND:20230709T030000Z
+SUMMARY:NOY 4 - Hebburn Road, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18841
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18828@eventor.orienteering.asn.au
