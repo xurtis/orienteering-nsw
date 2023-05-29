@@ -5859,7 +5859,7 @@ GEO:-27.480455;152.980754
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18721@eventor.orienteering.asn.au
-DTSTAMP:20230527T140113Z
+DTSTAMP:20230529T063408Z
 DTSTART:20230529T003000Z
 DTEND:20230529T030000Z
 SUMMARY:SA Schools' Orienteering Championships, Tjuringa Orienteers
@@ -5992,14 +5992,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18888
 GEO:-30.2893780132759;153.114384894
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18838@eventor.orienteering.asn.au
-DTSTAMP:20230316T235908Z
-DTSTART:20230603T140000Z
-DTEND:20230604T140000Z
-SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18838
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18700@eventor.orienteering.asn.au
 DTSTAMP:20230505T011727Z
 DTSTART:20230603T140000Z
@@ -6024,6 +6016,14 @@ DTEND:20230604T040000Z
 SUMMARY:Scout O 2023, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19111
 GEO:-27.2349170633566;152.937310178537
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18838@eventor.orienteering.asn.au
+DTSTAMP:20230529T005058Z
+DTSTART:20230603T233000Z
+DTEND:20230603T233000Z
+SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18838
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18443@eventor.orienteering.asn.au
@@ -6072,7 +6072,7 @@ GEO:-35.6865856912474;149.00257985373
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19051@eventor.orienteering.asn.au
-DTSTAMP:20230502T132900Z
+DTSTAMP:20230529T005453Z
 DTSTART:20230604T000000Z
 DTEND:20230604T040000Z
 SUMMARY:The 48th Great NOSH Footrace, Orienteering NSW
@@ -6229,7 +6229,7 @@ GEO:-41.4342962247329;147.131060455199
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18321@eventor.orienteering.asn.au
-DTSTAMP:20230526T032107Z
+DTSTAMP:20230529T063149Z
 DTSTART:20230609T140000Z
 DTEND:20230610T140000Z
 SUMMARY:Vic Series (Bush) 4 - Granite Hills, South Morang, Melbourne Forest Racers
@@ -6238,7 +6238,7 @@ GEO:-37.6302509576742;145.077743372771
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17757@eventor.orienteering.asn.au
-DTSTAMP:20230428T100748Z
+DTSTAMP:20230529T073328Z
 DTSTART:20230609T140000Z
 DTEND:20230612T140000Z
 SUMMARY:2023 KB3 and NSW State Leagues 7, 8 and 9, Central Coast Orienteers / Newcastle Orienteering Club
@@ -6254,6 +6254,15 @@ SUMMARY:South Australian Schools team Nomination, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18880
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19020@eventor.orienteering.asn.au
+DTSTAMP:20230529T024526Z
+DTSTART:20230610T021500Z
+DTEND:20230610T040000Z
+SUMMARY:Brooks High School - Launceston Winter Sprint Extravaganza #1, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19020
+GEO:-41.377937;147.121242
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18312@eventor.orienteering.asn.au
 DTSTAMP:20230522T034105Z
 DTSTART:20230610T033000Z
@@ -6261,14 +6270,6 @@ DTEND:20230610T060000Z
 SUMMARY:Flinders Ranges Day 1 - Rawnsley, Tjuringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18312
 GEO:-31.6459905537017;138.579817710127
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19020@eventor.orienteering.asn.au
-DTSTAMP:20230515T005223Z
-DTSTART:20230610T040000Z
-DTEND:20230610T040000Z
-SUMMARY:Brooks High School (PM) - Launceston Winter Sprint Extravaganza #1, Esk Valley
-URL:https://eventor.orienteering.asn.au/Events/Show/19020
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16775@eventor.orienteering.asn.au
@@ -6281,11 +6282,12 @@ GEO:-27.4283269985861;153.00448650263
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19081@eventor.orienteering.asn.au
-DTSTAMP:20230515T005302Z
-DTSTART:20230610T080000Z
-DTEND:20230610T080000Z
-SUMMARY:Stephensdale (Evening) - Launceston Winter Sprint Extravaganza #2, Esk Valley
+DTSTAMP:20230529T025123Z
+DTSTART:20230610T071500Z
+DTEND:20230610T091500Z
+SUMMARY:Stephensdale - Launceston Winter Sprint Extravaganza #2, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/19081
+GEO:-41.441876;147.082541
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19094@eventor.orienteering.asn.au
@@ -6324,6 +6326,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19076
 GEO:-13.0376995618651;130.920754346094
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19085@eventor.orienteering.asn.au
+DTSTAMP:20230529T025707Z
+DTSTART:20230610T224500Z
+DTEND:20230611T003000Z
+SUMMARY:TAFE Alanvale - Launceston Winter Sprint Extravaganza #3, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19085
+GEO:-41.389319;147.125094
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19002@eventor.orienteering.asn.au
 DTSTAMP:20230424T091022Z
 DTSTART:20230610T230000Z
@@ -6331,14 +6342,6 @@ DTEND:20230611T010000Z
 SUMMARY:Bush orienteering at Shelter Road, Arundel, Gold Coast, Paradise Lost Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19002
 GEO:-27.9174164630292;153.358823406016
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19085@eventor.orienteering.asn.au
-DTSTAMP:20230518T031037Z
-DTSTART:20230611T000000Z
-DTEND:20230611T000000Z
-SUMMARY:TAFE College (AM) - Launceston Winter Sprint Extravaganza #3, Esk Valley
-URL:https://eventor.orienteering.asn.au/Events/Show/19085
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18428@eventor.orienteering.asn.au
@@ -6360,12 +6363,12 @@ GEO:-31.517662;138.661446
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19021@eventor.orienteering.asn.au
-DTSTAMP:20230518T014558Z
+DTSTAMP:20230529T012937Z
 DTSTART:20230611T040000Z
-DTEND:20230611T040000Z
-SUMMARY:Northern Region - Tas Sprint Championships (requires separate entry), Esk Valley
+DTEND:20230611T053000Z
+SUMMARY:St Patrick's College - Tas Sprint Championships (requires separate entry), Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/19021
-GEO:-41.4020963116501;147.125077513043
+GEO:-41.470524;147.123106
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19047@eventor.orienteering.asn.au
@@ -6378,19 +6381,20 @@ GEO:-27.404889;153.046019
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19083@eventor.orienteering.asn.au
-DTSTAMP:20230515T040928Z
-DTSTART:20230611T080000Z
-DTEND:20230611T080000Z
-SUMMARY:Heritage Forest (Evening) - Launceston Winter Sprint Extravaganza #5, Esk Valley
+DTSTAMP:20230529T030613Z
+DTSTART:20230611T074500Z
+DTEND:20230611T090000Z
+SUMMARY:Heritage Forest - Launceston Winter Sprint Extravaganza #5, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/19083
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19022@eventor.orienteering.asn.au
-DTSTAMP:20230515T040951Z
-DTSTART:20230611T140000Z
-DTEND:20230612T140000Z
-SUMMARY:Windsor Precinct (AM) - Launceston Winter Sprint Extravaganza #6, Esk Valley
+DTSTAMP:20230529T031431Z
+DTSTART:20230611T231500Z
+DTEND:20230612T010000Z
+SUMMARY:Windsor Community - Launceston Winter Sprint Extravaganza #6, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/19022
+GEO:-41.402362;147.092031
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18375@eventor.orienteering.asn.au
@@ -6503,9 +6507,9 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19037
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18716@eventor.orienteering.asn.au
-DTSTAMP:20230220T082808Z
-DTSTART:20230617T060000Z
-DTEND:20230617T060000Z
+DTSTAMP:20230529T040414Z
+DTSTART:20230617T050000Z
+DTEND:20230617T073000Z
 SUMMARY:NavDash 5 Araluen, Bibbulmun Orienteers / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/18716
 GEO:-32.122067194162;116.101973519042
@@ -6607,12 +6611,12 @@ GEO:-33.2394126835322;137.242466030642
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18915@eventor.orienteering.asn.au
-DTSTAMP:20230328T104217Z
+DTSTAMP:20230529T085813Z
 DTSTART:20230618T010000Z
 DTEND:20230618T030000Z
-SUMMARY:Bago Orienteering, Hastings Orienteering Group
+SUMMARY:Bago forest Orienteering, Hastings Orienteering Group
 URL:https://eventor.orienteering.asn.au/Events/Show/18915
-GEO:-31.4697183183542;152.731041854616
+GEO:-31.4682016977111;152.731790152742
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18764@eventor.orienteering.asn.au
@@ -6624,7 +6628,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18764
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18720@eventor.orienteering.asn.au
-DTSTAMP:20230517T080910Z
+DTSTAMP:20230529T032242Z
 DTSTART:20230618T013000Z
 DTEND:20230618T050000Z
 SUMMARY:Bush 5 Little Frazzle, Kulgun 225 Orienteers / Orienteering WA
@@ -7019,7 +7023,7 @@ DTSTART:20230702T000000Z
 DTEND:20230702T000000Z
 SUMMARY:Ballarat Winter Series #2 Yuille Wetlands , Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18642
-GEO:-37.5921740276354;143.846549507287
+GEO:-37.5914251615803;143.846208349778
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18884@eventor.orienteering.asn.au
@@ -7041,7 +7045,7 @@ GEO:-35.9808956426062;146.978122249523
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18445@eventor.orienteering.asn.au
-DTSTAMP:20230405T112709Z
+DTSTAMP:20230529T121138Z
 DTSTART:20230702T000000Z
 DTEND:20230702T030000Z
 SUMMARY:MelBushO 6 - Westerfolds Park, Templestowe, Yarra Valley Orienteering Club
@@ -7050,12 +7054,12 @@ GEO:-37.7509438225222;145.129094749978
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18741@eventor.orienteering.asn.au
-DTSTAMP:20230224T063615Z
+DTSTAMP:20230529T093412Z
 DTSTART:20230702T013000Z
 DTEND:20230702T013000Z
 SUMMARY:Bush 6 Jumbuck Ridge, Orienteering WA / Wullundigong Orienteers of the West
 URL:https://eventor.orienteering.asn.au/Events/Show/18741
-GEO:-31.7262704879621;116.068826642616
+GEO:-31.7731242817925;116.05163227899
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18865@eventor.orienteering.asn.au
@@ -7100,14 +7104,6 @@ DTEND:20230708T040000Z
 SUMMARY:Bendigo Training - Score Event - New St Mungo, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18392
 GEO:-36.7580860215876;144.297999753514
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_17935@eventor.orienteering.asn.au
-DTSTAMP:20230120T232625Z
-DTSTART:20230708T140000Z
-DTEND:20230709T140000Z
-SUMMARY:Bracken Ridge MTBO, Multi Terrain Bike Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/17935
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19040@eventor.orienteering.asn.au
@@ -7228,6 +7224,14 @@ DTSTART:20230715T043000Z
 DTEND:20230715T053000Z
 SUMMARY:Illawarra TBA, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19001
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17935@eventor.orienteering.asn.au
+DTSTAMP:20230529T075307Z
+DTSTART:20230715T140000Z
+DTEND:20230716T140000Z
+SUMMARY:Bald Hills MTBO, Multi Terrain Bike Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/17935
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18979@eventor.orienteering.asn.au
@@ -7423,7 +7427,7 @@ DTSTART:20230723T000000Z
 DTEND:20230723T000000Z
 SUMMARY:Ballarat Winter Series #4 Lake Daylesford, Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18644
-GEO:-37.3482295014598;144.137437064277
+GEO:-37.3488208156751;144.134177871989
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19067@eventor.orienteering.asn.au

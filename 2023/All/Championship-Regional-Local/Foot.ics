@@ -1586,7 +1586,7 @@ GEO:-34.7508269850894;146.568458688725
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18721@eventor.orienteering.asn.au
-DTSTAMP:20230527T140113Z
+DTSTAMP:20230529T063408Z
 DTSTART:20230529T003000Z
 DTEND:20230529T030000Z
 SUMMARY:SA Schools' Orienteering Championships, Tjuringa Orienteers
@@ -1630,14 +1630,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18888
 GEO:-30.2893780132759;153.114384894
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18838@eventor.orienteering.asn.au
-DTSTAMP:20230316T235908Z
-DTSTART:20230603T140000Z
-DTEND:20230604T140000Z
-SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18838
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19111@eventor.orienteering.asn.au
 DTSTAMP:20230524T231408Z
 DTSTART:20230603T230000Z
@@ -1645,6 +1637,14 @@ DTEND:20230604T040000Z
 SUMMARY:Scout O 2023, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19111
 GEO:-27.2349170633566;152.937310178537
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18838@eventor.orienteering.asn.au
+DTSTAMP:20230529T005058Z
+DTSTART:20230603T233000Z
+DTEND:20230603T233000Z
+SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18838
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18990@eventor.orienteering.asn.au
@@ -1683,7 +1683,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18806
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18321@eventor.orienteering.asn.au
-DTSTAMP:20230526T032107Z
+DTSTAMP:20230529T063149Z
 DTSTART:20230609T140000Z
 DTEND:20230610T140000Z
 SUMMARY:Vic Series (Bush) 4 - Granite Hills, South Morang, Melbourne Forest Racers
@@ -1692,7 +1692,7 @@ GEO:-37.6302509576742;145.077743372771
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17757@eventor.orienteering.asn.au
-DTSTAMP:20230428T100748Z
+DTSTAMP:20230529T073328Z
 DTSTART:20230609T140000Z
 DTEND:20230612T140000Z
 SUMMARY:2023 KB3 and NSW State Leagues 7, 8 and 9, Central Coast Orienteers / Newcastle Orienteering Club
@@ -1719,12 +1719,12 @@ GEO:-31.517662;138.661446
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19021@eventor.orienteering.asn.au
-DTSTAMP:20230518T014558Z
+DTSTAMP:20230529T012937Z
 DTSTART:20230611T040000Z
-DTEND:20230611T040000Z
-SUMMARY:Northern Region - Tas Sprint Championships (requires separate entry), Esk Valley
+DTEND:20230611T053000Z
+SUMMARY:St Patrick's College - Tas Sprint Championships (requires separate entry), Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/19021
-GEO:-41.4020963116501;147.125077513043
+GEO:-41.470524;147.123106
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18807@eventor.orienteering.asn.au
