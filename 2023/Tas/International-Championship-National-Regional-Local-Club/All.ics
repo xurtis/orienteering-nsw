@@ -551,9 +551,9 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19017
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18654@eventor.orienteering.asn.au
-DTSTAMP:20230416T235957Z
-DTSTART:20230617T140000Z
-DTEND:20230618T140000Z
+DTSTAMP:20230530T002111Z
+DTSTART:20230618T000000Z
+DTEND:20230618T033000Z
 SUMMARY:Rokeby Hills - Southern Local #4, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18654
 GEO:-42.8632843481832;147.403199141845
@@ -673,6 +673,15 @@ DTSTART:20230819T140000Z
 DTEND:20230820T140000Z
 SUMMARY:Hunt Tin Mine - Tas Middle Distance Championships, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/19012
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19116@eventor.orienteering.asn.au
+DTSTAMP:20230530T044933Z
+DTSTART:20230831T140000Z
+DTEND:20230903T140000Z
+SUMMARY:Junior Orienteering Camp, Orienteering Tasmania
+URL:https://eventor.orienteering.asn.au/Events/Show/19116
+GEO:-41.5089248257714;147.069912904834
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18982@eventor.orienteering.asn.au

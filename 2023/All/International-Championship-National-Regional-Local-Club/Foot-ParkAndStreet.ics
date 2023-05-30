@@ -5331,6 +5331,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18992
 GEO:-34.811534217663;138.684017925635
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18568@eventor.orienteering.asn.au
+DTSTAMP:20230530T115735Z
+DTSTART:20230523T140000Z
+DTEND:20230524T140000Z
+SUMMARY:MapRun Night Nav Mackay Botanic Gardens, 21Degrees South Multisport Assoc.
+URL:https://eventor.orienteering.asn.au/Events/Show/18568
+GEO:-21.1529012524425;149.156237384185
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19109@eventor.orienteering.asn.au
 DTSTAMP:20230524T062820Z
 DTSTART:20230523T230000Z
@@ -5355,15 +5364,6 @@ DTSTART:20230524T060000Z
 DTEND:20230524T071500Z
 SUMMARY:Heathfield After School Zone Event #4, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18954
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18568@eventor.orienteering.asn.au
-DTSTAMP:20230403T123605Z
-DTSTART:20230524T073000Z
-DTEND:20230524T091500Z
-SUMMARY:MapRun Night Nav Mackay Botanic Gardens, 21Degrees South Multisport Assoc.
-URL:https://eventor.orienteering.asn.au/Events/Show/18568
-GEO:-21.1529012524425;149.156237384185
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18967@eventor.orienteering.asn.au
@@ -5517,6 +5517,15 @@ SUMMARY:East Devonport - NW Local #4 *** CANCELLED, Pathfinders
 URL:https://eventor.orienteering.asn.au/Events/Show/18559
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19045@eventor.orienteering.asn.au
+DTSTAMP:20230530T120452Z
+DTSTART:20230527T140000Z
+DTEND:20230528T140000Z
+SUMMARY:MapRun Parks 2023 - Anzac Park, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19045
+GEO:-27.480455;152.980754
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18320@eventor.orienteering.asn.au
 DTSTAMP:20230528T075232Z
 DTSTART:20230527T140000Z
@@ -5598,15 +5607,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18763
 GEO:-34.7036140450237;135.927821782799
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19045@eventor.orienteering.asn.au
-DTSTAMP:20230502T002426Z
-DTSTART:20230528T060000Z
-DTEND:20230528T060000Z
-SUMMARY:MapRun Parks 2023 - Anzac Park, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19045
-GEO:-27.480455;152.980754
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18721@eventor.orienteering.asn.au
 DTSTAMP:20230529T063408Z
 DTSTART:20230529T003000Z
@@ -5617,7 +5617,7 @@ GEO:-34.9073002505594;138.579766476636
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18860@eventor.orienteering.asn.au
-DTSTAMP:20230428T030343Z
+DTSTAMP:20230530T011605Z
 DTSTART:20230529T070000Z
 DTEND:20230529T091500Z
 SUMMARY:ACT MapRun Street Series: Red Hill, 25-29 May, Orienteering ACT
@@ -5635,10 +5635,10 @@ GEO:-37.8957370410722;145.241001784806
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18935@eventor.orienteering.asn.au
-DTSTAMP:20230423T114127Z
-DTSTART:20230530T073000Z
-DTEND:20230530T093000Z
-SUMMARY:Night Nav - Ashgrove East, Enoggeroos
+DTSTAMP:20230530T110236Z
+DTSTART:20230529T140000Z
+DTEND:20230530T140000Z
+SUMMARY:Night Nav - Ashgrove East, Enoggeroos / Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18935
 GEO:-27.443134579764;153.00190026401
 END:VEVENT
@@ -5768,7 +5768,7 @@ GEO:-27.2349170633566;152.937310178537
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18838@eventor.orienteering.asn.au
-DTSTAMP:20230529T005058Z
+DTSTAMP:20230529T220436Z
 DTSTART:20230603T233000Z
 DTEND:20230603T233000Z
 SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
@@ -5993,6 +5993,15 @@ DTEND:20230612T140000Z
 SUMMARY:2023 KB3 and NSW State Leagues 7, 8 and 9, Central Coast Orienteers / Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/17757
 GEO:-33.1635113418499;151.396606507449
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19117@eventor.orienteering.asn.au
+DTSTAMP:20230530T124352Z
+DTSTART:20230609T143000Z
+DTEND:20230610T143000Z
+SUMMARY:NT: 2023 Litchfield skills practice, Top End Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19117
+GEO:-13.1095430365953;130.795397321098
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18880@eventor.orienteering.asn.au
@@ -6263,15 +6272,6 @@ SUMMARY:Glen Stuart - North Local #1, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/19017
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18654@eventor.orienteering.asn.au
-DTSTAMP:20230416T235957Z
-DTSTART:20230617T140000Z
-DTEND:20230618T140000Z
-SUMMARY:Rokeby Hills - Southern Local #4, Australopers
-URL:https://eventor.orienteering.asn.au/Events/Show/18654
-GEO:-42.8632843481832;147.403199141845
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18020@eventor.orienteering.asn.au
 DTSTAMP:20230506T041015Z
 DTSTART:20230617T230000Z
@@ -6312,6 +6312,15 @@ DTEND:20230618T000000Z
 SUMMARY:MelBushO 5 - Yellow Gum Park, Yan Yean, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18444
 GEO:-37.6704489751723;145.090670479002
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18654@eventor.orienteering.asn.au
+DTSTAMP:20230530T002111Z
+DTSTART:20230618T000000Z
+DTEND:20230618T033000Z
+SUMMARY:Rokeby Hills - Southern Local #4, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/18654
+GEO:-42.8632843481832;147.403199141845
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18581@eventor.orienteering.asn.au
@@ -6807,7 +6816,7 @@ DTSTART:20230705T073000Z
 DTEND:20230705T094500Z
 SUMMARY:Moonlight Madness #3 - Gladesville, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18903
-GEO:-33.8394623969007;151.127158094182
+GEO:-33.8311987736171;151.119695455588
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17809@eventor.orienteering.asn.au
@@ -7869,6 +7878,15 @@ DTEND:20230831T023000Z
 SUMMARY:Mid week - Boronia Bushland Reserve, Boronia, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18881
 GEO:-27.6933581115108;153.027413218821
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19116@eventor.orienteering.asn.au
+DTSTAMP:20230530T044933Z
+DTSTART:20230831T140000Z
+DTEND:20230903T140000Z
+SUMMARY:Junior Orienteering Camp, Orienteering Tasmania
+URL:https://eventor.orienteering.asn.au/Events/Show/19116
+GEO:-41.5089248257714;147.069912904834
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18792@eventor.orienteering.asn.au
