@@ -2758,12 +2758,12 @@ GEO:-27.5222411763055;152.933860435493
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18890@eventor.orienteering.asn.au
-DTSTAMP:20230520T091648Z
+DTSTAMP:20230530T230251Z
 DTSTART:20230607T073000Z
 DTEND:20230607T094500Z
 SUMMARY:Moonlight Madness #2 - Celebrate VIVID - Neutral Bay, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18890
-GEO:-33.8403149932765;151.215328648226
+GEO:-33.8394623978623;151.214477832961
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19029@eventor.orienteering.asn.au
@@ -2881,6 +2881,14 @@ DTEND:20230622T093000Z
 SUMMARY:Coffs Winter Solstice Night-O, Bush n Beach Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18777
 GEO:-30.3008462088598;153.118238993898
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19118@eventor.orienteering.asn.au
+DTSTAMP:20230531T123159Z
+DTSTART:20230623T230000Z
+DTEND:20230624T003000Z
+SUMMARY:Limestone Park - Active and Healthy Ipswich, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19118
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19035@eventor.orienteering.asn.au
