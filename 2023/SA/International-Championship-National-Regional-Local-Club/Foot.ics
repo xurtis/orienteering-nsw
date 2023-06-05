@@ -733,7 +733,7 @@ GEO:-34.7423529119998;135.859776847194
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19050@eventor.orienteering.asn.au
-DTSTAMP:20230502T084347Z
+DTSTAMP:20230605T083546Z
 DTSTART:20230604T003000Z
 DTEND:20230604T033000Z
 SUMMARY:Wild Dog Hill, Saltbush Orienteers
@@ -742,7 +742,7 @@ GEO:-32.9448287364872;137.511440409607
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18762@eventor.orienteering.asn.au
-DTSTAMP:20230402T122926Z
+DTSTAMP:20230604T133004Z
 DTSTART:20230604T010000Z
 DTEND:20230604T033000Z
 SUMMARY:Port Lincoln: Louth Bay, Lincoln Orienteers
@@ -795,7 +795,7 @@ GEO:-13.0376995618651;130.920754346094
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17819@eventor.orienteering.asn.au
-DTSTAMP:20230602T075550Z
+DTSTAMP:20230605T032405Z
 DTSTART:20230611T003000Z
 DTEND:20230611T020000Z
 SUMMARY:Flinders Ranges Day 2- SA Long Distance Championships, Tintookies Orienteers
@@ -874,12 +874,28 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19015
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19016@eventor.orienteering.asn.au
-DTSTAMP:20230425T101811Z
+DTSTAMP:20230605T105323Z
 DTSTART:20230709T143000Z
 DTEND:20230710T143000Z
 SUMMARY:SA junior arrows camp Day 1 training only, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/19016
 GEO:-34.5298917136215;138.688772866191
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19147@eventor.orienteering.asn.au
+DTSTAMP:20230605T105047Z
+DTSTART:20230710T143000Z
+DTEND:20230711T143000Z
+SUMMARY:SA junior camp day 2 entry only, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/19147
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19148@eventor.orienteering.asn.au
+DTSTAMP:20230605T110146Z
+DTSTART:20230711T143000Z
+DTEND:20230712T143000Z
+SUMMARY:SA junior arrows camp Day 3 entry only, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/19148
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18461@eventor.orienteering.asn.au
@@ -888,6 +904,14 @@ DTSTART:20230712T010000Z
 DTEND:20230712T033000Z
 SUMMARY:Midweek Training at Mt Crawford, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18461
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19149@eventor.orienteering.asn.au
+DTSTAMP:20230605T111008Z
+DTSTART:20230713T143000Z
+DTEND:20230714T143000Z
+SUMMARY:SA junior arrows camp Day 4 only- Camp champs, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/19149
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18631@eventor.orienteering.asn.au

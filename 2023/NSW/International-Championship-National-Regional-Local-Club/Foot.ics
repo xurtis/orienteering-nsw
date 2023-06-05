@@ -1257,7 +1257,7 @@ GEO:-33.7709823901807;151.176074369823
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18888@eventor.orienteering.asn.au
-DTSTAMP:20230414T011528Z
+DTSTAMP:20230605T042847Z
 DTSTART:20230603T040000Z
 DTEND:20230603T060000Z
 SUMMARY:Coffs Score #3 - Tree Fern Creek, Bush n Beach Orienteering Club
@@ -1292,7 +1292,7 @@ GEO:-33.8394623978623;151.214477832961
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17757@eventor.orienteering.asn.au
-DTSTAMP:20230604T065031Z
+DTSTAMP:20230605T015305Z
 DTSTART:20230609T140000Z
 DTEND:20230612T140000Z
 SUMMARY:2023 KB3 and NSW State Leagues 7, 8 and 9, Central Coast Orienteers / Newcastle Orienteering Club
@@ -1306,14 +1306,6 @@ DTSTART:20230616T233000Z
 DTEND:20230617T020000Z
 SUMMARY:SOS Northside - Wahroonga, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/18996
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18688@eventor.orienteering.asn.au
-DTSTAMP:20230417T061742Z
-DTSTART:20230617T233000Z
-DTEND:20230617T233000Z
-SUMMARY:Come and Try It + Club Championship event, Garingal Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18688
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18839@eventor.orienteering.asn.au
@@ -1352,7 +1344,7 @@ GEO:-34.4415010589529;150.429645811933
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18915@eventor.orienteering.asn.au
-DTSTAMP:20230601T082509Z
+DTSTAMP:20230605T002151Z
 DTSTART:20230618T010000Z
 DTEND:20230618T030000Z
 SUMMARY:Bago forest Orienteering, Hastings Orienteering Group
@@ -1361,11 +1353,12 @@ GEO:-31.4682016977111;152.731790152742
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18908@eventor.orienteering.asn.au
-DTSTAMP:20230602T235716Z
+DTSTAMP:20230605T071430Z
 DTSTART:20230620T233000Z
 DTEND:20230620T233000Z
 SUMMARY:Sydney South West Secondary Schools Orienteering Championships, Orienteering NSW / Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18908
+GEO:-34.4475363943038;150.446578430722
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18777@eventor.orienteering.asn.au
@@ -1417,7 +1410,7 @@ DTSTART:20230624T233000Z
 DTEND:20230625T010000Z
 SUMMARY:2023 Metro League #3, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18666
-GEO:-33.9717360390313;151.011755535338
+GEO:-33.9715909849825;151.011645926145
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18795@eventor.orienteering.asn.au
@@ -1491,11 +1484,12 @@ GEO:-34.6194258085926;150.213609969037
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19001@eventor.orienteering.asn.au
-DTSTAMP:20230424T053525Z
-DTSTART:20230715T043000Z
-DTEND:20230715T053000Z
-SUMMARY:Illawarra TBA, Illawarra Kareelah Orienteers
+DTSTAMP:20230605T045819Z
+DTSTART:20230715T040000Z
+DTEND:20230715T050000Z
+SUMMARY:Cronulla South, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19001
+GEO:-34.0595118353776;151.149319336723
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18842@eventor.orienteering.asn.au
@@ -1576,10 +1570,10 @@ GEO:-32.647848331002;151.296344490412
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18689@eventor.orienteering.asn.au
-DTSTAMP:20230417T061712Z
+DTSTAMP:20230605T052133Z
 DTSTART:20230729T233000Z
 DTEND:20230729T233000Z
-SUMMARY:Come and Try It + Club Championship event, Garingal Orienteers
+SUMMARY:Come and Try It + Club Championship event - open to all, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18689
 END:VEVENT
 BEGIN:VEVENT
@@ -1755,6 +1749,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17827
 GEO:-35.4698906282695;149.362741055141
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18688@eventor.orienteering.asn.au
+DTSTAMP:20230605T051313Z
+DTSTART:20230819T233000Z
+DTEND:20230820T010000Z
+SUMMARY:Come and Try It + Club Championship event - open to all, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18688
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18594@eventor.orienteering.asn.au
 DTSTAMP:20230505T072511Z
 DTSTART:20230820T000000Z
@@ -1774,18 +1776,18 @@ GEO:-31.4349289662411;152.907338203876
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17758@eventor.orienteering.asn.au
-DTSTAMP:20230604T130326Z
+DTSTAMP:20230604T132935Z
 DTSTART:20230825T233000Z
-DTEND:20230825T233000Z
+DTEND:20230826T013000Z
 SUMMARY:2023 NSW State League #12 - Sprint (NSW Schools Champs), Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17758
 GEO:-33.7869520425252;151.025363896413
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17759@eventor.orienteering.asn.au
-DTSTAMP:20230516T040210Z
-DTSTART:20230826T140000Z
-DTEND:20230827T140000Z
+DTSTAMP:20230604T133856Z
+DTSTART:20230826T233000Z
+DTEND:20230827T013000Z
 SUMMARY:2023 NSW State League #13 - Middle (NSW Schools Champs), Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17759
 GEO:-33.8194881281495;150.618483178807
@@ -1936,12 +1938,52 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18919
 GEO:-31.4687320333966;152.723534247102
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19140@eventor.orienteering.asn.au
+DTSTAMP:20230605T062939Z
+DTSTART:20231022T050000Z
+DTEND:20231022T060000Z
+SUMMARY:River and Bay Orienteering Series #1, Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19140
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19141@eventor.orienteering.asn.au
+DTSTAMP:20230605T063128Z
+DTSTART:20231029T050000Z
+DTEND:20231029T060000Z
+SUMMARY:River and Bay Orienteering Series #2, Illawarra Kareelah Orienteers / Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19141
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19142@eventor.orienteering.asn.au
+DTSTAMP:20230605T064136Z
+DTSTART:20231105T050000Z
+DTEND:20231105T060000Z
+SUMMARY:River and Bay Orienteering Series #3, Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19142
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18599@eventor.orienteering.asn.au
 DTSTAMP:20230129T024459Z
 DTSTART:20231111T220000Z
 DTEND:20231111T220000Z
 SUMMARY:Waggaroos 2023-24 MapRun Series #1, TBC, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18599
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19143@eventor.orienteering.asn.au
+DTSTAMP:20230605T064255Z
+DTSTART:20231112T050000Z
+DTEND:20231112T060000Z
+SUMMARY:River and Bay Orienteering Series #4, Illawarra Kareelah Orienteers / Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19143
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19144@eventor.orienteering.asn.au
+DTSTAMP:20230605T064605Z
+DTSTART:20231119T050000Z
+DTEND:20231119T060000Z
+SUMMARY:River and Bay Orienteering Series #5, Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19144
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18697@eventor.orienteering.asn.au
@@ -1958,6 +2000,22 @@ DTSTART:20231125T220000Z
 DTEND:20231125T220000Z
 SUMMARY:Waggaroos 2023-24 MapRun Series #2, TBC, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18600
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19145@eventor.orienteering.asn.au
+DTSTAMP:20230605T064813Z
+DTSTART:20231126T050000Z
+DTEND:20231126T060000Z
+SUMMARY:River and Bay Orienteering Series #6, NSW Stingers / Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19145
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19146@eventor.orienteering.asn.au
+DTSTAMP:20230605T065018Z
+DTSTART:20231203T050000Z
+DTEND:20231203T060000Z
+SUMMARY:River and Bay Orienteering Series #7, Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19146
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18601@eventor.orienteering.asn.au

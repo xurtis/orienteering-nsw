@@ -687,7 +687,7 @@ GEO:-32.7641675382467;151.748563782687
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18888@eventor.orienteering.asn.au
-DTSTAMP:20230414T011528Z
+DTSTAMP:20230605T042847Z
 DTSTART:20230603T040000Z
 DTEND:20230603T060000Z
 SUMMARY:Coffs Score #3 - Tree Fern Creek, Bush n Beach Orienteering Club
@@ -705,11 +705,12 @@ GEO:-33.8394623978623;151.214477832961
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18908@eventor.orienteering.asn.au
-DTSTAMP:20230602T235716Z
+DTSTAMP:20230605T071430Z
 DTSTART:20230620T233000Z
 DTEND:20230620T233000Z
 SUMMARY:Sydney South West Secondary Schools Orienteering Championships, Orienteering NSW / Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18908
+GEO:-34.4475363943038;150.446578430722
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18777@eventor.orienteering.asn.au
@@ -739,11 +740,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18907
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19001@eventor.orienteering.asn.au
-DTSTAMP:20230424T053525Z
-DTSTART:20230715T043000Z
-DTEND:20230715T053000Z
-SUMMARY:Illawarra TBA, Illawarra Kareelah Orienteers
+DTSTAMP:20230605T045819Z
+DTSTART:20230715T040000Z
+DTEND:20230715T050000Z
+SUMMARY:Cronulla South, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19001
+GEO:-34.0595118353776;151.149319336723
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18690@eventor.orienteering.asn.au
@@ -819,11 +821,67 @@ SUMMARY:Cordeaux Heights, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18696
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19140@eventor.orienteering.asn.au
+DTSTAMP:20230605T062939Z
+DTSTART:20231022T050000Z
+DTEND:20231022T060000Z
+SUMMARY:River and Bay Orienteering Series #1, Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19140
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19141@eventor.orienteering.asn.au
+DTSTAMP:20230605T063128Z
+DTSTART:20231029T050000Z
+DTEND:20231029T060000Z
+SUMMARY:River and Bay Orienteering Series #2, Illawarra Kareelah Orienteers / Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19141
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19142@eventor.orienteering.asn.au
+DTSTAMP:20230605T064136Z
+DTSTART:20231105T050000Z
+DTEND:20231105T060000Z
+SUMMARY:River and Bay Orienteering Series #3, Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19142
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19143@eventor.orienteering.asn.au
+DTSTAMP:20230605T064255Z
+DTSTART:20231112T050000Z
+DTEND:20231112T060000Z
+SUMMARY:River and Bay Orienteering Series #4, Illawarra Kareelah Orienteers / Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19143
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19144@eventor.orienteering.asn.au
+DTSTAMP:20230605T064605Z
+DTSTART:20231119T050000Z
+DTEND:20231119T060000Z
+SUMMARY:River and Bay Orienteering Series #5, Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19144
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18697@eventor.orienteering.asn.au
 DTSTAMP:20230211T062132Z
 DTSTART:20231125T040000Z
 DTEND:20231125T060000Z
 SUMMARY:Berry, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18697
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19145@eventor.orienteering.asn.au
+DTSTAMP:20230605T064813Z
+DTSTART:20231126T050000Z
+DTEND:20231126T060000Z
+SUMMARY:River and Bay Orienteering Series #6, NSW Stingers / Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19145
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19146@eventor.orienteering.asn.au
+DTSTAMP:20230605T065018Z
+DTSTART:20231203T050000Z
+DTEND:20231203T060000Z
+SUMMARY:River and Bay Orienteering Series #7, Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19146
 END:VEVENT
 END:VCALENDAR

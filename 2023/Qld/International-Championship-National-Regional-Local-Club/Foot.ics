@@ -1156,6 +1156,14 @@ SUMMARY:Closed School Event, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18546
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19120@eventor.orienteering.asn.au
+DTSTAMP:20230604T201408Z
+DTSTART:20230610T000000Z
+DTEND:20230610T050000Z
+SUMMARY:Queensland Day Come N Try - Queens Park - Free Entry, 21Degrees South Multisport Assoc.
+URL:https://eventor.orienteering.asn.au/Events/Show/19120
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_16775@eventor.orienteering.asn.au
 DTSTAMP:20220401T000942Z
 DTSTART:20230610T040000Z
@@ -1163,15 +1171,6 @@ DTEND:20230610T040000Z
 SUMMARY:EODS - Sedgley Park BCC, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/16775
 GEO:-27.4283269985861;153.00448650263
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18711@eventor.orienteering.asn.au
-DTSTAMP:20230526T071510Z
-DTSTART:20230610T140000Z
-DTEND:20230611T140000Z
-SUMMARY:Leyburn South Coaching, Range Runners Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18711
-GEO:-28.0488561567921;151.634720214743
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19002@eventor.orienteering.asn.au
@@ -1183,8 +1182,17 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19002
 GEO:-27.9174164630292;153.358823406016
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18711@eventor.orienteering.asn.au
+DTSTAMP:20230605T035212Z
+DTSTART:20230611T000000Z
+DTEND:20230611T000000Z
+SUMMARY:Leyburn South Coaching, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18711
+GEO:-28.0488561567921;151.634720214743
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19047@eventor.orienteering.asn.au
-DTSTAMP:20230502T003025Z
+DTSTAMP:20230605T030150Z
 DTSTART:20230611T060000Z
 DTEND:20230611T060000Z
 SUMMARY:MapRun Parks 2023 - Mercer Park, Ugly Gully Orienteers
@@ -1251,15 +1259,6 @@ DTEND:20230620T093000Z
 SUMMARY:Night Nav - Tarragindi - Season Finale, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18938
 GEO:-27.5184867423499;153.040858728062
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18569@eventor.orienteering.asn.au
-DTSTAMP:20230126T014709Z
-DTSTART:20230621T073000Z
-DTEND:20230621T091500Z
-SUMMARY:MapRun Night Nav Mackay Harbour, 21Degrees South Multisport Assoc.
-URL:https://eventor.orienteering.asn.au/Events/Show/18569
-GEO:-21.1187310699104;149.221824968533
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18681@eventor.orienteering.asn.au
@@ -1390,6 +1389,15 @@ DTEND:20230725T093000Z
 SUMMARY:Night Nav - St Lucia East - BCC, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18736
 GEO:-27.4989291284518;153.004504353542
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19121@eventor.orienteering.asn.au
+DTSTAMP:20230604T233943Z
+DTSTART:20230727T003000Z
+DTEND:20230727T003000Z
+SUMMARY:Cicada Park, Chapel Hill Bush, street and park, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19121
+GEO:-27.4951474937162;152.941934206727
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18667@eventor.orienteering.asn.au
