@@ -2,4 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
+BEGIN:VEVENT
+UID:Event_19155@eventor.orienteering.asn.au
+DTSTAMP:20230608T060302Z
+DTSTART:20231014T050000Z
+DTEND:20231014T070000Z
+SUMMARY:Albany - Denmark SHS, Albany & Denmark Hinterland Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19155
+GEO:-34.9583230922315;117.364779461732
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19156@eventor.orienteering.asn.au
+DTSTAMP:20230608T061335Z
+DTSTART:20231015T020000Z
+DTEND:20231015T040000Z
+SUMMARY:Albany - Mt Adelaide & Forts Historical Precinct, Albany & Denmark Hinterland Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19156
+GEO:-35.0305783633314;117.913056854876
+END:VEVENT
 END:VCALENDAR
