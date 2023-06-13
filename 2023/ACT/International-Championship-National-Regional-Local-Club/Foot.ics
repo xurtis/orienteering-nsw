@@ -337,15 +337,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17860
 GEO:-35.3253205927243;149.000383452645
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18805@eventor.orienteering.asn.au
-DTSTAMP:20230403T014041Z
-DTSTART:20230601T060000Z
-DTEND:20230601T064500Z
-SUMMARY:HIGH SC-ORE #1: Melba Copland Secondary School, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/18805
-GEO:-35.213607162506;149.049461903176
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_17861@eventor.orienteering.asn.au
 DTSTAMP:20230603T022313Z
 DTSTART:20230603T003000Z
@@ -373,36 +364,13 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19095
 GEO:-35.2988588421805;149.110433117462
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18806@eventor.orienteering.asn.au
-DTSTAMP:20230427T034954Z
-DTSTART:20230608T060000Z
-DTEND:20230608T064500Z
-SUMMARY:HIGH SC-ORE #2: Melba Copland Secondary School, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/18806
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19096@eventor.orienteering.asn.au
-DTSTAMP:20230522T025023Z
-DTSTART:20230614T020000Z
-DTEND:20230614T040000Z
-SUMMARY:ACT Midweek Series: TBA, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/19096
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18807@eventor.orienteering.asn.au
-DTSTAMP:20230427T034956Z
-DTSTART:20230615T060000Z
-DTEND:20230615T064500Z
-SUMMARY:HIGH SC-ORE #3: Telopea Park School, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/18807
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_17862@eventor.orienteering.asn.au
 DTSTAMP:20230522T032937Z
 DTSTART:20230617T003000Z
 DTEND:20230617T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #7, Stringybark Hill, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/17862
+GEO:-35.3880854655363;149.207942017848
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19097@eventor.orienteering.asn.au
@@ -411,14 +379,6 @@ DTSTART:20230621T020000Z
 DTEND:20230621T040000Z
 SUMMARY:ACT Midweek Series: TBA, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19097
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18808@eventor.orienteering.asn.au
-DTSTAMP:20230309T002049Z
-DTSTART:20230622T060000Z
-DTEND:20230622T064500Z
-SUMMARY:HIGH SC-ORE #4: Telopea Park, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/18808
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17863@eventor.orienteering.asn.au
@@ -438,11 +398,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17825
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19098@eventor.orienteering.asn.au
-DTSTAMP:20230522T025130Z
+DTSTAMP:20230613T003748Z
 DTSTART:20230628T020000Z
 DTEND:20230628T040000Z
-SUMMARY:ACT Midweek Series: TBA, Orienteering ACT
+SUMMARY:ACT Midweek Series: Mount Rogers, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19098
+GEO:-35.1947848432183;149.050947717315
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17864@eventor.orienteering.asn.au
@@ -520,10 +481,10 @@ GEO:-35.4698906282695;149.362741055141
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17869@eventor.orienteering.asn.au
-DTSTAMP:20230522T032923Z
+DTSTAMP:20230613T005718Z
 DTSTART:20230826T003000Z
 DTEND:20230826T030000Z
-SUMMARY:ACT Metro Series: incl. Junior League #14, Cooleman Ridge, Bushflyers
+SUMMARY:ACT Metro Series: incl. ACT Secondary Schools Champs and Junior League #14, Cooleman Ridge, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/17869
 END:VEVENT
 BEGIN:VEVENT

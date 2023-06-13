@@ -1195,7 +1195,7 @@ GEO:-33.7432123451764;151.096030691666
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18839@eventor.orienteering.asn.au
-DTSTAMP:20230317T000434Z
+DTSTAMP:20230613T060020Z
 DTSTART:20230617T233000Z
 DTEND:20230617T233000Z
 SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
@@ -1203,7 +1203,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18839
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18883@eventor.orienteering.asn.au
-DTSTAMP:20230322T094249Z
+DTSTAMP:20230613T073539Z
 DTSTART:20230618T000000Z
 DTEND:20230618T000000Z
 SUMMARY:Bush event #4 Oakey Creek South, Goldseekers Orienteers
@@ -1274,20 +1274,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18997
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18906@eventor.orienteering.asn.au
-DTSTAMP:20230611T020639Z
+DTSTAMP:20230613T055224Z
 DTSTART:20230624T083000Z
 DTEND:20230624T083000Z
 SUMMARY:WHO 40th Birthday, Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18906
 GEO:-33.7630355805982;151.004454380812
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18840@eventor.orienteering.asn.au
-DTSTAMP:20230317T000617Z
-DTSTART:20230624T233000Z
-DTEND:20230624T233000Z
-SUMMARY:Newcastle OY5, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18840
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18666@eventor.orienteering.asn.au
@@ -1297,6 +1289,14 @@ DTEND:20230625T010000Z
 SUMMARY:2023 Metro League #3  - Yerambah Lagoon, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18666
 GEO:-33.9715909849825;151.011645926145
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18840@eventor.orienteering.asn.au
+DTSTAMP:20230612T235207Z
+DTSTART:20230624T233000Z
+DTEND:20230625T030000Z
+SUMMARY:NOY5 - “The Powerlines” (Abermain), Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18840
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18795@eventor.orienteering.asn.au
@@ -1318,11 +1318,12 @@ GEO:-34.0551181368047;150.689069284383
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18907@eventor.orienteering.asn.au
-DTSTAMP:20230327T091936Z
+DTSTAMP:20230613T073816Z
 DTSTART:20230701T220000Z
 DTEND:20230702T023000Z
 SUMMARY:2023 Sydney Metropolitan Turkey Trot, Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18907
+GEO:-33.8687076863008;150.904345727738
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18884@eventor.orienteering.asn.au
@@ -1361,7 +1362,7 @@ GEO:-35.6911887410571;146.728053378467
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18828@eventor.orienteering.asn.au
-DTSTAMP:20230528T100306Z
+DTSTAMP:20230613T051724Z
 DTSTART:20230709T003000Z
 DTEND:20230709T030000Z
 SUMMARY:Highlands Forest Series #2 - Penrose SF, Southern Highlands Orienteers

@@ -1630,15 +1630,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19114
 GEO:-36.8051108780148;144.287910298707
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18805@eventor.orienteering.asn.au
-DTSTAMP:20230403T014041Z
-DTSTART:20230601T060000Z
-DTEND:20230601T064500Z
-SUMMARY:HIGH SC-ORE #1: Melba Copland Secondary School, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/18805
-GEO:-35.213607162506;149.049461903176
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18901@eventor.orienteering.asn.au
 DTSTAMP:20230603T100307Z
 DTSTART:20230602T233000Z
@@ -1710,14 +1701,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18890
 GEO:-33.8394623978623;151.214477832961
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18806@eventor.orienteering.asn.au
-DTSTAMP:20230427T034954Z
-DTSTART:20230608T060000Z
-DTEND:20230608T064500Z
-SUMMARY:HIGH SC-ORE #2: Melba Copland Secondary School, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/18806
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18321@eventor.orienteering.asn.au
 DTSTAMP:20230610T112509Z
 DTSTART:20230609T140000Z
@@ -1746,7 +1729,7 @@ GEO:-37.6459359203978;144.868450196186
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17819@eventor.orienteering.asn.au
-DTSTAMP:20230607T120920Z
+DTSTAMP:20230613T093148Z
 DTSTART:20230611T003000Z
 DTEND:20230611T020000Z
 SUMMARY:Flinders Ranges Day 2- SA Long Distance Championships, Tintookies Orienteers
@@ -1763,20 +1746,13 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19021
 GEO:-41.470524;147.123106
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18807@eventor.orienteering.asn.au
-DTSTAMP:20230427T034956Z
-DTSTART:20230615T060000Z
-DTEND:20230615T064500Z
-SUMMARY:HIGH SC-ORE #3: Telopea Park School, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/18807
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_17862@eventor.orienteering.asn.au
 DTSTAMP:20230522T032937Z
 DTSTART:20230617T003000Z
 DTEND:20230617T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #7, Stringybark Hill, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/17862
+GEO:-35.3880854655363;149.207942017848
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18020@eventor.orienteering.asn.au
@@ -1789,7 +1765,7 @@ GEO:-28.0199450734267;151.658031994927
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18839@eventor.orienteering.asn.au
-DTSTAMP:20230317T000434Z
+DTSTAMP:20230613T060020Z
 DTSTART:20230617T233000Z
 DTEND:20230617T233000Z
 SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
@@ -1839,14 +1815,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18908
 GEO:-34.4475363943038;150.446578430722
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18808@eventor.orienteering.asn.au
-DTSTAMP:20230309T002049Z
-DTSTART:20230622T060000Z
-DTEND:20230622T064500Z
-SUMMARY:HIGH SC-ORE #4: Telopea Park, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/18808
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18777@eventor.orienteering.asn.au
 DTSTAMP:20230414T011657Z
 DTSTART:20230622T080000Z
@@ -1881,14 +1849,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19007
 GEO:-42.4482655858886;147.227772345213
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18840@eventor.orienteering.asn.au
-DTSTAMP:20230317T000617Z
-DTSTART:20230624T233000Z
-DTEND:20230624T233000Z
-SUMMARY:Newcastle OY5, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18840
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18666@eventor.orienteering.asn.au
 DTSTAMP:20230607T120642Z
 DTSTART:20230624T233000Z
@@ -1896,6 +1856,14 @@ DTEND:20230625T010000Z
 SUMMARY:2023 Metro League #3  - Yerambah Lagoon, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18666
 GEO:-33.9715909849825;151.011645926145
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18840@eventor.orienteering.asn.au
+DTSTAMP:20230612T235207Z
+DTSTART:20230624T233000Z
+DTEND:20230625T030000Z
+SUMMARY:NOY5 - “The Powerlines” (Abermain), Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18840
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18909@eventor.orienteering.asn.au
@@ -1908,10 +1876,10 @@ GEO:-34.0551181368047;150.689069284383
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19150@eventor.orienteering.asn.au
-DTSTAMP:20230606T023748Z
+DTSTAMP:20230613T020020Z
 DTSTART:20230629T140000Z
 DTEND:20230702T140000Z
-SUMMARY:2023 Women's Coaching Weekend, Orienteering Tasmania
+SUMMARY:Women's Coaching Weekend, Orienteering Tasmania
 URL:https://eventor.orienteering.asn.au/Events/Show/19150
 GEO:-41.3248661005855;148.249535185969
 END:VEVENT
@@ -1951,7 +1919,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18841
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18828@eventor.orienteering.asn.au
-DTSTAMP:20230528T100306Z
+DTSTAMP:20230613T051724Z
 DTSTART:20230709T003000Z
 DTEND:20230709T030000Z
 SUMMARY:Highlands Forest Series #2 - Penrose SF, Southern Highlands Orienteers
@@ -2263,7 +2231,7 @@ GEO:-34.9049251919819;149.456326392782
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19011@eventor.orienteering.asn.au
-DTSTAMP:20230425T032535Z
+DTSTAMP:20230613T013958Z
 DTSTART:20230818T140000Z
 DTEND:20230819T140000Z
 SUMMARY:Bells Marsh - Tas Long Distance Champs, Australopers
@@ -2315,10 +2283,10 @@ GEO:-33.7869520425252;151.025363896413
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17869@eventor.orienteering.asn.au
-DTSTAMP:20230522T032923Z
+DTSTAMP:20230613T005718Z
 DTSTART:20230826T003000Z
 DTEND:20230826T030000Z
-SUMMARY:ACT Metro Series: incl. Junior League #14, Cooleman Ridge, Bushflyers
+SUMMARY:ACT Metro Series: incl. ACT Secondary Schools Champs and Junior League #14, Cooleman Ridge, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/17869
 END:VEVENT
 BEGIN:VEVENT

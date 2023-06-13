@@ -885,7 +885,7 @@ GEO:-33.1635113418499;151.396606507449
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18839@eventor.orienteering.asn.au
-DTSTAMP:20230317T000434Z
+DTSTAMP:20230613T060020Z
 DTSTART:20230617T233000Z
 DTEND:20230617T233000Z
 SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
@@ -928,14 +928,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18777
 GEO:-30.3008462088598;153.118238993898
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18840@eventor.orienteering.asn.au
-DTSTAMP:20230317T000617Z
-DTSTART:20230624T233000Z
-DTEND:20230624T233000Z
-SUMMARY:Newcastle OY5, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18840
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18666@eventor.orienteering.asn.au
 DTSTAMP:20230607T120642Z
 DTSTART:20230624T233000Z
@@ -943,6 +935,14 @@ DTEND:20230625T010000Z
 SUMMARY:2023 Metro League #3  - Yerambah Lagoon, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18666
 GEO:-33.9715909849825;151.011645926145
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18840@eventor.orienteering.asn.au
+DTSTAMP:20230612T235207Z
+DTSTART:20230624T233000Z
+DTEND:20230625T030000Z
+SUMMARY:NOY5 - “The Powerlines” (Abermain), Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18840
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18909@eventor.orienteering.asn.au
@@ -963,7 +963,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18841
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18828@eventor.orienteering.asn.au
-DTSTAMP:20230528T100306Z
+DTSTAMP:20230613T051724Z
 DTSTART:20230709T003000Z
 DTEND:20230709T030000Z
 SUMMARY:Highlands Forest Series #2 - Penrose SF, Southern Highlands Orienteers

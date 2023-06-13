@@ -617,7 +617,7 @@ GEO:-37.6459359203978;144.868450196186
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17819@eventor.orienteering.asn.au
-DTSTAMP:20230607T120920Z
+DTSTAMP:20230613T093148Z
 DTSTART:20230611T003000Z
 DTEND:20230611T020000Z
 SUMMARY:Flinders Ranges Day 2- SA Long Distance Championships, Tintookies Orienteers
@@ -661,10 +661,10 @@ GEO:-42.4482655858886;147.227772345213
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19150@eventor.orienteering.asn.au
-DTSTAMP:20230606T023748Z
+DTSTAMP:20230613T020020Z
 DTSTART:20230629T140000Z
 DTEND:20230702T140000Z
-SUMMARY:2023 Women's Coaching Weekend, Orienteering Tasmania
+SUMMARY:Women's Coaching Weekend, Orienteering Tasmania
 URL:https://eventor.orienteering.asn.au/Events/Show/19150
 GEO:-41.3248661005855;148.249535185969
 END:VEVENT
@@ -815,7 +815,7 @@ GEO:-34.9049251919819;149.456326392782
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19011@eventor.orienteering.asn.au
-DTSTAMP:20230425T032535Z
+DTSTAMP:20230613T013958Z
 DTSTART:20230818T140000Z
 DTEND:20230819T140000Z
 SUMMARY:Bells Marsh - Tas Long Distance Champs, Australopers
@@ -892,15 +892,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18792
 GEO:-34.8734477845165;138.689432868122
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18541@eventor.orienteering.asn.au
-DTSTAMP:20230423T230608Z
-DTSTART:20230901T140000Z
-DTEND:20230902T140000Z
-SUMMARY:NSW MTBO Champs - Long, Bush n Beach Orienteering Club / Hastings Orienteering Group / Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18541
-GEO:-31.1025492928456;152.828099573909
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18245@eventor.orienteering.asn.au
 DTSTAMP:20230526T060642Z
 DTSTART:20230901T140000Z
@@ -908,6 +899,15 @@ DTEND:20230902T140000Z
 SUMMARY:Victorian Middle Distance Championships - Mt Alexander, Harcourt, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18245
 GEO:-37.0186202919063;144.306329449343
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18541@eventor.orienteering.asn.au
+DTSTAMP:20230612T234945Z
+DTSTART:20230902T023000Z
+DTEND:20230902T063000Z
+SUMMARY:NSW MTBO Champs - Long, Bush n Beach Orienteering Club / Hastings Orienteering Group / Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18541
+GEO:-31.1025492928456;152.828099573909
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18542@eventor.orienteering.asn.au
@@ -1211,5 +1211,14 @@ DTEND:20231112T130000Z
 SUMMARY:MTBO Vic Series #6 - Linton, Yarra Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18348
 GEO:-37.6805755910039;143.563809117085
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19039@eventor.orienteering.asn.au
+DTSTAMP:20230613T052400Z
+DTSTART:20231226T130000Z
+DTEND:20231231T130000Z
+SUMMARY:XMAS 5 DAYS, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19039
+GEO:-33.4244495915362;151.340866245007
 END:VEVENT
 END:VCALENDAR

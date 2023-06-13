@@ -552,15 +552,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18860
 GEO:-35.3409330233689;149.131543739139
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18805@eventor.orienteering.asn.au
-DTSTAMP:20230403T014041Z
-DTSTART:20230601T060000Z
-DTEND:20230601T064500Z
-SUMMARY:HIGH SC-ORE #1: Melba Copland Secondary School, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/18805
-GEO:-35.213607162506;149.049461903176
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_17861@eventor.orienteering.asn.au
 DTSTAMP:20230603T022313Z
 DTSTART:20230603T003000Z
@@ -597,37 +588,13 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19095
 GEO:-35.2988588421805;149.110433117462
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18806@eventor.orienteering.asn.au
-DTSTAMP:20230427T034954Z
-DTSTART:20230608T060000Z
-DTEND:20230608T064500Z
-SUMMARY:HIGH SC-ORE #2: Melba Copland Secondary School, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/18806
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18862@eventor.orienteering.asn.au
-DTSTAMP:20230428T030428Z
+DTSTAMP:20230612T235757Z
 DTSTART:20230612T070000Z
 DTEND:20230612T091500Z
 SUMMARY:ACT MapRun Street Series: Watson, 8-12 Jun, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18862
 GEO:-35.2391911205213;149.153271830784
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19096@eventor.orienteering.asn.au
-DTSTAMP:20230522T025023Z
-DTSTART:20230614T020000Z
-DTEND:20230614T040000Z
-SUMMARY:ACT Midweek Series: TBA, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/19096
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18807@eventor.orienteering.asn.au
-DTSTAMP:20230427T034956Z
-DTSTART:20230615T060000Z
-DTEND:20230615T064500Z
-SUMMARY:HIGH SC-ORE #3: Telopea Park School, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/18807
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17862@eventor.orienteering.asn.au
@@ -636,6 +603,7 @@ DTSTART:20230617T003000Z
 DTEND:20230617T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #7, Stringybark Hill, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/17862
+GEO:-35.3880854655363;149.207942017848
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18863@eventor.orienteering.asn.au
@@ -644,6 +612,7 @@ DTSTART:20230619T070000Z
 DTEND:20230619T091500Z
 SUMMARY:ACT MapRun Street Series: Calwell, 15-19 Jun, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18863
+GEO:-35.4356244757304;149.115114960377
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19097@eventor.orienteering.asn.au
@@ -652,14 +621,6 @@ DTSTART:20230621T020000Z
 DTEND:20230621T040000Z
 SUMMARY:ACT Midweek Series: TBA, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19097
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18808@eventor.orienteering.asn.au
-DTSTAMP:20230309T002049Z
-DTSTART:20230622T060000Z
-DTEND:20230622T064500Z
-SUMMARY:HIGH SC-ORE #4: Telopea Park, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/18808
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17863@eventor.orienteering.asn.au
@@ -684,14 +645,16 @@ DTSTART:20230626T070000Z
 DTEND:20230626T091500Z
 SUMMARY:ACT MapRun Street Series: Narrabundah East, 22-26 Jun, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18864
+GEO:-35.3331504820259;149.153719852239
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19098@eventor.orienteering.asn.au
-DTSTAMP:20230522T025130Z
+DTSTAMP:20230613T003748Z
 DTSTART:20230628T020000Z
 DTEND:20230628T040000Z
-SUMMARY:ACT Midweek Series: TBA, Orienteering ACT
+SUMMARY:ACT Midweek Series: Mount Rogers, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19098
+GEO:-35.1947848432183;149.050947717315
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17864@eventor.orienteering.asn.au
@@ -711,10 +674,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18865
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18866@eventor.orienteering.asn.au
-DTSTAMP:20230428T030615Z
+DTSTAMP:20230613T002843Z
 DTSTART:20230710T070000Z
 DTEND:20230710T091500Z
-SUMMARY:ACT MapRun Street Series: Crace, 6-10 Jul, Orienteering ACT
+SUMMARY:ACT MapRun Street Series: TBA, 6-10 Jul, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18866
 END:VEVENT
 BEGIN:VEVENT
@@ -833,18 +796,18 @@ GEO:-35.4698906282695;149.362741055141
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18872@eventor.orienteering.asn.au
-DTSTAMP:20230328T013853Z
+DTSTAMP:20230613T002715Z
 DTSTART:20230821T070000Z
 DTEND:20230821T091500Z
-SUMMARY:ACT MapRun Street Series: TBA, 17-21 Aug, Orienteering ACT
+SUMMARY:ACT MapRun Street Series: Forde, 17-21 Aug, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18872
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17869@eventor.orienteering.asn.au
-DTSTAMP:20230522T032923Z
+DTSTAMP:20230613T005718Z
 DTSTART:20230826T003000Z
 DTEND:20230826T030000Z
-SUMMARY:ACT Metro Series: incl. Junior League #14, Cooleman Ridge, Bushflyers
+SUMMARY:ACT Metro Series: incl. ACT Secondary Schools Champs and Junior League #14, Cooleman Ridge, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/17869
 END:VEVENT
 BEGIN:VEVENT
@@ -857,10 +820,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17871
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18873@eventor.orienteering.asn.au
-DTSTAMP:20230328T013720Z
+DTSTAMP:20230613T002804Z
 DTSTART:20230828T070000Z
 DTEND:20230828T091500Z
-SUMMARY:ACT MapRun Street Series: TBA, 24-28 Aug, Orienteering ACT
+SUMMARY:ACT MapRun Street Series: Crace, 24-28 Aug, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18873
 END:VEVENT
 BEGIN:VEVENT
