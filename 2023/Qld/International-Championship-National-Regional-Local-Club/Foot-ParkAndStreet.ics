@@ -1350,15 +1350,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/16772
 GEO:-27.4496461138036;153.02284246411
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19003@eventor.orienteering.asn.au
-DTSTAMP:20230424T091414Z
-DTSTART:20230701T230000Z
-DTEND:20230702T010000Z
-SUMMARY:Bush Orienteering at Nerang National Park, Gold Coast, Paradise Lost Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19003
-GEO:-27.9847675951492;153.302014467681
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18787@eventor.orienteering.asn.au
 DTSTAMP:20230302T064916Z
 DTSTART:20230701T230000Z
@@ -1393,6 +1384,15 @@ DTEND:20230706T010000Z
 SUMMARY:Rocks Riverside Park, Seventeen Mile Rocks. (BCC Sponsored) (MAPRUN EVENT), Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18756
 GEO:-27.5385198109133;152.959842509112
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19003@eventor.orienteering.asn.au
+DTSTAMP:20230614T051336Z
+DTSTART:20230708T230000Z
+DTEND:20230709T010000Z
+SUMMARY:Bush Orienteering at Nerang National Park, Gold Coast TBC, Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19003
+GEO:-27.9847675951492;153.302014467681
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19160@eventor.orienteering.asn.au
