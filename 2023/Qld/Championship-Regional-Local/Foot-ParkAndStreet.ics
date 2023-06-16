@@ -198,6 +198,15 @@ SUMMARY:Closed School Event, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18548
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18681@eventor.orienteering.asn.au
+DTSTAMP:20230615T233050Z
+DTSTART:20230622T003000Z
+DTEND:20230622T010000Z
+SUMMARY:Underwood Park, Priestdale. Park, Street, & Bush., Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/18681
+GEO:-27.6013416757748;153.145908845995
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19118@eventor.orienteering.asn.au
 DTSTAMP:20230531T123159Z
 DTSTART:20230623T230000Z
@@ -207,7 +216,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19118
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17809@eventor.orienteering.asn.au
-DTSTAMP:20230420T115154Z
+DTSTAMP:20230616T095900Z
 DTSTART:20230705T233000Z
 DTEND:20230708T140000Z
 SUMMARY:Junior Camp - Maryborough region, Orienteering Queensland

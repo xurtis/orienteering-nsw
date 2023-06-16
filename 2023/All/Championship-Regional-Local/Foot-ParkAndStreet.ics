@@ -2057,6 +2057,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18908
 GEO:-34.4475363943038;150.446578430722
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18681@eventor.orienteering.asn.au
+DTSTAMP:20230615T233050Z
+DTSTART:20230622T003000Z
+DTEND:20230622T010000Z
+SUMMARY:Underwood Park, Priestdale. Park, Street, & Bush., Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/18681
+GEO:-27.6013416757748;153.145908845995
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18777@eventor.orienteering.asn.au
 DTSTAMP:20230414T011657Z
 DTSTART:20230622T080000Z
@@ -2075,10 +2084,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19118
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17863@eventor.orienteering.asn.au
-DTSTAMP:20230522T032933Z
+DTSTAMP:20230616T063059Z
 DTSTART:20230624T003000Z
 DTEND:20230624T030000Z
-SUMMARY:ACT Metro Series: incl. Junior League #8, Callum Brae, Red Roos
+SUMMARY:ACT Metro Series: incl. Junior League #8, Location TBA, Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/17863
 END:VEVENT
 BEGIN:VEVENT
@@ -2135,7 +2144,7 @@ GEO:-34.0551181368047;150.689069284383
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19150@eventor.orienteering.asn.au
-DTSTAMP:20230613T020020Z
+DTSTAMP:20230616T003106Z
 DTSTART:20230629T140000Z
 DTEND:20230702T140000Z
 SUMMARY:Women's Coaching Weekend, Orienteering Tasmania
@@ -2169,7 +2178,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18865
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17809@eventor.orienteering.asn.au
-DTSTAMP:20230420T115154Z
+DTSTAMP:20230616T095900Z
 DTSTART:20230705T233000Z
 DTEND:20230708T140000Z
 SUMMARY:Junior Camp - Maryborough region, Orienteering Queensland
@@ -2200,6 +2209,15 @@ DTSTART:20230710T070000Z
 DTEND:20230710T091500Z
 SUMMARY:ACT MapRun Street Series: TBA, 6-10 Jul, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18866
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19182@eventor.orienteering.asn.au
+DTSTAMP:20230616T054725Z
+DTSTART:20230712T140000Z
+DTEND:20230713T140000Z
+SUMMARY:Bluebottles July Training Camp at Belanglo, Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/19182
+GEO:-34.532263739384;150.259177125156
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19001@eventor.orienteering.asn.au

@@ -1362,11 +1362,12 @@ GEO:-27.5184867423499;153.040858728062
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18681@eventor.orienteering.asn.au
-DTSTAMP:20230207T040659Z
+DTSTAMP:20230615T233050Z
 DTSTART:20230622T003000Z
 DTEND:20230622T010000Z
 SUMMARY:Underwood Park, Priestdale. Park, Street, & Bush., Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18681
+GEO:-27.6013416757748;153.145908845995
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19118@eventor.orienteering.asn.au
@@ -1423,7 +1424,7 @@ GEO:-27.539398;152.966948
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17809@eventor.orienteering.asn.au
-DTSTAMP:20230420T115154Z
+DTSTAMP:20230616T095900Z
 DTSTART:20230705T233000Z
 DTEND:20230708T140000Z
 SUMMARY:Junior Camp - Maryborough region, Orienteering Queensland
@@ -1456,6 +1457,15 @@ DTEND:20230709T060000Z
 SUMMARY:MapRun Parks 2023 - Meadowlands, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19160
 GEO:-27.490487;153.116204
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19183@eventor.orienteering.asn.au
+DTSTAMP:20230616T084950Z
+DTSTART:20230713T003000Z
+DTEND:20230713T010000Z
+SUMMARY:Bunyaville East Bush, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19183
+GEO:-27.3738426124179;152.959859986444
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17935@eventor.orienteering.asn.au

@@ -5180,11 +5180,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19097
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18681@eventor.orienteering.asn.au
-DTSTAMP:20230207T040659Z
+DTSTAMP:20230615T233050Z
 DTSTART:20230622T003000Z
 DTEND:20230622T010000Z
 SUMMARY:Underwood Park, Priestdale. Park, Street, & Bush., Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18681
+GEO:-27.6013416757748;153.145908845995
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18777@eventor.orienteering.asn.au
@@ -5223,10 +5224,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18997
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17863@eventor.orienteering.asn.au
-DTSTAMP:20230522T032933Z
+DTSTAMP:20230616T063059Z
 DTSTART:20230624T003000Z
 DTEND:20230624T030000Z
-SUMMARY:ACT Metro Series: incl. Junior League #8, Callum Brae, Red Roos
+SUMMARY:ACT Metro Series: incl. Junior League #8, Location TBA, Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/17863
 END:VEVENT
 BEGIN:VEVENT
@@ -5373,7 +5374,7 @@ GEO:-27.4784721910964;152.929004742538
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19150@eventor.orienteering.asn.au
-DTSTAMP:20230613T020020Z
+DTSTAMP:20230616T003106Z
 DTSTART:20230629T140000Z
 DTEND:20230702T140000Z
 SUMMARY:Women's Coaching Weekend, Orienteering Tasmania
@@ -5462,7 +5463,7 @@ GEO:-35.9808956426062;146.978122249523
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18445@eventor.orienteering.asn.au
-DTSTAMP:20230603T083811Z
+DTSTAMP:20230615T225918Z
 DTSTART:20230702T000000Z
 DTEND:20230702T030000Z
 SUMMARY:MelBushO 6 - Westerfolds Park, Templestowe, Yarra Valley Orienteering Club
@@ -5471,7 +5472,7 @@ GEO:-37.7509438225222;145.129094749978
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18741@eventor.orienteering.asn.au
-DTSTAMP:20230606T052956Z
+DTSTAMP:20230616T031420Z
 DTSTART:20230702T013000Z
 DTEND:20230702T013000Z
 SUMMARY:Bush 6 Jumbuck Ridge, Orienteering WA / Wullundigong Orienteers of the West
@@ -5498,7 +5499,7 @@ GEO:-33.8311987736171;151.119695455588
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17809@eventor.orienteering.asn.au
-DTSTAMP:20230420T115154Z
+DTSTAMP:20230616T095900Z
 DTSTART:20230705T233000Z
 DTEND:20230708T140000Z
 SUMMARY:Junior Camp - Maryborough region, Orienteering Queensland
@@ -5653,12 +5654,30 @@ SUMMARY:Midweek Training at Mt Crawford, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18461
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19182@eventor.orienteering.asn.au
+DTSTAMP:20230616T054725Z
+DTSTART:20230712T140000Z
+DTEND:20230713T140000Z
+SUMMARY:Bluebottles July Training Camp at Belanglo, Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/19182
+GEO:-34.532263739384;150.259177125156
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19149@eventor.orienteering.asn.au
 DTSTAMP:20230615T110804Z
 DTSTART:20230712T143000Z
 DTEND:20230713T143000Z
 SUMMARY:SA junior arrows camp Day 4 only- Camp champs, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/19149
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19183@eventor.orienteering.asn.au
+DTSTAMP:20230616T084950Z
+DTSTART:20230713T003000Z
+DTEND:20230713T010000Z
+SUMMARY:Bunyaville East Bush, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19183
+GEO:-27.3738426124179;152.959859986444
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18393@eventor.orienteering.asn.au
@@ -5712,10 +5731,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18842
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18690@eventor.orienteering.asn.au
-DTSTAMP:20230209T022013Z
+DTSTAMP:20230616T115337Z
 DTSTART:20230715T233000Z
-DTEND:20230715T233000Z
-SUMMARY:Ultrasprint, Garingal Orienteers
+DTEND:20230716T020000Z
+SUMMARY:Ultrasprint - Chatswood, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18690
 END:VEVENT
 BEGIN:VEVENT
@@ -6033,7 +6052,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18689
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18447@eventor.orienteering.asn.au
-DTSTAMP:20230603T083956Z
+DTSTAMP:20230615T230047Z
 DTSTART:20230730T000000Z
 DTEND:20230730T000000Z
 SUMMARY:MelBushO 8 - Plenty Gorge, South Morang, Yarra Valley Orienteering Club
