@@ -1464,7 +1464,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19037
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18444@eventor.orienteering.asn.au
-DTSTAMP:20230604T095441Z
+DTSTAMP:20230618T082445Z
 DTSTART:20230618T000000Z
 DTEND:20230618T000000Z
 SUMMARY:MelBushO 5 - Yellow Gum Park, Yan Yean, Nillumbik Emus Orienteering Club
@@ -2078,5 +2078,22 @@ DTSTART:20231118T130000Z
 DTEND:20231119T130000Z
 SUMMARY:Melbourne City Race - Docklands, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18436
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19185@eventor.orienteering.asn.au
+DTSTAMP:20230618T081056Z
+DTSTART:20231125T130000Z
+DTEND:20231126T130000Z
+SUMMARY:Victorian Knockout Sprint Race, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19185
+GEO:-37.7929298897588;145.19904990901
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19184@eventor.orienteering.asn.au
+DTSTAMP:20230618T081114Z
+DTSTART:20231125T130000Z
+DTEND:20231126T130000Z
+SUMMARY:Victorian Sprint Championships, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19184
 END:VEVENT
 END:VCALENDAR

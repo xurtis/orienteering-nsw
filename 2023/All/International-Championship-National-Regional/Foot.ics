@@ -581,20 +581,12 @@ GEO:-41.470524;147.123106
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18020@eventor.orienteering.asn.au
-DTSTAMP:20230610T040739Z
+DTSTAMP:20230618T072158Z
 DTSTART:20230617T230000Z
 DTEND:20230618T030000Z
 SUMMARY:OY7 - Leyburn North, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18020
 GEO:-28.0199450734267;151.658031994927
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_17825@eventor.orienteering.asn.au
-DTSTAMP:20230606T041712Z
-DTSTART:20230624T140000Z
-DTEND:20230625T140000Z
-SUMMARY:ACT Sprint Distance Championships: ACT League #3, Canberra Girls Grammar School, Bushflyers
-URL:https://eventor.orienteering.asn.au/Events/Show/17825
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19007@eventor.orienteering.asn.au
@@ -604,6 +596,14 @@ DTEND:20230625T140000Z
 SUMMARY:Lovely Banks - OST 7, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/19007
 GEO:-42.4482655858886;147.227772345213
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17825@eventor.orienteering.asn.au
+DTSTAMP:20230618T040220Z
+DTSTART:20230625T000000Z
+DTEND:20230625T020000Z
+SUMMARY:ACT Sprint Distance Championships: ACT League #3, Canberra Girls Grammar School, Bushflyers
+URL:https://eventor.orienteering.asn.au/Events/Show/17825
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19150@eventor.orienteering.asn.au
@@ -1019,6 +1019,23 @@ DTSTART:20231021T140000Z
 DTEND:20231022T140000Z
 SUMMARY:Club relays - Sheepstation Creek (Wivenhoe) tbc, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18027
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19185@eventor.orienteering.asn.au
+DTSTAMP:20230618T081056Z
+DTSTART:20231125T130000Z
+DTEND:20231126T130000Z
+SUMMARY:Victorian Knockout Sprint Race, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19185
+GEO:-37.7929298897588;145.19904990901
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19184@eventor.orienteering.asn.au
+DTSTAMP:20230618T081114Z
+DTSTART:20231125T130000Z
+DTEND:20231126T130000Z
+SUMMARY:Victorian Sprint Championships, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19184
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19039@eventor.orienteering.asn.au

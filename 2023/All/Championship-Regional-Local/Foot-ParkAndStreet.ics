@@ -1989,7 +1989,7 @@ GEO:-35.3880854655363;149.207942017848
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18020@eventor.orienteering.asn.au
-DTSTAMP:20230610T040739Z
+DTSTAMP:20230618T072158Z
 DTSTART:20230617T230000Z
 DTEND:20230618T030000Z
 SUMMARY:OY7 - Leyburn North, Range Runners Orienteering Club
@@ -2006,7 +2006,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18839
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18581@eventor.orienteering.asn.au
-DTSTAMP:20230603T033329Z
+DTSTAMP:20230618T072453Z
 DTSTART:20230618T000000Z
 DTEND:20230618T033000Z
 SUMMARY:Waggaroos - AWOC Interclub #1, Wolfram, Wagga and Riverina Occasional Orienteers
@@ -2015,7 +2015,7 @@ GEO:-35.3944332667129;147.35619957402
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18827@eventor.orienteering.asn.au
-DTSTAMP:20230522T102010Z
+DTSTAMP:20230618T040213Z
 DTSTART:20230618T003000Z
 DTEND:20230618T030000Z
 SUMMARY:Highlands Forest Series #1 - Welby, Southern Highlands Orienteers
@@ -2038,14 +2038,6 @@ DTEND:20230619T091500Z
 SUMMARY:ACT MapRun Street Series: Calwell, 15-19 Jun, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18863
 GEO:-35.4356244757304;149.115114960377
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18548@eventor.orienteering.asn.au
-DTSTAMP:20230124T053049Z
-DTSTART:20230619T230000Z
-DTEND:20230620T050000Z
-SUMMARY:Closed School Event, Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/18548
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18908@eventor.orienteering.asn.au
@@ -2076,7 +2068,7 @@ GEO:-30.3008462088598;153.118238993898
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19118@eventor.orienteering.asn.au
-DTSTAMP:20230531T123159Z
+DTSTAMP:20230618T004101Z
 DTSTART:20230623T230000Z
 DTEND:20230624T003000Z
 SUMMARY:Limestone Park - Active and Healthy Ipswich, Orienteering Queensland
@@ -2084,19 +2076,11 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19118
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17863@eventor.orienteering.asn.au
-DTSTAMP:20230616T063059Z
+DTSTAMP:20230618T074515Z
 DTSTART:20230624T003000Z
 DTEND:20230624T030000Z
-SUMMARY:ACT Metro Series: incl. Junior League #8, Location TBA, Red Roos
+SUMMARY:CANCELLED - ACT Metro Series: incl. Junior League #8, Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/17863
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_17825@eventor.orienteering.asn.au
-DTSTAMP:20230606T041712Z
-DTSTART:20230624T140000Z
-DTEND:20230625T140000Z
-SUMMARY:ACT Sprint Distance Championships: ACT League #3, Canberra Girls Grammar School, Bushflyers
-URL:https://eventor.orienteering.asn.au/Events/Show/17825
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19007@eventor.orienteering.asn.au
@@ -2123,6 +2107,14 @@ DTSTART:20230624T233000Z
 DTEND:20230625T030000Z
 SUMMARY:NOY5 - “The Powerlines” (Abermain), Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18840
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17825@eventor.orienteering.asn.au
+DTSTAMP:20230618T040220Z
+DTSTART:20230625T000000Z
+DTEND:20230625T020000Z
+SUMMARY:ACT Sprint Distance Championships: ACT League #3, Canberra Girls Grammar School, Bushflyers
+URL:https://eventor.orienteering.asn.au/Events/Show/17825
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18864@eventor.orienteering.asn.au
@@ -3064,6 +3056,23 @@ DTSTART:20231125T040000Z
 DTEND:20231125T060000Z
 SUMMARY:Berry, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18697
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19185@eventor.orienteering.asn.au
+DTSTAMP:20230618T081056Z
+DTSTART:20231125T130000Z
+DTEND:20231126T130000Z
+SUMMARY:Victorian Knockout Sprint Race, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19185
+GEO:-37.7929298897588;145.19904990901
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19184@eventor.orienteering.asn.au
+DTSTAMP:20230618T081114Z
+DTSTART:20231125T130000Z
+DTEND:20231126T130000Z
+SUMMARY:Victorian Sprint Championships, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19184
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18335@eventor.orienteering.asn.au
