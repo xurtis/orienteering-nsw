@@ -658,6 +658,7 @@ DTSTART:20230625T000000Z
 DTEND:20230625T020000Z
 SUMMARY:ACT Sprint Distance Championships: ACT League #3, Canberra Girls Grammar School, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/17825
+GEO:-35.3166749793867;149.113076019665
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19150@eventor.orienteering.asn.au
@@ -704,15 +705,16 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17892
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17884@eventor.orienteering.asn.au
-DTSTAMP:20221207T062640Z
+DTSTAMP:20230619T032747Z
 DTSTART:20230722T003000Z
 DTEND:20230722T003000Z
 SUMMARY:2023 QLD Schools Championships - Sprint - Miles, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/17884
+GEO:-26.655332574634;150.182927901329
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18322@eventor.orienteering.asn.au
-DTSTAMP:20221207T063450Z
+DTSTAMP:20230619T035518Z
 DTSTART:20230722T040000Z
 DTEND:20230722T040000Z
 SUMMARY:2023 QLD Schools Championships - Hagaby - Gurulmundi SF, Orienteering Queensland
@@ -730,7 +732,7 @@ GEO:-42.8297468615918;147.581567271709
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17883@eventor.orienteering.asn.au
-DTSTAMP:20221207T064010Z
+DTSTAMP:20230619T035755Z
 DTSTART:20230722T233000Z
 DTEND:20230722T233000Z
 SUMMARY:2023 QLD Schools Champs - Long distance - Gurulmundi SF, Orienteering Queensland

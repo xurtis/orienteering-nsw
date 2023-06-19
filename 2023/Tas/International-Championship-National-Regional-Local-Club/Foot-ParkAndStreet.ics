@@ -595,20 +595,21 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18978
 GEO:-42.8441399947013;147.414141675969
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18979@eventor.orienteering.asn.au
-DTSTAMP:20230421T013119Z
-DTSTART:20230715T140000Z
-DTEND:20230716T140000Z
-SUMMARY:Knocklofty North - Southern Local #6, Australopers
-URL:https://eventor.orienteering.asn.au/Events/Show/18979
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19018@eventor.orienteering.asn.au
 DTSTAMP:20230428T000031Z
 DTSTART:20230715T140000Z
 DTEND:20230716T140000Z
 SUMMARY:Russells Plains - Northern Local #2, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/19018
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18979@eventor.orienteering.asn.au
+DTSTAMP:20230619T014504Z
+DTSTART:20230716T000000Z
+DTEND:20230716T030000Z
+SUMMARY:Knocklofty North - Southern Local #6, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/18979
+GEO:-42.8744137510803;147.299288509116
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19008@eventor.orienteering.asn.au

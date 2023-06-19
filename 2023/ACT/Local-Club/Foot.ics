@@ -337,14 +337,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17862
 GEO:-35.3880854655363;149.207942017848
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19097@eventor.orienteering.asn.au
-DTSTAMP:20230522T025050Z
-DTSTART:20230621T020000Z
-DTEND:20230621T040000Z
-SUMMARY:ACT Midweek Series: TBA, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/19097
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_17863@eventor.orienteering.asn.au
 DTSTAMP:20230618T074515Z
 DTSTART:20230624T003000Z
@@ -354,7 +346,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17863
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19098@eventor.orienteering.asn.au
-DTSTAMP:20230613T003748Z
+DTSTAMP:20230619T040434Z
 DTSTART:20230628T020000Z
 DTEND:20230628T040000Z
 SUMMARY:ACT Midweek Series: Mount Rogers, Orienteering ACT
@@ -368,6 +360,7 @@ DTSTART:20230701T003000Z
 DTEND:20230701T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #9, Oakey Hill, Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/17864
+GEO:-35.3347066140077;149.071299170134
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17865@eventor.orienteering.asn.au
