@@ -190,6 +190,15 @@ SUMMARY:Closed school event, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18547
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19189@eventor.orienteering.asn.au
+DTSTAMP:20230620T072428Z
+DTSTART:20230619T140000Z
+DTEND:20230620T140000Z
+SUMMARY:Livelox test, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19189
+GEO:-27.027120864385;152.781076230957
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18681@eventor.orienteering.asn.au
 DTSTAMP:20230615T233050Z
 DTSTART:20230622T003000Z
@@ -208,7 +217,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19118
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17809@eventor.orienteering.asn.au
-DTSTAMP:20230616T095900Z
+DTSTAMP:20230619T214203Z
 DTSTART:20230705T233000Z
 DTEND:20230708T140000Z
 SUMMARY:Junior Camp - Maryborough region, Orienteering Queensland
