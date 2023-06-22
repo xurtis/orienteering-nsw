@@ -713,15 +713,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18908
 GEO:-34.4475363943038;150.446578430722
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18777@eventor.orienteering.asn.au
-DTSTAMP:20230414T011657Z
-DTSTART:20230622T080000Z
-DTEND:20230622T093000Z
-SUMMARY:Coffs Winter Solstice Night-O, Bush n Beach Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18777
-GEO:-30.3008462088598;153.118238993898
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18909@eventor.orienteering.asn.au
 DTSTAMP:20230603T000830Z
 DTSTART:20230627T233000Z
@@ -729,6 +720,15 @@ DTEND:20230627T233000Z
 SUMMARY:Sydney South West Primary Schools Orienteering Championships, Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18909
 GEO:-34.0551181368047;150.689069284383
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18777@eventor.orienteering.asn.au
+DTSTAMP:20230622T061941Z
+DTSTART:20230629T080000Z
+DTEND:20230629T090000Z
+SUMMARY:Coffs Winter Solstice Night-O, Bush n Beach Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18777
+GEO:-30.3008462088598;153.118238993898
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18907@eventor.orienteering.asn.au

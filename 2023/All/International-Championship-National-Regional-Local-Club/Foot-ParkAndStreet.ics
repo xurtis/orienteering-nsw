@@ -6491,21 +6491,12 @@ GEO:-37.726451165807;145.069511431548
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18681@eventor.orienteering.asn.au
-DTSTAMP:20230615T233050Z
+DTSTAMP:20230622T055643Z
 DTSTART:20230622T003000Z
 DTEND:20230622T010000Z
 SUMMARY:Underwood Park, Priestdale. Park, Street, & Bush., Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18681
 GEO:-27.6013416757748;153.145908845995
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18777@eventor.orienteering.asn.au
-DTSTAMP:20230414T011657Z
-DTSTART:20230622T080000Z
-DTEND:20230622T093000Z
-SUMMARY:Coffs Winter Solstice Night-O, Bush n Beach Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18777
-GEO:-30.3008462088598;153.118238993898
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19118@eventor.orienteering.asn.au
@@ -6535,7 +6526,7 @@ GEO:-33.598956305719;150.746440286424
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18997@eventor.orienteering.asn.au
-DTSTAMP:20230620T233902Z
+DTSTAMP:20230622T074958Z
 DTSTART:20230623T233000Z
 DTEND:20230624T020000Z
 SUMMARY:SOS Northside - North Epping, Bold Horizons Event Organiser
@@ -6623,11 +6614,12 @@ GEO:-33.9715909849825;151.011645926145
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18840@eventor.orienteering.asn.au
-DTSTAMP:20230612T235207Z
+DTSTAMP:20230622T033419Z
 DTSTART:20230624T233000Z
 DTEND:20230625T030000Z
 SUMMARY:NOY5 - “The Powerlines” (Abermain), Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18840
+GEO:-32.8033476036264;151.422555576658
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17825@eventor.orienteering.asn.au
@@ -6755,6 +6747,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19180
 GEO:-27.4784721910964;152.929004742538
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18777@eventor.orienteering.asn.au
+DTSTAMP:20230622T061941Z
+DTSTART:20230629T080000Z
+DTEND:20230629T090000Z
+SUMMARY:Coffs Winter Solstice Night-O, Bush n Beach Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18777
+GEO:-30.3008462088598;153.118238993898
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19150@eventor.orienteering.asn.au
 DTSTAMP:20230616T003106Z
 DTSTART:20230629T140000Z
@@ -6873,10 +6874,10 @@ GEO:-37.7509438225222;145.129094749978
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19188@eventor.orienteering.asn.au
-DTSTAMP:20230619T081107Z
+DTSTAMP:20230622T030802Z
 DTSTART:20230702T010000Z
 DTEND:20230702T033000Z
-SUMMARY:Salt Creek, Saltbush Orienteers
+SUMMARY:Salt Creek - EP Championships, Saltbush Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19188
 GEO:-33.4160423502268;137.010661257691
 END:VEVENT
@@ -6897,6 +6898,15 @@ DTEND:20230702T060000Z
 SUMMARY:MapRun Parks 2023 - Fig Tree Pocket - Biami Yumba Park, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19159
 GEO:-27.539398;152.966948
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19191@eventor.orienteering.asn.au
+DTSTAMP:20230621T234054Z
+DTSTART:20230702T140000Z
+DTEND:20230703T140000Z
+SUMMARY:Coolamon School Holiday Program, Wagga and Riverina Occasional Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19191
+GEO:-34.809236639792;147.204951979329
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18865@eventor.orienteering.asn.au
@@ -6951,6 +6961,14 @@ DTEND:20230706T010000Z
 SUMMARY:Rocks Riverside Park, Seventeen Mile Rocks. (BCC Sponsored) (MAPRUN EVENT), Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18756
 GEO:-27.5385198109133;152.959842509112
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19193@eventor.orienteering.asn.au
+DTSTAMP:20230622T051505Z
+DTSTART:20230707T230000Z
+DTEND:20230708T043000Z
+SUMMARY:Cooroy training - Orienteering Instructor, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19193
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18392@eventor.orienteering.asn.au
@@ -7216,7 +7234,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18021
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19018@eventor.orienteering.asn.au
-DTSTAMP:20230428T000031Z
+DTSTAMP:20230622T055522Z
 DTSTART:20230715T140000Z
 DTEND:20230716T140000Z
 SUMMARY:Russells Plains - Northern Local #2, Esk Valley
@@ -7249,7 +7267,7 @@ GEO:-37.7426626531111;145.134576953702
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18979@eventor.orienteering.asn.au
-DTSTAMP:20230619T014504Z
+DTSTAMP:20230622T055800Z
 DTSTART:20230716T000000Z
 DTEND:20230716T030000Z
 SUMMARY:Knocklofty North - Southern Local #6, Australopers
@@ -7284,7 +7302,7 @@ GEO:-30.4323964912023;151.626772715747
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18742@eventor.orienteering.asn.au
-DTSTAMP:20230610T044441Z
+DTSTAMP:20230622T063849Z
 DTSTART:20230716T011500Z
 DTEND:20230716T050000Z
 SUMMARY:NavDash 6 Club Relays - entries only, Kulgun 225 Orienteers / Orienteering WA
@@ -7617,10 +7635,10 @@ GEO:-37.944686648869;145.080250610455
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18980@eventor.orienteering.asn.au
-DTSTAMP:20230417T002417Z
+DTSTAMP:20230622T052232Z
 DTSTART:20230729T140000Z
 DTEND:20230730T140000Z
-SUMMARY:St Virgils - Southern Local #7, Australopers
+SUMMARY:Waverley Park - Southern Local #7, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18980
 END:VEVENT
 BEGIN:VEVENT
@@ -8467,6 +8485,15 @@ SUMMARY:ACT MapRun Street Series: Reid, 31 Aug - 4 Sep, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18874
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19192@eventor.orienteering.asn.au
+DTSTAMP:20230621T234524Z
+DTSTART:20230904T140000Z
+DTEND:20230905T140000Z
+SUMMARY:Wagga Home Schooled Children Coaching, Wagga and Riverina Occasional Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19192
+GEO:-35.1340971412374;147.365232902204
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19178@eventor.orienteering.asn.au
 DTSTAMP:20230611T110851Z
 DTSTART:20230905T073000Z
@@ -8740,10 +8767,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18999
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18668@eventor.orienteering.asn.au
-DTSTAMP:20230424T120504Z
+DTSTAMP:20230622T043041Z
 DTSTART:20230924T060000Z
 DTEND:20230924T063000Z
-SUMMARY:Maprun Parks 2023 - Boronia Bushland Reserve, Boronia - LCC, Toohey Forest Orienteers
+SUMMARY:Maprun Parks 2023 - Boronia Bushland Reserve, Boronia - LCC Active and Healthy Event, Toohey Forest Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18668
 GEO:-27.6933619085246;153.027446824627
 END:VEVENT

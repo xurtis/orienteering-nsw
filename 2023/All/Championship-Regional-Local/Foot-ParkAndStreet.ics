@@ -2059,21 +2059,12 @@ GEO:-34.4475363943038;150.446578430722
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18681@eventor.orienteering.asn.au
-DTSTAMP:20230615T233050Z
+DTSTAMP:20230622T055643Z
 DTSTART:20230622T003000Z
 DTEND:20230622T010000Z
 SUMMARY:Underwood Park, Priestdale. Park, Street, & Bush., Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18681
 GEO:-27.6013416757748;153.145908845995
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18777@eventor.orienteering.asn.au
-DTSTAMP:20230414T011657Z
-DTSTART:20230622T080000Z
-DTEND:20230622T093000Z
-SUMMARY:Coffs Winter Solstice Night-O, Bush n Beach Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18777
-GEO:-30.3008462088598;153.118238993898
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19118@eventor.orienteering.asn.au
@@ -2111,11 +2102,12 @@ GEO:-33.9715909849825;151.011645926145
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18840@eventor.orienteering.asn.au
-DTSTAMP:20230612T235207Z
+DTSTAMP:20230622T033419Z
 DTSTART:20230624T233000Z
 DTEND:20230625T030000Z
 SUMMARY:NOY5 - “The Powerlines” (Abermain), Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18840
+GEO:-32.8033476036264;151.422555576658
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17825@eventor.orienteering.asn.au
@@ -2145,6 +2137,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18909
 GEO:-34.0551181368047;150.689069284383
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18777@eventor.orienteering.asn.au
+DTSTAMP:20230622T061941Z
+DTSTART:20230629T080000Z
+DTEND:20230629T090000Z
+SUMMARY:Coffs Winter Solstice Night-O, Bush n Beach Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18777
+GEO:-30.3008462088598;153.118238993898
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19150@eventor.orienteering.asn.au
 DTSTAMP:20230616T003106Z
 DTSTART:20230629T140000Z
@@ -2172,6 +2173,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19106
 GEO:-31.8609769377648;116.006664899957
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19191@eventor.orienteering.asn.au
+DTSTAMP:20230621T234054Z
+DTSTART:20230702T140000Z
+DTEND:20230703T140000Z
+SUMMARY:Coolamon School Holiday Program, Wagga and Riverina Occasional Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19191
+GEO:-34.809236639792;147.204951979329
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18865@eventor.orienteering.asn.au
 DTSTAMP:20230428T030548Z
 DTSTART:20230703T070000Z
@@ -2188,6 +2198,14 @@ DTEND:20230708T140000Z
 SUMMARY:Junior Camp - Maryborough region, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/17809
 GEO:-27.4417238695566;152.978400684421
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19193@eventor.orienteering.asn.au
+DTSTAMP:20230622T051505Z
+DTSTART:20230707T230000Z
+DTEND:20230708T043000Z
+SUMMARY:Cooroy training - Orienteering Instructor, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19193
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18841@eventor.orienteering.asn.au
@@ -2738,6 +2756,15 @@ DTSTART:20230904T070000Z
 DTEND:20230904T091500Z
 SUMMARY:ACT MapRun Street Series: Reid, 31 Aug - 4 Sep, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18874
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19192@eventor.orienteering.asn.au
+DTSTAMP:20230621T234524Z
+DTSTART:20230904T140000Z
+DTEND:20230905T140000Z
+SUMMARY:Wagga Home Schooled Children Coaching, Wagga and Riverina Occasional Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19192
+GEO:-35.1340971412374;147.365232902204
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17714@eventor.orienteering.asn.au

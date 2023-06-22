@@ -1238,15 +1238,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18908
 GEO:-34.4475363943038;150.446578430722
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18777@eventor.orienteering.asn.au
-DTSTAMP:20230414T011657Z
-DTSTART:20230622T080000Z
-DTEND:20230622T093000Z
-SUMMARY:Coffs Winter Solstice Night-O, Bush n Beach Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18777
-GEO:-30.3008462088598;153.118238993898
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18998@eventor.orienteering.asn.au
 DTSTAMP:20230620T125625Z
 DTSTART:20230623T233000Z
@@ -1257,7 +1248,7 @@ GEO:-33.598956305719;150.746440286424
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18997@eventor.orienteering.asn.au
-DTSTAMP:20230620T233902Z
+DTSTAMP:20230622T074958Z
 DTSTART:20230623T233000Z
 DTEND:20230624T020000Z
 SUMMARY:SOS Northside - North Epping, Bold Horizons Event Organiser
@@ -1284,11 +1275,12 @@ GEO:-33.9715909849825;151.011645926145
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18840@eventor.orienteering.asn.au
-DTSTAMP:20230612T235207Z
+DTSTAMP:20230622T033419Z
 DTSTART:20230624T233000Z
 DTEND:20230625T030000Z
 SUMMARY:NOY5 - “The Powerlines” (Abermain), Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18840
+GEO:-32.8033476036264;151.422555576658
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18795@eventor.orienteering.asn.au
@@ -1309,6 +1301,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18909
 GEO:-34.0551181368047;150.689069284383
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18777@eventor.orienteering.asn.au
+DTSTAMP:20230622T061941Z
+DTSTART:20230629T080000Z
+DTEND:20230629T090000Z
+SUMMARY:Coffs Winter Solstice Night-O, Bush n Beach Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18777
+GEO:-30.3008462088598;153.118238993898
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18907@eventor.orienteering.asn.au
 DTSTAMP:20230613T073816Z
 DTSTART:20230701T220000Z
@@ -1325,6 +1326,15 @@ DTEND:20230702T000000Z
 SUMMARY:Bush event #5 Botanic Gardens, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18884
 GEO:-33.2572761256439;149.096910307928
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19191@eventor.orienteering.asn.au
+DTSTAMP:20230621T234054Z
+DTSTART:20230702T140000Z
+DTEND:20230703T140000Z
+SUMMARY:Coolamon School Holiday Program, Wagga and Riverina Occasional Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19191
+GEO:-34.809236639792;147.204951979329
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18903@eventor.orienteering.asn.au
@@ -1669,6 +1679,15 @@ DTEND:20230903T030000Z
 SUMMARY:Highlands Forest Series #5 - Appin, Illawarra Kareelah Orienteers / Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18893
 GEO:-34.200825497085;150.792537962811
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19192@eventor.orienteering.asn.au
+DTSTAMP:20230621T234524Z
+DTSTART:20230904T140000Z
+DTEND:20230905T140000Z
+SUMMARY:Wagga Home Schooled Children Coaching, Wagga and Riverina Occasional Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19192
+GEO:-35.1340971412374;147.365232902204
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18678@eventor.orienteering.asn.au
