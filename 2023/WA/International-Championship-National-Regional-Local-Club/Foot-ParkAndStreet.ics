@@ -337,12 +337,21 @@ GEO:-35.0876098157693;117.939590113591
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18742@eventor.orienteering.asn.au
-DTSTAMP:20230622T063849Z
+DTSTAMP:20230623T114301Z
 DTSTART:20230716T011500Z
 DTEND:20230716T050000Z
 SUMMARY:NavDash 6 Club Relays - entries only, Kulgun 225 Orienteers / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/18742
 GEO:-31.9724193056581;116.065894902568
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19171@eventor.orienteering.asn.au
+DTSTAMP:20230623T073124Z
+DTSTART:20230716T020000Z
+DTEND:20230716T050000Z
+SUMMARY:NavDash 6 Jorgensen Park Single Entry/EOD, Kulgun 225 Orienteers / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/19171
+GEO:-31.9724982707771;116.065935928132
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19170@eventor.orienteering.asn.au
@@ -352,15 +361,6 @@ DTEND:20230716T060000Z
 SUMMARY:NavDash 6 Club Relays Jorgensen Park - team entries, Kulgun 225 Orienteers / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/19170
 GEO:-31.9724015666262;116.065544754733
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19171@eventor.orienteering.asn.au
-DTSTAMP:20230610T061430Z
-DTSTART:20230719T020000Z
-DTEND:20230719T050000Z
-SUMMARY:NavDash 6 Jorgensen Park Single Entry/EOD, Kulgun 225 Orienteers / Orienteering WA
-URL:https://eventor.orienteering.asn.au/Events/Show/19171
-GEO:-31.9724982707771;116.065935928132
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19014@eventor.orienteering.asn.au
@@ -390,7 +390,7 @@ GEO:-32.0050418366148;115.767826494553
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18746@eventor.orienteering.asn.au
-DTSTAMP:20230224T081403Z
+DTSTAMP:20230623T101740Z
 DTSTART:20230813T013000Z
 DTEND:20230813T050000Z
 SUMMARY:Bush 8 WA Middle Distance Championships, Orienteering WA / Wullundigong Orienteers of the West
@@ -487,10 +487,10 @@ GEO:-31.7372922260856;116.601210212954
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18146@eventor.orienteering.asn.au
-DTSTAMP:20221214T053959Z
+DTSTAMP:20230623T075104Z
 DTSTART:20231003T010000Z
 DTEND:20231003T030000Z
-SUMMARY:Australian Schools Sprint Championships, Orienteering WA
+SUMMARY:Australian Schools Sprint Championships - entry by State Team Managers only, Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/18146
 GEO:-32.0249463118735;115.864496100126
 END:VEVENT

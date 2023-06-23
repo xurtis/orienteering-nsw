@@ -6440,7 +6440,7 @@ GEO:-33.8687076863008;150.904345727738
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18787@eventor.orienteering.asn.au
-DTSTAMP:20230302T064916Z
+DTSTAMP:20230623T103122Z
 DTSTART:20230701T230000Z
 DTEND:20230702T030000Z
 SUMMARY:Dalmoak, north east of Stanthorpe, Bullecourt Boulder Bounders
@@ -6897,12 +6897,21 @@ GEO:-34.9762062795337;138.671269452577
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18742@eventor.orienteering.asn.au
-DTSTAMP:20230622T063849Z
+DTSTAMP:20230623T114301Z
 DTSTART:20230716T011500Z
 DTEND:20230716T050000Z
 SUMMARY:NavDash 6 Club Relays - entries only, Kulgun 225 Orienteers / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/18742
 GEO:-31.9724193056581;116.065894902568
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19171@eventor.orienteering.asn.au
+DTSTAMP:20230623T073124Z
+DTSTART:20230716T020000Z
+DTEND:20230716T050000Z
+SUMMARY:NavDash 6 Jorgensen Park Single Entry/EOD, Kulgun 225 Orienteers / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/19171
+GEO:-31.9724982707771;116.065935928132
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19170@eventor.orienteering.asn.au
@@ -6948,20 +6957,11 @@ SUMMARY:Night Nav - Fig Tree Pocket, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19172
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19171@eventor.orienteering.asn.au
-DTSTAMP:20230610T061430Z
-DTSTART:20230719T020000Z
-DTEND:20230719T050000Z
-SUMMARY:NavDash 6 Jorgensen Park Single Entry/EOD, Kulgun 225 Orienteers / Orienteering WA
-URL:https://eventor.orienteering.asn.au/Events/Show/19171
-GEO:-31.9724982707771;116.065935928132
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18570@eventor.orienteering.asn.au
-DTSTAMP:20230126T015500Z
+DTSTAMP:20230623T105050Z
 DTSTART:20230719T073000Z
 DTEND:20230719T091500Z
-SUMMARY:MapRun Night Nav Oralea, 21Degrees South Multisport Assoc.
+SUMMARY:MapRun Night Nav Ooralea, 21Degrees South Multisport Assoc.
 URL:https://eventor.orienteering.asn.au/Events/Show/18570
 GEO:-21.1735710941858;149.149711096959
 END:VEVENT
