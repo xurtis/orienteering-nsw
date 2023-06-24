@@ -2093,7 +2093,7 @@ GEO:-42.4631655858886;147.249072345213
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18666@eventor.orienteering.asn.au
-DTSTAMP:20230619T041842Z
+DTSTAMP:20230624T065150Z
 DTSTART:20230624T233000Z
 DTEND:20230625T010000Z
 SUMMARY:2023 Metro League #3  - Yeramba Lagoon, Illawarra Kareelah Orienteers
@@ -2268,15 +2268,6 @@ SUMMARY:Newcastle OY6, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18842
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18590@eventor.orienteering.asn.au
-DTSTAMP:20230505T072350Z
-DTSTART:20230716T000000Z
-DTEND:20230716T033000Z
-SUMMARY:Waggaroos Local event, Charles Sturt Uni, Wagga and Riverina Occasional Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18590
-GEO:-35.0641135121082;147.355379349877
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_17892@eventor.orienteering.asn.au
 DTSTAMP:20230330T002007Z
 DTSTART:20230716T000000Z
@@ -2343,6 +2334,15 @@ DTEND:20230722T233000Z
 SUMMARY:2023 QLD Schools Champs - Long distance - Gurulmundi SF, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/17883
 GEO:-26.490154;150.079749
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18590@eventor.orienteering.asn.au
+DTSTAMP:20230624T085816Z
+DTSTART:20230723T000000Z
+DTEND:20230723T033000Z
+SUMMARY:Waggaroos Local event, Charles Sturt Uni, Wagga and Riverina Occasional Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18590
+GEO:-35.0641135121082;147.355379349877
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18868@eventor.orienteering.asn.au
@@ -2437,11 +2437,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18912
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19009@eventor.orienteering.asn.au
-DTSTAMP:20230425T032535Z
+DTSTAMP:20230624T011040Z
 DTSTART:20230804T140000Z
 DTEND:20230805T140000Z
 SUMMARY:Royal George - Tas Relay Champs/Team Event/Format - TBC, Orienteering Tasmania
 URL:https://eventor.orienteering.asn.au/Events/Show/19009
+GEO:-41.8248544489721;147.844921990053
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17867@eventor.orienteering.asn.au
@@ -2458,6 +2459,7 @@ DTSTART:20230805T140000Z
 DTEND:20230806T140000Z
 SUMMARY:Royal George - OST 9, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/19010
+GEO:-41.8246653270127;147.844125754067
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18429@eventor.orienteering.asn.au
@@ -2588,11 +2590,12 @@ GEO:-34.9049251919819;149.456326392782
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19011@eventor.orienteering.asn.au
-DTSTAMP:20230613T013958Z
+DTSTAMP:20230624T013038Z
 DTSTART:20230818T140000Z
 DTEND:20230819T140000Z
 SUMMARY:Bells Marsh - Tas Long Distance Champs, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/19011
+GEO:-41.267796;148.144062
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17827@eventor.orienteering.asn.au
@@ -2610,6 +2613,7 @@ DTSTART:20230819T140000Z
 DTEND:20230820T140000Z
 SUMMARY:Hunt Tin Mine - Tas Middle Distance Championships, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/19012
+GEO:-41.306857;148.11553
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18430@eventor.orienteering.asn.au
@@ -2945,10 +2949,10 @@ GEO:-31.7372922260856;116.601210212954
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18146@eventor.orienteering.asn.au
-DTSTAMP:20230623T075104Z
+DTSTAMP:20230624T074758Z
 DTSTART:20231003T010000Z
 DTEND:20231003T030000Z
-SUMMARY:Australian Schools Sprint Championships - entry by State Team Managers only, Orienteering WA
+SUMMARY:Australian Schools Sprint Championships - ENTRY BY STATE TEAM MANAGERS ONLY, Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/18146
 GEO:-32.0249463118735;115.864496100126
 END:VEVENT
@@ -2981,20 +2985,21 @@ GEO:-32.3374996180962;116.837449130719
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18150@eventor.orienteering.asn.au
-DTSTAMP:20221214T054406Z
+DTSTAMP:20230624T070844Z
 DTSTART:20231005T010000Z
 DTEND:20231005T030000Z
-SUMMARY:Australian Schools Relay Championships - entries, Orienteering WA
+SUMMARY:Australian Schools Relay Championships - ENTRY BY INDEPENDENT STUDENTS, Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/18150
 GEO:-32.339948866044;116.839006905831
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18151@eventor.orienteering.asn.au
-DTSTAMP:20221214T054424Z
+DTSTAMP:20230624T070658Z
 DTSTART:20231005T010000Z
 DTEND:20231005T030000Z
-SUMMARY:Australian Schools Relay Championships - teams, Orienteering WA
+SUMMARY:Australian Schools Relay Championships - ENTRY BY SCHOOLS TEAM MANAGERS ONLY , Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/18151
+GEO:-32.3396911549091;116.840446777702
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18152@eventor.orienteering.asn.au
