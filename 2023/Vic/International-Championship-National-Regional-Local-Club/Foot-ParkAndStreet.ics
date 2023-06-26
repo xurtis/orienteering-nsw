@@ -1602,7 +1602,7 @@ DTSTART:20230702T000000Z
 DTEND:20230702T000000Z
 SUMMARY:Ballarat Winter Series #2 Yuille Wetlands , Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18642
-GEO:-37.5914251615803;143.846208349778
+GEO:-37.5912017737273;143.846103381261
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19066@eventor.orienteering.asn.au
@@ -1732,10 +1732,10 @@ GEO:-38.271761934538;144.516624967045
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18446@eventor.orienteering.asn.au
-DTSTAMP:20230625T080552Z
+DTSTAMP:20230626T101338Z
 DTSTART:20230716T000000Z
 DTEND:20230716T030000Z
-SUMMARY:MelBushO 7 - Candlebark Park (from Westerfolds), Templestowe, Nillumbik Emus Orienteering Club
+SUMMARY:MelBushO 7  - Candlebark Park, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18446
 GEO:-37.7426626531111;145.134576953702
 END:VEVENT
@@ -1854,7 +1854,7 @@ DTSTART:20230731T083000Z
 DTEND:20230731T101000Z
 SUMMARY:Melbourne Park Street Monday Night Series - Bulleen Ups and Downs, Orienteering Victoria
 URL:https://eventor.orienteering.asn.au/Events/Show/19126
-GEO:-37.7650619503778;145.092236425997
+GEO:-37.7649697948569;145.091654771952
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18396@eventor.orienteering.asn.au
@@ -1912,7 +1912,7 @@ GEO:-36.7514082571303;144.316676210343
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18430@eventor.orienteering.asn.au
-DTSTAMP:20230604T033100Z
+DTSTAMP:20230626T005852Z
 DTSTART:20230819T140000Z
 DTEND:20230820T140000Z
 SUMMARY:Vic Series (Bush) 7 - Boundary Creek, Malmsbury, Yarra Valley Orienteering Club
@@ -2036,11 +2036,20 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18432
 GEO:-37.8930868698341;145.196758563138
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18433@eventor.orienteering.asn.au
-DTSTAMP:20230112T053350Z
+UID:Event_18435@eventor.orienteering.asn.au
+DTSTAMP:20230626T065659Z
 DTSTART:20231028T130000Z
 DTEND:20231029T130000Z
-SUMMARY:Summer Shorts 2 - Tatterson Park, Dandenong Ranges Orienteering Club
+SUMMARY:Summer Shorts 2 - venue tba, Dandenong Ranges Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18435
+GEO:-37.7643114658902;145.305021997336
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18433@eventor.orienteering.asn.au
+DTSTAMP:20230626T065736Z
+DTSTART:20231104T130000Z
+DTEND:20231105T130000Z
+SUMMARY:Summer Shorts 3 - Tatterson Park, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18433
 GEO:-37.9923197310918;145.154221670765
 END:VEVENT
@@ -2055,21 +2064,12 @@ GEO:-36.3345553197427;146.547696481217
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18434@eventor.orienteering.asn.au
-DTSTAMP:20230112T053714Z
+DTSTAMP:20230626T065808Z
 DTSTART:20231111T130000Z
 DTEND:20231112T130000Z
-SUMMARY:Summer Shorts 3 - Waverley Stadium, Dandenong Ranges Orienteering Club
+SUMMARY:Summer Shorts 4 - Waverley Stadium, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18434
 GEO:-37.9296610182722;145.193729878337
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18435@eventor.orienteering.asn.au
-DTSTAMP:20230605T042145Z
-DTSTART:20231117T130000Z
-DTEND:20231118T130000Z
-SUMMARY:Summer Shorts 4 - venue tba, Dandenong Ranges Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18435
-GEO:-37.7643114658902;145.305021997336
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18406@eventor.orienteering.asn.au
