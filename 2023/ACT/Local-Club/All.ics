@@ -588,7 +588,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17863
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18864@eventor.orienteering.asn.au
-DTSTAMP:20230428T030519Z
+DTSTAMP:20230627T025509Z
 DTSTART:20230626T070000Z
 DTEND:20230626T091500Z
 SUMMARY:ACT MapRun Street Series: Narrabundah East, 22-26 Jun, Orienteering ACT
@@ -633,11 +633,20 @@ GEO:-35.2338143164293;149.040263427035
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18867@eventor.orienteering.asn.au
-DTSTAMP:20230328T013710Z
+DTSTAMP:20230627T013557Z
 DTSTART:20230717T070000Z
 DTEND:20230717T091500Z
-SUMMARY:ACT MapRun Street Series: TBA, 13-17 Jul, Orienteering ACT
+SUMMARY:ACT MapRun Street Series: Campbell, 13-17 Jul, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18867
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19194@eventor.orienteering.asn.au
+DTSTAMP:20230627T021648Z
+DTSTART:20230719T020000Z
+DTEND:20230719T040000Z
+SUMMARY:ACT Midweek Series: The Pinnacle, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19194
+GEO:-35.2567662391419;149.04629688661
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17865@eventor.orienteering.asn.au
@@ -649,10 +658,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17865
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18868@eventor.orienteering.asn.au
-DTSTAMP:20230328T013713Z
+DTSTAMP:20230627T013628Z
 DTSTART:20230724T070000Z
 DTEND:20230724T091500Z
-SUMMARY:ACT MapRun Street Series: TBA, 20-24 Jul, Orienteering ACT
+SUMMARY:ACT MapRun Street Series: Florey, 20-24 Jul, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18868
 END:VEVENT
 BEGIN:VEVENT
@@ -745,10 +754,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17870
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18874@eventor.orienteering.asn.au
-DTSTAMP:20230428T030754Z
+DTSTAMP:20230627T013656Z
 DTSTART:20230904T070000Z
 DTEND:20230904T091500Z
-SUMMARY:ACT MapRun Street Series: Reid, 31 Aug - 4 Sep, Orienteering ACT
+SUMMARY:ACT MapRun Street Series: Yarralumla, 31 Aug - 4 Sep, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18874
 END:VEVENT
 BEGIN:VEVENT
@@ -778,10 +787,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18876
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18877@eventor.orienteering.asn.au
-DTSTAMP:20230428T030900Z
+DTSTAMP:20230627T013709Z
 DTSTART:20230925T070000Z
 DTEND:20230925T091500Z
-SUMMARY:ACT MapRun Street Series: Campbell, 21-25 Sep, Orienteering ACT
+SUMMARY:ACT MapRun Street Series: Reid, 21-25 Sep, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18877
 END:VEVENT
 BEGIN:VEVENT
@@ -793,11 +802,75 @@ SUMMARY:ACT MapRun Street Series April-September Season Pass, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18852
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19196@eventor.orienteering.asn.au
+DTSTAMP:20230627T023741Z
+DTSTART:20231025T060000Z
+DTEND:20231025T080000Z
+SUMMARY:ACT Runners Shop Twilight Series #1: TBA, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19196
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19197@eventor.orienteering.asn.au
+DTSTAMP:20230627T023923Z
+DTSTART:20231101T060000Z
+DTEND:20231101T083000Z
+SUMMARY:ACT Runners Shop Twilight Series #2: TBA, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19197
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19198@eventor.orienteering.asn.au
+DTSTAMP:20230627T024017Z
+DTSTART:20231108T060000Z
+DTEND:20231108T083000Z
+SUMMARY:ACT Runners Shop Twilight Series #3: TBA, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19198
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19199@eventor.orienteering.asn.au
+DTSTAMP:20230627T024522Z
+DTSTART:20231115T060000Z
+DTEND:20231115T083000Z
+SUMMARY:ACT Runners Shop Twilight Series #4: TBA, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19199
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18948@eventor.orienteering.asn.au
 DTSTAMP:20230413T020729Z
 DTSTART:20231121T230000Z
 DTEND:20231122T030000Z
 SUMMARY:ACT Primary School Championships, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18948
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19200@eventor.orienteering.asn.au
+DTSTAMP:20230627T024627Z
+DTSTART:20231122T060000Z
+DTEND:20231122T083000Z
+SUMMARY:ACT Runners Shop Twilight Series #5: Yarramundi Reach, Red Roos
+URL:https://eventor.orienteering.asn.au/Events/Show/19200
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19201@eventor.orienteering.asn.au
+DTSTAMP:20230627T024721Z
+DTSTART:20231129T060000Z
+DTEND:20231129T083000Z
+SUMMARY:ACT Runners Shop Twilight Series #6: TBA, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19201
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19202@eventor.orienteering.asn.au
+DTSTAMP:20230627T024811Z
+DTSTART:20231206T060000Z
+DTEND:20231206T083000Z
+SUMMARY:ACT Runners Shop Twilight Series #7: TBA, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19202
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19195@eventor.orienteering.asn.au
+DTSTAMP:20230627T023110Z
+DTSTART:20231206T060100Z
+DTEND:20231206T060200Z
+SUMMARY:ACT Runners Shop Twilight Series Season Pass, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19195
 END:VEVENT
 END:VCALENDAR

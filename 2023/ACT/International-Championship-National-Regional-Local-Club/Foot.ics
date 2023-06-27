@@ -416,6 +416,15 @@ SUMMARY:ACT Classic Series: ACT League #4, Ballinafad Creek, Parawanga Orienteer
 URL:https://eventor.orienteering.asn.au/Events/Show/17892
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19194@eventor.orienteering.asn.au
+DTSTAMP:20230627T021648Z
+DTSTART:20230719T020000Z
+DTEND:20230719T040000Z
+SUMMARY:ACT Midweek Series: The Pinnacle, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19194
+GEO:-35.2567662391419;149.04629688661
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17865@eventor.orienteering.asn.au
 DTSTAMP:20230522T032930Z
 DTSTART:20230722T003000Z
@@ -433,9 +442,9 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17866
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17893@eventor.orienteering.asn.au
-DTSTAMP:20230330T002012Z
+DTSTAMP:20230627T033643Z
 DTSTART:20230730T000000Z
-DTEND:20230730T040000Z
+DTEND:20230730T030000Z
 SUMMARY:ACT Classic Series: ACT League #5, Isaacs Ridge, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/17893
 END:VEVENT
@@ -506,11 +515,75 @@ SUMMARY:ACT Classic Series: ACT League #8, Picaree Hill, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/17894
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19196@eventor.orienteering.asn.au
+DTSTAMP:20230627T023741Z
+DTSTART:20231025T060000Z
+DTEND:20231025T080000Z
+SUMMARY:ACT Runners Shop Twilight Series #1: TBA, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19196
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19197@eventor.orienteering.asn.au
+DTSTAMP:20230627T023923Z
+DTSTART:20231101T060000Z
+DTEND:20231101T083000Z
+SUMMARY:ACT Runners Shop Twilight Series #2: TBA, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19197
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19198@eventor.orienteering.asn.au
+DTSTAMP:20230627T024017Z
+DTSTART:20231108T060000Z
+DTEND:20231108T083000Z
+SUMMARY:ACT Runners Shop Twilight Series #3: TBA, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19198
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19199@eventor.orienteering.asn.au
+DTSTAMP:20230627T024522Z
+DTSTART:20231115T060000Z
+DTEND:20231115T083000Z
+SUMMARY:ACT Runners Shop Twilight Series #4: TBA, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19199
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18948@eventor.orienteering.asn.au
 DTSTAMP:20230413T020729Z
 DTSTART:20231121T230000Z
 DTEND:20231122T030000Z
 SUMMARY:ACT Primary School Championships, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18948
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19200@eventor.orienteering.asn.au
+DTSTAMP:20230627T024627Z
+DTSTART:20231122T060000Z
+DTEND:20231122T083000Z
+SUMMARY:ACT Runners Shop Twilight Series #5: Yarramundi Reach, Red Roos
+URL:https://eventor.orienteering.asn.au/Events/Show/19200
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19201@eventor.orienteering.asn.au
+DTSTAMP:20230627T024721Z
+DTSTART:20231129T060000Z
+DTEND:20231129T083000Z
+SUMMARY:ACT Runners Shop Twilight Series #6: TBA, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19201
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19202@eventor.orienteering.asn.au
+DTSTAMP:20230627T024811Z
+DTSTART:20231206T060000Z
+DTEND:20231206T083000Z
+SUMMARY:ACT Runners Shop Twilight Series #7: TBA, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19202
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19195@eventor.orienteering.asn.au
+DTSTAMP:20230627T023110Z
+DTSTART:20231206T060100Z
+DTEND:20231206T060200Z
+SUMMARY:ACT Runners Shop Twilight Series Season Pass, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19195
 END:VEVENT
 END:VCALENDAR

@@ -2120,7 +2120,7 @@ GEO:-35.3166749793867;149.113076019665
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18864@eventor.orienteering.asn.au
-DTSTAMP:20230428T030519Z
+DTSTAMP:20230627T025509Z
 DTSTART:20230626T070000Z
 DTEND:20230626T091500Z
 SUMMARY:ACT MapRun Street Series: Narrabundah East, 22-26 Jun, Orienteering ACT
@@ -2192,7 +2192,7 @@ GEO:-35.3826720783713;149.059518786688
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17809@eventor.orienteering.asn.au
-DTSTAMP:20230619T214203Z
+DTSTAMP:20230627T061021Z
 DTSTART:20230705T233000Z
 DTEND:20230708T140000Z
 SUMMARY:Junior Camp - Maryborough region, Orienteering Queensland
@@ -2209,11 +2209,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19193
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18841@eventor.orienteering.asn.au
-DTSTAMP:20230525T052728Z
+DTSTAMP:20230626T211116Z
 DTSTART:20230708T233000Z
 DTEND:20230709T030000Z
-SUMMARY:NOY 4 - Hebburn Road, Newcastle Orienteering Club
+SUMMARY:NOY 4 - Hebburn Road (Elrington), Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18841
+GEO:-32.8603579656433;151.431347221257
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18828@eventor.orienteering.asn.au
@@ -2277,10 +2278,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17892
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18867@eventor.orienteering.asn.au
-DTSTAMP:20230328T013710Z
+DTSTAMP:20230627T013557Z
 DTSTART:20230717T070000Z
 DTEND:20230717T091500Z
-SUMMARY:ACT MapRun Street Series: TBA, 13-17 Jul, Orienteering ACT
+SUMMARY:ACT MapRun Street Series: Campbell, 13-17 Jul, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18867
 END:VEVENT
 BEGIN:VEVENT
@@ -2346,10 +2347,10 @@ GEO:-35.0641135121082;147.355379349877
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18868@eventor.orienteering.asn.au
-DTSTAMP:20230328T013713Z
+DTSTAMP:20230627T013628Z
 DTSTART:20230724T070000Z
 DTEND:20230724T091500Z
-SUMMARY:ACT MapRun Street Series: TBA, 20-24 Jul, Orienteering ACT
+SUMMARY:ACT MapRun Street Series: Florey, 20-24 Jul, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18868
 END:VEVENT
 BEGIN:VEVENT
@@ -2369,6 +2370,14 @@ SUMMARY:ACT Metro Series: incl. Junior League #11, Pine Island, Parawanga Orient
 URL:https://eventor.orienteering.asn.au/Events/Show/17866
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_17893@eventor.orienteering.asn.au
+DTSTAMP:20230627T033643Z
+DTSTART:20230730T000000Z
+DTEND:20230730T030000Z
+SUMMARY:ACT Classic Series: ACT League #5, Isaacs Ridge, Bushflyers
+URL:https://eventor.orienteering.asn.au/Events/Show/17893
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18592@eventor.orienteering.asn.au
 DTSTAMP:20230505T072434Z
 DTSTART:20230730T000000Z
@@ -2376,14 +2385,6 @@ DTEND:20230730T033000Z
 SUMMARY:Waggaroos - AWOC Interclub #5, Burngoogee, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18592
 GEO:-35.5027078261408;147.625489111995
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_17893@eventor.orienteering.asn.au
-DTSTAMP:20230330T002012Z
-DTSTART:20230730T000000Z
-DTEND:20230730T040000Z
-SUMMARY:ACT Classic Series: ACT League #5, Isaacs Ridge, Bushflyers
-URL:https://eventor.orienteering.asn.au/Events/Show/17893
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18891@eventor.orienteering.asn.au
@@ -2463,7 +2464,7 @@ GEO:-41.8246653270127;147.844125754067
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18429@eventor.orienteering.asn.au
-DTSTAMP:20230504T035412Z
+DTSTAMP:20230627T081918Z
 DTSTART:20230805T140000Z
 DTEND:20230806T140000Z
 SUMMARY:Vic Series (Bush) 6 - Musk Vale, Daylesford, Bayside Kangaroos Orienteers
@@ -2617,7 +2618,7 @@ GEO:-41.306857;148.11553
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18430@eventor.orienteering.asn.au
-DTSTAMP:20230626T005852Z
+DTSTAMP:20230627T082047Z
 DTSTART:20230819T140000Z
 DTEND:20230820T140000Z
 SUMMARY:Vic Series (Bush) 7 - Boundary Creek, Malmsbury, Yarra Valley Orienteering Club
@@ -2703,7 +2704,7 @@ GEO:-34.8734477845165;138.689432868122
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18245@eventor.orienteering.asn.au
-DTSTAMP:20230526T060642Z
+DTSTAMP:20230627T082209Z
 DTSTART:20230901T140000Z
 DTEND:20230902T140000Z
 SUMMARY:Victorian Middle Distance Championships - Mt Alexander, Harcourt, Nillumbik Emus Orienteering Club
@@ -2720,7 +2721,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17870
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18244@eventor.orienteering.asn.au
-DTSTAMP:20230621T090823Z
+DTSTAMP:20230627T082236Z
 DTSTART:20230902T140000Z
 DTEND:20230903T140000Z
 SUMMARY:Victorian Long Distance Championships - Mt Alexander, Harcourt, Melbourne Forest Racers
@@ -2755,10 +2756,10 @@ GEO:-34.200825497085;150.792537962811
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18874@eventor.orienteering.asn.au
-DTSTAMP:20230428T030754Z
+DTSTAMP:20230627T013656Z
 DTSTART:20230904T070000Z
 DTEND:20230904T091500Z
-SUMMARY:ACT MapRun Street Series: Reid, 31 Aug - 4 Sep, Orienteering ACT
+SUMMARY:ACT MapRun Street Series: Yarralumla, 31 Aug - 4 Sep, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18874
 END:VEVENT
 BEGIN:VEVENT
@@ -2796,7 +2797,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17715
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18431@eventor.orienteering.asn.au
-DTSTAMP:20230116T033357Z
+DTSTAMP:20230627T082135Z
 DTSTART:20230909T140000Z
 DTEND:20230910T140000Z
 SUMMARY:Vic Series (Bush) 8 - Mt Lofty, Redesdale, Nillumbik Emus Orienteering Club
@@ -2879,10 +2880,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18846
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18877@eventor.orienteering.asn.au
-DTSTAMP:20230428T030900Z
+DTSTAMP:20230627T013709Z
 DTSTART:20230925T070000Z
 DTEND:20230925T091500Z
-SUMMARY:ACT MapRun Street Series: Campbell, 21-25 Sep, Orienteering ACT
+SUMMARY:ACT MapRun Street Series: Reid, 21-25 Sep, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18877
 END:VEVENT
 BEGIN:VEVENT
@@ -3080,6 +3081,14 @@ SUMMARY:Club relays - Sheepstation Creek (Wivenhoe) tbc, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18027
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19196@eventor.orienteering.asn.au
+DTSTAMP:20230627T023741Z
+DTSTART:20231025T060000Z
+DTEND:20231025T080000Z
+SUMMARY:ACT Runners Shop Twilight Series #1: TBA, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19196
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18550@eventor.orienteering.asn.au
 DTSTAMP:20230124T054121Z
 DTSTART:20231031T230000Z
@@ -3088,12 +3097,44 @@ SUMMARY:Closed School Event, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18550
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19197@eventor.orienteering.asn.au
+DTSTAMP:20230627T023923Z
+DTSTART:20231101T060000Z
+DTEND:20231101T083000Z
+SUMMARY:ACT Runners Shop Twilight Series #2: TBA, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19197
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19198@eventor.orienteering.asn.au
+DTSTAMP:20230627T024017Z
+DTSTART:20231108T060000Z
+DTEND:20231108T083000Z
+SUMMARY:ACT Runners Shop Twilight Series #3: TBA, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19198
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19199@eventor.orienteering.asn.au
+DTSTAMP:20230627T024522Z
+DTSTART:20231115T060000Z
+DTEND:20231115T083000Z
+SUMMARY:ACT Runners Shop Twilight Series #4: TBA, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19199
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18948@eventor.orienteering.asn.au
 DTSTAMP:20230413T020729Z
 DTSTART:20231121T230000Z
 DTEND:20231122T030000Z
 SUMMARY:ACT Primary School Championships, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18948
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19200@eventor.orienteering.asn.au
+DTSTAMP:20230627T024627Z
+DTSTART:20231122T060000Z
+DTEND:20231122T083000Z
+SUMMARY:ACT Runners Shop Twilight Series #5: Yarramundi Reach, Red Roos
+URL:https://eventor.orienteering.asn.au/Events/Show/19200
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18697@eventor.orienteering.asn.au
@@ -3105,7 +3146,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18697
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19185@eventor.orienteering.asn.au
-DTSTAMP:20230618T081056Z
+DTSTAMP:20230627T082732Z
 DTSTART:20231125T130000Z
 DTEND:20231126T130000Z
 SUMMARY:Victorian Knockout Sprint Race, Yarra Valley Orienteering Club
@@ -3114,11 +3155,35 @@ GEO:-37.7929298897588;145.19904990901
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19184@eventor.orienteering.asn.au
-DTSTAMP:20230618T081114Z
+DTSTAMP:20230627T082749Z
 DTSTART:20231125T130000Z
 DTEND:20231126T130000Z
 SUMMARY:Victorian Sprint Championships, Yarra Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19184
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19201@eventor.orienteering.asn.au
+DTSTAMP:20230627T024721Z
+DTSTART:20231129T060000Z
+DTEND:20231129T083000Z
+SUMMARY:ACT Runners Shop Twilight Series #6: TBA, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19201
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19202@eventor.orienteering.asn.au
+DTSTAMP:20230627T024811Z
+DTSTART:20231206T060000Z
+DTEND:20231206T083000Z
+SUMMARY:ACT Runners Shop Twilight Series #7: TBA, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19202
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19195@eventor.orienteering.asn.au
+DTSTAMP:20230627T023110Z
+DTSTART:20231206T060100Z
+DTEND:20231206T060200Z
+SUMMARY:ACT Runners Shop Twilight Series Season Pass, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19195
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18335@eventor.orienteering.asn.au
