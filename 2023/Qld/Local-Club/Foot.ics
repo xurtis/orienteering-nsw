@@ -1210,7 +1210,7 @@ GEO:-27.437898;152.997434
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19180@eventor.orienteering.asn.au
-DTSTAMP:20230613T005010Z
+DTSTAMP:20230628T090801Z
 DTSTART:20230629T003000Z
 DTEND:20230629T003000Z
 SUMMARY:Gap Creek East Bush, Orienteering Queensland
@@ -1234,6 +1234,15 @@ DTEND:20230702T030000Z
 SUMMARY:Dalmoak, north east of Stanthorpe, Bullecourt Boulder Bounders
 URL:https://eventor.orienteering.asn.au/Events/Show/18787
 GEO:-28.5762203942509;152.007863901177
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19235@eventor.orienteering.asn.au
+DTSTAMP:20230628T051101Z
+DTSTART:20230702T000000Z
+DTEND:20230702T013000Z
+SUMMARY:Aldershot Scout Camp, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19235
+GEO:-25.4643372915952;152.652608557972
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19159@eventor.orienteering.asn.au

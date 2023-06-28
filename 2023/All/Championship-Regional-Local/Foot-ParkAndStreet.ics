@@ -2617,15 +2617,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19012
 GEO:-41.306857;148.11553
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18430@eventor.orienteering.asn.au
-DTSTAMP:20230627T082047Z
-DTSTART:20230819T140000Z
-DTEND:20230820T140000Z
-SUMMARY:Vic Series (Bush) 7 - Boundary Creek, Malmsbury, Yarra Valley Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18430
-GEO:-37.2625406968214;144.267501695212
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18594@eventor.orienteering.asn.au
 DTSTAMP:20230505T072511Z
 DTSTART:20230820T000000Z
@@ -2633,6 +2624,15 @@ DTEND:20230820T033000Z
 SUMMARY:Waggaroos Local event, Pomingalarna, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18594
 GEO:-35.1164459048212;147.296360378491
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18430@eventor.orienteering.asn.au
+DTSTAMP:20230628T014115Z
+DTSTART:20230820T000000Z
+DTEND:20230820T040000Z
+SUMMARY:Vic Series (Bush) 7 - Boundary Creek, Malmsbury, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18430
+GEO:-37.2625406968214;144.267501695212
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18872@eventor.orienteering.asn.au
