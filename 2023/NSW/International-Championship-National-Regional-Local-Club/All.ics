@@ -1552,7 +1552,7 @@ GEO:-34.532263739384;150.259177125156
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19001@eventor.orienteering.asn.au
-DTSTAMP:20230605T045819Z
+DTSTAMP:20230629T042205Z
 DTSTART:20230715T040000Z
 DTEND:20230715T050000Z
 SUMMARY:Cronulla South, Illawarra Kareelah Orienteers
@@ -1620,19 +1620,19 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18843
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18921@eventor.orienteering.asn.au
-DTSTAMP:20230401T150618Z
-DTSTART:20230729T000000Z
-DTEND:20230729T000000Z
+DTSTAMP:20230628T214835Z
+DTSTART:20230728T233000Z
+DTEND:20230729T020000Z
 SUMMARY:Newcastle Shorts 1 - Belford, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18921
 GEO:-32.6492051657117;151.296640552084
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18922@eventor.orienteering.asn.au
-DTSTAMP:20230328T230848Z
+DTSTAMP:20230628T221037Z
 DTSTART:20230729T030000Z
 DTEND:20230729T030000Z
-SUMMARY:Newcastle Shorts 2 - Belford, Newcastle Orienteering Club
+SUMMARY:Newcastle Shorts Weekend 2 - Belford, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18922
 GEO:-32.647848331002;151.296344490412
 END:VEVENT
@@ -1646,12 +1646,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18689
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18923@eventor.orienteering.asn.au
-DTSTAMP:20230328T231022Z
-DTSTART:20230730T000000Z
-DTEND:20230730T000000Z
-SUMMARY:Newcastle Shorts 3 - Newcastle Uni, Newcastle Orienteering Club
+DTSTAMP:20230628T211007Z
+DTSTART:20230729T233000Z
+DTEND:20230730T020000Z
+SUMMARY:Newcastle Shorts Weekend 3 - Newcastle Uni, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18923
-GEO:-32.8962443430222;151.697807984999
+GEO:-32.8940643542115;151.697357960312
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18592@eventor.orienteering.asn.au
@@ -1673,12 +1673,12 @@ GEO:-34.4311926297928;150.414389407056
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18924@eventor.orienteering.asn.au
-DTSTAMP:20230328T231147Z
+DTSTAMP:20230628T205642Z
 DTSTART:20230730T030000Z
-DTEND:20230730T030000Z
-SUMMARY:Newcastle Shorts 4 - Newcastle Uni, Newcastle Orienteering Club
+DTEND:20230730T053000Z
+SUMMARY:Newcastle Shorts Weekend 4 - Newcastle Uni, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18924
-GEO:-32.8955845517098;151.697854426536
+GEO:-32.8940334554081;151.697331856866
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18789@eventor.orienteering.asn.au
@@ -1887,20 +1887,12 @@ GEO:-31.1025492928456;152.828099573909
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18542@eventor.orienteering.asn.au
-DTSTAMP:20230423T230637Z
-DTSTART:20230902T140000Z
-DTEND:20230903T140000Z
+DTSTAMP:20230629T042727Z
+DTSTART:20230902T230000Z
+DTEND:20230903T020000Z
 SUMMARY:NSW MTBO Champs - Middle, Bush n Beach Orienteering Club / Hastings Orienteering Group / Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18542
 GEO:-30.6692998592909;152.952265402865
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18543@eventor.orienteering.asn.au
-DTSTAMP:20230423T230700Z
-DTSTART:20230902T140000Z
-DTEND:20230903T140000Z
-SUMMARY:NSW MTBO Champs - Sprint, Bush n Beach Orienteering Club / Hastings Orienteering Group / Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18543
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18886@eventor.orienteering.asn.au
@@ -1928,6 +1920,15 @@ DTEND:20230903T030000Z
 SUMMARY:Highlands Forest Series #5 - Appin, Illawarra Kareelah Orienteers / Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18893
 GEO:-34.200825497085;150.792537962811
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18543@eventor.orienteering.asn.au
+DTSTAMP:20230629T043149Z
+DTSTART:20230903T030000Z
+DTEND:20230903T053000Z
+SUMMARY:NSW MTBO Champs - Sprint, Bush n Beach Orienteering Club / Hastings Orienteering Group / Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18543
+GEO:-30.3261448647993;153.09965267328
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18544@eventor.orienteering.asn.au

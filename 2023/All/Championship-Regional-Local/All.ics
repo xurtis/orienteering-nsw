@@ -2255,10 +2255,10 @@ GEO:-30.3008462088598;153.118238993898
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19150@eventor.orienteering.asn.au
-DTSTAMP:20230616T003106Z
+DTSTAMP:20230629T021430Z
 DTSTART:20230629T140000Z
 DTEND:20230702T140000Z
-SUMMARY:Women's Coaching Weekend, Orienteering Tasmania
+SUMMARY:Women's Coaching Weekend - St Helens, Orienteering Tasmania
 URL:https://eventor.orienteering.asn.au/Events/Show/19150
 GEO:-41.3248661005855;148.249535185969
 END:VEVENT
@@ -2353,7 +2353,7 @@ GEO:-34.532263739384;150.259177125156
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19001@eventor.orienteering.asn.au
-DTSTAMP:20230605T045819Z
+DTSTAMP:20230629T042205Z
 DTSTART:20230715T040000Z
 DTEND:20230715T050000Z
 SUMMARY:Cronulla South, Illawarra Kareelah Orienteers
@@ -2383,6 +2383,7 @@ DTSTART:20230716T000000Z
 DTEND:20230716T040000Z
 SUMMARY:ACT Classic Series: ACT League #4, Ballinafad Creek, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17892
+GEO:-35.6807591475124;149.460271355306
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18867@eventor.orienteering.asn.au
@@ -2488,11 +2489,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17866
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17893@eventor.orienteering.asn.au
-DTSTAMP:20230627T033643Z
+DTSTAMP:20230629T010525Z
 DTSTART:20230730T000000Z
 DTEND:20230730T030000Z
 SUMMARY:ACT Classic Series: ACT League #5, Isaacs Ridge, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/17893
+GEO:-35.3794985729071;149.118186928175
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18592@eventor.orienteering.asn.au
@@ -2819,10 +2821,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18873
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19116@eventor.orienteering.asn.au
-DTSTAMP:20230623T081148Z
+DTSTAMP:20230629T021349Z
 DTSTART:20230831T140000Z
 DTEND:20230903T140000Z
-SUMMARY:Junior Orienteering Camp, Orienteering Tasmania
+SUMMARY:Junior Orienteering Camp - Hadspan, Orienteering Tasmania
 URL:https://eventor.orienteering.asn.au/Events/Show/19116
 GEO:-41.5089248257714;147.069912904834
 END:VEVENT
@@ -2862,23 +2864,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18541
 GEO:-31.1025492928456;152.828099573909
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18542@eventor.orienteering.asn.au
-DTSTAMP:20230423T230637Z
-DTSTART:20230902T140000Z
-DTEND:20230903T140000Z
-SUMMARY:NSW MTBO Champs - Middle, Bush n Beach Orienteering Club / Hastings Orienteering Group / Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18542
-GEO:-30.6692998592909;152.952265402865
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18543@eventor.orienteering.asn.au
-DTSTAMP:20230423T230700Z
-DTSTART:20230902T140000Z
-DTEND:20230903T140000Z
-SUMMARY:NSW MTBO Champs - Sprint, Bush n Beach Orienteering Club / Hastings Orienteering Group / Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18543
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18244@eventor.orienteering.asn.au
 DTSTAMP:20230627T082236Z
 DTSTART:20230902T140000Z
@@ -2886,6 +2871,15 @@ DTEND:20230903T140000Z
 SUMMARY:Victorian Long Distance Championships - Mt Alexander, Harcourt, Melbourne Forest Racers
 URL:https://eventor.orienteering.asn.au/Events/Show/18244
 GEO:-37.0184406186584;144.305784515339
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18542@eventor.orienteering.asn.au
+DTSTAMP:20230629T042727Z
+DTSTART:20230902T230000Z
+DTEND:20230903T020000Z
+SUMMARY:NSW MTBO Champs - Middle, Bush n Beach Orienteering Club / Hastings Orienteering Group / Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18542
+GEO:-30.6692998592909;152.952265402865
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18595@eventor.orienteering.asn.au
@@ -2912,6 +2906,15 @@ DTEND:20230903T030000Z
 SUMMARY:Highlands Forest Series #5 - Appin, Illawarra Kareelah Orienteers / Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18893
 GEO:-34.200825497085;150.792537962811
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18543@eventor.orienteering.asn.au
+DTSTAMP:20230629T043149Z
+DTSTART:20230903T030000Z
+DTEND:20230903T053000Z
+SUMMARY:NSW MTBO Champs - Sprint, Bush n Beach Orienteering Club / Hastings Orienteering Group / Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18543
+GEO:-30.3261448647993;153.09965267328
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18874@eventor.orienteering.asn.au
@@ -3321,10 +3324,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18027
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19196@eventor.orienteering.asn.au
-DTSTAMP:20230627T023741Z
+DTSTAMP:20230629T011640Z
 DTSTART:20231025T060000Z
 DTEND:20231025T080000Z
-SUMMARY:ACT Runners Shop Twilight Series #1: TBA, Orienteering ACT
+SUMMARY:ACT Runners Shop Twilight Series #1: Oakey Hill, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19196
 END:VEVENT
 BEGIN:VEVENT
@@ -3353,18 +3356,18 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18550
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19197@eventor.orienteering.asn.au
-DTSTAMP:20230627T023923Z
+DTSTAMP:20230629T011655Z
 DTSTART:20231101T060000Z
 DTEND:20231101T083000Z
-SUMMARY:ACT Runners Shop Twilight Series #2: TBA, Orienteering ACT
+SUMMARY:ACT Runners Shop Twilight Series #2: Red Hill South, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19197
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19198@eventor.orienteering.asn.au
-DTSTAMP:20230627T024017Z
+DTSTAMP:20230629T011713Z
 DTSTART:20231108T060000Z
 DTEND:20231108T083000Z
-SUMMARY:ACT Runners Shop Twilight Series #3: TBA, Orienteering ACT
+SUMMARY:ACT Runners Shop Twilight Series #3: Narrabundah Hill, Abominable O-Men
 URL:https://eventor.orienteering.asn.au/Events/Show/19198
 END:VEVENT
 BEGIN:VEVENT
@@ -3378,10 +3381,10 @@ GEO:-37.6805755910039;143.563809117085
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19199@eventor.orienteering.asn.au
-DTSTAMP:20230627T024522Z
+DTSTAMP:20230629T011723Z
 DTSTART:20231115T060000Z
 DTEND:20231115T083000Z
-SUMMARY:ACT Runners Shop Twilight Series #4: TBA, Orienteering ACT
+SUMMARY:ACT Runners Shop Twilight Series #4: Gossan Hill, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19199
 END:VEVENT
 BEGIN:VEVENT
@@ -3427,18 +3430,18 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19184
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19201@eventor.orienteering.asn.au
-DTSTAMP:20230627T024721Z
+DTSTAMP:20230629T011737Z
 DTSTART:20231129T060000Z
 DTEND:20231129T083000Z
-SUMMARY:ACT Runners Shop Twilight Series #6: TBA, Orienteering ACT
+SUMMARY:ACT Runners Shop Twilight Series #6: Bruce Ridge, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19201
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19202@eventor.orienteering.asn.au
-DTSTAMP:20230627T024811Z
+DTSTAMP:20230629T011751Z
 DTSTART:20231206T060000Z
 DTEND:20231206T083000Z
-SUMMARY:ACT Runners Shop Twilight Series #7: TBA, Orienteering ACT
+SUMMARY:ACT Runners Shop Twilight Series #7: Mt Jerrabomberra, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19202
 END:VEVENT
 BEGIN:VEVENT

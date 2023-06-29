@@ -570,10 +570,10 @@ GEO:-42.4631655858886;147.249072345213
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19150@eventor.orienteering.asn.au
-DTSTAMP:20230616T003106Z
+DTSTAMP:20230629T021430Z
 DTSTART:20230629T140000Z
 DTEND:20230702T140000Z
-SUMMARY:Women's Coaching Weekend, Orienteering Tasmania
+SUMMARY:Women's Coaching Weekend - St Helens, Orienteering Tasmania
 URL:https://eventor.orienteering.asn.au/Events/Show/19150
 GEO:-41.3248661005855;148.249535185969
 END:VEVENT
@@ -649,10 +649,10 @@ GEO:-41.8246653270127;147.844125754067
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19041@eventor.orienteering.asn.au
-DTSTAMP:20230501T222314Z
+DTSTAMP:20230629T015730Z
 DTSTART:20230812T140000Z
 DTEND:20230813T140000Z
-SUMMARY:North West Region (TBA) - NW Local, Pathfinders
+SUMMARY:North West Region - NW Local, Pathfinders
 URL:https://eventor.orienteering.asn.au/Events/Show/19041
 END:VEVENT
 BEGIN:VEVENT
@@ -665,10 +665,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19019
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18981@eventor.orienteering.asn.au
-DTSTAMP:20230421T013211Z
+DTSTAMP:20230629T021217Z
 DTSTART:20230812T140000Z
 DTEND:20230813T140000Z
-SUMMARY:UTas - Southern Local #8, Australopers
+SUMMARY:UTas Sandy Bay - Southern Local #8, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18981
 GEO:-42.9026868041141;147.328775536604
 END:VEVENT
@@ -692,10 +692,10 @@ GEO:-41.306857;148.11553
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19116@eventor.orienteering.asn.au
-DTSTAMP:20230623T081148Z
+DTSTAMP:20230629T021349Z
 DTSTART:20230831T140000Z
 DTEND:20230903T140000Z
-SUMMARY:Junior Orienteering Camp, Orienteering Tasmania
+SUMMARY:Junior Orienteering Camp - Hadspan, Orienteering Tasmania
 URL:https://eventor.orienteering.asn.au/Events/Show/19116
 GEO:-41.5089248257714;147.069912904834
 END:VEVENT
@@ -742,6 +742,154 @@ DTEND:20231015T130000Z
 SUMMARY:Seven Mile Beach - Southern Local #12, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18985
 GEO:-42.8420599273743;147.540230623126
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19243@eventor.orienteering.asn.au
+DTSTAMP:20230629T022253Z
+DTSTART:20231018T040000Z
+DTEND:20231018T040000Z
+SUMMARY:UTAS Newnham - Launceston Spring Twilight #1, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19243
+GEO:-41.398860279459;147.121534743886
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19249@eventor.orienteering.asn.au
+DTSTAMP:20230629T015632Z
+DTSTART:20231021T130000Z
+DTEND:20231022T130000Z
+SUMMARY:North West Region - NW Local, Pathfinders
+URL:https://eventor.orienteering.asn.au/Events/Show/19249
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19244@eventor.orienteering.asn.au
+DTSTAMP:20230629T013222Z
+DTSTART:20231025T040000Z
+DTEND:20231025T040000Z
+SUMMARY:Launceston Church Grammar School - Launceston Spring Twilight #2, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19244
+GEO:-41.4079657669754;147.129710319329
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19237@eventor.orienteering.asn.au
+DTSTAMP:20230629T005835Z
+DTSTART:20231025T040000Z
+DTEND:20231025T040000Z
+SUMMARY:Sandown Park - Hobart Spring Schools/Twilight #1, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/19237
+GEO:-42.9106493393726;147.356229372138
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19250@eventor.orienteering.asn.au
+DTSTAMP:20230629T020041Z
+DTSTART:20231030T130000Z
+DTEND:20231031T130000Z
+SUMMARY:North West Region - NW Spring Twilight #1, Pathfinders
+URL:https://eventor.orienteering.asn.au/Events/Show/19250
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19238@eventor.orienteering.asn.au
+DTSTAMP:20230629T010454Z
+DTSTART:20231101T040000Z
+DTEND:20231101T040000Z
+SUMMARY:Montagu Bay - Hobart Spring Schools/Twilight #2, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/19238
+GEO:-42.8648713246328;147.355021029627
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19245@eventor.orienteering.asn.au
+DTSTAMP:20230629T014009Z
+DTSTART:20231101T040000Z
+DTEND:20231101T040000Z
+SUMMARY:Prospect - Launceston Spring Twilight #3, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19245
+GEO:-41.4728623809163;147.125699846282
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19251@eventor.orienteering.asn.au
+DTSTAMP:20230629T020426Z
+DTSTART:20231106T130000Z
+DTEND:20231107T130000Z
+SUMMARY:North West Region - NW Spring Twilight #2, Pathfinders
+URL:https://eventor.orienteering.asn.au/Events/Show/19251
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19239@eventor.orienteering.asn.au
+DTSTAMP:20230629T011101Z
+DTSTART:20231108T040000Z
+DTEND:20231108T040000Z
+SUMMARY:Knocklofty - Hobart Spring Schools/Twilight #3, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/19239
+GEO:-42.8881079411497;147.302020479395
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19246@eventor.orienteering.asn.au
+DTSTAMP:20230629T014241Z
+DTSTART:20231108T040000Z
+DTEND:20231108T040000Z
+SUMMARY:Riverbend and Royal Park - Launceston Spring Twilight #4, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19246
+GEO:-41.4316149121489;147.130522548003
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19252@eventor.orienteering.asn.au
+DTSTAMP:20230629T020614Z
+DTSTART:20231114T040000Z
+DTEND:20231114T040000Z
+SUMMARY:North West Region - NW Spring Twilight #3, Pathfinders
+URL:https://eventor.orienteering.asn.au/Events/Show/19252
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19240@eventor.orienteering.asn.au
+DTSTAMP:20230629T011325Z
+DTSTART:20231115T040000Z
+DTEND:20231115T040000Z
+SUMMARY:Domain - Hobart Spring Schools/Twilight #4, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/19240
+GEO:-42.8658997999317;147.322287474196
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19247@eventor.orienteering.asn.au
+DTSTAMP:20230629T014643Z
+DTSTART:20231115T040000Z
+DTEND:20231115T040000Z
+SUMMARY:Heritage Forest - Launceston Spring Twilight #5, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19247
+GEO:-41.408585478878;147.139407310109
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19253@eventor.orienteering.asn.au
+DTSTAMP:20230629T020910Z
+DTSTART:20231121T040000Z
+DTEND:20231121T040000Z
+SUMMARY:North West Region - NW Spring Twilight #4, Pathfinders
+URL:https://eventor.orienteering.asn.au/Events/Show/19253
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19241@eventor.orienteering.asn.au
+DTSTAMP:20230629T011808Z
+DTSTART:20231121T130000Z
+DTEND:20231122T130000Z
+SUMMARY:Gordons Hill - Hobart Spring Schools/Twilight #5, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/19241
+GEO:-42.8612044822773;147.358297918973
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19248@eventor.orienteering.asn.au
+DTSTAMP:20230629T014949Z
+DTSTART:20231122T040000Z
+DTEND:20231122T040000Z
+SUMMARY:Windsor Precinct - Launceston Spring Twilight #6 Christmas Event, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19248
+GEO:-41.4029768492453;147.092876895036
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19242@eventor.orienteering.asn.au
+DTSTAMP:20230629T012113Z
+DTSTART:20231129T040000Z
+DTEND:20231129T040000Z
+SUMMARY:Botanic Gardens - Hobart Spring Schools/Twilight #6, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/19242
+GEO:-42.8658581407141;147.330380147315
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18986@eventor.orienteering.asn.au

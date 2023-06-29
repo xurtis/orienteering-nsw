@@ -4748,7 +4748,7 @@ GEO:-34.0551181368047;150.689069284383
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19098@eventor.orienteering.asn.au
-DTSTAMP:20230619T040434Z
+DTSTAMP:20230628T233638Z
 DTSTART:20230628T020000Z
 DTEND:20230628T040000Z
 SUMMARY:ACT Midweek Series: Mount Rogers, Orienteering ACT
@@ -4757,7 +4757,7 @@ GEO:-35.1947848432183;149.050947717315
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19180@eventor.orienteering.asn.au
-DTSTAMP:20230628T090801Z
+DTSTAMP:20230629T044952Z
 DTSTART:20230629T003000Z
 DTEND:20230629T003000Z
 SUMMARY:Gap Creek East Bush, Orienteering Queensland
@@ -4820,7 +4820,7 @@ GEO:-33.8687076863008;150.904345727738
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18787@eventor.orienteering.asn.au
-DTSTAMP:20230623T103122Z
+DTSTAMP:20230628T232014Z
 DTSTART:20230701T230000Z
 DTEND:20230702T030000Z
 SUMMARY:Dalmoak, north east of Stanthorpe, Bullecourt Boulder Bounders
@@ -4829,7 +4829,7 @@ GEO:-28.5762203942509;152.007863901177
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18642@eventor.orienteering.asn.au
-DTSTAMP:20230627T082908Z
+DTSTAMP:20230629T002448Z
 DTSTART:20230702T000000Z
 DTEND:20230702T000000Z
 SUMMARY:Ballarat Winter Series #2 Yuille Wetlands , Eureka Orienteers
@@ -4999,10 +4999,10 @@ GEO:-34.6194258085926;150.213609969037
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18532@eventor.orienteering.asn.au
-DTSTAMP:20230611T113002Z
+DTSTAMP:20230629T113441Z
 DTSTART:20230709T010000Z
 DTEND:20230709T020000Z
-SUMMARY:John Toomey, Albany & Denmark Hinterland Orienteering Club
+SUMMARY:Albany - Goode Beach, Albany & Denmark Hinterland Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18532
 GEO:-35.0876098157693;117.939590113591
 END:VEVENT
@@ -5066,6 +5066,15 @@ SUMMARY:Midweek Training at Mt Crawford, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18461
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19236@eventor.orienteering.asn.au
+DTSTAMP:20230629T031031Z
+DTSTART:20230712T020000Z
+DTEND:20230712T040000Z
+SUMMARY:ACT Midweek Series: Lake Ginninderra, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19236
+GEO:-35.2277766442112;149.07473078028
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19186@eventor.orienteering.asn.au
 DTSTAMP:20230618T065415Z
 DTSTART:20230712T090000Z
@@ -5102,7 +5111,7 @@ GEO:-36.7450968016985;144.277303068867
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19001@eventor.orienteering.asn.au
-DTSTAMP:20230605T045819Z
+DTSTAMP:20230629T042205Z
 DTSTART:20230715T040000Z
 DTEND:20230715T050000Z
 SUMMARY:Cronulla South, Illawarra Kareelah Orienteers
@@ -5363,9 +5372,9 @@ GEO:-27.4951474937162;152.941934206727
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18921@eventor.orienteering.asn.au
-DTSTAMP:20230401T150618Z
-DTSTART:20230729T000000Z
-DTEND:20230729T000000Z
+DTSTAMP:20230628T214835Z
+DTSTART:20230728T233000Z
+DTEND:20230729T020000Z
 SUMMARY:Newcastle Shorts 1 - Belford, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18921
 GEO:-32.6492051657117;151.296640552084
@@ -5389,10 +5398,10 @@ GEO:-36.8099667486504;144.244811987398
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18922@eventor.orienteering.asn.au
-DTSTAMP:20230328T230848Z
+DTSTAMP:20230628T221037Z
 DTSTART:20230729T030000Z
 DTEND:20230729T030000Z
-SUMMARY:Newcastle Shorts 2 - Belford, Newcastle Orienteering Club
+SUMMARY:Newcastle Shorts Weekend 2 - Belford, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18922
 GEO:-32.647848331002;151.296344490412
 END:VEVENT
@@ -5423,6 +5432,15 @@ SUMMARY:Come and Try It + Club Championship event - open to all, Garingal Orient
 URL:https://eventor.orienteering.asn.au/Events/Show/18689
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18923@eventor.orienteering.asn.au
+DTSTAMP:20230628T211007Z
+DTSTART:20230729T233000Z
+DTEND:20230730T020000Z
+SUMMARY:Newcastle Shorts Weekend 3 - Newcastle Uni, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18923
+GEO:-32.8940643542115;151.697357960312
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18447@eventor.orienteering.asn.au
 DTSTAMP:20230627T081831Z
 DTSTART:20230730T000000Z
@@ -5430,15 +5448,6 @@ DTEND:20230730T000000Z
 SUMMARY:MelBushO 8 - Plenty Gorge, South Morang, Yarra Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18447
 GEO:-37.6246156435673;145.110817560863
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18923@eventor.orienteering.asn.au
-DTSTAMP:20230328T231022Z
-DTSTART:20230730T000000Z
-DTEND:20230730T000000Z
-SUMMARY:Newcastle Shorts 3 - Newcastle Uni, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18923
-GEO:-32.8962443430222;151.697807984999
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18592@eventor.orienteering.asn.au
@@ -5477,12 +5486,12 @@ GEO:-31.9251334860808;116.34915897081
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18924@eventor.orienteering.asn.au
-DTSTAMP:20230328T231147Z
+DTSTAMP:20230628T205642Z
 DTSTART:20230730T030000Z
-DTEND:20230730T030000Z
-SUMMARY:Newcastle Shorts 4 - Newcastle Uni, Newcastle Orienteering Club
+DTEND:20230730T053000Z
+SUMMARY:Newcastle Shorts Weekend 4 - Newcastle Uni, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18924
-GEO:-32.8955845517098;151.697854426536
+GEO:-32.8940334554081;151.697331856866
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19163@eventor.orienteering.asn.au
@@ -5638,10 +5647,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18695
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19041@eventor.orienteering.asn.au
-DTSTAMP:20230501T222314Z
+DTSTAMP:20230629T015730Z
 DTSTART:20230812T140000Z
 DTEND:20230813T140000Z
-SUMMARY:North West Region (TBA) - NW Local, Pathfinders
+SUMMARY:North West Region - NW Local, Pathfinders
 URL:https://eventor.orienteering.asn.au/Events/Show/19041
 END:VEVENT
 BEGIN:VEVENT
@@ -5654,10 +5663,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19019
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18981@eventor.orienteering.asn.au
-DTSTAMP:20230421T013211Z
+DTSTAMP:20230629T021217Z
 DTSTART:20230812T140000Z
 DTEND:20230813T140000Z
-SUMMARY:UTas - Southern Local #8, Australopers
+SUMMARY:UTas Sandy Bay - Southern Local #8, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18981
 GEO:-42.9026868041141;147.328775536604
 END:VEVENT
@@ -6376,6 +6385,15 @@ SUMMARY:Midweek Training at Kuitpo, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18464
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19243@eventor.orienteering.asn.au
+DTSTAMP:20230629T022253Z
+DTSTART:20231018T040000Z
+DTEND:20231018T040000Z
+SUMMARY:UTAS Newnham - Launceston Spring Twilight #1, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19243
+GEO:-41.398860279459;147.121534743886
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18573@eventor.orienteering.asn.au
 DTSTAMP:20230126T020912Z
 DTSTART:20231018T073000Z
@@ -6401,6 +6419,14 @@ DTEND:20231021T110000Z
 SUMMARY:Bendigo Twilight - Score Event - Pilchers Bridge, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18405
 GEO:-36.7660920373007;144.258745868046
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19249@eventor.orienteering.asn.au
+DTSTAMP:20230629T015632Z
+DTSTART:20231021T130000Z
+DTEND:20231022T130000Z
+SUMMARY:North West Region - NW Local, Pathfinders
+URL:https://eventor.orienteering.asn.au/Events/Show/19249
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18432@eventor.orienteering.asn.au
@@ -6429,11 +6455,29 @@ SUMMARY:River and Bay Orienteering Series #1, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19140
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19244@eventor.orienteering.asn.au
+DTSTAMP:20230629T013222Z
+DTSTART:20231025T040000Z
+DTEND:20231025T040000Z
+SUMMARY:Launceston Church Grammar School - Launceston Spring Twilight #2, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19244
+GEO:-41.4079657669754;147.129710319329
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19237@eventor.orienteering.asn.au
+DTSTAMP:20230629T005835Z
+DTSTART:20231025T040000Z
+DTEND:20231025T040000Z
+SUMMARY:Sandown Park - Hobart Spring Schools/Twilight #1, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/19237
+GEO:-42.9106493393726;147.356229372138
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19196@eventor.orienteering.asn.au
-DTSTAMP:20230627T023741Z
+DTSTAMP:20230629T011640Z
 DTSTART:20231025T060000Z
 DTEND:20231025T080000Z
-SUMMARY:ACT Runners Shop Twilight Series #1: TBA, Orienteering ACT
+SUMMARY:ACT Runners Shop Twilight Series #1: Oakey Hill, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19196
 END:VEVENT
 BEGIN:VEVENT
@@ -6480,6 +6524,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18733
 GEO:-27.4997779891425;152.963991915636
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19250@eventor.orienteering.asn.au
+DTSTAMP:20230629T020041Z
+DTSTART:20231030T130000Z
+DTEND:20231031T130000Z
+SUMMARY:North West Region - NW Spring Twilight #1, Pathfinders
+URL:https://eventor.orienteering.asn.au/Events/Show/19250
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18550@eventor.orienteering.asn.au
 DTSTAMP:20230124T054121Z
 DTSTART:20231031T230000Z
@@ -6488,11 +6540,29 @@ SUMMARY:Closed School Event, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18550
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19238@eventor.orienteering.asn.au
+DTSTAMP:20230629T010454Z
+DTSTART:20231101T040000Z
+DTEND:20231101T040000Z
+SUMMARY:Montagu Bay - Hobart Spring Schools/Twilight #2, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/19238
+GEO:-42.8648713246328;147.355021029627
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19245@eventor.orienteering.asn.au
+DTSTAMP:20230629T014009Z
+DTSTART:20231101T040000Z
+DTEND:20231101T040000Z
+SUMMARY:Prospect - Launceston Spring Twilight #3, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19245
+GEO:-41.4728623809163;147.125699846282
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19197@eventor.orienteering.asn.au
-DTSTAMP:20230627T023923Z
+DTSTAMP:20230629T011655Z
 DTSTART:20231101T060000Z
 DTEND:20231101T083000Z
-SUMMARY:ACT Runners Shop Twilight Series #2: TBA, Orienteering ACT
+SUMMARY:ACT Runners Shop Twilight Series #2: Red Hill South, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19197
 END:VEVENT
 BEGIN:VEVENT
@@ -6538,6 +6608,14 @@ SUMMARY:Closed School Event, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18551
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19251@eventor.orienteering.asn.au
+DTSTAMP:20230629T020426Z
+DTSTART:20231106T130000Z
+DTEND:20231107T130000Z
+SUMMARY:North West Region - NW Spring Twilight #2, Pathfinders
+URL:https://eventor.orienteering.asn.au/Events/Show/19251
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17609@eventor.orienteering.asn.au
 DTSTAMP:20220615T003316Z
 DTSTART:20231107T073000Z
@@ -6546,11 +6624,29 @@ SUMMARY:Night Nav - EN TBC, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/17609
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19239@eventor.orienteering.asn.au
+DTSTAMP:20230629T011101Z
+DTSTART:20231108T040000Z
+DTEND:20231108T040000Z
+SUMMARY:Knocklofty - Hobart Spring Schools/Twilight #3, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/19239
+GEO:-42.8881079411497;147.302020479395
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19246@eventor.orienteering.asn.au
+DTSTAMP:20230629T014241Z
+DTSTART:20231108T040000Z
+DTEND:20231108T040000Z
+SUMMARY:Riverbend and Royal Park - Launceston Spring Twilight #4, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19246
+GEO:-41.4316149121489;147.130522548003
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19198@eventor.orienteering.asn.au
-DTSTAMP:20230627T024017Z
+DTSTAMP:20230629T011713Z
 DTSTART:20231108T060000Z
 DTEND:20231108T083000Z
-SUMMARY:ACT Runners Shop Twilight Series #3: TBA, Orienteering ACT
+SUMMARY:ACT Runners Shop Twilight Series #3: Narrabundah Hill, Abominable O-Men
 URL:https://eventor.orienteering.asn.au/Events/Show/19198
 END:VEVENT
 BEGIN:VEVENT
@@ -6595,6 +6691,14 @@ SUMMARY:River and Bay Orienteering Series #4, Illawarra Kareelah Orienteers / Ur
 URL:https://eventor.orienteering.asn.au/Events/Show/19143
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19252@eventor.orienteering.asn.au
+DTSTAMP:20230629T020614Z
+DTSTART:20231114T040000Z
+DTEND:20231114T040000Z
+SUMMARY:North West Region - NW Spring Twilight #3, Pathfinders
+URL:https://eventor.orienteering.asn.au/Events/Show/19252
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17610@eventor.orienteering.asn.au
 DTSTAMP:20220615T003353Z
 DTSTART:20231114T073000Z
@@ -6611,11 +6715,29 @@ SUMMARY:Midweek Training at Mt Crawford, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18465
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19240@eventor.orienteering.asn.au
+DTSTAMP:20230629T011325Z
+DTSTART:20231115T040000Z
+DTEND:20231115T040000Z
+SUMMARY:Domain - Hobart Spring Schools/Twilight #4, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/19240
+GEO:-42.8658997999317;147.322287474196
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19247@eventor.orienteering.asn.au
+DTSTAMP:20230629T014643Z
+DTSTART:20231115T040000Z
+DTEND:20231115T040000Z
+SUMMARY:Heritage Forest - Launceston Spring Twilight #5, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19247
+GEO:-41.408585478878;147.139407310109
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19199@eventor.orienteering.asn.au
-DTSTAMP:20230627T024522Z
+DTSTAMP:20230629T011723Z
 DTSTART:20231115T060000Z
 DTEND:20231115T083000Z
-SUMMARY:ACT Runners Shop Twilight Series #4: TBA, Orienteering ACT
+SUMMARY:ACT Runners Shop Twilight Series #4: Gossan Hill, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19199
 END:VEVENT
 BEGIN:VEVENT
@@ -6661,6 +6783,14 @@ SUMMARY:River and Bay Orienteering Series #5, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19144
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19253@eventor.orienteering.asn.au
+DTSTAMP:20230629T020910Z
+DTSTART:20231121T040000Z
+DTEND:20231121T040000Z
+SUMMARY:North West Region - NW Spring Twilight #4, Pathfinders
+URL:https://eventor.orienteering.asn.au/Events/Show/19253
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17611@eventor.orienteering.asn.au
 DTSTAMP:20220615T003434Z
 DTSTART:20231121T073000Z
@@ -6669,12 +6799,30 @@ SUMMARY:Night Nav - EN TBC, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/17611
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19241@eventor.orienteering.asn.au
+DTSTAMP:20230629T011808Z
+DTSTART:20231121T130000Z
+DTEND:20231122T130000Z
+SUMMARY:Gordons Hill - Hobart Spring Schools/Twilight #5, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/19241
+GEO:-42.8612044822773;147.358297918973
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18948@eventor.orienteering.asn.au
 DTSTAMP:20230413T020729Z
 DTSTART:20231121T230000Z
 DTEND:20231122T030000Z
 SUMMARY:ACT Primary School Championships, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18948
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19248@eventor.orienteering.asn.au
+DTSTAMP:20230629T014949Z
+DTSTART:20231122T040000Z
+DTEND:20231122T040000Z
+SUMMARY:Windsor Precinct - Launceston Spring Twilight #6 Christmas Event, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19248
+GEO:-41.4029768492453;147.092876895036
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19200@eventor.orienteering.asn.au
@@ -6735,11 +6883,20 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17612
 GEO:-27.4100476705996;152.923478931987
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19242@eventor.orienteering.asn.au
+DTSTAMP:20230629T012113Z
+DTSTART:20231129T040000Z
+DTEND:20231129T040000Z
+SUMMARY:Botanic Gardens - Hobart Spring Schools/Twilight #6, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/19242
+GEO:-42.8658581407141;147.330380147315
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19201@eventor.orienteering.asn.au
-DTSTAMP:20230627T024721Z
+DTSTAMP:20230629T011737Z
 DTSTART:20231129T060000Z
 DTEND:20231129T083000Z
-SUMMARY:ACT Runners Shop Twilight Series #6: TBA, Orienteering ACT
+SUMMARY:ACT Runners Shop Twilight Series #6: Bruce Ridge, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19201
 END:VEVENT
 BEGIN:VEVENT
@@ -6778,10 +6935,10 @@ GEO:-27.3940643926795;153.006218385662
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19202@eventor.orienteering.asn.au
-DTSTAMP:20230627T024811Z
+DTSTAMP:20230629T011751Z
 DTSTART:20231206T060000Z
 DTEND:20231206T083000Z
-SUMMARY:ACT Runners Shop Twilight Series #7: TBA, Orienteering ACT
+SUMMARY:ACT Runners Shop Twilight Series #7: Mt Jerrabomberra, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19202
 END:VEVENT
 BEGIN:VEVENT
