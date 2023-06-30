@@ -1401,7 +1401,7 @@ GEO:-35.6911887410571;146.728053378467
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18828@eventor.orienteering.asn.au
-DTSTAMP:20230626T043746Z
+DTSTAMP:20230630T011343Z
 DTSTART:20230709T003000Z
 DTEND:20230709T030000Z
 SUMMARY:Highlands Forest Series #2 - Penrose SF, Southern Highlands Orienteers
@@ -1444,7 +1444,7 @@ GEO:-30.4323964912023;151.626772715747
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18676@eventor.orienteering.asn.au
-DTSTAMP:20230207T024210Z
+DTSTAMP:20230630T024814Z
 DTSTART:20230722T233000Z
 DTEND:20230722T233000Z
 SUMMARY:2023 Metro League #4, Bennelong Northside Orienteers
@@ -1478,21 +1478,57 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18843
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18921@eventor.orienteering.asn.au
-DTSTAMP:20230628T214835Z
-DTSTART:20230728T233000Z
-DTEND:20230729T020000Z
+DTSTAMP:20230630T040058Z
+DTSTART:20230726T233000Z
+DTEND:20230727T020000Z
 SUMMARY:Newcastle Shorts 1 - Belford, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18921
 GEO:-32.6492051657117;151.296640552084
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18923@eventor.orienteering.asn.au
+DTSTAMP:20230630T040231Z
+DTSTART:20230726T233000Z
+DTEND:20230727T020000Z
+SUMMARY:Newcastle Shorts Weekend 3 - Newcastle Uni, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18923
+GEO:-32.8940643542115;151.697357960312
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18922@eventor.orienteering.asn.au
-DTSTAMP:20230628T221037Z
-DTSTART:20230729T030000Z
-DTEND:20230729T030000Z
+DTSTAMP:20230630T040259Z
+DTSTART:20230727T030000Z
+DTEND:20230727T030000Z
 SUMMARY:Newcastle Shorts Weekend 2 - Belford, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18922
 GEO:-32.647848331002;151.296344490412
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18924@eventor.orienteering.asn.au
+DTSTAMP:20230630T040358Z
+DTSTART:20230727T030000Z
+DTEND:20230727T053000Z
+SUMMARY:Newcastle Shorts Weekend 4 - Newcastle Uni, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18924
+GEO:-32.8940334554081;151.697331856866
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19254@eventor.orienteering.asn.au
+DTSTAMP:20230630T040521Z
+DTSTART:20230728T233000Z
+DTEND:20230729T020000Z
+SUMMARY:Newcastle Shorts Weekend (SAT ONLY), Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19254
+GEO:-32.6483790843506;151.295297313598
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19256@eventor.orienteering.asn.au
+DTSTAMP:20230630T040556Z
+DTSTART:20230728T233000Z
+DTEND:20230729T140000Z
+SUMMARY:Newcastle Shorts Weekend (ALL), Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19256
+GEO:-32.6521455090804;151.295056028377
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18689@eventor.orienteering.asn.au
@@ -1503,13 +1539,13 @@ SUMMARY:Come and Try It + Club Championship event - open to all, Garingal Orient
 URL:https://eventor.orienteering.asn.au/Events/Show/18689
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18923@eventor.orienteering.asn.au
-DTSTAMP:20230628T211007Z
+UID:Event_19255@eventor.orienteering.asn.au
+DTSTAMP:20230630T040604Z
 DTSTART:20230729T233000Z
 DTEND:20230730T020000Z
-SUMMARY:Newcastle Shorts Weekend 3 - Newcastle Uni, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18923
-GEO:-32.8940643542115;151.697357960312
+SUMMARY:Newcastle Shorts Weekend (SUN ONLY), Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19255
+GEO:-32.8940134297904;151.697349146762
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18592@eventor.orienteering.asn.au
@@ -1528,15 +1564,6 @@ DTEND:20230730T030000Z
 SUMMARY:Highlands Forest Series #3 - Boxvale, Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18891
 GEO:-34.4311926297928;150.414389407056
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18924@eventor.orienteering.asn.au
-DTSTAMP:20230628T205642Z
-DTSTART:20230730T030000Z
-DTEND:20230730T053000Z
-SUMMARY:Newcastle Shorts Weekend 4 - Newcastle Uni, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18924
-GEO:-32.8940334554081;151.697331856866
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18789@eventor.orienteering.asn.au
