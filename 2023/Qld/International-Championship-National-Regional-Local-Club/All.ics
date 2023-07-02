@@ -1328,7 +1328,7 @@ GEO:-27.563289;152.903013
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18020@eventor.orienteering.asn.au
-DTSTAMP:20230621T030554Z
+DTSTAMP:20230702T043355Z
 DTSTART:20230617T230000Z
 DTEND:20230618T030000Z
 SUMMARY:OY7 - Leyburn North, Range Runners Orienteering Club
@@ -1407,7 +1407,7 @@ GEO:-27.4496461138036;153.02284246411
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18787@eventor.orienteering.asn.au
-DTSTAMP:20230628T232014Z
+DTSTAMP:20230702T065520Z
 DTSTART:20230701T230000Z
 DTEND:20230702T030000Z
 SUMMARY:Dalmoak, north east of Stanthorpe, Bullecourt Boulder Bounders
@@ -1431,6 +1431,14 @@ DTEND:20230702T060000Z
 SUMMARY:MapRun Parks 2023 - Fig Tree Pocket - Biami Yumba Park, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19159
 GEO:-27.539398;152.966948
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19259@eventor.orienteering.asn.au
+DTSTAMP:20230702T014724Z
+DTSTART:20230705T140000Z
+DTEND:20230706T140000Z
+SUMMARY:Junior Camp exercise closed event, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19259
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17809@eventor.orienteering.asn.au
@@ -1457,6 +1465,14 @@ DTSTART:20230707T230000Z
 DTEND:20230708T043000Z
 SUMMARY:Cooroy training - Orienteering Instructor, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19193
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19261@eventor.orienteering.asn.au
+DTSTAMP:20230702T045140Z
+DTSTART:20230708T140000Z
+DTEND:20230709T140000Z
+SUMMARY:Junior Camp Champs Closed Event, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19261
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19003@eventor.orienteering.asn.au
@@ -1487,7 +1503,7 @@ GEO:-27.3738426124179;152.959859986444
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18021@eventor.orienteering.asn.au
-DTSTAMP:20230701T005402Z
+DTSTAMP:20230702T043325Z
 DTSTART:20230715T140000Z
 DTEND:20230716T140000Z
 SUMMARY:OY8 - Goolman (bush), Enoggeroos

@@ -6431,7 +6431,7 @@ GEO:-38.18550019406;144.394741803319
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18907@eventor.orienteering.asn.au
-DTSTAMP:20230701T064959Z
+DTSTAMP:20230702T074826Z
 DTSTART:20230701T220000Z
 DTEND:20230702T023000Z
 SUMMARY:2023 Sydney Metropolitan Turkey Trot, Western and Hills Orienteers
@@ -6440,7 +6440,7 @@ GEO:-33.8687076863008;150.904345727738
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18787@eventor.orienteering.asn.au
-DTSTAMP:20230628T232014Z
+DTSTAMP:20230702T065520Z
 DTSTART:20230701T230000Z
 DTEND:20230702T030000Z
 SUMMARY:Dalmoak, north east of Stanthorpe, Bullecourt Boulder Bounders
@@ -6485,7 +6485,7 @@ GEO:-35.9808956426062;146.978122249523
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18445@eventor.orienteering.asn.au
-DTSTAMP:20230627T081430Z
+DTSTAMP:20230702T033850Z
 DTSTART:20230702T000000Z
 DTEND:20230702T030000Z
 SUMMARY:MelBushO 6 - Westerfolds Park, Templestowe, Yarra Valley Orienteering Club
@@ -6503,7 +6503,7 @@ GEO:-33.4160423502268;137.010661257691
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18741@eventor.orienteering.asn.au
-DTSTAMP:20230616T031420Z
+DTSTAMP:20230702T052229Z
 DTSTART:20230702T013000Z
 DTEND:20230702T013000Z
 SUMMARY:Bush 6 Jumbuck Ridge, Orienteering WA / Wullundigong Orienteers of the West
@@ -6565,6 +6565,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19127
 GEO:-37.8711252151324;145.15939650465
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19259@eventor.orienteering.asn.au
+DTSTAMP:20230702T014724Z
+DTSTART:20230705T140000Z
+DTEND:20230706T140000Z
+SUMMARY:Junior Camp exercise closed event, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19259
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18756@eventor.orienteering.asn.au
 DTSTAMP:20230626T013629Z
 DTSTART:20230706T003000Z
@@ -6607,6 +6615,14 @@ DTEND:20230708T050000Z
 SUMMARY:Geelong Park Street Saturday Winter Series - Djiang, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19137
 GEO:-38.1462690205878;144.366882204476
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19261@eventor.orienteering.asn.au
+DTSTAMP:20230702T045140Z
+DTSTART:20230708T140000Z
+DTEND:20230709T140000Z
+SUMMARY:Junior Camp Champs Closed Event, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19261
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19040@eventor.orienteering.asn.au
@@ -6759,11 +6775,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19148
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18461@eventor.orienteering.asn.au
-DTSTAMP:20230117T055413Z
+DTSTAMP:20230702T035242Z
 DTSTART:20230712T010000Z
 DTEND:20230712T033000Z
-SUMMARY:Midweek Training at Mt Crawford, Orienteering SA
+SUMMARY:Midweek Training at Mt Crawford, Chalks campground, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18461
+GEO:-34.7397223886869;138.958334138427
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19236@eventor.orienteering.asn.au
@@ -6799,6 +6816,7 @@ DTSTART:20230712T143000Z
 DTEND:20230713T143000Z
 SUMMARY:SA junior arrows camp Day 4 only- Camp champs, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/19149
+GEO:-34.6310725386006;139.129670239315
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19183@eventor.orienteering.asn.au
@@ -6864,10 +6882,10 @@ GEO:-27.3144882377767;153.004291951562
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18842@eventor.orienteering.asn.au
-DTSTAMP:20230317T001935Z
+DTSTAMP:20230702T000352Z
 DTSTART:20230715T233000Z
 DTEND:20230715T233000Z
-SUMMARY:Newcastle OY6, Newcastle Orienteering Club
+SUMMARY:Newcastle NOY6 - Richmond Vale, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18842
 END:VEVENT
 BEGIN:VEVENT
@@ -6899,7 +6917,7 @@ GEO:-37.7426626531111;145.134576953702
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18796@eventor.orienteering.asn.au
-DTSTAMP:20230304T004149Z
+DTSTAMP:20230702T050509Z
 DTSTART:20230716T000000Z
 DTEND:20230716T040000Z
 SUMMARY:West Newholme, Northern Tablelands Orienteering Club
@@ -7274,6 +7292,15 @@ DTEND:20230730T140000Z
 SUMMARY:Waverley Park - Southern Local #7, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18980
 GEO:-42.8677055924847;147.387073198328
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19260@eventor.orienteering.asn.au
+DTSTAMP:20230702T052918Z
+DTSTART:20230729T143000Z
+DTEND:20230730T143000Z
+SUMMARY:Keynes Gap Middle Distance OY, Yalanga Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19260
+GEO:-34.6321914426863;139.128982474729
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18667@eventor.orienteering.asn.au

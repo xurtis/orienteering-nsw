@@ -918,11 +918,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19148
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18461@eventor.orienteering.asn.au
-DTSTAMP:20230117T055413Z
+DTSTAMP:20230702T035242Z
 DTSTART:20230712T010000Z
 DTEND:20230712T033000Z
-SUMMARY:Midweek Training at Mt Crawford, Orienteering SA
+SUMMARY:Midweek Training at Mt Crawford, Chalks campground, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18461
+GEO:-34.7397223886869;138.958334138427
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19186@eventor.orienteering.asn.au
@@ -940,6 +941,7 @@ DTSTART:20230712T143000Z
 DTEND:20230713T143000Z
 SUMMARY:SA junior arrows camp Day 4 only- Camp champs, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/19149
+GEO:-34.6310725386006;139.129670239315
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18410@eventor.orienteering.asn.au
@@ -958,6 +960,15 @@ DTEND:20230723T003000Z
 SUMMARY:Keithcot Farm, Tintookies Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18631
 GEO:-34.7983309349021;138.678757421329
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19260@eventor.orienteering.asn.au
+DTSTAMP:20230702T052918Z
+DTSTART:20230729T143000Z
+DTEND:20230730T143000Z
+SUMMARY:Keynes Gap Middle Distance OY, Yalanga Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19260
+GEO:-34.6321914426863;139.128982474729
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18767@eventor.orienteering.asn.au
