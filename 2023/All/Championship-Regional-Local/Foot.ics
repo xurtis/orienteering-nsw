@@ -1869,15 +1869,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17825
 GEO:-35.3166749793867;149.113076019665
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18909@eventor.orienteering.asn.au
-DTSTAMP:20230603T000830Z
-DTSTART:20230627T233000Z
-DTEND:20230627T233000Z
-SUMMARY:Sydney South West Primary Schools Orienteering Championships, Southern Highlands Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18909
-GEO:-34.0551181368047;150.689069284383
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18777@eventor.orienteering.asn.au
 DTSTAMP:20230622T061941Z
 DTSTART:20230629T080000Z
@@ -1924,7 +1915,7 @@ GEO:-34.809236639792;147.204951979329
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17809@eventor.orienteering.asn.au
-DTSTAMP:20230627T061021Z
+DTSTAMP:20230702T225837Z
 DTSTART:20230705T233000Z
 DTEND:20230708T140000Z
 SUMMARY:Junior Camp - Maryborough region, Orienteering Queensland
@@ -1978,11 +1969,12 @@ GEO:-27.748949;152.797513
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18842@eventor.orienteering.asn.au
-DTSTAMP:20230702T000352Z
+DTSTAMP:20230703T005508Z
 DTSTART:20230715T233000Z
 DTEND:20230715T233000Z
-SUMMARY:Newcastle NOY6 - Richmond Vale, Newcastle Orienteering Club
+SUMMARY:Newcastle NOY6 - Richmond Vale (new map), Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18842
+GEO:-32.8859580358485;151.465986496015
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17892@eventor.orienteering.asn.au
@@ -2020,14 +2012,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18322
 GEO:-26.490154;150.079749
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18676@eventor.orienteering.asn.au
-DTSTAMP:20230630T024814Z
-DTSTART:20230722T233000Z
-DTEND:20230722T233000Z
-SUMMARY:2023 Metro League #4, Bennelong Northside Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18676
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_17883@eventor.orienteering.asn.au
 DTSTAMP:20230619T035755Z
 DTSTART:20230722T233000Z
@@ -2035,6 +2019,14 @@ DTEND:20230722T233000Z
 SUMMARY:2023 QLD Schools Champs - Long distance - Gurulmundi SF, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/17883
 GEO:-26.490154;150.079749
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18676@eventor.orienteering.asn.au
+DTSTAMP:20230703T003459Z
+DTSTART:20230722T233000Z
+DTEND:20230723T023000Z
+SUMMARY:2023 Metro League #4, Bennelong Northside Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18676
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19008@eventor.orienteering.asn.au
@@ -2216,6 +2208,15 @@ DTSTART:20230806T233000Z
 DTEND:20230806T233000Z
 SUMMARY:2023 Sydney North Schools Orienteering Championships, Bold Horizons Event Organiser / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/18182
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18909@eventor.orienteering.asn.au
+DTSTAMP:20230702T225914Z
+DTSTART:20230808T233000Z
+DTEND:20230809T040000Z
+SUMMARY:Sydney South West Primary Schools Orienteering Championships, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18909
+GEO:-34.0551181368047;150.689069284383
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17868@eventor.orienteering.asn.au
@@ -2756,10 +2757,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19197
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19198@eventor.orienteering.asn.au
-DTSTAMP:20230629T011713Z
+DTSTAMP:20230703T020350Z
 DTSTART:20231108T060000Z
 DTEND:20231108T083000Z
-SUMMARY:ACT Runners Shop Twilight Series #3: Narrabundah Hill, Abominable O-Men
+SUMMARY:ACT Runners Shop Twilight Series #3: O'Connor Ridge, Abominable O-Men
 URL:https://eventor.orienteering.asn.au/Events/Show/19198
 END:VEVENT
 BEGIN:VEVENT

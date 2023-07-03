@@ -919,15 +919,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18864
 GEO:-35.3331504820259;149.153719852239
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18909@eventor.orienteering.asn.au
-DTSTAMP:20230603T000830Z
-DTSTART:20230627T233000Z
-DTEND:20230627T233000Z
-SUMMARY:Sydney South West Primary Schools Orienteering Championships, Southern Highlands Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18909
-GEO:-34.0551181368047;150.689069284383
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18777@eventor.orienteering.asn.au
 DTSTAMP:20230622T061941Z
 DTSTART:20230629T080000Z
@@ -978,6 +969,7 @@ DTSTART:20230717T070000Z
 DTEND:20230717T091500Z
 SUMMARY:ACT MapRun Street Series: Campbell, 13-17 Jul, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18867
+GEO:-35.2885960643513;149.144394463142
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18868@eventor.orienteering.asn.au
@@ -1043,6 +1035,15 @@ DTSTART:20230807T070000Z
 DTEND:20230807T091500Z
 SUMMARY:ACT MapRun Street Series: Chifley, 3-7 Aug, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18870
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18909@eventor.orienteering.asn.au
+DTSTAMP:20230702T225914Z
+DTSTART:20230808T233000Z
+DTEND:20230809T040000Z
+SUMMARY:Sydney South West Primary Schools Orienteering Championships, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18909
+GEO:-34.0551181368047;150.689069284383
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18695@eventor.orienteering.asn.au

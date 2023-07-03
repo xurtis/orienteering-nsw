@@ -1328,15 +1328,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18795
 GEO:-30.4258761090257;151.333668189376
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18909@eventor.orienteering.asn.au
-DTSTAMP:20230603T000830Z
-DTSTART:20230627T233000Z
-DTEND:20230627T233000Z
-SUMMARY:Sydney South West Primary Schools Orienteering Championships, Southern Highlands Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18909
-GEO:-34.0551181368047;150.689069284383
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18777@eventor.orienteering.asn.au
 DTSTAMP:20230622T061941Z
 DTSTART:20230629T080000Z
@@ -1356,7 +1347,7 @@ GEO:-33.8687076863008;150.904345727738
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18884@eventor.orienteering.asn.au
-DTSTAMP:20230625T075423Z
+DTSTAMP:20230703T083918Z
 DTSTART:20230702T000000Z
 DTEND:20230702T000000Z
 SUMMARY:Bush event #5 Botanic Gardens, Goldseekers Orienteers
@@ -1419,11 +1410,12 @@ GEO:-34.0595118353776;151.149319336723
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18842@eventor.orienteering.asn.au
-DTSTAMP:20230702T000352Z
+DTSTAMP:20230703T005508Z
 DTSTART:20230715T233000Z
 DTEND:20230715T233000Z
-SUMMARY:Newcastle NOY6 - Richmond Vale, Newcastle Orienteering Club
+SUMMARY:Newcastle NOY6 - Richmond Vale (new map), Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18842
+GEO:-32.8859580358485;151.465986496015
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18690@eventor.orienteering.asn.au
@@ -1445,9 +1437,9 @@ GEO:-30.4323964912023;151.626772715747
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18676@eventor.orienteering.asn.au
-DTSTAMP:20230630T024814Z
+DTSTAMP:20230703T003459Z
 DTSTART:20230722T233000Z
-DTEND:20230722T233000Z
+DTEND:20230723T023000Z
 SUMMARY:2023 Metro League #4, Bennelong Northside Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18676
 END:VEVENT
@@ -1626,10 +1618,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18844
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18885@eventor.orienteering.asn.au
-DTSTAMP:20230322T095551Z
+DTSTAMP:20230703T084154Z
 DTSTART:20230806T000000Z
 DTEND:20230806T000000Z
-SUMMARY:Bush event #6 Gosling Creek, Goldseekers Orienteers
+SUMMARY:Bush event #6 Gosling Creek - Pairs Event, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18885
 GEO:-33.3265595342471;149.08527829107
 END:VEVENT
@@ -1640,6 +1632,15 @@ DTSTART:20230806T233000Z
 DTEND:20230806T233000Z
 SUMMARY:2023 Sydney North Schools Orienteering Championships, Bold Horizons Event Organiser / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/18182
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18909@eventor.orienteering.asn.au
+DTSTAMP:20230702T225914Z
+DTSTART:20230808T233000Z
+DTEND:20230809T040000Z
+SUMMARY:Sydney South West Primary Schools Orienteering Championships, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18909
+GEO:-34.0551181368047;150.689069284383
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18695@eventor.orienteering.asn.au

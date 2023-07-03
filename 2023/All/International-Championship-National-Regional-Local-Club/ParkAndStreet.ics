@@ -2944,15 +2944,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19028
 GEO:-37.8248408394567;145.140225632154
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18909@eventor.orienteering.asn.au
-DTSTAMP:20230603T000830Z
-DTSTART:20230627T233000Z
-DTEND:20230627T233000Z
-SUMMARY:Sydney South West Primary Schools Orienteering Championships, Southern Highlands Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18909
-GEO:-34.0551181368047;150.689069284383
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19032@eventor.orienteering.asn.au
 DTSTAMP:20230531T222135Z
 DTSTART:20230628T083000Z
@@ -2999,7 +2990,7 @@ GEO:-33.8687076863008;150.904345727738
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18884@eventor.orienteering.asn.au
-DTSTAMP:20230625T075423Z
+DTSTAMP:20230703T083918Z
 DTSTART:20230702T000000Z
 DTEND:20230702T000000Z
 SUMMARY:Bush event #5 Botanic Gardens, Goldseekers Orienteers
@@ -3156,6 +3147,7 @@ DTSTART:20230717T070000Z
 DTEND:20230717T091500Z
 SUMMARY:ACT MapRun Street Series: Campbell, 13-17 Jul, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18867
+GEO:-35.2885960643513;149.144394463142
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19124@eventor.orienteering.asn.au
@@ -3377,6 +3369,15 @@ DTEND:20230808T093000Z
 SUMMARY:Night Nav - Taringa, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19174
 GEO:-27.4914411967235;152.991837968859
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18909@eventor.orienteering.asn.au
+DTSTAMP:20230702T225914Z
+DTSTART:20230808T233000Z
+DTEND:20230809T040000Z
+SUMMARY:Sydney South West Primary Schools Orienteering Championships, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18909
+GEO:-34.0551181368047;150.689069284383
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19217@eventor.orienteering.asn.au
