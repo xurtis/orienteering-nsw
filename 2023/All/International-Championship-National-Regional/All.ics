@@ -760,22 +760,22 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17893
 GEO:-35.3794985729071;149.118186928175
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19009@eventor.orienteering.asn.au
-DTSTAMP:20230624T011040Z
-DTSTART:20230804T140000Z
-DTEND:20230805T140000Z
-SUMMARY:Royal George - Tas Relay Champs/Team Event/Format - TBC, Orienteering Tasmania
-URL:https://eventor.orienteering.asn.au/Events/Show/19009
-GEO:-41.8248544489721;147.844921990053
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19010@eventor.orienteering.asn.au
-DTSTAMP:20230425T032624Z
-DTSTART:20230805T140000Z
-DTEND:20230806T140000Z
+DTSTAMP:20230703T234451Z
+DTSTART:20230805T040000Z
+DTEND:20230805T040000Z
 SUMMARY:Royal George - OST 9, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/19010
 GEO:-41.8246653270127;147.844125754067
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19009@eventor.orienteering.asn.au
+DTSTAMP:20230703T234235Z
+DTSTART:20230805T140000Z
+DTEND:20230806T140000Z
+SUMMARY:Royal George - Fun Team Event, Orienteering Tasmania
+URL:https://eventor.orienteering.asn.au/Events/Show/19009
+GEO:-41.8248544489721;147.844921990053
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18429@eventor.orienteering.asn.au
@@ -972,14 +972,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18317
 GEO:-27.3415286226599;153.075814484248
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_17714@eventor.orienteering.asn.au
-DTSTAMP:20230321T063824Z
-DTSTART:20230908T140000Z
-DTEND:20230909T140000Z
-SUMMARY:2023 Orienteering NSW State Championships (Middle) / State League #14, Garingal Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/17714
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_17516@eventor.orienteering.asn.au
 DTSTAMP:20230520T012854Z
 DTSTART:20230908T230000Z
@@ -987,6 +979,15 @@ DTEND:20230908T230000Z
 SUMMARY:Australian MTBO Champs - Sprint Distance, Multi Terrain Bike Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17516
 GEO:-27.522220859803;153.216065836159
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17714@eventor.orienteering.asn.au
+DTSTAMP:20230703T191136Z
+DTSTART:20230909T023000Z
+DTEND:20230909T023000Z
+SUMMARY:2023 Orienteering NSW State Championships (Middle) / State League #14, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/17714
+GEO:-32.67039;149.98499
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17517@eventor.orienteering.asn.au

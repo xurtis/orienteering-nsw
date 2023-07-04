@@ -5361,7 +5361,7 @@ GEO:-27.4784721910964;152.929004742538
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18777@eventor.orienteering.asn.au
-DTSTAMP:20230622T061941Z
+DTSTAMP:20230704T062639Z
 DTSTART:20230629T080000Z
 DTEND:20230629T090000Z
 SUMMARY:Coffs Winter Solstice Night-O, Bush n Beach Orienteering Club
@@ -5566,10 +5566,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19261
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19040@eventor.orienteering.asn.au
-DTSTAMP:20230501T222050Z
+DTSTAMP:20230703T232003Z
 DTSTART:20230708T140000Z
 DTEND:20230709T140000Z
-SUMMARY:North West Region - NW Local, Pathfinders
+SUMMARY:North West Local ***POSTPONED, Pathfinders
 URL:https://eventor.orienteering.asn.au/Events/Show/19040
 END:VEVENT
 BEGIN:VEVENT
@@ -5777,7 +5777,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19018
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18842@eventor.orienteering.asn.au
-DTSTAMP:20230703T005508Z
+DTSTAMP:20230704T002027Z
 DTSTART:20230715T233000Z
 DTEND:20230715T233000Z
 SUMMARY:Newcastle NOY6 - Richmond Vale (new map), Newcastle Orienteering Club
@@ -5954,11 +5954,12 @@ GEO:-26.490154;150.079749
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18676@eventor.orienteering.asn.au
-DTSTAMP:20230703T003459Z
+DTSTAMP:20230704T094331Z
 DTSTART:20230722T233000Z
 DTEND:20230723T023000Z
-SUMMARY:2023 Metro League #4, Bennelong Northside Orienteers
+SUMMARY:2023 Metro League #4 Aquatic Reserve, Bennelong Northside Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18676
+GEO:-33.7566464565247;151.238049777063
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18644@eventor.orienteering.asn.au
@@ -6236,9 +6237,9 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18767
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18744@eventor.orienteering.asn.au
-DTSTAMP:20230703T094953Z
+DTSTAMP:20230704T073245Z
 DTSTART:20230730T013000Z
-DTEND:20230730T013000Z
+DTEND:20230730T030000Z
 SUMMARY:Bush 7 Yetar Spring, LOST / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/18744
 GEO:-31.9251334860808;116.34915897081
@@ -6302,15 +6303,6 @@ SUMMARY:Sydney West Secondary Schools Orienteering Championships, Bold Horizons 
 URL:https://eventor.orienteering.asn.au/Events/Show/18912
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19009@eventor.orienteering.asn.au
-DTSTAMP:20230624T011040Z
-DTSTART:20230804T140000Z
-DTEND:20230805T140000Z
-SUMMARY:Royal George - Tas Relay Champs/Team Event/Format - TBC, Orienteering Tasmania
-URL:https://eventor.orienteering.asn.au/Events/Show/19009
-GEO:-41.8248544489721;147.844921990053
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_17867@eventor.orienteering.asn.au
 DTSTAMP:20230522T032926Z
 DTSTART:20230805T003000Z
@@ -6329,12 +6321,21 @@ GEO:-36.7404946702717;144.293464782051
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19010@eventor.orienteering.asn.au
-DTSTAMP:20230425T032624Z
-DTSTART:20230805T140000Z
-DTEND:20230806T140000Z
+DTSTAMP:20230703T234451Z
+DTSTART:20230805T040000Z
+DTEND:20230805T040000Z
 SUMMARY:Royal George - OST 9, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/19010
 GEO:-41.8246653270127;147.844125754067
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19009@eventor.orienteering.asn.au
+DTSTAMP:20230703T234235Z
+DTSTART:20230805T140000Z
+DTEND:20230806T140000Z
+SUMMARY:Royal George - Fun Team Event, Orienteering Tasmania
+URL:https://eventor.orienteering.asn.au/Events/Show/19009
+GEO:-41.8248544489721;147.844921990053
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18429@eventor.orienteering.asn.au
@@ -6571,6 +6572,14 @@ DTEND:20230816T033000Z
 SUMMARY:Midweek Training at Para Wirra, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18462
 GEO:-34.6881659005812;138.830729572038
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19263@eventor.orienteering.asn.au
+DTSTAMP:20230703T235602Z
+DTSTART:20230817T090000Z
+DTEND:20230817T110000Z
+SUMMARY:Purple Pen ZOOM Workshop, Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/19263
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17826@eventor.orienteering.asn.au
@@ -6966,11 +6975,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19178
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17714@eventor.orienteering.asn.au
-DTSTAMP:20230321T063824Z
-DTSTART:20230908T140000Z
-DTEND:20230909T140000Z
+DTSTAMP:20230703T191136Z
+DTSTART:20230909T023000Z
+DTEND:20230909T023000Z
 SUMMARY:2023 Orienteering NSW State Championships (Middle) / State League #14, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17714
+GEO:-32.67039;149.98499
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18400@eventor.orienteering.asn.au
