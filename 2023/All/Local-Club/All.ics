@@ -6539,7 +6539,7 @@ GEO:-37.8099152420048;145.191574700382
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18903@eventor.orienteering.asn.au
-DTSTAMP:20230626T112703Z
+DTSTAMP:20230705T012750Z
 DTSTART:20230705T073000Z
 DTEND:20230705T094500Z
 SUMMARY:Moonlight Madness #3 - Gladesville, Garingal Orienteers
@@ -6648,7 +6648,7 @@ DTSTART:20230708T230000Z
 DTEND:20230709T000000Z
 SUMMARY:Bush Orienteering at Nerang National Park, Gold Coast CONFIRMED, Paradise Lost Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19003
-GEO:-27.9847675951492;153.302014467681
+GEO:-27.9858941613182;153.334328652062
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18841@eventor.orienteering.asn.au
@@ -6909,7 +6909,7 @@ GEO:-37.7426626531111;145.134576953702
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18796@eventor.orienteering.asn.au
-DTSTAMP:20230702T050509Z
+DTSTAMP:20230705T041044Z
 DTSTART:20230716T000000Z
 DTEND:20230716T040000Z
 SUMMARY:West Newholme, Northern Tablelands Orienteering Club
@@ -7068,7 +7068,7 @@ GEO:-38.1222173718193;144.332705549997
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18676@eventor.orienteering.asn.au
-DTSTAMP:20230704T094331Z
+DTSTAMP:20230704T232529Z
 DTSTART:20230722T233000Z
 DTEND:20230723T023000Z
 SUMMARY:2023 Metro League #4 Aquatic Reserve, Bennelong Northside Orienteers
@@ -7162,6 +7162,24 @@ DTEND:20230724T101000Z
 SUMMARY:Melbourne Park Street Monday NIght Series - Whosedale, Orienteering Victoria
 URL:https://eventor.orienteering.asn.au/Events/Show/19125
 GEO:-37.9063635139258;145.076189990425
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19265@eventor.orienteering.asn.au
+DTSTAMP:20230704T230928Z
+DTSTART:20230724T140000Z
+DTEND:20230725T140000Z
+SUMMARY:Taco Tuesday- Enter All Events, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19265
+GEO:-41.385735666359;147.127552931792
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19266@eventor.orienteering.asn.au
+DTSTAMP:20230704T231522Z
+DTSTART:20230724T140000Z
+DTEND:20230725T140000Z
+SUMMARY:TACOver Newnham, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19266
+GEO:-41.385713617418;147.127335385567
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18843@eventor.orienteering.asn.au
@@ -7368,9 +7386,9 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18767
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18744@eventor.orienteering.asn.au
-DTSTAMP:20230704T073245Z
+DTSTAMP:20230705T045237Z
 DTSTART:20230730T013000Z
-DTEND:20230730T030000Z
+DTEND:20230730T033000Z
 SUMMARY:Bush 7 Yetar Spring, LOST / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/18744
 GEO:-31.9251334860808;116.34915897081
@@ -7409,6 +7427,15 @@ DTEND:20230731T101000Z
 SUMMARY:Melbourne Park Street Monday Night Series - Bulleen Ups and Downs, Orienteering Victoria
 URL:https://eventor.orienteering.asn.au/Events/Show/19126
 GEO:-37.7649697948569;145.091654771952
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19267@eventor.orienteering.asn.au
+DTSTAMP:20230704T232037Z
+DTSTART:20230731T140000Z
+DTEND:20230801T140000Z
+SUMMARY:TACO Hike Youngtown, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19267
+GEO:-41.4851674962702;147.174137599451
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19173@eventor.orienteering.asn.au
@@ -7463,7 +7490,7 @@ UID:Event_17867@eventor.orienteering.asn.au
 DTSTAMP:20230522T032926Z
 DTSTART:20230805T003000Z
 DTEND:20230805T030000Z
-SUMMARY:ACT Metro Series: incl. Junior League #12, Narrabundah Hill, Weston Emus
+SUMMARY:ACT Metro Series: incl. Junior League #12, Narrabundah Hill, BAE Systems
 URL:https://eventor.orienteering.asn.au/Events/Show/17867
 END:VEVENT
 BEGIN:VEVENT
@@ -7550,6 +7577,15 @@ DTSTART:20230807T083000Z
 DTEND:20230807T101500Z
 SUMMARY:Melbourne Park Street Monday Night Series - Kerrimuir, Orienteering Victoria
 URL:https://eventor.orienteering.asn.au/Events/Show/19208
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19268@eventor.orienteering.asn.au
+DTSTAMP:20230704T232545Z
+DTSTART:20230807T140000Z
+DTEND:20230808T140000Z
+SUMMARY:SpecTACOular Trevallyn, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19268
+GEO:-41.4373142828534;147.112804146803
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19174@eventor.orienteering.asn.au
@@ -7732,6 +7768,15 @@ SUMMARY:Melbourne Park Street Monday Night Series - Cavills Corner, Orienteering
 URL:https://eventor.orienteering.asn.au/Events/Show/19209
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19269@eventor.orienteering.asn.au
+DTSTAMP:20230704T233158Z
+DTSTART:20230814T140000Z
+DTEND:20230815T140000Z
+SUMMARY:VerTACO Kings Meadows, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19269
+GEO:-41.4709114373953;147.164398023149
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19175@eventor.orienteering.asn.au
 DTSTAMP:20230611T053754Z
 DTSTART:20230815T073000Z
@@ -7866,6 +7911,15 @@ DTSTART:20230821T083000Z
 DTEND:20230821T101500Z
 SUMMARY:Melbourne Park Street Monday Night Series - Mulgrave, Orienteering Victoria
 URL:https://eventor.orienteering.asn.au/Events/Show/19210
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19270@eventor.orienteering.asn.au
+DTSTAMP:20230704T234056Z
+DTSTART:20230821T140000Z
+DTEND:20230822T140000Z
+SUMMARY:TACO The Town Inveresk, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19270
+GEO:-41.422422593167;147.140984236059
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19176@eventor.orienteering.asn.au
