@@ -7206,7 +7206,7 @@ GEO:-37.8099152420048;145.191574700382
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18903@eventor.orienteering.asn.au
-DTSTAMP:20230705T012750Z
+DTSTAMP:20230706T104424Z
 DTSTART:20230705T073000Z
 DTEND:20230705T094500Z
 SUMMARY:Moonlight Madness #3 - Gladesville, Garingal Orienteers
@@ -7241,7 +7241,7 @@ GEO:-27.4417238695566;152.978400684421
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18756@eventor.orienteering.asn.au
-DTSTAMP:20230703T110110Z
+DTSTAMP:20230706T073103Z
 DTSTART:20230706T003000Z
 DTEND:20230706T010000Z
 SUMMARY:Rocks Riverside Park, Seventeen Mile Rocks. (BCC Sponsored) (MAPRUN EVENT), Orienteering Queensland
@@ -7351,7 +7351,7 @@ DTSTART:20230709T000000Z
 DTEND:20230709T033000Z
 SUMMARY:Waggaroos - AWOC Interclub #4, Walbundrie, Albury-Wodonga Orienteering Club / Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18591
-GEO:-35.6911887410571;146.728053378467
+GEO:-35.688887336531;146.735241984867
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18828@eventor.orienteering.asn.au
@@ -7456,7 +7456,7 @@ DTSTART:20230712T020000Z
 DTEND:20230712T040000Z
 SUMMARY:ACT Midweek Series: Lake Ginninderra, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19236
-GEO:-35.2277766442112;149.07473078028
+GEO:-35.2257325851855;149.070430934379
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19128@eventor.orienteering.asn.au
@@ -7487,7 +7487,7 @@ GEO:-34.6310725386006;139.129670239315
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19182@eventor.orienteering.asn.au
-DTSTAMP:20230626T043911Z
+DTSTAMP:20230706T002715Z
 DTSTART:20230712T230000Z
 DTEND:20230712T230000Z
 SUMMARY:Bluebottles July Training Camp at Belanglo, Orienteering NSW
@@ -7576,7 +7576,7 @@ GEO:-32.8859580358485;151.465986496015
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18690@eventor.orienteering.asn.au
-DTSTAMP:20230630T231057Z
+DTSTAMP:20230706T110916Z
 DTSTART:20230715T233000Z
 DTEND:20230716T020000Z
 SUMMARY:Ultrasprint - Chatswood, Garingal Orienteers
@@ -7603,7 +7603,7 @@ GEO:-37.7426626531111;145.134576953702
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17892@eventor.orienteering.asn.au
-DTSTAMP:20230330T002007Z
+DTSTAMP:20230706T002839Z
 DTSTART:20230716T000000Z
 DTEND:20230716T040000Z
 SUMMARY:ACT Classic Series: ACT League #4, Ballinafad Creek, Parawanga Orienteers
@@ -7947,6 +7947,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18736
 GEO:-27.4989291284518;153.004504353542
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19271@eventor.orienteering.asn.au
+DTSTAMP:20230706T030824Z
+DTSTART:20230726T020000Z
+DTEND:20230726T040000Z
+SUMMARY:ACT Midweek Series: Bluetts, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19271
+GEO:-35.2999339940086;149.008889722962
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19130@eventor.orienteering.asn.au
 DTSTAMP:20230611T114820Z
 DTSTART:20230726T083000Z
@@ -7975,7 +7984,7 @@ GEO:-32.8940643542115;151.697357960312
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19121@eventor.orienteering.asn.au
-DTSTAMP:20230604T233943Z
+DTSTAMP:20230706T102718Z
 DTSTART:20230727T003000Z
 DTEND:20230727T003000Z
 SUMMARY:Cicada Park, Chapel Hill Bush, street and park, Orienteering Queensland
@@ -8247,7 +8256,7 @@ UID:Event_17867@eventor.orienteering.asn.au
 DTSTAMP:20230522T032926Z
 DTSTART:20230805T003000Z
 DTEND:20230805T030000Z
-SUMMARY:ACT Metro Series: incl. Junior League #12, Narrabundah Hill, BAE Systems
+SUMMARY:ACT Metro Series: incl. Junior League #12, Narrabundah Hill, Weston Emus
 URL:https://eventor.orienteering.asn.au/Events/Show/17867
 END:VEVENT
 BEGIN:VEVENT
@@ -9016,10 +9025,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17870
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18541@eventor.orienteering.asn.au
-DTSTAMP:20230612T234945Z
+DTSTAMP:20230706T091830Z
 DTSTART:20230902T023000Z
 DTEND:20230902T063000Z
-SUMMARY:NSW MTBO Champs - Long, Bush n Beach Orienteering Club / Hastings Orienteering Group / Newcastle Orienteering Club
+SUMMARY:NSW MTBO Champs - LONG (pm), Bush n Beach Orienteering Club / Hastings Orienteering Group / Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18541
 GEO:-31.1025492928456;152.828099573909
 END:VEVENT
@@ -9043,10 +9052,10 @@ GEO:-37.0184406186584;144.305784515339
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18542@eventor.orienteering.asn.au
-DTSTAMP:20230629T042727Z
+DTSTAMP:20230706T091941Z
 DTSTART:20230902T230000Z
 DTEND:20230903T020000Z
-SUMMARY:NSW MTBO Champs - Middle, Bush n Beach Orienteering Club / Hastings Orienteering Group / Newcastle Orienteering Club
+SUMMARY:NSW MTBO Champs - MIDDLE (am), Bush n Beach Orienteering Club / Hastings Orienteering Group / Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18542
 GEO:-30.6692998592909;152.952265402865
 END:VEVENT
@@ -9103,10 +9112,10 @@ GEO:-34.200825497085;150.792537962811
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18543@eventor.orienteering.asn.au
-DTSTAMP:20230629T043149Z
+DTSTAMP:20230706T091111Z
 DTSTART:20230903T030000Z
 DTEND:20230903T053000Z
-SUMMARY:NSW MTBO Champs - Sprint, Bush n Beach Orienteering Club / Hastings Orienteering Group / Newcastle Orienteering Club
+SUMMARY:NSW MTBO Champs - SPRINT (pm), Bush n Beach Orienteering Club / Hastings Orienteering Group / Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18543
 GEO:-30.3261448647993;153.09965267328
 END:VEVENT

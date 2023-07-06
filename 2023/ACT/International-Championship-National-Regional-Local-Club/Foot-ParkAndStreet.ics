@@ -656,11 +656,11 @@ DTSTART:20230712T020000Z
 DTEND:20230712T040000Z
 SUMMARY:ACT Midweek Series: Lake Ginninderra, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19236
-GEO:-35.2277766442112;149.07473078028
+GEO:-35.2257325851855;149.070430934379
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17892@eventor.orienteering.asn.au
-DTSTAMP:20230330T002007Z
+DTSTAMP:20230706T002839Z
 DTSTART:20230716T000000Z
 DTEND:20230716T040000Z
 SUMMARY:ACT Classic Series: ACT League #4, Ballinafad Creek, Parawanga Orienteers
@@ -702,6 +702,15 @@ SUMMARY:ACT MapRun Street Series: Florey, 20-24 Jul, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18868
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19271@eventor.orienteering.asn.au
+DTSTAMP:20230706T030824Z
+DTSTART:20230726T020000Z
+DTEND:20230726T040000Z
+SUMMARY:ACT Midweek Series: Bluetts, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19271
+GEO:-35.2999339940086;149.008889722962
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17866@eventor.orienteering.asn.au
 DTSTAMP:20230522T032928Z
 DTSTART:20230729T003000Z
@@ -731,7 +740,7 @@ UID:Event_17867@eventor.orienteering.asn.au
 DTSTAMP:20230522T032926Z
 DTSTART:20230805T003000Z
 DTEND:20230805T030000Z
-SUMMARY:ACT Metro Series: incl. Junior League #12, Narrabundah Hill, BAE Systems
+SUMMARY:ACT Metro Series: incl. Junior League #12, Narrabundah Hill, Weston Emus
 URL:https://eventor.orienteering.asn.au/Events/Show/17867
 END:VEVENT
 BEGIN:VEVENT
