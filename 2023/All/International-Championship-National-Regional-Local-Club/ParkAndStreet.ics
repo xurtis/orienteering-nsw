@@ -2894,10 +2894,10 @@ GEO:-37.726451165807;145.069511431548
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19118@eventor.orienteering.asn.au
-DTSTAMP:20230618T004101Z
+DTSTAMP:20230710T101318Z
 DTSTART:20230623T230000Z
 DTEND:20230624T003000Z
-SUMMARY:Limestone Park - Active and Healthy Ipswich, Orienteering Queensland
+SUMMARY:Limestone Park - Active and Healthy Ipswich - free event, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19118
 END:VEVENT
 BEGIN:VEVENT
@@ -3060,6 +3060,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19137
 GEO:-38.1462690205878;144.366882204476
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19160@eventor.orienteering.asn.au
+DTSTAMP:20230710T102715Z
+DTSTART:20230708T140000Z
+DTEND:20230709T140000Z
+SUMMARY:MapRun Parks 2023 - Meadowlands, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19160
+GEO:-27.490487;153.116204
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18532@eventor.orienteering.asn.au
 DTSTAMP:20230709T045550Z
 DTSTART:20230709T003000Z
@@ -3133,7 +3142,7 @@ GEO:-38.271761934538;144.516624967045
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19272@eventor.orienteering.asn.au
-DTSTAMP:20230708T021833Z
+DTSTAMP:20230710T075933Z
 DTSTART:20230715T040000Z
 DTEND:20230715T060000Z
 SUMMARY:Coffs Score #4 - Tree Fern Creek Part 2, Bush n Beach Orienteering Club
@@ -3227,6 +3236,7 @@ DTSTART:20230724T070000Z
 DTEND:20230724T091500Z
 SUMMARY:ACT MapRun Street Series: Florey, 20-24 Jul, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18868
+GEO:-35.2260376912557;149.054559771666
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19125@eventor.orienteering.asn.au
@@ -3288,6 +3298,7 @@ DTSTART:20230731T070000Z
 DTEND:20230731T091500Z
 SUMMARY:ACT MapRun Street Series: Weston-Holder, 27-31 Jul, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18869
+GEO:-35.3377003971913;149.053614534529
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19126@eventor.orienteering.asn.au
@@ -3414,10 +3425,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18695
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18871@eventor.orienteering.asn.au
-DTSTAMP:20230328T013850Z
+DTSTAMP:20230710T035216Z
 DTSTART:20230814T070000Z
 DTEND:20230814T091500Z
-SUMMARY:ACT MapRun Street Series: TBA, 10-14 Aug, Orienteering ACT
+SUMMARY:ACT MapRun Street Series: Hackett, 10-14 Aug, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18871
 END:VEVENT
 BEGIN:VEVENT
@@ -3561,14 +3572,6 @@ DTSTART:20230830T083000Z
 DTEND:20230830T101500Z
 SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Heidelberg Heights, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19220
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18533@eventor.orienteering.asn.au
-DTSTAMP:20230122T095102Z
-DTSTART:20230903T003000Z
-DTEND:20230903T003000Z
-SUMMARY:Albany - ASHS & Mt Clarence, Albany & Denmark Hinterland Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18533
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18874@eventor.orienteering.asn.au

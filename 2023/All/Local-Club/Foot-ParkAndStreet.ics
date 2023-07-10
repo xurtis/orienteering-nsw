@@ -5914,10 +5914,10 @@ GEO:-27.6013416757748;153.145908845995
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19118@eventor.orienteering.asn.au
-DTSTAMP:20230618T004101Z
+DTSTAMP:20230710T101318Z
 DTSTART:20230623T230000Z
 DTEND:20230624T003000Z
-SUMMARY:Limestone Park - Active and Healthy Ipswich, Orienteering Queensland
+SUMMARY:Limestone Park - Active and Healthy Ipswich - free event, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19118
 END:VEVENT
 BEGIN:VEVENT
@@ -6000,6 +6000,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17025
 GEO:-34.6837430045056;138.966400583028
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19158@eventor.orienteering.asn.au
+DTSTAMP:20230710T101830Z
+DTSTART:20230624T140000Z
+DTEND:20230625T140000Z
+SUMMARY:MapRun Parks 2023 - Banks Street Reserve, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19158
+GEO:-27.437898;152.997434
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19181@eventor.orienteering.asn.au
 DTSTAMP:20230613T133658Z
 DTSTART:20230624T143000Z
@@ -6078,15 +6087,6 @@ DTEND:20230625T073000Z
 SUMMARY:Shearwater Forest (SWOT Bush Series 3), South-West Orienteering Trekkers
 URL:https://eventor.orienteering.asn.au/Events/Show/18987
 GEO:-33.3810824045736;115.631459717859
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19158@eventor.orienteering.asn.au
-DTSTAMP:20230609T050130Z
-DTSTART:20230625T060000Z
-DTEND:20230625T060000Z
-SUMMARY:MapRun Parks 2023 - Banks Street Reserve, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19158
-GEO:-27.437898;152.997434
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18864@eventor.orienteering.asn.au
@@ -6197,6 +6197,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19136
 GEO:-38.18550019406;144.394741803319
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19159@eventor.orienteering.asn.au
+DTSTAMP:20230710T102310Z
+DTSTART:20230701T140000Z
+DTEND:20230702T140000Z
+SUMMARY:MapRun Parks 2023 - Fig Tree Pocket - Biami Yumba Park, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19159
+GEO:-27.539398;152.966948
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18907@eventor.orienteering.asn.au
 DTSTAMP:20230702T074826Z
 DTSTART:20230701T220000Z
@@ -6276,15 +6285,6 @@ DTEND:20230702T013000Z
 SUMMARY:Bush 6 Jumbuck Ridge, Orienteering WA / Wullundigong Orienteers of the West
 URL:https://eventor.orienteering.asn.au/Events/Show/18741
 GEO:-31.7731242817925;116.05163227899
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19159@eventor.orienteering.asn.au
-DTSTAMP:20230609T051356Z
-DTSTART:20230702T060000Z
-DTEND:20230702T060000Z
-SUMMARY:MapRun Parks 2023 - Fig Tree Pocket - Biami Yumba Park, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19159
-GEO:-27.539398;152.966948
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19191@eventor.orienteering.asn.au
@@ -6392,6 +6392,15 @@ SUMMARY:Junior Camp Champs Closed Event, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19261
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19160@eventor.orienteering.asn.au
+DTSTAMP:20230710T102715Z
+DTSTART:20230708T140000Z
+DTEND:20230709T140000Z
+SUMMARY:MapRun Parks 2023 - Meadowlands, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19160
+GEO:-27.490487;153.116204
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19040@eventor.orienteering.asn.au
 DTSTAMP:20230703T232003Z
 DTSTART:20230708T140000Z
@@ -6470,15 +6479,6 @@ DTEND:20230709T033000Z
 SUMMARY:Port Lincoln: Donington, Lincoln Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18766
 GEO:-34.7294434123375;135.989875326793
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19160@eventor.orienteering.asn.au
-DTSTAMP:20230609T052022Z
-DTSTART:20230709T060000Z
-DTEND:20230709T060000Z
-SUMMARY:MapRun Parks 2023 - Meadowlands, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19160
-GEO:-27.490487;153.116204
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19015@eventor.orienteering.asn.au
@@ -6623,7 +6623,7 @@ GEO:-38.271761934538;144.516624967045
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19272@eventor.orienteering.asn.au
-DTSTAMP:20230708T021833Z
+DTSTAMP:20230710T075933Z
 DTSTART:20230715T040000Z
 DTEND:20230715T060000Z
 SUMMARY:Coffs Score #4 - Tree Fern Creek Part 2, Bush n Beach Orienteering Club
@@ -6632,11 +6632,12 @@ GEO:-30.2868316593894;153.107251786905
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19018@eventor.orienteering.asn.au
-DTSTAMP:20230622T055522Z
+DTSTAMP:20230709T211334Z
 DTSTART:20230715T140000Z
 DTEND:20230716T140000Z
 SUMMARY:Russells Plains - Northern Local #2, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/19018
+GEO:-41.4045805844545;147.172381786427
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18842@eventor.orienteering.asn.au
@@ -6694,7 +6695,7 @@ GEO:-31.9724193056581;116.065894902568
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19171@eventor.orienteering.asn.au
-DTSTAMP:20230703T001817Z
+DTSTAMP:20230710T065148Z
 DTSTART:20230716T020000Z
 DTEND:20230716T050000Z
 SUMMARY:NavDash 6 Jorgensen Park Single Entry/EOD, Kulgun 225 Orienteers / Orienteering WA
@@ -6703,7 +6704,7 @@ GEO:-31.9724982707771;116.065935928132
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19170@eventor.orienteering.asn.au
-DTSTAMP:20230708T050011Z
+DTSTAMP:20230710T064217Z
 DTSTART:20230716T020000Z
 DTEND:20230716T060000Z
 SUMMARY:NavDash 6 Club Relays Jorgensen Park - team entries, Kulgun 225 Orienteers / Orienteering WA
@@ -6787,6 +6788,7 @@ DTSTART:20230722T003000Z
 DTEND:20230722T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #10, West Stromlo North, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/17865
+GEO:-35.2997845777707;149.007850138603
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18323@eventor.orienteering.asn.au
@@ -6853,7 +6855,7 @@ GEO:-36.3382724175783;146.691554480522
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18590@eventor.orienteering.asn.au
-DTSTAMP:20230624T085816Z
+DTSTAMP:20230710T080043Z
 DTSTART:20230723T000000Z
 DTEND:20230723T033000Z
 SUMMARY:Waggaroos Local event, Charles Sturt Uni, Wagga and Riverina Occasional Orienteers
@@ -6880,7 +6882,7 @@ GEO:-26.490154;150.079749
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18916@eventor.orienteering.asn.au
-DTSTAMP:20230328T104616Z
+DTSTAMP:20230710T080223Z
 DTSTART:20230723T010000Z
 DTEND:20230723T030000Z
 SUMMARY:Tacking Point Orienteering, Hastings Orienteering Group
@@ -6912,6 +6914,7 @@ DTSTART:20230724T070000Z
 DTEND:20230724T091500Z
 SUMMARY:ACT MapRun Street Series: Florey, 20-24 Jul, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18868
+GEO:-35.2260376912557;149.054559771666
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19125@eventor.orienteering.asn.au
@@ -7045,6 +7048,7 @@ DTSTART:20230729T003000Z
 DTEND:20230729T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #11, Pine Island, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17866
+GEO:-35.4275049011071;149.064012752147
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18395@eventor.orienteering.asn.au
@@ -7186,6 +7190,7 @@ DTSTART:20230731T070000Z
 DTEND:20230731T091500Z
 SUMMARY:ACT MapRun Street Series: Weston-Holder, 27-31 Jul, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18869
+GEO:-35.3377003971913;149.053614534529
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19126@eventor.orienteering.asn.au
@@ -7260,6 +7265,7 @@ DTSTART:20230805T003000Z
 DTEND:20230805T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #12, Narrabundah Hill, Weston Emus
 URL:https://eventor.orienteering.asn.au/Events/Show/17867
+GEO:-35.3428675074077;149.026668879999
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18396@eventor.orienteering.asn.au
@@ -7280,7 +7286,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19225
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18677@eventor.orienteering.asn.au
-DTSTAMP:20230326T182314Z
+DTSTAMP:20230710T043009Z
 DTSTART:20230805T233000Z
 DTEND:20230805T233000Z
 SUMMARY:2023 Metro League #5, Uringa Orienteers
@@ -7374,12 +7380,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19217
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17868@eventor.orienteering.asn.au
-DTSTAMP:20230701T070104Z
+DTSTAMP:20230710T020022Z
 DTSTART:20230812T003000Z
 DTEND:20230812T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #13, Fadden Pines, Abominable O-Men
 URL:https://eventor.orienteering.asn.au/Events/Show/17868
-GEO:-35.4102978011241;149.119802755704
+GEO:-35.410360348597;149.119705386102
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18397@eventor.orienteering.asn.au
@@ -7433,7 +7439,7 @@ GEO:-42.9026868041141;147.328775536604
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18845@eventor.orienteering.asn.au
-DTSTAMP:20230317T002710Z
+DTSTAMP:20230709T232023Z
 DTSTART:20230812T233000Z
 DTEND:20230812T233000Z
 SUMMARY:Newcastle OY7, Newcastle Orienteering Club
@@ -7504,10 +7510,10 @@ GEO:-27.499782;152.963875
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18871@eventor.orienteering.asn.au
-DTSTAMP:20230328T013850Z
+DTSTAMP:20230710T035216Z
 DTSTART:20230814T070000Z
 DTEND:20230814T091500Z
-SUMMARY:ACT MapRun Street Series: TBA, 10-14 Aug, Orienteering ACT
+SUMMARY:ACT MapRun Street Series: Hackett, 10-14 Aug, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18871
 END:VEVENT
 BEGIN:VEVENT
@@ -7884,14 +7890,6 @@ DTEND:20230903T033000Z
 SUMMARY:Waggaroos Local event, Victory Memorial Gardens, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18595
 GEO:-35.1093552944227;147.369320145851
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18533@eventor.orienteering.asn.au
-DTSTAMP:20230122T095102Z
-DTSTART:20230903T003000Z
-DTEND:20230903T003000Z
-SUMMARY:Albany - ASHS & Mt Clarence, Albany & Denmark Hinterland Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18533
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18632@eventor.orienteering.asn.au

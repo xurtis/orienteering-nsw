@@ -1300,17 +1300,17 @@ GEO:-27.6013416757748;153.145908845995
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19118@eventor.orienteering.asn.au
-DTSTAMP:20230618T004101Z
+DTSTAMP:20230710T101318Z
 DTSTART:20230623T230000Z
 DTEND:20230624T003000Z
-SUMMARY:Limestone Park - Active and Healthy Ipswich, Orienteering Queensland
+SUMMARY:Limestone Park - Active and Healthy Ipswich - free event, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19118
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19158@eventor.orienteering.asn.au
-DTSTAMP:20230609T050130Z
-DTSTART:20230625T060000Z
-DTEND:20230625T060000Z
+DTSTAMP:20230710T101830Z
+DTSTART:20230624T140000Z
+DTEND:20230625T140000Z
 SUMMARY:MapRun Parks 2023 - Banks Street Reserve, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19158
 GEO:-27.437898;152.997434
@@ -1334,6 +1334,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/16772
 GEO:-27.4496461138036;153.02284246411
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19159@eventor.orienteering.asn.au
+DTSTAMP:20230710T102310Z
+DTSTART:20230701T140000Z
+DTEND:20230702T140000Z
+SUMMARY:MapRun Parks 2023 - Fig Tree Pocket - Biami Yumba Park, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19159
+GEO:-27.539398;152.966948
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18787@eventor.orienteering.asn.au
 DTSTAMP:20230702T065520Z
 DTSTART:20230701T230000Z
@@ -1350,15 +1359,6 @@ DTEND:20230702T013000Z
 SUMMARY:Aldershot Scout Camp, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19235
 GEO:-25.4643372915952;152.652608557972
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19159@eventor.orienteering.asn.au
-DTSTAMP:20230609T051356Z
-DTSTART:20230702T060000Z
-DTEND:20230702T060000Z
-SUMMARY:MapRun Parks 2023 - Fig Tree Pocket - Biami Yumba Park, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19159
-GEO:-27.539398;152.966948
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19259@eventor.orienteering.asn.au
@@ -1394,6 +1394,15 @@ SUMMARY:Junior Camp Champs Closed Event, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19261
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19160@eventor.orienteering.asn.au
+DTSTAMP:20230710T102715Z
+DTSTART:20230708T140000Z
+DTEND:20230709T140000Z
+SUMMARY:MapRun Parks 2023 - Meadowlands, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19160
+GEO:-27.490487;153.116204
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19003@eventor.orienteering.asn.au
 DTSTAMP:20230703T091343Z
 DTSTART:20230708T230000Z
@@ -1401,15 +1410,6 @@ DTEND:20230709T000000Z
 SUMMARY:Bush Orienteering at Nerang National Park, Gold Coast CONFIRMED, Paradise Lost Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19003
 GEO:-27.9858941613182;153.334328652062
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19160@eventor.orienteering.asn.au
-DTSTAMP:20230609T052022Z
-DTSTART:20230709T060000Z
-DTEND:20230709T060000Z
-SUMMARY:MapRun Parks 2023 - Meadowlands, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19160
-GEO:-27.490487;153.116204
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19183@eventor.orienteering.asn.au

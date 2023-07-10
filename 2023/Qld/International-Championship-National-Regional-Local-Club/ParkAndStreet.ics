@@ -632,10 +632,10 @@ GEO:-27.5184867423499;153.040858728062
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19118@eventor.orienteering.asn.au
-DTSTAMP:20230618T004101Z
+DTSTAMP:20230710T101318Z
 DTSTART:20230623T230000Z
 DTEND:20230624T003000Z
-SUMMARY:Limestone Park - Active and Healthy Ipswich, Orienteering Queensland
+SUMMARY:Limestone Park - Active and Healthy Ipswich - free event, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19118
 END:VEVENT
 BEGIN:VEVENT
@@ -645,6 +645,15 @@ DTSTART:20230707T230000Z
 DTEND:20230708T043000Z
 SUMMARY:Cooroy training - Orienteering Instructor, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19193
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19160@eventor.orienteering.asn.au
+DTSTAMP:20230710T102715Z
+DTSTART:20230708T140000Z
+DTEND:20230709T140000Z
+SUMMARY:MapRun Parks 2023 - Meadowlands, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19160
+GEO:-27.490487;153.116204
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19172@eventor.orienteering.asn.au

@@ -692,6 +692,7 @@ DTSTART:20230722T003000Z
 DTEND:20230722T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #10, West Stromlo North, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/17865
+GEO:-35.2997845777707;149.007850138603
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18868@eventor.orienteering.asn.au
@@ -700,6 +701,7 @@ DTSTART:20230724T070000Z
 DTEND:20230724T091500Z
 SUMMARY:ACT MapRun Street Series: Florey, 20-24 Jul, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18868
+GEO:-35.2260376912557;149.054559771666
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19271@eventor.orienteering.asn.au
@@ -717,6 +719,7 @@ DTSTART:20230729T003000Z
 DTEND:20230729T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #11, Pine Island, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17866
+GEO:-35.4275049011071;149.064012752147
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17893@eventor.orienteering.asn.au
@@ -734,6 +737,7 @@ DTSTART:20230731T070000Z
 DTEND:20230731T091500Z
 SUMMARY:ACT MapRun Street Series: Weston-Holder, 27-31 Jul, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18869
+GEO:-35.3377003971913;149.053614534529
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17867@eventor.orienteering.asn.au
@@ -742,6 +746,7 @@ DTSTART:20230805T003000Z
 DTEND:20230805T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #12, Narrabundah Hill, Weston Emus
 URL:https://eventor.orienteering.asn.au/Events/Show/17867
+GEO:-35.3428675074077;149.026668879999
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18870@eventor.orienteering.asn.au
@@ -753,19 +758,19 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18870
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17868@eventor.orienteering.asn.au
-DTSTAMP:20230701T070104Z
+DTSTAMP:20230710T020022Z
 DTSTART:20230812T003000Z
 DTEND:20230812T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #13, Fadden Pines, Abominable O-Men
 URL:https://eventor.orienteering.asn.au/Events/Show/17868
-GEO:-35.4102978011241;149.119802755704
+GEO:-35.410360348597;149.119705386102
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18871@eventor.orienteering.asn.au
-DTSTAMP:20230328T013850Z
+DTSTAMP:20230710T035216Z
 DTSTART:20230814T070000Z
 DTEND:20230814T091500Z
-SUMMARY:ACT MapRun Street Series: TBA, 10-14 Aug, Orienteering ACT
+SUMMARY:ACT MapRun Street Series: Hackett, 10-14 Aug, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18871
 END:VEVENT
 BEGIN:VEVENT
