@@ -3154,6 +3154,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/16768
 GEO:-27.3780769479398;153.045242893828
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18944@eventor.orienteering.asn.au
+DTSTAMP:20230712T051119Z
+DTSTART:20230422T140000Z
+DTEND:20230423T140000Z
+SUMMARY:MapRun Parks 2023 - Seven Hills, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18944
+GEO:-27.4749017009084;153.08864520161
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18988@eventor.orienteering.asn.au
 DTSTAMP:20230417T224707Z
 DTSTART:20230422T213000Z
@@ -3206,15 +3215,6 @@ DTEND:20230423T033000Z
 SUMMARY:Waggaroos Come and Try It, Pomingalarna, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18584
 GEO:-35.1214905187231;147.309090343097
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18944@eventor.orienteering.asn.au
-DTSTAMP:20230408T015732Z
-DTSTART:20230423T060000Z
-DTEND:20230423T060000Z
-SUMMARY:MapRun Parks 2023 - Seven Hills, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18944
-GEO:-27.4749017009084;153.08864520161
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18932@eventor.orienteering.asn.au
@@ -3787,6 +3787,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18342
 GEO:-34.4174603687469;150.88268220759
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19043@eventor.orienteering.asn.au
+DTSTAMP:20230712T051352Z
+DTSTART:20230513T140000Z
+DTEND:20230514T140000Z
+SUMMARY:MapRun Parks 2023 - 7th Brigade Park, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19043
+GEO:-27.37761;153.034401
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19054@eventor.orienteering.asn.au
 DTSTAMP:20230503T131630Z
 DTSTART:20230513T143000Z
@@ -3911,15 +3920,6 @@ DTEND:20230514T073000Z
 SUMMARY:Crooked Brook (SWOT Bush Series 1), South-West Orienteering Trekkers
 URL:https://eventor.orienteering.asn.au/Events/Show/19013
 GEO:-33.4643801593851;115.794386326239
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19043@eventor.orienteering.asn.au
-DTSTAMP:20230507T011052Z
-DTSTART:20230514T060000Z
-DTEND:20230514T060000Z
-SUMMARY:MapRun Parks 2023 - 7th Brigade Park, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19043
-GEO:-27.37761;153.034401
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16947@eventor.orienteering.asn.au
@@ -5697,7 +5697,7 @@ GEO:-34.7397223886869;138.958334138427
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19236@eventor.orienteering.asn.au
-DTSTAMP:20230629T031031Z
+DTSTAMP:20230712T043519Z
 DTSTART:20230712T020000Z
 DTEND:20230712T040000Z
 SUMMARY:ACT Midweek Series: Lake Ginninderra, Orienteering ACT
@@ -5982,15 +5982,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18676
 GEO:-33.7566464565247;151.238049777063
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18644@eventor.orienteering.asn.au
-DTSTAMP:20230701T071611Z
-DTSTART:20230723T000000Z
-DTEND:20230723T000000Z
-SUMMARY:Ballarat Winter Series #4 Lake Daylesford, Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18644
-GEO:-37.3488208156751;144.134177871989
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19067@eventor.orienteering.asn.au
 DTSTAMP:20230508T021519Z
 DTSTART:20230723T000000Z
@@ -5998,6 +5989,15 @@ DTEND:20230723T020000Z
 SUMMARY:AWOC training #4, Albury-Wodonga Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19067
 GEO:-36.3382724175783;146.691554480522
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18644@eventor.orienteering.asn.au
+DTSTAMP:20230712T030800Z
+DTSTART:20230723T000000Z
+DTEND:20230723T020000Z
+SUMMARY:Ballarat Winter Series #4 Lake Daylesford, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18644
+GEO:-37.3488208156751;144.134177871989
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19008@eventor.orienteering.asn.au
@@ -6019,9 +6019,9 @@ GEO:-35.0641135121082;147.355379349877
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18631@eventor.orienteering.asn.au
-DTSTAMP:20230204T034604Z
+DTSTAMP:20230712T075947Z
 DTSTART:20230723T003000Z
-DTEND:20230723T003000Z
+DTEND:20230723T043000Z
 SUMMARY:Keithcot Farm, Tintookies Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18631
 GEO:-34.7983309349021;138.678757421329

@@ -1696,15 +1696,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19139
 GEO:-38.1222173718193;144.332705549997
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18644@eventor.orienteering.asn.au
-DTSTAMP:20230701T071611Z
-DTSTART:20230723T000000Z
-DTEND:20230723T000000Z
-SUMMARY:Ballarat Winter Series #4 Lake Daylesford, Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18644
-GEO:-37.3488208156751;144.134177871989
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19067@eventor.orienteering.asn.au
 DTSTAMP:20230508T021519Z
 DTSTART:20230723T000000Z
@@ -1712,6 +1703,15 @@ DTEND:20230723T020000Z
 SUMMARY:AWOC training #4, Albury-Wodonga Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19067
 GEO:-36.3382724175783;146.691554480522
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18644@eventor.orienteering.asn.au
+DTSTAMP:20230712T030800Z
+DTSTART:20230723T000000Z
+DTEND:20230723T020000Z
+SUMMARY:Ballarat Winter Series #4 Lake Daylesford, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18644
+GEO:-37.3488208156751;144.134177871989
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19125@eventor.orienteering.asn.au

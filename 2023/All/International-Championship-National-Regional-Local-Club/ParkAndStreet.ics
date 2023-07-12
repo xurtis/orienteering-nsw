@@ -2211,6 +2211,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/16768
 GEO:-27.3780769479398;153.045242893828
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18944@eventor.orienteering.asn.au
+DTSTAMP:20230712T051119Z
+DTSTART:20230422T140000Z
+DTEND:20230423T140000Z
+SUMMARY:MapRun Parks 2023 - Seven Hills, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18944
+GEO:-27.4749017009084;153.08864520161
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18988@eventor.orienteering.asn.au
 DTSTAMP:20230417T224707Z
 DTSTART:20230422T213000Z
@@ -2218,15 +2227,6 @@ DTEND:20230422T233000Z
 SUMMARY:TTOC - World Book Day Scatter-O, Totally Tropical Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18988
 GEO:-19.2612674728109;146.815853302973
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18944@eventor.orienteering.asn.au
-DTSTAMP:20230408T015732Z
-DTSTART:20230423T060000Z
-DTEND:20230423T060000Z
-SUMMARY:MapRun Parks 2023 - Seven Hills, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18944
-GEO:-27.4749017009084;153.08864520161
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18855@eventor.orienteering.asn.au
@@ -2479,6 +2479,15 @@ DTEND:20230513T060000Z
 SUMMARY:Illawarra - Gwynneville, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18342
 GEO:-34.4174603687469;150.88268220759
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19043@eventor.orienteering.asn.au
+DTSTAMP:20230712T051352Z
+DTSTART:20230513T140000Z
+DTEND:20230514T140000Z
+SUMMARY:MapRun Parks 2023 - 7th Brigade Park, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19043
+GEO:-27.37761;153.034401
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18630@eventor.orienteering.asn.au
@@ -3222,9 +3231,9 @@ GEO:-38.1222173718193;144.332705549997
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18631@eventor.orienteering.asn.au
-DTSTAMP:20230204T034604Z
+DTSTAMP:20230712T075947Z
 DTSTART:20230723T003000Z
-DTEND:20230723T003000Z
+DTEND:20230723T043000Z
 SUMMARY:Keithcot Farm, Tintookies Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18631
 GEO:-34.7983309349021;138.678757421329
