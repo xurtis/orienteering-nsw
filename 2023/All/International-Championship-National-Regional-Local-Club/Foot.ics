@@ -5397,7 +5397,7 @@ GEO:-31.8609769377648;116.006664899957
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18391@eventor.orienteering.asn.au
-DTSTAMP:20230701T051804Z
+DTSTAMP:20230714T051502Z
 DTSTART:20230701T023000Z
 DTEND:20230701T040000Z
 SUMMARY:Bendigo Bush 9 - Virginia Hill, Bendigo Orienteers
@@ -5814,7 +5814,7 @@ GEO:-42.8744137510803;147.299288509116
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18446@eventor.orienteering.asn.au
-DTSTAMP:20230627T115153Z
+DTSTAMP:20230713T140413Z
 DTSTART:20230716T000000Z
 DTEND:20230716T030000Z
 SUMMARY:MelBushO 7  - Candlebark Park, Nillumbik Emus Orienteering Club
@@ -5903,18 +5903,19 @@ GEO:-21.1735710941858;149.149711096959
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18685@eventor.orienteering.asn.au
-DTSTAMP:20230208T031331Z
+DTSTAMP:20230714T100700Z
 DTSTART:20230720T003000Z
 DTEND:20230720T010000Z
-SUMMARY:Haig Street Bushland, Brassall. Bush., Orienteering Queensland
+SUMMARY:Haig Street Bushland, Brassall Bush., Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18685
+GEO:-27.5923541270582;152.733973291161
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19276@eventor.orienteering.asn.au
-DTSTAMP:20230711T122425Z
+DTSTAMP:20230714T071113Z
 DTSTART:20230721T233000Z
 DTEND:20230722T020000Z
-SUMMARY:Training Morning, Bold Horizons Event Organiser
+SUMMARY:Coaching and training morning - Manly Vale, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/19276
 GEO:-33.782678;151.255477
 END:VEVENT
@@ -6170,6 +6171,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19277
 GEO:-33.7458095512485;151.050141511593
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19279@eventor.orienteering.asn.au
+DTSTAMP:20230714T073025Z
+DTSTART:20230728T233000Z
+DTEND:20230729T020000Z
+SUMMARY:SOS Northside - Bobbin Head, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/19279
+GEO:-33.6591365385014;151.159550777561
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19256@eventor.orienteering.asn.au
 DTSTAMP:20230630T040556Z
 DTSTART:20230728T233000Z
@@ -6339,11 +6349,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19173
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18910@eventor.orienteering.asn.au
-DTSTAMP:20230328T052608Z
+DTSTAMP:20230714T075331Z
 DTSTART:20230801T233000Z
-DTEND:20230801T233000Z
-SUMMARY:Sydney West Primary Schools Orienteering Champs A, Bold Horizons Event Organiser / Western and Hills Orienteers
+DTEND:20230802T043000Z
+SUMMARY:Sydney West Primary Schools Orienteering Champs, Bold Horizons Event Organiser / Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18910
+GEO:-33.7657710563263;150.855732711607
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18920@eventor.orienteering.asn.au
@@ -6356,19 +6367,38 @@ GEO:-33.7413616066173;151.213816257953
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18911@eventor.orienteering.asn.au
-DTSTAMP:20230328T052831Z
+DTSTAMP:20230714T075725Z
 DTSTART:20230802T233000Z
-DTEND:20230802T233000Z
-SUMMARY:Sydney West Primary Schools Orienteering Champs B, Bold Horizons Event Organiser / Western and Hills Orienteers
+DTEND:20230803T043000Z
+SUMMARY:Sydney West Primary Schools Orienteering Champs, Bold Horizons Event Organiser / Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18911
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18912@eventor.orienteering.asn.au
-DTSTAMP:20230328T053240Z
+DTSTAMP:20230714T075854Z
 DTSTART:20230803T233000Z
-DTEND:20230803T233000Z
+DTEND:20230804T043000Z
 SUMMARY:Sydney West Secondary Schools Orienteering Championships, Bold Horizons Event Organiser / Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18912
+GEO:-33.765771056106;150.855743406909
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19281@eventor.orienteering.asn.au
+DTSTAMP:20230714T074826Z
+DTSTART:20230804T233000Z
+DTEND:20230805T020000Z
+SUMMARY:SOS Hills - North Rocks, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/19281
+GEO:-33.7686664022892;151.025923068667
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19280@eventor.orienteering.asn.au
+DTSTAMP:20230714T073955Z
+DTSTART:20230804T233000Z
+DTEND:20230805T020000Z
+SUMMARY:SOS Northside - St Ives, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/19280
+GEO:-33.7073657151073;151.174419464772
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17867@eventor.orienteering.asn.au
@@ -6399,7 +6429,7 @@ GEO:-41.8246653270127;147.844125754067
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19009@eventor.orienteering.asn.au
-DTSTAMP:20230703T234235Z
+DTSTAMP:20230714T005711Z
 DTSTART:20230805T140000Z
 DTEND:20230806T140000Z
 SUMMARY:Royal George - Fun Team Event, Orienteering Tasmania
@@ -6414,6 +6444,14 @@ DTEND:20230806T140000Z
 SUMMARY:Vic Series (Bush) 6 - Musk Vale, Daylesford, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18429
 GEO:-37.3706514807061;144.145666483336
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19278@eventor.orienteering.asn.au
+DTSTAMP:20230713T231725Z
+DTSTART:20230805T230000Z
+DTEND:20230806T000000Z
+SUMMARY:Griffith University Gold Coast Campus TBC, Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19278
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18677@eventor.orienteering.asn.au
@@ -6452,10 +6490,10 @@ GEO:-27.474741;153.088718
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18182@eventor.orienteering.asn.au
-DTSTAMP:20221107T023922Z
+DTSTAMP:20230714T080141Z
 DTSTART:20230806T233000Z
-DTEND:20230806T233000Z
-SUMMARY:2023 Sydney North Schools Orienteering Championships, Bold Horizons Event Organiser / Orienteering NSW
+DTEND:20230807T043000Z
+SUMMARY:Sydney North Schools Orienteering Championships, Bold Horizons Event Organiser / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/18182
 END:VEVENT
 BEGIN:VEVENT
@@ -7305,15 +7343,6 @@ SUMMARY:Newcastle OY 8 / Hunter Valley Champs, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18846
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19069@eventor.orienteering.asn.au
-DTSTAMP:20230508T060951Z
-DTSTART:20230924T000000Z
-DTEND:20230924T043000Z
-SUMMARY:AWOC DuO Championships, Albury-Wodonga Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19069
-GEO:-36.1521797469766;146.609662847021
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18999@eventor.orienteering.asn.au
 DTSTAMP:20230422T100403Z
 DTSTART:20230924T010000Z
@@ -7985,6 +8014,15 @@ DTSTART:20231118T130000Z
 DTEND:20231119T130000Z
 SUMMARY:Melbourne City Race - Docklands, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18436
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19069@eventor.orienteering.asn.au
+DTSTAMP:20230714T014510Z
+DTSTART:20231118T230000Z
+DTEND:20231119T033000Z
+SUMMARY:AWOC DuO Championships, Albury-Wodonga Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19069
+GEO:-36.1521797469766;146.609662847021
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19144@eventor.orienteering.asn.au

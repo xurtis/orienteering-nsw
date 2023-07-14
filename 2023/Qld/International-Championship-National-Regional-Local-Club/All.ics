@@ -1547,11 +1547,12 @@ GEO:-21.1735710941858;149.149711096959
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18685@eventor.orienteering.asn.au
-DTSTAMP:20230208T031331Z
+DTSTAMP:20230714T100700Z
 DTSTART:20230720T003000Z
 DTEND:20230720T010000Z
-SUMMARY:Haig Street Bushland, Brassall. Bush., Orienteering Queensland
+SUMMARY:Haig Street Bushland, Brassall Bush., Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18685
+GEO:-27.5923541270582;152.733973291161
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17884@eventor.orienteering.asn.au
@@ -1659,6 +1660,14 @@ DTEND:20230806T140000Z
 SUMMARY:MTBO - Beerburrum West, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/17938
 GEO:-26.9291143127374;152.893271989231
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19278@eventor.orienteering.asn.au
+DTSTAMP:20230713T231725Z
+DTSTART:20230805T230000Z
+DTEND:20230806T000000Z
+SUMMARY:Griffith University Gold Coast Campus TBC, Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19278
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19164@eventor.orienteering.asn.au
