@@ -1392,7 +1392,7 @@ GEO:-30.2868316593894;153.107251786905
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18842@eventor.orienteering.asn.au
-DTSTAMP:20230704T002027Z
+DTSTAMP:20230716T020955Z
 DTSTART:20230715T233000Z
 DTEND:20230715T233000Z
 SUMMARY:Newcastle NOY6 - Richmond Vale (new map), Newcastle Orienteering Club
@@ -1410,7 +1410,7 @@ GEO:-33.7910771082659;151.187947571689
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18796@eventor.orienteering.asn.au
-DTSTAMP:20230711T033315Z
+DTSTAMP:20230716T082700Z
 DTSTART:20230716T000000Z
 DTEND:20230716T040000Z
 SUMMARY:West Newholme, Northern Tablelands Orienteering Club
@@ -1425,6 +1425,14 @@ DTEND:20230722T020000Z
 SUMMARY:Coaching and training morning - Manly Vale, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/19276
 GEO:-33.782678;151.255477
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19282@eventor.orienteering.asn.au
+DTSTAMP:20230716T063218Z
+DTSTART:20230721T233000Z
+DTEND:20230722T020000Z
+SUMMARY:SOS Term 3 season pass, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/19282
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18676@eventor.orienteering.asn.au
@@ -1534,14 +1542,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19256
 GEO:-32.6521455090804;151.295056028377
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18689@eventor.orienteering.asn.au
-DTSTAMP:20230605T052133Z
-DTSTART:20230729T233000Z
-DTEND:20230729T233000Z
-SUMMARY:Come and Try It + Club Championship event - open to all, Garingal Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18689
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19255@eventor.orienteering.asn.au
 DTSTAMP:20230630T040604Z
 DTSTART:20230729T233000Z
@@ -1549,6 +1549,15 @@ DTEND:20230730T020000Z
 SUMMARY:Newcastle Shorts Weekend (SUN ONLY), Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19255
 GEO:-32.8940134297904;151.697349146762
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18689@eventor.orienteering.asn.au
+DTSTAMP:20230716T111324Z
+DTSTART:20230729T233000Z
+DTEND:20230730T023000Z
+SUMMARY:Come and Try It + Club Championship event - open to all, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18689
+GEO:-33.7042624178185;151.131482932266
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18592@eventor.orienteering.asn.au
