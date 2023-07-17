@@ -1333,13 +1333,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18570
 GEO:-21.1735710941858;149.149711096959
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18685@eventor.orienteering.asn.au
-DTSTAMP:20230714T100700Z
+UID:Event_19284@eventor.orienteering.asn.au
+DTSTAMP:20230717T021830Z
 DTSTART:20230720T003000Z
 DTEND:20230720T010000Z
-SUMMARY:Haig Street Bushland, Brassall Bush., Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/18685
-GEO:-27.5923541270582;152.733973291161
+SUMMARY:Haig Street Quarry and Bushland, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19284
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18323@eventor.orienteering.asn.au
@@ -1466,6 +1465,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18669
 GEO:-27.6529656566235;153.006056696029
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18788@eventor.orienteering.asn.au
+DTSTAMP:20230717T084449Z
+DTSTART:20230819T230000Z
+DTEND:20230820T030000Z
+SUMMARY:McAdam's, off Old Stanthorpe Road, 15km north of Dalveen, Bullecourt Boulder Bounders
+URL:https://eventor.orienteering.asn.au/Events/Show/18788
+GEO:-28.3354675032474;152.050228496973
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19166@eventor.orienteering.asn.au
 DTSTAMP:20230609T055624Z
 DTSTART:20230820T060000Z
@@ -1490,15 +1498,6 @@ DTSTART:20230824T003000Z
 DTEND:20230824T010000Z
 SUMMARY:Mt Coot-tha. Bush., Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18439
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18788@eventor.orienteering.asn.au
-DTSTAMP:20230302T065212Z
-DTSTART:20230826T230000Z
-DTEND:20230827T030000Z
-SUMMARY:McAdam's, off Old Stanthorpe Road, 15km north of Dalveen, Bullecourt Boulder Bounders
-URL:https://eventor.orienteering.asn.au/Events/Show/18788
-GEO:-28.3354675032474;152.050228496973
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18732@eventor.orienteering.asn.au

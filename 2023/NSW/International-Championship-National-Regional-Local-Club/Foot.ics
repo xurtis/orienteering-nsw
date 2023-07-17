@@ -1534,7 +1534,7 @@ GEO:-32.8859580358485;151.465986496015
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18690@eventor.orienteering.asn.au
-DTSTAMP:20230709T015416Z
+DTSTAMP:20230717T023342Z
 DTSTART:20230715T233000Z
 DTEND:20230716T020000Z
 SUMMARY:Ultrasprint - Chatswood, Garingal Orienteers
@@ -1816,6 +1816,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18909
 GEO:-34.0551181368047;150.689069284383
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19273@eventor.orienteering.asn.au
+DTSTAMP:20230717T040832Z
+DTSTART:20230812T040000Z
+DTEND:20230812T060000Z
+SUMMARY:Coffs Score #5 - Sawtell, Bush n Beach Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19273
+GEO:-30.3588920270905;153.098927819399
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18695@eventor.orienteering.asn.au
 DTSTAMP:20230211T060609Z
 DTSTART:20230812T043000Z
@@ -1877,24 +1886,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17826
 GEO:-34.9049251919819;149.456326392782
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19273@eventor.orienteering.asn.au
-DTSTAMP:20230708T022215Z
-DTSTART:20230819T040000Z
-DTEND:20230819T060000Z
-SUMMARY:Coffs Score #5 - Sawtell, Bush n Beach Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19273
-GEO:-30.3588920270905;153.098927819399
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_17827@eventor.orienteering.asn.au
-DTSTAMP:20230330T002020Z
-DTSTART:20230819T140000Z
-DTEND:20230820T140000Z
-SUMMARY:ACT Long Distance Championships: ACT League #7, NSW SL #11, Murdering Shed, Orienteering ACT / Orienteering NSW / Red Roos
-URL:https://eventor.orienteering.asn.au/Events/Show/17827
-GEO:-35.4698906282695;149.362741055141
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18688@eventor.orienteering.asn.au
 DTSTAMP:20230614T051415Z
 DTSTART:20230819T233000Z
@@ -1910,6 +1901,15 @@ DTEND:20230820T033000Z
 SUMMARY:Waggaroos Local event, Pomingalarna, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18594
 GEO:-35.1164459048212;147.296360378491
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17827@eventor.orienteering.asn.au
+DTSTAMP:20230717T012833Z
+DTSTART:20230820T000000Z
+DTEND:20230820T040000Z
+SUMMARY:ACT Long Distance Championships: ACT League #7, NSW SL #11, Foxlow Flats, Orienteering ACT / Orienteering NSW / Red Roos
+URL:https://eventor.orienteering.asn.au/Events/Show/17827
+GEO:-35.5265229699443;149.342832258548
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18917@eventor.orienteering.asn.au

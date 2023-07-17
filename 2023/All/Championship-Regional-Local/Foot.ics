@@ -1986,6 +1986,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17892
 GEO:-35.6807591475124;149.460271355306
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19284@eventor.orienteering.asn.au
+DTSTAMP:20230717T021830Z
+DTSTART:20230720T003000Z
+DTEND:20230720T010000Z
+SUMMARY:Haig Street Quarry and Bushland, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19284
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17884@eventor.orienteering.asn.au
 DTSTAMP:20230619T032747Z
 DTSTART:20230722T003000Z
@@ -2032,7 +2040,7 @@ GEO:-33.7566464565247;151.238049777063
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19008@eventor.orienteering.asn.au
-DTSTAMP:20230702T010719Z
+DTSTAMP:20230717T063045Z
 DTSTART:20230723T000000Z
 DTEND:20230723T033000Z
 SUMMARY:Pittwater - Southern Regional Championships - OST 8, Australopers
@@ -2321,15 +2329,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19011
 GEO:-41.267796;148.144062
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_17827@eventor.orienteering.asn.au
-DTSTAMP:20230330T002020Z
-DTSTART:20230819T140000Z
-DTEND:20230820T140000Z
-SUMMARY:ACT Long Distance Championships: ACT League #7, NSW SL #11, Murdering Shed, Orienteering ACT / Orienteering NSW / Red Roos
-URL:https://eventor.orienteering.asn.au/Events/Show/17827
-GEO:-35.4698906282695;149.362741055141
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19012@eventor.orienteering.asn.au
 DTSTAMP:20230425T032624Z
 DTSTART:20230819T140000Z
@@ -2346,6 +2345,15 @@ DTEND:20230820T033000Z
 SUMMARY:Waggaroos Local event, Pomingalarna, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18594
 GEO:-35.1164459048212;147.296360378491
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17827@eventor.orienteering.asn.au
+DTSTAMP:20230717T012833Z
+DTSTART:20230820T000000Z
+DTEND:20230820T040000Z
+SUMMARY:ACT Long Distance Championships: ACT League #7, NSW SL #11, Foxlow Flats, Orienteering ACT / Orienteering NSW / Red Roos
+URL:https://eventor.orienteering.asn.au/Events/Show/17827
+GEO:-35.5265229699443;149.342832258548
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18430@eventor.orienteering.asn.au

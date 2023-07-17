@@ -6892,7 +6892,7 @@ GEO:-32.8859580358485;151.465986496015
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18690@eventor.orienteering.asn.au
-DTSTAMP:20230709T015416Z
+DTSTAMP:20230717T023342Z
 DTSTART:20230715T233000Z
 DTEND:20230716T020000Z
 SUMMARY:Ultrasprint - Chatswood, Garingal Orienteers
@@ -6928,7 +6928,7 @@ GEO:-30.4323964912023;151.626772715747
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18410@eventor.orienteering.asn.au
-DTSTAMP:20230703T025406Z
+DTSTAMP:20230717T060719Z
 DTSTART:20230716T003000Z
 DTEND:20230716T033000Z
 SUMMARY:Crafers/Cleland MTBO, Orienteering SA
@@ -7026,13 +7026,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19129
 GEO:-37.8204700328388;145.030351224863
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18685@eventor.orienteering.asn.au
-DTSTAMP:20230714T100700Z
+UID:Event_19284@eventor.orienteering.asn.au
+DTSTAMP:20230717T021830Z
 DTSTART:20230720T003000Z
 DTEND:20230720T010000Z
-SUMMARY:Haig Street Bushland, Brassall Bush., Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/18685
-GEO:-27.5923541270582;152.733973291161
+SUMMARY:Haig Street Quarry and Bushland, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19284
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19276@eventor.orienteering.asn.au
@@ -7732,6 +7731,15 @@ SUMMARY:Melbourne Park Street Saturday Series - La Trobe Uni, Nillumbik Emus Ori
 URL:https://eventor.orienteering.asn.au/Events/Show/19226
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19273@eventor.orienteering.asn.au
+DTSTAMP:20230717T040832Z
+DTSTART:20230812T040000Z
+DTEND:20230812T060000Z
+SUMMARY:Coffs Score #5 - Sawtell, Bush n Beach Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19273
+GEO:-30.3588920270905;153.098927819399
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18695@eventor.orienteering.asn.au
 DTSTAMP:20230211T060609Z
 DTSTART:20230812T043000Z
@@ -7931,15 +7939,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18377
 GEO:-33.234993571971;138.998322207255
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19273@eventor.orienteering.asn.au
-DTSTAMP:20230708T022215Z
-DTSTART:20230819T040000Z
-DTEND:20230819T060000Z
-SUMMARY:Coffs Score #5 - Sawtell, Bush n Beach Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19273
-GEO:-30.3588920270905;153.098927819399
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18669@eventor.orienteering.asn.au
 DTSTAMP:20230424T022401Z
 DTSTART:20230819T230000Z
@@ -7947,6 +7946,15 @@ DTEND:20230820T023000Z
 SUMMARY:Glider Forest, Parkinson, Toohey Forest Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18669
 GEO:-27.6529656566235;153.006056696029
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18788@eventor.orienteering.asn.au
+DTSTAMP:20230717T084449Z
+DTSTART:20230819T230000Z
+DTEND:20230820T030000Z
+SUMMARY:McAdam's, off Old Stanthorpe Road, 15km north of Dalveen, Bullecourt Boulder Bounders
+URL:https://eventor.orienteering.asn.au/Events/Show/18788
+GEO:-28.3354675032474;152.050228496973
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18688@eventor.orienteering.asn.au
@@ -8083,15 +8091,6 @@ SUMMARY:Melbourne Park Street Saturday Series - Park Orchards, Dandenong Ranges 
 URL:https://eventor.orienteering.asn.au/Events/Show/19228
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18788@eventor.orienteering.asn.au
-DTSTAMP:20230302T065212Z
-DTSTART:20230826T230000Z
-DTEND:20230827T030000Z
-SUMMARY:McAdam's, off Old Stanthorpe Road, 15km north of Dalveen, Bullecourt Boulder Bounders
-URL:https://eventor.orienteering.asn.au/Events/Show/18788
-GEO:-28.3354675032474;152.050228496973
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19232@eventor.orienteering.asn.au
 DTSTAMP:20230627T080402Z
 DTSTART:20230827T010000Z
@@ -8192,6 +8191,14 @@ DTEND:20230831T023000Z
 SUMMARY:Mid week - Boronia Bushland Reserve, Boronia, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18881
 GEO:-27.6933581115108;153.027413218821
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19289@eventor.orienteering.asn.au
+DTSTAMP:20230717T034844Z
+DTSTART:20230901T003000Z
+DTEND:20230901T024500Z
+SUMMARY:Schools MTBO Event, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/19289
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17870@eventor.orienteering.asn.au
@@ -8895,6 +8902,14 @@ SUMMARY:ACT Runners Shop Twilight Series #1: Oakey Hill, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19196
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19285@eventor.orienteering.asn.au
+DTSTAMP:20230717T024646Z
+DTSTART:20231025T204000Z
+DTEND:20231025T214500Z
+SUMMARY:SC-ORE #1: Hawker Primary School, Hawker, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19285
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18435@eventor.orienteering.asn.au
 DTSTAMP:20230626T065659Z
 DTSTART:20231028T130000Z
@@ -8980,6 +8995,14 @@ SUMMARY:ACT Runners Shop Twilight Series #2: Red Hill South, Parawanga Orienteer
 URL:https://eventor.orienteering.asn.au/Events/Show/19197
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19286@eventor.orienteering.asn.au
+DTSTAMP:20230717T024823Z
+DTSTART:20231101T204500Z
+DTEND:20231101T214500Z
+SUMMARY:SC-ORE #2: Blue Gum Primary School, Hackett, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19286
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18469@eventor.orienteering.asn.au
 DTSTAMP:20230118T114556Z
 DTSTART:20231104T053000Z
@@ -9062,6 +9085,14 @@ DTSTART:20231108T060000Z
 DTEND:20231108T083000Z
 SUMMARY:ACT Runners Shop Twilight Series #3: O'Connor Ridge, Abominable O-Men
 URL:https://eventor.orienteering.asn.au/Events/Show/19198
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19287@eventor.orienteering.asn.au
+DTSTAMP:20230717T024932Z
+DTSTART:20231108T204500Z
+DTEND:20231108T214500Z
+SUMMARY:SC-ORE #3: Haig Park, Turner, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19287
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19275@eventor.orienteering.asn.au
@@ -9179,6 +9210,14 @@ DTEND:20231115T091500Z
 SUMMARY:MapRun Night Nav Glenella, 21Degrees South Multisport Assoc.
 URL:https://eventor.orienteering.asn.au/Events/Show/18574
 GEO:-21.1123156478759;149.145682419019
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19288@eventor.orienteering.asn.au
+DTSTAMP:20230717T025908Z
+DTSTART:20231115T204500Z
+DTEND:20231115T214500Z
+SUMMARY:SC-ORE #4: Latham Primary School, Latham, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19288
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18470@eventor.orienteering.asn.au

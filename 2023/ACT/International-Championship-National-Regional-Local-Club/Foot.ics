@@ -499,12 +499,12 @@ GEO:-34.9049251919819;149.456326392782
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17827@eventor.orienteering.asn.au
-DTSTAMP:20230330T002020Z
-DTSTART:20230819T140000Z
-DTEND:20230820T140000Z
-SUMMARY:ACT Long Distance Championships: ACT League #7, NSW SL #11, Murdering Shed, Orienteering ACT / Orienteering NSW / Red Roos
+DTSTAMP:20230717T012833Z
+DTSTART:20230820T000000Z
+DTEND:20230820T040000Z
+SUMMARY:ACT Long Distance Championships: ACT League #7, NSW SL #11, Foxlow Flats, Orienteering ACT / Orienteering NSW / Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/17827
-GEO:-35.4698906282695;149.362741055141
+GEO:-35.5265229699443;149.342832258548
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17869@eventor.orienteering.asn.au
@@ -547,12 +547,28 @@ SUMMARY:ACT Runners Shop Twilight Series #1: Oakey Hill, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19196
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19285@eventor.orienteering.asn.au
+DTSTAMP:20230717T024646Z
+DTSTART:20231025T204000Z
+DTEND:20231025T214500Z
+SUMMARY:SC-ORE #1: Hawker Primary School, Hawker, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19285
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19197@eventor.orienteering.asn.au
 DTSTAMP:20230629T011655Z
 DTSTART:20231101T060000Z
 DTEND:20231101T083000Z
 SUMMARY:ACT Runners Shop Twilight Series #2: Red Hill South, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19197
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19286@eventor.orienteering.asn.au
+DTSTAMP:20230717T024823Z
+DTSTART:20231101T204500Z
+DTEND:20231101T214500Z
+SUMMARY:SC-ORE #2: Blue Gum Primary School, Hackett, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19286
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19198@eventor.orienteering.asn.au
@@ -563,12 +579,28 @@ SUMMARY:ACT Runners Shop Twilight Series #3: O'Connor Ridge, Abominable O-Men
 URL:https://eventor.orienteering.asn.au/Events/Show/19198
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19287@eventor.orienteering.asn.au
+DTSTAMP:20230717T024932Z
+DTSTART:20231108T204500Z
+DTEND:20231108T214500Z
+SUMMARY:SC-ORE #3: Haig Park, Turner, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19287
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19199@eventor.orienteering.asn.au
 DTSTAMP:20230629T011723Z
 DTSTART:20231115T060000Z
 DTEND:20231115T083000Z
 SUMMARY:ACT Runners Shop Twilight Series #4: Gossan Hill, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19199
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19288@eventor.orienteering.asn.au
+DTSTAMP:20230717T025908Z
+DTSTART:20231115T204500Z
+DTEND:20231115T214500Z
+SUMMARY:SC-ORE #4: Latham Primary School, Latham, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19288
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18948@eventor.orienteering.asn.au

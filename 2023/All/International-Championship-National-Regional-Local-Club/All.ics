@@ -7586,7 +7586,7 @@ GEO:-32.8859580358485;151.465986496015
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18690@eventor.orienteering.asn.au
-DTSTAMP:20230709T015416Z
+DTSTAMP:20230717T023342Z
 DTSTART:20230715T233000Z
 DTEND:20230716T020000Z
 SUMMARY:Ultrasprint - Chatswood, Garingal Orienteers
@@ -7631,7 +7631,7 @@ GEO:-30.4323964912023;151.626772715747
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18410@eventor.orienteering.asn.au
-DTSTAMP:20230703T025406Z
+DTSTAMP:20230717T060719Z
 DTSTART:20230716T003000Z
 DTEND:20230716T033000Z
 SUMMARY:Crafers/Cleland MTBO, Orienteering SA
@@ -7729,13 +7729,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19129
 GEO:-37.8204700328388;145.030351224863
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18685@eventor.orienteering.asn.au
-DTSTAMP:20230714T100700Z
+UID:Event_19284@eventor.orienteering.asn.au
+DTSTAMP:20230717T021830Z
 DTSTART:20230720T003000Z
 DTEND:20230720T010000Z
-SUMMARY:Haig Street Bushland, Brassall Bush., Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/18685
-GEO:-27.5923541270582;152.733973291161
+SUMMARY:Haig Street Quarry and Bushland, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19284
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19276@eventor.orienteering.asn.au
@@ -7855,7 +7854,7 @@ GEO:-37.3488208156751;144.134177871989
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19008@eventor.orienteering.asn.au
-DTSTAMP:20230702T010719Z
+DTSTAMP:20230717T063045Z
 DTSTART:20230723T000000Z
 DTEND:20230723T033000Z
 SUMMARY:Pittwater - Southern Regional Championships - OST 8, Australopers
@@ -7900,7 +7899,7 @@ GEO:-31.4748987152896;152.933381764834
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18743@eventor.orienteering.asn.au
-DTSTAMP:20230424T015701Z
+DTSTAMP:20230717T100427Z
 DTSTART:20230723T013000Z
 DTEND:20230723T050000Z
 SUMMARY:MTBO 5 WA Middle Distance Championships, Orienteering WA
@@ -8516,6 +8515,15 @@ SUMMARY:Melbourne Park Street Saturday Series - La Trobe Uni, Nillumbik Emus Ori
 URL:https://eventor.orienteering.asn.au/Events/Show/19226
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19273@eventor.orienteering.asn.au
+DTSTAMP:20230717T040832Z
+DTSTART:20230812T040000Z
+DTEND:20230812T060000Z
+SUMMARY:Coffs Score #5 - Sawtell, Bush n Beach Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19273
+GEO:-30.3588920270905;153.098927819399
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18695@eventor.orienteering.asn.au
 DTSTAMP:20230211T060609Z
 DTSTART:20230812T043000Z
@@ -8767,24 +8775,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18377
 GEO:-33.234993571971;138.998322207255
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19273@eventor.orienteering.asn.au
-DTSTAMP:20230708T022215Z
-DTSTART:20230819T040000Z
-DTEND:20230819T060000Z
-SUMMARY:Coffs Score #5 - Sawtell, Bush n Beach Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19273
-GEO:-30.3588920270905;153.098927819399
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_17827@eventor.orienteering.asn.au
-DTSTAMP:20230330T002020Z
-DTSTART:20230819T140000Z
-DTEND:20230820T140000Z
-SUMMARY:ACT Long Distance Championships: ACT League #7, NSW SL #11, Murdering Shed, Orienteering ACT / Orienteering NSW / Red Roos
-URL:https://eventor.orienteering.asn.au/Events/Show/17827
-GEO:-35.4698906282695;149.362741055141
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19012@eventor.orienteering.asn.au
 DTSTAMP:20230425T032624Z
 DTSTART:20230819T140000Z
@@ -8801,6 +8791,15 @@ DTEND:20230820T023000Z
 SUMMARY:Glider Forest, Parkinson, Toohey Forest Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18669
 GEO:-27.6529656566235;153.006056696029
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18788@eventor.orienteering.asn.au
+DTSTAMP:20230717T084449Z
+DTSTART:20230819T230000Z
+DTEND:20230820T030000Z
+SUMMARY:McAdam's, off Old Stanthorpe Road, 15km north of Dalveen, Bullecourt Boulder Bounders
+URL:https://eventor.orienteering.asn.au/Events/Show/18788
+GEO:-28.3354675032474;152.050228496973
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18688@eventor.orienteering.asn.au
@@ -8826,6 +8825,15 @@ DTEND:20230820T033000Z
 SUMMARY:Waggaroos Local event, Pomingalarna, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18594
 GEO:-35.1164459048212;147.296360378491
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17827@eventor.orienteering.asn.au
+DTSTAMP:20230717T012833Z
+DTSTART:20230820T000000Z
+DTEND:20230820T040000Z
+SUMMARY:ACT Long Distance Championships: ACT League #7, NSW SL #11, Foxlow Flats, Orienteering ACT / Orienteering NSW / Red Roos
+URL:https://eventor.orienteering.asn.au/Events/Show/17827
+GEO:-35.5265229699443;149.342832258548
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18430@eventor.orienteering.asn.au
@@ -8963,15 +8971,6 @@ SUMMARY:MTBO Vic Series #3 - Fingerpost Corner, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18345
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18788@eventor.orienteering.asn.au
-DTSTAMP:20230302T065212Z
-DTSTART:20230826T230000Z
-DTEND:20230827T030000Z
-SUMMARY:McAdam's, off Old Stanthorpe Road, 15km north of Dalveen, Bullecourt Boulder Bounders
-URL:https://eventor.orienteering.asn.au/Events/Show/18788
-GEO:-28.3354675032474;152.050228496973
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_17759@eventor.orienteering.asn.au
 DTSTAMP:20230707T052945Z
 DTSTART:20230826T233000Z
@@ -9099,6 +9098,14 @@ DTEND:20230901T140000Z
 SUMMARY:SA School Relay Championships, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18792
 GEO:-34.8734477845165;138.689432868122
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19289@eventor.orienteering.asn.au
+DTSTAMP:20230717T034844Z
+DTSTART:20230901T003000Z
+DTEND:20230901T024500Z
+SUMMARY:Schools MTBO Event, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/19289
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18245@eventor.orienteering.asn.au
@@ -10102,6 +10109,14 @@ SUMMARY:ACT Runners Shop Twilight Series #1: Oakey Hill, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19196
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19285@eventor.orienteering.asn.au
+DTSTAMP:20230717T024646Z
+DTSTART:20231025T204000Z
+DTEND:20231025T214500Z
+SUMMARY:SC-ORE #1: Hawker Primary School, Hawker, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19285
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18346@eventor.orienteering.asn.au
 DTSTAMP:20230112T051346Z
 DTSTART:20231027T130000Z
@@ -10203,6 +10218,14 @@ SUMMARY:ACT Runners Shop Twilight Series #2: Red Hill South, Parawanga Orienteer
 URL:https://eventor.orienteering.asn.au/Events/Show/19197
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19286@eventor.orienteering.asn.au
+DTSTAMP:20230717T024823Z
+DTSTART:20231101T204500Z
+DTEND:20231101T214500Z
+SUMMARY:SC-ORE #2: Blue Gum Primary School, Hackett, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19286
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18469@eventor.orienteering.asn.au
 DTSTAMP:20230118T114556Z
 DTSTART:20231104T053000Z
@@ -10285,6 +10308,14 @@ DTSTART:20231108T060000Z
 DTEND:20231108T083000Z
 SUMMARY:ACT Runners Shop Twilight Series #3: O'Connor Ridge, Abominable O-Men
 URL:https://eventor.orienteering.asn.au/Events/Show/19198
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19287@eventor.orienteering.asn.au
+DTSTAMP:20230717T024932Z
+DTSTART:20231108T204500Z
+DTEND:20231108T214500Z
+SUMMARY:SC-ORE #3: Haig Park, Turner, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19287
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19275@eventor.orienteering.asn.au
@@ -10411,6 +10442,14 @@ DTEND:20231115T091500Z
 SUMMARY:MapRun Night Nav Glenella, 21Degrees South Multisport Assoc.
 URL:https://eventor.orienteering.asn.au/Events/Show/18574
 GEO:-21.1123156478759;149.145682419019
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19288@eventor.orienteering.asn.au
+DTSTAMP:20230717T025908Z
+DTSTART:20231115T204500Z
+DTEND:20231115T214500Z
+SUMMARY:SC-ORE #4: Latham Primary School, Latham, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19288
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18470@eventor.orienteering.asn.au
