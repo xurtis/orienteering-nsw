@@ -1751,7 +1751,7 @@ GEO:-37.944686648869;145.080250610455
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18447@eventor.orienteering.asn.au
-DTSTAMP:20230627T081831Z
+DTSTAMP:20230720T031921Z
 DTSTART:20230730T000000Z
 DTEND:20230730T000000Z
 SUMMARY:MelBushO 8 - Plenty Gorge, South Morang, Yarra Valley Orienteering Club
@@ -1875,6 +1875,15 @@ DTSTART:20230819T033000Z
 DTEND:20230819T051000Z
 SUMMARY:Melbourne Park Street Saturday Series - Blackburn South, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19227
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19292@eventor.orienteering.asn.au
+DTSTAMP:20230720T105521Z
+DTSTART:20230819T080000Z
+DTEND:20230819T110000Z
+SUMMARY:Bendigo Orienteers dinner, Bendigo Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19292
+GEO:-36.7644992335144;144.269033640558
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19068@eventor.orienteering.asn.au
