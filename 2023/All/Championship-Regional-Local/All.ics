@@ -2389,7 +2389,7 @@ GEO:-35.2885960643513;149.144394463142
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19284@eventor.orienteering.asn.au
-DTSTAMP:20230717T021830Z
+DTSTAMP:20230721T023924Z
 DTSTART:20230720T003000Z
 DTEND:20230720T010000Z
 SUMMARY:Haig Street Quarry and Bushland, Orienteering Queensland
@@ -2619,15 +2619,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19010
 GEO:-41.825856;147.900348
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19009@eventor.orienteering.asn.au
-DTSTAMP:20230714T005711Z
-DTSTART:20230805T140000Z
-DTEND:20230806T140000Z
-SUMMARY:Royal George - Fun Team Event, Orienteering Tasmania
-URL:https://eventor.orienteering.asn.au/Events/Show/19009
-GEO:-41.8248544489721;147.844921990053
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18429@eventor.orienteering.asn.au
 DTSTAMP:20230708T152759Z
 DTSTART:20230805T140000Z
@@ -2652,6 +2643,15 @@ DTSTART:20230805T233000Z
 DTEND:20230805T233000Z
 SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18844
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19009@eventor.orienteering.asn.au
+DTSTAMP:20230721T121839Z
+DTSTART:20230806T000000Z
+DTEND:20230806T043000Z
+SUMMARY:Royal George - Fun Team Event, Orienteering Tasmania
+URL:https://eventor.orienteering.asn.au/Events/Show/19009
+GEO:-41.8267332592562;147.901529141179
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18182@eventor.orienteering.asn.au

@@ -5904,7 +5904,7 @@ GEO:-21.1735710941858;149.149711096959
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19284@eventor.orienteering.asn.au
-DTSTAMP:20230717T021830Z
+DTSTAMP:20230721T023924Z
 DTSTART:20230720T003000Z
 DTEND:20230720T010000Z
 SUMMARY:Haig Street Quarry and Bushland, Orienteering Queensland
@@ -5997,7 +5997,7 @@ DTSTART:20230723T000000Z
 DTEND:20230723T020000Z
 SUMMARY:AWOC training #4, Albury-Wodonga Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19067
-GEO:-36.3382724175783;146.691554480522
+GEO:-36.3549092097262;146.679227052668
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18644@eventor.orienteering.asn.au
@@ -6135,10 +6135,10 @@ GEO:-32.8940643542115;151.697357960312
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19121@eventor.orienteering.asn.au
-DTSTAMP:20230706T102718Z
+DTSTAMP:20230721T031831Z
 DTSTART:20230727T003000Z
 DTEND:20230727T003000Z
-SUMMARY:Cicada Park, Chapel Hill Bush, street and park, Orienteering Queensland
+SUMMARY:Cicada Park, Chapel Hill Bush, street and park (MapRun), Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19121
 GEO:-27.4951474937162;152.941934206727
 END:VEVENT
@@ -6252,7 +6252,7 @@ GEO:-32.8940134297904;151.697349146762
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18689@eventor.orienteering.asn.au
-DTSTAMP:20230718T110315Z
+DTSTAMP:20230721T014232Z
 DTSTART:20230729T233000Z
 DTEND:20230730T023000Z
 SUMMARY:Come and Try It + Club Championship event - open to all, Garingal Orienteers
@@ -6437,15 +6437,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19010
 GEO:-41.825856;147.900348
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19009@eventor.orienteering.asn.au
-DTSTAMP:20230714T005711Z
-DTSTART:20230805T140000Z
-DTEND:20230806T140000Z
-SUMMARY:Royal George - Fun Team Event, Orienteering Tasmania
-URL:https://eventor.orienteering.asn.au/Events/Show/19009
-GEO:-41.8248544489721;147.844921990053
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18429@eventor.orienteering.asn.au
 DTSTAMP:20230708T152759Z
 DTSTART:20230805T140000Z
@@ -6487,6 +6478,15 @@ DTEND:20230806T000000Z
 SUMMARY:Bush event #6 Gosling Creek - Pairs Event, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18885
 GEO:-33.3265595342471;149.08527829107
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19009@eventor.orienteering.asn.au
+DTSTAMP:20230721T121839Z
+DTSTART:20230806T000000Z
+DTEND:20230806T043000Z
+SUMMARY:Royal George - Fun Team Event, Orienteering Tasmania
+URL:https://eventor.orienteering.asn.au/Events/Show/19009
+GEO:-41.8267332592562;147.901529141179
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19164@eventor.orienteering.asn.au
@@ -6610,12 +6610,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18845
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18448@eventor.orienteering.asn.au
-DTSTAMP:20230113T062455Z
+DTSTAMP:20230720T204904Z
 DTSTART:20230813T000000Z
 DTEND:20230813T000000Z
 SUMMARY:MelBushO 9 - Cardinia Reservoir Park, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18448
-GEO:-37.9564781495329;145.382141642718
+GEO:-37.9699674796448;145.394735645196
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18981@eventor.orienteering.asn.au
@@ -6697,6 +6697,15 @@ DTEND:20230815T140000Z
 SUMMARY:VerTACO Kings Meadows, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/19269
 GEO:-41.466266864179;147.160490811702
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19293@eventor.orienteering.asn.au
+DTSTAMP:20230721T120327Z
+DTSTART:20230815T000000Z
+DTEND:20230815T043000Z
+SUMMARY:45th Hunter Schools Orienteering Championships - MINMI, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19293
+GEO:-32.8606725570496;151.618553888625
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19175@eventor.orienteering.asn.au
@@ -6851,11 +6860,12 @@ GEO:-37.2625406968214;144.267501695212
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18178@eventor.orienteering.asn.au
-DTSTAMP:20221104T041008Z
+DTSTAMP:20230721T084653Z
 DTSTART:20230820T003000Z
 DTEND:20230820T033000Z
-SUMMARY:Merridee Orienteer of the Year event, Wallaringa Orienteering Club
+SUMMARY:Merridee Orienteer of the Year long OY event, Wallaringa Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18178
+GEO:-33.3016231634825;139.004184961339
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18917@eventor.orienteering.asn.au

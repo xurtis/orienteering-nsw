@@ -769,15 +769,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19010
 GEO:-41.825856;147.900348
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19009@eventor.orienteering.asn.au
-DTSTAMP:20230714T005711Z
-DTSTART:20230805T140000Z
-DTEND:20230806T140000Z
-SUMMARY:Royal George - Fun Team Event, Orienteering Tasmania
-URL:https://eventor.orienteering.asn.au/Events/Show/19009
-GEO:-41.8248544489721;147.844921990053
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18429@eventor.orienteering.asn.au
 DTSTAMP:20230708T152759Z
 DTSTART:20230805T140000Z
@@ -785,6 +776,15 @@ DTEND:20230806T140000Z
 SUMMARY:Vic Series (Bush) 6 - Musk Vale, Daylesford, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18429
 GEO:-37.3706514807061;144.145666483336
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19009@eventor.orienteering.asn.au
+DTSTAMP:20230721T121839Z
+DTSTART:20230806T000000Z
+DTEND:20230806T043000Z
+SUMMARY:Royal George - Fun Team Event, Orienteering Tasmania
+URL:https://eventor.orienteering.asn.au/Events/Show/19009
+GEO:-41.8267332592562;147.901529141179
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18745@eventor.orienteering.asn.au
