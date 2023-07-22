@@ -2397,7 +2397,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19284
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17884@eventor.orienteering.asn.au
-DTSTAMP:20230719T100145Z
+DTSTAMP:20230722T023948Z
 DTSTART:20230722T003000Z
 DTEND:20230722T003000Z
 SUMMARY:2023 QLD Schools Championships - Sprint - Miles, Orienteering Queensland
@@ -2406,7 +2406,7 @@ GEO:-26.655332574634;150.182927901329
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17865@eventor.orienteering.asn.au
-DTSTAMP:20230522T032930Z
+DTSTAMP:20230722T031438Z
 DTSTART:20230722T003000Z
 DTEND:20230722T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #10, West Stromlo North, Bushflyers
@@ -2415,7 +2415,7 @@ GEO:-35.2997845777707;149.007850138603
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18322@eventor.orienteering.asn.au
-DTSTAMP:20230720T091349Z
+DTSTAMP:20230722T080357Z
 DTSTART:20230722T040000Z
 DTEND:20230722T040000Z
 SUMMARY:2023 QLD Schools Championships - Hagaby - Gurulmundi SF, Orienteering Queensland
@@ -2610,8 +2610,16 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17867
 GEO:-35.3428675074077;149.026668879999
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19294@eventor.orienteering.asn.au
+DTSTAMP:20230722T051932Z
+DTSTART:20230805T040000Z
+DTEND:20230805T040000Z
+SUMMARY:OV Event Organising workshop - computer-related aspects, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/19294
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19010@eventor.orienteering.asn.au
-DTSTAMP:20230703T234451Z
+DTSTAMP:20230721T234609Z
 DTSTART:20230805T040000Z
 DTEND:20230805T040000Z
 SUMMARY:Royal George - OST 9, Australopers
@@ -2646,10 +2654,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18844
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19009@eventor.orienteering.asn.au
-DTSTAMP:20230721T121839Z
+DTSTAMP:20230721T234513Z
 DTSTART:20230806T000000Z
 DTEND:20230806T043000Z
-SUMMARY:Royal George - Fun Team Event, Orienteering Tasmania
+SUMMARY:Royal George - Tasmanian Relay Championships, Orienteering Tasmania
 URL:https://eventor.orienteering.asn.au/Events/Show/19009
 GEO:-41.8267332592562;147.901529141179
 END:VEVENT
@@ -3035,14 +3043,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17517
 GEO:-27.5257174373978;153.236382794529
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19088@eventor.orienteering.asn.au
-DTSTAMP:20230516T081109Z
-DTSTART:20230909T140000Z
-DTEND:20230910T140000Z
-SUMMARY:(TBA) - OST 10, Pathfinders
-URL:https://eventor.orienteering.asn.au/Events/Show/19088
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_17715@eventor.orienteering.asn.au
 DTSTAMP:20230716T080653Z
 DTSTART:20230909T140000Z
@@ -3059,6 +3059,14 @@ DTEND:20230910T140000Z
 SUMMARY:Australian MTBO Champs - Long Distance, Multi Terrain Bike Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17518
 GEO:-27.6342020575121;153.261650028677
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19088@eventor.orienteering.asn.au
+DTSTAMP:20230722T000450Z
+DTSTART:20230909T140000Z
+DTEND:20230910T140000Z
+SUMMARY:Redbanks/Curryjong Rivulet - OST 10, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/19088
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18431@eventor.orienteering.asn.au

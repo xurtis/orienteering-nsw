@@ -7755,7 +7755,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19282
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17884@eventor.orienteering.asn.au
-DTSTAMP:20230719T100145Z
+DTSTAMP:20230722T023948Z
 DTSTART:20230722T003000Z
 DTEND:20230722T003000Z
 SUMMARY:2023 QLD Schools Championships - Sprint - Miles, Orienteering Queensland
@@ -7764,7 +7764,7 @@ GEO:-26.655332574634;150.182927901329
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17865@eventor.orienteering.asn.au
-DTSTAMP:20230522T032930Z
+DTSTAMP:20230722T031438Z
 DTSTART:20230722T003000Z
 DTEND:20230722T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #10, West Stromlo North, Bushflyers
@@ -7773,7 +7773,7 @@ GEO:-35.2997845777707;149.007850138603
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18323@eventor.orienteering.asn.au
-DTSTAMP:20230719T104930Z
+DTSTAMP:20230722T023752Z
 DTSTART:20230722T013000Z
 DTEND:20230722T013000Z
 SUMMARY:Public Sprint - Miles, Orienteering Queensland / Range Runners Orienteering Club
@@ -7782,7 +7782,7 @@ GEO:-26.6554709428209;150.185156623939
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18394@eventor.orienteering.asn.au
-DTSTAMP:20230715T124422Z
+DTSTAMP:20230722T052313Z
 DTSTART:20230722T023000Z
 DTEND:20230722T040000Z
 SUMMARY:Bendigo Bush 11 - Smiths Reef, Bendigo Orienteers
@@ -7800,7 +7800,7 @@ GEO:-37.853877260354;145.180299607077
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18322@eventor.orienteering.asn.au
-DTSTAMP:20230720T091349Z
+DTSTAMP:20230722T080357Z
 DTSTART:20230722T040000Z
 DTEND:20230722T040000Z
 SUMMARY:2023 QLD Schools Championships - Hagaby - Gurulmundi SF, Orienteering Queensland
@@ -7872,10 +7872,10 @@ GEO:-35.0641135121082;147.355379349877
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18631@eventor.orienteering.asn.au
-DTSTAMP:20230720T071243Z
+DTSTAMP:20230722T022205Z
 DTSTART:20230723T003000Z
 DTEND:20230723T030000Z
-SUMMARY:Keithcot Farm, Tintookies Orienteers
+SUMMARY:Keithcot Farm Sprint, Tintookies Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18631
 GEO:-34.7983309349021;138.678757421329
 END:VEVENT
@@ -8186,10 +8186,10 @@ GEO:-34.4276174740253;150.417994295972
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19262@eventor.orienteering.asn.au
-DTSTAMP:20230703T074815Z
+DTSTAMP:20230722T022247Z
 DTSTART:20230730T003000Z
 DTEND:20230730T033000Z
-SUMMARY:Cheeseboard Hill, Saltbush Orienteers
+SUMMARY:Whyalla: Cheeseboard Hill, Saltbush Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19262
 GEO:-32.9816709036833;137.522984637207
 END:VEVENT
@@ -8351,8 +8351,16 @@ SUMMARY:Melbourne Park Street Saturday Series - Tullamore, Yarra Valley Orientee
 URL:https://eventor.orienteering.asn.au/Events/Show/19225
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19294@eventor.orienteering.asn.au
+DTSTAMP:20230722T051932Z
+DTSTART:20230805T040000Z
+DTEND:20230805T040000Z
+SUMMARY:OV Event Organising workshop - computer-related aspects, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/19294
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19010@eventor.orienteering.asn.au
-DTSTAMP:20230703T234451Z
+DTSTAMP:20230721T234609Z
 DTSTART:20230805T040000Z
 DTEND:20230805T040000Z
 SUMMARY:Royal George - OST 9, Australopers
@@ -8413,10 +8421,10 @@ GEO:-33.3265595342471;149.08527829107
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19009@eventor.orienteering.asn.au
-DTSTAMP:20230721T121839Z
+DTSTAMP:20230721T234513Z
 DTSTART:20230806T000000Z
 DTEND:20230806T043000Z
-SUMMARY:Royal George - Fun Team Event, Orienteering Tasmania
+SUMMARY:Royal George - Tasmanian Relay Championships, Orienteering Tasmania
 URL:https://eventor.orienteering.asn.au/Events/Show/19009
 GEO:-41.8267332592562;147.901529141179
 END:VEVENT
@@ -9380,14 +9388,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18378
 GEO:-34.1784043693521;140.761724408162
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19088@eventor.orienteering.asn.au
-DTSTAMP:20230516T081109Z
-DTSTART:20230909T140000Z
-DTEND:20230910T140000Z
-SUMMARY:(TBA) - OST 10, Pathfinders
-URL:https://eventor.orienteering.asn.au/Events/Show/19088
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_17715@eventor.orienteering.asn.au
 DTSTAMP:20230716T080653Z
 DTSTART:20230909T140000Z
@@ -9404,6 +9404,14 @@ DTEND:20230910T140000Z
 SUMMARY:Australian MTBO Champs - Long Distance, Multi Terrain Bike Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17518
 GEO:-27.6342020575121;153.261650028677
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19088@eventor.orienteering.asn.au
+DTSTAMP:20230722T000450Z
+DTSTART:20230909T140000Z
+DTEND:20230910T140000Z
+SUMMARY:Redbanks/Curryjong Rivulet - OST 10, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/19088
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18431@eventor.orienteering.asn.au
@@ -9649,15 +9657,6 @@ DTSTART:20230923T033000Z
 DTEND:20230923T051000Z
 SUMMARY:Melbourne Park Street Saturday Series - Middle Mullum, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19231
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18984@eventor.orienteering.asn.au
-DTSTAMP:20230421T013316Z
-DTSTART:20230923T140000Z
-DTEND:20230924T140000Z
-SUMMARY:Curryjong Rivulet Redbanks - Southern Local #11, Australopers
-URL:https://eventor.orienteering.asn.au/Events/Show/18984
-GEO:-42.7057391388604;147.722562474485
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18846@eventor.orienteering.asn.au
