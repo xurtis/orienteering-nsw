@@ -954,7 +954,7 @@ GEO:-34.9954142643642;138.700908103626
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18631@eventor.orienteering.asn.au
-DTSTAMP:20230722T022205Z
+DTSTAMP:20230723T051103Z
 DTSTART:20230723T003000Z
 DTEND:20230723T030000Z
 SUMMARY:Keithcot Farm Sprint, Tintookies Orienteers
@@ -986,6 +986,22 @@ DTSTART:20230730T010000Z
 DTEND:20230730T033000Z
 SUMMARY:Port Lincoln: Mt Dutton, Lincoln Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18767
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19297@eventor.orienteering.asn.au
+DTSTAMP:20230723T130739Z
+DTSTART:20230803T061500Z
+DTEND:20230803T073000Z
+SUMMARY:Central Adelaide Schools Zone Event 9 - Goodwood Orphanage, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/19297
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19295@eventor.orienteering.asn.au
+DTSTAMP:20230723T130325Z
+DTSTART:20230810T061500Z
+DTEND:20230810T073000Z
+SUMMARY:Central Adelaide Schools Zone Event 10- Tusmore Park, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/19295
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18314@eventor.orienteering.asn.au
@@ -1024,6 +1040,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18462
 GEO:-35.0104285341905;138.636321394662
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19296@eventor.orienteering.asn.au
+DTSTAMP:20230723T130902Z
+DTSTART:20230817T061500Z
+DTEND:20230817T073000Z
+SUMMARY:Central Adelaide Schools Zone Event 11 - West Parklands, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/19296
+GEO:-34.9226930447276;138.584103138863
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18377@eventor.orienteering.asn.au
 DTSTAMP:20230617T074652Z
 DTSTART:20230819T040000Z
@@ -1040,6 +1065,14 @@ DTEND:20230820T033000Z
 SUMMARY:Merridee Orienteer of the Year long OY event, Wallaringa Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18178
 GEO:-33.3016231634825;139.004184961339
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19298@eventor.orienteering.asn.au
+DTSTAMP:20230723T130830Z
+DTSTART:20230824T061500Z
+DTEND:20230824T073000Z
+SUMMARY:Central Adelaide Schools Zone Event 12 - Hazelwood Park, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/19298
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18765@eventor.orienteering.asn.au

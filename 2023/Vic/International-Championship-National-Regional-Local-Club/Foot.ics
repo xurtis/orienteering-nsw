@@ -540,15 +540,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18391
 GEO:-36.7096428949537;144.242893118668
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18642@eventor.orienteering.asn.au
-DTSTAMP:20230629T002448Z
-DTSTART:20230702T000000Z
-DTEND:20230702T000000Z
-SUMMARY:Ballarat Winter Series #2 Yuille Wetlands , Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18642
-GEO:-37.5912017737273;143.846103381261
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19066@eventor.orienteering.asn.au
 DTSTAMP:20230522T230621Z
 DTSTART:20230702T000000Z
@@ -613,7 +604,7 @@ GEO:-37.7426626531111;145.134576953702
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18394@eventor.orienteering.asn.au
-DTSTAMP:20230722T052313Z
+DTSTAMP:20230723T091403Z
 DTSTART:20230722T023000Z
 DTEND:20230722T040000Z
 SUMMARY:Bendigo Bush 11 - Smiths Reef, Bendigo Orienteers
@@ -628,15 +619,6 @@ DTEND:20230723T020000Z
 SUMMARY:AWOC training #4, Albury-Wodonga Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19067
 GEO:-36.3549092097262;146.679227052668
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18644@eventor.orienteering.asn.au
-DTSTAMP:20230718T111050Z
-DTSTART:20230723T000000Z
-DTEND:20230723T020000Z
-SUMMARY:Ballarat Winter Series #4 Lake Daylesford (Cancelled - see Event Info), Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18644
-GEO:-37.3488208156751;144.134177871989
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18395@eventor.orienteering.asn.au
@@ -684,12 +666,12 @@ GEO:-37.3706514807061;144.145666483336
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18397@eventor.orienteering.asn.au
-DTSTAMP:20230521T111955Z
+DTSTAMP:20230723T073735Z
 DTSTART:20230812T023000Z
 DTEND:20230812T040000Z
 SUMMARY:Bendigo Bush 13 - Diamond Hill North, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18397
-GEO:-36.8288364093597;144.238505305676
+GEO:-36.7925672712908;144.258658866794
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18448@eventor.orienteering.asn.au
@@ -817,6 +799,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18403
 GEO:-36.7654275302785;144.330051988723
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18642@eventor.orienteering.asn.au
+DTSTAMP:20230723T095316Z
+DTSTART:20231007T230000Z
+DTEND:20231007T230000Z
+SUMMARY:Ballarat Winter Series #2 Yuille Wetlands , Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18642
+GEO:-37.5912017737273;143.846103381261
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18404@eventor.orienteering.asn.au
 DTSTAMP:20230106T122759Z
 DTSTART:20231014T013000Z
@@ -824,6 +815,15 @@ DTEND:20231014T030000Z
 SUMMARY:Bendigo Training - Score Event - Whela Block, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18404
 GEO:-36.7553740482974;144.292923370548
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18644@eventor.orienteering.asn.au
+DTSTAMP:20230723T095631Z
+DTSTART:20231014T230000Z
+DTEND:20231015T010000Z
+SUMMARY:Ballarat Winter Series #4 Lake Daylesford (Cancelled - see Event Info), Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18644
+GEO:-37.3488208156751;144.134177871989
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18405@eventor.orienteering.asn.au
