@@ -1702,6 +1702,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18909
 GEO:-34.0551181368047;150.689069284383
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18695@eventor.orienteering.asn.au
+DTSTAMP:20230725T124528Z
+DTSTART:20230812T040000Z
+DTEND:20230812T050000Z
+SUMMARY:Shell Cove, Illawarra Kareelah Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18695
+GEO:-34.5900953075999;150.864121773032
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19273@eventor.orienteering.asn.au
 DTSTAMP:20230717T040832Z
 DTSTART:20230812T040000Z
@@ -1709,15 +1718,6 @@ DTEND:20230812T060000Z
 SUMMARY:Coffs Score #5 - Sawtell, Bush n Beach Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19273
 GEO:-30.3588920270905;153.098927819399
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18695@eventor.orienteering.asn.au
-DTSTAMP:20230723T062002Z
-DTSTART:20230812T040000Z
-DTEND:20230812T060000Z
-SUMMARY:Shell Cove, Illawarra Kareelah Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18695
-GEO:-34.5900953075999;150.864121773032
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18845@eventor.orienteering.asn.au
