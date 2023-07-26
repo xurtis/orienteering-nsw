@@ -6578,7 +6578,7 @@ GEO:-27.3738426124179;152.959859986444
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18393@eventor.orienteering.asn.au
-DTSTAMP:20230715T070237Z
+DTSTAMP:20230726T041920Z
 DTSTART:20230715T023000Z
 DTEND:20230715T040000Z
 SUMMARY:Bendigo Bush 10 - Fiddlers Green, Bendigo Orienteers
@@ -6620,6 +6620,15 @@ DTEND:20230715T060000Z
 SUMMARY:Coffs Score #4 - Tree Fern Creek Part 2, Bush n Beach Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19272
 GEO:-30.2868316593894;153.107251786905
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19161@eventor.orienteering.asn.au
+DTSTAMP:20230726T030952Z
+DTSTART:20230715T140000Z
+DTEND:20230716T140000Z
+SUMMARY:MapRun Parks 2023 - Kalinga Park, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19161
+GEO:-27.406477;153.051835
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19018@eventor.orienteering.asn.au
@@ -6703,15 +6712,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19170
 GEO:-31.9724015666262;116.065544754733
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19161@eventor.orienteering.asn.au
-DTSTAMP:20230609T052731Z
-DTSTART:20230716T060000Z
-DTEND:20230716T060000Z
-SUMMARY:MapRun Parks 2023 - Kalinga Park, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19161
-GEO:-27.406477;153.051835
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18867@eventor.orienteering.asn.au
 DTSTAMP:20230718T014602Z
 DTSTART:20230717T070000Z
@@ -6739,6 +6739,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19172
 GEO:-27.5394699534402;152.966966275652
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18570@eventor.orienteering.asn.au
+DTSTAMP:20230726T014038Z
+DTSTART:20230718T140000Z
+DTEND:20230719T140000Z
+SUMMARY:MapRun Night Nav Ooralea, 21Degrees South Multisport Assoc.
+URL:https://eventor.orienteering.asn.au/Events/Show/18570
+GEO:-21.1735710941858;149.149711096959
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19194@eventor.orienteering.asn.au
 DTSTAMP:20230719T120325Z
 DTSTART:20230719T020000Z
@@ -6746,15 +6755,6 @@ DTEND:20230719T040000Z
 SUMMARY:ACT Midweek Series: The Pinnacle, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19194
 GEO:-35.2567662391419;149.04629688661
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18570@eventor.orienteering.asn.au
-DTSTAMP:20230623T105050Z
-DTSTART:20230719T073000Z
-DTEND:20230719T091500Z
-SUMMARY:MapRun Night Nav Ooralea, 21Degrees South Multisport Assoc.
-URL:https://eventor.orienteering.asn.au/Events/Show/18570
-GEO:-21.1735710941858;149.149711096959
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19129@eventor.orienteering.asn.au
@@ -6828,6 +6828,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19139
 GEO:-38.1222173718193;144.332705549997
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19162@eventor.orienteering.asn.au
+DTSTAMP:20230726T013641Z
+DTSTART:20230722T140000Z
+DTEND:20230723T140000Z
+SUMMARY:MapRun Parks 2023 - Edenbrooke, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19162
+GEO:-27.548688;152.948812
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18676@eventor.orienteering.asn.au
 DTSTAMP:20230723T072043Z
 DTSTART:20230722T233000Z
@@ -6891,15 +6900,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19014
 GEO:-33.3468553414707;115.865892452204
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19162@eventor.orienteering.asn.au
-DTSTAMP:20230609T053549Z
-DTSTART:20230723T060000Z
-DTEND:20230723T060000Z
-SUMMARY:MapRun Parks 2023 - Edenbrooke, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19162
-GEO:-27.548688;152.948812
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18868@eventor.orienteering.asn.au
 DTSTAMP:20230724T120353Z
 DTSTART:20230724T070000Z
@@ -6927,15 +6927,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18736
 GEO:-27.4989291284518;153.004504353542
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19265@eventor.orienteering.asn.au
-DTSTAMP:20230711T003819Z
-DTSTART:20230724T140000Z
-DTEND:20230725T140000Z
-SUMMARY:Taco Tuesday- Enter All Events, Esk Valley
-URL:https://eventor.orienteering.asn.au/Events/Show/19265
-GEO:-41.385735666359;147.127552931792
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19266@eventor.orienteering.asn.au
 DTSTAMP:20230711T003855Z
 DTSTART:20230724T140000Z
@@ -6946,7 +6937,7 @@ GEO:-41.385713617418;147.127335385567
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19271@eventor.orienteering.asn.au
-DTSTAMP:20230706T030824Z
+DTSTAMP:20230726T050840Z
 DTSTART:20230726T020000Z
 DTEND:20230726T040000Z
 SUMMARY:ACT Midweek Series: Bluetts, Orienteering ACT
@@ -7044,7 +7035,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19282
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19256@eventor.orienteering.asn.au
-DTSTAMP:20230630T040556Z
+DTSTAMP:20230726T112246Z
 DTSTART:20230728T233000Z
 DTEND:20230729T140000Z
 SUMMARY:Newcastle Shorts Weekend (ALL), Newcastle Orienteering Club
@@ -7184,6 +7175,15 @@ DTEND:20230730T060000Z
 SUMMARY:MapRun Parks 2023 - Pine Rivers Park, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19163
 GEO:-27.314034;152.995504
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19265@eventor.orienteering.asn.au
+DTSTAMP:20230726T093145Z
+DTSTART:20230730T140000Z
+DTEND:20230731T140000Z
+SUMMARY:Taco Tuesday- Enter All Events, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19265
+GEO:-41.385735666359;147.127552931792
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18789@eventor.orienteering.asn.au
@@ -7434,6 +7434,24 @@ DTSTART:20230809T083000Z
 DTEND:20230809T101500Z
 SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Academy Hill, Victorian ARDF Group
 URL:https://eventor.orienteering.asn.au/Events/Show/19217
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19299@eventor.orienteering.asn.au
+DTSTAMP:20230726T052922Z
+DTSTART:20230810T003000Z
+DTEND:20230810T003000Z
+SUMMARY:Kholo Road MapRun (pending SEQW permit), Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19299
+GEO:-27.5361117398636;152.754551096931
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19300@eventor.orienteering.asn.au
+DTSTAMP:20230726T054135Z
+DTSTART:20230810T003000Z
+DTEND:20230810T003000Z
+SUMMARY:Kholo Road MapRun (pending SEQW permit), Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19300
+GEO:-27.5356687191046;152.754600290166
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19295@eventor.orienteering.asn.au
@@ -7819,7 +7837,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19219
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18439@eventor.orienteering.asn.au
-DTSTAMP:20230112T093543Z
+DTSTAMP:20230726T005039Z
 DTSTART:20230824T003000Z
 DTEND:20230824T010000Z
 SUMMARY:Mt Coot-tha. Bush., Orienteering Queensland
@@ -8499,7 +8517,7 @@ GEO:-35.341931451065;147.348867949247
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19156@eventor.orienteering.asn.au
-DTSTAMP:20230608T061335Z
+DTSTAMP:20230726T072139Z
 DTSTART:20231015T020000Z
 DTEND:20231015T040000Z
 SUMMARY:Albany - Mt Adelaide & Forts Historical Precinct, Albany & Denmark Hinterland Orienteering Club

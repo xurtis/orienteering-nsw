@@ -399,15 +399,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18979
 GEO:-42.8744137510803;147.299288509116
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19265@eventor.orienteering.asn.au
-DTSTAMP:20230711T003819Z
-DTSTART:20230724T140000Z
-DTEND:20230725T140000Z
-SUMMARY:Taco Tuesday- Enter All Events, Esk Valley
-URL:https://eventor.orienteering.asn.au/Events/Show/19265
-GEO:-41.385735666359;147.127552931792
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19266@eventor.orienteering.asn.au
 DTSTAMP:20230711T003855Z
 DTSTART:20230724T140000Z
@@ -424,6 +415,15 @@ DTEND:20230730T140000Z
 SUMMARY:Waverley Park - Southern Local #7, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18980
 GEO:-42.8636492388967;147.387206203575
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19265@eventor.orienteering.asn.au
+DTSTAMP:20230726T093145Z
+DTSTART:20230730T140000Z
+DTEND:20230731T140000Z
+SUMMARY:Taco Tuesday- Enter All Events, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19265
+GEO:-41.385735666359;147.127552931792
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19267@eventor.orienteering.asn.au
