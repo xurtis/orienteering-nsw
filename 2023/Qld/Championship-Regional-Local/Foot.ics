@@ -155,6 +155,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19111
 GEO:-27.2349170633566;152.937310178537
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19321@eventor.orienteering.asn.au
+DTSTAMP:20230728T113544Z
+DTSTART:20230617T213000Z
+DTEND:20230618T010000Z
+SUMMARY:TTOC - JCU Bush and Urban Cross-Country , Totally Tropical Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19321
+GEO:-19.3288686475422;146.757287495706
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18020@eventor.orienteering.asn.au
 DTSTAMP:20230702T043355Z
 DTSTART:20230617T230000Z
@@ -243,12 +252,57 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17883
 GEO:-26.490154;150.079749
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19317@eventor.orienteering.asn.au
+DTSTAMP:20230728T112145Z
+DTSTART:20230802T071500Z
+DTEND:20230802T091500Z
+SUMMARY:TTOC Urban Adventure Night Series 23 - Round 1 - The Stadium, Totally Tropical Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19317
+GEO:-19.2653194561403;146.817851517797
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19318@eventor.orienteering.asn.au
+DTSTAMP:20230728T112601Z
+DTSTART:20230809T071500Z
+DTEND:20230809T091500Z
+SUMMARY:TTOC Urban Adventure Night Series 23 - Round 2 - ANZAC Park, Totally Tropical Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19318
+GEO:-19.2552849791991;146.822802460699
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18022@eventor.orienteering.asn.au
 DTSTAMP:20230402T015841Z
 DTSTART:20230812T140000Z
 DTEND:20230813T140000Z
 SUMMARY:OY9 - Clear Mountain, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/18022
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19319@eventor.orienteering.asn.au
+DTSTAMP:20230728T112857Z
+DTSTART:20230816T071500Z
+DTEND:20230816T091500Z
+SUMMARY:TTOC Urban Adventure Night Series 23 - Round 3 - Soroptimist Park, Totally Tropical Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19319
+GEO:-19.2437080173908;146.795172240714
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19320@eventor.orienteering.asn.au
+DTSTAMP:20230728T113140Z
+DTSTART:20230823T071500Z
+DTEND:20230823T091500Z
+SUMMARY:TTOC Urban Adventure Night Series 23 - Round 4 - Strand Park, Totally Tropical Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19320
+GEO:-19.2453992219247;146.810476329114
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19322@eventor.orienteering.asn.au
+DTSTAMP:20230728T115153Z
+DTSTART:20230830T071500Z
+DTEND:20230830T091500Z
+SUMMARY:TTOC Urban Adventure Night Series 23 - Extra Round JCU, Totally Tropical Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19322
+GEO:-19.3289873361728;146.757323860063
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18025@eventor.orienteering.asn.au

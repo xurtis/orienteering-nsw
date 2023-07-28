@@ -3313,7 +3313,7 @@ GEO:-37.944686648869;145.080250610455
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18689@eventor.orienteering.asn.au
-DTSTAMP:20230721T014232Z
+DTSTAMP:20230728T061058Z
 DTSTART:20230729T233000Z
 DTEND:20230730T023000Z
 SUMMARY:Come and Try It + Club Championship event - open to all, Garingal Orienteers
@@ -3365,6 +3365,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18910
 GEO:-33.7657710563263;150.855732711607
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19317@eventor.orienteering.asn.au
+DTSTAMP:20230728T112145Z
+DTSTART:20230802T071500Z
+DTEND:20230802T091500Z
+SUMMARY:TTOC Urban Adventure Night Series 23 - Round 1 - The Stadium, Totally Tropical Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19317
+GEO:-19.2653194561403;146.817851517797
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18920@eventor.orienteering.asn.au
 DTSTAMP:20230720T034900Z
 DTSTART:20230802T073000Z
@@ -3408,10 +3417,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19225
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19294@eventor.orienteering.asn.au
-DTSTAMP:20230722T051932Z
+DTSTAMP:20230728T120549Z
 DTSTART:20230805T040000Z
 DTEND:20230805T040000Z
-SUMMARY:OV Event Organising workshop - computer-related aspects, Orienteering Victoria
+SUMMARY:OV Event Organising workshop - computer-related aspects, Albury-Wodonga Orienteering Club / Bayside Kangaroos Orienteers / Bendigo Orienteers / Dandenong Ranges Orienteering Club / Melbourne Forest Racers / Nillumbik Emus Orienteering Club / Orienteering Victoria / Yarra Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19294
 END:VEVENT
 BEGIN:VEVENT
@@ -3448,6 +3457,15 @@ DTEND:20230809T040000Z
 SUMMARY:Sydney South West Primary Schools Orienteering Championships, Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18909
 GEO:-34.0551181368047;150.689069284383
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19318@eventor.orienteering.asn.au
+DTSTAMP:20230728T112601Z
+DTSTART:20230809T071500Z
+DTEND:20230809T091500Z
+SUMMARY:TTOC Urban Adventure Night Series 23 - Round 2 - ANZAC Park, Totally Tropical Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19318
+GEO:-19.2552849791991;146.822802460699
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19217@eventor.orienteering.asn.au
@@ -3509,6 +3527,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19175
 GEO:-27.4597235453723;153.011036633059
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19319@eventor.orienteering.asn.au
+DTSTAMP:20230728T112857Z
+DTSTART:20230816T071500Z
+DTEND:20230816T091500Z
+SUMMARY:TTOC Urban Adventure Night Series 23 - Round 3 - Soroptimist Park, Totally Tropical Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19319
+GEO:-19.2437080173908;146.795172240714
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19218@eventor.orienteering.asn.au
 DTSTAMP:20230627T072455Z
 DTSTART:20230816T083000Z
@@ -3559,6 +3586,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19176
 GEO:-27.4793375380008;152.981680557782
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19320@eventor.orienteering.asn.au
+DTSTAMP:20230728T113140Z
+DTSTART:20230823T071500Z
+DTEND:20230823T091500Z
+SUMMARY:TTOC Urban Adventure Night Series 23 - Round 4 - Strand Park, Totally Tropical Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19320
+GEO:-19.2453992219247;146.810476329114
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19219@eventor.orienteering.asn.au
 DTSTAMP:20230627T072700Z
 DTSTART:20230823T083000Z
@@ -3573,6 +3609,14 @@ DTSTART:20230826T033000Z
 DTEND:20230826T051000Z
 SUMMARY:Melbourne Park Street Saturday Series - Park Orchards, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19228
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19315@eventor.orienteering.asn.au
+DTSTAMP:20230728T073602Z
+DTSTART:20230827T003000Z
+DTEND:20230827T033000Z
+SUMMARY:Whyalla Hills, Saltbush Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19315
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19232@eventor.orienteering.asn.au
@@ -3720,6 +3764,14 @@ DTSTART:20230916T033000Z
 DTEND:20230916T051000Z
 SUMMARY:Melbourne Park Street Saturday Series - Glen Iris ENDURO, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19230
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19316@eventor.orienteering.asn.au
+DTSTAMP:20230728T073511Z
+DTSTART:20230917T003000Z
+DTEND:20230927T033000Z
+SUMMARY:Whyalla East, Saltbush Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19316
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18876@eventor.orienteering.asn.au

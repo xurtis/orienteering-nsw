@@ -201,11 +201,27 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18631
 GEO:-34.7983309349021;138.678757421329
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19315@eventor.orienteering.asn.au
+DTSTAMP:20230728T073602Z
+DTSTART:20230827T003000Z
+DTEND:20230827T033000Z
+SUMMARY:Whyalla Hills, Saltbush Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19315
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18770@eventor.orienteering.asn.au
 DTSTAMP:20230226T041716Z
 DTSTART:20230910T010000Z
 DTEND:20230910T023000Z
 SUMMARY:Lincoln Orienteers End of Season Event, Lincoln Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18770
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19316@eventor.orienteering.asn.au
+DTSTAMP:20230728T073511Z
+DTSTART:20230917T003000Z
+DTEND:20230927T033000Z
+SUMMARY:Whyalla East, Saltbush Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19316
 END:VEVENT
 END:VCALENDAR
