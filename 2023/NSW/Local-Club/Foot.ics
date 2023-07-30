@@ -1544,7 +1544,7 @@ GEO:-33.7042624178185;151.131482932266
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18592@eventor.orienteering.asn.au
-DTSTAMP:20230724T060202Z
+DTSTAMP:20230730T064934Z
 DTSTART:20230730T000000Z
 DTEND:20230730T033000Z
 SUMMARY:Waggaroos - AWOC Interclub #5, Burngoogee, Wagga and Riverina Occasional Orienteers
@@ -1553,7 +1553,7 @@ GEO:-35.5027078261408;147.625489111995
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18891@eventor.orienteering.asn.au
-DTSTAMP:20230724T110150Z
+DTSTAMP:20230730T055518Z
 DTSTART:20230730T003000Z
 DTEND:20230730T030000Z
 SUMMARY:Highlands Forest Series #3 - Boxvale, Southern Highlands Orienteers
@@ -1589,11 +1589,12 @@ GEO:-33.7413616066173;151.213816257953
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18911@eventor.orienteering.asn.au
-DTSTAMP:20230714T075725Z
+DTSTAMP:20230729T235254Z
 DTSTART:20230802T233000Z
 DTEND:20230803T043000Z
 SUMMARY:Sydney West Primary Schools Orienteering Champs, Bold Horizons Event Organiser / Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18911
+GEO:-33.7664383581341;150.855221854748
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18912@eventor.orienteering.asn.au
@@ -1632,21 +1633,29 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18677
 GEO:-33.8925333956362;150.979691423042
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18844@eventor.orienteering.asn.au
-DTSTAMP:20230728T031544Z
+UID:Event_19325@eventor.orienteering.asn.au
+DTSTAMP:20230730T030425Z
 DTSTART:20230805T233000Z
-DTEND:20230805T233000Z
-SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18844
+DTEND:20230806T030000Z
+SUMMARY:Newcastle Minor Training, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19325
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18885@eventor.orienteering.asn.au
-DTSTAMP:20230703T084154Z
+DTSTAMP:20230730T102945Z
 DTSTART:20230806T000000Z
 DTEND:20230806T000000Z
 SUMMARY:Bush event #6 Gosling Creek - Pairs Event, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18885
 GEO:-33.3265595342471;149.08527829107
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18844@eventor.orienteering.asn.au
+DTSTAMP:20230730T030640Z
+DTSTART:20230806T233000Z
+DTEND:20230807T030000Z
+SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18844
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18182@eventor.orienteering.asn.au

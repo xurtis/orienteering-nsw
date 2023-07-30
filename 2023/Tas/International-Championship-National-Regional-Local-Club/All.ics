@@ -631,15 +631,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19266
 GEO:-41.385713617418;147.127335385567
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18980@eventor.orienteering.asn.au
-DTSTAMP:20230729T041333Z
-DTSTART:20230729T140000Z
-DTEND:20230730T140000Z
-SUMMARY:Waverley Park - Southern Local #7 (EVENT CANCELLED), Australopers
-URL:https://eventor.orienteering.asn.au/Events/Show/18980
-GEO:-42.8636492388967;147.387206203575
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19265@eventor.orienteering.asn.au
 DTSTAMP:20230726T093145Z
 DTSTART:20230730T140000Z
@@ -770,6 +761,15 @@ DTEND:20230917T140000Z
 SUMMARY:Calvert's Beach - Southern Local #10, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18983
 GEO:-43.0211937582835;147.48843988953
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18980@eventor.orienteering.asn.au
+DTSTAMP:20230730T053910Z
+DTSTART:20230923T140000Z
+DTEND:20230924T140000Z
+SUMMARY:Waverley Park - Southern Local, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/18980
+GEO:-42.8636492388967;147.387206203575
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18985@eventor.orienteering.asn.au

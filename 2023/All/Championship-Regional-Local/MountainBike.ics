@@ -155,12 +155,22 @@ SUMMARY:OV Event Organising workshop - computer-related aspects, Albury-Wodonga 
 URL:https://eventor.orienteering.asn.au/Events/Show/19294
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19324@eventor.orienteering.asn.au
+DTSTAMP:20230729T164953Z
+DTSTART:20230819T140000Z
+DTEND:20230819T140000Z
+SUMMARY:MTBO 6 WA Long Distance Championships, Kulgun 225 Orienteers / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/19324
+GEO:-31.9736936987638;116.13342450265
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18345@eventor.orienteering.asn.au
-DTSTAMP:20230112T051318Z
+DTSTAMP:20230729T231901Z
 DTSTART:20230826T140000Z
 DTEND:20230827T140000Z
 SUMMARY:MTBO Vic Series #3 - Fingerpost Corner, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18345
+GEO:-37.4142411461019;144.476836504661
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18541@eventor.orienteering.asn.au
