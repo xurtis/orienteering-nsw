@@ -2676,6 +2676,7 @@ DTSTART:20230814T070000Z
 DTEND:20230814T091500Z
 SUMMARY:ACT MapRun Street Series: Hackett, 10-14 Aug, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18871
+GEO:-35.2522814781972;149.16039028254
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19319@eventor.orienteering.asn.au
@@ -2747,6 +2748,7 @@ DTSTART:20230821T070000Z
 DTEND:20230821T091500Z
 SUMMARY:ACT MapRun Street Series: Forde, 17-21 Aug, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18872
+GEO:-35.1720196455969;149.141623930493
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19320@eventor.orienteering.asn.au
@@ -2798,6 +2800,7 @@ DTSTART:20230828T070000Z
 DTEND:20230828T091500Z
 SUMMARY:ACT MapRun Street Series: Crace, 24-28 Aug, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18873
+GEO:-35.2013509670779;149.103116137179
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19322@eventor.orienteering.asn.au
@@ -2828,7 +2831,7 @@ GEO:-34.8734477845165;138.689432868122
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18245@eventor.orienteering.asn.au
-DTSTAMP:20230627T082209Z
+DTSTAMP:20230731T061508Z
 DTSTART:20230901T140000Z
 DTEND:20230902T140000Z
 SUMMARY:Victorian Middle Distance Championships - Mt Alexander, Harcourt, Nillumbik Emus Orienteering Club
@@ -2845,7 +2848,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17870
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18244@eventor.orienteering.asn.au
-DTSTAMP:20230730T101404Z
+DTSTAMP:20230731T001558Z
 DTSTART:20230902T140000Z
 DTEND:20230903T140000Z
 SUMMARY:Victorian Long Distance Championships - Mt Alexander, Harcourt, Melbourne Forest Racers
