@@ -3,6 +3,14 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
+UID:Event_18844@eventor.orienteering.asn.au
+DTSTAMP:20230731T232810Z
+DTSTART:20221231T223000Z
+DTEND:20230101T020000Z
+SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18844
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17784@eventor.orienteering.asn.au
 DTSTAMP:20230110T043248Z
 DTSTART:20230104T053000Z
@@ -1144,20 +1152,13 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18677
 GEO:-33.8925333956362;150.979691423042
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18844@eventor.orienteering.asn.au
-DTSTAMP:20230730T030640Z
-DTSTART:20230806T233000Z
-DTEND:20230807T030000Z
-SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18844
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18182@eventor.orienteering.asn.au
-DTSTAMP:20230714T080141Z
+DTSTAMP:20230801T014944Z
 DTSTART:20230806T233000Z
 DTEND:20230807T043000Z
 SUMMARY:Sydney North Schools Orienteering Championships, Bold Horizons Event Organiser / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/18182
+GEO:-33.7063788964093;151.187745530509
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18909@eventor.orienteering.asn.au
@@ -1179,11 +1180,12 @@ GEO:-34.5900953075999;150.864121773032
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18845@eventor.orienteering.asn.au
-DTSTAMP:20230709T232023Z
+DTSTAMP:20230801T001808Z
 DTSTART:20230812T233000Z
-DTEND:20230812T233000Z
-SUMMARY:Newcastle OY7, Newcastle Orienteering Club
+DTEND:20230813T030000Z
+SUMMARY:NOY7 - Ryhope, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18845
+GEO:-32.9950674346734;151.521899364872
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17912@eventor.orienteering.asn.au
@@ -1204,9 +1206,9 @@ GEO:-34.40288339145;150.354737078565
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17826@eventor.orienteering.asn.au
-DTSTAMP:20230720T005210Z
-DTSTART:20230818T140000Z
-DTEND:20230819T140000Z
+DTSTAMP:20230801T033648Z
+DTSTART:20230819T010000Z
+DTEND:20230819T043000Z
 SUMMARY:ACT Middle Distance Championships: ACT League #5, NSW SL #10, Collector Hill, Orienteering ACT / Orienteering NSW / Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17826
 GEO:-34.9025276090575;149.462764963638
@@ -1276,7 +1278,7 @@ GEO:-35.1093552944227;147.369320145851
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18893@eventor.orienteering.asn.au
-DTSTAMP:20230324T102129Z
+DTSTAMP:20230801T085528Z
 DTSTART:20230903T003000Z
 DTEND:20230903T030000Z
 SUMMARY:Highlands Forest Series #5 - Appin, Illawarra Kareelah Orienteers / Southern Highlands Orienteers

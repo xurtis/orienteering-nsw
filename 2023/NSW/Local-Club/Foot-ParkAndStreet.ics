@@ -12,6 +12,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/16129
 GEO:-33.8460097756633;151.074462745328
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18844@eventor.orienteering.asn.au
+DTSTAMP:20230731T232810Z
+DTSTART:20221231T223000Z
+DTEND:20230101T020000Z
+SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18844
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17784@eventor.orienteering.asn.au
 DTSTAMP:20230110T043248Z
 DTSTART:20230104T053000Z
@@ -1589,7 +1597,7 @@ GEO:-33.7657710563263;150.855732711607
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18920@eventor.orienteering.asn.au
-DTSTAMP:20230720T034900Z
+DTSTAMP:20230801T050828Z
 DTSTART:20230802T073000Z
 DTEND:20230802T094500Z
 SUMMARY:Moonlight Madness #4 - Frenchs Forest, Bennelong Northside Orienteers
@@ -1643,7 +1651,7 @@ GEO:-33.8925333956362;150.979691423042
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19325@eventor.orienteering.asn.au
-DTSTAMP:20230731T091836Z
+DTSTAMP:20230801T114656Z
 DTSTART:20230805T233000Z
 DTEND:20230806T030000Z
 SUMMARY:Newcastle Minor/Training - Mount Sugarloaf, Newcastle Orienteering Club
@@ -1652,7 +1660,7 @@ GEO:-32.8911962930524;151.539121755359
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18885@eventor.orienteering.asn.au
-DTSTAMP:20230730T102945Z
+DTSTAMP:20230801T020434Z
 DTSTART:20230806T000000Z
 DTEND:20230806T000000Z
 SUMMARY:Bush event #6 Gosling Creek - Pairs Event, Goldseekers Orienteers
@@ -1660,20 +1668,13 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18885
 GEO:-33.3265595342471;149.08527829107
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18844@eventor.orienteering.asn.au
-DTSTAMP:20230730T030640Z
-DTSTART:20230806T233000Z
-DTEND:20230807T030000Z
-SUMMARY:Newcastle Minor Bush Training, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18844
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18182@eventor.orienteering.asn.au
-DTSTAMP:20230714T080141Z
+DTSTAMP:20230801T014944Z
 DTSTART:20230806T233000Z
 DTEND:20230807T043000Z
 SUMMARY:Sydney North Schools Orienteering Championships, Bold Horizons Event Organiser / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/18182
+GEO:-33.7063788964093;151.187745530509
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18909@eventor.orienteering.asn.au
@@ -1704,11 +1705,12 @@ GEO:-30.3588920270905;153.098927819399
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18845@eventor.orienteering.asn.au
-DTSTAMP:20230709T232023Z
+DTSTAMP:20230801T001808Z
 DTSTART:20230812T233000Z
-DTEND:20230812T233000Z
-SUMMARY:Newcastle OY7, Newcastle Orienteering Club
+DTEND:20230813T030000Z
+SUMMARY:NOY7 - Ryhope, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18845
+GEO:-32.9950674346734;151.521899364872
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18593@eventor.orienteering.asn.au
@@ -1809,7 +1811,7 @@ GEO:-35.1093552944227;147.369320145851
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18893@eventor.orienteering.asn.au
-DTSTAMP:20230324T102129Z
+DTSTAMP:20230801T085528Z
 DTSTART:20230903T003000Z
 DTEND:20230903T030000Z
 SUMMARY:Highlands Forest Series #5 - Appin, Illawarra Kareelah Orienteers / Southern Highlands Orienteers
@@ -1824,6 +1826,14 @@ DTEND:20230905T140000Z
 SUMMARY:Wagga Home Schooled Children Coaching, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19192
 GEO:-35.1340971412374;147.365232902204
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19326@eventor.orienteering.asn.au
+DTSTAMP:20230801T043126Z
+DTSTART:20230915T233000Z
+DTEND:20230916T020000Z
+SUMMARY:Lane Cove Festival, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19326
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18678@eventor.orienteering.asn.au
