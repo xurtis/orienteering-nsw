@@ -1893,7 +1893,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19294
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18429@eventor.orienteering.asn.au
-DTSTAMP:20230728T121015Z
+DTSTAMP:20230802T080826Z
 DTSTART:20230805T140000Z
 DTEND:20230806T140000Z
 SUMMARY:Vic Series (Bush) 6 - Musk Vale, Daylesford, Bayside Kangaroos Orienteers
@@ -2361,5 +2361,14 @@ DTSTART:20231125T130000Z
 DTEND:20231126T130000Z
 SUMMARY:Victorian Sprint Championships, Yarra Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19184
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19333@eventor.orienteering.asn.au
+DTSTAMP:20230802T105646Z
+DTSTART:20231215T070000Z
+DTEND:20231220T010000Z
+SUMMARY:National Junior Development Camp, Albury-Wodonga Orienteering Club / Orienteering Australia / Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/19333
+GEO:-36.3594931367959;146.687016598376
 END:VEVENT
 END:VCALENDAR
