@@ -8321,7 +8321,7 @@ GEO:-33.7664383581341;150.855221854748
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19323@eventor.orienteering.asn.au
-DTSTAMP:20230731T113753Z
+DTSTAMP:20230803T063755Z
 DTSTART:20230803T003000Z
 DTEND:20230803T003000Z
 SUMMARY:CreekSide Park - Brookfield (MapRun event), Orienteering Queensland
@@ -8533,6 +8533,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18909
 GEO:-34.0551181368047;150.689069284383
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19336@eventor.orienteering.asn.au
+DTSTAMP:20230803T001319Z
+DTSTART:20230809T020000Z
+DTEND:20230809T040000Z
+SUMMARY:ACT Midweek Series: Oakey Hill, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19336
+GEO:-35.3347662463465;149.07150888808
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19318@eventor.orienteering.asn.au
 DTSTAMP:20230728T112601Z
 DTSTART:20230809T071500Z
@@ -8561,12 +8570,12 @@ GEO:-27.5361117398636;152.754551096931
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19300@eventor.orienteering.asn.au
-DTSTAMP:20230726T054135Z
+DTSTAMP:20230803T092935Z
 DTSTART:20230810T003000Z
 DTEND:20230810T003000Z
-SUMMARY:Kholo Road MapRun (pending SEQW permit), Orienteering Queensland
+SUMMARY:NEW VENUE: Marstaellar Rd, Mt Crosby, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19300
-GEO:-27.5356687191046;152.754600290166
+GEO:-27.5467379833493;152.798248040328
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19295@eventor.orienteering.asn.au
@@ -8631,10 +8640,10 @@ GEO:-30.3588920270905;153.098927819399
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18745@eventor.orienteering.asn.au
-DTSTAMP:20230801T080330Z
+DTSTAMP:20230803T052542Z
 DTSTART:20230812T060000Z
 DTEND:20230812T080000Z
-SUMMARY:NavDash 7 WA Sprint Championships, LOST / Orienteering WA
+SUMMARY:NavDash 7 WA Sprint Championships St Hilda's, LOST / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/18745
 GEO:-32.005715069704;115.766932097001
 END:VEVENT
@@ -9682,14 +9691,6 @@ SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Deepdene, Baysi
 URL:https://eventor.orienteering.asn.au/Events/Show/19222
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18025@eventor.orienteering.asn.au
-DTSTAMP:20230727T003809Z
-DTSTART:20230915T140000Z
-DTEND:20230916T140000Z
-SUMMARY:OY10 - Qld Sprint Champs - Toowoomba, Orienteering Queensland / Range Runners Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18025
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19326@eventor.orienteering.asn.au
 DTSTAMP:20230801T043126Z
 DTSTART:20230915T233000Z
@@ -9713,6 +9714,15 @@ DTSTART:20230916T033000Z
 DTEND:20230916T051000Z
 SUMMARY:Melbourne Park Street Saturday Series - Glen Iris ENDURO, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19230
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18025@eventor.orienteering.asn.au
+DTSTAMP:20230803T113441Z
+DTSTART:20230916T040000Z
+DTEND:20230916T040000Z
+SUMMARY:OY10 - Qld Sprint Champs - Toowoomba, Orienteering Queensland / Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18025
+GEO:-27.5708709353814;151.930276821777
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18983@eventor.orienteering.asn.au
@@ -9851,6 +9861,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18755
 GEO:-27.4075276374579;153.051992739612
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19334@eventor.orienteering.asn.au
+DTSTAMP:20230802T152735Z
+DTSTART:20230922T160000Z
+DTEND:20230923T160000Z
+SUMMARY:Hill Park Dale Training Day, Bibbulmun Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19334
+GEO:-32.2646075058952;116.773901994137
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18402@eventor.orienteering.asn.au
 DTSTAMP:20230220T102902Z
 DTSTART:20230923T023000Z
@@ -9875,6 +9894,15 @@ DTEND:20230924T140000Z
 SUMMARY:Waverley Park - Southern Local, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18980
 GEO:-42.8636492388967;147.387206203575
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19335@eventor.orienteering.asn.au
+DTSTAMP:20230802T153024Z
+DTSTART:20230923T160000Z
+DTEND:20230924T160000Z
+SUMMARY:Hill Park Dale Training Day, Bibbulmun Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19335
+GEO:-32.2651673755791;116.770664713865
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18846@eventor.orienteering.asn.au
@@ -9951,15 +9979,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18753
 GEO:-27.4827439415576;153.114922415097
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18140@eventor.orienteering.asn.au
-DTSTAMP:20230801T115949Z
-DTSTART:20230929T160000Z
-DTEND:20230930T160000Z
-SUMMARY:Australian Championships Middle Distance, Orienteering WA
-URL:https://eventor.orienteering.asn.au/Events/Show/18140
-GEO:-31.7271178957005;116.593071571509
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19042@eventor.orienteering.asn.au
 DTSTAMP:20230503T033141Z
 DTSTART:20230929T160000Z
@@ -9976,6 +9995,15 @@ DTEND:20230930T160000Z
 SUMMARY:Kambarang Carnival SI tags, Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/19052
 GEO:-32.0662680382735;115.6921918625
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18140@eventor.orienteering.asn.au
+DTSTAMP:20230803T114215Z
+DTSTART:20230930T013000Z
+DTEND:20230930T013000Z
+SUMMARY:Australian Championships Middle Distance, Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/18140
+GEO:-31.7271178957005;116.593071571509
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19080@eventor.orienteering.asn.au
@@ -9996,15 +10024,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18597
 GEO:-35.1718357004531;147.387377313218
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18141@eventor.orienteering.asn.au
-DTSTAMP:20230801T120052Z
-DTSTART:20231001T000000Z
-DTEND:20231001T060000Z
-SUMMARY:Australian Championships Relays - Entries, Orienteering WA
-URL:https://eventor.orienteering.asn.au/Events/Show/18141
-GEO:-31.7383295356906;116.603168248993
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18142@eventor.orienteering.asn.au
 DTSTAMP:20221214T093758Z
 DTSTART:20231001T010000Z
@@ -10012,6 +10031,15 @@ DTEND:20231001T060000Z
 SUMMARY:Australian Championships Relays - Results, Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/18142
 GEO:-31.7372922260856;116.601210212954
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18141@eventor.orienteering.asn.au
+DTSTAMP:20230803T115412Z
+DTSTART:20231001T020000Z
+DTEND:20231001T060000Z
+SUMMARY:Australian Championships Relays - Entries, Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/18141
+GEO:-31.7383295356906;116.603168248993
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18146@eventor.orienteering.asn.au
@@ -10033,7 +10061,7 @@ GEO:-32.0246227036406;115.864290488435
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18147@eventor.orienteering.asn.au
-DTSTAMP:20230801T120135Z
+DTSTAMP:20230803T114618Z
 DTSTART:20231003T030000Z
 DTEND:20231003T060000Z
 SUMMARY:Kambarang Classic Day 1, Orienteering WA
@@ -10104,15 +10132,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18152
 GEO:-32.3380620406269;116.839526046826
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18143@eventor.orienteering.asn.au
-DTSTAMP:20230801T120327Z
-DTSTART:20231007T010000Z
-DTEND:20231007T060000Z
-SUMMARY:Australian Championships Long Distance, Orienteering WA
-URL:https://eventor.orienteering.asn.au/Events/Show/18143
-GEO:-31.6489624136123;116.217258235667
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18403@eventor.orienteering.asn.au
 DTSTAMP:20230106T122511Z
 DTSTART:20231007T013000Z
@@ -10120,6 +10139,15 @@ DTEND:20231007T030000Z
 SUMMARY:Bendigo Training - Score Event - Rocky Rises, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18403
 GEO:-36.7654275302785;144.330051988723
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18143@eventor.orienteering.asn.au
+DTSTAMP:20230803T115955Z
+DTSTART:20231007T013000Z
+DTEND:20231007T060000Z
+SUMMARY:Australian Championships Long Distance, Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/18143
+GEO:-31.6489624136123;116.217258235667
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17939@eventor.orienteering.asn.au
@@ -10148,8 +10176,8 @@ GEO:-37.5914059558841;143.846097150042
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18144@eventor.orienteering.asn.au
-DTSTAMP:20230801T120358Z
-DTSTART:20231008T010000Z
+DTSTAMP:20230803T114936Z
+DTSTART:20231008T013000Z
 DTEND:20231008T060000Z
 SUMMARY:Australian Championships Sprint, Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/18144
@@ -10620,7 +10648,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18472
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18348@eventor.orienteering.asn.au
-DTSTAMP:20230112T051431Z
+DTSTAMP:20230803T063159Z
 DTSTART:20231111T130000Z
 DTEND:20231112T130000Z
 SUMMARY:MTBO Vic Series #6 - Linton, Yarra Valley Orienteering Club
@@ -10734,6 +10762,15 @@ DTSTART:20231115T204500Z
 DTEND:20231115T214500Z
 SUMMARY:SC-ORE #4: Latham Primary School, Latham, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19288
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19337@eventor.orienteering.asn.au
+DTSTAMP:20230803T062708Z
+DTSTART:20231116T233000Z
+DTEND:20231116T233000Z
+SUMMARY:Victorian Primary Schools Event, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/19337
+GEO:-37.6313198948091;144.851320289953
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18470@eventor.orienteering.asn.au
@@ -10853,12 +10890,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19185
 GEO:-37.7929298897588;145.19904990901
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19184@eventor.orienteering.asn.au
-DTSTAMP:20230627T082749Z
+UID:Event_19115@eventor.orienteering.asn.au
+DTSTAMP:20230803T064615Z
 DTSTART:20231125T130000Z
 DTEND:20231126T130000Z
 SUMMARY:Victorian Sprint Championships, Yarra Valley Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19184
+URL:https://eventor.orienteering.asn.au/Events/Show/19115
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18600@eventor.orienteering.asn.au
