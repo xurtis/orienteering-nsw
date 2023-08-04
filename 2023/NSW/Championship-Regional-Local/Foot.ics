@@ -1302,6 +1302,24 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18597
 GEO:-35.1718357004531;147.387377313218
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19338@eventor.orienteering.asn.au
+DTSTAMP:20230804T075039Z
+DTSTART:20231004T053000Z
+DTEND:20231004T083000Z
+SUMMARY:2023/24 Sydney Summer Series #1 - Ermington, Western and Hills Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19338
+GEO:-33.8209111832197;151.05942212772
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19339@eventor.orienteering.asn.au
+DTSTAMP:20230804T075129Z
+DTSTART:20231011T053000Z
+DTEND:20231011T083000Z
+SUMMARY:2023/24 Sydney Summer Series #2 - Hunters Hill, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19339
+GEO:-33.8262146183774;151.137996906473
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18696@eventor.orienteering.asn.au
 DTSTAMP:20230211T061428Z
 DTSTART:20231014T040000Z
@@ -1319,11 +1337,74 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18598
 GEO:-35.341931451065;147.348867949247
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19340@eventor.orienteering.asn.au
+DTSTAMP:20230804T075200Z
+DTSTART:20231018T053000Z
+DTEND:20231018T083000Z
+SUMMARY:2023/24 Sydney Summer Series #3 - Killarney Heights, Bennelong Northside Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19340
+GEO:-33.7724357308484;151.216253416423
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19341@eventor.orienteering.asn.au
+DTSTAMP:20230804T075316Z
+DTSTART:20231025T053000Z
+DTEND:20231025T083000Z
+SUMMARY:2023/24 Sydney Summer Series #4 - Westleigh, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19341
+GEO:-33.7174531609216;151.070909317698
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19342@eventor.orienteering.asn.au
+DTSTAMP:20230804T075403Z
+DTSTART:20231101T053000Z
+DTEND:20231101T083000Z
+SUMMARY:2023/24 Sydney Summer Series #5 - West Pymble, Big Foot Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19342
+GEO:-33.763099819706;151.130151610444
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19343@eventor.orienteering.asn.au
+DTSTAMP:20230804T075444Z
+DTSTART:20231108T053000Z
+DTEND:20231108T083000Z
+SUMMARY:2023/24 Sydney Summer Series #6 - Lane Cove, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19343
+GEO:-33.8131897162378;151.144178303797
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19344@eventor.orienteering.asn.au
+DTSTAMP:20230804T075614Z
+DTSTART:20231115T053000Z
+DTEND:20231115T083000Z
+SUMMARY:2023/24 Sydney Summer Series #7 - West Cherrybrook, Western and Hills Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19344
+GEO:-33.7118883237689;151.030085175137
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19345@eventor.orienteering.asn.au
+DTSTAMP:20230804T075640Z
+DTSTART:20231122T053000Z
+DTEND:20231122T083000Z
+SUMMARY:2023/24 Sydney Summer Series #8 - Manly Dam, Bennelong Northside Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19345
+GEO:-33.7564761531827;151.238010417578
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18697@eventor.orienteering.asn.au
 DTSTAMP:20230211T062132Z
 DTSTART:20231125T040000Z
 DTEND:20231125T060000Z
 SUMMARY:Berry, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18697
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19346@eventor.orienteering.asn.au
+DTSTAMP:20230804T075716Z
+DTSTART:20231129T053000Z
+DTEND:20231129T083000Z
+SUMMARY:2023/24 Sydney Summer Series #9 - Gladesville, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19346
+GEO:-33.8396906735827;151.128083387207
 END:VEVENT
 END:VCALENDAR

@@ -6476,7 +6476,7 @@ GEO:-36.8106704598343;144.262898342245
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19294@eventor.orienteering.asn.au
-DTSTAMP:20230728T120549Z
+DTSTAMP:20230804T065609Z
 DTSTART:20230805T040000Z
 DTEND:20230805T040000Z
 SUMMARY:OV Event Organising workshop - computer-related aspects, Albury-Wodonga Orienteering Club / Bayside Kangaroos Orienteers / Bendigo Orienteers / Dandenong Ranges Orienteering Club / Melbourne Forest Racers / Nillumbik Emus Orienteering Club / Orienteering Victoria / Yarra Valley Orienteering Club
@@ -6652,7 +6652,7 @@ GEO:-36.7925672712908;144.258658866794
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19273@eventor.orienteering.asn.au
-DTSTAMP:20230717T040832Z
+DTSTAMP:20230804T002110Z
 DTSTART:20230812T040000Z
 DTEND:20230812T060000Z
 SUMMARY:Coffs Score #5 - Sawtell, Bush n Beach Orienteering Club
@@ -6678,11 +6678,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19041
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19019@eventor.orienteering.asn.au
-DTSTAMP:20230624T012307Z
+DTSTAMP:20230804T062400Z
 DTSTART:20230812T140000Z
 DTEND:20230813T140000Z
 SUMMARY:Stephensdale - Northern Local #3, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/19019
+GEO:-41.4417880397488;147.08074073786
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18022@eventor.orienteering.asn.au
@@ -6821,7 +6822,7 @@ GEO:-27.4597235453723;153.011036633059
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18462@eventor.orienteering.asn.au
-DTSTAMP:20230715T060214Z
+DTSTAMP:20230804T045637Z
 DTSTART:20230816T010000Z
 DTEND:20230816T033000Z
 SUMMARY:Midweek Training at Belair, Orienteering SA
@@ -7407,12 +7408,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19179
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18463@eventor.orienteering.asn.au
-DTSTAMP:20230117T061416Z
+DTSTAMP:20230804T050146Z
 DTSTART:20230913T010000Z
 DTEND:20230913T033000Z
-SUMMARY:Midweek Training at Simmonds Hill, Orienteering SA
+SUMMARY:Midweek Training at Para Wirra, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18463
-GEO:-34.8066993741179;138.84117162503
+GEO:-34.7025943035049;138.837283004693
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19326@eventor.orienteering.asn.au
@@ -7722,6 +7723,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18149
 GEO:-32.3374996180962;116.837449130719
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19338@eventor.orienteering.asn.au
+DTSTAMP:20230804T075039Z
+DTSTART:20231004T053000Z
+DTEND:20231004T083000Z
+SUMMARY:2023/24 Sydney Summer Series #1 - Ermington, Western and Hills Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19338
+GEO:-33.8209111832197;151.05942212772
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18686@eventor.orienteering.asn.au
 DTSTAMP:20230208T031944Z
 DTSTART:20231005T003000Z
@@ -7792,6 +7802,15 @@ DTEND:20231008T060000Z
 SUMMARY:Australian Championships Sprint, Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/18144
 GEO:-31.9869383862952;115.7762335606
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19339@eventor.orienteering.asn.au
+DTSTAMP:20230804T075129Z
+DTSTART:20231011T053000Z
+DTEND:20231011T083000Z
+SUMMARY:2023/24 Sydney Summer Series #2 - Hunters Hill, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19339
+GEO:-33.8262146183774;151.137996906473
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18404@eventor.orienteering.asn.au
@@ -7899,6 +7918,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19243
 GEO:-41.398860279459;147.121534743886
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19340@eventor.orienteering.asn.au
+DTSTAMP:20230804T075200Z
+DTSTART:20231018T053000Z
+DTEND:20231018T083000Z
+SUMMARY:2023/24 Sydney Summer Series #3 - Killarney Heights, Bennelong Northside Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19340
+GEO:-33.7724357308484;151.216253416423
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18573@eventor.orienteering.asn.au
 DTSTAMP:20230126T020912Z
 DTSTART:20231018T073000Z
@@ -7984,6 +8012,15 @@ DTEND:20231025T040000Z
 SUMMARY:Sandown Park - Hobart Spring Schools/Twilight #1, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/19237
 GEO:-42.9106493393726;147.356229372138
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19341@eventor.orienteering.asn.au
+DTSTAMP:20230804T075316Z
+DTSTART:20231025T053000Z
+DTEND:20231025T083000Z
+SUMMARY:2023/24 Sydney Summer Series #4 - Westleigh, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19341
+GEO:-33.7174531609216;151.070909317698
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19196@eventor.orienteering.asn.au
@@ -8079,6 +8116,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19245
 GEO:-41.4728623809163;147.125699846282
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19342@eventor.orienteering.asn.au
+DTSTAMP:20230804T075403Z
+DTSTART:20231101T053000Z
+DTEND:20231101T083000Z
+SUMMARY:2023/24 Sydney Summer Series #5 - West Pymble, Big Foot Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19342
+GEO:-33.763099819706;151.130151610444
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19197@eventor.orienteering.asn.au
 DTSTAMP:20230629T011655Z
 DTSTART:20231101T060000Z
@@ -8169,6 +8215,15 @@ DTEND:20231108T040000Z
 SUMMARY:Riverbend and Royal Park - Launceston Spring Twilight #4, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/19246
 GEO:-41.4316149121489;147.130522548003
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19343@eventor.orienteering.asn.au
+DTSTAMP:20230804T075444Z
+DTSTART:20231108T053000Z
+DTEND:20231108T083000Z
+SUMMARY:2023/24 Sydney Summer Series #6 - Lane Cove, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19343
+GEO:-33.8131897162378;151.144178303797
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19198@eventor.orienteering.asn.au
@@ -8277,6 +8332,15 @@ DTEND:20231115T040000Z
 SUMMARY:Heritage Forest - Launceston Spring Twilight #5, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/19247
 GEO:-41.408585478878;147.139407310109
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19344@eventor.orienteering.asn.au
+DTSTAMP:20230804T075614Z
+DTSTART:20231115T053000Z
+DTEND:20231115T083000Z
+SUMMARY:2023/24 Sydney Summer Series #7 - West Cherrybrook, Western and Hills Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19344
+GEO:-33.7118883237689;151.030085175137
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19199@eventor.orienteering.asn.au
@@ -8397,6 +8461,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19248
 GEO:-41.4029768492453;147.092876895036
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19345@eventor.orienteering.asn.au
+DTSTAMP:20230804T075640Z
+DTSTART:20231122T053000Z
+DTEND:20231122T083000Z
+SUMMARY:2023/24 Sydney Summer Series #8 - Manly Dam, Bennelong Northside Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19345
+GEO:-33.7564761531827;151.238010417578
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19200@eventor.orienteering.asn.au
 DTSTAMP:20230627T024627Z
 DTSTART:20231122T060000Z
@@ -8479,6 +8552,15 @@ DTEND:20231129T040000Z
 SUMMARY:Botanic Gardens - Hobart Spring Schools/Twilight #6, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/19242
 GEO:-42.8658581407141;147.330380147315
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19346@eventor.orienteering.asn.au
+DTSTAMP:20230804T075716Z
+DTSTART:20231129T053000Z
+DTEND:20231129T083000Z
+SUMMARY:2023/24 Sydney Summer Series #9 - Gladesville, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19346
+GEO:-33.8396906735827;151.128083387207
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19201@eventor.orienteering.asn.au
