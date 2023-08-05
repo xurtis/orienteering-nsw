@@ -3412,10 +3412,10 @@ GEO:-37.7796559735325;145.119666941342
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19294@eventor.orienteering.asn.au
-DTSTAMP:20230804T065609Z
+DTSTAMP:20230805T050100Z
 DTSTART:20230805T040000Z
 DTEND:20230805T040000Z
-SUMMARY:OV Event Organising workshop - computer-related aspects, Albury-Wodonga Orienteering Club / Bayside Kangaroos Orienteers / Bendigo Orienteers / Dandenong Ranges Orienteering Club / Melbourne Forest Racers / Nillumbik Emus Orienteering Club / Orienteering Victoria / Yarra Valley Orienteering Club
+SUMMARY:OV Event Organising workshop - computer-related aspects, Albury-Wodonga Orienteering Club / Bayside Kangaroos Orienteers / Bendigo Orienteers / Central Highlands Orienteering Club / Dandenong Ranges Orienteering Club / Melbourne Forest Racers / Nillumbik Emus Orienteering Club / Orienteering Victoria / Yarra Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19294
 END:VEVENT
 BEGIN:VEVENT
@@ -3543,6 +3543,14 @@ DTEND:20230816T101500Z
 SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Notting Hill, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19218
 GEO:-37.8739839491355;145.112309673223
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19347@eventor.orienteering.asn.au
+DTSTAMP:20230805T104409Z
+DTSTART:20230818T070000Z
+DTEND:20230818T070000Z
+SUMMARY:Rose Gardens Training - Control Flow, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19347
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19227@eventor.orienteering.asn.au
