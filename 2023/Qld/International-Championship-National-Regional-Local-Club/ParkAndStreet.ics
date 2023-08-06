@@ -765,10 +765,10 @@ GEO:-19.2437080173908;146.795172240714
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19347@eventor.orienteering.asn.au
-DTSTAMP:20230805T104409Z
+DTSTAMP:20230806T091550Z
 DTSTART:20230818T070000Z
 DTEND:20230818T070000Z
-SUMMARY:Rose Gardens Training - Control Flow, Range Runners Orienteering Club
+SUMMARY:Rose Gardens Training , Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19347
 END:VEVENT
 BEGIN:VEVENT
@@ -788,6 +788,14 @@ DTEND:20230823T091500Z
 SUMMARY:TTOC Urban Adventure Night Series 23 - Round 4 - Strand Park, Totally Tropical Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19320
 GEO:-19.2453992219247;146.810476329114
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19348@eventor.orienteering.asn.au
+DTSTAMP:20230806T092859Z
+DTSTART:20230825T070000Z
+DTEND:20230825T070000Z
+SUMMARY:Kearney Springs Training, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19348
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18732@eventor.orienteering.asn.au
@@ -817,6 +825,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18571
 GEO:-21.0864935217468;149.182301485104
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19350@eventor.orienteering.asn.au
+DTSTAMP:20230806T095040Z
+DTSTART:20230901T070000Z
+DTEND:20230901T070000Z
+SUMMARY:Queens Park Training, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19350
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19178@eventor.orienteering.asn.au
 DTSTAMP:20230611T110851Z
 DTSTART:20230905T073000Z
@@ -825,12 +841,28 @@ SUMMARY:Night Nav - Ashgrove West, Enoggeroos / Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19178
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19351@eventor.orienteering.asn.au
+DTSTAMP:20230806T100036Z
+DTSTART:20230908T070000Z
+DTEND:20230908T070000Z
+SUMMARY:Laurel Bank Training, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19351
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19179@eventor.orienteering.asn.au
 DTSTAMP:20230611T055531Z
 DTSTART:20230912T073000Z
 DTEND:20230912T093000Z
 SUMMARY:Night Nav - Red Hill, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19179
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19352@eventor.orienteering.asn.au
+DTSTAMP:20230806T101151Z
+DTSTART:20230915T070000Z
+DTEND:20230915T070000Z
+SUMMARY:Lake Annand Training, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19352
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18737@eventor.orienteering.asn.au
@@ -849,6 +881,14 @@ DTEND:20230920T091500Z
 SUMMARY:MapRun Night Nav East Mackay, 21Degrees South Multisport Assoc.
 URL:https://eventor.orienteering.asn.au/Events/Show/18572
 GEO:-21.1634159859388;149.197309395902
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19353@eventor.orienteering.asn.au
+DTSTAMP:20230806T102043Z
+DTSTART:20230924T060000Z
+DTEND:20230924T060000Z
+SUMMARY:Toowoomba City Training, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19353
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18668@eventor.orienteering.asn.au

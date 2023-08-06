@@ -435,14 +435,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19268
 GEO:-41.4366174108377;147.115710140983
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19041@eventor.orienteering.asn.au
-DTSTAMP:20230629T015730Z
-DTSTART:20230812T140000Z
-DTEND:20230813T140000Z
-SUMMARY:North West Region - NW Local, Pathfinders
-URL:https://eventor.orienteering.asn.au/Events/Show/19041
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19019@eventor.orienteering.asn.au
 DTSTAMP:20230804T062400Z
 DTSTART:20230812T140000Z
@@ -459,6 +451,15 @@ DTEND:20230813T030000Z
 SUMMARY:UTas Sandy Bay - Southern Local #8, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18981
 GEO:-42.9005715530315;147.329482178369
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19041@eventor.orienteering.asn.au
+DTSTAMP:20230806T083857Z
+DTSTART:20230813T010000Z
+DTEND:20230813T040000Z
+SUMMARY:North West Region - NW Local - Tiagarra, Pathfinders
+URL:https://eventor.orienteering.asn.au/Events/Show/19041
+GEO:-41.1630327694551;146.355395768398
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19269@eventor.orienteering.asn.au

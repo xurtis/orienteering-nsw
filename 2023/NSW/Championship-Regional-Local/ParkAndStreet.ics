@@ -670,7 +670,7 @@ GEO:-34.0551181368047;150.689069284383
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18695@eventor.orienteering.asn.au
-DTSTAMP:20230802T130815Z
+DTSTAMP:20230806T064535Z
 DTSTART:20230812T040000Z
 DTEND:20230812T050000Z
 SUMMARY:Shell Cove, Illawarra Kareelah Orienteers
@@ -722,6 +722,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19341
 GEO:-33.7174531609216;151.070909317698
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19141@eventor.orienteering.asn.au
+DTSTAMP:20230806T070204Z
+DTSTART:20231029T050000Z
+DTEND:20231029T060000Z
+SUMMARY:River and Bay Orienteering Series #2, Illawarra Kareelah Orienteers / Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19141
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19342@eventor.orienteering.asn.au
 DTSTAMP:20230804T075403Z
 DTSTART:20231101T053000Z
@@ -738,6 +746,14 @@ DTEND:20231108T083000Z
 SUMMARY:2023/24 Sydney Summer Series #6 - Lane Cove, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19343
 GEO:-33.8131897162378;151.144178303797
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19143@eventor.orienteering.asn.au
+DTSTAMP:20230806T071344Z
+DTSTART:20231112T050000Z
+DTEND:20231112T060000Z
+SUMMARY:River and Bay Orienteering Series #4, Illawarra Kareelah Orienteers / Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19143
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19344@eventor.orienteering.asn.au

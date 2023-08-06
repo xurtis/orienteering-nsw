@@ -5780,6 +5780,15 @@ SUMMARY:OV Event Organising workshop - computer-related aspects, Albury-Wodonga 
 URL:https://eventor.orienteering.asn.au/Events/Show/19294
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18677@eventor.orienteering.asn.au
+DTSTAMP:20230806T072253Z
+DTSTART:20230805T210000Z
+DTEND:20230806T023000Z
+SUMMARY:2023 Metro League #5, Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18677
+GEO:-33.8925333956362;150.979691423042
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19278@eventor.orienteering.asn.au
 DTSTAMP:20230725T053246Z
 DTSTART:20230805T230000Z
@@ -5788,17 +5797,8 @@ SUMMARY:Griffith University Gold Coast Campus CONFIRMED, Paradise Lost Orienteer
 URL:https://eventor.orienteering.asn.au/Events/Show/19278
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18677@eventor.orienteering.asn.au
-DTSTAMP:20230710T043009Z
-DTSTART:20230805T233000Z
-DTEND:20230805T233000Z
-SUMMARY:2023 Metro League #5, Uringa Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18677
-GEO:-33.8925333956362;150.979691423042
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19325@eventor.orienteering.asn.au
-DTSTAMP:20230801T114656Z
+DTSTAMP:20230806T025606Z
 DTSTART:20230805T233000Z
 DTEND:20230806T030000Z
 SUMMARY:Newcastle Minor/Training - Mount Sugarloaf, Newcastle Orienteering Club
@@ -5807,7 +5807,7 @@ GEO:-32.8911962930524;151.539121755359
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18885@eventor.orienteering.asn.au
-DTSTAMP:20230801T020434Z
+DTSTAMP:20230806T020359Z
 DTSTART:20230806T000000Z
 DTEND:20230806T000000Z
 SUMMARY:Bush event #6 Gosling Creek - Pairs Event, Goldseekers Orienteers
@@ -5939,14 +5939,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19273
 GEO:-30.3588920270905;153.098927819399
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19041@eventor.orienteering.asn.au
-DTSTAMP:20230629T015730Z
-DTSTART:20230812T140000Z
-DTEND:20230813T140000Z
-SUMMARY:North West Region - NW Local, Pathfinders
-URL:https://eventor.orienteering.asn.au/Events/Show/19041
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19019@eventor.orienteering.asn.au
 DTSTAMP:20230804T062400Z
 DTSTART:20230812T140000Z
@@ -5993,7 +5985,7 @@ GEO:-36.0642378182709;146.903708179586
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18797@eventor.orienteering.asn.au
-DTSTAMP:20230304T004217Z
+DTSTAMP:20230806T035657Z
 DTSTART:20230813T000000Z
 DTEND:20230813T040000Z
 SUMMARY:Sawmill Ck, Northern Tablelands Orienteering Club
@@ -6026,6 +6018,15 @@ DTEND:20230813T033000Z
 SUMMARY:Surfleet Cove/Stamford Beach EP Relays, Lincoln Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18768
 GEO:-34.7666087245669;135.957036166837
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19041@eventor.orienteering.asn.au
+DTSTAMP:20230806T083857Z
+DTSTART:20230813T010000Z
+DTEND:20230813T040000Z
+SUMMARY:North West Region - NW Local - Tiagarra, Pathfinders
+URL:https://eventor.orienteering.asn.au/Events/Show/19041
+GEO:-41.1630327694551;146.355395768398
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19165@eventor.orienteering.asn.au
@@ -6127,10 +6128,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19328
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19347@eventor.orienteering.asn.au
-DTSTAMP:20230805T104409Z
+DTSTAMP:20230806T091550Z
 DTSTART:20230818T070000Z
 DTEND:20230818T070000Z
-SUMMARY:Rose Gardens Training - Control Flow, Range Runners Orienteering Club
+SUMMARY:Rose Gardens Training , Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19347
 END:VEVENT
 BEGIN:VEVENT
@@ -6282,6 +6283,14 @@ SUMMARY:Mitcham Hills After School Zone Event #6 - Belair NP, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/19329
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19348@eventor.orienteering.asn.au
+DTSTAMP:20230806T092859Z
+DTSTART:20230825T070000Z
+DTEND:20230825T070000Z
+SUMMARY:Kearney Springs Training, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19348
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17869@eventor.orienteering.asn.au
 DTSTAMP:20230613T005718Z
 DTSTART:20230826T003000Z
@@ -6395,6 +6404,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18881
 GEO:-27.6933581115108;153.027413218821
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19350@eventor.orienteering.asn.au
+DTSTAMP:20230806T095040Z
+DTSTART:20230901T070000Z
+DTEND:20230901T070000Z
+SUMMARY:Queens Park Training, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19350
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17870@eventor.orienteering.asn.au
 DTSTAMP:20230328T224640Z
 DTSTART:20230902T003000Z
@@ -6440,7 +6457,7 @@ GEO:-34.8062894749151;138.841932584926
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18893@eventor.orienteering.asn.au
-DTSTAMP:20230801T085528Z
+DTSTAMP:20230806T054254Z
 DTSTART:20230903T003000Z
 DTEND:20230903T030000Z
 SUMMARY:Highlands Forest Series #5 - Appin, Illawarra Kareelah Orienteers / Southern Highlands Orienteers
@@ -6472,6 +6489,14 @@ DTSTART:20230905T073000Z
 DTEND:20230905T093000Z
 SUMMARY:Night Nav - Ashgrove West, Enoggeroos / Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19178
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19351@eventor.orienteering.asn.au
+DTSTAMP:20230806T100036Z
+DTSTART:20230908T070000Z
+DTEND:20230908T070000Z
+SUMMARY:Laurel Bank Training, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19351
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18400@eventor.orienteering.asn.au
@@ -6532,6 +6557,14 @@ DTEND:20230913T033000Z
 SUMMARY:Midweek Training at Para Wirra, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18463
 GEO:-34.7025943035049;138.837283004693
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19352@eventor.orienteering.asn.au
+DTSTAMP:20230806T101151Z
+DTSTART:20230915T070000Z
+DTEND:20230915T070000Z
+SUMMARY:Lake Annand Training, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19352
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19326@eventor.orienteering.asn.au
@@ -6687,6 +6720,14 @@ DTSTART:20230924T010000Z
 DTEND:20230924T033000Z
 SUMMARY:SA Interclub Relays, SA Arrows
 URL:https://eventor.orienteering.asn.au/Events/Show/18999
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19353@eventor.orienteering.asn.au
+DTSTAMP:20230806T102043Z
+DTSTART:20230924T060000Z
+DTEND:20230924T060000Z
+SUMMARY:Toowoomba City Training, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19353
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18668@eventor.orienteering.asn.au
@@ -7024,7 +7065,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18534
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19141@eventor.orienteering.asn.au
-DTSTAMP:20230605T063128Z
+DTSTAMP:20230806T070204Z
 DTSTART:20231029T050000Z
 DTEND:20231029T060000Z
 SUMMARY:River and Bay Orienteering Series #2, Illawarra Kareelah Orienteers / Uringa Orienteers
@@ -7243,7 +7284,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18535
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19143@eventor.orienteering.asn.au
-DTSTAMP:20230605T064255Z
+DTSTAMP:20230806T071344Z
 DTSTART:20231112T050000Z
 DTEND:20231112T060000Z
 SUMMARY:River and Bay Orienteering Series #4, Illawarra Kareelah Orienteers / Uringa Orienteers

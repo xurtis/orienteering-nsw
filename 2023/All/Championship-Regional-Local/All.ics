@@ -2647,7 +2647,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19294
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18429@eventor.orienteering.asn.au
-DTSTAMP:20230802T080826Z
+DTSTAMP:20230806T044052Z
 DTSTART:20230805T140000Z
 DTEND:20230806T140000Z
 SUMMARY:Vic Series (Bush) 6 - Musk Vale, Daylesford, Bayside Kangaroos Orienteers
@@ -2656,9 +2656,9 @@ GEO:-37.3706514807061;144.145666483336
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18677@eventor.orienteering.asn.au
-DTSTAMP:20230710T043009Z
-DTSTART:20230805T233000Z
-DTEND:20230805T233000Z
+DTSTAMP:20230806T072253Z
+DTSTART:20230805T210000Z
+DTEND:20230806T023000Z
 SUMMARY:2023 Metro League #5, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18677
 GEO:-33.8925333956362;150.979691423042
@@ -2719,7 +2719,7 @@ GEO:-35.410360348597;149.119705386102
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18695@eventor.orienteering.asn.au
-DTSTAMP:20230802T130815Z
+DTSTAMP:20230806T064535Z
 DTSTART:20230812T040000Z
 DTEND:20230812T050000Z
 SUMMARY:Shell Cove, Illawarra Kareelah Orienteers
@@ -2791,7 +2791,7 @@ GEO:-34.7666087245669;135.957036166837
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18746@eventor.orienteering.asn.au
-DTSTAMP:20230626T074015Z
+DTSTAMP:20230806T000853Z
 DTSTART:20230813T013000Z
 DTEND:20230813T050000Z
 SUMMARY:Bush 8 WA Middle Distance Championships, Orienteering WA / Wullundigong Orienteers of the West
@@ -3057,7 +3057,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17894
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18893@eventor.orienteering.asn.au
-DTSTAMP:20230801T085528Z
+DTSTAMP:20230806T054254Z
 DTSTART:20230903T003000Z
 DTEND:20230903T030000Z
 SUMMARY:Highlands Forest Series #5 - Appin, Illawarra Kareelah Orienteers / Southern Highlands Orienteers
@@ -3546,7 +3546,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19196
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18346@eventor.orienteering.asn.au
-DTSTAMP:20230802T060819Z
+DTSTAMP:20230805T225445Z
 DTSTART:20231027T130000Z
 DTEND:20231028T130000Z
 SUMMARY:MTBO Vic Series #4 - Beechworth, Albury-Wodonga Orienteering Club
@@ -3555,12 +3555,20 @@ GEO:-36.3575877171348;146.699711148106
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18347@eventor.orienteering.asn.au
-DTSTAMP:20230802T062404Z
+DTSTAMP:20230805T225746Z
 DTSTART:20231028T130000Z
 DTEND:20231029T130000Z
 SUMMARY:MTBO Vic Series #5 - Stanley, Albury-Wodonga Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18347
 GEO:-36.4028961272823;146.75483542549
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19141@eventor.orienteering.asn.au
+DTSTAMP:20230806T070204Z
+DTSTART:20231029T050000Z
+DTEND:20231029T060000Z
+SUMMARY:River and Bay Orienteering Series #2, Illawarra Kareelah Orienteers / Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19141
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18550@eventor.orienteering.asn.au
@@ -3612,6 +3620,14 @@ DTEND:20231112T130000Z
 SUMMARY:MTBO Vic Series #6 - Linton, Yarra Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18348
 GEO:-37.6805755910039;143.563809117085
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19143@eventor.orienteering.asn.au
+DTSTAMP:20230806T071344Z
+DTSTART:20231112T050000Z
+DTEND:20231112T060000Z
+SUMMARY:River and Bay Orienteering Series #4, Illawarra Kareelah Orienteers / Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19143
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19344@eventor.orienteering.asn.au

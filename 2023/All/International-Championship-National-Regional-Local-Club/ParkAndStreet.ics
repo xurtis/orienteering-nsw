@@ -3492,7 +3492,7 @@ GEO:-37.72105273723;145.055269532208
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18695@eventor.orienteering.asn.au
-DTSTAMP:20230802T130815Z
+DTSTAMP:20230806T064535Z
 DTSTART:20230812T040000Z
 DTEND:20230812T050000Z
 SUMMARY:Shell Cove, Illawarra Kareelah Orienteers
@@ -3555,10 +3555,10 @@ GEO:-37.8739839491355;145.112309673223
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19347@eventor.orienteering.asn.au
-DTSTAMP:20230805T104409Z
+DTSTAMP:20230806T091550Z
 DTSTART:20230818T070000Z
 DTEND:20230818T070000Z
-SUMMARY:Rose Gardens Training - Control Flow, Range Runners Orienteering Club
+SUMMARY:Rose Gardens Training , Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19347
 END:VEVENT
 BEGIN:VEVENT
@@ -3623,6 +3623,14 @@ DTEND:20230823T101500Z
 SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Blackburn North, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19219
 GEO:-37.8095355112909;145.15054256276
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19348@eventor.orienteering.asn.au
+DTSTAMP:20230806T092859Z
+DTSTART:20230825T070000Z
+DTEND:20230825T070000Z
+SUMMARY:Kearney Springs Training, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19348
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19228@eventor.orienteering.asn.au
@@ -3706,6 +3714,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19220
 GEO:-37.7426225809115;145.042717769228
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19350@eventor.orienteering.asn.au
+DTSTAMP:20230806T095040Z
+DTSTART:20230901T070000Z
+DTEND:20230901T070000Z
+SUMMARY:Queens Park Training, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19350
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18874@eventor.orienteering.asn.au
 DTSTAMP:20230627T013656Z
 DTSTART:20230904T070000Z
@@ -3736,6 +3752,14 @@ DTSTART:20230906T083000Z
 DTEND:20230906T101500Z
 SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Ringwood Wilds, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19221
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19351@eventor.orienteering.asn.au
+DTSTAMP:20230806T100036Z
+DTSTART:20230908T070000Z
+DTEND:20230908T070000Z
+SUMMARY:Laurel Bank Training, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19351
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19229@eventor.orienteering.asn.au
@@ -3784,6 +3808,14 @@ DTSTART:20230913T083000Z
 DTEND:20230913T101500Z
 SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Deepdene, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19222
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19352@eventor.orienteering.asn.au
+DTSTAMP:20230806T101151Z
+DTSTART:20230915T070000Z
+DTEND:20230915T070000Z
+SUMMARY:Lake Annand Training, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19352
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19230@eventor.orienteering.asn.au
@@ -3858,6 +3890,14 @@ DTSTART:20230924T010000Z
 DTEND:20230924T021000Z
 SUMMARY:Mornington Peninsula Sunday MapRun - Capel Sound, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19233
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19353@eventor.orienteering.asn.au
+DTSTAMP:20230806T102043Z
+DTSTART:20230924T060000Z
+DTEND:20230924T060000Z
+SUMMARY:Toowoomba City Training, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19353
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18668@eventor.orienteering.asn.au
@@ -3998,7 +4038,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18534
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19141@eventor.orienteering.asn.au
-DTSTAMP:20230605T063128Z
+DTSTAMP:20230806T070204Z
 DTSTART:20231029T050000Z
 DTEND:20231029T060000Z
 SUMMARY:River and Bay Orienteering Series #2, Illawarra Kareelah Orienteers / Uringa Orienteers
@@ -4066,7 +4106,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18535
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19143@eventor.orienteering.asn.au
-DTSTAMP:20230605T064255Z
+DTSTAMP:20230806T071344Z
 DTSTART:20231112T050000Z
 DTEND:20231112T060000Z
 SUMMARY:River and Bay Orienteering Series #4, Illawarra Kareelah Orienteers / Uringa Orienteers
