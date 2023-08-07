@@ -1023,6 +1023,14 @@ SUMMARY:Central Adelaide Schools Zone Event 9 - Goodwood Orphanage, Orienteering
 URL:https://eventor.orienteering.asn.au/Events/Show/19297
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19358@eventor.orienteering.asn.au
+DTSTAMP:20230807T114329Z
+DTSTART:20230809T060000Z
+DTEND:20230809T071500Z
+SUMMARY:Heathfield After School Zone Event #1: Stirling East PS, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/19358
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19295@eventor.orienteering.asn.au
 DTSTAMP:20230723T130325Z
 DTSTART:20230810T061500Z
@@ -1075,6 +1083,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18462
 GEO:-35.0104285341905;138.636321394662
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19359@eventor.orienteering.asn.au
+DTSTAMP:20230807T115211Z
+DTSTART:20230816T060000Z
+DTEND:20230816T071500Z
+SUMMARY:Heathfield After School Zone Event #2: Crafers PS, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/19359
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19296@eventor.orienteering.asn.au
 DTSTAMP:20230723T130902Z
 DTSTART:20230817T061500Z
@@ -1102,12 +1118,20 @@ GEO:-33.234993571971;138.998322207255
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18178@eventor.orienteering.asn.au
-DTSTAMP:20230721T084653Z
+DTSTAMP:20230807T053322Z
 DTSTART:20230820T003000Z
 DTEND:20230820T033000Z
 SUMMARY:Merridee Orienteer of the Year long OY event, Wallaringa Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18178
 GEO:-33.3016231634825;139.004184961339
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19360@eventor.orienteering.asn.au
+DTSTAMP:20230807T115355Z
+DTSTART:20230823T060000Z
+DTEND:20230823T071500Z
+SUMMARY:Heathfield After School Zone Event #3: Heathfield HS, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/19360
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19298@eventor.orienteering.asn.au

@@ -3942,7 +3942,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19224
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19338@eventor.orienteering.asn.au
-DTSTAMP:20230804T075039Z
+DTSTAMP:20230807T053323Z
 DTSTART:20231004T053000Z
 DTEND:20231004T083000Z
 SUMMARY:2023/24 Sydney Summer Series #1 - Ermington, Western and Hills Orienteers
@@ -3951,7 +3951,7 @@ GEO:-33.8209111832197;151.05942212772
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19339@eventor.orienteering.asn.au
-DTSTAMP:20230804T075129Z
+DTSTAMP:20230807T053438Z
 DTSTART:20231011T053000Z
 DTEND:20231011T083000Z
 SUMMARY:2023/24 Sydney Summer Series #2 - Hunters Hill, Garingal Orienteers
@@ -3995,7 +3995,7 @@ GEO:-35.0305783633314;117.913056854876
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19340@eventor.orienteering.asn.au
-DTSTAMP:20230804T075200Z
+DTSTAMP:20230807T053533Z
 DTSTART:20231018T053000Z
 DTEND:20231018T083000Z
 SUMMARY:2023/24 Sydney Summer Series #3 - Killarney Heights, Bennelong Northside Orienteers
@@ -4021,7 +4021,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19140
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19341@eventor.orienteering.asn.au
-DTSTAMP:20230804T075316Z
+DTSTAMP:20230807T053635Z
 DTSTART:20231025T053000Z
 DTEND:20231025T083000Z
 SUMMARY:2023/24 Sydney Summer Series #4 - Westleigh, Garingal Orienteers
@@ -4055,7 +4055,7 @@ GEO:-27.4997779891425;152.963991915636
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19342@eventor.orienteering.asn.au
-DTSTAMP:20230804T075403Z
+DTSTAMP:20230807T053727Z
 DTSTART:20231101T053000Z
 DTEND:20231101T083000Z
 SUMMARY:2023/24 Sydney Summer Series #5 - West Pymble, Big Foot Orienteers
@@ -4080,7 +4080,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19142
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19343@eventor.orienteering.asn.au
-DTSTAMP:20230804T075444Z
+DTSTAMP:20230807T053812Z
 DTSTART:20231108T053000Z
 DTEND:20231108T083000Z
 SUMMARY:2023/24 Sydney Summer Series #6 - Lane Cove, Garingal Orienteers
@@ -4114,7 +4114,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19143
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19344@eventor.orienteering.asn.au
-DTSTAMP:20230804T075614Z
+DTSTAMP:20230807T053904Z
 DTSTART:20231115T053000Z
 DTEND:20231115T083000Z
 SUMMARY:2023/24 Sydney Summer Series #7 - West Cherrybrook, Western and Hills Orienteers
@@ -4148,7 +4148,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19144
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19345@eventor.orienteering.asn.au
-DTSTAMP:20230804T075640Z
+DTSTAMP:20230807T053947Z
 DTSTART:20231122T053000Z
 DTEND:20231122T083000Z
 SUMMARY:2023/24 Sydney Summer Series #8 - Manly Dam, Bennelong Northside Orienteers
@@ -4182,7 +4182,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19145
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19346@eventor.orienteering.asn.au
-DTSTAMP:20230804T075716Z
+DTSTAMP:20230807T054104Z
 DTSTART:20231129T053000Z
 DTEND:20231129T083000Z
 SUMMARY:2023/24 Sydney Summer Series #9 - Gladesville, Garingal Orienteers
@@ -4215,6 +4215,15 @@ SUMMARY:River and Bay Orienteering Series #7, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19146
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19361@eventor.orienteering.asn.au
+DTSTAMP:20230807T061807Z
+DTSTART:20231206T053000Z
+DTEND:20231206T083000Z
+SUMMARY:2023/24 Sydney Summer Series #10 - Hunts Creek, Big Foot Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19361
+GEO:-33.7843703999529;151.033090319546
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18575@eventor.orienteering.asn.au
 DTSTAMP:20230126T021810Z
 DTSTART:20231206T073000Z
@@ -4222,5 +4231,32 @@ DTEND:20231206T091500Z
 SUMMARY:MapRun Night Nav Christmas Lights in the City, 21Degrees South Multisport Assoc.
 URL:https://eventor.orienteering.asn.au/Events/Show/18575
 GEO:-21.139517887245;149.187930858556
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19362@eventor.orienteering.asn.au
+DTSTAMP:20230807T061940Z
+DTSTART:20231213T053000Z
+DTEND:20231213T083000Z
+SUMMARY:2023/24 Sydney Summer Series #11 - Willoughby, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19362
+GEO:-33.8115598307651;151.203530195184
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19363@eventor.orienteering.asn.au
+DTSTAMP:20230807T062012Z
+DTSTART:20231220T053000Z
+DTEND:20231220T083000Z
+SUMMARY:2023/24 Sydney Summer Series #12 - Mosman, Bennelong Northside Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19363
+GEO:-33.8058262705058;151.245916325501
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19364@eventor.orienteering.asn.au
+DTSTAMP:20230807T062051Z
+DTSTART:20231227T053000Z
+DTEND:20231227T083000Z
+SUMMARY:2023/24 Sydney Summer Series #13 - Ourimbah, Central Coast, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19364
+GEO:-33.3572537585174;151.375961041639
 END:VEVENT
 END:VCALENDAR
