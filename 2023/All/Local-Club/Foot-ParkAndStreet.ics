@@ -7105,6 +7105,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19135
 GEO:-37.944686648869;145.080250610455
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19163@eventor.orienteering.asn.au
+DTSTAMP:20230808T111045Z
+DTSTART:20230729T140000Z
+DTEND:20230730T140000Z
+SUMMARY:MapRun Parks 2023 - Pine Rivers Park, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19163
+GEO:-27.314034;152.995504
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19260@eventor.orienteering.asn.au
 DTSTAMP:20230730T125559Z
 DTSTART:20230729T143000Z
@@ -7193,15 +7202,6 @@ DTEND:20230730T033000Z
 SUMMARY:Bush 7 Yetar Spring, LOST / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/18744
 GEO:-31.9251334860808;116.34915897081
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19163@eventor.orienteering.asn.au
-DTSTAMP:20230724T001751Z
-DTSTART:20230730T060000Z
-DTEND:20230730T060000Z
-SUMMARY:MapRun Parks 2023 - Pine Rivers Park, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19163
-GEO:-27.314034;152.995504
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19265@eventor.orienteering.asn.au
@@ -7391,6 +7391,15 @@ SUMMARY:OV Event Organising workshop - computer-related aspects, Albury-Wodonga 
 URL:https://eventor.orienteering.asn.au/Events/Show/19294
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19164@eventor.orienteering.asn.au
+DTSTAMP:20230808T111247Z
+DTSTART:20230805T140000Z
+DTEND:20230806T140000Z
+SUMMARY:MapRun Parks 2023 - Seven Hills, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19164
+GEO:-27.4749803684857;153.088655126628
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18677@eventor.orienteering.asn.au
 DTSTAMP:20230806T072253Z
 DTSTART:20230805T210000Z
@@ -7426,15 +7435,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18885
 GEO:-33.3265595342471;149.08527829107
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19164@eventor.orienteering.asn.au
-DTSTAMP:20230731T032602Z
-DTSTART:20230806T060000Z
-DTEND:20230806T060000Z
-SUMMARY:MapRun Parks 2023 - Seven Hills, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19164
-GEO:-27.4749803684857;153.088655126628
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18182@eventor.orienteering.asn.au
 DTSTAMP:20230802T015907Z
 DTSTART:20230806T233000Z
@@ -7445,7 +7445,7 @@ GEO:-33.7063788964093;151.187745530509
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18870@eventor.orienteering.asn.au
-DTSTAMP:20230428T030719Z
+DTSTAMP:20230807T234451Z
 DTSTART:20230807T070000Z
 DTEND:20230807T091500Z
 SUMMARY:ACT MapRun Street Series: Chifley, 3-7 Aug, Orienteering ACT
@@ -7462,6 +7462,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19208
 GEO:-37.8105776930649;145.117109337424
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19174@eventor.orienteering.asn.au
+DTSTAMP:20230808T111937Z
+DTSTART:20230807T140000Z
+DTEND:20230808T140000Z
+SUMMARY:Night Nav - Taringa, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19174
+GEO:-27.4914411967235;152.991837968859
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19268@eventor.orienteering.asn.au
 DTSTAMP:20230711T004002Z
 DTSTART:20230807T140000Z
@@ -7469,15 +7478,6 @@ DTEND:20230808T140000Z
 SUMMARY:SpecTACOular Trevallyn, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/19268
 GEO:-41.4366174108377;147.115710140983
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19174@eventor.orienteering.asn.au
-DTSTAMP:20230611T053500Z
-DTSTART:20230808T073000Z
-DTEND:20230808T093000Z
-SUMMARY:Night Nav - Taringa, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19174
-GEO:-27.4914411967235;152.991837968859
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18909@eventor.orienteering.asn.au
@@ -7525,10 +7525,10 @@ GEO:-37.9037910692374;145.16502361142
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19299@eventor.orienteering.asn.au
-DTSTAMP:20230726T052922Z
+DTSTAMP:20230808T100733Z
 DTSTART:20230810T003000Z
 DTEND:20230810T003000Z
-SUMMARY:Kholo Road MapRun (pending SEQW permit), Orienteering Queensland
+SUMMARY:CANCELLED: Kholo Road MapRun (pending SEQW permit), Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19299
 GEO:-27.5361117398636;152.754551096931
 END:VEVENT
@@ -7663,7 +7663,7 @@ DTSTART:20230813T000000Z
 DTEND:20230813T033000Z
 SUMMARY:Waggaroos - AWOC Interclub #6, Nail Can Hill, Albury-Wodonga Orienteering Club / Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18593
-GEO:-36.0642378182709;146.903708179586
+GEO:-36.0526531032344;146.902204939435
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18797@eventor.orienteering.asn.au
@@ -7845,11 +7845,28 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19328
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19347@eventor.orienteering.asn.au
-DTSTAMP:20230806T091550Z
+DTSTAMP:20230808T054633Z
 DTSTART:20230818T070000Z
 DTEND:20230818T070000Z
 SUMMARY:Rose Gardens Training , Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19347
+GEO:-27.5519674798514;151.933215590475
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19366@eventor.orienteering.asn.au
+DTSTAMP:20230808T055622Z
+DTSTART:20230818T233000Z
+DTEND:20230818T233000Z
+SUMMARY:SOS Hills Seven Hills, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/19366
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19367@eventor.orienteering.asn.au
+DTSTAMP:20230808T055733Z
+DTSTART:20230818T233000Z
+DTEND:20230818T233000Z
+SUMMARY:SOS Northside , Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/19367
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18398@eventor.orienteering.asn.au
@@ -7888,22 +7905,31 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19292
 GEO:-36.7644992335144;144.269033640558
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19376@eventor.orienteering.asn.au
+DTSTAMP:20230808T122743Z
+DTSTART:20230819T143000Z
+DTEND:20230820T143000Z
+SUMMARY:NT: 2023 Manton Dam, Top End Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19376
+GEO:-12.863332820921;131.120795150484
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18669@eventor.orienteering.asn.au
-DTSTAMP:20230424T022401Z
-DTSTART:20230819T230000Z
-DTEND:20230820T023000Z
+DTSTAMP:20230808T071047Z
+DTSTART:20230819T223000Z
+DTEND:20230820T013000Z
 SUMMARY:Glider Forest, Parkinson, Toohey Forest Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18669
-GEO:-27.6529656566235;153.006056696029
+GEO:-27.6521503314362;153.003924927047
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18788@eventor.orienteering.asn.au
-DTSTAMP:20230717T084449Z
+DTSTAMP:20230808T094501Z
 DTSTART:20230819T230000Z
 DTEND:20230820T030000Z
 SUMMARY:McAdam's, off Old Stanthorpe Road, 15km north of Dalveen, Bullecourt Boulder Bounders
 URL:https://eventor.orienteering.asn.au/Events/Show/18788
-GEO:-28.3354675032474;152.050228496973
+GEO:-28.4200461784573;152.042782684748
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18688@eventor.orienteering.asn.au
@@ -8053,11 +8079,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19329
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19348@eventor.orienteering.asn.au
-DTSTAMP:20230806T092859Z
+DTSTAMP:20230808T054944Z
 DTSTART:20230825T070000Z
 DTEND:20230825T070000Z
-SUMMARY:Kearney Springs Training, Range Runners Orienteering Club
+SUMMARY:Kearneys Spring Training, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19348
+GEO:-27.6015588162067;151.945934178248
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17869@eventor.orienteering.asn.au
@@ -8077,12 +8104,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17871
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18399@eventor.orienteering.asn.au
-DTSTAMP:20230521T112519Z
+DTSTAMP:20230808T050048Z
 DTSTART:20230826T023000Z
 DTEND:20230826T040000Z
 SUMMARY:Bendigo Bush 14 - Lockwood Range, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18399
-GEO:-36.7487294091634;144.301893428594
+GEO:-36.8332071304837;144.150979356031
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19228@eventor.orienteering.asn.au
@@ -8219,19 +8246,37 @@ GEO:-27.6933581115108;153.027413218821
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19350@eventor.orienteering.asn.au
-DTSTAMP:20230806T095040Z
+DTSTAMP:20230808T055335Z
 DTSTART:20230901T070000Z
 DTEND:20230901T070000Z
 SUMMARY:Queens Park Training, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19350
+GEO:-27.5608092982775;151.964003321484
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19368@eventor.orienteering.asn.au
+DTSTAMP:20230808T055854Z
+DTSTART:20230901T233000Z
+DTEND:20230901T233000Z
+SUMMARY:SOS Hills Seven Hills, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/19368
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19369@eventor.orienteering.asn.au
+DTSTAMP:20230808T060106Z
+DTSTART:20230901T233000Z
+DTEND:20230901T233000Z
+SUMMARY:SOS Northside, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/19369
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17870@eventor.orienteering.asn.au
-DTSTAMP:20230328T224640Z
+DTSTAMP:20230808T003723Z
 DTSTART:20230902T003000Z
-DTEND:20230902T030000Z
-SUMMARY:ACT Blue Lightning Event, Orienteering ACT
+DTEND:20230902T033000Z
+SUMMARY:ACT Blue Lightning Super Sprints, Haig Park, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/17870
+GEO:-35.2698846601723;149.127303429845
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18024@eventor.orienteering.asn.au
@@ -8330,11 +8375,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19221
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19351@eventor.orienteering.asn.au
-DTSTAMP:20230806T100036Z
+DTSTAMP:20230808T061130Z
 DTSTART:20230908T070000Z
 DTEND:20230908T070000Z
 SUMMARY:Laurel Bank Training, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19351
+GEO:-27.5619306518353;151.944794417476
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18400@eventor.orienteering.asn.au
@@ -8446,11 +8492,19 @@ SUMMARY:Lake Annand Training, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19352
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19370@eventor.orienteering.asn.au
+DTSTAMP:20230808T060758Z
+DTSTART:20230915T233000Z
+DTEND:20230915T233000Z
+SUMMARY:SOS Hills Term 3, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/19370
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19326@eventor.orienteering.asn.au
-DTSTAMP:20230801T043126Z
+DTSTAMP:20230808T061002Z
 DTSTART:20230915T233000Z
 DTEND:20230916T020000Z
-SUMMARY:Lane Cove Festival, Garingal Orienteers
+SUMMARY:Lane Cove Festival (inc. SOS), Bold Horizons Event Organiser / Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19326
 END:VEVENT
 BEGIN:VEVENT
@@ -8588,6 +8642,14 @@ DTEND:20230923T160000Z
 SUMMARY:Hill Park Dale Training Day, Bibbulmun Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19334
 GEO:-32.2646075058952;116.773901994137
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19371@eventor.orienteering.asn.au
+DTSTAMP:20230808T061128Z
+DTSTART:20230922T233000Z
+DTEND:20230922T233000Z
+SUMMARY:SOS Northside Term 3 Final Willoughby, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/19371
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18402@eventor.orienteering.asn.au
