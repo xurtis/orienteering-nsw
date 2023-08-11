@@ -6462,15 +6462,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19027
 GEO:-37.7975957427868;145.092175899528
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19189@eventor.orienteering.asn.au
-DTSTAMP:20230620T072428Z
-DTSTART:20230619T140000Z
-DTEND:20230620T140000Z
-SUMMARY:Livelox test, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19189
-GEO:-27.027120864385;152.781076230957
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18938@eventor.orienteering.asn.au
 DTSTAMP:20230620T120520Z
 DTSTART:20230619T140000Z
@@ -8255,7 +8246,7 @@ GEO:-27.5361117398636;152.754551096931
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19300@eventor.orienteering.asn.au
-DTSTAMP:20230803T092935Z
+DTSTAMP:20230811T021706Z
 DTSTART:20230810T003000Z
 DTEND:20230810T003000Z
 SUMMARY:NEW VENUE: Marstaellar Rd, Mt Crosby, Orienteering Queensland
@@ -8280,7 +8271,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19327
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19355@eventor.orienteering.asn.au
-DTSTAMP:20230809T005954Z
+DTSTAMP:20230810T195756Z
 DTSTART:20230811T233000Z
 DTEND:20230812T020000Z
 SUMMARY:SOS Hills - Castle Hill, Bold Horizons Event Organiser
@@ -8352,7 +8343,7 @@ GEO:-32.005715069704;115.766932097001
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19019@eventor.orienteering.asn.au
-DTSTAMP:20230804T062400Z
+DTSTAMP:20230811T080118Z
 DTSTART:20230812T140000Z
 DTEND:20230813T140000Z
 SUMMARY:Stephensdale - Northern Local #3, Esk Valley
@@ -8636,12 +8627,12 @@ GEO:-41.2537987767572;148.179706171486
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18398@eventor.orienteering.asn.au
-DTSTAMP:20230521T121300Z
+DTSTAMP:20230811T070054Z
 DTSTART:20230819T023000Z
 DTEND:20230819T040000Z
-SUMMARY:Bendigo Training - Score Event - Norfolk Hero, Bendigo Orienteers
+SUMMARY:Norfolk Hero Training , Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18398
-GEO:-36.7514082571303;144.316676210343
+GEO:-36.7987567101109;144.285548560956
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19227@eventor.orienteering.asn.au
@@ -8907,7 +8898,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17871
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18399@eventor.orienteering.asn.au
-DTSTAMP:20230808T050048Z
+DTSTAMP:20230810T221837Z
 DTSTART:20230826T023000Z
 DTEND:20230826T040000Z
 SUMMARY:Bendigo Bush 14 - Lockwood Range, Bendigo Orienteers
@@ -9118,15 +9109,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17870
 GEO:-35.2698846601723;149.127303429845
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18024@eventor.orienteering.asn.au
-DTSTAMP:20230223T102721Z
-DTSTART:20230902T140000Z
-DTEND:20230903T140000Z
-SUMMARY:Bowman Park, Bardon - BCC , Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18024
-GEO:-27.4593646191735;152.977962978994
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18244@eventor.orienteering.asn.au
 DTSTAMP:20230731T001558Z
 DTSTART:20230902T140000Z
@@ -9134,6 +9116,15 @@ DTEND:20230903T140000Z
 SUMMARY:Victorian Long Distance Championships - Mt Alexander, Harcourt, Melbourne Forest Racers
 URL:https://eventor.orienteering.asn.au/Events/Show/18244
 GEO:-37.0184406186584;144.305784515339
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18024@eventor.orienteering.asn.au
+DTSTAMP:20230811T012950Z
+DTSTART:20230902T230000Z
+DTEND:20230903T010000Z
+SUMMARY:Bowman Park, Bardon - BCC , Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18024
+GEO:-27.4593646191735;152.977962978994
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18886@eventor.orienteering.asn.au
@@ -9164,7 +9155,7 @@ GEO:-35.0034961419338;149.156139859369
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18632@eventor.orienteering.asn.au
-DTSTAMP:20230204T034306Z
+DTSTAMP:20230811T091632Z
 DTSTART:20230903T003000Z
 DTEND:20230903T003000Z
 SUMMARY:Simmonds Hill, Tintookies Orienteers
@@ -9179,15 +9170,6 @@ DTEND:20230903T030000Z
 SUMMARY:Highlands Forest Series #5 - Appin, Illawarra Kareelah Orienteers / Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18893
 GEO:-34.200825497085;150.792537962811
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19168@eventor.orienteering.asn.au
-DTSTAMP:20230731T035213Z
-DTSTART:20230903T060000Z
-DTEND:20230903T060000Z
-SUMMARY:MapRun Parks 2023 - Anzac Park, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19168
-GEO:-27.480341;152.981084
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18874@eventor.orienteering.asn.au
@@ -9333,6 +9315,15 @@ DTEND:20230910T013000Z
 SUMMARY:Bush 10 Marginata, LOST / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/18748
 GEO:-32.0106028013119;116.421941771013
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19168@eventor.orienteering.asn.au
+DTSTAMP:20230811T012643Z
+DTSTART:20230910T060000Z
+DTEND:20230910T060000Z
+SUMMARY:MapRun Parks 2023 - Anzac Park, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19168
+GEO:-27.480341;152.981084
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18875@eventor.orienteering.asn.au
@@ -9768,6 +9759,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18147
 GEO:-32.0247852558974;115.864452128475
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19189@eventor.orienteering.asn.au
+DTSTAMP:20230811T011822Z
+DTSTART:20231003T073000Z
+DTEND:20231003T093000Z
+SUMMARY:Night Nav - location tbc, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19189
+GEO:-27.4691827297667;153.012746706468
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18148@eventor.orienteering.asn.au
 DTSTAMP:20230725T041723Z
 DTSTART:20231004T010000Z
@@ -9876,6 +9876,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18144
 GEO:-31.9869383862952;115.7762335606
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19385@eventor.orienteering.asn.au
+DTSTAMP:20230811T045732Z
+DTSTART:20231010T073000Z
+DTEND:20231010T093000Z
+SUMMARY:Night Nav - location tbc, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19385
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19339@eventor.orienteering.asn.au
 DTSTAMP:20230807T053438Z
 DTSTART:20231011T053000Z
@@ -9963,6 +9971,14 @@ DTEND:20231015T040000Z
 SUMMARY:Albany - Mt Adelaide & Forts Historical Precinct, Albany & Denmark Hinterland Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19156
 GEO:-35.0305783633314;117.913056854876
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19386@eventor.orienteering.asn.au
+DTSTAMP:20230811T050022Z
+DTSTART:20231017T073000Z
+DTEND:20231017T093000Z
+SUMMARY:Night Nav - location tbc, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19386
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18549@eventor.orienteering.asn.au
@@ -10066,6 +10082,14 @@ DTSTART:20231022T050000Z
 DTEND:20231022T060000Z
 SUMMARY:River and Bay Orienteering Series #1, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19140
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19387@eventor.orienteering.asn.au
+DTSTAMP:20230811T050251Z
+DTSTART:20231024T073000Z
+DTEND:20231024T093000Z
+SUMMARY:Night Nav - location tbc, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19387
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19244@eventor.orienteering.asn.au
@@ -10581,6 +10605,14 @@ DTSTART:20231125T130000Z
 DTEND:20231126T130000Z
 SUMMARY:Victorian Sprint Championships, Yarra Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19115
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19184@eventor.orienteering.asn.au
+DTSTAMP:20230811T001320Z
+DTSTART:20231125T130000Z
+DTEND:20231126T130000Z
+SUMMARY:Victorian Sprint Championships, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19184
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18600@eventor.orienteering.asn.au

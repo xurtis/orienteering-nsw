@@ -2057,15 +2057,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18863
 GEO:-35.4356244757304;149.115114960377
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19189@eventor.orienteering.asn.au
-DTSTAMP:20230620T072428Z
-DTSTART:20230619T140000Z
-DTEND:20230620T140000Z
-SUMMARY:Livelox test, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19189
-GEO:-27.027120864385;152.781076230957
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18908@eventor.orienteering.asn.au
 DTSTAMP:20230605T071430Z
 DTSTART:20230620T233000Z
@@ -3194,6 +3185,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18147
 GEO:-32.0247852558974;115.864452128475
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19189@eventor.orienteering.asn.au
+DTSTAMP:20230811T011822Z
+DTSTART:20231003T073000Z
+DTEND:20231003T093000Z
+SUMMARY:Night Nav - location tbc, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19189
+GEO:-27.4691827297667;153.012746706468
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18148@eventor.orienteering.asn.au
 DTSTAMP:20230725T041723Z
 DTSTART:20231004T010000Z
@@ -3484,6 +3484,14 @@ DTSTART:20231125T130000Z
 DTEND:20231126T130000Z
 SUMMARY:Victorian Sprint Championships, Yarra Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19115
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19184@eventor.orienteering.asn.au
+DTSTAMP:20230811T001320Z
+DTSTART:20231125T130000Z
+DTEND:20231126T130000Z
+SUMMARY:Victorian Sprint Championships, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19184
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19346@eventor.orienteering.asn.au

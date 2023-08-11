@@ -181,15 +181,6 @@ SUMMARY:Closed school event, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18547
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19189@eventor.orienteering.asn.au
-DTSTAMP:20230620T072428Z
-DTSTART:20230619T140000Z
-DTEND:20230620T140000Z
-SUMMARY:Livelox test, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19189
-GEO:-27.027120864385;152.781076230957
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18681@eventor.orienteering.asn.au
 DTSTAMP:20230622T055643Z
 DTSTART:20230622T003000Z
@@ -321,6 +312,15 @@ DTSTART:20230916T140000Z
 DTEND:20230917T140000Z
 SUMMARY:OY11 - Glen Mine, Warwick , Orienteering Queensland / Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18026
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19189@eventor.orienteering.asn.au
+DTSTAMP:20230811T011822Z
+DTSTART:20231003T073000Z
+DTEND:20231003T093000Z
+SUMMARY:Night Nav - location tbc, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19189
+GEO:-27.4691827297667;153.012746706468
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18549@eventor.orienteering.asn.au

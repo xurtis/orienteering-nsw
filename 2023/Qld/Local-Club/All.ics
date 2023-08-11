@@ -1281,15 +1281,6 @@ SUMMARY:Closed school event, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18547
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19189@eventor.orienteering.asn.au
-DTSTAMP:20230620T072428Z
-DTSTART:20230619T140000Z
-DTEND:20230620T140000Z
-SUMMARY:Livelox test, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19189
-GEO:-27.027120864385;152.781076230957
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18938@eventor.orienteering.asn.au
 DTSTAMP:20230620T120520Z
 DTSTART:20230619T140000Z
@@ -1618,7 +1609,7 @@ GEO:-27.5361117398636;152.754551096931
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19300@eventor.orienteering.asn.au
-DTSTAMP:20230803T092935Z
+DTSTAMP:20230811T021706Z
 DTSTART:20230810T003000Z
 DTEND:20230810T003000Z
 SUMMARY:NEW VENUE: Marstaellar Rd, Mt Crosby, Orienteering Queensland
@@ -1779,21 +1770,12 @@ GEO:-27.5608092982775;151.964003321484
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18024@eventor.orienteering.asn.au
-DTSTAMP:20230223T102721Z
-DTSTART:20230902T140000Z
-DTEND:20230903T140000Z
+DTSTAMP:20230811T012950Z
+DTSTART:20230902T230000Z
+DTEND:20230903T010000Z
 SUMMARY:Bowman Park, Bardon - BCC , Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18024
 GEO:-27.4593646191735;152.977962978994
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19168@eventor.orienteering.asn.au
-DTSTAMP:20230731T035213Z
-DTSTART:20230903T060000Z
-DTEND:20230903T060000Z
-SUMMARY:MapRun Parks 2023 - Anzac Park, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19168
-GEO:-27.480341;152.981084
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19178@eventor.orienteering.asn.au
@@ -1820,6 +1802,15 @@ DTEND:20230908T200000Z
 SUMMARY:MTBO Champs DInner, Multi Terrain Bike Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19091
 GEO:-27.5236299259751;153.23715812727
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19168@eventor.orienteering.asn.au
+DTSTAMP:20230811T012643Z
+DTSTART:20230910T060000Z
+DTEND:20230910T060000Z
+SUMMARY:MapRun Parks 2023 - Anzac Park, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19168
+GEO:-27.480341;152.981084
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19179@eventor.orienteering.asn.au
@@ -1891,6 +1882,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18753
 GEO:-27.4827439415576;153.114922415097
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19189@eventor.orienteering.asn.au
+DTSTAMP:20230811T011822Z
+DTSTART:20231003T073000Z
+DTEND:20231003T093000Z
+SUMMARY:Night Nav - location tbc, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19189
+GEO:-27.4691827297667;153.012746706468
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18686@eventor.orienteering.asn.au
 DTSTAMP:20230208T031944Z
 DTSTART:20231005T003000Z
@@ -1906,6 +1906,22 @@ DTSTART:20231007T140000Z
 DTEND:20231008T140000Z
 SUMMARY:MTBO - Black Swamp, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/17939
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19385@eventor.orienteering.asn.au
+DTSTAMP:20230811T045732Z
+DTSTART:20231010T073000Z
+DTEND:20231010T093000Z
+SUMMARY:Night Nav - location tbc, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19385
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19386@eventor.orienteering.asn.au
+DTSTAMP:20230811T050022Z
+DTSTART:20231017T073000Z
+DTEND:20231017T093000Z
+SUMMARY:Night Nav - location tbc, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19386
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18549@eventor.orienteering.asn.au
@@ -1932,6 +1948,14 @@ DTEND:20231019T010000Z
 SUMMARY:Beryl Roberts Park, Coopers Plains. (BCC Sponsored) (MAPRUN EVENT), Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18757
 GEO:-27.5665587768057;153.041514612351
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19387@eventor.orienteering.asn.au
+DTSTAMP:20230811T050251Z
+DTSTART:20231024T073000Z
+DTEND:20231024T093000Z
+SUMMARY:Night Nav - location tbc, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19387
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18733@eventor.orienteering.asn.au
