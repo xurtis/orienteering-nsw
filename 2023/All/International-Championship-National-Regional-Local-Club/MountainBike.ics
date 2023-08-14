@@ -372,7 +372,7 @@ GEO:-32.3193194366382;116.069529863635
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19294@eventor.orienteering.asn.au
-DTSTAMP:20230805T050100Z
+DTSTAMP:20230814T110635Z
 DTSTART:20230805T040000Z
 DTEND:20230805T040000Z
 SUMMARY:OV Event Organising workshop - computer-related aspects, Albury-Wodonga Orienteering Club / Bayside Kangaroos Orienteers / Bendigo Orienteers / Central Highlands Orienteering Club / Dandenong Ranges Orienteering Club / Melbourne Forest Racers / Nillumbik Emus Orienteering Club / Orienteering Victoria / Yarra Valley Orienteering Club
@@ -468,6 +468,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18545
 GEO:-29.7449145667866;152.96393323594
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18564@eventor.orienteering.asn.au
+DTSTAMP:20230814T084626Z
+DTSTART:20230906T140000Z
+DTEND:20230907T140000Z
+SUMMARY:Australian MTBO Champs - Mass Start, Multi Terrain Bike Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18564
+GEO:-27.3425825080239;153.075743711694
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18317@eventor.orienteering.asn.au
 DTSTAMP:20230519T012430Z
 DTSTART:20230907T140000Z
@@ -523,7 +532,7 @@ GEO:-35.367529142169;149.218609457689
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19080@eventor.orienteering.asn.au
-DTSTAMP:20230727T022520Z
+DTSTAMP:20230813T233839Z
 DTSTART:20230930T223000Z
 DTEND:20231001T020000Z
 SUMMARY:GO-GO Bike Hike, Garingal Orienteers

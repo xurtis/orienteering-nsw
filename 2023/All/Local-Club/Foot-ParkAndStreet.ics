@@ -7375,7 +7375,7 @@ GEO:-37.7796559735325;145.119666941342
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19294@eventor.orienteering.asn.au
-DTSTAMP:20230805T050100Z
+DTSTAMP:20230814T110635Z
 DTSTART:20230805T040000Z
 DTEND:20230805T040000Z
 SUMMARY:OV Event Organising workshop - computer-related aspects, Albury-Wodonga Orienteering Club / Bayside Kangaroos Orienteers / Bendigo Orienteers / Central Highlands Orienteering Club / Dandenong Ranges Orienteering Club / Melbourne Forest Racers / Nillumbik Emus Orienteering Club / Orienteering Victoria / Yarra Valley Orienteering Club
@@ -7612,6 +7612,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19273
 GEO:-30.3588920270905;153.098927819399
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19165@eventor.orienteering.asn.au
+DTSTAMP:20230814T111743Z
+DTSTART:20230812T140000Z
+DTEND:20230813T140000Z
+SUMMARY:MapRun Parks 2023 - Moore Park, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19165
+GEO:-27.499782;152.963875
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19019@eventor.orienteering.asn.au
 DTSTAMP:20230811T080118Z
 DTSTART:20230812T140000Z
@@ -7658,7 +7667,7 @@ GEO:-36.0526531032344;146.902204939435
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18797@eventor.orienteering.asn.au
-DTSTAMP:20230806T035657Z
+DTSTAMP:20230814T115720Z
 DTSTART:20230813T000000Z
 DTEND:20230813T040000Z
 SUMMARY:Sawmill Ck, Northern Tablelands Orienteering Club
@@ -7694,21 +7703,12 @@ GEO:-34.7702037621397;135.938058866535
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19041@eventor.orienteering.asn.au
-DTSTAMP:20230806T083857Z
+DTSTAMP:20230814T003643Z
 DTSTART:20230813T010000Z
 DTEND:20230813T040000Z
 SUMMARY:North West Region - NW Local - Tiagarra, Pathfinders
 URL:https://eventor.orienteering.asn.au/Events/Show/19041
 GEO:-41.1630327694551;146.355395768398
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19165@eventor.orienteering.asn.au
-DTSTAMP:20230731T033956Z
-DTSTART:20230813T060000Z
-DTEND:20230813T060000Z
-SUMMARY:MapRun Parks 2023 - Moore Park, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19165
-GEO:-27.499782;152.963875
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18871@eventor.orienteering.asn.au
@@ -7810,7 +7810,7 @@ GEO:-37.8739839491355;145.112309673223
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19390@eventor.orienteering.asn.au
-DTSTAMP:20230813T074508Z
+DTSTAMP:20230814T080957Z
 DTSTART:20230817T003000Z
 DTEND:20230817T010000Z
 SUMMARY:Misty Morn, Orienteering Queensland
@@ -7960,7 +7960,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19068
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18594@eventor.orienteering.asn.au
-DTSTAMP:20230505T072511Z
+DTSTAMP:20230813T233349Z
 DTSTART:20230820T000000Z
 DTEND:20230820T033000Z
 SUMMARY:Waggaroos Local event, Pomingalarna, Wagga and Riverina Occasional Orienteers
@@ -7978,7 +7978,7 @@ GEO:-33.3016231634825;139.004184961339
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18917@eventor.orienteering.asn.au
-DTSTAMP:20230723T070443Z
+DTSTAMP:20230813T233451Z
 DTSTART:20230820T010000Z
 DTEND:20230820T030000Z
 SUMMARY:Kooloonbung Creek Orienteering, Hastings Orienteering Group
@@ -8293,7 +8293,7 @@ GEO:-35.2698846601723;149.127303429845
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18024@eventor.orienteering.asn.au
-DTSTAMP:20230811T012950Z
+DTSTAMP:20230814T084300Z
 DTSTART:20230902T230000Z
 DTEND:20230903T010000Z
 SUMMARY:Bowman Park, Bardon - BCC , Ugly Gully Orienteers
@@ -8317,15 +8317,6 @@ DTEND:20230903T033000Z
 SUMMARY:Waggaroos Local event, Victory Memorial Gardens, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18595
 GEO:-35.1093552944227;147.369320145851
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18632@eventor.orienteering.asn.au
-DTSTAMP:20230811T091632Z
-DTSTART:20230903T003000Z
-DTEND:20230903T003000Z
-SUMMARY:Simmonds Hill, Tintookies Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18632
-GEO:-34.8062894749151;138.841932584926
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18893@eventor.orienteering.asn.au
