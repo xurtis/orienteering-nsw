@@ -720,7 +720,7 @@ GEO:-27.5394556720767;152.987659585405
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19317@eventor.orienteering.asn.au
-DTSTAMP:20230728T112145Z
+DTSTAMP:20230814T223408Z
 DTSTART:20230802T071500Z
 DTEND:20230802T091500Z
 SUMMARY:TTOC Urban Adventure Night Series 23 - Round 1 - The Stadium, Totally Tropical Orienteering Club
@@ -747,9 +747,9 @@ GEO:-19.2552849791991;146.822802460699
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19175@eventor.orienteering.asn.au
-DTSTAMP:20230611T053754Z
-DTSTART:20230815T073000Z
-DTEND:20230815T093000Z
+DTSTAMP:20230815T103214Z
+DTSTART:20230814T140000Z
+DTEND:20230815T140000Z
 SUMMARY:Night Nav - Ithaca, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19175
 GEO:-27.4597235453723;153.011036633059
@@ -764,13 +764,13 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19319
 GEO:-19.2437080173908;146.795172240714
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19347@eventor.orienteering.asn.au
-DTSTAMP:20230808T054633Z
+UID:Event_19351@eventor.orienteering.asn.au
+DTSTAMP:20230815T112739Z
 DTSTART:20230818T070000Z
 DTEND:20230818T070000Z
-SUMMARY:Rose Gardens Training , Range Runners Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19347
-GEO:-27.5519674798514;151.933215590475
+SUMMARY:Laurel Bank Park Toowoomba Training, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19351
+GEO:-27.5619306518353;151.944794417476
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19388@eventor.orienteering.asn.au
@@ -800,13 +800,13 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19320
 GEO:-19.2453992219247;146.810476329114
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19348@eventor.orienteering.asn.au
-DTSTAMP:20230808T054944Z
+UID:Event_19350@eventor.orienteering.asn.au
+DTSTAMP:20230815T023254Z
 DTSTART:20230825T070000Z
 DTEND:20230825T070000Z
-SUMMARY:Kearneys Spring Training, Range Runners Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19348
-GEO:-27.6015588162067;151.945934178248
+SUMMARY:Queens Park Toowoomba Training, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19350
+GEO:-27.5608092982775;151.964003321484
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18732@eventor.orienteering.asn.au
@@ -836,13 +836,13 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18571
 GEO:-21.0864935217468;149.182301485104
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19350@eventor.orienteering.asn.au
-DTSTAMP:20230808T055335Z
+UID:Event_19348@eventor.orienteering.asn.au
+DTSTAMP:20230815T023353Z
 DTSTART:20230901T070000Z
 DTEND:20230901T070000Z
-SUMMARY:Queens Park Training, Range Runners Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19350
-GEO:-27.5608092982775;151.964003321484
+SUMMARY:Kearneys Spring Toowoomba Training, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19348
+GEO:-27.6015588162067;151.945934178248
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18024@eventor.orienteering.asn.au
@@ -863,13 +863,20 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19178
 GEO:-27.4436538149206;152.98725975853
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19351@eventor.orienteering.asn.au
-DTSTAMP:20230808T061130Z
+UID:Event_19352@eventor.orienteering.asn.au
+DTSTAMP:20230815T023427Z
 DTSTART:20230908T070000Z
 DTEND:20230908T070000Z
-SUMMARY:Laurel Bank Training, Range Runners Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19351
-GEO:-27.5619306518353;151.944794417476
+SUMMARY:Lake Annand Toowoomba Training, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19352
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19391@eventor.orienteering.asn.au
+DTSTAMP:20230814T231935Z
+DTSTART:20230909T230000Z
+DTEND:20230910T000000Z
+SUMMARY:Park and Bush Orienteering at Eddie K Reserve, Elanora TBC, Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19391
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19179@eventor.orienteering.asn.au
@@ -880,12 +887,13 @@ SUMMARY:Night Nav - Red Hill, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19179
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19352@eventor.orienteering.asn.au
-DTSTAMP:20230806T101151Z
+UID:Event_19347@eventor.orienteering.asn.au
+DTSTAMP:20230815T023517Z
 DTSTART:20230915T070000Z
 DTEND:20230915T070000Z
-SUMMARY:Lake Annand Training, Range Runners Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19352
+SUMMARY:Rose Gardens Newtown Tmba Training , Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19347
+GEO:-27.5519674798514;151.933215590475
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18737@eventor.orienteering.asn.au

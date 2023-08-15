@@ -1018,7 +1018,7 @@ GEO:-33.7657710563263;150.855732711607
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19317@eventor.orienteering.asn.au
-DTSTAMP:20230728T112145Z
+DTSTAMP:20230814T223408Z
 DTSTART:20230802T071500Z
 DTEND:20230802T091500Z
 SUMMARY:TTOC Urban Adventure Night Series 23 - Round 1 - The Stadium, Totally Tropical Orienteering Club
@@ -1089,7 +1089,7 @@ GEO:-34.5900953075999;150.864121773032
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18871@eventor.orienteering.asn.au
-DTSTAMP:20230710T035216Z
+DTSTAMP:20230815T000015Z
 DTSTART:20230814T070000Z
 DTEND:20230814T091500Z
 SUMMARY:ACT MapRun Street Series: Hackett, 10-14 Aug, Orienteering ACT
@@ -1352,6 +1352,15 @@ DTSTART:20231125T040000Z
 DTEND:20231125T060000Z
 SUMMARY:Berry, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18697
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19392@eventor.orienteering.asn.au
+DTSTAMP:20230815T042818Z
+DTSTART:20231127T130000Z
+DTEND:20231128T130000Z
+SUMMARY:Sydney Summer Series 2023/2024 Season Ticket, Bennelong Northside Orienteers / Big Foot Orienteers / Central Coast Orienteers / Garingal Orienteers / Illawarra Kareelah Orienteers / Orienteering NSW / Uringa Orienteers / Western and Hills Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19392
+GEO:-33.8459900159258;151.074532411409
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19346@eventor.orienteering.asn.au

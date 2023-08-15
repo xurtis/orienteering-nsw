@@ -2468,7 +2468,7 @@ GEO:-33.7657710563263;150.855732711607
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19317@eventor.orienteering.asn.au
-DTSTAMP:20230728T112145Z
+DTSTAMP:20230814T223408Z
 DTSTART:20230802T071500Z
 DTEND:20230802T091500Z
 SUMMARY:TTOC Urban Adventure Night Series 23 - Round 1 - The Stadium, Totally Tropical Orienteering Club
@@ -2664,7 +2664,7 @@ GEO:-31.9503903121981;116.313018405962
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18871@eventor.orienteering.asn.au
-DTSTAMP:20230710T035216Z
+DTSTAMP:20230815T000015Z
 DTSTART:20230814T070000Z
 DTEND:20230814T091500Z
 SUMMARY:ACT MapRun Street Series: Hackett, 10-14 Aug, Orienteering ACT
@@ -2965,7 +2965,7 @@ GEO:-32.67039;149.98499
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17715@eventor.orienteering.asn.au
-DTSTAMP:20230809T052743Z
+DTSTAMP:20230814T194521Z
 DTSTART:20230909T140000Z
 DTEND:20230910T140000Z
 SUMMARY:2023 Orienteering NSW State Championships (Long) / State League #15, Garingal Orienteers
@@ -3161,10 +3161,10 @@ GEO:-32.0249463118735;115.864496100126
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19331@eventor.orienteering.asn.au
-DTSTAMP:20230802T063830Z
+DTSTAMP:20230815T081229Z
 DTSTART:20231003T020000Z
 DTEND:20231003T050000Z
-SUMMARY:Australian Schools Sprint Championships - ENTRY BY INDEPENDANT STUDENTS, Orienteering WA
+SUMMARY:Australian Schools Sprint Championships - ENTRY BY INDEPENDENT STUDENTS, Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/19331
 GEO:-32.0246227036406;115.864290488435
 END:VEVENT
@@ -3485,6 +3485,15 @@ DTSTART:20231125T130000Z
 DTEND:20231126T130000Z
 SUMMARY:Victorian Sprint Championships, Yarra Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19184
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19392@eventor.orienteering.asn.au
+DTSTAMP:20230815T042818Z
+DTSTART:20231127T130000Z
+DTEND:20231128T130000Z
+SUMMARY:Sydney Summer Series 2023/2024 Season Ticket, Bennelong Northside Orienteers / Big Foot Orienteers / Central Coast Orienteers / Garingal Orienteers / Illawarra Kareelah Orienteers / Orienteering NSW / Uringa Orienteers / Western and Hills Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19392
+GEO:-33.8459900159258;151.074532411409
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19346@eventor.orienteering.asn.au

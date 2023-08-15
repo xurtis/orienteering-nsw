@@ -822,7 +822,7 @@ GEO:-36.4105585990323;148.416000398259
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18871@eventor.orienteering.asn.au
-DTSTAMP:20230710T035216Z
+DTSTAMP:20230815T000015Z
 DTSTART:20230814T070000Z
 DTEND:20230814T091500Z
 SUMMARY:ACT MapRun Street Series: Hackett, 10-14 Aug, Orienteering ACT
@@ -837,6 +837,15 @@ DTEND:20230816T040000Z
 SUMMARY:ACT Midweek Series: Cooleman Ridge, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19290
 GEO:-35.3602017493005;149.033241170489
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19263@eventor.orienteering.asn.au
+DTSTAMP:20230810T032809Z
+DTSTART:20230817T090000Z
+DTEND:20230817T110000Z
+SUMMARY:Purple Pen ZOOM Workshop, Orienteering ACT / Orienteering NSW / Orienteering Queensland / Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/19263
+GEO:-33.845976276035;151.074429412305
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17826@eventor.orienteering.asn.au
@@ -872,6 +881,7 @@ DTSTART:20230823T020000Z
 DTEND:20230823T040000Z
 SUMMARY:ACT Midweek Series: Ginninderra Creek, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19357
+GEO:-35.2137969455707;149.014715024801
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17869@eventor.orienteering.asn.au

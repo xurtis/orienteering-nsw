@@ -3358,7 +3358,7 @@ GEO:-33.7657710563263;150.855732711607
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19317@eventor.orienteering.asn.au
-DTSTAMP:20230728T112145Z
+DTSTAMP:20230814T223408Z
 DTSTART:20230802T071500Z
 DTEND:20230802T091500Z
 SUMMARY:TTOC Urban Adventure Night Series 23 - Round 1 - The Stadium, Totally Tropical Orienteering Club
@@ -3501,7 +3501,7 @@ GEO:-30.3588920270905;153.098927819399
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18871@eventor.orienteering.asn.au
-DTSTAMP:20230710T035216Z
+DTSTAMP:20230815T000015Z
 DTSTART:20230814T070000Z
 DTEND:20230814T091500Z
 SUMMARY:ACT MapRun Street Series: Hackett, 10-14 Aug, Orienteering ACT
@@ -3519,9 +3519,9 @@ GEO:-37.8248513126716;145.140224203412
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19175@eventor.orienteering.asn.au
-DTSTAMP:20230611T053754Z
-DTSTART:20230815T073000Z
-DTEND:20230815T093000Z
+DTSTAMP:20230815T103214Z
+DTSTART:20230814T140000Z
+DTEND:20230815T140000Z
 SUMMARY:Night Nav - Ithaca, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19175
 GEO:-27.4597235453723;153.011036633059
@@ -3545,13 +3545,13 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19218
 GEO:-37.8739839491355;145.112309673223
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19347@eventor.orienteering.asn.au
-DTSTAMP:20230808T054633Z
+UID:Event_19351@eventor.orienteering.asn.au
+DTSTAMP:20230815T112739Z
 DTSTART:20230818T070000Z
 DTEND:20230818T070000Z
-SUMMARY:Rose Gardens Training , Range Runners Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19347
-GEO:-27.5519674798514;151.933215590475
+SUMMARY:Laurel Bank Park Toowoomba Training, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19351
+GEO:-27.5619306518353;151.944794417476
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19366@eventor.orienteering.asn.au
@@ -3644,13 +3644,13 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19219
 GEO:-37.8095355112909;145.15054256276
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19348@eventor.orienteering.asn.au
-DTSTAMP:20230808T054944Z
+UID:Event_19350@eventor.orienteering.asn.au
+DTSTAMP:20230815T023254Z
 DTSTART:20230825T070000Z
 DTEND:20230825T070000Z
-SUMMARY:Kearneys Spring Training, Range Runners Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19348
-GEO:-27.6015588162067;151.945934178248
+SUMMARY:Queens Park Toowoomba Training, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19350
+GEO:-27.5608092982775;151.964003321484
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19228@eventor.orienteering.asn.au
@@ -3734,13 +3734,13 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19220
 GEO:-37.7426225809115;145.042717769228
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19350@eventor.orienteering.asn.au
-DTSTAMP:20230808T055335Z
+UID:Event_19348@eventor.orienteering.asn.au
+DTSTAMP:20230815T023353Z
 DTSTART:20230901T070000Z
 DTEND:20230901T070000Z
-SUMMARY:Queens Park Training, Range Runners Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19350
-GEO:-27.5608092982775;151.964003321484
+SUMMARY:Kearneys Spring Toowoomba Training, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19348
+GEO:-27.6015588162067;151.945934178248
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19368@eventor.orienteering.asn.au
@@ -3801,13 +3801,12 @@ SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Ringwood Wilds,
 URL:https://eventor.orienteering.asn.au/Events/Show/19221
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19351@eventor.orienteering.asn.au
-DTSTAMP:20230808T061130Z
+UID:Event_19352@eventor.orienteering.asn.au
+DTSTAMP:20230815T023427Z
 DTSTART:20230908T070000Z
 DTEND:20230908T070000Z
-SUMMARY:Laurel Bank Training, Range Runners Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19351
-GEO:-27.5619306518353;151.944794417476
+SUMMARY:Lake Annand Toowoomba Training, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19352
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19229@eventor.orienteering.asn.au
@@ -3816,6 +3815,14 @@ DTSTART:20230909T033000Z
 DTEND:20230909T051000Z
 SUMMARY:Melbourne Park Street Saturday Series - Darebin Parklands, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19229
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19391@eventor.orienteering.asn.au
+DTSTAMP:20230814T231935Z
+DTSTART:20230909T230000Z
+DTEND:20230910T000000Z
+SUMMARY:Park and Bush Orienteering at Eddie K Reserve, Elanora TBC, Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19391
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18770@eventor.orienteering.asn.au
@@ -3858,12 +3865,13 @@ SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Deepdene, Baysi
 URL:https://eventor.orienteering.asn.au/Events/Show/19222
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19352@eventor.orienteering.asn.au
-DTSTAMP:20230806T101151Z
+UID:Event_19347@eventor.orienteering.asn.au
+DTSTAMP:20230815T023517Z
 DTSTART:20230915T070000Z
 DTEND:20230915T070000Z
-SUMMARY:Lake Annand Training, Range Runners Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19352
+SUMMARY:Rose Gardens Newtown Tmba Training , Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19347
+GEO:-27.5519674798514;151.933215590475
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19370@eventor.orienteering.asn.au
@@ -4276,6 +4284,15 @@ DTSTART:20231126T050000Z
 DTEND:20231126T060000Z
 SUMMARY:River and Bay Orienteering Series #6, NSW Stingers / Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19145
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19392@eventor.orienteering.asn.au
+DTSTAMP:20230815T042818Z
+DTSTART:20231127T130000Z
+DTEND:20231128T130000Z
+SUMMARY:Sydney Summer Series 2023/2024 Season Ticket, Bennelong Northside Orienteers / Big Foot Orienteers / Central Coast Orienteers / Garingal Orienteers / Illawarra Kareelah Orienteers / Orienteering NSW / Uringa Orienteers / Western and Hills Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19392
+GEO:-33.8459900159258;151.074532411409
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19346@eventor.orienteering.asn.au
