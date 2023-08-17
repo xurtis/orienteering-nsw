@@ -8202,7 +8202,7 @@ GEO:-34.0551181368047;150.689069284383
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19336@eventor.orienteering.asn.au
-DTSTAMP:20230809T052602Z
+DTSTAMP:20230816T234831Z
 DTSTART:20230809T020000Z
 DTEND:20230809T040000Z
 SUMMARY:ACT Midweek Series: Oakey Hill, Orienteering ACT
@@ -8558,7 +8558,7 @@ GEO:-37.8739839491355;145.112309673223
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19390@eventor.orienteering.asn.au
-DTSTAMP:20230816T041638Z
+DTSTAMP:20230817T080603Z
 DTSTART:20230817T003000Z
 DTEND:20230817T010000Z
 SUMMARY:Misty Morn - MapRun, Orienteering Queensland
@@ -8753,12 +8753,12 @@ GEO:-37.2625406968214;144.267501695212
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19012@eventor.orienteering.asn.au
-DTSTAMP:20230726T085857Z
+DTSTAMP:20230817T111103Z
 DTSTART:20230820T003000Z
 DTEND:20230820T033000Z
 SUMMARY:Hunt Tin Mine - Tas Middle Distance Championships, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/19012
-GEO:-41.306857;148.11553
+GEO:-41.311742;148.114881
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18178@eventor.orienteering.asn.au
@@ -9568,7 +9568,7 @@ GEO:-27.4075276374579;153.051992739612
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19334@eventor.orienteering.asn.au
-DTSTAMP:20230815T005032Z
+DTSTAMP:20230817T040340Z
 DTSTART:20230922T160000Z
 DTEND:20230923T160000Z
 SUMMARY:Hill Park Dale Training Day, Bibbulmun Orienteers
@@ -9611,7 +9611,7 @@ GEO:-42.8636492388967;147.387206203575
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19335@eventor.orienteering.asn.au
-DTSTAMP:20230802T153024Z
+DTSTAMP:20230817T040859Z
 DTSTART:20230923T160000Z
 DTEND:20230924T160000Z
 SUMMARY:Hill Park Dale Training Day, Bibbulmun Orienteers
@@ -9783,12 +9783,12 @@ GEO:-32.0247852558974;115.864452128475
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19189@eventor.orienteering.asn.au
-DTSTAMP:20230811T011822Z
+DTSTAMP:20230817T043631Z
 DTSTART:20231003T073000Z
 DTEND:20231003T093000Z
-SUMMARY:Night Nav - location tbc, Ugly Gully Orienteers
+SUMMARY:Night Nav - Chelmer, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19189
-GEO:-27.4691827297667;153.012746706468
+GEO:-27.5184866471138;152.985543890995
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18148@eventor.orienteering.asn.au
@@ -9900,11 +9900,12 @@ GEO:-31.9869383862952;115.7762335606
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19385@eventor.orienteering.asn.au
-DTSTAMP:20230811T045732Z
+DTSTAMP:20230817T051131Z
 DTSTART:20231010T073000Z
 DTEND:20231010T093000Z
-SUMMARY:Night Nav - location tbc, Ugly Gully Orienteers
+SUMMARY:Night Nav - Rosalie, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19385
+GEO:-27.4687642487204;153.000311335916
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19339@eventor.orienteering.asn.au
@@ -9997,11 +9998,12 @@ GEO:-35.0305783633314;117.913056854876
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19386@eventor.orienteering.asn.au
-DTSTAMP:20230811T050022Z
+DTSTAMP:20230817T054001Z
 DTSTART:20231017T073000Z
 DTEND:20231017T093000Z
-SUMMARY:Night Nav - location tbc, Ugly Gully Orienteers
+SUMMARY:Night Nav - Auchenflower, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19386
+GEO:-27.4706698365714;153.001173821566
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18549@eventor.orienteering.asn.au
@@ -10073,15 +10075,6 @@ SUMMARY:North West Region - NW Local, Pathfinders
 URL:https://eventor.orienteering.asn.au/Events/Show/19249
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18432@eventor.orienteering.asn.au
-DTSTAMP:20230112T052749Z
-DTSTART:20231021T130000Z
-DTEND:20231022T130000Z
-SUMMARY:Summer Shorts 1 - Jells Park, Dandenong Ranges Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18432
-GEO:-37.8930868698341;145.196758563138
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18027@eventor.orienteering.asn.au
 DTSTAMP:20230402T044151Z
 DTSTART:20231021T140000Z
@@ -10099,6 +10092,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18919
 GEO:-31.4687320333966;152.723534247102
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18432@eventor.orienteering.asn.au
+DTSTAMP:20230817T060135Z
+DTSTART:20231022T000000Z
+DTEND:20231022T030000Z
+SUMMARY:Summer Shorts 1 - Jells Park, Dandenong Ranges Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18432
+GEO:-37.8930868698341;145.196758563138
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19140@eventor.orienteering.asn.au
 DTSTAMP:20230605T062939Z
 DTSTART:20231022T050000Z
@@ -10108,11 +10110,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19140
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19387@eventor.orienteering.asn.au
-DTSTAMP:20230811T050251Z
+DTSTAMP:20230817T054635Z
 DTSTART:20231024T073000Z
 DTEND:20231024T093000Z
-SUMMARY:Night Nav - location tbc, Ugly Gully Orienteers
+SUMMARY:Night Nav - West End - season finale, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19387
+GEO:-27.489090258577;153.01285914223
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19244@eventor.orienteering.asn.au
@@ -10158,15 +10161,6 @@ SUMMARY:SC-ORE #1: Hawker Primary School, Hawker, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19285
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18435@eventor.orienteering.asn.au
-DTSTAMP:20230725T024555Z
-DTSTART:20231028T130000Z
-DTEND:20231029T130000Z
-SUMMARY:Summer Shorts 2 - Mt Lilydale Mercy College, Dandenong Ranges Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18435
-GEO:-37.7643114658902;145.305021997336
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18315@eventor.orienteering.asn.au
 DTSTAMP:20221205T111831Z
 DTSTART:20231028T233000Z
@@ -10174,6 +10168,15 @@ DTEND:20231029T023000Z
 SUMMARY:West Parklands, Tjuringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18315
 GEO:-34.9268068167547;138.585697486905
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18435@eventor.orienteering.asn.au
+DTSTAMP:20230817T062229Z
+DTSTART:20231029T000000Z
+DTEND:20231029T030000Z
+SUMMARY:Summer Shorts 2 - Mt Lilydale Mercy College, Dandenong Ranges Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18435
+GEO:-37.7643114658902;145.305021997336
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18534@eventor.orienteering.asn.au
@@ -10268,15 +10271,6 @@ SUMMARY:Park-O #1, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18469
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18433@eventor.orienteering.asn.au
-DTSTAMP:20230626T065736Z
-DTSTART:20231104T130000Z
-DTEND:20231105T130000Z
-SUMMARY:Summer Shorts 3 - Tatterson Park, Dandenong Ranges Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18433
-GEO:-37.9923197310918;145.154221670765
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19070@eventor.orienteering.asn.au
 DTSTAMP:20230508T062606Z
 DTSTART:20231104T230000Z
@@ -10284,6 +10278,15 @@ DTEND:20231105T030000Z
 SUMMARY:AWOC Bush O Championships, Albury-Wodonga Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19070
 GEO:-36.3345553197427;146.547696481217
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18433@eventor.orienteering.asn.au
+DTSTAMP:20230817T062326Z
+DTSTART:20231105T000000Z
+DTEND:20231105T030000Z
+SUMMARY:Summer Shorts 3 - Tatterson Park, Dandenong Ranges Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18433
+GEO:-37.9923197310918;145.154221670765
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19142@eventor.orienteering.asn.au
@@ -10378,21 +10381,21 @@ SUMMARY:Cyclones Sprint #1, QLD Cyclones
 URL:https://eventor.orienteering.asn.au/Events/Show/18472
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18434@eventor.orienteering.asn.au
-DTSTAMP:20230626T065808Z
-DTSTART:20231111T130000Z
-DTEND:20231112T130000Z
-SUMMARY:Summer Shorts 4 - Waverley Stadium, Dandenong Ranges Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18434
-GEO:-37.9296610182722;145.193729878337
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18599@eventor.orienteering.asn.au
 DTSTAMP:20230129T024459Z
 DTSTART:20231111T220000Z
 DTEND:20231111T220000Z
 SUMMARY:Waggaroos 2023-24 MapRun Series #1, TBC, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18599
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18434@eventor.orienteering.asn.au
+DTSTAMP:20230817T061850Z
+DTSTART:20231112T000000Z
+DTEND:20231112T030000Z
+SUMMARY:Summer Shorts 4 - Waverley Stadium, Dandenong Ranges Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18434
+GEO:-37.9296610182722;145.193729878337
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18535@eventor.orienteering.asn.au
@@ -10519,6 +10522,7 @@ DTSTART:20231118T130000Z
 DTEND:20231119T130000Z
 SUMMARY:Melbourne City Race - Docklands, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18436
+GEO:-37.815798983885;144.935176359781
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19069@eventor.orienteering.asn.au
@@ -10864,7 +10868,7 @@ GEO:-33.8058262705058;151.245916325501
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19039@eventor.orienteering.asn.au
-DTSTAMP:20230718T022454Z
+DTSTAMP:20230817T052930Z
 DTSTART:20231226T130000Z
 DTEND:20231231T130000Z
 SUMMARY:XMAS 5 DAYS, Central Coast Orienteers
