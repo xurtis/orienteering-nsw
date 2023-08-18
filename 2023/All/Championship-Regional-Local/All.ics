@@ -2848,16 +2848,16 @@ DTSTART:20230818T233000Z
 DTEND:20230819T020000Z
 SUMMARY:SOS Northside - Lane Cove North, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/19367
-GEO:-33.803919;151.155173
+GEO:-33.8039782301016;151.15589872809
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17826@eventor.orienteering.asn.au
-DTSTAMP:20230813T012911Z
+DTSTAMP:20230818T045653Z
 DTSTART:20230819T010000Z
 DTEND:20230819T043000Z
 SUMMARY:ACT Middle Distance Championships: ACT League #5, NSW SL #10, Collector Hill, Orienteering ACT / Orienteering NSW / Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17826
-GEO:-34.9025276090575;149.462764963638
+GEO:-34.905463725907;149.453040127717
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19011@eventor.orienteering.asn.au
@@ -3195,6 +3195,15 @@ DTEND:20230910T140000Z
 SUMMARY:Vic Series (Bush) 8 - Mt Lofty, Redesdale, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18431
 GEO:-37.0163666491925;144.491889244321
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17820@eventor.orienteering.asn.au
+DTSTAMP:20230817T230841Z
+DTSTART:20230909T143000Z
+DTEND:20230910T143000Z
+SUMMARY:SA Middle Distance Championships - Crooked Straight, Yalanga Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/17820
+GEO:-34.0653845295483;140.779637200335
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18875@eventor.orienteering.asn.au
