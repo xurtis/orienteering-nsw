@@ -2924,7 +2924,7 @@ GEO:-31.9736936987638;116.13342450265
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18872@eventor.orienteering.asn.au
-DTSTAMP:20230613T002715Z
+DTSTAMP:20230821T235707Z
 DTSTART:20230821T070000Z
 DTEND:20230821T091500Z
 SUMMARY:ACT MapRun Street Series: Forde, 17-21 Aug, Orienteering ACT
@@ -3198,7 +3198,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19088
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18431@eventor.orienteering.asn.au
-DTSTAMP:20230627T082135Z
+DTSTAMP:20230822T064923Z
 DTSTART:20230909T140000Z
 DTEND:20230910T140000Z
 SUMMARY:Vic Series (Bush) 8 - Mt Lofty, Redesdale, Nillumbik Emus Orienteering Club
@@ -3759,20 +3759,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18697
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19185@eventor.orienteering.asn.au
-DTSTAMP:20230627T082732Z
+DTSTAMP:20230822T071631Z
 DTSTART:20231125T130000Z
 DTEND:20231126T130000Z
-SUMMARY:Victorian Knockout Sprint Race, Yarra Valley Orienteering Club
+SUMMARY:Victorian Mass Start Sprint Race, Yarra Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19185
 GEO:-37.7929298897588;145.19904990901
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19115@eventor.orienteering.asn.au
-DTSTAMP:20230803T064615Z
-DTSTART:20231125T130000Z
-DTEND:20231126T130000Z
-SUMMARY:Victorian Sprint Championships, Yarra Valley Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19115
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19184@eventor.orienteering.asn.au
@@ -3810,12 +3802,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19201
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19361@eventor.orienteering.asn.au
-DTSTAMP:20230807T061807Z
+DTSTAMP:20230822T020419Z
 DTSTART:20231206T053000Z
 DTEND:20231206T083000Z
-SUMMARY:2023/24 Sydney Summer Series #10 - Hunts Creek, Big Foot Orienteers
+SUMMARY:2023/24 Sydney Summer Series #10 - Longueville, Big Foot Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19361
-GEO:-33.7843703999529;151.033090319546
+GEO:-33.8300410265825;151.167310574176
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19202@eventor.orienteering.asn.au
@@ -3841,6 +3833,15 @@ DTEND:20231213T083000Z
 SUMMARY:2023/24 Sydney Summer Series #11 - Willoughby, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19362
 GEO:-33.8115598307651;151.203530195184
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19396@eventor.orienteering.asn.au
+DTSTAMP:20230822T031321Z
+DTSTART:20231213T060000Z
+DTEND:20231213T083000Z
+SUMMARY:ACT MTBO Series: Majura Pines, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19396
+GEO:-35.2407621138247;149.194899454815
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18335@eventor.orienteering.asn.au
