@@ -874,6 +874,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18873
 GEO:-35.2018077032785;149.102862279563
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19445@eventor.orienteering.asn.au
+DTSTAMP:20230824T025026Z
+DTSTART:20230830T020000Z
+DTEND:20230830T040000Z
+SUMMARY:ACT Midweek Series: Bruce Ridge, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19445
+GEO:-35.2550969982319;149.110813673161
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17870@eventor.orienteering.asn.au
 DTSTAMP:20230808T003723Z
 DTSTART:20230902T003000Z
@@ -898,6 +907,16 @@ DTSTART:20230904T070000Z
 DTEND:20230904T091500Z
 SUMMARY:ACT MapRun Street Series: Yarralumla, 31 Aug - 4 Sep, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18874
+GEO:-35.3074160547337;149.09687206987
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19446@eventor.orienteering.asn.au
+DTSTAMP:20230824T025217Z
+DTSTART:20230906T020000Z
+DTEND:20230906T040000Z
+SUMMARY:ACT Midweek Series: Yarramundi Reach, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19446
+GEO:-35.2920909585542;149.080821519726
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18875@eventor.orienteering.asn.au
@@ -906,6 +925,7 @@ DTSTART:20230911T070000Z
 DTEND:20230911T091500Z
 SUMMARY:ACT MapRun Street Series: Gowrie, 7-11 Sep, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18875
+GEO:-35.4131950822702;149.109903866392
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18876@eventor.orienteering.asn.au
@@ -914,6 +934,7 @@ DTSTART:20230918T070000Z
 DTEND:20230918T091500Z
 SUMMARY:ACT MapRun Street Series: Duffy, 14-18 Sep, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18876
+GEO:-35.3369259159509;149.034860678119
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18877@eventor.orienteering.asn.au

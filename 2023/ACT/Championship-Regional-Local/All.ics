@@ -758,6 +758,7 @@ DTSTART:20230904T070000Z
 DTEND:20230904T091500Z
 SUMMARY:ACT MapRun Street Series: Yarralumla, 31 Aug - 4 Sep, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18874
+GEO:-35.3074160547337;149.09687206987
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18875@eventor.orienteering.asn.au
@@ -766,6 +767,7 @@ DTSTART:20230911T070000Z
 DTEND:20230911T091500Z
 SUMMARY:ACT MapRun Street Series: Gowrie, 7-11 Sep, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18875
+GEO:-35.4131950822702;149.109903866392
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17911@eventor.orienteering.asn.au
@@ -783,6 +785,7 @@ DTSTART:20230918T070000Z
 DTEND:20230918T091500Z
 SUMMARY:ACT MapRun Street Series: Duffy, 14-18 Sep, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18876
+GEO:-35.3369259159509;149.034860678119
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18877@eventor.orienteering.asn.au
@@ -901,10 +904,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19195
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19396@eventor.orienteering.asn.au
-DTSTAMP:20230822T031321Z
+DTSTAMP:20230824T023130Z
 DTSTART:20231213T060000Z
 DTEND:20231213T083000Z
-SUMMARY:ACT MTBO Series: Majura Pines, Orienteering ACT
+SUMMARY:ACT Twilight MTBO: Majura Pines, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19396
 GEO:-35.2407621138247;149.194899454815
 END:VEVENT

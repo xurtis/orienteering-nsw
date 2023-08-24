@@ -569,6 +569,15 @@ SUMMARY:ACT Metro Series Season Pass, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/17871
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19445@eventor.orienteering.asn.au
+DTSTAMP:20230824T025026Z
+DTSTART:20230830T020000Z
+DTEND:20230830T040000Z
+SUMMARY:ACT Midweek Series: Bruce Ridge, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19445
+GEO:-35.2550969982319;149.110813673161
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17870@eventor.orienteering.asn.au
 DTSTAMP:20230808T003723Z
 DTSTART:20230902T003000Z
@@ -585,6 +594,15 @@ DTEND:20230903T040000Z
 SUMMARY:ACT Classic Series: ACT League #7, Picaree Hill, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/17894
 GEO:-35.0034961419338;149.156139859369
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19446@eventor.orienteering.asn.au
+DTSTAMP:20230824T025217Z
+DTSTART:20230906T020000Z
+DTEND:20230906T040000Z
+SUMMARY:ACT Midweek Series: Yarramundi Reach, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19446
+GEO:-35.2920909585542;149.080821519726
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19196@eventor.orienteering.asn.au
