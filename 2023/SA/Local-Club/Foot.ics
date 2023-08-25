@@ -1133,6 +1133,14 @@ SUMMARY:Lincoln Orienteers End of Season Event, Lincoln Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18770
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19447@eventor.orienteering.asn.au
+DTSTAMP:20230825T063315Z
+DTSTART:20230911T100000Z
+DTEND:20230911T110000Z
+SUMMARY:Using Sportident in a School Setting, Orienteering ACT / Orienteering NSW / Orienteering Queensland / Orienteering SA / Orienteering Tasmania / Orienteering Victoria / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/19447
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18463@eventor.orienteering.asn.au
 DTSTAMP:20230822T082831Z
 DTSTART:20230913T010000Z
@@ -1143,9 +1151,9 @@ GEO:-34.7025943035049;138.837283004693
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19316@eventor.orienteering.asn.au
-DTSTAMP:20230728T073511Z
+DTSTAMP:20230825T031320Z
 DTSTART:20230917T003000Z
-DTEND:20230927T033000Z
+DTEND:20230917T033000Z
 SUMMARY:Whyalla East, Saltbush Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19316
 END:VEVENT

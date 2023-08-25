@@ -364,14 +364,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18654
 GEO:-42.8945841168268;147.422540488501
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19040@eventor.orienteering.asn.au
-DTSTAMP:20230703T232003Z
-DTSTART:20230708T140000Z
-DTEND:20230709T140000Z
-SUMMARY:North West Local ***POSTPONED, Pathfinders
-URL:https://eventor.orienteering.asn.au/Events/Show/19040
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18978@eventor.orienteering.asn.au
 DTSTAMP:20230709T041946Z
 DTSTART:20230708T140000Z
@@ -478,6 +470,14 @@ DTEND:20230822T140000Z
 SUMMARY:TACO The Town Inveresk, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/19270
 GEO:-41.4247467283001;147.13715098778
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19447@eventor.orienteering.asn.au
+DTSTAMP:20230825T063315Z
+DTSTART:20230911T100000Z
+DTEND:20230911T110000Z
+SUMMARY:Using Sportident in a School Setting, Orienteering ACT / Orienteering NSW / Orienteering Queensland / Orienteering SA / Orienteering Tasmania / Orienteering Victoria / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/19447
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18983@eventor.orienteering.asn.au

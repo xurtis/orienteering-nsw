@@ -7309,14 +7309,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19160
 GEO:-27.490487;153.116204
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19040@eventor.orienteering.asn.au
-DTSTAMP:20230703T232003Z
-DTSTART:20230708T140000Z
-DTEND:20230709T140000Z
-SUMMARY:North West Local ***POSTPONED, Pathfinders
-URL:https://eventor.orienteering.asn.au/Events/Show/19040
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18978@eventor.orienteering.asn.au
 DTSTAMP:20230709T041946Z
 DTSTART:20230708T140000Z
@@ -9210,7 +9202,7 @@ GEO:-37.8095355112909;145.15054256276
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18439@eventor.orienteering.asn.au
-DTSTAMP:20230822T075402Z
+DTSTAMP:20230824T224507Z
 DTSTART:20230824T003000Z
 DTEND:20230824T010000Z
 SUMMARY:Ghost Hole, Mt Coot-tha (MapRun), Orienteering Queensland
@@ -9529,7 +9521,7 @@ GEO:-21.0864935217468;149.182301485104
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18244@eventor.orienteering.asn.au
-DTSTAMP:20230731T001558Z
+DTSTAMP:20230825T122456Z
 DTSTART:20230902T140000Z
 DTEND:20230903T140000Z
 SUMMARY:Victorian Long Distance Championships - Mt Alexander, Harcourt, Melbourne Forest Racers
@@ -9715,7 +9707,7 @@ GEO:-27.522220859803;153.216065836159
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17714@eventor.orienteering.asn.au
-DTSTAMP:20230824T082315Z
+DTSTAMP:20230825T072717Z
 DTSTART:20230909T023000Z
 DTEND:20230909T023000Z
 SUMMARY:2023 Orienteering NSW State Championships (Middle) / State League #14, Garingal Orienteers
@@ -9785,14 +9777,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17518
 GEO:-27.6342020575121;153.261650028677
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19088@eventor.orienteering.asn.au
-DTSTAMP:20230722T000450Z
-DTSTART:20230909T140000Z
-DTEND:20230910T140000Z
-SUMMARY:Redbanks/Curryjong Rivulet - OST 10, Australopers
-URL:https://eventor.orienteering.asn.au/Events/Show/19088
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18431@eventor.orienteering.asn.au
 DTSTAMP:20230823T064152Z
 DTSTART:20230909T140000Z
@@ -9860,6 +9844,14 @@ DTSTART:20230911T083000Z
 DTEND:20230911T101500Z
 SUMMARY:Melbourne Park Street Monday Night Series - McKinnon, Orienteering Victoria
 URL:https://eventor.orienteering.asn.au/Events/Show/19213
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19447@eventor.orienteering.asn.au
+DTSTAMP:20230825T063315Z
+DTSTART:20230911T100000Z
+DTEND:20230911T110000Z
+SUMMARY:Using Sportident in a School Setting, Orienteering ACT / Orienteering NSW / Orienteering Queensland / Orienteering SA / Orienteering Tasmania / Orienteering Victoria / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/19447
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19179@eventor.orienteering.asn.au
@@ -9999,9 +9991,9 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18596
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19316@eventor.orienteering.asn.au
-DTSTAMP:20230728T073511Z
+DTSTAMP:20230825T031320Z
 DTSTART:20230917T003000Z
-DTEND:20230927T033000Z
+DTEND:20230917T033000Z
 SUMMARY:Whyalla East, Saltbush Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19316
 END:VEVENT
@@ -10016,7 +10008,7 @@ GEO:-31.546068852906;152.85695547461
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18749@eventor.orienteering.asn.au
-DTSTAMP:20230809T081744Z
+DTSTAMP:20230825T012331Z
 DTSTART:20230917T013000Z
 DTEND:20230917T050000Z
 SUMMARY:Bush 11 WA Long Distance Championships - Umuna, Bibbulmun Orienteers / Orienteering WA
