@@ -210,12 +210,13 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19315
 GEO:-33.0257196897758;137.573335064835
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18770@eventor.orienteering.asn.au
-DTSTAMP:20230226T041716Z
-DTSTART:20230910T010000Z
-DTEND:20230910T023000Z
-SUMMARY:Lincoln Orienteers End of Season Event, Lincoln Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18770
+UID:Event_19448@eventor.orienteering.asn.au
+DTSTAMP:20230827T121635Z
+DTSTART:20230902T143000Z
+DTEND:20230903T143000Z
+SUMMARY:NT: 2023 Good Shepherd Lutheran College Howard Springs, Top End Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19448
+GEO:-12.4945580168075;131.024409304208
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19316@eventor.orienteering.asn.au
@@ -224,5 +225,13 @@ DTSTART:20230917T003000Z
 DTEND:20230917T033000Z
 SUMMARY:Whyalla East, Saltbush Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19316
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18770@eventor.orienteering.asn.au
+DTSTAMP:20230827T115849Z
+DTSTART:20230917T010000Z
+DTEND:20230917T023000Z
+SUMMARY:Lincoln Orienteers End of Season Event, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18770
 END:VEVENT
 END:VCALENDAR
