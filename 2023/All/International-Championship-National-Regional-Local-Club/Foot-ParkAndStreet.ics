@@ -8957,10 +8957,10 @@ GEO:-33.0257196897758;137.573335064835
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19232@eventor.orienteering.asn.au
-DTSTAMP:20230731T145417Z
+DTSTAMP:20230828T011035Z
 DTSTART:20230827T010000Z
 DTEND:20230827T021000Z
-SUMMARY:Mornington Peninsula Sunday MapRun - Safety Beach, Bayside Kangaroos Orienteers
+SUMMARY:Mornington Peninsula Sunday MapRun - Safety Beach - Michael Hubbert Tribute Event, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19232
 GEO:-38.3142026661656;145.007701268201
 END:VEVENT
@@ -9011,10 +9011,10 @@ GEO:-37.8211306384819;145.125606294656
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19177@eventor.orienteering.asn.au
-DTSTAMP:20230611T054754Z
+DTSTAMP:20230828T045634Z
 DTSTART:20230829T073000Z
 DTEND:20230829T093000Z
-SUMMARY:Night Nav - Cubberla Creek (Chapel Hill), Ugly Gully Orienteers
+SUMMARY:Night Nav - Cubberla Creek (Chapel Hill/Kenmore), Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19177
 GEO:-27.511198163963;152.951722869424
 END:VEVENT
@@ -9082,7 +9082,7 @@ GEO:-41.5089248257714;147.069912904834
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18792@eventor.orienteering.asn.au
-DTSTAMP:20230720T105558Z
+DTSTAMP:20230828T120251Z
 DTSTART:20230901T010000Z
 DTEND:20230901T030000Z
 SUMMARY:SA School Relay Championships: Thorndon Park, Orienteering SA
@@ -9135,6 +9135,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17870
 GEO:-35.2698846601723;149.127303429845
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19452@eventor.orienteering.asn.au
+DTSTAMP:20230828T042451Z
+DTSTART:20230902T040000Z
+DTEND:20230902T053000Z
+SUMMARY:Belair NP - Juinior Training, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/19452
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18571@eventor.orienteering.asn.au
 DTSTAMP:20230820T030008Z
 DTSTART:20230902T050000Z
@@ -9172,16 +9180,16 @@ GEO:-26.4101956733351;153.100721076146
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18024@eventor.orienteering.asn.au
-DTSTAMP:20230820T081408Z
+DTSTAMP:20230828T052152Z
 DTSTART:20230902T230000Z
 DTEND:20230903T010000Z
 SUMMARY:Bowman Park, Bardon - BCC , Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18024
-GEO:-27.4593646191735;152.977962978994
+GEO:-27.4590847218967;152.977985039206
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18886@eventor.orienteering.asn.au
-DTSTAMP:20230322T100749Z
+DTSTAMP:20230828T001549Z
 DTSTART:20230903T000000Z
 DTEND:20230903T000000Z
 SUMMARY:Bush event #7 Ophir North, Goldseekers Orienteers
@@ -9391,11 +9399,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19213
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19447@eventor.orienteering.asn.au
-DTSTAMP:20230825T063315Z
+DTSTAMP:20230828T034133Z
 DTSTART:20230911T100000Z
 DTEND:20230911T110000Z
 SUMMARY:Using Sportident in a School Setting, Orienteering ACT / Orienteering NSW / Orienteering Queensland / Orienteering SA / Orienteering Tasmania / Orienteering Victoria / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/19447
+GEO:-33.8452045643299;151.07496599914
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19179@eventor.orienteering.asn.au
@@ -9489,7 +9498,7 @@ DTSTART:20230916T140000Z
 DTEND:20230917T140000Z
 SUMMARY:OY11 - Glen Mine, Warwick , Orienteering Queensland / Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18026
-GEO:-28.2473666857461;151.94081739341
+GEO:-28.2468262277489;151.939654991328
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18678@eventor.orienteering.asn.au
@@ -9527,11 +9536,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18596
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19316@eventor.orienteering.asn.au
-DTSTAMP:20230825T031320Z
+DTSTAMP:20230828T054427Z
 DTSTART:20230917T003000Z
 DTEND:20230917T033000Z
 SUMMARY:Whyalla East, Saltbush Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19316
+GEO:-33.0404054876701;137.584876476973
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18770@eventor.orienteering.asn.au
@@ -10509,6 +10519,14 @@ SUMMARY:Park-O #1, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18469
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19453@eventor.orienteering.asn.au
+DTSTAMP:20230828T062736Z
+DTSTART:20231104T220000Z
+DTEND:20231104T220000Z
+SUMMARY:Central Coast Summer Series 1 - The Entrance, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19453
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19070@eventor.orienteering.asn.au
 DTSTAMP:20230508T062606Z
 DTSTART:20231104T230000Z
@@ -11266,7 +11284,7 @@ GEO:-33.8058262705058;151.245916325501
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19039@eventor.orienteering.asn.au
-DTSTAMP:20230817T052930Z
+DTSTAMP:20230827T203820Z
 DTSTART:20231226T130000Z
 DTEND:20231231T130000Z
 SUMMARY:XMAS 5 DAYS, Central Coast Orienteers

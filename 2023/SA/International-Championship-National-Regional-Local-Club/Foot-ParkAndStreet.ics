@@ -1143,12 +1143,20 @@ GEO:-34.5458951378559;135.443327874312
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18792@eventor.orienteering.asn.au
-DTSTAMP:20230720T105558Z
+DTSTAMP:20230828T120251Z
 DTSTART:20230901T010000Z
 DTEND:20230901T030000Z
 SUMMARY:SA School Relay Championships: Thorndon Park, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18792
 GEO:-34.8734477845165;138.689432868122
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19452@eventor.orienteering.asn.au
+DTSTAMP:20230828T042451Z
+DTSTART:20230902T040000Z
+DTEND:20230902T053000Z
+SUMMARY:Belair NP - Juinior Training, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/19452
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19448@eventor.orienteering.asn.au
@@ -1179,11 +1187,12 @@ GEO:-34.0653845295483;140.779637200335
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19447@eventor.orienteering.asn.au
-DTSTAMP:20230825T063315Z
+DTSTAMP:20230828T034133Z
 DTSTART:20230911T100000Z
 DTEND:20230911T110000Z
 SUMMARY:Using Sportident in a School Setting, Orienteering ACT / Orienteering NSW / Orienteering Queensland / Orienteering SA / Orienteering Tasmania / Orienteering Victoria / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/19447
+GEO:-33.8452045643299;151.07496599914
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18463@eventor.orienteering.asn.au
@@ -1196,11 +1205,12 @@ GEO:-34.7025943035049;138.837283004693
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19316@eventor.orienteering.asn.au
-DTSTAMP:20230825T031320Z
+DTSTAMP:20230828T054427Z
 DTSTART:20230917T003000Z
 DTEND:20230917T033000Z
 SUMMARY:Whyalla East, Saltbush Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19316
+GEO:-33.0404054876701;137.584876476973
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18770@eventor.orienteering.asn.au

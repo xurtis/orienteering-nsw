@@ -3681,10 +3681,10 @@ GEO:-33.0257196897758;137.573335064835
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19232@eventor.orienteering.asn.au
-DTSTAMP:20230731T145417Z
+DTSTAMP:20230828T011035Z
 DTSTART:20230827T010000Z
 DTEND:20230827T021000Z
-SUMMARY:Mornington Peninsula Sunday MapRun - Safety Beach, Bayside Kangaroos Orienteers
+SUMMARY:Mornington Peninsula Sunday MapRun - Safety Beach - Michael Hubbert Tribute Event, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19232
 GEO:-38.3142026661656;145.007701268201
 END:VEVENT
@@ -3717,10 +3717,10 @@ GEO:-37.8211306384819;145.125606294656
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19177@eventor.orienteering.asn.au
-DTSTAMP:20230611T054754Z
+DTSTAMP:20230828T045634Z
 DTSTART:20230829T073000Z
 DTEND:20230829T093000Z
-SUMMARY:Night Nav - Cubberla Creek (Chapel Hill), Ugly Gully Orienteers
+SUMMARY:Night Nav - Cubberla Creek (Chapel Hill/Kenmore), Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19177
 GEO:-27.511198163963;152.951722869424
 END:VEVENT
@@ -3780,12 +3780,12 @@ GEO:-12.4945580168075;131.024409304208
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18024@eventor.orienteering.asn.au
-DTSTAMP:20230820T081408Z
+DTSTAMP:20230828T052152Z
 DTSTART:20230902T230000Z
 DTEND:20230903T010000Z
 SUMMARY:Bowman Park, Bardon - BCC , Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18024
-GEO:-27.4593646191735;152.977962978994
+GEO:-27.4590847218967;152.977985039206
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18874@eventor.orienteering.asn.au
@@ -3905,11 +3905,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19230
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19316@eventor.orienteering.asn.au
-DTSTAMP:20230825T031320Z
+DTSTAMP:20230828T054427Z
 DTSTART:20230917T003000Z
 DTEND:20230917T033000Z
 SUMMARY:Whyalla East, Saltbush Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19316
+GEO:-33.0404054876701;137.584876476973
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18770@eventor.orienteering.asn.au
@@ -4392,6 +4393,14 @@ DTSTART:20231104T053000Z
 DTEND:20231104T053000Z
 SUMMARY:Park-O #1, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18469
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19453@eventor.orienteering.asn.au
+DTSTAMP:20230828T062736Z
+DTSTART:20231104T220000Z
+DTEND:20231104T220000Z
+SUMMARY:Central Coast Summer Series 1 - The Entrance, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19453
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19142@eventor.orienteering.asn.au
