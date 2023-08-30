@@ -244,7 +244,7 @@ GEO:-37.0186202919063;144.306329449343
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18244@eventor.orienteering.asn.au
-DTSTAMP:20230829T051220Z
+DTSTAMP:20230830T062101Z
 DTSTART:20230902T140000Z
 DTEND:20230903T140000Z
 SUMMARY:Victorian Long Distance Championships - Mt Alexander, Harcourt, Melbourne Forest Racers
@@ -252,8 +252,17 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18244
 GEO:-37.0184406186584;144.305784515339
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19457@eventor.orienteering.asn.au
+DTSTAMP:20230830T120734Z
+DTSTART:20230909T033000Z
+DTEND:20230909T053000Z
+SUMMARY:Bayside Kangaroos "Jump Off" Come and Try Orienteering Kids - Darebin Parklands, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19457
+GEO:-37.7728476556568;145.032338280778
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18431@eventor.orienteering.asn.au
-DTSTAMP:20230823T064152Z
+DTSTAMP:20230830T113554Z
 DTSTART:20230909T140000Z
 DTEND:20230910T140000Z
 SUMMARY:Vic Series (Bush) 8 - Mt Lofty, Redesdale, Nillumbik Emus Orienteering Club

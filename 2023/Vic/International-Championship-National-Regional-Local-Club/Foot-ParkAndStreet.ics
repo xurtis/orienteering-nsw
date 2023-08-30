@@ -2099,7 +2099,7 @@ GEO:-37.0186202919063;144.306329449343
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18244@eventor.orienteering.asn.au
-DTSTAMP:20230829T051220Z
+DTSTAMP:20230830T062101Z
 DTSTART:20230902T140000Z
 DTEND:20230903T140000Z
 SUMMARY:Victorian Long Distance Championships - Mt Alexander, Harcourt, Melbourne Forest Racers
@@ -2143,8 +2143,17 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19229
 GEO:-37.7730999751528;145.032292550519
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19457@eventor.orienteering.asn.au
+DTSTAMP:20230830T120734Z
+DTSTART:20230909T033000Z
+DTEND:20230909T053000Z
+SUMMARY:Bayside Kangaroos "Jump Off" Come and Try Orienteering Kids - Darebin Parklands, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19457
+GEO:-37.7728476556568;145.032338280778
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18431@eventor.orienteering.asn.au
-DTSTAMP:20230823T064152Z
+DTSTAMP:20230830T113554Z
 DTSTART:20230909T140000Z
 DTEND:20230910T140000Z
 SUMMARY:Vic Series (Bush) 8 - Mt Lofty, Redesdale, Nillumbik Emus Orienteering Club
@@ -2752,6 +2761,14 @@ DTSTART:20231130T073000Z
 DTEND:20231130T091500Z
 SUMMARY:Melbourne Park Street Thursday Summer Series - Heidelberg Heights, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19437
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19456@eventor.orienteering.asn.au
+DTSTAMP:20230830T044815Z
+DTSTART:20231204T073000Z
+DTEND:20231204T091500Z
+SUMMARY:Melbourne Park Street Monday Night Series - Coomoora, Dandenong Ranges Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19456
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19333@eventor.orienteering.asn.au
