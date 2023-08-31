@@ -417,15 +417,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19236
 GEO:-35.2257325851855;149.070430934379
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_17892@eventor.orienteering.asn.au
-DTSTAMP:20230711T032104Z
-DTSTART:20230716T000000Z
-DTEND:20230716T040000Z
-SUMMARY:POSTPONED - ACT Classic Series: ACT League #4, Ballinafad Creek, Parawanga Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/17892
-GEO:-35.6807591475124;149.460271355306
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19194@eventor.orienteering.asn.au
 DTSTAMP:20230719T120325Z
 DTSTART:20230719T020000Z
@@ -612,6 +603,15 @@ DTEND:20230911T110000Z
 SUMMARY:Using Sportident in a School Setting, Orienteering ACT / Orienteering NSW / Orienteering Queensland / Orienteering SA / Orienteering Tasmania / Orienteering Victoria / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/19447
 GEO:-33.8452045643299;151.07496599914
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17892@eventor.orienteering.asn.au
+DTSTAMP:20230831T051454Z
+DTSTART:20231021T230000Z
+DTEND:20231022T030000Z
+SUMMARY:ACT Classic Series: ACT League #8, Ballinafad Creek, Parawanga Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/17892
+GEO:-35.6807591475124;149.460271355306
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19196@eventor.orienteering.asn.au

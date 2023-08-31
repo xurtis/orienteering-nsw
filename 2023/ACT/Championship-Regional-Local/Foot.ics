@@ -304,15 +304,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17864
 GEO:-35.3347066140077;149.071299170134
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_17892@eventor.orienteering.asn.au
-DTSTAMP:20230711T032104Z
-DTSTART:20230716T000000Z
-DTEND:20230716T040000Z
-SUMMARY:POSTPONED - ACT Classic Series: ACT League #4, Ballinafad Creek, Parawanga Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/17892
-GEO:-35.6807591475124;149.460271355306
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_17865@eventor.orienteering.asn.au
 DTSTAMP:20230722T031438Z
 DTSTART:20230722T003000Z
@@ -409,6 +400,15 @@ DTEND:20230903T040000Z
 SUMMARY:ACT Classic Series: ACT League #7, Picaree Hill, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/17894
 GEO:-35.0031922845282;149.158093820515
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17892@eventor.orienteering.asn.au
+DTSTAMP:20230831T051454Z
+DTSTART:20231021T230000Z
+DTEND:20231022T030000Z
+SUMMARY:ACT Classic Series: ACT League #8, Ballinafad Creek, Parawanga Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/17892
+GEO:-35.6807591475124;149.460271355306
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19196@eventor.orienteering.asn.au

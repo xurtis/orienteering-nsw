@@ -573,15 +573,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18866
 GEO:-35.2338143164293;149.040263427035
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_17892@eventor.orienteering.asn.au
-DTSTAMP:20230711T032104Z
-DTSTART:20230716T000000Z
-DTEND:20230716T040000Z
-SUMMARY:POSTPONED - ACT Classic Series: ACT League #4, Ballinafad Creek, Parawanga Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/17892
-GEO:-35.6807591475124;149.460271355306
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18867@eventor.orienteering.asn.au
 DTSTAMP:20230718T014602Z
 DTSTART:20230717T070000Z
@@ -829,6 +820,15 @@ DTEND:20231015T020000Z
 SUMMARY:2023 ACT MTBO LONG Championships: Sparrow Hill, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/17913
 GEO:-35.3249664547251;149.348836085749
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17892@eventor.orienteering.asn.au
+DTSTAMP:20230831T051454Z
+DTSTART:20231021T230000Z
+DTEND:20231022T030000Z
+SUMMARY:ACT Classic Series: ACT League #8, Ballinafad Creek, Parawanga Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/17892
+GEO:-35.6807591475124;149.460271355306
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19196@eventor.orienteering.asn.au
