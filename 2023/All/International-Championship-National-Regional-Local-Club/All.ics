@@ -9449,7 +9449,7 @@ GEO:-34.8734477845165;138.689432868122
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19348@eventor.orienteering.asn.au
-DTSTAMP:20230815T023353Z
+DTSTAMP:20230902T123621Z
 DTSTART:20230901T070000Z
 DTEND:20230901T070000Z
 SUMMARY:Kearneys Spring Toowoomba Training, Range Runners Orienteering Club
@@ -9458,7 +9458,7 @@ GEO:-27.6015588162067;151.945934178248
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18245@eventor.orienteering.asn.au
-DTSTAMP:20230829T105655Z
+DTSTAMP:20230902T113327Z
 DTSTART:20230901T140000Z
 DTEND:20230902T140000Z
 SUMMARY:Victorian Middle Distance Championships - Mt Alexander, Harcourt, Nillumbik Emus Orienteering Club
@@ -9466,8 +9466,17 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18245
 GEO:-37.0186202919063;144.306329449343
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18541@eventor.orienteering.asn.au
+DTSTAMP:20230902T063521Z
+DTSTART:20230901T140000Z
+DTEND:20230902T135900Z
+SUMMARY:NSW MTBO Champs - LONG (pm), Bush n Beach Orienteering Club / Hastings Orienteering Group / Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18541
+GEO:-31.1025492928456;152.828099573909
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19368@eventor.orienteering.asn.au
-DTSTAMP:20230826T222005Z
+DTSTAMP:20230902T015950Z
 DTSTART:20230901T233000Z
 DTEND:20230901T233000Z
 SUMMARY:SOS Hills - Meadowbank, Bold Horizons Event Organiser
@@ -9476,7 +9485,7 @@ GEO:-33.8202197396656;151.090411188194
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19369@eventor.orienteering.asn.au
-DTSTAMP:20230826T223128Z
+DTSTAMP:20230902T021010Z
 DTSTART:20230901T233000Z
 DTEND:20230902T020000Z
 SUMMARY:SOS Northside - Balgowlah Heights, Bold Horizons Event Organiser
@@ -9485,21 +9494,12 @@ GEO:-33.8079639040637;151.268991328679
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17870@eventor.orienteering.asn.au
-DTSTAMP:20230808T003723Z
+DTSTAMP:20230902T030635Z
 DTSTART:20230902T003000Z
 DTEND:20230902T033000Z
 SUMMARY:ACT Blue Lightning Super Sprints, Haig Park, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/17870
 GEO:-35.2698846601723;149.127303429845
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18541@eventor.orienteering.asn.au
-DTSTAMP:20230713T031922Z
-DTSTART:20230902T023000Z
-DTEND:20230902T063000Z
-SUMMARY:NSW MTBO Champs - LONG (pm), Bush n Beach Orienteering Club / Hastings Orienteering Group / Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18541
-GEO:-31.1025492928456;152.828099573909
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19452@eventor.orienteering.asn.au
@@ -9833,7 +9833,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19391
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18748@eventor.orienteering.asn.au
-DTSTAMP:20230820T055749Z
+DTSTAMP:20230902T093143Z
 DTSTART:20230910T013000Z
 DTEND:20230910T013000Z
 SUMMARY:Bush 10 Marginata, LOST / Orienteering WA
@@ -10792,14 +10792,6 @@ SUMMARY:North West Region - NW Local, Pathfinders
 URL:https://eventor.orienteering.asn.au/Events/Show/19249
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_17821@eventor.orienteering.asn.au
-DTSTAMP:20230819T013654Z
-DTSTART:20231021T133000Z
-DTEND:20231022T133000Z
-SUMMARY:SA MTBO Championships, Tintookies Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/17821
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18027@eventor.orienteering.asn.au
 DTSTAMP:20230402T044151Z
 DTSTART:20231021T140000Z
@@ -10815,6 +10807,15 @@ DTEND:20231022T030000Z
 SUMMARY:ACT Classic Series: ACT League #8, Ballinafad Creek, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17892
 GEO:-35.6807591475124;149.460271355306
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17821@eventor.orienteering.asn.au
+DTSTAMP:20230902T015448Z
+DTSTART:20231021T233000Z
+DTEND:20231022T023000Z
+SUMMARY:SA MTBO Championships - Portuguese Bridge (Mt Crawford), Tintookies Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/17821
+GEO:-34.7302323057543;138.992978340537
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18919@eventor.orienteering.asn.au
