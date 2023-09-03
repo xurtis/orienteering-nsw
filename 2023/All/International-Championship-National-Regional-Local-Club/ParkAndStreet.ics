@@ -3770,6 +3770,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18571
 GEO:-21.0864935217468;149.182301485104
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18024@eventor.orienteering.asn.au
+DTSTAMP:20230903T103224Z
+DTSTART:20230902T140000Z
+DTEND:20230903T140000Z
+SUMMARY:Bowman Park, Bardon - BCC , Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18024
+GEO:-27.4590847218967;152.977985039206
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19448@eventor.orienteering.asn.au
 DTSTAMP:20230827T121635Z
 DTSTART:20230902T143000Z
@@ -3777,15 +3786,6 @@ DTEND:20230903T143000Z
 SUMMARY:NT: 2023 Good Shepherd Lutheran College Howard Springs, Top End Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19448
 GEO:-12.4945580168075;131.024409304208
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18024@eventor.orienteering.asn.au
-DTSTAMP:20230901T031507Z
-DTSTART:20230902T230000Z
-DTEND:20230903T010000Z
-SUMMARY:Bowman Park, Bardon - BCC , Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18024
-GEO:-27.4590847218967;152.977985039206
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18874@eventor.orienteering.asn.au
@@ -3954,15 +3954,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18737
 GEO:-27.4669901494569;152.983161587259
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18572@eventor.orienteering.asn.au
-DTSTAMP:20230126T020455Z
-DTSTART:20230920T073000Z
-DTEND:20230920T091500Z
-SUMMARY:MapRun Night Nav East Mackay, 21Degrees South Multisport Assoc.
-URL:https://eventor.orienteering.asn.au/Events/Show/18572
-GEO:-21.1634159859388;149.197309395902
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19223@eventor.orienteering.asn.au
 DTSTAMP:20230829T050600Z
 DTSTART:20230920T083000Z
@@ -3987,6 +3978,15 @@ DTEND:20230923T051000Z
 SUMMARY:Melbourne Park Street Saturday Series - Middle Mullum, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19231
 GEO:-37.7852101696189;145.176663029804
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18572@eventor.orienteering.asn.au
+DTSTAMP:20230903T032849Z
+DTSTART:20230923T050000Z
+DTEND:20230923T060000Z
+SUMMARY:MapRun East Mackay, 21Degrees South Multisport Assoc.
+URL:https://eventor.orienteering.asn.au/Events/Show/18572
+GEO:-21.1634159859388;149.197309395902
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19233@eventor.orienteering.asn.au
