@@ -1798,7 +1798,7 @@ GEO:-21.0864935217468;149.182301485104
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18024@eventor.orienteering.asn.au
-DTSTAMP:20230903T103224Z
+DTSTAMP:20230903T222851Z
 DTSTART:20230902T140000Z
 DTEND:20230903T140000Z
 SUMMARY:Bowman Park, Bardon - BCC , Ugly Gully Orienteers
@@ -1830,7 +1830,7 @@ DTSTART:20230907T003000Z
 DTEND:20230907T003000Z
 SUMMARY:Edwards Park Carindale, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19454
-GEO:-27.5269700556981;153.10779851693
+GEO:-27.5302935156612;153.109835382459
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19352@eventor.orienteering.asn.au
@@ -1851,11 +1851,12 @@ GEO:-27.5236299259751;153.23715812727
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19391@eventor.orienteering.asn.au
-DTSTAMP:20230825T223234Z
+DTSTAMP:20230903T233839Z
 DTSTART:20230909T230000Z
 DTEND:20230910T000000Z
 SUMMARY:Park and Bush Orienteering at Eddie Kornhauser Reserve, Elanora, Paradise Lost Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19391
+GEO:-28.1373050859223;153.44105979459
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19168@eventor.orienteering.asn.au
@@ -1962,6 +1963,14 @@ DTEND:20230928T010000Z
 SUMMARY:Minnippi Parklands, Tingalpa. Park. (BCC Sponsored) (MAPRUN EVENT), Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18753
 GEO:-27.4827439415576;153.114922415097
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19479@eventor.orienteering.asn.au
+DTSTAMP:20230904T073019Z
+DTSTART:20230928T230000Z
+DTEND:20230929T003000Z
+SUMMARY:Robelle Domain - Ipswich Active and Healthy, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19479
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19189@eventor.orienteering.asn.au

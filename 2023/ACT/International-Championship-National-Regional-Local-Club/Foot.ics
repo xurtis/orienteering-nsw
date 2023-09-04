@@ -347,7 +347,7 @@ GEO:-35.3667198660145;149.21752988378
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17890@eventor.orienteering.asn.au
-DTSTAMP:20230604T062220Z
+DTSTAMP:20230904T002338Z
 DTSTART:20230604T000000Z
 DTEND:20230604T040000Z
 SUMMARY:ACT Classic Series: Jim Sawkins Memorial Handicap, ACT League #2, Glendale, Red Roos
@@ -605,6 +605,22 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19447
 GEO:-33.8452045643299;151.07496599914
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19472@eventor.orienteering.asn.au
+DTSTAMP:20230904T020324Z
+DTSTART:20231011T053000Z
+DTEND:20231011T063000Z
+SUMMARY:ACT Learn to Orienteer, Week 1 and Registration, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19472
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19473@eventor.orienteering.asn.au
+DTSTAMP:20230904T020721Z
+DTSTART:20231018T053000Z
+DTEND:20231018T063000Z
+SUMMARY:ACT Learn to Orienteer, Week 2, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19473
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17892@eventor.orienteering.asn.au
 DTSTAMP:20230831T051454Z
 DTSTART:20231021T230000Z
@@ -612,6 +628,14 @@ DTEND:20231022T030000Z
 SUMMARY:ACT Classic Series: ACT League #8, Ballinafad Creek, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17892
 GEO:-35.6807591475124;149.460271355306
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19474@eventor.orienteering.asn.au
+DTSTAMP:20230904T024733Z
+DTSTART:20231025T050000Z
+DTEND:20231025T063000Z
+SUMMARY:ACT Learn to Orienteer, Week 3, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19474
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19196@eventor.orienteering.asn.au
@@ -630,6 +654,14 @@ SUMMARY:SC-ORE #1: Hawker Primary School, Hawker, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19285
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19475@eventor.orienteering.asn.au
+DTSTAMP:20230904T024726Z
+DTSTART:20231101T053000Z
+DTEND:20231101T063000Z
+SUMMARY:ACT Learn to Orienteer, Week 4, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19475
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19197@eventor.orienteering.asn.au
 DTSTAMP:20230629T011655Z
 DTSTART:20231101T060000Z
@@ -646,6 +678,14 @@ SUMMARY:SC-ORE #2: Blue Gum Primary School, Hackett, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19286
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19476@eventor.orienteering.asn.au
+DTSTAMP:20230904T024707Z
+DTSTART:20231108T053000Z
+DTEND:20231108T063000Z
+SUMMARY:ACT Learn to Orienteer, Week 5, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19476
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19198@eventor.orienteering.asn.au
 DTSTAMP:20230703T020350Z
 DTSTART:20231108T060000Z
@@ -660,6 +700,14 @@ DTSTART:20231108T204500Z
 DTEND:20231108T214500Z
 SUMMARY:SC-ORE #3: Haig Park, Turner, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19287
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19477@eventor.orienteering.asn.au
+DTSTAMP:20230904T024756Z
+DTSTART:20231115T053000Z
+DTEND:20231115T063000Z
+SUMMARY:ACT Learn to Orienteer, Week 6, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19477
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19199@eventor.orienteering.asn.au
@@ -684,6 +732,14 @@ DTSTART:20231121T230000Z
 DTEND:20231122T030000Z
 SUMMARY:ACT Primary School Championships, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/18948
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19478@eventor.orienteering.asn.au
+DTSTAMP:20230904T024823Z
+DTSTART:20231122T053000Z
+DTEND:20231122T063000Z
+SUMMARY:ACT Learn to Orienteer, Week 7, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19478
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19200@eventor.orienteering.asn.au

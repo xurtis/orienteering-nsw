@@ -846,7 +846,7 @@ GEO:-21.0864935217468;149.182301485104
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18024@eventor.orienteering.asn.au
-DTSTAMP:20230903T103224Z
+DTSTAMP:20230903T222851Z
 DTSTART:20230902T140000Z
 DTEND:20230903T140000Z
 SUMMARY:Bowman Park, Bardon - BCC , Ugly Gully Orienteers
@@ -872,11 +872,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19352
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19391@eventor.orienteering.asn.au
-DTSTAMP:20230825T223234Z
+DTSTAMP:20230903T233839Z
 DTSTART:20230909T230000Z
 DTEND:20230910T000000Z
 SUMMARY:Park and Bush Orienteering at Eddie Kornhauser Reserve, Elanora, Paradise Lost Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19391
+GEO:-28.1373050859223;153.44105979459
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19179@eventor.orienteering.asn.au
@@ -929,6 +930,14 @@ DTEND:20230924T063000Z
 SUMMARY:Maprun Parks 2023 - Boronia Bushland Reserve, Boronia - LCC Active and Healthy Event, Toohey Forest Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18668
 GEO:-27.6933619085246;153.027446824627
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19479@eventor.orienteering.asn.au
+DTSTAMP:20230904T073019Z
+DTSTART:20230928T230000Z
+DTEND:20230929T003000Z
+SUMMARY:Robelle Domain - Ipswich Active and Healthy, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19479
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19189@eventor.orienteering.asn.au
