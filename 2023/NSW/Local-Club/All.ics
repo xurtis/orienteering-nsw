@@ -1955,15 +1955,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19447
 GEO:-33.8452045643299;151.07496599914
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19370@eventor.orienteering.asn.au
-DTSTAMP:20230808T060758Z
-DTSTART:20230915T233000Z
-DTEND:20230915T233000Z
-SUMMARY:SOS Hills Term 3, Bold Horizons Event Organiser
-URL:https://eventor.orienteering.asn.au/Events/Show/19370
-GEO:-33.763324950998;151.005894857463
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19326@eventor.orienteering.asn.au
 DTSTAMP:20230903T225934Z
 DTSTART:20230915T233000Z
@@ -1971,6 +1962,15 @@ DTEND:20230916T020000Z
 SUMMARY:Lane Cove Festival (inc. SOS), Bold Horizons Event Organiser / Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19326
 GEO:-33.8136712468444;151.145008093415
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19370@eventor.orienteering.asn.au
+DTSTAMP:20230904T234210Z
+DTSTART:20230915T233000Z
+DTEND:20230916T020000Z
+SUMMARY:SOS Hills - Baulkham Hills, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/19370
+GEO:-33.763247739031;151.006557692933
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18678@eventor.orienteering.asn.au

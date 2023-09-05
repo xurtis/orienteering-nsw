@@ -9610,7 +9610,7 @@ GEO:-30.3261448647993;153.09965267328
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18874@eventor.orienteering.asn.au
-DTSTAMP:20230627T013656Z
+DTSTAMP:20230904T215112Z
 DTSTART:20230904T070000Z
 DTEND:20230904T091500Z
 SUMMARY:ACT MapRun Street Series: Yarralumla, 31 Aug - 4 Sep, Orienteering ACT
@@ -9625,6 +9625,15 @@ DTEND:20230904T101500Z
 SUMMARY:Melbourne Park Street Monday Night Series - Wheelers Hill, Orienteering Victoria
 URL:https://eventor.orienteering.asn.au/Events/Show/19212
 GEO:-37.9108505526079;145.175682366079
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19178@eventor.orienteering.asn.au
+DTSTAMP:20230905T115353Z
+DTSTART:20230904T140000Z
+DTEND:20230905T140000Z
+SUMMARY:Night Nav - Ashgrove West, Enoggeroos / Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19178
+GEO:-27.4436538149206;152.98725975853
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18544@eventor.orienteering.asn.au
@@ -9643,15 +9652,6 @@ DTEND:20230904T233000Z
 SUMMARY:Wagga Home Schooled Children Coaching, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19192
 GEO:-35.1340971412374;147.365232902204
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19178@eventor.orienteering.asn.au
-DTSTAMP:20230611T110851Z
-DTSTART:20230905T073000Z
-DTEND:20230905T093000Z
-SUMMARY:Night Nav - Ashgrove West, Enoggeroos / Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19178
-GEO:-27.4436538149206;152.98725975853
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18545@eventor.orienteering.asn.au
@@ -9682,10 +9682,10 @@ GEO:-37.818929876791;145.230825032974
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19454@eventor.orienteering.asn.au
-DTSTAMP:20230829T022425Z
+DTSTAMP:20230904T204358Z
 DTSTART:20230907T003000Z
 DTEND:20230907T003000Z
-SUMMARY:Edwards Park Carindale, Orienteering Queensland
+SUMMARY:Tones Road Park Mansfield (note changed venue), Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19454
 GEO:-27.5302935156612;153.109835382459
 END:VEVENT
@@ -9700,11 +9700,12 @@ GEO:-27.3415286226599;153.075814484248
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19352@eventor.orienteering.asn.au
-DTSTAMP:20230815T023427Z
+DTSTAMP:20230905T090752Z
 DTSTART:20230908T070000Z
 DTEND:20230908T070000Z
 SUMMARY:Lake Annand Toowoomba Training, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19352
+GEO:-27.5767788142314;151.968699901932
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19091@eventor.orienteering.asn.au
@@ -9726,7 +9727,7 @@ GEO:-27.522220859803;153.216065836159
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17714@eventor.orienteering.asn.au
-DTSTAMP:20230904T112635Z
+DTSTAMP:20230905T120626Z
 DTSTART:20230909T023000Z
 DTEND:20230909T023000Z
 SUMMARY:2023 Orienteering NSW State Championships (Middle) / State League #14, Garingal Orienteers
@@ -9735,10 +9736,10 @@ GEO:-32.67039;149.98499
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18400@eventor.orienteering.asn.au
-DTSTAMP:20230520T210318Z
+DTSTAMP:20230904T215703Z
 DTSTART:20230909T023000Z
 DTEND:20230909T040000Z
-SUMMARY:Bendigo Bush - Mandurang Sheepwash, Bendigo Orienteers
+SUMMARY:Bendigo Bush - Mandurang Sheepwash, Bendigo Orienteers / Central Highlands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18400
 GEO:-36.8404252185072;144.30809804135
 END:VEVENT
@@ -9753,7 +9754,7 @@ GEO:-37.7730999751528;145.032292550519
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19457@eventor.orienteering.asn.au
-DTSTAMP:20230901T041055Z
+DTSTAMP:20230904T203400Z
 DTSTART:20230909T033000Z
 DTEND:20230909T053000Z
 SUMMARY:Bayside Kangaroos "Jump Off" Come and Try Orienteering Kids - Darebin Parklands, Bayside Kangaroos Orienteers
@@ -9825,7 +9826,7 @@ GEO:-28.1373050859223;153.44105979459
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17715@eventor.orienteering.asn.au
-DTSTAMP:20230904T113219Z
+DTSTAMP:20230905T120520Z
 DTSTART:20230909T233000Z
 DTEND:20230909T233000Z
 SUMMARY:2023 Orienteering NSW State Championships (Long) / State League #15, Garingal Orienteers
@@ -9922,15 +9923,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19347
 GEO:-27.5519674798514;151.933215590475
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19370@eventor.orienteering.asn.au
-DTSTAMP:20230808T060758Z
-DTSTART:20230915T233000Z
-DTEND:20230915T233000Z
-SUMMARY:SOS Hills Term 3, Bold Horizons Event Organiser
-URL:https://eventor.orienteering.asn.au/Events/Show/19370
-GEO:-33.763324950998;151.005894857463
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19326@eventor.orienteering.asn.au
 DTSTAMP:20230903T225934Z
 DTSTART:20230915T233000Z
@@ -9938,6 +9930,15 @@ DTEND:20230916T020000Z
 SUMMARY:Lane Cove Festival (inc. SOS), Bold Horizons Event Organiser / Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19326
 GEO:-33.8136712468444;151.145008093415
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19370@eventor.orienteering.asn.au
+DTSTAMP:20230904T234210Z
+DTSTART:20230915T233000Z
+DTEND:20230916T020000Z
+SUMMARY:SOS Hills - Baulkham Hills, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/19370
+GEO:-33.763247739031;151.006557692933
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18401@eventor.orienteering.asn.au
@@ -9968,12 +9969,12 @@ GEO:-27.5708709353814;151.930276821777
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18983@eventor.orienteering.asn.au
-DTSTAMP:20230421T013249Z
+DTSTAMP:20230905T011051Z
 DTSTART:20230916T140000Z
 DTEND:20230917T140000Z
 SUMMARY:Calvert's Beach - Southern Local #10, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18983
-GEO:-43.0211937582835;147.48843988953
+GEO:-43.026355;147.484465
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18026@eventor.orienteering.asn.au
@@ -9983,6 +9984,15 @@ DTEND:20230917T140000Z
 SUMMARY:OY11 - Glen Mine, Warwick , Orienteering Queensland / Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18026
 GEO:-28.2468262277489;151.939654991328
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19483@eventor.orienteering.asn.au
+DTSTAMP:20230905T130912Z
+DTSTART:20230916T143000Z
+DTEND:20230917T143000Z
+SUMMARY:NT: 2023 Lok Cabay, Top End Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19483
+GEO:-13.0361110101822;131.073791909484
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17911@eventor.orienteering.asn.au
@@ -10623,7 +10633,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18696
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19155@eventor.orienteering.asn.au
-DTSTAMP:20230608T060302Z
+DTSTAMP:20230905T131018Z
 DTSTART:20231014T050000Z
 DTEND:20231014T070000Z
 SUMMARY:Albany - Denmark SHS, Albany & Denmark Hinterland Orienteering Club
@@ -10685,7 +10695,7 @@ GEO:-37.348797100058;144.134164189441
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19156@eventor.orienteering.asn.au
-DTSTAMP:20230726T072139Z
+DTSTAMP:20230905T131341Z
 DTSTART:20231015T020000Z
 DTEND:20231015T040000Z
 SUMMARY:Albany - Mt Adelaide & Forts Historical Precinct, Albany & Denmark Hinterland Orienteering Club
@@ -12074,10 +12084,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19469
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19039@eventor.orienteering.asn.au
-DTSTAMP:20230827T203820Z
+DTSTAMP:20230905T023001Z
 DTSTART:20231226T130000Z
 DTEND:20231231T130000Z
-SUMMARY:XMAS 5 DAYS, Central Coast Orienteers
+SUMMARY:XMAS 5 DAYS, Central Coast Orienteers / Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19039
 GEO:-33.3563920173578;151.374724074967
 END:VEVENT
