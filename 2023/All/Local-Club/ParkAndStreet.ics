@@ -3662,6 +3662,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19228
 GEO:-37.7866179713808;145.228907561574
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18732@eventor.orienteering.asn.au
+DTSTAMP:20230907T003822Z
+DTSTART:20230826T140000Z
+DTEND:20230827T140000Z
+SUMMARY:MapRun Parks 2023 - Sherwoood Arboretum - BCC, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18732
+GEO:-27.5327301080009;152.973799605355
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19315@eventor.orienteering.asn.au
 DTSTAMP:20230829T074500Z
 DTSTART:20230827T003000Z
@@ -3678,15 +3687,6 @@ DTEND:20230827T021000Z
 SUMMARY:Mornington Peninsula Sunday MapRun - Safety Beach - Michael Hubbert Tribute Event, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19232
 GEO:-38.3142026661656;145.007701268201
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18732@eventor.orienteering.asn.au
-DTSTAMP:20230223T084434Z
-DTSTART:20230827T060000Z
-DTEND:20230827T060000Z
-SUMMARY:MapRun Parks 2023 - Sherwoood Arboretum - BCC, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18732
-GEO:-27.5327301080009;152.973799605355
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18873@eventor.orienteering.asn.au
@@ -3734,6 +3734,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19348
 GEO:-27.6015588162067;151.945934178248
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18571@eventor.orienteering.asn.au
+DTSTAMP:20230907T005038Z
+DTSTART:20230901T140000Z
+DTEND:20230902T140000Z
+SUMMARY:MapRun Andergrove, 21Degrees South Multisport Assoc.
+URL:https://eventor.orienteering.asn.au/Events/Show/18571
+GEO:-21.0864935217468;149.182301485104
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19368@eventor.orienteering.asn.au
 DTSTAMP:20230902T015950Z
 DTSTART:20230901T233000Z
@@ -3750,15 +3759,6 @@ DTEND:20230902T020000Z
 SUMMARY:SOS Northside - Balgowlah Heights, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/19369
 GEO:-33.8079639040637;151.268991328679
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18571@eventor.orienteering.asn.au
-DTSTAMP:20230820T030008Z
-DTSTART:20230902T050000Z
-DTEND:20230902T070000Z
-SUMMARY:MapRun Andergrove, 21Degrees South Multisport Assoc.
-URL:https://eventor.orienteering.asn.au/Events/Show/18571
-GEO:-21.0864935217468;149.182301485104
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18024@eventor.orienteering.asn.au
@@ -3921,6 +3921,15 @@ SUMMARY:Lincoln Orienteers End of Season Event, Lincoln Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18770
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18918@eventor.orienteering.asn.au
+DTSTAMP:20230907T112042Z
+DTSTART:20230917T010000Z
+DTEND:20230917T030000Z
+SUMMARY:Lake Cathie Orienteering, Hastings Orienteering Group
+URL:https://eventor.orienteering.asn.au/Events/Show/18918
+GEO:-31.5464333905971;152.856571560441
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18876@eventor.orienteering.asn.au
 DTSTAMP:20230428T030834Z
 DTSTART:20230918T070000Z
@@ -3963,6 +3972,7 @@ DTSTART:20230922T233000Z
 DTEND:20230922T233000Z
 SUMMARY:SOS Northside Term 3 Final Willoughby, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/19371
+GEO:-33.8119542782803;151.201968795096
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19231@eventor.orienteering.asn.au
