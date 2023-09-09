@@ -851,21 +851,12 @@ GEO:-35.0031922845282;149.158093820515
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17714@eventor.orienteering.asn.au
-DTSTAMP:20230906T054604Z
+DTSTAMP:20230909T061705Z
 DTSTART:20230909T023000Z
 DTEND:20230909T023000Z
 SUMMARY:2023 Orienteering NSW State Championships (Middle) / State League #14, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17714
 GEO:-32.67039;149.98499
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18431@eventor.orienteering.asn.au
-DTSTAMP:20230904T120129Z
-DTSTART:20230909T140000Z
-DTEND:20230910T140000Z
-SUMMARY:Vic Series (Bush) 8 - Mt Lofty, Redesdale, Nillumbik Emus Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18431
-GEO:-37.0163666491925;144.491889244321
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17820@eventor.orienteering.asn.au
@@ -884,6 +875,15 @@ DTEND:20230909T233000Z
 SUMMARY:2023 Orienteering NSW State Championships (Long) / State League #15, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17715
 GEO:-32.67039;149.98499
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18431@eventor.orienteering.asn.au
+DTSTAMP:20230908T151106Z
+DTSTART:20230910T000000Z
+DTEND:20230910T040000Z
+SUMMARY:Vic Series (Bush) 8 - Mt Lofty, Redesdale, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18431
+GEO:-37.0163666491925;144.491889244321
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18025@eventor.orienteering.asn.au

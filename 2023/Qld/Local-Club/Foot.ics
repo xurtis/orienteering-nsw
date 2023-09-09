@@ -1701,7 +1701,7 @@ GEO:-27.5302935156612;153.109835382459
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19352@eventor.orienteering.asn.au
-DTSTAMP:20230905T090752Z
+DTSTAMP:20230909T112240Z
 DTSTART:20230908T070000Z
 DTEND:20230908T070000Z
 SUMMARY:Lake Annand Toowoomba Training, Range Runners Orienteering Club
@@ -1762,6 +1762,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19347
 GEO:-27.5519674798514;151.933215590475
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19486@eventor.orienteering.asn.au
+DTSTAMP:20230909T013942Z
+DTSTART:20230917T060000Z
+DTEND:20230917T060000Z
+SUMMARY:MapRun Parks 2023 - Rocks Riverside, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19486
+GEO:-27.540706;152.96
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18737@eventor.orienteering.asn.au
 DTSTAMP:20230223T090320Z
 DTSTART:20230919T073000Z
@@ -1798,6 +1807,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19395
 GEO:-26.8000603392345;153.091674790108
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19487@eventor.orienteering.asn.au
+DTSTAMP:20230909T020901Z
+DTSTART:20230924T060000Z
+DTEND:20230924T060000Z
+SUMMARY:MapRun Parks 2023 - City Botanic Gardens , Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19487
+GEO:-27.474329;153.029796
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19353@eventor.orienteering.asn.au
 DTSTAMP:20230806T102043Z
 DTSTART:20230924T060000Z
@@ -1824,6 +1842,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18753
 GEO:-27.4827439415576;153.114922415097
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19488@eventor.orienteering.asn.au
+DTSTAMP:20230909T021840Z
+DTSTART:20231001T060000Z
+DTEND:20231001T060000Z
+SUMMARY:MapRun Parks 2023 - Robelle Domain, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19488
+GEO:-27.680679;152.903572
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19189@eventor.orienteering.asn.au
 DTSTAMP:20230817T043631Z
 DTSTART:20231003T073000Z
@@ -1842,6 +1869,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18686
 GEO:-27.6820864853434;152.924201762413
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19489@eventor.orienteering.asn.au
+DTSTAMP:20230909T022720Z
+DTSTART:20231007T140000Z
+DTEND:20231008T140000Z
+SUMMARY:MapRun Parks 2023 - Mercer Park, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19489
+GEO:-27.404889;153.046019
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19385@eventor.orienteering.asn.au
 DTSTAMP:20230817T051131Z
 DTSTART:20231010T073000Z
@@ -1849,6 +1885,15 @@ DTEND:20231010T093000Z
 SUMMARY:Night Nav - Rosalie, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19385
 GEO:-27.4687642487204;153.000311335916
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19490@eventor.orienteering.asn.au
+DTSTAMP:20230909T043843Z
+DTSTART:20231014T140000Z
+DTEND:20231015T140000Z
+SUMMARY:MapRun Parks 2023 - Roma St Parklands, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19490
+GEO:-27.463158;153.0180612
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19386@eventor.orienteering.asn.au
@@ -1886,6 +1931,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18757
 GEO:-27.5665587768057;153.041514612351
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19491@eventor.orienteering.asn.au
+DTSTAMP:20230909T045458Z
+DTSTART:20231021T140000Z
+DTEND:20231022T140000Z
+SUMMARY:MapRun Parks 2023 - Edwards Park Carindale, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19491
+GEO:-27.527153;153.107295
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19387@eventor.orienteering.asn.au
 DTSTAMP:20230817T054635Z
 DTSTART:20231024T073000Z
@@ -1895,8 +1949,17 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19387
 GEO:-27.489090258577;153.01285914223
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19492@eventor.orienteering.asn.au
+DTSTAMP:20230909T051331Z
+DTSTART:20231028T140000Z
+DTEND:20231029T140000Z
+SUMMARY:MapRun Parks 2023 - Moore Park Indooroopilly BCC Event, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19492
+GEO:-27.47499664;152.963884
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18733@eventor.orienteering.asn.au
-DTSTAMP:20230223T084748Z
+DTSTAMP:20230909T051950Z
 DTSTART:20231029T060000Z
 DTEND:20231029T060000Z
 SUMMARY:MapRun Parks 2023 - Moore Park - BCC, Ugly Gully Orienteers
@@ -1918,6 +1981,15 @@ DTSTART:20231104T053000Z
 DTEND:20231104T053000Z
 SUMMARY:Park-O #1, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18469
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19493@eventor.orienteering.asn.au
+DTSTAMP:20230909T052627Z
+DTSTART:20231105T060000Z
+DTEND:20231105T060000Z
+SUMMARY:MapRun Parks 2023 - Teralba Park, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19493
+GEO:-27.402481;152.98097
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18551@eventor.orienteering.asn.au
@@ -1942,6 +2014,15 @@ DTSTART:20231111T053000Z
 DTEND:20231111T053000Z
 SUMMARY:Cyclones Sprint #1, QLD Cyclones
 URL:https://eventor.orienteering.asn.au/Events/Show/18472
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19494@eventor.orienteering.asn.au
+DTSTAMP:20230909T053254Z
+DTSTART:20231112T060000Z
+DTEND:20231112T060000Z
+SUMMARY:MapRun Parks 2023 - Fig Tree Pocket - Creek Crossing Course, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19494
+GEO:-27.517065;152.95937
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17610@eventor.orienteering.asn.au
@@ -1969,6 +2050,15 @@ SUMMARY:Park-O #2 - Spring Mountain Reserve, Greenbank - LCC, Ugly Gully Oriente
 URL:https://eventor.orienteering.asn.au/Events/Show/18470
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19495@eventor.orienteering.asn.au
+DTSTAMP:20230909T053652Z
+DTSTART:20231119T060000Z
+DTEND:20231119T060000Z
+SUMMARY:MapRun Parks 2023 - Kalinga Park, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19495
+GEO:-27.406177;153.051878
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17611@eventor.orienteering.asn.au
 DTSTAMP:20220615T003434Z
 DTSTART:20231121T073000Z
@@ -1983,6 +2073,15 @@ DTSTART:20231125T053000Z
 DTEND:20231125T053000Z
 SUMMARY:Cyclones Sprint #2, QLD Cyclones
 URL:https://eventor.orienteering.asn.au/Events/Show/18473
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19496@eventor.orienteering.asn.au
+DTSTAMP:20230909T054110Z
+DTSTART:20231126T060000Z
+DTEND:20231126T060000Z
+SUMMARY:MapRun Parks 2023 - Wolston Creek, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19496
+GEO:-27.563373;152.903092
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17612@eventor.orienteering.asn.au
@@ -2000,6 +2099,14 @@ DTSTART:20231202T053000Z
 DTEND:20231202T053000Z
 SUMMARY:Park-O #3, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18471
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19497@eventor.orienteering.asn.au
+DTSTAMP:20230909T054354Z
+DTSTART:20231203T060000Z
+DTEND:20231203T060000Z
+SUMMARY:MapRun Parks 2023 - TBC, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19497
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17613@eventor.orienteering.asn.au
@@ -2028,6 +2135,15 @@ SUMMARY:Cyclones Sprint #3, QLD Cyclones
 URL:https://eventor.orienteering.asn.au/Events/Show/18474
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19498@eventor.orienteering.asn.au
+DTSTAMP:20230909T054825Z
+DTSTART:20231210T060000Z
+DTEND:20231210T060000Z
+SUMMARY:MapRun Parks 2023 - Edenbrooke, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19498
+GEO:-27.548542;152.948967
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17614@eventor.orienteering.asn.au
 DTSTAMP:20230226T225709Z
 DTSTART:20231212T073000Z
@@ -2035,6 +2151,15 @@ DTEND:20231212T073000Z
 SUMMARY:Night Nav - Clayfied - BCC, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/17614
 GEO:-27.4290877212154;153.057710928518
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19499@eventor.orienteering.asn.au
+DTSTAMP:20230909T055205Z
+DTSTART:20231217T060000Z
+DTEND:20231217T060000Z
+SUMMARY:MapRun Parks 2023 - Rocks Riverside, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19499
+GEO:-27.5417525;152.960040589901
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17615@eventor.orienteering.asn.au

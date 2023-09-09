@@ -7488,7 +7488,7 @@ GEO:-27.5302935156612;153.109835382459
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19352@eventor.orienteering.asn.au
-DTSTAMP:20230905T090752Z
+DTSTAMP:20230909T112240Z
 DTSTART:20230908T070000Z
 DTEND:20230908T070000Z
 SUMMARY:Lake Annand Toowoomba Training, Range Runners Orienteering Club
@@ -7497,7 +7497,7 @@ GEO:-27.5767788142314;151.968699901932
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17714@eventor.orienteering.asn.au
-DTSTAMP:20230906T054604Z
+DTSTAMP:20230909T061705Z
 DTSTART:20230909T023000Z
 DTEND:20230909T023000Z
 SUMMARY:2023 Orienteering NSW State Championships (Middle) / State League #14, Garingal Orienteers
@@ -7506,7 +7506,7 @@ GEO:-32.67039;149.98499
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18400@eventor.orienteering.asn.au
-DTSTAMP:20230904T215703Z
+DTSTAMP:20230909T043719Z
 DTSTART:20230909T023000Z
 DTEND:20230909T040000Z
 SUMMARY:Bendigo Bush - Mandurang Sheepwash, Bendigo Orienteers / Central Highlands Orienteering Club
@@ -7515,7 +7515,7 @@ GEO:-36.8404252185072;144.30809804135
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19457@eventor.orienteering.asn.au
-DTSTAMP:20230904T203400Z
+DTSTAMP:20230909T114123Z
 DTSTART:20230909T033000Z
 DTEND:20230909T053000Z
 SUMMARY:Bayside Kangaroos "Jump Off" Come and Try Orienteering Kids - Darebin Parklands, Bayside Kangaroos Orienteers
@@ -7524,7 +7524,7 @@ GEO:-37.7728476556568;145.032338280778
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18378@eventor.orienteering.asn.au
-DTSTAMP:20230822T015520Z
+DTSTAMP:20230909T094602Z
 DTSTART:20230909T040000Z
 DTEND:20230909T053000Z
 SUMMARY:Paringa Paddocks, Renmark, Onkaparinga Hills Orienteering Club
@@ -7539,15 +7539,6 @@ DTEND:20230909T130000Z
 SUMMARY:Garingal 50th Birthday Dinner Rylstone (current and past members), Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19354
 GEO:-32.7967849925716;149.971500676002
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18431@eventor.orienteering.asn.au
-DTSTAMP:20230904T120129Z
-DTSTART:20230909T140000Z
-DTEND:20230910T140000Z
-SUMMARY:Vic Series (Bush) 8 - Mt Lofty, Redesdale, Nillumbik Emus Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18431
-GEO:-37.0163666491925;144.491889244321
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17820@eventor.orienteering.asn.au
@@ -7575,6 +7566,15 @@ DTEND:20230909T233000Z
 SUMMARY:2023 Orienteering NSW State Championships (Long) / State League #15, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/17715
 GEO:-32.67039;149.98499
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18431@eventor.orienteering.asn.au
+DTSTAMP:20230908T151106Z
+DTSTART:20230910T000000Z
+DTEND:20230910T040000Z
+SUMMARY:Vic Series (Bush) 8 - Mt Lofty, Redesdale, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18431
+GEO:-37.0163666491925;144.491889244321
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18748@eventor.orienteering.asn.au
@@ -7658,12 +7658,12 @@ GEO:-13.0465056980998;131.029153494798
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19326@eventor.orienteering.asn.au
-DTSTAMP:20230903T225934Z
+DTSTAMP:20230908T231538Z
 DTSTART:20230915T233000Z
 DTEND:20230916T020000Z
-SUMMARY:Lane Cove Festival (inc. SOS), Bold Horizons Event Organiser / Garingal Orienteers
+SUMMARY:SOS - Lane Cove Festival, Bold Horizons Event Organiser / Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19326
-GEO:-33.8136712468444;151.145008093415
+GEO:-33.8130783066531;151.144083662624
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19370@eventor.orienteering.asn.au
@@ -7676,9 +7676,9 @@ GEO:-33.763247739031;151.006557692933
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18401@eventor.orienteering.asn.au
-DTSTAMP:20230819T031637Z
+DTSTAMP:20230909T114751Z
 DTSTART:20230916T023000Z
-DTEND:20230916T040000Z
+DTEND:20230916T033000Z
 SUMMARY:Bendigo Bush 15 - Mount Kooyoora, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18401
 GEO:-36.5825664294987;143.659358038692
@@ -7789,6 +7789,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18749
 GEO:-32.2891377589149;116.739978188663
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19486@eventor.orienteering.asn.au
+DTSTAMP:20230909T013942Z
+DTSTART:20230917T060000Z
+DTEND:20230917T060000Z
+SUMMARY:MapRun Parks 2023 - Rocks Riverside, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19486
+GEO:-27.540706;152.96
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18737@eventor.orienteering.asn.au
 DTSTAMP:20230223T090320Z
 DTSTART:20230919T073000Z
@@ -7888,6 +7897,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19409
 GEO:-34.9681080782707;138.634727669689
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19487@eventor.orienteering.asn.au
+DTSTAMP:20230909T020901Z
+DTSTART:20230924T060000Z
+DTEND:20230924T060000Z
+SUMMARY:MapRun Parks 2023 - City Botanic Gardens , Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19487
+GEO:-27.474329;153.029796
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19353@eventor.orienteering.asn.au
 DTSTAMP:20230806T102043Z
 DTSTART:20230924T060000Z
@@ -7966,6 +7984,15 @@ DTEND:20231001T060000Z
 SUMMARY:Australian Championships Relays - Entries, Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/18141
 GEO:-31.7383295356906;116.603168248993
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19488@eventor.orienteering.asn.au
+DTSTAMP:20230909T021840Z
+DTSTART:20231001T060000Z
+DTEND:20231001T060000Z
+SUMMARY:MapRun Parks 2023 - Robelle Domain, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19488
+GEO:-27.680679;152.903572
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18146@eventor.orienteering.asn.au
@@ -8094,6 +8121,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18143
 GEO:-31.6489624136123;116.217258235667
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19489@eventor.orienteering.asn.au
+DTSTAMP:20230909T022720Z
+DTSTART:20231007T140000Z
+DTEND:20231008T140000Z
+SUMMARY:MapRun Parks 2023 - Mercer Park, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19489
+GEO:-27.404889;153.046019
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19313@eventor.orienteering.asn.au
 DTSTAMP:20230728T040122Z
 DTSTART:20231007T230000Z
@@ -8172,6 +8208,15 @@ DTEND:20231015T130000Z
 SUMMARY:Seven Mile Beach - Southern Local #12, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18985
 GEO:-42.8420599273743;147.540230623126
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19490@eventor.orienteering.asn.au
+DTSTAMP:20230909T043843Z
+DTSTART:20231014T140000Z
+DTEND:20231015T140000Z
+SUMMARY:MapRun Parks 2023 - Roma St Parklands, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19490
+GEO:-27.463158;153.0180612
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18887@eventor.orienteering.asn.au
@@ -8304,6 +8349,15 @@ SUMMARY:Club relays - Sheepstation Creek (Wivenhoe) tbc, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18027
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19491@eventor.orienteering.asn.au
+DTSTAMP:20230909T045458Z
+DTSTART:20231021T140000Z
+DTEND:20231022T140000Z
+SUMMARY:MapRun Parks 2023 - Edwards Park Carindale, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19491
+GEO:-27.527153;153.107295
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18919@eventor.orienteering.asn.au
 DTSTAMP:20230328T105437Z
 DTSTART:20231022T000000Z
@@ -8390,6 +8444,15 @@ SUMMARY:SC-ORE #1: Hawker Primary School, Hawker, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19285
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19492@eventor.orienteering.asn.au
+DTSTAMP:20230909T051331Z
+DTSTART:20231028T140000Z
+DTEND:20231029T140000Z
+SUMMARY:MapRun Parks 2023 - Moore Park Indooroopilly BCC Event, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19492
+GEO:-27.47499664;152.963884
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18315@eventor.orienteering.asn.au
 DTSTAMP:20221205T111831Z
 DTSTART:20231028T233000Z
@@ -8426,7 +8489,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19141
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18733@eventor.orienteering.asn.au
-DTSTAMP:20230223T084748Z
+DTSTAMP:20230909T051950Z
 DTSTART:20231029T060000Z
 DTEND:20231029T060000Z
 SUMMARY:MapRun Parks 2023 - Moore Park - BCC, Ugly Gully Orienteers
@@ -8541,6 +8604,15 @@ DTSTART:20231105T050000Z
 DTEND:20231105T060000Z
 SUMMARY:River and Bay Orienteering Series #3, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19142
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19493@eventor.orienteering.asn.au
+DTSTAMP:20230909T052627Z
+DTSTART:20231105T060000Z
+DTEND:20231105T060000Z
+SUMMARY:MapRun Parks 2023 - Teralba Park, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19493
+GEO:-27.402481;152.98097
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18551@eventor.orienteering.asn.au
@@ -8667,6 +8739,15 @@ DTSTART:20231112T050000Z
 DTEND:20231112T060000Z
 SUMMARY:River and Bay Orienteering Series #4, Illawarra Kareelah Orienteers / Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19143
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19494@eventor.orienteering.asn.au
+DTSTAMP:20230909T053254Z
+DTSTART:20231112T060000Z
+DTEND:20231112T060000Z
+SUMMARY:MapRun Parks 2023 - Fig Tree Pocket - Creek Crossing Course, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19494
+GEO:-27.517065;152.95937
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19252@eventor.orienteering.asn.au
@@ -8805,6 +8886,15 @@ SUMMARY:River and Bay Orienteering Series #5, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19144
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19495@eventor.orienteering.asn.au
+DTSTAMP:20230909T053652Z
+DTSTART:20231119T060000Z
+DTEND:20231119T060000Z
+SUMMARY:MapRun Parks 2023 - Kalinga Park, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19495
+GEO:-27.406177;153.051878
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19253@eventor.orienteering.asn.au
 DTSTAMP:20230629T020910Z
 DTSTART:20231121T040000Z
@@ -8930,6 +9020,15 @@ SUMMARY:River and Bay Orienteering Series #6, NSW Stingers / Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19145
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19496@eventor.orienteering.asn.au
+DTSTAMP:20230909T054110Z
+DTSTART:20231126T060000Z
+DTEND:20231126T060000Z
+SUMMARY:MapRun Parks 2023 - Wolston Creek, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19496
+GEO:-27.563373;152.903092
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19392@eventor.orienteering.asn.au
 DTSTAMP:20230821T070725Z
 DTSTART:20231127T130000Z
@@ -8999,6 +9098,14 @@ SUMMARY:River and Bay Orienteering Series #7, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19146
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19497@eventor.orienteering.asn.au
+DTSTAMP:20230909T054354Z
+DTSTART:20231203T060000Z
+DTEND:20231203T060000Z
+SUMMARY:MapRun Parks 2023 - TBC, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19497
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17613@eventor.orienteering.asn.au
 DTSTAMP:20230110T231515Z
 DTSTART:20231205T073000Z
@@ -9058,6 +9165,15 @@ SUMMARY:Waggaroos 2023-24 MapRun Series #3, TBC, Wagga and Riverina Occasional O
 URL:https://eventor.orienteering.asn.au/Events/Show/18601
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19498@eventor.orienteering.asn.au
+DTSTAMP:20230909T054825Z
+DTSTART:20231210T060000Z
+DTEND:20231210T060000Z
+SUMMARY:MapRun Parks 2023 - Edenbrooke, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19498
+GEO:-27.548542;152.948967
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17614@eventor.orienteering.asn.au
 DTSTAMP:20230226T225709Z
 DTSTART:20231212T073000Z
@@ -9101,6 +9217,15 @@ DTEND:20231217T020000Z
 SUMMARY:Christmas O, Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/18335
 GEO:-32.0028531221263;115.771440877333
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19499@eventor.orienteering.asn.au
+DTSTAMP:20230909T055205Z
+DTSTART:20231217T060000Z
+DTEND:20231217T060000Z
+SUMMARY:MapRun Parks 2023 - Rocks Riverside, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19499
+GEO:-27.5417525;152.960040589901
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17615@eventor.orienteering.asn.au
