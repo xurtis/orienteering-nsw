@@ -1835,22 +1835,22 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19352
 GEO:-27.5767788142314;151.968699901932
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19168@eventor.orienteering.asn.au
+DTSTAMP:20230910T111210Z
+DTSTART:20230909T140000Z
+DTEND:20230910T140000Z
+SUMMARY:MapRun Parks 2023 - Anzac Park, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19168
+GEO:-27.480341;152.981084
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19391@eventor.orienteering.asn.au
-DTSTAMP:20230903T233839Z
+DTSTAMP:20230910T050931Z
 DTSTART:20230909T230000Z
 DTEND:20230910T000000Z
 SUMMARY:Park and Bush Orienteering at Eddie Kornhauser Reserve, Elanora, Paradise Lost Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19391
 GEO:-28.1373050859223;153.44105979459
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19168@eventor.orienteering.asn.au
-DTSTAMP:20230811T012643Z
-DTSTART:20230910T060000Z
-DTEND:20230910T060000Z
-SUMMARY:MapRun Parks 2023 - Anzac Park, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19168
-GEO:-27.480341;152.981084
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19447@eventor.orienteering.asn.au
@@ -1868,6 +1868,7 @@ DTSTART:20230912T073000Z
 DTEND:20230912T093000Z
 SUMMARY:Night Nav - Red Hill, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19179
+GEO:-27.4491013350862;152.997378972175
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19455@eventor.orienteering.asn.au
