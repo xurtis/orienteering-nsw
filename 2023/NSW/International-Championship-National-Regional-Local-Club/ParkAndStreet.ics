@@ -930,12 +930,12 @@ GEO:-31.5464333905971;152.856571560441
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19371@eventor.orienteering.asn.au
-DTSTAMP:20230808T061128Z
+DTSTAMP:20230911T042214Z
 DTSTART:20230922T233000Z
-DTEND:20230922T233000Z
-SUMMARY:SOS Northside Term 3 Final Willoughby, Bold Horizons Event Organiser
+DTEND:20230923T020000Z
+SUMMARY:SOS - Willoughby, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/19371
-GEO:-33.8119542782803;151.201968795096
+GEO:-33.811931933432;151.203358033062
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19338@eventor.orienteering.asn.au
@@ -966,11 +966,12 @@ GEO:-30.1032685954922;153.189448942975
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18696@eventor.orienteering.asn.au
-DTSTAMP:20230211T061428Z
+DTSTAMP:20230910T233437Z
 DTSTART:20231014T040000Z
-DTEND:20231014T060000Z
+DTEND:20231014T050000Z
 SUMMARY:Cordeaux Heights, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18696
+GEO:-34.4453671974182;150.83688338203
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19340@eventor.orienteering.asn.au
@@ -1022,6 +1023,7 @@ DTSTART:20231104T220000Z
 DTEND:20231104T220000Z
 SUMMARY:Central Coast Summer Series 1 - The Entrance, Central Coast Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19453
+GEO:-33.3376845890558;151.492716299605
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19142@eventor.orienteering.asn.au
@@ -1050,6 +1052,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19275
 GEO:-30.2807215490476;153.113255107105
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19500@eventor.orienteering.asn.au
+DTSTAMP:20230911T054752Z
+DTSTART:20231111T220000Z
+DTEND:20231111T220000Z
+SUMMARY:Central Coast Summer Series 2 - Davistown, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19500
+GEO:-33.4865405324307;151.358123245192
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19143@eventor.orienteering.asn.au
 DTSTAMP:20230831T205513Z
 DTSTART:20231112T050000Z
@@ -1065,6 +1076,15 @@ DTEND:20231115T083000Z
 SUMMARY:2023/24 Sydney Summer Series #7 - West Cherrybrook, Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19344
 GEO:-33.7118883237689;151.030085175137
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19501@eventor.orienteering.asn.au
+DTSTAMP:20230911T060841Z
+DTSTART:20231118T220000Z
+DTEND:20231118T220000Z
+SUMMARY:Central Coast Summer Series 3 - Mount Penang, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19501
+GEO:-33.4283596261515;151.295750197811
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19144@eventor.orienteering.asn.au
