@@ -3492,7 +3492,7 @@ GEO:-34.5900953075999;150.864121773032
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19273@eventor.orienteering.asn.au
-DTSTAMP:20230812T092738Z
+DTSTAMP:20230914T052926Z
 DTSTART:20230812T040000Z
 DTEND:20230812T060000Z
 SUMMARY:Coffs Score #5 - Sawtell, Bush n Beach Orienteering Club
@@ -4274,6 +4274,15 @@ SUMMARY:Geelong Park Street Thursday Summer Series - Montpelier, Bayside Kangaro
 URL:https://eventor.orienteering.asn.au/Events/Show/19417
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19503@eventor.orienteering.asn.au
+DTSTAMP:20230913T233211Z
+DTSTART:20231021T230000Z
+DTEND:20231022T020000Z
+SUMMARY:Allora street O, Bullecourt Boulder Bounders
+URL:https://eventor.orienteering.asn.au/Events/Show/19503
+GEO:-28.0351036575412;151.985442420427
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19140@eventor.orienteering.asn.au
 DTSTAMP:20230831T074133Z
 DTSTART:20231022T050000Z
@@ -4913,7 +4922,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19469
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19364@eventor.orienteering.asn.au
-DTSTAMP:20230912T053952Z
+DTSTAMP:20230914T045948Z
 DTSTART:20231227T053000Z
 DTEND:20231227T083000Z
 SUMMARY:2023/24 Sydney Summer Series #13 - Ourimbah, Central Coast, Central Coast Orienteers
