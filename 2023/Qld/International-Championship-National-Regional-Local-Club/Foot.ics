@@ -1926,7 +1926,7 @@ GEO:-27.4669901494569;152.983161587259
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18755@eventor.orienteering.asn.au
-DTSTAMP:20230913T223418Z
+DTSTAMP:20230915T051837Z
 DTSTART:20230921T003000Z
 DTEND:20230921T010000Z
 SUMMARY:Kalinga Park, Kalinga. (BCC Sponsored) (MAPRUN EVENT), Orienteering Queensland
@@ -1950,15 +1950,6 @@ DTEND:20230923T220000Z
 SUMMARY:Park-O at Caloundra West, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19395
 GEO:-26.8000603392345;153.091674790108
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19487@eventor.orienteering.asn.au
-DTSTAMP:20230909T020901Z
-DTSTART:20230924T060000Z
-DTEND:20230924T060000Z
-SUMMARY:MapRun Parks 2023 - City Botanic Gardens , Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19487
-GEO:-27.474329;153.029796
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19353@eventor.orienteering.asn.au
@@ -2252,6 +2243,15 @@ DTSTART:20231202T053000Z
 DTEND:20231202T053000Z
 SUMMARY:Park-O #3, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18471
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19487@eventor.orienteering.asn.au
+DTSTAMP:20230914T195328Z
+DTSTART:20231203T060000Z
+DTEND:20231203T060000Z
+SUMMARY:MapRun Parks 2023 - City Botanic Gardens , Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19487
+GEO:-27.474329;153.029796
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19497@eventor.orienteering.asn.au
