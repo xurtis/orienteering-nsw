@@ -938,14 +938,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19338
 GEO:-33.8211905497983;151.050565045824
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19507@eventor.orienteering.asn.au
-DTSTAMP:20230915T095015Z
-DTSTART:20231010T130000Z
-DTEND:20231011T130000Z
-SUMMARY:Summer Street Series Warmup, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19507
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19339@eventor.orienteering.asn.au
 DTSTAMP:20230807T053438Z
 DTSTART:20231011T053000Z
@@ -955,8 +947,16 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19339
 GEO:-33.8262146183774;151.137996906473
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19507@eventor.orienteering.asn.au
+DTSTAMP:20230917T224411Z
+DTSTART:20231011T060000Z
+DTEND:20231011T060000Z
+SUMMARY:Summer Street Series Warmup, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19507
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19274@eventor.orienteering.asn.au
-DTSTAMP:20230708T023239Z
+DTSTAMP:20230917T224536Z
 DTSTART:20231014T030000Z
 DTEND:20231014T050000Z
 SUMMARY:Coffs Score #6 - Woolgoolga, Bush n Beach Orienteering Club

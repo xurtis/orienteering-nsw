@@ -3906,7 +3906,7 @@ GEO:-37.8528134820052;145.06765623943
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19316@eventor.orienteering.asn.au
-DTSTAMP:20230828T054427Z
+DTSTAMP:20230918T064134Z
 DTSTART:20230917T003000Z
 DTEND:20230917T033000Z
 SUMMARY:Whyalla East, Saltbush Orienteers
@@ -4013,7 +4013,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19353
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18668@eventor.orienteering.asn.au
-DTSTAMP:20230622T043041Z
+DTSTAMP:20230918T000331Z
 DTSTART:20230924T060000Z
 DTEND:20230924T063000Z
 SUMMARY:Maprun Parks 2023 - Boronia Bushland Reserve, Boronia - LCC Active and Healthy Event, Toohey Forest Orienteers
@@ -4139,14 +4139,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19385
 GEO:-27.4687642487204;153.000311335916
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19507@eventor.orienteering.asn.au
-DTSTAMP:20230915T095015Z
-DTSTART:20231010T130000Z
-DTEND:20231011T130000Z
-SUMMARY:Summer Street Series Warmup, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19507
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19339@eventor.orienteering.asn.au
 DTSTAMP:20230807T053438Z
 DTSTART:20231011T053000Z
@@ -4154,6 +4146,14 @@ DTEND:20231011T083000Z
 SUMMARY:2023/24 Sydney Summer Series #2 - Hunters Hill, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19339
 GEO:-33.8262146183774;151.137996906473
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19507@eventor.orienteering.asn.au
+DTSTAMP:20230917T224411Z
+DTSTART:20231011T060000Z
+DTEND:20231011T060000Z
+SUMMARY:Summer Street Series Warmup, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19507
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19410@eventor.orienteering.asn.au
@@ -4173,7 +4173,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19414
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19274@eventor.orienteering.asn.au
-DTSTAMP:20230708T023239Z
+DTSTAMP:20230917T224536Z
 DTSTART:20231014T030000Z
 DTEND:20231014T050000Z
 SUMMARY:Coffs Score #6 - Woolgoolga, Bush n Beach Orienteering Club
