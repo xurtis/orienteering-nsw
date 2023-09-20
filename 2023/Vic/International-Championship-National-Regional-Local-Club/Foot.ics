@@ -827,7 +827,7 @@ GEO:-36.5825664294987;143.659358038692
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18402@eventor.orienteering.asn.au
-DTSTAMP:20230916T080826Z
+DTSTAMP:20230920T110032Z
 DTSTART:20230923T023000Z
 DTEND:20230923T040000Z
 SUMMARY:Bendigo Bush 16 - Korong Spur, Bendigo Orienteers
@@ -836,7 +836,7 @@ GEO:-36.4541390873008;143.753192577909
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18403@eventor.orienteering.asn.au
-DTSTAMP:20230810T104019Z
+DTSTAMP:20230919T232940Z
 DTSTART:20231007T013000Z
 DTEND:20231007T030000Z
 SUMMARY:Bendigo Training - Score Event - Rocky Rises, Bendigo Orienteers
@@ -851,6 +851,15 @@ DTEND:20231008T030000Z
 SUMMARY:Ballarat Winter Series #2 Yuille Wetlands (Rescheduled), Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19313
 GEO:-37.5914059558841;143.846097150042
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19540@eventor.orienteering.asn.au
+DTSTAMP:20230920T121417Z
+DTSTART:20231014T230000Z
+DTEND:20231015T000000Z
+SUMMARY:Woodend Victoria -  Learn to Orienteer, Week 1 and Registration, Central Highlands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19540
+GEO:-37.3540142186113;144.529105150292
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19314@eventor.orienteering.asn.au

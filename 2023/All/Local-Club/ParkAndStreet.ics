@@ -3951,9 +3951,9 @@ GEO:-37.7739014764025;145.1267257197
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18737@eventor.orienteering.asn.au
-DTSTAMP:20230223T090320Z
-DTSTART:20230919T073000Z
-DTEND:20230919T093000Z
+DTSTAMP:20230920T043037Z
+DTSTART:20230918T140000Z
+DTEND:20230919T140000Z
 SUMMARY:Night Nav - Rainworth - BCC, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18737
 GEO:-27.4669901494569;152.983161587259
@@ -4145,6 +4145,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19385
 GEO:-27.4687642487204;153.000311335916
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19522@eventor.orienteering.asn.au
+DTSTAMP:20230920T031232Z
+DTSTART:20231010T230000Z
+DTEND:20231011T000000Z
+SUMMARY:Closed School Event, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19522
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19339@eventor.orienteering.asn.au
 DTSTAMP:20230807T053438Z
 DTSTART:20231011T053000Z
@@ -4261,6 +4269,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19340
 GEO:-33.7724357308484;151.216253416423
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19521@eventor.orienteering.asn.au
+DTSTAMP:20230920T025628Z
+DTSTART:20231018T060000Z
+DTEND:20231018T060000Z
+SUMMARY:Newcastle 2023-24 Summer Street Series #1, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19521
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18573@eventor.orienteering.asn.au
 DTSTAMP:20230126T020912Z
 DTSTART:20231018T073000Z
@@ -4350,6 +4366,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19341
 GEO:-33.7174531609216;151.070909317698
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19523@eventor.orienteering.asn.au
+DTSTAMP:20230920T034012Z
+DTSTART:20231025T060000Z
+DTEND:20231025T060000Z
+SUMMARY:Newcastle 2023-24 Summer Street Series #2, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19523
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19412@eventor.orienteering.asn.au
 DTSTAMP:20230919T064206Z
 DTSTART:20231025T073000Z
@@ -4428,6 +4452,14 @@ DTEND:20231101T083000Z
 SUMMARY:2023/24 Sydney Summer Series #5 - West Pymble, Big Foot Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19342
 GEO:-33.763099819706;151.130151610444
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19524@eventor.orienteering.asn.au
+DTSTAMP:20230920T034146Z
+DTSTART:20231101T060000Z
+DTEND:20231101T060000Z
+SUMMARY:Newcastle 2023-24 Summer Street Series #3, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19524
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19428@eventor.orienteering.asn.au
@@ -4513,6 +4545,14 @@ DTEND:20231108T083000Z
 SUMMARY:2023/24 Sydney Summer Series #6 - Lane Cove, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19343
 GEO:-33.8131897162378;151.144178303797
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19525@eventor.orienteering.asn.au
+DTSTAMP:20230920T034305Z
+DTSTART:20231108T060000Z
+DTEND:20231108T060000Z
+SUMMARY:Newcastle 2023-24 Summer Street Series #4, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19525
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19429@eventor.orienteering.asn.au
@@ -4608,12 +4648,20 @@ GEO:-37.2438072217795;144.443398156842
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19344@eventor.orienteering.asn.au
-DTSTAMP:20230807T053904Z
+DTSTAMP:20230919T221741Z
 DTSTART:20231115T053000Z
 DTEND:20231115T083000Z
-SUMMARY:2023/24 Sydney Summer Series #7 - West Cherrybrook, Western and Hills Orienteers
+SUMMARY:2023/24 Sydney Summer Series #7 - South Dural, Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19344
-GEO:-33.7118883237689;151.030085175137
+GEO:-33.7118935298243;151.030345349631
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19526@eventor.orienteering.asn.au
+DTSTAMP:20230920T034421Z
+DTSTART:20231115T060000Z
+DTEND:20231115T060000Z
+SUMMARY:Newcastle 2023-24 Summer Street Series #5, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19526
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18574@eventor.orienteering.asn.au
@@ -4708,6 +4756,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19345
 GEO:-33.7564761531827;151.238010417578
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19527@eventor.orienteering.asn.au
+DTSTAMP:20230920T034537Z
+DTSTART:20231122T060000Z
+DTEND:20231122T060000Z
+SUMMARY:Newcastle 2023-24 Summer Street Series #6, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19527
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19431@eventor.orienteering.asn.au
 DTSTAMP:20230823T050614Z
 DTSTART:20231122T073000Z
@@ -4789,6 +4845,14 @@ DTEND:20231129T083000Z
 SUMMARY:2023/24 Sydney Summer Series #9 - Gladesville, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19346
 GEO:-33.8396906735827;151.128083387207
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19528@eventor.orienteering.asn.au
+DTSTAMP:20230920T034649Z
+DTSTART:20231129T060000Z
+DTEND:20231129T060000Z
+SUMMARY:Newcastle 2023-24 Summer Street Series #7, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19528
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19432@eventor.orienteering.asn.au
@@ -4874,6 +4938,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19361
 GEO:-33.8300410265825;151.167310574176
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19529@eventor.orienteering.asn.au
+DTSTAMP:20230920T034801Z
+DTSTART:20231206T060000Z
+DTEND:20231206T060000Z
+SUMMARY:Newcastle 2023-24 Summer Street Series #8, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19529
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18575@eventor.orienteering.asn.au
 DTSTAMP:20230126T021810Z
 DTSTART:20231206T073000Z
@@ -4932,6 +5004,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19362
 GEO:-33.8115598307651;151.203530195184
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19530@eventor.orienteering.asn.au
+DTSTAMP:20230920T034923Z
+DTSTART:20231213T060000Z
+DTEND:20231213T060000Z
+SUMMARY:Newcastle 2023-24 Summer Street Series #9, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19530
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19464@eventor.orienteering.asn.au
 DTSTAMP:20230901T053921Z
 DTSTART:20231213T073000Z
@@ -4971,6 +5051,14 @@ DTEND:20231220T083000Z
 SUMMARY:2023/24 Sydney Summer Series #12 - Mosman, Bennelong Northside Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19363
 GEO:-33.8058262705058;151.245916325501
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19531@eventor.orienteering.asn.au
+DTSTAMP:20230920T035043Z
+DTSTART:20231220T060000Z
+DTEND:20231220T060000Z
+SUMMARY:Newcastle 2023-24 Summer Street Series #10, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19531
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19465@eventor.orienteering.asn.au
