@@ -7703,6 +7703,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18983
 GEO:-43.026355;147.484465
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19486@eventor.orienteering.asn.au
+DTSTAMP:20230921T115602Z
+DTSTART:20230916T140000Z
+DTEND:20230917T140000Z
+SUMMARY:MapRun Parks 2023 - Rocks Riverside, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19486
+GEO:-27.540706;152.96
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18026@eventor.orienteering.asn.au
 DTSTAMP:20230917T081806Z
 DTSTART:20230916T140000Z
@@ -7791,15 +7800,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18749
 GEO:-32.3090483404401;116.697504553992
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19486@eventor.orienteering.asn.au
-DTSTAMP:20230909T013942Z
-DTSTART:20230917T060000Z
-DTEND:20230917T060000Z
-SUMMARY:MapRun Parks 2023 - Rocks Riverside, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19486
-GEO:-27.540706;152.96
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18737@eventor.orienteering.asn.au
 DTSTAMP:20230920T043037Z
 DTSTART:20230918T140000Z
@@ -7810,7 +7810,7 @@ GEO:-27.4669901494569;152.983161587259
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18755@eventor.orienteering.asn.au
-DTSTAMP:20230915T051837Z
+DTSTAMP:20230921T051333Z
 DTSTART:20230921T003000Z
 DTEND:20230921T010000Z
 SUMMARY:Kalinga Park, Kalinga. (BCC Sponsored) (MAPRUN EVENT), Orienteering Queensland
@@ -7891,7 +7891,7 @@ GEO:-32.8732953080404;151.365563291588
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19409@eventor.orienteering.asn.au
-DTSTAMP:20230919T093528Z
+DTSTAMP:20230921T072454Z
 DTSTART:20230924T010000Z
 DTEND:20230924T033000Z
 SUMMARY:SA Interclub Relays - Waite Arboretum, SA Arrows
@@ -8061,12 +8061,12 @@ GEO:-33.8211905497983;151.050565045824
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18686@eventor.orienteering.asn.au
-DTSTAMP:20230208T031944Z
+DTSTAMP:20230921T002059Z
 DTSTART:20231005T003000Z
 DTEND:20231005T010000Z
-SUMMARY:Springfield Lakes, Norfolk Street. Bush., Orienteering Queensland
+SUMMARY:Whites Hill, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18686
-GEO:-27.6820864853434;152.924201762413
+GEO:-27.5095539811082;153.092164287813
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18150@eventor.orienteering.asn.au
@@ -8124,10 +8124,10 @@ GEO:-27.404889;153.046019
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19510@eventor.orienteering.asn.au
-DTSTAMP:20230916T110207Z
+DTSTAMP:20230921T050632Z
 DTSTART:20231007T230000Z
 DTEND:20231008T000000Z
-SUMMARY:Bush orienteering at Helensvale Hill via Shepperton Road, Paradise Lost Orienteers
+SUMMARY:Bush orienteering at Helensvale Hill via Shepperton Road, Gold Coast, Paradise Lost Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19510
 END:VEVENT
 BEGIN:VEVENT
@@ -8211,15 +8211,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19155
 GEO:-34.9583230922315;117.364779461732
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18985@eventor.orienteering.asn.au
-DTSTAMP:20230421T013346Z
-DTSTART:20231014T130000Z
-DTEND:20231015T130000Z
-SUMMARY:Seven Mile Beach - Southern Local #12, Australopers
-URL:https://eventor.orienteering.asn.au/Events/Show/18985
-GEO:-42.8420599273743;147.540230623126
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19490@eventor.orienteering.asn.au
 DTSTAMP:20230909T043843Z
 DTSTART:20231014T140000Z
@@ -8245,6 +8236,15 @@ DTEND:20231015T000000Z
 SUMMARY:Woodend Victoria -  Learn to Orienteer, Week 1 and Registration, Central Highlands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19540
 GEO:-37.3540142186113;144.529105150292
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18985@eventor.orienteering.asn.au
+DTSTAMP:20230921T001138Z
+DTSTART:20231014T230000Z
+DTEND:20231015T020000Z
+SUMMARY:Seven Mile Beach - Southern Local #12, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/18985
+GEO:-42.8429758133248;147.534988461731
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18598@eventor.orienteering.asn.au
