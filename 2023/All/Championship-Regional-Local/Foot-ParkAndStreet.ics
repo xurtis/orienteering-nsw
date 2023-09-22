@@ -3393,19 +3393,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19523
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19196@eventor.orienteering.asn.au
-DTSTAMP:20230629T011640Z
+DTSTAMP:20230922T020240Z
 DTSTART:20231025T060000Z
 DTEND:20231025T080000Z
 SUMMARY:ACT Runners Shop Twilight Series #1: Oakey Hill, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19196
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19141@eventor.orienteering.asn.au
-DTSTAMP:20230911T191824Z
-DTSTART:20231029T050000Z
-DTEND:20231029T060000Z
-SUMMARY:River and Bay Orienteering Series #2, Illawarra Kareelah Orienteers / Uringa Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19141
+GEO:-35.33469684207;149.071321993226
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18550@eventor.orienteering.asn.au
@@ -3434,11 +3427,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19524
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19197@eventor.orienteering.asn.au
-DTSTAMP:20230629T011655Z
+DTSTAMP:20230922T020242Z
 DTSTART:20231101T060000Z
 DTEND:20231101T083000Z
 SUMMARY:ACT Runners Shop Twilight Series #2: Red Hill South, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19197
+GEO:-35.3264424196426;149.115424064177
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19453@eventor.orienteering.asn.au
@@ -3468,11 +3462,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19525
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19198@eventor.orienteering.asn.au
-DTSTAMP:20230915T005840Z
+DTSTAMP:20230922T020244Z
 DTSTART:20231108T060000Z
 DTEND:20231108T083000Z
 SUMMARY:ACT Runners Shop Twilight Series #3: O'Connor Ridge, Abominable O-Men
 URL:https://eventor.orienteering.asn.au/Events/Show/19198
+GEO:-35.2451629450037;149.117714996644
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19500@eventor.orienteering.asn.au
@@ -3482,14 +3477,6 @@ DTEND:20231111T220000Z
 SUMMARY:Central Coast Summer Series 2 - Davistown, Central Coast Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19500
 GEO:-33.4865405324307;151.358123245192
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19143@eventor.orienteering.asn.au
-DTSTAMP:20230831T205513Z
-DTSTART:20231112T050000Z
-DTEND:20231112T060000Z
-SUMMARY:River and Bay Orienteering Series #4, Illawarra Kareelah Orienteers / Uringa Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19143
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19344@eventor.orienteering.asn.au
@@ -3510,11 +3497,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19526
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19199@eventor.orienteering.asn.au
-DTSTAMP:20230629T011723Z
+DTSTAMP:20230922T020246Z
 DTSTART:20231115T060000Z
 DTEND:20231115T083000Z
 SUMMARY:ACT Runners Shop Twilight Series #4: Gossan Hill, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19199
+GEO:-35.2428632382684;149.084802013225
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19501@eventor.orienteering.asn.au
@@ -3552,11 +3540,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19527
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19200@eventor.orienteering.asn.au
-DTSTAMP:20230627T024627Z
+DTSTAMP:20230922T020248Z
 DTSTART:20231122T060000Z
 DTEND:20231122T083000Z
 SUMMARY:ACT Runners Shop Twilight Series #5: Yarramundi Reach, Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/19200
+GEO:-35.2920644935214;149.080860537369
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18697@eventor.orienteering.asn.au
@@ -3611,11 +3600,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19528
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19201@eventor.orienteering.asn.au
-DTSTAMP:20230629T011737Z
+DTSTAMP:20230922T020250Z
 DTSTART:20231129T060000Z
 DTEND:20231129T083000Z
 SUMMARY:ACT Runners Shop Twilight Series #6: Bruce Ridge, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19201
+GEO:-35.2508664893582;149.106235645722
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19361@eventor.orienteering.asn.au
@@ -3636,15 +3626,16 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19529
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19202@eventor.orienteering.asn.au
-DTSTAMP:20230629T011751Z
+DTSTAMP:20230922T020252Z
 DTSTART:20231206T060000Z
 DTEND:20231206T083000Z
 SUMMARY:ACT Runners Shop Twilight Series #7: Mt Jerrabomberra, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19202
+GEO:-35.3666907625457;149.217514912641
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19195@eventor.orienteering.asn.au
-DTSTAMP:20230627T023110Z
+DTSTAMP:20230922T010012Z
 DTSTART:20231206T060100Z
 DTEND:20231206T060200Z
 SUMMARY:ACT Runners Shop Twilight Series Season Pass, Orienteering ACT
