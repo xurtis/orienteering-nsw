@@ -8925,7 +8925,7 @@ GEO:-33.763247739031;151.006557692933
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18401@eventor.orienteering.asn.au
-DTSTAMP:20230916T060126Z
+DTSTAMP:20230923T075405Z
 DTSTART:20230916T023000Z
 DTEND:20230916T033000Z
 SUMMARY:Bendigo Bush 15 - Mount Kooyoora, Bendigo Orienteers
@@ -9094,7 +9094,7 @@ GEO:-32.2646075058952;116.773901994137
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19371@eventor.orienteering.asn.au
-DTSTAMP:20230911T042214Z
+DTSTAMP:20230923T023357Z
 DTSTART:20230922T233000Z
 DTEND:20230923T020000Z
 SUMMARY:SOS - Willoughby, Bold Horizons Event Organiser
@@ -9103,7 +9103,7 @@ GEO:-33.811931933432;151.203358033062
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18402@eventor.orienteering.asn.au
-DTSTAMP:20230920T110032Z
+DTSTAMP:20230923T053709Z
 DTSTART:20230923T023000Z
 DTEND:20230923T040000Z
 SUMMARY:Bendigo Bush 16 - Korong Spur, Bendigo Orienteers
@@ -9581,6 +9581,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19314
 GEO:-37.348797100058;144.134164189441
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19584@eventor.orienteering.asn.au
+DTSTAMP:20230923T035243Z
+DTSTART:20231014T230000Z
+DTEND:20231015T030000Z
+SUMMARY:Kooringle, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19584
+GEO:-30.4773659950285;151.422734911061
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19156@eventor.orienteering.asn.au
 DTSTAMP:20230905T131341Z
 DTSTART:20231015T020000Z
@@ -9660,7 +9669,7 @@ GEO:-33.7724357308484;151.216253416423
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19521@eventor.orienteering.asn.au
-DTSTAMP:20230920T025628Z
+DTSTAMP:20230922T230510Z
 DTSTART:20231018T060000Z
 DTEND:20231018T060000Z
 SUMMARY:Newcastle 2023-24 Summer Street Series #1, Newcastle Orienteering Club
@@ -10137,10 +10146,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19251
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17609@eventor.orienteering.asn.au
-DTSTAMP:20220615T003316Z
+DTSTAMP:20230923T112305Z
 DTSTART:20231107T073000Z
 DTEND:20231107T073000Z
-SUMMARY:Night Nav - EN TBC, Enoggeroos
+SUMMARY:Night Nav - Ferny Hills, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/17609
 END:VEVENT
 BEGIN:VEVENT
@@ -10347,10 +10356,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19252
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17610@eventor.orienteering.asn.au
-DTSTAMP:20220615T003353Z
+DTSTAMP:20230923T112645Z
 DTSTART:20231114T073000Z
 DTEND:20231114T073000Z
-SUMMARY:Night Nav - EN TBC, Enoggeroos
+SUMMARY:Night Nav - Arana Hills, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/17610
 END:VEVENT
 BEGIN:VEVENT
@@ -10559,10 +10568,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19253
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17611@eventor.orienteering.asn.au
-DTSTAMP:20220615T003434Z
+DTSTAMP:20230923T112855Z
 DTSTART:20231121T073000Z
 DTEND:20231121T073000Z
-SUMMARY:Night Nav - EN TBC, Enoggeroos
+SUMMARY:Night Nav - Everton Hills, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/17611
 END:VEVENT
 BEGIN:VEVENT
@@ -10734,21 +10743,21 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19392
 GEO:-33.8459900159258;151.074532411409
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_17612@eventor.orienteering.asn.au
-DTSTAMP:20230226T225740Z
-DTSTART:20231128T073000Z
-DTEND:20231128T073000Z
-SUMMARY:Night Nav - Upper Kedron - BCC, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/17612
-GEO:-27.4100476705996;152.923478931987
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19427@eventor.orienteering.asn.au
 DTSTAMP:20230823T045522Z
 DTSTART:20231128T073000Z
 DTEND:20231128T091500Z
 SUMMARY:Melbourne Park Street Tuesday Summer Series - Jack's Magazine, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19427
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17612@eventor.orienteering.asn.au
+DTSTAMP:20230923T113153Z
+DTSTART:20231128T073000Z
+DTEND:20231128T093000Z
+SUMMARY:Night Nav - Upper Kedron - BCC, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/17612
+GEO:-27.4100476705996;152.923478931987
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19514@eventor.orienteering.asn.au
@@ -10878,21 +10887,21 @@ SUMMARY:Melbourne Park Street Monday Night Series - Coomoora, Dandenong Ranges O
 URL:https://eventor.orienteering.asn.au/Events/Show/19456
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_17613@eventor.orienteering.asn.au
-DTSTAMP:20230110T231515Z
-DTSTART:20231205T073000Z
-DTEND:20231205T073000Z
-SUMMARY:Night Nav - Stafford Heights, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/17613
-GEO:-27.3940643926795;153.006218385662
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19460@eventor.orienteering.asn.au
 DTSTAMP:20230901T053032Z
 DTSTART:20231205T073000Z
 DTEND:20231205T091500Z
 SUMMARY:Melbourne Park Street Tuesday Summer Series - Williamstown Beach, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19460
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17613@eventor.orienteering.asn.au
+DTSTAMP:20230923T114102Z
+DTSTART:20231205T073000Z
+DTEND:20231205T093000Z
+SUMMARY:Night Nav - Stafford Heights, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/17613
+GEO:-27.3958768795048;153.001668274955
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19515@eventor.orienteering.asn.au
@@ -11020,21 +11029,21 @@ SUMMARY:Melbourne Park Street Monday Summer Series - Jells Park, Bayside Kangaro
 URL:https://eventor.orienteering.asn.au/Events/Show/19458
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_17614@eventor.orienteering.asn.au
-DTSTAMP:20230226T225709Z
-DTSTART:20231212T073000Z
-DTEND:20231212T073000Z
-SUMMARY:Night Nav - Clayfied - BCC, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/17614
-GEO:-27.4290877212154;153.057710928518
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19461@eventor.orienteering.asn.au
 DTSTAMP:20230901T053201Z
 DTSTART:20231212T073000Z
 DTEND:20231212T091500Z
 SUMMARY:Melbourne Park Street Tuesday Summer Series - Kingsville, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19461
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17614@eventor.orienteering.asn.au
+DTSTAMP:20230923T114225Z
+DTSTART:20231212T073000Z
+DTEND:20231212T093000Z
+SUMMARY:Night Nav - Clayfied - BCC, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/17614
+GEO:-27.4290877212154;153.057710928518
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18466@eventor.orienteering.asn.au
@@ -11114,21 +11123,21 @@ SUMMARY:Melbourne Park Street Monday Summer Series - Dandenong Creek, Nillumbik 
 URL:https://eventor.orienteering.asn.au/Events/Show/19459
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_17615@eventor.orienteering.asn.au
-DTSTAMP:20230226T225806Z
-DTSTART:20231219T073000Z
-DTEND:20231219T073000Z
-SUMMARY:Night Nav - Keperra  TBC, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/17615
-GEO:-27.4165074662438;152.942864282274
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19462@eventor.orienteering.asn.au
 DTSTAMP:20230901T053413Z
 DTSTART:20231219T073000Z
 DTEND:20231219T091500Z
 SUMMARY:Melbourne Park Street Tuesday Summer Series - Gowanbrae, Tuckonie Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19462
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17615@eventor.orienteering.asn.au
+DTSTAMP:20230923T114718Z
+DTSTART:20231219T073000Z
+DTEND:20231219T093000Z
+SUMMARY:Night Nav - Ferny Grove, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/17615
+GEO:-27.4031185307102;152.934752829146
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19363@eventor.orienteering.asn.au

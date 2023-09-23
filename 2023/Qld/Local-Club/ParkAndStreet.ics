@@ -1021,6 +1021,22 @@ SUMMARY:Park-O #1, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18469
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_17609@eventor.orienteering.asn.au
+DTSTAMP:20230923T112305Z
+DTSTART:20231107T073000Z
+DTEND:20231107T073000Z
+SUMMARY:Night Nav - Ferny Hills, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/17609
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17610@eventor.orienteering.asn.au
+DTSTAMP:20230923T112645Z
+DTSTART:20231114T073000Z
+DTEND:20231114T073000Z
+SUMMARY:Night Nav - Arana Hills, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/17610
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18574@eventor.orienteering.asn.au
 DTSTAMP:20230126T021304Z
 DTSTART:20231115T073000Z
@@ -1036,6 +1052,23 @@ DTSTART:20231118T053000Z
 DTEND:20231118T053000Z
 SUMMARY:Park-O #2 - Spring Mountain Reserve, Greenbank - LCC, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18470
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17611@eventor.orienteering.asn.au
+DTSTAMP:20230923T112855Z
+DTSTART:20231121T073000Z
+DTEND:20231121T073000Z
+SUMMARY:Night Nav - Everton Hills, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/17611
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17612@eventor.orienteering.asn.au
+DTSTAMP:20230923T113153Z
+DTSTART:20231128T073000Z
+DTEND:20231128T093000Z
+SUMMARY:Night Nav - Upper Kedron - BCC, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/17612
+GEO:-27.4100476705996;152.923478931987
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18691@eventor.orienteering.asn.au
@@ -1055,6 +1088,15 @@ SUMMARY:Park-O #3, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18471
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_17613@eventor.orienteering.asn.au
+DTSTAMP:20230923T114102Z
+DTSTART:20231205T073000Z
+DTEND:20231205T093000Z
+SUMMARY:Night Nav - Stafford Heights, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/17613
+GEO:-27.3958768795048;153.001668274955
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18575@eventor.orienteering.asn.au
 DTSTAMP:20230126T021810Z
 DTSTART:20231206T073000Z
@@ -1062,5 +1104,23 @@ DTEND:20231206T091500Z
 SUMMARY:MapRun Night Nav Christmas Lights in the City, 21Degrees South Multisport Assoc.
 URL:https://eventor.orienteering.asn.au/Events/Show/18575
 GEO:-21.139517887245;149.187930858556
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17614@eventor.orienteering.asn.au
+DTSTAMP:20230923T114225Z
+DTSTART:20231212T073000Z
+DTEND:20231212T093000Z
+SUMMARY:Night Nav - Clayfied - BCC, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/17614
+GEO:-27.4290877212154;153.057710928518
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17615@eventor.orienteering.asn.au
+DTSTAMP:20230923T114718Z
+DTSTART:20231219T073000Z
+DTEND:20231219T093000Z
+SUMMARY:Night Nav - Ferny Grove, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/17615
+GEO:-27.4031185307102;152.934752829146
 END:VEVENT
 END:VCALENDAR
