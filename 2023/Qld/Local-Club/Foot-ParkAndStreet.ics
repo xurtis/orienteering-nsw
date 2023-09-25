@@ -1861,7 +1861,7 @@ GEO:-21.1634159859388;149.197309395902
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19395@eventor.orienteering.asn.au
-DTSTAMP:20230903T064526Z
+DTSTAMP:20230925T005419Z
 DTSTART:20230923T220000Z
 DTEND:20230923T220000Z
 SUMMARY:Park-O at Caloundra West, Sunshine Orienteers Club
@@ -1887,10 +1887,10 @@ GEO:-27.6933619085246;153.027446824627
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18753@eventor.orienteering.asn.au
-DTSTAMP:20230715T010526Z
+DTSTAMP:20230925T012526Z
 DTSTART:20230928T003000Z
 DTEND:20230928T010000Z
-SUMMARY:Minnippi Parklands, Tingalpa. Park. (BCC Sponsored) (MAPRUN EVENT), Orienteering Queensland
+SUMMARY:Minnippi Parklands, Tingalpa. (BCC Sponsored) (MAPRUN EVENT), Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18753
 GEO:-27.4827439415576;153.114922415097
 END:VEVENT
@@ -1945,6 +1945,7 @@ DTSTART:20231007T230000Z
 DTEND:20231008T000000Z
 SUMMARY:Bush orienteering at Helensvale Hill via Shepperton Road, Gold Coast, Paradise Lost Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19510
+GEO:-27.9090443535807;153.319306466813
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19385@eventor.orienteering.asn.au
@@ -1962,6 +1963,15 @@ DTSTART:20231010T230000Z
 DTEND:20231011T000000Z
 SUMMARY:Closed School Event, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19522
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19589@eventor.orienteering.asn.au
+DTSTAMP:20230925T074923Z
+DTSTART:20231012T003000Z
+DTEND:20231012T010000Z
+SUMMARY:Anzac Park. Using control flags., Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19589
+GEO:-27.4843640778122;152.975546770625
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19490@eventor.orienteering.asn.au
@@ -1988,15 +1998,6 @@ DTSTART:20231017T230000Z
 DTEND:20231018T050000Z
 SUMMARY:Closed School Event, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18549
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18573@eventor.orienteering.asn.au
-DTSTAMP:20230126T020912Z
-DTSTART:20231018T073000Z
-DTEND:20231018T091500Z
-SUMMARY:MapRun Night Nav Lamberts Beach, 21Degrees South Multisport Assoc.
-URL:https://eventor.orienteering.asn.au/Events/Show/18573
-GEO:-21.0745298092222;149.227795539657
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18757@eventor.orienteering.asn.au
@@ -2119,15 +2120,6 @@ SUMMARY:Night Nav - Arana Hills, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/17610
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18574@eventor.orienteering.asn.au
-DTSTAMP:20230126T021304Z
-DTSTART:20231115T073000Z
-DTEND:20231115T091500Z
-SUMMARY:MapRun Night Nav Glenella, 21Degrees South Multisport Assoc.
-URL:https://eventor.orienteering.asn.au/Events/Show/18574
-GEO:-21.1123156478759;149.145682419019
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18470@eventor.orienteering.asn.au
 DTSTAMP:20230413T031622Z
 DTSTART:20231118T053000Z
@@ -2220,15 +2212,6 @@ DTEND:20231205T093000Z
 SUMMARY:Night Nav - Stafford Heights, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/17613
 GEO:-27.3958768795048;153.001668274955
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18575@eventor.orienteering.asn.au
-DTSTAMP:20230126T021810Z
-DTSTART:20231206T073000Z
-DTEND:20231206T091500Z
-SUMMARY:MapRun Night Nav Christmas Lights in the City, 21Degrees South Multisport Assoc.
-URL:https://eventor.orienteering.asn.au/Events/Show/18575
-GEO:-21.139517887245;149.187930858556
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18474@eventor.orienteering.asn.au
