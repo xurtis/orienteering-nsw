@@ -7937,7 +7937,7 @@ GEO:-34.7702037621397;135.938058866535
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19041@eventor.orienteering.asn.au
-DTSTAMP:20230814T003643Z
+DTSTAMP:20230927T061044Z
 DTSTART:20230813T010000Z
 DTEND:20230813T040000Z
 SUMMARY:North West Region - NW Local - Tiagarra, Pathfinders
@@ -9359,11 +9359,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17939
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18411@eventor.orienteering.asn.au
-DTSTAMP:20230925T045145Z
+DTSTAMP:20230927T060831Z
 DTSTART:20231007T210000Z
 DTEND:20231008T000000Z
-SUMMARY:BOSS 1 Newcastle MTBO, Newcastle Orienteering Club
+SUMMARY:BOSS1 Newcastle MTBO - Glenrock, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18411
+GEO:-32.951588927543;151.722366615881
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19510@eventor.orienteering.asn.au
@@ -9703,14 +9704,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18405
 GEO:-36.7660920373007;144.258745868046
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19249@eventor.orienteering.asn.au
-DTSTAMP:20230629T015632Z
-DTSTART:20231021T130000Z
-DTEND:20231022T130000Z
-SUMMARY:North West Region - NW Local, Pathfinders
-URL:https://eventor.orienteering.asn.au/Events/Show/19249
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19491@eventor.orienteering.asn.au
 DTSTAMP:20230909T045458Z
 DTSTART:20231021T140000Z
@@ -9736,6 +9729,15 @@ DTEND:20231022T020000Z
 SUMMARY:Bago Orienteering, Hastings Orienteering Group
 URL:https://eventor.orienteering.asn.au/Events/Show/18919
 GEO:-31.4687320333966;152.723534247102
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19249@eventor.orienteering.asn.au
+DTSTAMP:20230927T063328Z
+DTSTART:20231022T000000Z
+DTEND:20231022T030000Z
+SUMMARY:North West Region - NW Local - Buttons Beach, Pathfinders
+URL:https://eventor.orienteering.asn.au/Events/Show/19249
+GEO:-41.1519099881729;146.175322898628
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18432@eventor.orienteering.asn.au
