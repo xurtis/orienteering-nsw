@@ -10315,7 +10315,7 @@ GEO:-32.0662680382735;115.6921918625
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18140@eventor.orienteering.asn.au
-DTSTAMP:20230926T074112Z
+DTSTAMP:20230930T054452Z
 DTSTART:20230930T000000Z
 DTEND:20230930T000000Z
 SUMMARY:Australian Championships Middle Distance, Orienteering WA
@@ -10332,15 +10332,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18597
 GEO:-35.1718357004531;147.387377313218
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18142@eventor.orienteering.asn.au
-DTSTAMP:20230924T063433Z
-DTSTART:20231001T010000Z
-DTEND:20231001T060000Z
-SUMMARY:Australian Championships Relays - Teams, Results, Orienteering Australia / Orienteering WA
-URL:https://eventor.orienteering.asn.au/Events/Show/18142
-GEO:-31.7372922260856;116.601210212954
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18141@eventor.orienteering.asn.au
 DTSTAMP:20230920T082100Z
 DTSTART:20231001T020000Z
@@ -10348,6 +10339,15 @@ DTEND:20231001T060000Z
 SUMMARY:Australian Championships Relays - Entries, Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/18141
 GEO:-31.7383295356906;116.603168248993
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18142@eventor.orienteering.asn.au
+DTSTAMP:20230930T073551Z
+DTSTART:20231001T020000Z
+DTEND:20231001T060000Z
+SUMMARY:Australian Championships Relays - Teams, Results, Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/18142
+GEO:-31.7372922260856;116.601210212954
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19488@eventor.orienteering.asn.au
@@ -10548,10 +10548,10 @@ GEO:-32.951588927543;151.722366615881
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19510@eventor.orienteering.asn.au
-DTSTAMP:20230921T050632Z
+DTSTAMP:20230930T024823Z
 DTSTART:20231007T230000Z
 DTEND:20231008T000000Z
-SUMMARY:Bush orienteering at Helensvale Hill via Shepperton Road, Gold Coast, Paradise Lost Orienteers
+SUMMARY:Bush orienteering at Highvale Hill, Helensvale via Shepperton Road, northern Gold Coast, Paradise Lost Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19510
 GEO:-27.9090443535807;153.319306466813
 END:VEVENT
