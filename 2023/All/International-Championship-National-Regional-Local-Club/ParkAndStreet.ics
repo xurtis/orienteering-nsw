@@ -3977,6 +3977,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19223
 GEO:-37.7882787988324;145.160062700404
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18572@eventor.orienteering.asn.au
+DTSTAMP:20231002T013302Z
+DTSTART:20230922T140000Z
+DTEND:20230923T140000Z
+SUMMARY:MapRun East Mackay, 21Degrees South Multisport Assoc.
+URL:https://eventor.orienteering.asn.au/Events/Show/18572
+GEO:-21.1634159859388;149.197309395902
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19371@eventor.orienteering.asn.au
 DTSTAMP:20230923T023357Z
 DTSTART:20230922T233000Z
@@ -3995,13 +4004,13 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19231
 GEO:-37.7852101696189;145.176663029804
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18572@eventor.orienteering.asn.au
-DTSTAMP:20230903T032849Z
-DTSTART:20230923T050000Z
-DTEND:20230923T060000Z
-SUMMARY:MapRun East Mackay, 21Degrees South Multisport Assoc.
-URL:https://eventor.orienteering.asn.au/Events/Show/18572
-GEO:-21.1634159859388;149.197309395902
+UID:Event_18668@eventor.orienteering.asn.au
+DTSTAMP:20231002T013640Z
+DTSTART:20230923T140000Z
+DTEND:20230924T140000Z
+SUMMARY:Maprun Parks 2023 - Boronia Bushland Reserve, Boronia - LCC Active and Healthy Event, Toohey Forest Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18668
+GEO:-27.6933619085246;153.027446824627
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19233@eventor.orienteering.asn.au
@@ -4019,15 +4028,6 @@ DTSTART:20230924T060000Z
 DTEND:20230924T060000Z
 SUMMARY:Toowoomba City Training, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19353
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18668@eventor.orienteering.asn.au
-DTSTAMP:20230918T000331Z
-DTSTART:20230924T060000Z
-DTEND:20230924T063000Z
-SUMMARY:Maprun Parks 2023 - Boronia Bushland Reserve, Boronia - LCC Active and Healthy Event, Toohey Forest Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18668
-GEO:-27.6933619085246;153.027446824627
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18877@eventor.orienteering.asn.au
@@ -4413,11 +4413,12 @@ GEO:-34.9476387580886;117.970740575281
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19141@eventor.orienteering.asn.au
-DTSTAMP:20230922T054734Z
+DTSTAMP:20231002T055718Z
 DTSTART:20231029T050000Z
 DTEND:20231029T060000Z
 SUMMARY:River and Bay Orienteering Series #2, Illawarra Kareelah Orienteers / Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19141
+GEO:-33.9787770842972;151.230801684737
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18733@eventor.orienteering.asn.au
@@ -4706,6 +4707,14 @@ SUMMARY:Melbourne Park Street Thursday Summer Series - Bundoora Parklands, Nillu
 URL:https://eventor.orienteering.asn.au/Events/Show/19435
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19593@eventor.orienteering.asn.au
+DTSTAMP:20231002T050348Z
+DTSTART:20231117T090900Z
+DTEND:20231117T090900Z
+SUMMARY:Twilight Series Event #1 - Loc. TBC, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/19593
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18470@eventor.orienteering.asn.au
 DTSTAMP:20230413T031622Z
 DTSTART:20231118T053000Z
@@ -4803,6 +4812,14 @@ DTSTART:20231123T073000Z
 DTEND:20231123T091500Z
 SUMMARY:Melbourne Park Street Thursday Summer Series - Janefield, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19436
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19594@eventor.orienteering.asn.au
+DTSTAMP:20231002T052533Z
+DTSTART:20231124T073000Z
+DTEND:20231124T073000Z
+SUMMARY:Twilight Series Event #2 - Loc. TBC, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/19594
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18697@eventor.orienteering.asn.au
@@ -4997,6 +5014,14 @@ SUMMARY:Melbourne Park Street Thursday Summer Series - Mill Maze South, Yarra Va
 URL:https://eventor.orienteering.asn.au/Events/Show/19467
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19596@eventor.orienteering.asn.au
+DTSTAMP:20231002T052935Z
+DTSTART:20231208T073000Z
+DTEND:20231208T073000Z
+SUMMARY:Twilight Series Event #4 - Loc. TBC, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/19596
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19471@eventor.orienteering.asn.au
 DTSTAMP:20230901T061219Z
 DTSTART:20231209T230000Z
@@ -5061,6 +5086,14 @@ DTSTART:20231214T073000Z
 DTEND:20231214T091500Z
 SUMMARY:Melbourne Park Street Thursday Summer Series - Gaffney Hill, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19468
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19597@eventor.orienteering.asn.au
+DTSTAMP:20231002T053119Z
+DTSTART:20231215T073000Z
+DTEND:20231215T073000Z
+SUMMARY:Twilight Series Event #5 - Loc. TBC, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/19597
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19459@eventor.orienteering.asn.au

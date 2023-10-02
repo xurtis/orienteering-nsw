@@ -909,12 +909,21 @@ GEO:-27.4669901494569;152.983161587259
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18572@eventor.orienteering.asn.au
-DTSTAMP:20230903T032849Z
-DTSTART:20230923T050000Z
-DTEND:20230923T060000Z
+DTSTAMP:20231002T013302Z
+DTSTART:20230922T140000Z
+DTEND:20230923T140000Z
 SUMMARY:MapRun East Mackay, 21Degrees South Multisport Assoc.
 URL:https://eventor.orienteering.asn.au/Events/Show/18572
 GEO:-21.1634159859388;149.197309395902
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18668@eventor.orienteering.asn.au
+DTSTAMP:20231002T013640Z
+DTSTART:20230923T140000Z
+DTEND:20230924T140000Z
+SUMMARY:Maprun Parks 2023 - Boronia Bushland Reserve, Boronia - LCC Active and Healthy Event, Toohey Forest Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18668
+GEO:-27.6933619085246;153.027446824627
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19353@eventor.orienteering.asn.au
@@ -923,15 +932,6 @@ DTSTART:20230924T060000Z
 DTEND:20230924T060000Z
 SUMMARY:Toowoomba City Training, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19353
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18668@eventor.orienteering.asn.au
-DTSTAMP:20230918T000331Z
-DTSTART:20230924T060000Z
-DTEND:20230924T063000Z
-SUMMARY:Maprun Parks 2023 - Boronia Bushland Reserve, Boronia - LCC Active and Healthy Event, Toohey Forest Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18668
-GEO:-27.6933619085246;153.027446824627
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19479@eventor.orienteering.asn.au
