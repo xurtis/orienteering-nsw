@@ -149,6 +149,13 @@ class Classification(Enum):
             Classification.NATIONAL,
             Classification.REGIONAL,
         ]
+        
+        yield [
+            Classification.CHAMPIONSHIP,
+            Classification.REGIONAL,
+            Classification.LOCAL,
+            Classification.CLUB,
+        ] 
 
         yield [
             Classification.CHAMPIONSHIP,
