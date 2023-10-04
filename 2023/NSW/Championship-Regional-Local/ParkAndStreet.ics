@@ -733,7 +733,7 @@ GEO:-33.811931933432;151.203358033062
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19338@eventor.orienteering.asn.au
-DTSTAMP:20231003T065428Z
+DTSTAMP:20231004T084735Z
 DTSTART:20231004T053000Z
 DTEND:20231004T083000Z
 SUMMARY:2023/24 Sydney Summer Series #1 - Rydalmere, Western and Hills Orienteers
@@ -837,6 +837,14 @@ SUMMARY:Newcastle 2023-24 Summer Street Series #4, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19525
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19609@eventor.orienteering.asn.au
+DTSTAMP:20231004T042055Z
+DTSTART:20231109T130000Z
+DTEND:20231110T130000Z
+SUMMARY:Goldseekers Summer Park #1 - Elephant Park, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19609
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19500@eventor.orienteering.asn.au
 DTSTAMP:20230911T054752Z
 DTSTART:20231111T220000Z
@@ -863,6 +871,14 @@ SUMMARY:Newcastle 2023-24 Summer Street Series #5, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19526
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19610@eventor.orienteering.asn.au
+DTSTAMP:20231004T042228Z
+DTSTART:20231116T130000Z
+DTEND:20231117T130000Z
+SUMMARY:Goldseekers Summer Park #2 - Gosling Creek, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19610
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19501@eventor.orienteering.asn.au
 DTSTAMP:20230911T060841Z
 DTSTART:20231118T220000Z
@@ -887,6 +903,14 @@ DTSTART:20231122T060000Z
 DTEND:20231122T060000Z
 SUMMARY:Newcastle 2023-24 Summer Street Series #6, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19527
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19611@eventor.orienteering.asn.au
+DTSTAMP:20231004T042412Z
+DTSTART:20231123T130000Z
+DTEND:20231124T130000Z
+SUMMARY:Goldseekers Summer Park #3 - Botanic Gardens, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19611
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18697@eventor.orienteering.asn.au
@@ -923,6 +947,14 @@ SUMMARY:Newcastle 2023-24 Summer Street Series #7, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19528
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19612@eventor.orienteering.asn.au
+DTSTAMP:20231004T042540Z
+DTSTART:20231130T130000Z
+DTEND:20231201T130000Z
+SUMMARY:Goldseekers Summer Park #4 - CSU Orange, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19612
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19361@eventor.orienteering.asn.au
 DTSTAMP:20230822T020419Z
 DTSTART:20231206T053000Z
@@ -938,6 +970,14 @@ DTSTART:20231206T060000Z
 DTEND:20231206T060000Z
 SUMMARY:Newcastle 2023-24 Summer Street Series #8, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19529
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19613@eventor.orienteering.asn.au
+DTSTAMP:20231004T042653Z
+DTSTART:20231207T130000Z
+DTEND:20231208T130000Z
+SUMMARY:Goldseekers Summer Park #4 - CSU Orange, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19613
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19362@eventor.orienteering.asn.au
