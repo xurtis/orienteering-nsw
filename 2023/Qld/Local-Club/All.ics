@@ -2127,21 +2127,12 @@ GEO:-27.489090258577;153.01285914223
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19492@eventor.orienteering.asn.au
-DTSTAMP:20230909T051331Z
+DTSTAMP:20231006T035037Z
 DTSTART:20231028T140000Z
 DTEND:20231029T140000Z
 SUMMARY:MapRun Parks 2023 - Moore Park Indooroopilly BCC Event, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19492
 GEO:-27.47499664;152.963884
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18733@eventor.orienteering.asn.au
-DTSTAMP:20230909T051950Z
-DTSTART:20231029T060000Z
-DTEND:20231029T060000Z
-SUMMARY:MapRun Parks 2023 - Moore Park - BCC, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18733
-GEO:-27.4997779891425;152.963991915636
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18550@eventor.orienteering.asn.au
@@ -2153,11 +2144,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18550
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18469@eventor.orienteering.asn.au
-DTSTAMP:20230118T114556Z
+DTSTAMP:20231006T032023Z
 DTSTART:20231104T053000Z
 DTEND:20231104T053000Z
-SUMMARY:Park-O #1, Ugly Gully Orienteers
+SUMMARY:Creekside Park  Kenmore Hills, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18469
+GEO:-27.5038110425654;152.918541248654
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19493@eventor.orienteering.asn.au
@@ -2220,11 +2212,12 @@ GEO:-27.3825610879633;153.078003471648
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18470@eventor.orienteering.asn.au
-DTSTAMP:20230413T031622Z
+DTSTAMP:20231006T011049Z
 DTSTART:20231118T053000Z
 DTEND:20231118T053000Z
 SUMMARY:Park-O #2 - Spring Mountain Reserve, Greenbank - LCC, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18470
+GEO:-27.7391926199221;152.92262347445
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19495@eventor.orienteering.asn.au
@@ -2280,11 +2273,12 @@ GEO:-27.590639194972;153.133406882762
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18471@eventor.orienteering.asn.au
-DTSTAMP:20230118T114844Z
+DTSTAMP:20231006T010103Z
 DTSTART:20231202T053000Z
 DTEND:20231202T053000Z
-SUMMARY:Park-O #3, Ugly Gully Orienteers
+SUMMARY:Park-O #3 - City Botanical Garden, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18471
+GEO:-27.4736278723781;153.029330193927
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19487@eventor.orienteering.asn.au
@@ -2294,14 +2288,6 @@ DTEND:20231203T060000Z
 SUMMARY:MapRun Parks 2023 - City Botanic Gardens , Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19487
 GEO:-27.474329;153.029796
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19497@eventor.orienteering.asn.au
-DTSTAMP:20230909T054354Z
-DTSTART:20231203T060000Z
-DTEND:20231203T060000Z
-SUMMARY:MapRun Parks 2023 - TBC, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19497
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17613@eventor.orienteering.asn.au
