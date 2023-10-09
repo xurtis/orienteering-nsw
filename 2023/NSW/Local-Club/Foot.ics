@@ -30,7 +30,7 @@ GEO:-33.8074098930278;151.288106729997
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17847@eventor.orienteering.asn.au
-DTSTAMP:20230106T015717Z
+DTSTAMP:20231008T224614Z
 DTSTART:20230104T060000Z
 DTEND:20230104T083000Z
 SUMMARY:Newcastle Summer Street Series - #11 Cooks Hill, Newcastle Orienteering Club
@@ -2006,7 +2006,7 @@ GEO:-33.8211905497983;151.050565045824
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19339@eventor.orienteering.asn.au
-DTSTAMP:20231008T103156Z
+DTSTAMP:20231009T050002Z
 DTSTART:20231011T053000Z
 DTEND:20231011T083000Z
 SUMMARY:2023/24 Sydney Summer Series #2 - Hunters Hill, Garingal Orienteers
@@ -2240,14 +2240,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19500
 GEO:-33.4865405324307;151.358123245192
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18599@eventor.orienteering.asn.au
-DTSTAMP:20230129T024459Z
-DTSTART:20231111T220000Z
-DTEND:20231111T220000Z
-SUMMARY:Waggaroos 2023-24 MapRun Series #1, TBC, Wagga and Riverina Occasional Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18599
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19143@eventor.orienteering.asn.au
 DTSTAMP:20230922T054818Z
 DTSTART:20231112T050000Z
@@ -2290,6 +2282,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19501
 GEO:-33.4283596261515;151.295750197811
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18599@eventor.orienteering.asn.au
+DTSTAMP:20231009T075837Z
+DTSTART:20231118T220000Z
+DTEND:20231119T000000Z
+SUMMARY:Waggaroos 2023-24 Summer Series #1, Rawling's Park, Lake Albert, Wagga and Riverina Occasional Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18599
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19144@eventor.orienteering.asn.au
 DTSTAMP:20230605T064605Z
 DTSTART:20231119T050000Z
@@ -2321,14 +2321,6 @@ DTSTART:20231125T040000Z
 DTEND:20231125T060000Z
 SUMMARY:Berry, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18697
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18600@eventor.orienteering.asn.au
-DTSTAMP:20230129T024440Z
-DTSTART:20231125T220000Z
-DTEND:20231125T220000Z
-SUMMARY:Waggaroos 2023-24 MapRun Series #2, TBC, Wagga and Riverina Occasional Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18600
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19145@eventor.orienteering.asn.au
@@ -2365,6 +2357,14 @@ SUMMARY:Goldseekers Summer Park #4 - CSU Orange, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19612
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18600@eventor.orienteering.asn.au
+DTSTAMP:20231009T075457Z
+DTSTART:20231202T220000Z
+DTEND:20231203T000000Z
+SUMMARY:Waggaroos 2023-24 Summer Series #2, Estella, Wagga and Riverina Occasional Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18600
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19146@eventor.orienteering.asn.au
 DTSTAMP:20230605T065018Z
 DTSTART:20231203T050000Z
@@ -2390,14 +2390,6 @@ SUMMARY:Goldseekers Summer Park #4 - CSU Orange, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19613
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18601@eventor.orienteering.asn.au
-DTSTAMP:20230129T024547Z
-DTSTART:20231209T130000Z
-DTEND:20231210T130000Z
-SUMMARY:Waggaroos 2023-24 MapRun Series #3, TBC, Wagga and Riverina Occasional Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18601
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19502@eventor.orienteering.asn.au
 DTSTAMP:20230912T054415Z
 DTSTART:20231209T223000Z
@@ -2413,6 +2405,14 @@ DTEND:20231213T083000Z
 SUMMARY:2023/24 Sydney Summer Series #11 - Willoughby, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19362
 GEO:-33.8115598307651;151.203530195184
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18601@eventor.orienteering.asn.au
+DTSTAMP:20231009T075801Z
+DTSTART:20231216T220000Z
+DTEND:20231217T000000Z
+SUMMARY:Waggaroos 2023-24 Summer Series #3, Hilltop/Bourkelands, Wagga and Riverina Occasional Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18601
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19363@eventor.orienteering.asn.au

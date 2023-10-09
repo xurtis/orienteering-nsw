@@ -64,7 +64,7 @@ GEO:-33.8074098930278;151.288106729997
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17847@eventor.orienteering.asn.au
-DTSTAMP:20230106T015717Z
+DTSTAMP:20231008T224614Z
 DTSTART:20230104T060000Z
 DTEND:20230104T083000Z
 SUMMARY:Newcastle Summer Street Series - #11 Cooks Hill, Newcastle Orienteering Club
@@ -1405,7 +1405,7 @@ GEO:-37.253281825803;144.450063939598
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18663@eventor.orienteering.asn.au
-DTSTAMP:20230206T233143Z
+DTSTAMP:20231009T060250Z
 DTSTART:20230215T071500Z
 DTEND:20230215T091500Z
 SUMMARY:TTOC Urban Adventure 2023 - Round 2 (Townsville), Totally Tropical Orienteering Club
@@ -2039,7 +2039,7 @@ GEO:-36.1360440741107;146.876336133135
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18665@eventor.orienteering.asn.au
-DTSTAMP:20230206T233958Z
+DTSTAMP:20231009T055940Z
 DTSTART:20230301T071500Z
 DTEND:20230302T091500Z
 SUMMARY:TTOC Urban Adventure 2023 - Round 4 (Townsville), Totally Tropical Orienteering Club
@@ -3717,7 +3717,7 @@ GEO:-27.4749017009084;153.08864520161
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18988@eventor.orienteering.asn.au
-DTSTAMP:20230417T224707Z
+DTSTAMP:20231009T054827Z
 DTSTART:20230422T213000Z
 DTEND:20230422T233000Z
 SUMMARY:TTOC - World Book Day Scatter-O, Totally Tropical Orienteering Club
@@ -4737,7 +4737,7 @@ GEO:-38.0149476471833;145.336334411558
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19059@eventor.orienteering.asn.au
-DTSTAMP:20230517T040707Z
+DTSTAMP:20231009T054206Z
 DTSTART:20230520T213000Z
 DTEND:20230521T000000Z
 SUMMARY:TTOC - Short Course Sunday - World Orienteering Day, Totally Tropical Orienteering Club
@@ -8208,7 +8208,7 @@ GEO:-33.7871993254914;151.111797756491
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19322@eventor.orienteering.asn.au
-DTSTAMP:20230728T115153Z
+DTSTAMP:20231009T061057Z
 DTSTART:20230830T071500Z
 DTEND:20230830T091500Z
 SUMMARY:TTOC Urban Adventure Night Series 23 - Extra Round JCU, Totally Tropical Orienteering Club
@@ -9046,7 +9046,7 @@ GEO:-36.7675613894164;144.211824349049
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19489@eventor.orienteering.asn.au
-DTSTAMP:20231002T105027Z
+DTSTAMP:20231009T055751Z
 DTSTART:20231007T140000Z
 DTEND:20231008T140000Z
 SUMMARY:MapRun Parks 2023 - Mercer Park, Ugly Gully Orienteers
@@ -9055,7 +9055,7 @@ GEO:-27.404861;153.046278
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19510@eventor.orienteering.asn.au
-DTSTAMP:20230930T024823Z
+DTSTAMP:20231009T062839Z
 DTSTART:20231007T230000Z
 DTEND:20231008T000000Z
 SUMMARY:Bush orienteering at Highvale Hill, Helensvale via Shepperton Road, northern Gold Coast, Paradise Lost Orienteers
@@ -9117,7 +9117,7 @@ GEO:-35.29230608752;149.089863320842
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19339@eventor.orienteering.asn.au
-DTSTAMP:20231008T103156Z
+DTSTAMP:20231009T050002Z
 DTSTART:20231011T053000Z
 DTEND:20231011T083000Z
 SUMMARY:2023/24 Sydney Summer Series #2 - Hunters Hill, Garingal Orienteers
@@ -9144,10 +9144,10 @@ GEO:-37.8142012853687;145.174992195844
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19589@eventor.orienteering.asn.au
-DTSTAMP:20230926T075428Z
+DTSTAMP:20231009T041553Z
 DTSTART:20231012T003000Z
 DTEND:20231012T010000Z
-SUMMARY:Anzac Park. Using control flags., Orienteering Queensland
+SUMMARY:Anzac Park, Toowong (Using control flags)., Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19589
 GEO:-27.4843640778122;152.975546770625
 END:VEVENT
@@ -9338,11 +9338,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18549
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18464@eventor.orienteering.asn.au
-DTSTAMP:20230117T062132Z
+DTSTAMP:20231009T023448Z
 DTSTART:20231018T000000Z
 DTEND:20231018T023000Z
 SUMMARY:Midweek Training at Kuitpo, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/18464
+GEO:-35.231954550679;138.721831298024
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19243@eventor.orienteering.asn.au
@@ -10019,12 +10020,13 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19500
 GEO:-33.4865405324307;151.358123245192
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18599@eventor.orienteering.asn.au
-DTSTAMP:20230129T024459Z
-DTSTART:20231111T220000Z
-DTEND:20231111T220000Z
-SUMMARY:Waggaroos 2023-24 MapRun Series #1, TBC, Wagga and Riverina Occasional Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18599
+UID:Event_19617@eventor.orienteering.asn.au
+DTSTAMP:20231009T062620Z
+DTSTART:20231111T230000Z
+DTEND:20231112T000000Z
+SUMMARY:Park orienteering at Gold Coast Regional Botanic Gardens, Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19617
+GEO:-28.0089478133558;153.388373526769
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19444@eventor.orienteering.asn.au
@@ -10272,6 +10274,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19501
 GEO:-33.4283596261515;151.295750197811
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18599@eventor.orienteering.asn.au
+DTSTAMP:20231009T075837Z
+DTSTART:20231118T220000Z
+DTEND:20231119T000000Z
+SUMMARY:Waggaroos 2023-24 Summer Series #1, Rawling's Park, Lake Albert, Wagga and Riverina Occasional Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18599
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19069@eventor.orienteering.asn.au
 DTSTAMP:20230714T014510Z
 DTSTART:20231118T230000Z
@@ -10463,14 +10473,6 @@ SUMMARY:Cyclones Sprint #2, QLD Cyclones
 URL:https://eventor.orienteering.asn.au/Events/Show/18473
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18600@eventor.orienteering.asn.au
-DTSTAMP:20230129T024440Z
-DTSTART:20231125T220000Z
-DTEND:20231125T220000Z
-SUMMARY:Waggaroos 2023-24 MapRun Series #2, TBC, Wagga and Riverina Occasional Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18600
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18536@eventor.orienteering.asn.au
 DTSTAMP:20230911T022602Z
 DTSTART:20231126T003000Z
@@ -10642,6 +10644,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18986
 GEO:-42.9742331089005;147.31419164702
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18600@eventor.orienteering.asn.au
+DTSTAMP:20231009T075457Z
+DTSTART:20231202T220000Z
+DTEND:20231203T000000Z
+SUMMARY:Waggaroos 2023-24 Summer Series #2, Estella, Wagga and Riverina Occasional Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18600
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19146@eventor.orienteering.asn.au
 DTSTAMP:20230605T065018Z
 DTSTART:20231203T050000Z
@@ -10767,14 +10777,6 @@ SUMMARY:Cyclones Sprint #3, QLD Cyclones
 URL:https://eventor.orienteering.asn.au/Events/Show/18474
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18601@eventor.orienteering.asn.au
-DTSTAMP:20230129T024547Z
-DTSTART:20231209T130000Z
-DTEND:20231210T130000Z
-SUMMARY:Waggaroos 2023-24 MapRun Series #3, TBC, Wagga and Riverina Occasional Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/18601
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19502@eventor.orienteering.asn.au
 DTSTAMP:20230912T054415Z
 DTSTART:20231209T223000Z
@@ -10873,6 +10875,14 @@ DTSTART:20231215T073000Z
 DTEND:20231215T073000Z
 SUMMARY:Twilight Series Event #5 - Loc. TBC, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/19597
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18601@eventor.orienteering.asn.au
+DTSTAMP:20231009T075801Z
+DTSTART:20231216T220000Z
+DTEND:20231217T000000Z
+SUMMARY:Waggaroos 2023-24 Summer Series #3, Hilltop/Bourkelands, Wagga and Riverina Occasional Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/18601
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18335@eventor.orienteering.asn.au
