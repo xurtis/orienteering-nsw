@@ -3287,7 +3287,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19522
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19339@eventor.orienteering.asn.au
-DTSTAMP:20231009T050002Z
+DTSTAMP:20231010T071404Z
 DTSTART:20231011T053000Z
 DTEND:20231011T083000Z
 SUMMARY:2023/24 Sydney Summer Series #2 - Hunters Hill, Garingal Orienteers
@@ -3349,7 +3349,7 @@ GEO:-33.7724357308484;151.216253416423
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19521@eventor.orienteering.asn.au
-DTSTAMP:20230928T215949Z
+DTSTAMP:20231009T201827Z
 DTSTART:20231018T060000Z
 DTEND:20231018T081500Z
 SUMMARY:Newcastle Summer Street Series #1 - Marmong, Newcastle Orienteering Club
@@ -3375,14 +3375,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19341
 GEO:-33.7174531609216;151.070909317698
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19523@eventor.orienteering.asn.au
-DTSTAMP:20230920T034012Z
-DTSTART:20231025T060000Z
-DTEND:20231025T060000Z
-SUMMARY:Newcastle 2023-24 Summer Street Series #2, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19523
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19196@eventor.orienteering.asn.au
 DTSTAMP:20230922T020240Z
 DTSTART:20231025T060000Z
@@ -3390,6 +3382,14 @@ DTEND:20231025T080000Z
 SUMMARY:ACT Runners Shop Twilight Series #1: Oakey Hill, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19196
 GEO:-35.33469684207;149.071321993226
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19523@eventor.orienteering.asn.au
+DTSTAMP:20231009T202342Z
+DTSTART:20231025T060000Z
+DTEND:20231025T081500Z
+SUMMARY:Newcastle Summer Street Series #2 - Valentine, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19523
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18550@eventor.orienteering.asn.au
@@ -3401,12 +3401,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18550
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19342@eventor.orienteering.asn.au
-DTSTAMP:20230807T053727Z
+DTSTAMP:20231009T204846Z
 DTSTART:20231101T053000Z
 DTEND:20231101T083000Z
 SUMMARY:2023/24 Sydney Summer Series #5 - West Pymble, Big Foot Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19342
-GEO:-33.763099819706;151.130151610444
+GEO:-33.7585329995415;151.134417394614
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19524@eventor.orienteering.asn.au

@@ -10117,6 +10117,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19399
 GEO:-37.8957067328566;145.240525531107
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19385@eventor.orienteering.asn.au
+DTSTAMP:20231010T105034Z
+DTSTART:20231009T140000Z
+DTEND:20231010T140000Z
+SUMMARY:Night Nav - Rosalie, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19385
+GEO:-27.4687642487204;153.000311335916
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19404@eventor.orienteering.asn.au
 DTSTAMP:20230919T061425Z
 DTSTART:20231010T073000Z
@@ -10124,15 +10133,6 @@ DTEND:20231010T091500Z
 SUMMARY:Melbourne Park Street Tuesday Summer Series - Footscray Central, Tuckonie Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19404
 GEO:-37.8004752141669;144.896174407119
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19385@eventor.orienteering.asn.au
-DTSTAMP:20230817T051131Z
-DTSTART:20231010T073000Z
-DTEND:20231010T093000Z
-SUMMARY:Night Nav - Rosalie, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19385
-GEO:-27.4687642487204;153.000311335916
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19522@eventor.orienteering.asn.au
@@ -10149,11 +10149,11 @@ DTSTART:20231011T053000Z
 DTEND:20231011T063000Z
 SUMMARY:ACT Learn to Orienteer, Week 1 and Registration, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19472
-GEO:-35.29230608752;149.089863320842
+GEO:-35.2923025411549;149.090111405927
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19339@eventor.orienteering.asn.au
-DTSTAMP:20231009T050002Z
+DTSTAMP:20231010T071404Z
 DTSTART:20231011T053000Z
 DTEND:20231011T083000Z
 SUMMARY:2023/24 Sydney Summer Series #2 - Hunters Hill, Garingal Orienteers
@@ -10392,7 +10392,7 @@ GEO:-35.231954550679;138.721831298024
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19243@eventor.orienteering.asn.au
-DTSTAMP:20231004T004245Z
+DTSTAMP:20231009T223508Z
 DTSTART:20231018T040000Z
 DTEND:20231018T040000Z
 SUMMARY:UTAS Newnham - Launceston Spring Twilight #1, Esk Valley
@@ -10406,6 +10406,7 @@ DTSTART:20231018T053000Z
 DTEND:20231018T063000Z
 SUMMARY:ACT Learn to Orienteer, Week 2, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19473
+GEO:-35.2922991600811;149.090137341625
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19340@eventor.orienteering.asn.au
@@ -10418,7 +10419,7 @@ GEO:-33.7724357308484;151.216253416423
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19521@eventor.orienteering.asn.au
-DTSTAMP:20230928T215949Z
+DTSTAMP:20231009T201827Z
 DTSTART:20231018T060000Z
 DTEND:20231018T081500Z
 SUMMARY:Newcastle Summer Street Series #1 - Marmong, Newcastle Orienteering Club
@@ -10604,14 +10605,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19341
 GEO:-33.7174531609216;151.070909317698
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19523@eventor.orienteering.asn.au
-DTSTAMP:20230920T034012Z
-DTSTART:20231025T060000Z
-DTEND:20231025T060000Z
-SUMMARY:Newcastle 2023-24 Summer Street Series #2, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19523
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19196@eventor.orienteering.asn.au
 DTSTAMP:20230922T020240Z
 DTSTART:20231025T060000Z
@@ -10619,6 +10612,14 @@ DTEND:20231025T080000Z
 SUMMARY:ACT Runners Shop Twilight Series #1: Oakey Hill, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19196
 GEO:-35.33469684207;149.071321993226
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19523@eventor.orienteering.asn.au
+DTSTAMP:20231009T202342Z
+DTSTART:20231025T060000Z
+DTEND:20231025T081500Z
+SUMMARY:Newcastle Summer Street Series #2 - Valentine, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19523
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19412@eventor.orienteering.asn.au
@@ -10770,12 +10771,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19475
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19342@eventor.orienteering.asn.au
-DTSTAMP:20230807T053727Z
+DTSTAMP:20231009T204846Z
 DTSTART:20231101T053000Z
 DTEND:20231101T083000Z
 SUMMARY:2023/24 Sydney Summer Series #5 - West Pymble, Big Foot Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19342
-GEO:-33.763099819706;151.130151610444
+GEO:-33.7585329995415;151.134417394614
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19524@eventor.orienteering.asn.au
@@ -11941,7 +11942,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19468
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19333@eventor.orienteering.asn.au
-DTSTAMP:20231008T050016Z
+DTSTAMP:20231010T092605Z
 DTSTART:20231215T070000Z
 DTEND:20231220T005900Z
 SUMMARY:Australian Junior Development Camp, Albury-Wodonga Orienteering Club / Orienteering Australia / Orienteering Victoria
