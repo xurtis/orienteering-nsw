@@ -2454,7 +2454,7 @@ DTSTART:20231012T073000Z
 DTEND:20231012T091500Z
 SUMMARY:Melbourne Park Street Thursday Summer Series - Eltham Parklands, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19414
-GEO:-37.7170366664525;145.146505365577
+GEO:-37.7155734954778;145.147417311475
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19540@eventor.orienteering.asn.au
@@ -2538,6 +2538,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18405
 GEO:-36.896041164975;144.396159275986
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19621@eventor.orienteering.asn.au
+DTSTAMP:20231012T022234Z
+DTSTART:20231021T230000Z
+DTEND:20231022T000000Z
+SUMMARY:Woodend Victoria -  Learn to Orienteer, Week 2 , Central Highlands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19621
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18432@eventor.orienteering.asn.au
 DTSTAMP:20231005T141350Z
 DTSTART:20231022T000000Z
@@ -2599,6 +2607,15 @@ DTEND:20231028T043000Z
 SUMMARY:MTBO Vic Series #4 - Beechworth, Albury-Wodonga Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18346
 GEO:-36.3575877171348;146.699711148106
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19622@eventor.orienteering.asn.au
+DTSTAMP:20231012T022427Z
+DTSTART:20231028T230000Z
+DTEND:20231029T000000Z
+SUMMARY:Woodend Victoria -  Learn to Orienteer, Week 3, Central Highlands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19622
+GEO:-37.3539050375805;144.529063954026
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18347@eventor.orienteering.asn.au
@@ -2737,6 +2754,14 @@ DTEND:20231112T130000Z
 SUMMARY:MTBO Vic Series #6 - Linton, Yarra Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18348
 GEO:-37.6805755910039;143.563809117085
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19623@eventor.orienteering.asn.au
+DTSTAMP:20231012T022609Z
+DTSTART:20231111T230000Z
+DTEND:20231112T000000Z
+SUMMARY: Victoria -  Learn to Orienteer, Week 4, Central Highlands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19623
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19444@eventor.orienteering.asn.au

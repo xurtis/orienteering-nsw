@@ -3512,7 +3512,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19522
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19339@eventor.orienteering.asn.au
-DTSTAMP:20231010T071404Z
+DTSTAMP:20231011T222002Z
 DTSTART:20231011T053000Z
 DTEND:20231011T083000Z
 SUMMARY:2023/24 Sydney Summer Series #2 - Hunters Hill, Garingal Orienteers
@@ -3592,7 +3592,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18549
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19340@eventor.orienteering.asn.au
-DTSTAMP:20231005T101554Z
+DTSTAMP:20231012T020908Z
 DTSTART:20231018T053000Z
 DTEND:20231018T083000Z
 SUMMARY:2023/24 Sydney Summer Series #3 - Killarney Heights, Bennelong Northside Orienteers
@@ -3607,6 +3607,14 @@ DTEND:20231018T081500Z
 SUMMARY:Newcastle Summer Street Series #1 - Marmong, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19521
 GEO:-32.9732371296235;151.615643274218
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19625@eventor.orienteering.asn.au
+DTSTAMP:20231012T050918Z
+DTSTART:20231019T230000Z
+DTEND:20231020T040000Z
+SUMMARY:Closed School Event, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19625
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18027@eventor.orienteering.asn.au
@@ -3651,6 +3659,15 @@ DTSTART:20231025T060000Z
 DTEND:20231025T081500Z
 SUMMARY:Newcastle Summer Street Series #2 - Valentine, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19523
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19626@eventor.orienteering.asn.au
+DTSTAMP:20231012T051856Z
+DTSTART:20231025T230000Z
+DTEND:20231026T040000Z
+SUMMARY:Belli Park - Mimburi - Secondary Series, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19626
+GEO:-26.4788176801078;152.771208313574
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18346@eventor.orienteering.asn.au
@@ -3993,15 +4010,6 @@ DTEND:20231213T083000Z
 SUMMARY:ACT Twilight MTBO: Gossan Hill, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19396
 GEO:-35.2407621138247;149.194899454815
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18335@eventor.orienteering.asn.au
-DTSTAMP:20221221T145611Z
-DTSTART:20231217T003000Z
-DTEND:20231217T020000Z
-SUMMARY:Christmas O, Orienteering WA
-URL:https://eventor.orienteering.asn.au/Events/Show/18335
-GEO:-32.0028531221263;115.771440877333
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19363@eventor.orienteering.asn.au
