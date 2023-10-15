@@ -4099,7 +4099,7 @@ GEO:-37.8406173439313;144.871019685994
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18775@eventor.orienteering.asn.au
-DTSTAMP:20230503T062710Z
+DTSTAMP:20231015T050803Z
 DTSTART:20230429T040000Z
 DTEND:20230429T060000Z
 SUMMARY:Coffs Score #1 - Diggers Beach, Bush n Beach Orienteering Club
@@ -4634,7 +4634,7 @@ GEO:-27.4034539934341;153.04103021508
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18776@eventor.orienteering.asn.au
-DTSTAMP:20230518T015157Z
+DTSTAMP:20231015T050921Z
 DTSTART:20230513T040000Z
 DTEND:20230513T060000Z
 SUMMARY:Coffs Score #2 - Jetty Foreshores , Bush n Beach Orienteering Club
@@ -6526,7 +6526,7 @@ GEO:-27.4784721910964;152.929004742538
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18777@eventor.orienteering.asn.au
-DTSTAMP:20230704T062639Z
+DTSTAMP:20231015T051058Z
 DTSTART:20230629T080000Z
 DTEND:20230629T090000Z
 SUMMARY:Coffs Winter Solstice Night-O, Bush n Beach Orienteering Club
@@ -10020,14 +10020,6 @@ SUMMARY:SOS Term 4 season pass, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19603
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19604@eventor.orienteering.asn.au
-DTSTAMP:20231003T065123Z
-DTSTART:20231013T223000Z
-DTEND:20231014T010000Z
-SUMMARY:SOS Term 4 Season Pass, Bold Horizons Event Organiser
-URL:https://eventor.orienteering.asn.au/Events/Show/19604
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19274@eventor.orienteering.asn.au
 DTSTAMP:20231014T064836Z
 DTSTART:20231014T030000Z
@@ -10100,7 +10092,7 @@ GEO:-38.267743576645;145.014265755655
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18985@eventor.orienteering.asn.au
-DTSTAMP:20230921T001138Z
+DTSTAMP:20231015T035459Z
 DTSTART:20231014T230000Z
 DTEND:20231015T020000Z
 SUMMARY:Seven Mile Beach - Southern Local #12, Australopers
@@ -10118,7 +10110,7 @@ GEO:-35.341931451065;147.348867949247
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19314@eventor.orienteering.asn.au
-DTSTAMP:20230728T041303Z
+DTSTAMP:20231015T014005Z
 DTSTART:20231014T230000Z
 DTEND:20231015T030000Z
 SUMMARY:Ballarat Winter Series #4 Lake Daylesford (Rescheduled), Eureka Orienteers
@@ -10136,7 +10128,7 @@ GEO:-30.4773659950285;151.422734911061
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19156@eventor.orienteering.asn.au
-DTSTAMP:20230905T131341Z
+DTSTAMP:20231015T060123Z
 DTSTART:20231015T020000Z
 DTEND:20231015T040000Z
 SUMMARY:Albany - Mt Adelaide & Forts Historical Precinct, Albany & Denmark Hinterland Orienteering Club
@@ -10252,7 +10244,7 @@ GEO:-37.7720115973713;145.059746512901
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18757@eventor.orienteering.asn.au
-DTSTAMP:20230226T031513Z
+DTSTAMP:20231015T055722Z
 DTSTART:20231019T003000Z
 DTEND:20231019T010000Z
 SUMMARY:Beryl Roberts Park, Coopers Plains. (BCC Sponsored) (MAPRUN EVENT), Orienteering Queensland
@@ -10293,6 +10285,14 @@ DTEND:20231021T010000Z
 SUMMARY:SOS - St Peters, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/19601
 GEO:-33.9083787286368;151.182194012608
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19604@eventor.orienteering.asn.au
+DTSTAMP:20231015T034748Z
+DTSTART:20231020T223000Z
+DTEND:20231021T010000Z
+SUMMARY:SOS Term 4 Season Pass, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/19604
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18405@eventor.orienteering.asn.au
@@ -10340,7 +10340,7 @@ GEO:-28.0351036575412;151.985442420427
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18919@eventor.orienteering.asn.au
-DTSTAMP:20230328T105437Z
+DTSTAMP:20231014T205128Z
 DTSTART:20231022T000000Z
 DTEND:20231022T020000Z
 SUMMARY:Bago Orienteering, Hastings Orienteering Group
@@ -10411,6 +10411,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19387
 GEO:-27.489090258577;153.01285914223
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19639@eventor.orienteering.asn.au
+DTSTAMP:20231015T030714Z
+DTSTART:20231024T130000Z
+DTEND:20231025T130000Z
+SUMMARY:Enter all Southern Spring Twilight Events at Discounted Rate, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/19639
+GEO:-42.8817246834466;147.341695417581
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19244@eventor.orienteering.asn.au
 DTSTAMP:20231010T231151Z
 DTSTART:20231025T040000Z
@@ -10421,7 +10430,7 @@ GEO:-41.4079657669754;147.129710319329
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19237@eventor.orienteering.asn.au
-DTSTAMP:20230629T005835Z
+DTSTAMP:20231015T031647Z
 DTSTART:20231025T040000Z
 DTEND:20231025T040000Z
 SUMMARY:Sandown Park - Hobart Spring Schools/Twilight #1, Australopers
@@ -10525,6 +10534,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19492
 GEO:-27.47499664;152.963884
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19640@eventor.orienteering.asn.au
+DTSTAMP:20231015T093643Z
+DTSTART:20231028T160000Z
+DTEND:20231029T160000Z
+SUMMARY:Albany - GSG Chasing Start, Albany & Denmark Hinterland Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19640
+GEO:-34.946653063497;117.970623939725
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19622@eventor.orienteering.asn.au
 DTSTAMP:20231012T022427Z
 DTSTART:20231028T230000Z
@@ -10535,7 +10553,7 @@ GEO:-37.3539050375805;144.529063954026
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18315@eventor.orienteering.asn.au
-DTSTAMP:20231012T052740Z
+DTSTAMP:20231014T202930Z
 DTSTART:20231028T233000Z
 DTEND:20231029T023000Z
 SUMMARY:West Parklands, Tjuringa Orienteers
@@ -10553,9 +10571,9 @@ GEO:-37.761177174432;145.351883465912
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18534@eventor.orienteering.asn.au
-DTSTAMP:20230905T132837Z
+DTSTAMP:20231015T092923Z
 DTSTART:20231029T003000Z
-DTEND:20231029T023000Z
+DTEND:20231029T013000Z
 SUMMARY:Albany - Great Southern Grammar, Albany & Denmark Hinterland Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18534
 GEO:-34.9476387580886;117.970740575281
@@ -10613,7 +10631,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18550
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19238@eventor.orienteering.asn.au
-DTSTAMP:20231001T005648Z
+DTSTAMP:20231015T031957Z
 DTSTART:20231101T040000Z
 DTEND:20231101T040000Z
 SUMMARY:Gordons Hill - Hobart Spring Schools/Twilight #2, Australopers
@@ -10699,11 +10717,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19438
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19606@eventor.orienteering.asn.au
-DTSTAMP:20231003T112811Z
-DTSTART:20231103T130000Z
-DTEND:20231104T130000Z
-SUMMARY:SOS, Bold Horizons Event Organiser
+DTSTAMP:20231015T034444Z
+DTSTART:20231103T223000Z
+DTEND:20231104T010000Z
+SUMMARY:SOS - Cabarita, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/19606
+GEO:-33.842339;151.118895
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18469@eventor.orienteering.asn.au
@@ -10818,10 +10837,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19424
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19511@eventor.orienteering.asn.au
-DTSTAMP:20230917T045323Z
+DTSTAMP:20231015T081523Z
 DTSTART:20231107T130000Z
 DTEND:20231108T130000Z
-SUMMARY:Macedon Ranges Summer Twilight Series - #1 MACEDON:  Ash Wednesday park - Smith St , Central Highlands Orienteering Club
+SUMMARY:Macedon Ranges Twilight Series - #1 MACEDON:  Ash Wednesday park , Central Highlands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19511
 GEO:-37.4222347876667;144.5623160954
 END:VEVENT
@@ -10911,10 +10930,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19434
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19609@eventor.orienteering.asn.au
-DTSTAMP:20231014T075335Z
+DTSTAMP:20231015T063124Z
 DTSTART:20231109T130000Z
 DTEND:20231110T130000Z
-SUMMARY:Goldseekers Summer Park #1 - Elephant Park, Goldseekers Orienteers
+SUMMARY:Goldseekers Park Series 2023 #1 - Elephant Park, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19609
 END:VEVENT
 BEGIN:VEVENT
@@ -10996,11 +11015,12 @@ GEO:-35.0282948257414;117.880738556102
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19143@eventor.orienteering.asn.au
-DTSTAMP:20230922T054818Z
+DTSTAMP:20231015T111602Z
 DTSTART:20231112T050000Z
 DTEND:20231112T060000Z
 SUMMARY:River and Bay Orienteering Series #4, Illawarra Kareelah Orienteers / Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19143
+GEO:-33.9727310009085;151.142214126496
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19494@eventor.orienteering.asn.au
@@ -11054,10 +11074,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19425
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19512@eventor.orienteering.asn.au
-DTSTAMP:20230917T044023Z
+DTSTAMP:20231015T081806Z
 DTSTART:20231114T130000Z
 DTEND:20231115T130000Z
-SUMMARY:Macedon Ranges Summer Twilight Series - #2 KYNETON:  Barry Doyle Rotunda – Campaspe Crescent, Central Highlands Orienteering Club
+SUMMARY:Macedon Ranges Twilight Series - #2 KYNETON:  Barry Doyle Rotunda, Central Highlands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19512
 GEO:-37.2438072217795;144.443398156842
 END:VEVENT
@@ -11155,10 +11175,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19435
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19610@eventor.orienteering.asn.au
-DTSTAMP:20231004T042228Z
+DTSTAMP:20231015T063205Z
 DTSTART:20231116T130000Z
 DTEND:20231117T130000Z
-SUMMARY:Goldseekers Summer Park #2 - Gosling Creek, Goldseekers Orienteers
+SUMMARY:Goldseekers Park Series 2023 #2 - Gosling Creek, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19610
 END:VEVENT
 BEGIN:VEVENT
@@ -11299,10 +11319,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19426
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19513@eventor.orienteering.asn.au
-DTSTAMP:20230917T044351Z
+DTSTAMP:20231015T081726Z
 DTSTART:20231121T130000Z
 DTEND:20231122T130000Z
-SUMMARY:Macedon Ranges Summer Twilight Series - #3 WOODEND - Campaspe park  - Campaspe Reserve, Central Highlands Orienteering Club
+SUMMARY:Macedon Ranges Twilight Series - #3 WOODEND - Campaspe Park Reserve, Central Highlands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19513
 GEO:-37.3544084993508;144.531206549905
 END:VEVENT
@@ -11392,10 +11412,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19436
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19611@eventor.orienteering.asn.au
-DTSTAMP:20231004T042412Z
+DTSTAMP:20231015T063326Z
 DTSTART:20231123T130000Z
 DTEND:20231124T130000Z
-SUMMARY:Goldseekers Summer Park #3 - Botanic Gardens, Goldseekers Orienteers
+SUMMARY:Goldseekers Park Series 2023 #3 - Botanic Gardens, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19611
 END:VEVENT
 BEGIN:VEVENT
@@ -11517,10 +11537,10 @@ GEO:-27.4100476705996;152.923478931987
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19514@eventor.orienteering.asn.au
-DTSTAMP:20230917T045206Z
+DTSTAMP:20231015T081855Z
 DTSTART:20231128T130000Z
 DTEND:20231129T130000Z
-SUMMARY:Macedon Ranges Summer Twilight Series - #4 ROMSEY - Lions Reserve – Station St, Central Highlands Orienteering Club
+SUMMARY:Macedon Ranges Twilight Series - #4 ROMSEY - Lions Reserve , Central Highlands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19514
 GEO:-37.3556753484042;144.744138259887
 END:VEVENT
@@ -11594,10 +11614,10 @@ GEO:-27.590639194972;153.133406882762
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19612@eventor.orienteering.asn.au
-DTSTAMP:20231004T042540Z
+DTSTAMP:20231015T063303Z
 DTSTART:20231130T130000Z
 DTEND:20231201T130000Z
-SUMMARY:Goldseekers Summer Park #4 - CSU Orange, Goldseekers Orienteers
+SUMMARY:Goldseekers Park Series 2023 #4 - CSU Orange, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19612
 END:VEVENT
 BEGIN:VEVENT
@@ -11686,10 +11706,10 @@ GEO:-27.3958768795048;153.001668274955
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19515@eventor.orienteering.asn.au
-DTSTAMP:20230917T045235Z
+DTSTAMP:20231015T082007Z
 DTSTART:20231205T130000Z
 DTEND:20231206T130000Z
-SUMMARY:Macedon Ranges Summer Twilight Series - #5  GISBORNE – Jackson Creek Reserve - North end of Brantome st , Central Highlands Orienteering Club
+SUMMARY:Macedon Ranges Twilight Series - #5  GISBORNE – Jackson Creek Reserve , Central Highlands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19515
 GEO:-37.4842480090402;144.590312156875
 END:VEVENT
@@ -11745,10 +11765,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19467
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19613@eventor.orienteering.asn.au
-DTSTAMP:20231004T042653Z
+DTSTAMP:20231015T063429Z
 DTSTART:20231207T130000Z
 DTEND:20231208T130000Z
-SUMMARY:Goldseekers Summer Park #4 - CSU Orange, Goldseekers Orienteers
+SUMMARY:Goldseekers Park Series 2023 #5 - TAFE, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19613
 END:VEVENT
 BEGIN:VEVENT
