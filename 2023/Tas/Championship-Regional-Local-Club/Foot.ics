@@ -785,14 +785,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19237
 GEO:-42.9106493393726;147.356229372138
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19250@eventor.orienteering.asn.au
-DTSTAMP:20230629T020041Z
-DTSTART:20231030T130000Z
-DTEND:20231031T130000Z
-SUMMARY:North West Region - NW Spring Twilight #1, Pathfinders
-URL:https://eventor.orienteering.asn.au/Events/Show/19250
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19238@eventor.orienteering.asn.au
 DTSTAMP:20231015T031957Z
 DTSTART:20231101T040000Z
@@ -887,6 +879,14 @@ DTEND:20231122T040000Z
 SUMMARY:Windsor Precinct - Launceston Spring Twilight #6 Christmas Event, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/19248
 GEO:-41.4029768492453;147.092876895036
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19250@eventor.orienteering.asn.au
+DTSTAMP:20231016T042434Z
+DTSTART:20231127T130000Z
+DTEND:20231128T130000Z
+SUMMARY:North West Region - NW Spring Twilight #1, Pathfinders
+URL:https://eventor.orienteering.asn.au/Events/Show/19250
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19242@eventor.orienteering.asn.au
