@@ -969,9 +969,9 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19522
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19386@eventor.orienteering.asn.au
-DTSTAMP:20230817T054001Z
-DTSTART:20231017T073000Z
-DTEND:20231017T093000Z
+DTSTAMP:20231017T110220Z
+DTSTART:20231016T140000Z
+DTEND:20231017T140000Z
 SUMMARY:Night Nav - Auchenflower, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19386
 GEO:-27.4706698365714;153.001173821566
@@ -995,10 +995,28 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19387
 GEO:-27.489090258577;153.01285914223
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19653@eventor.orienteering.asn.au
+DTSTAMP:20231017T074311Z
+DTSTART:20231029T053000Z
+DTEND:20231029T053000Z
+SUMMARY:Joseph Leadbetter Park, Toowoomba, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19653
+GEO:-27.579699921641;151.970052277231
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19654@eventor.orienteering.asn.au
+DTSTAMP:20231017T074128Z
+DTSTART:20231105T053000Z
+DTEND:20231105T053000Z
+SUMMARY:Mater Dei Primary School, Toowoomba, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19654
+GEO:-27.5583267983571;151.973392952762
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18469@eventor.orienteering.asn.au
-DTSTAMP:20231008T114430Z
-DTSTART:20231104T053000Z
-DTEND:20231104T053000Z
+DTSTAMP:20231017T020334Z
+DTSTART:20231105T053000Z
+DTEND:20231105T063000Z
 SUMMARY:Park-O #1 Creekside Park  Kenmore Hills, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18469
 GEO:-27.5038110425654;152.918541248654
@@ -1022,6 +1040,24 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19617
 GEO:-28.0089478133558;153.388373526769
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19494@eventor.orienteering.asn.au
+DTSTAMP:20231017T022818Z
+DTSTART:20231112T053000Z
+DTEND:20231112T063000Z
+SUMMARY:MapRun Parks (Joint with Park-O for this event.), Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19494
+GEO:-27.5244202755005;152.963971999481
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19642@eventor.orienteering.asn.au
+DTSTAMP:20231017T113825Z
+DTSTART:20231112T053000Z
+DTEND:20231112T063000Z
+SUMMARY:Park-O #2 Fig Tree Pocket (Combined event with MapRun Parks), Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19642
+GEO:-27.5169152760281;152.958852941644
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17610@eventor.orienteering.asn.au
 DTSTAMP:20231014T043929Z
 DTSTART:20231114T073000Z
@@ -1038,6 +1074,15 @@ DTEND:20231118T053000Z
 SUMMARY:Park-O #2 - Spring Mountain Reserve, Greenbank - LCC, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18470
 GEO:-27.7391926199221;152.92262347445
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19655@eventor.orienteering.asn.au
+DTSTAMP:20231017T102450Z
+DTSTART:20231119T053000Z
+DTEND:20231119T053000Z
+SUMMARY:Crows Nest Street and Park, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19655
+GEO:-27.2614668814579;152.055166617543
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17611@eventor.orienteering.asn.au

@@ -973,7 +973,7 @@ GEO:-35.2923025411549;149.090111405927
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19627@eventor.orienteering.asn.au
-DTSTAMP:20231013T113529Z
+DTSTAMP:20231017T020146Z
 DTSTART:20231016T060000Z
 DTEND:20231016T090000Z
 SUMMARY:ACT MapRun Street Series: Deakin, 12-16 Oct, Orienteering ACT
@@ -1026,10 +1026,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19285
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19629@eventor.orienteering.asn.au
-DTSTAMP:20231013T120958Z
+DTSTAMP:20231017T002313Z
 DTSTART:20231030T060000Z
 DTEND:20231030T090000Z
-SUMMARY:ACT MapRun Street Series: TBA, 26-30 Oct, Orienteering ACT
+SUMMARY:ACT MapRun Street Series: Chapman, 26-30 Oct, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19629
 END:VEVENT
 BEGIN:VEVENT
@@ -1060,10 +1060,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19286
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19630@eventor.orienteering.asn.au
-DTSTAMP:20231013T121000Z
+DTSTAMP:20231017T002449Z
 DTSTART:20231106T060000Z
 DTEND:20231106T090000Z
-SUMMARY:ACT MapRun Street Series: TBA, 2-6 Nov, Orienteering ACT
+SUMMARY:ACT MapRun Street Series: Franklin, 2-6 Nov, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19630
 END:VEVENT
 BEGIN:VEVENT
@@ -1094,10 +1094,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19287
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19631@eventor.orienteering.asn.au
-DTSTAMP:20231013T121002Z
+DTSTAMP:20231017T002520Z
 DTSTART:20231113T060000Z
 DTEND:20231113T090000Z
-SUMMARY:ACT MapRun Street Series: TBA, 9-13 Nov, Orienteering ACT
+SUMMARY:ACT MapRun Street Series: Richardson, 9-13 Nov, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19631
 END:VEVENT
 BEGIN:VEVENT
@@ -1128,10 +1128,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19288
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19632@eventor.orienteering.asn.au
-DTSTAMP:20231013T121003Z
+DTSTAMP:20231017T002549Z
 DTSTART:20231120T060000Z
 DTEND:20231120T090000Z
-SUMMARY:ACT MapRun Street Series: TBA, 16-20 Nov, Orienteering ACT
+SUMMARY:ACT MapRun Street Series: Dunlop, 16-20 Nov, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19632
 END:VEVENT
 BEGIN:VEVENT
@@ -1169,10 +1169,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19590
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19633@eventor.orienteering.asn.au
-DTSTAMP:20231013T121005Z
+DTSTAMP:20231017T002616Z
 DTSTART:20231127T060000Z
 DTEND:20231127T090000Z
-SUMMARY:ACT MapRun Street Series: TBA, 23-27 Nov, Orienteering ACT
+SUMMARY:ACT MapRun Street Series: Wanniassa, 23-27 Nov, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19633
 END:VEVENT
 BEGIN:VEVENT
@@ -1183,6 +1183,14 @@ DTEND:20231129T083000Z
 SUMMARY:ACT Runners Shop Twilight Series #6: Bruce Ridge, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19201
 GEO:-35.2508664893582;149.106235645722
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19652@eventor.orienteering.asn.au
+DTSTAMP:20231017T020706Z
+DTSTART:20231202T220000Z
+DTEND:20231202T233000Z
+SUMMARY:ACT Sprint Series #1, TBA, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19652
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19634@eventor.orienteering.asn.au
@@ -1210,12 +1218,36 @@ SUMMARY:ACT Runners Shop Twilight Series Season Pass, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19195
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19643@eventor.orienteering.asn.au
+DTSTAMP:20231017T015801Z
+DTSTART:20231209T220000Z
+DTEND:20231209T233000Z
+SUMMARY:ACT Sprint Series #2, TBA, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19643
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19635@eventor.orienteering.asn.au
 DTSTAMP:20231013T121009Z
 DTSTART:20231211T060000Z
 DTEND:20231211T090000Z
 SUMMARY:ACT MapRun Street Series: TBA, 7-11 Dec, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19635
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19644@eventor.orienteering.asn.au
+DTSTAMP:20231017T015827Z
+DTSTART:20231216T220000Z
+DTEND:20231216T233000Z
+SUMMARY:ACT Sprint Series #3, TBA, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19644
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19641@eventor.orienteering.asn.au
+DTSTAMP:20231017T020845Z
+DTSTART:20231216T220100Z
+DTEND:20231216T220200Z
+SUMMARY:ACT Sprint Series Season Pass, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19641
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19636@eventor.orienteering.asn.au
