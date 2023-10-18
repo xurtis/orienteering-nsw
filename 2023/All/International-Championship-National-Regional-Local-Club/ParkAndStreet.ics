@@ -4289,7 +4289,7 @@ GEO:-37.7624433805065;144.859799474698
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19340@eventor.orienteering.asn.au
-DTSTAMP:20231017T045054Z
+DTSTAMP:20231018T105947Z
 DTSTART:20231018T053000Z
 DTEND:20231018T083000Z
 SUMMARY:2023/24 Sydney Summer Series #3 - Killarney Heights, Bennelong Northside Orienteers
@@ -4298,7 +4298,7 @@ GEO:-33.7724357308484;151.216253416423
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19521@eventor.orienteering.asn.au
-DTSTAMP:20231009T201827Z
+DTSTAMP:20231018T105921Z
 DTSTART:20231018T060000Z
 DTEND:20231018T081500Z
 SUMMARY:Newcastle Summer Street Series #1 - Marmong, Newcastle Orienteering Club
@@ -4826,10 +4826,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19610
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19593@eventor.orienteering.asn.au
-DTSTAMP:20231002T050348Z
+DTSTAMP:20231017T212220Z
 DTSTART:20231117T090900Z
 DTEND:20231117T090900Z
-SUMMARY:Twilight Series Event #1 - Loc. TBC, Orienteering SA
+SUMMARY:Twilight Series Event #1 - Norhteastern Adelaide Parklands, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/19593
 END:VEVENT
 BEGIN:VEVENT
@@ -4968,10 +4968,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19611
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19594@eventor.orienteering.asn.au
-DTSTAMP:20231002T052533Z
+DTSTAMP:20231017T212315Z
 DTSTART:20231124T073000Z
 DTEND:20231124T073000Z
-SUMMARY:Twilight Series Event #2 - Loc. TBC, Orienteering SA
+SUMMARY:Twilight Series Event #2 - Colonel Light Gardens, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/19594
 END:VEVENT
 BEGIN:VEVENT
@@ -4981,6 +4981,15 @@ DTSTART:20231125T040000Z
 DTEND:20231125T060000Z
 SUMMARY:Berry, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18697
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19658@eventor.orienteering.asn.au
+DTSTAMP:20231018T012716Z
+DTSTART:20231125T220000Z
+DTEND:20231125T220000Z
+SUMMARY:Central Coast Summer Series 4 - Norah Head, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19658
+GEO:-33.2877591089195;151.567133488482
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18536@eventor.orienteering.asn.au
@@ -5109,6 +5118,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18471
 GEO:-27.4736278723781;153.029330193927
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19659@eventor.orienteering.asn.au
+DTSTAMP:20231018T012937Z
+DTSTART:20231202T220000Z
+DTEND:20231202T220000Z
+SUMMARY:Central Coast Summer Series 5 - Woy Woy, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19659
+GEO:-33.4845547322379;151.335697414088
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18600@eventor.orienteering.asn.au
 DTSTAMP:20231009T075457Z
 DTSTART:20231202T220000Z
@@ -5209,11 +5227,20 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19613
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19596@eventor.orienteering.asn.au
-DTSTAMP:20231002T052935Z
+DTSTAMP:20231017T212455Z
 DTSTART:20231208T073000Z
 DTEND:20231208T073000Z
-SUMMARY:Twilight Series Event #4 - Loc. TBC, Orienteering SA
+SUMMARY:Twilight Series Event #4 - Craigburn Farm, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/19596
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19660@eventor.orienteering.asn.au
+DTSTAMP:20231018T013335Z
+DTSTART:20231209T220000Z
+DTEND:20231209T220000Z
+SUMMARY:Central Coast Summer Series 6 - Avoca Beach, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19660
+GEO:-33.4710420031569;151.436460136594
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19471@eventor.orienteering.asn.au
@@ -5291,10 +5318,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19468
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19597@eventor.orienteering.asn.au
-DTSTAMP:20231002T053119Z
+DTSTAMP:20231017T212638Z
 DTSTART:20231215T073000Z
 DTEND:20231215T073000Z
-SUMMARY:Twilight Series Event #5 - Loc. TBC, Orienteering SA
+SUMMARY:Twilight Series Event #5 - Oaklands Reserve, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/19597
 END:VEVENT
 BEGIN:VEVENT
@@ -5387,15 +5414,6 @@ DTSTART:20231221T073000Z
 DTEND:20231221T091500Z
 SUMMARY:Melbourne Park Street Thursday Summer Series - Doncaster Heights, Yarra Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19469
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19364@eventor.orienteering.asn.au
-DTSTAMP:20230914T045948Z
-DTSTART:20231227T053000Z
-DTEND:20231227T083000Z
-SUMMARY:2023/24 Sydney Summer Series #13 - Ourimbah, Central Coast, Central Coast Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19364
-GEO:-33.3568290877053;151.375146125369
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19466@eventor.orienteering.asn.au

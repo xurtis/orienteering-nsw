@@ -1320,7 +1320,7 @@ GEO:-35.314786562626;149.107555560296
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19340@eventor.orienteering.asn.au
-DTSTAMP:20231017T045054Z
+DTSTAMP:20231018T105947Z
 DTSTART:20231018T053000Z
 DTEND:20231018T083000Z
 SUMMARY:2023/24 Sydney Summer Series #3 - Killarney Heights, Bennelong Northside Orienteers
@@ -1329,7 +1329,7 @@ GEO:-33.7724357308484;151.216253416423
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19521@eventor.orienteering.asn.au
-DTSTAMP:20231009T201827Z
+DTSTAMP:20231018T105921Z
 DTSTART:20231018T060000Z
 DTEND:20231018T081500Z
 SUMMARY:Newcastle Summer Street Series #1 - Marmong, Newcastle Orienteering Club
@@ -1523,6 +1523,15 @@ SUMMARY:Berry, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18697
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19658@eventor.orienteering.asn.au
+DTSTAMP:20231018T012716Z
+DTSTART:20231125T220000Z
+DTEND:20231125T220000Z
+SUMMARY:Central Coast Summer Series 4 - Norah Head, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19658
+GEO:-33.2877591089195;151.567133488482
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19633@eventor.orienteering.asn.au
 DTSTAMP:20231017T002616Z
 DTSTART:20231127T060000Z
@@ -1565,6 +1574,15 @@ SUMMARY:Goldseekers Park Series 2023 #4 - CSU Orange, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19612
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19659@eventor.orienteering.asn.au
+DTSTAMP:20231018T012937Z
+DTSTART:20231202T220000Z
+DTEND:20231202T220000Z
+SUMMARY:Central Coast Summer Series 5 - Woy Woy, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19659
+GEO:-33.4845547322379;151.335697414088
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19634@eventor.orienteering.asn.au
 DTSTAMP:20231013T121007Z
 DTSTART:20231204T060000Z
@@ -1596,6 +1614,15 @@ DTSTART:20231207T130000Z
 DTEND:20231208T130000Z
 SUMMARY:Goldseekers Park Series 2023 #5 - TAFE, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19613
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19660@eventor.orienteering.asn.au
+DTSTAMP:20231018T013335Z
+DTSTART:20231209T220000Z
+DTEND:20231209T220000Z
+SUMMARY:Central Coast Summer Series 6 - Avoca Beach, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19660
+GEO:-33.4710420031569;151.436460136594
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19635@eventor.orienteering.asn.au
@@ -1663,14 +1690,5 @@ DTSTART:20231220T060000Z
 DTEND:20231220T060000Z
 SUMMARY:Newcastle 2023-24 Summer Street Series #10, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19531
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19364@eventor.orienteering.asn.au
-DTSTAMP:20230914T045948Z
-DTSTART:20231227T053000Z
-DTEND:20231227T083000Z
-SUMMARY:2023/24 Sydney Summer Series #13 - Ourimbah, Central Coast, Central Coast Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19364
-GEO:-33.3568290877053;151.375146125369
 END:VEVENT
 END:VCALENDAR
