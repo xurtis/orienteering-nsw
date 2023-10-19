@@ -993,7 +993,7 @@ GEO:-33.7724357308484;151.216253416423
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19521@eventor.orienteering.asn.au
-DTSTAMP:20231018T105921Z
+DTSTAMP:20231019T081329Z
 DTSTART:20231018T060000Z
 DTEND:20231018T081500Z
 SUMMARY:Newcastle Summer Street Series #1 - Marmong, Newcastle Orienteering Club
@@ -1020,7 +1020,7 @@ GEO:-33.7174531609216;151.070909317698
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19523@eventor.orienteering.asn.au
-DTSTAMP:20231016T231831Z
+DTSTAMP:20231018T201717Z
 DTSTART:20231025T060000Z
 DTEND:20231025T081500Z
 SUMMARY:Newcastle Summer Street Series #2 - Valentine, Newcastle Orienteering Club
@@ -1047,11 +1047,21 @@ GEO:-33.7585329995415;151.134417394614
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19524@eventor.orienteering.asn.au
-DTSTAMP:20231016T232919Z
+DTSTAMP:20231018T201256Z
 DTSTART:20231101T060000Z
 DTEND:20231101T060000Z
 SUMMARY:Newcastle Summer Street Series #3 - Lambton, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19524
+GEO:-32.9121717012804;151.709534753869
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19661@eventor.orienteering.asn.au
+DTSTAMP:20231019T061913Z
+DTSTART:20231101T063000Z
+DTEND:20231101T080000Z
+SUMMARY:Twilight #1: Apex Lookout, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19661
+GEO:-30.5049677352326;151.665097223711
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19453@eventor.orienteering.asn.au
@@ -1086,6 +1096,15 @@ DTSTART:20231108T060000Z
 DTEND:20231108T060000Z
 SUMMARY:Newcastle 2023-24 Summer Street Series #4, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19525
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19662@eventor.orienteering.asn.au
+DTSTAMP:20231019T062058Z
+DTSTART:20231108T063000Z
+DTEND:20231108T080000Z
+SUMMARY:Twilight #2: Moran Oval, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19662
+GEO:-30.5272974549133;151.666773180121
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19609@eventor.orienteering.asn.au
@@ -1140,6 +1159,15 @@ SUMMARY:Newcastle 2023-24 Summer Street Series #5, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19526
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19663@eventor.orienteering.asn.au
+DTSTAMP:20231019T105617Z
+DTSTART:20231115T063000Z
+DTEND:20231115T080000Z
+SUMMARY:Twilight #3: Netball Courts, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19663
+GEO:-30.5272917680321;151.648144557178
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19610@eventor.orienteering.asn.au
 DTSTAMP:20231015T063205Z
 DTSTART:20231116T130000Z
@@ -1188,6 +1216,15 @@ DTSTART:20231122T060000Z
 DTEND:20231122T060000Z
 SUMMARY:Newcastle 2023-24 Summer Street Series #6, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19527
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19664@eventor.orienteering.asn.au
+DTSTAMP:20231019T064148Z
+DTSTART:20231122T063000Z
+DTEND:20231122T080000Z
+SUMMARY:Twilight #4: Curtis Park, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19664
+GEO:-30.5110237059036;151.668491019149
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19611@eventor.orienteering.asn.au
@@ -1247,6 +1284,15 @@ DTSTART:20231129T060000Z
 DTEND:20231129T060000Z
 SUMMARY:Newcastle 2023-24 Summer Street Series #7, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19528
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19665@eventor.orienteering.asn.au
+DTSTAMP:20231019T064443Z
+DTSTART:20231129T063000Z
+DTEND:20231129T080000Z
+SUMMARY:Twilight #5: Bruce Browning Oval, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19665
+GEO:-30.5017259102717;151.675889327228
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19612@eventor.orienteering.asn.au

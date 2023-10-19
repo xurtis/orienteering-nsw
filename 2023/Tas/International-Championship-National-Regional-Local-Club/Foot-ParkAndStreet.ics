@@ -776,15 +776,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18985
 GEO:-42.8429758133248;147.534988461731
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19620@eventor.orienteering.asn.au
-DTSTAMP:20231010T230159Z
-DTSTART:20231017T130000Z
-DTEND:20231018T130000Z
-SUMMARY:Enter All Northern Spring Twilights at Discounted Rate, Esk Valley
-URL:https://eventor.orienteering.asn.au/Events/Show/19620
-GEO:-41.4407031187427;147.146550347481
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19243@eventor.orienteering.asn.au
 DTSTAMP:20231018T113147Z
 DTSTART:20231018T040000Z
@@ -801,6 +792,15 @@ DTEND:20231022T030000Z
 SUMMARY:North West Region - NW Local - Buttons Beach, Pathfinders
 URL:https://eventor.orienteering.asn.au/Events/Show/19249
 GEO:-41.1519099881729;146.175322898628
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19620@eventor.orienteering.asn.au
+DTSTAMP:20231019T094627Z
+DTSTART:20231024T130000Z
+DTEND:20231025T130000Z
+SUMMARY:Enter All Northern Spring Twilights at Discounted Rate, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19620
+GEO:-41.4407031187427;147.146550347481
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19639@eventor.orienteering.asn.au

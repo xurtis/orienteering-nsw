@@ -10886,15 +10886,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19405
 GEO:-37.7624433805065;144.859799474698
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19620@eventor.orienteering.asn.au
-DTSTAMP:20231010T230159Z
-DTSTART:20231017T130000Z
-DTEND:20231018T130000Z
-SUMMARY:Enter All Northern Spring Twilights at Discounted Rate, Esk Valley
-URL:https://eventor.orienteering.asn.au/Events/Show/19620
-GEO:-41.4407031187427;147.146550347481
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18549@eventor.orienteering.asn.au
 DTSTAMP:20230124T053524Z
 DTSTART:20231017T230000Z
@@ -10940,7 +10931,7 @@ GEO:-33.7724357308484;151.216253416423
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19521@eventor.orienteering.asn.au
-DTSTAMP:20231018T105921Z
+DTSTAMP:20231019T081329Z
 DTSTART:20231018T060000Z
 DTEND:20231018T081500Z
 SUMMARY:Newcastle Summer Street Series #1 - Marmong, Newcastle Orienteering Club
@@ -11134,6 +11125,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19387
 GEO:-27.489090258577;153.01285914223
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19620@eventor.orienteering.asn.au
+DTSTAMP:20231019T094627Z
+DTSTART:20231024T130000Z
+DTEND:20231025T130000Z
+SUMMARY:Enter All Northern Spring Twilights at Discounted Rate, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19620
+GEO:-41.4407031187427;147.146550347481
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19639@eventor.orienteering.asn.au
 DTSTAMP:20231015T030714Z
 DTSTART:20231024T130000Z
@@ -11189,7 +11189,7 @@ GEO:-35.33469684207;149.071321993226
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19523@eventor.orienteering.asn.au
-DTSTAMP:20231016T231831Z
+DTSTAMP:20231018T201717Z
 DTSTART:20231025T060000Z
 DTEND:20231025T081500Z
 SUMMARY:Newcastle Summer Street Series #2 - Valentine, Newcastle Orienteering Club
@@ -11364,6 +11364,7 @@ DTSTART:20231030T060000Z
 DTEND:20231030T090000Z
 SUMMARY:ACT MapRun Street Series: Chapman, 26-30 Oct, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19629
+GEO:-35.357228421041;149.045916941218
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19402@eventor.orienteering.asn.au
@@ -11429,11 +11430,12 @@ GEO:-33.7585329995415;151.134417394614
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19524@eventor.orienteering.asn.au
-DTSTAMP:20231016T232919Z
+DTSTAMP:20231018T201256Z
 DTSTART:20231101T060000Z
 DTEND:20231101T060000Z
 SUMMARY:Newcastle Summer Street Series #3 - Lambton, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19524
+GEO:-32.9121717012804;151.709534753869
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19197@eventor.orienteering.asn.au
@@ -11443,6 +11445,15 @@ DTEND:20231101T083000Z
 SUMMARY:ACT Runners Shop Twilight Series #2: Red Hill South, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19197
 GEO:-35.3264424196426;149.115424064177
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19661@eventor.orienteering.asn.au
+DTSTAMP:20231019T061913Z
+DTSTART:20231101T063000Z
+DTEND:20231101T080000Z
+SUMMARY:Twilight #1: Apex Lookout, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19661
+GEO:-30.5049677352326;151.665097223711
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19428@eventor.orienteering.asn.au
@@ -11460,6 +11471,14 @@ DTSTART:20231101T204500Z
 DTEND:20231101T214500Z
 SUMMARY:SC-ORE #2: Blue Gum Primary School, Hackett, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19286
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19667@eventor.orienteering.asn.au
+DTSTAMP:20231019T104552Z
+DTSTART:20231102T051500Z
+DTEND:20231102T063000Z
+SUMMARY:Central Adelaide Schools Zone Event 13 - Park 20, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/19667
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19439@eventor.orienteering.asn.au
@@ -11679,6 +11698,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19198
 GEO:-35.2503858937602;149.106510672833
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19662@eventor.orienteering.asn.au
+DTSTAMP:20231019T062058Z
+DTSTART:20231108T063000Z
+DTEND:20231108T080000Z
+SUMMARY:Twilight #2: Moran Oval, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19662
+GEO:-30.5272974549133;151.666773180121
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19429@eventor.orienteering.asn.au
 DTSTAMP:20230823T050251Z
 DTSTART:20231108T073000Z
@@ -11693,6 +11721,14 @@ DTSTART:20231108T204500Z
 DTEND:20231108T214500Z
 SUMMARY:SC-ORE #3: Haig Park, Turner, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19287
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19666@eventor.orienteering.asn.au
+DTSTAMP:20231019T104256Z
+DTSTART:20231109T051500Z
+DTEND:20231109T063000Z
+SUMMARY:Central Adelaide Schools Zone Event 14 - Botanic Gardens, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/19666
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19440@eventor.orienteering.asn.au
@@ -11952,6 +11988,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19199
 GEO:-35.2428632382684;149.084802013225
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19663@eventor.orienteering.asn.au
+DTSTAMP:20231019T105617Z
+DTSTART:20231115T063000Z
+DTEND:20231115T080000Z
+SUMMARY:Twilight #3: Netball Courts, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19663
+GEO:-30.5272917680321;151.648144557178
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19430@eventor.orienteering.asn.au
 DTSTAMP:20230823T050415Z
 DTSTART:20231115T073000Z
@@ -11966,6 +12011,14 @@ DTSTART:20231115T204500Z
 DTEND:20231115T214500Z
 SUMMARY:SC-ORE #4: Latham Primary School, Latham, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19288
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19669@eventor.orienteering.asn.au
+DTSTAMP:20231019T104746Z
+DTSTART:20231116T051500Z
+DTEND:20231116T063000Z
+SUMMARY:Central Adelaide Schools Zone Event 15 - Park 17, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/19669
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19441@eventor.orienteering.asn.au
@@ -12206,12 +12259,30 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19200
 GEO:-35.2920644935214;149.080860537369
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19664@eventor.orienteering.asn.au
+DTSTAMP:20231019T064148Z
+DTSTART:20231122T063000Z
+DTEND:20231122T080000Z
+SUMMARY:Twilight #4: Curtis Park, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19664
+GEO:-30.5110237059036;151.668491019149
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19431@eventor.orienteering.asn.au
 DTSTAMP:20230823T050614Z
 DTSTART:20231122T073000Z
 DTEND:20231122T091500Z
 SUMMARY:Melbourne Park Street Wednesday Summer Series - Bulleen Ups and Downs, Victorian ARDF Group
 URL:https://eventor.orienteering.asn.au/Events/Show/19431
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19668@eventor.orienteering.asn.au
+DTSTAMP:20231019T104658Z
+DTSTART:20231123T051500Z
+DTEND:20231123T063000Z
+SUMMARY:Central Adelaide Schools Zone Event 16 - Kensington Gardens Reserve, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/19668
+GEO:-34.9215880906487;138.662617912607
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19442@eventor.orienteering.asn.au
@@ -12414,6 +12485,15 @@ DTEND:20231129T083000Z
 SUMMARY:ACT Runners Shop Twilight Series #6: Bruce Ridge, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19201
 GEO:-35.2508664893582;149.106235645722
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19665@eventor.orienteering.asn.au
+DTSTAMP:20231019T064443Z
+DTSTART:20231129T063000Z
+DTEND:20231129T080000Z
+SUMMARY:Twilight #5: Bruce Browning Oval, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19665
+GEO:-30.5017259102717;151.675889327228
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19432@eventor.orienteering.asn.au
