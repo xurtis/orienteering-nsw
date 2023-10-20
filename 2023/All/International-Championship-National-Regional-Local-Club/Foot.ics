@@ -8493,6 +8493,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19387
 GEO:-27.489090258577;153.01285914223
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19678@eventor.orienteering.asn.au
+DTSTAMP:20231020T111348Z
+DTSTART:20231024T080000Z
+DTEND:20231024T080000Z
+SUMMARY:Night Nav - Coolum Beach, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19678
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19620@eventor.orienteering.asn.au
 DTSTAMP:20231019T094627Z
 DTSTART:20231024T130000Z
@@ -8672,6 +8680,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19653
 GEO:-27.579699921641;151.970052277231
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19679@eventor.orienteering.asn.au
+DTSTAMP:20231020T111425Z
+DTSTART:20231031T080000Z
+DTEND:20231031T080000Z
+SUMMARY:Night Nav - Currimundi, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19679
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18550@eventor.orienteering.asn.au
 DTSTAMP:20230124T054121Z
 DTSTART:20231031T230000Z
@@ -8787,7 +8803,7 @@ GEO:-37.9923197310918;145.154221670765
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19598@eventor.orienteering.asn.au
-DTSTAMP:20231018T030322Z
+DTSTAMP:20231020T025454Z
 DTSTART:20231105T040000Z
 DTEND:20231105T040000Z
 SUMMARY:OWA Annual Celebration , Orienteering WA
@@ -8853,6 +8869,14 @@ DTEND:20231107T073000Z
 SUMMARY:Night Nav - Ferny Hills, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/17609
 GEO:-27.3977755631561;152.954386860581
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19680@eventor.orienteering.asn.au
+DTSTAMP:20231020T110730Z
+DTSTART:20231107T080000Z
+DTEND:20231107T080000Z
+SUMMARY:Night Nav - Buderim, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19680
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19511@eventor.orienteering.asn.au
@@ -9421,7 +9445,7 @@ UID:Event_19145@eventor.orienteering.asn.au
 DTSTAMP:20230605T064813Z
 DTSTART:20231126T050000Z
 DTEND:20231126T060000Z
-SUMMARY:River and Bay Orienteering Series #6, NSW Stingers / Uringa Orienteers
+SUMMARY:River and Bay Orienteering Series #6, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19145
 END:VEVENT
 BEGIN:VEVENT
@@ -9576,7 +9600,7 @@ UID:Event_19146@eventor.orienteering.asn.au
 DTSTAMP:20230605T065018Z
 DTSTART:20231203T050000Z
 DTEND:20231203T060000Z
-SUMMARY:River and Bay Orienteering Series #7, Uringa Orienteers
+SUMMARY:River and Bay Orienteering Series #7, NSW Stingers / Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19146
 END:VEVENT
 BEGIN:VEVENT
@@ -9719,7 +9743,7 @@ GEO:-33.8115598307651;151.203530195184
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19333@eventor.orienteering.asn.au
-DTSTAMP:20231010T092605Z
+DTSTAMP:20231019T215652Z
 DTSTART:20231215T070000Z
 DTEND:20231220T005900Z
 SUMMARY:Australian Junior Development Camp, Albury-Wodonga Orienteering Club / Orienteering Australia / Orienteering Victoria

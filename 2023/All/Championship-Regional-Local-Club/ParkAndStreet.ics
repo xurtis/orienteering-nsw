@@ -4361,12 +4361,12 @@ GEO:-37.8980308707553;145.257127548419
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19406@eventor.orienteering.asn.au
-DTSTAMP:20230919T063953Z
+DTSTAMP:20231020T073153Z
 DTSTART:20231024T073000Z
 DTEND:20231024T091500Z
 SUMMARY:Melbourne Park Street Tuesday Summer Series - Altona Meadows, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19406
-GEO:-37.8781613939229;144.783473903523
+GEO:-37.8785495171772;144.782614156642
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19387@eventor.orienteering.asn.au
@@ -4376,6 +4376,14 @@ DTEND:20231024T093000Z
 SUMMARY:Night Nav - West End - season finale, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19387
 GEO:-27.489090258577;153.01285914223
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19678@eventor.orienteering.asn.au
+DTSTAMP:20231020T111348Z
+DTSTART:20231024T080000Z
+DTEND:20231024T080000Z
+SUMMARY:Night Nav - Coolum Beach, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19678
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19620@eventor.orienteering.asn.au
@@ -4493,6 +4501,14 @@ DTEND:20231031T091500Z
 SUMMARY:Melbourne Park Street Tuesday Summer Series - Valley Lakes, Tuckonie Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19407
 GEO:-37.7486658536662;144.871714794073
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19679@eventor.orienteering.asn.au
+DTSTAMP:20231020T111425Z
+DTSTART:20231031T080000Z
+DTEND:20231031T080000Z
+SUMMARY:Night Nav - Currimundi, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19679
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19342@eventor.orienteering.asn.au
@@ -4616,6 +4632,14 @@ SUMMARY:Melbourne Park Street Tuesday Summer Series - Albert Park, Melbourne For
 URL:https://eventor.orienteering.asn.au/Events/Show/19424
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19680@eventor.orienteering.asn.au
+DTSTAMP:20231020T110730Z
+DTSTART:20231107T080000Z
+DTEND:20231107T080000Z
+SUMMARY:Night Nav - Buderim, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19680
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19511@eventor.orienteering.asn.au
 DTSTAMP:20231015T081523Z
 DTSTART:20231107T130000Z
@@ -4690,6 +4714,15 @@ DTEND:20231111T050000Z
 SUMMARY:Coffs Score #7 - Tree Fern Creek (Part 3), Bush n Beach Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19275
 GEO:-30.2807215490476;153.113255107105
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19670@eventor.orienteering.asn.au
+DTSTAMP:20231020T034307Z
+DTSTART:20231111T090000Z
+DTEND:20231111T101500Z
+SUMMARY:MetrO 1 Koondoola Bushland, Bibbulmun Orienteers / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/19670
+GEO:-31.8445480955387;115.86372449342
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19500@eventor.orienteering.asn.au
@@ -5043,7 +5076,7 @@ UID:Event_19145@eventor.orienteering.asn.au
 DTSTAMP:20230605T064813Z
 DTSTART:20231126T050000Z
 DTEND:20231126T060000Z
-SUMMARY:River and Bay Orienteering Series #6, NSW Stingers / Uringa Orienteers
+SUMMARY:River and Bay Orienteering Series #6, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19145
 END:VEVENT
 BEGIN:VEVENT
@@ -5186,7 +5219,7 @@ UID:Event_19146@eventor.orienteering.asn.au
 DTSTAMP:20230605T065018Z
 DTSTART:20231203T050000Z
 DTEND:20231203T060000Z
-SUMMARY:River and Bay Orienteering Series #7, Uringa Orienteers
+SUMMARY:River and Bay Orienteering Series #7, NSW Stingers / Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19146
 END:VEVENT
 BEGIN:VEVENT
