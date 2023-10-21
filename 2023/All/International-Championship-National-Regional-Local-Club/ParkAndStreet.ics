@@ -4393,6 +4393,7 @@ DTSTART:20231024T080000Z
 DTEND:20231024T080000Z
 SUMMARY:Night Nav - Coolum Beach, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19678
+GEO:-26.5396109147358;153.078904075788
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19620@eventor.orienteering.asn.au
@@ -4512,12 +4513,13 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19407
 GEO:-37.7486658536662;144.871714794073
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19679@eventor.orienteering.asn.au
-DTSTAMP:20231020T111425Z
+UID:Event_19681@eventor.orienteering.asn.au
+DTSTAMP:20231021T031123Z
 DTSTART:20231031T080000Z
 DTEND:20231031T080000Z
-SUMMARY:Night Nav - Currimundi, Sunshine Orienteers Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19679
+SUMMARY:Night Nav - Golden Beach, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19681
+GEO:-26.8173299313265;153.115189949203
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19342@eventor.orienteering.asn.au
@@ -4574,9 +4576,9 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19438
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19453@eventor.orienteering.asn.au
-DTSTAMP:20230828T062736Z
+DTSTAMP:20231020T203022Z
 DTSTART:20231104T220000Z
-DTEND:20231104T220000Z
+DTEND:20231104T233000Z
 SUMMARY:Central Coast Summer Series 1 - The Entrance, Central Coast Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19453
 GEO:-33.3376845890558;151.492716299605
@@ -4588,6 +4590,7 @@ DTSTART:20231105T050000Z
 DTEND:20231105T060000Z
 SUMMARY:River and Bay Orienteering Series #3, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19142
+GEO:-33.9236266841656;151.114675344511
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19654@eventor.orienteering.asn.au
@@ -4647,6 +4650,7 @@ DTSTART:20231107T080000Z
 DTEND:20231107T080000Z
 SUMMARY:Night Nav - Buderim, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19680
+GEO:-26.6787301280025;153.073756206071
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19511@eventor.orienteering.asn.au
@@ -4735,9 +4739,9 @@ GEO:-31.8445480955387;115.86372449342
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19500@eventor.orienteering.asn.au
-DTSTAMP:20230911T054752Z
+DTSTAMP:20231020T211832Z
 DTSTART:20231111T220000Z
-DTEND:20231111T220000Z
+DTEND:20231111T233000Z
 SUMMARY:Central Coast Summer Series 2 - Davistown, Central Coast Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19500
 GEO:-33.4865405324307;151.358123245192
@@ -4827,6 +4831,15 @@ DTSTART:20231114T073000Z
 DTEND:20231114T091500Z
 SUMMARY:Melbourne Park Street Tuesday Summer Series - Strathmore, Tuckonie Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19425
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19682@eventor.orienteering.asn.au
+DTSTAMP:20231021T052423Z
+DTSTART:20231114T080000Z
+DTEND:20231114T080000Z
+SUMMARY:Night Nav - Cooroy, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19682
+GEO:-26.4160879807345;152.909378199928
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19512@eventor.orienteering.asn.au
@@ -4936,6 +4949,7 @@ DTSTART:20231119T050000Z
 DTEND:20231119T060000Z
 SUMMARY:River and Bay Orienteering Series #5, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19144
+GEO:-33.9037067780198;151.11195187521
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19655@eventor.orienteering.asn.au
@@ -4978,6 +4992,15 @@ DTSTART:20231121T073000Z
 DTEND:20231121T091500Z
 SUMMARY:Melbourne Park Street Tuesday Summer Series - Paisley Park, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19426
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19679@eventor.orienteering.asn.au
+DTSTAMP:20231021T030854Z
+DTSTART:20231121T080000Z
+DTEND:20231121T080000Z
+SUMMARY:Night Nav - Currimundi, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19679
+GEO:-26.7654764636263;153.128849351602
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19513@eventor.orienteering.asn.au
@@ -5087,6 +5110,7 @@ DTSTART:20231126T050000Z
 DTEND:20231126T060000Z
 SUMMARY:River and Bay Orienteering Series #6, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19145
+GEO:-33.9241883126807;151.151172489072
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19633@eventor.orienteering.asn.au
@@ -5230,6 +5254,7 @@ DTSTART:20231203T050000Z
 DTEND:20231203T060000Z
 SUMMARY:River and Bay Orienteering Series #7, NSW Stingers / Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19146
+GEO:-33.9556064219004;151.202060313763
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19634@eventor.orienteering.asn.au

@@ -2211,6 +2211,7 @@ DTSTART:20231024T080000Z
 DTEND:20231024T080000Z
 SUMMARY:Night Nav - Coolum Beach, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19678
+GEO:-26.5396109147358;153.078904075788
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19626@eventor.orienteering.asn.au
@@ -2249,12 +2250,13 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19653
 GEO:-27.579699921641;151.970052277231
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19679@eventor.orienteering.asn.au
-DTSTAMP:20231020T111425Z
+UID:Event_19681@eventor.orienteering.asn.au
+DTSTAMP:20231021T031123Z
 DTSTART:20231031T080000Z
 DTEND:20231031T080000Z
-SUMMARY:Night Nav - Currimundi, Sunshine Orienteers Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19679
+SUMMARY:Night Nav - Golden Beach, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19681
+GEO:-26.8173299313265;153.115189949203
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18550@eventor.orienteering.asn.au
@@ -2315,6 +2317,7 @@ DTSTART:20231107T080000Z
 DTEND:20231107T080000Z
 SUMMARY:Night Nav - Buderim, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19680
+GEO:-26.6787301280025;153.073756206071
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19617@eventor.orienteering.asn.au
@@ -2353,6 +2356,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17610
 GEO:-27.386087412015;152.957263402985
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19682@eventor.orienteering.asn.au
+DTSTAMP:20231021T052423Z
+DTSTART:20231114T080000Z
+DTEND:20231114T080000Z
+SUMMARY:Night Nav - Cooroy, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19682
+GEO:-26.4160879807345;152.909378199928
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18470@eventor.orienteering.asn.au
 DTSTAMP:20231008T114511Z
 DTSTART:20231118T053000Z
@@ -2387,6 +2399,15 @@ DTEND:20231121T073000Z
 SUMMARY:Night Nav - Everton Hills, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/17611
 GEO:-27.3949246310069;152.97537154118
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19679@eventor.orienteering.asn.au
+DTSTAMP:20231021T030854Z
+DTSTART:20231121T080000Z
+DTEND:20231121T080000Z
+SUMMARY:Night Nav - Currimundi, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19679
+GEO:-26.7654764636263;153.128849351602
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18473@eventor.orienteering.asn.au
