@@ -191,22 +191,22 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18431
 GEO:-37.0163666491925;144.491889244321
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18346@eventor.orienteering.asn.au
-DTSTAMP:20230924T024759Z
-DTSTART:20231028T020000Z
-DTEND:20231028T043000Z
-SUMMARY:MTBO Vic Series #4 - Beechworth, Albury-Wodonga Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18346
-GEO:-36.3581713806538;146.694828031399
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18347@eventor.orienteering.asn.au
-DTSTAMP:20230925T031045Z
-DTSTART:20231028T230000Z
-DTEND:20231029T030000Z
-SUMMARY:MTBO Vic Series #5 and AWOC MTBO Champs - Stanley, Albury-Wodonga Orienteering Club
+DTSTAMP:20231022T015333Z
+DTSTART:20231028T020000Z
+DTEND:20231028T060000Z
+SUMMARY:MTBO Vic Series #4 and AWOC MTBO Champs - Stanley, Albury-Wodonga Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18347
 GEO:-36.4028961272823;146.75483542549
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18346@eventor.orienteering.asn.au
+DTSTAMP:20231022T015345Z
+DTSTART:20231028T230000Z
+DTEND:20231029T013000Z
+SUMMARY:MTBO Vic Series #5 - Beechworth, Albury-Wodonga Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18346
+GEO:-36.3581713806538;146.694828031399
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18348@eventor.orienteering.asn.au
