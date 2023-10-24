@@ -2170,7 +2170,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19625
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19491@eventor.orienteering.asn.au
-DTSTAMP:20230909T045458Z
+DTSTAMP:20231024T110339Z
 DTSTART:20231021T140000Z
 DTEND:20231022T140000Z
 SUMMARY:MapRun Parks 2023 - Edwards Park Carindale, Ugly Gully Orienteers
@@ -2197,9 +2197,9 @@ GEO:-28.0351036575412;151.985442420427
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19387@eventor.orienteering.asn.au
-DTSTAMP:20230817T054635Z
-DTSTART:20231024T073000Z
-DTEND:20231024T093000Z
+DTSTAMP:20231024T105619Z
+DTSTART:20231023T140000Z
+DTEND:20231024T140000Z
 SUMMARY:Night Nav - West End - season finale, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19387
 GEO:-27.489090258577;153.01285914223
@@ -2248,6 +2248,14 @@ DTEND:20231029T053000Z
 SUMMARY:Joseph Leadbetter Park, Toowoomba, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19653
 GEO:-27.579699921641;151.970052277231
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19497@eventor.orienteering.asn.au
+DTSTAMP:20231024T081819Z
+DTSTART:20231031T073000Z
+DTEND:20231031T093000Z
+SUMMARY:Night Nav - Ashgrove - Halloween special, Enoggeroos / Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19497
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19681@eventor.orienteering.asn.au
