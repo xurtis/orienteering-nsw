@@ -803,15 +803,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19620
 GEO:-41.4407031187427;147.146550347481
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19639@eventor.orienteering.asn.au
-DTSTAMP:20231015T030714Z
-DTSTART:20231024T130000Z
-DTEND:20231025T130000Z
-SUMMARY:Enter all Southern Spring Twilight Events at Discounted Rate, Australopers
-URL:https://eventor.orienteering.asn.au/Events/Show/19639
-GEO:-42.8817246834466;147.341695417581
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19244@eventor.orienteering.asn.au
 DTSTAMP:20231025T083505Z
 DTSTART:20231025T040000Z
@@ -828,6 +819,15 @@ DTEND:20231025T040000Z
 SUMMARY:Sandown Park - Hobart Spring Schools/Twilight #1, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/19237
 GEO:-42.9106493393726;147.356229372138
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19639@eventor.orienteering.asn.au
+DTSTAMP:20231026T061929Z
+DTSTART:20231031T130000Z
+DTEND:20231101T130000Z
+SUMMARY:Enter all Southern Spring Twilight Events at Discounted Rate, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/19639
+GEO:-42.8817246834466;147.341695417581
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19238@eventor.orienteering.asn.au
