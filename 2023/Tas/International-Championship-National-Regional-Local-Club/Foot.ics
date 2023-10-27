@@ -848,14 +848,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19245
 GEO:-41.4728623809163;147.125699846282
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19251@eventor.orienteering.asn.au
-DTSTAMP:20230629T020426Z
-DTSTART:20231106T130000Z
-DTEND:20231107T130000Z
-SUMMARY:North West Region - NW Spring Twilight #2, Pathfinders
-URL:https://eventor.orienteering.asn.au/Events/Show/19251
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19239@eventor.orienteering.asn.au
 DTSTAMP:20230629T011101Z
 DTSTART:20231108T040000Z
@@ -875,10 +867,10 @@ GEO:-41.4316149121489;147.130522548003
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19252@eventor.orienteering.asn.au
-DTSTAMP:20230629T020614Z
+DTSTAMP:20231027T040928Z
 DTSTART:20231114T040000Z
 DTEND:20231114T040000Z
-SUMMARY:North West Region - NW Spring Twilight #3, Pathfinders
+SUMMARY:Northwest Region - NW Spring Twilight #1, Pathfinders
 URL:https://eventor.orienteering.asn.au/Events/Show/19252
 END:VEVENT
 BEGIN:VEVENT
@@ -901,10 +893,10 @@ GEO:-41.408585478878;147.139407310109
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19253@eventor.orienteering.asn.au
-DTSTAMP:20230629T020910Z
+DTSTAMP:20231027T041038Z
 DTSTART:20231121T040000Z
 DTEND:20231121T040000Z
-SUMMARY:North West Region - NW Spring Twilight #4, Pathfinders
+SUMMARY:Northwest Region - NW Spring Twilight #2, Pathfinders
 URL:https://eventor.orienteering.asn.au/Events/Show/19253
 END:VEVENT
 BEGIN:VEVENT
@@ -927,10 +919,10 @@ GEO:-41.4029768492453;147.092876895036
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19250@eventor.orienteering.asn.au
-DTSTAMP:20231016T042434Z
+DTSTAMP:20231027T041116Z
 DTSTART:20231127T130000Z
 DTEND:20231128T130000Z
-SUMMARY:North West Region - NW Spring Twilight #1, Pathfinders
+SUMMARY:Northwest Region - NW Spring Twilight #3, Pathfinders
 URL:https://eventor.orienteering.asn.au/Events/Show/19250
 END:VEVENT
 BEGIN:VEVENT
@@ -950,5 +942,13 @@ DTEND:20231203T130000Z
 SUMMARY:Kingston Parklands - Southern Local #13 Christmas Event, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/18986
 GEO:-42.9742331089005;147.31419164702
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19251@eventor.orienteering.asn.au
+DTSTAMP:20231027T040847Z
+DTSTART:20231204T130000Z
+DTEND:20231205T130000Z
+SUMMARY:Northwest Region - NW Spring Twilight #4, Pathfinders
+URL:https://eventor.orienteering.asn.au/Events/Show/19251
 END:VEVENT
 END:VCALENDAR
