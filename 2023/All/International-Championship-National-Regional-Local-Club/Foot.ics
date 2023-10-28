@@ -8458,7 +8458,7 @@ GEO:-31.4862514154098;152.728126012966
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19249@eventor.orienteering.asn.au
-DTSTAMP:20230927T063328Z
+DTSTAMP:20231027T225352Z
 DTSTART:20231022T000000Z
 DTEND:20231022T030000Z
 SUMMARY:North West Region - NW Local - Buttons Beach, Pathfinders
@@ -8592,7 +8592,7 @@ GEO:-12.411806462373;130.82525354393
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19605@eventor.orienteering.asn.au
-DTSTAMP:20231012T034953Z
+DTSTAMP:20231028T010637Z
 DTSTART:20231027T223000Z
 DTEND:20231028T010000Z
 SUMMARY:SOS - St Leonards, Bold Horizons Event Organiser
@@ -8655,7 +8655,7 @@ GEO:-34.9476387580886;117.970740575281
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19141@eventor.orienteering.asn.au
-DTSTAMP:20231027T110641Z
+DTSTAMP:20231028T093727Z
 DTSTART:20231029T050000Z
 DTEND:20231029T060000Z
 SUMMARY:River and Bay Orienteering Series #2 Yarra Bay, Illawarra Kareelah Orienteers / Uringa Orienteers
@@ -8697,14 +8697,6 @@ DTEND:20231101T130000Z
 SUMMARY:Enter all Southern Spring Twilight Events at Discounted Rate, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/19639
 GEO:-42.8817246834466;147.341695417581
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18550@eventor.orienteering.asn.au
-DTSTAMP:20230124T054121Z
-DTSTART:20231031T230000Z
-DTEND:20231101T050000Z
-SUMMARY:Closed School Event, Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/18550
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19238@eventor.orienteering.asn.au
@@ -8961,6 +8953,15 @@ DTSTART:20231108T204500Z
 DTEND:20231108T214500Z
 SUMMARY:SC-ORE #3: Haig Park, Turner, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19287
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19717@eventor.orienteering.asn.au
+DTSTAMP:20231027T235712Z
+DTSTART:20231108T230000Z
+DTEND:20231109T043000Z
+SUMMARY:Closed School Event, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19717
+GEO:-27.7351472034373;152.766791140286
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19666@eventor.orienteering.asn.au
@@ -9457,21 +9458,21 @@ SUMMARY:Cyclones Sprint #1 - Brisbane Northside TBC, QLD Cyclones
 URL:https://eventor.orienteering.asn.au/Events/Show/18473
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19185@eventor.orienteering.asn.au
-DTSTAMP:20230822T071631Z
+UID:Event_19184@eventor.orienteering.asn.au
+DTSTAMP:20231028T101613Z
 DTSTART:20231125T130000Z
 DTEND:20231126T130000Z
-SUMMARY:Victorian Mass Start Sprint Race, Yarra Valley Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19185
-GEO:-37.7929298897588;145.19904990901
+SUMMARY:Victorian Sprint Championships - Individual, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19184
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19184@eventor.orienteering.asn.au
-DTSTAMP:20230811T001320Z
+UID:Event_19185@eventor.orienteering.asn.au
+DTSTAMP:20231028T102144Z
 DTSTART:20231125T130000Z
 DTEND:20231126T130000Z
-SUMMARY:Victorian Sprint Championships, Yarra Valley Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19184
+SUMMARY:Victorian Sprint Championships - Mad Dash, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19185
+GEO:-37.7929298897588;145.19904990901
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19658@eventor.orienteering.asn.au
@@ -9590,10 +9591,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19612
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19595@eventor.orienteering.asn.au
-DTSTAMP:20231017T212354Z
+DTSTAMP:20231028T071344Z
 DTSTART:20231201T073000Z
 DTEND:20231201T073000Z
-SUMMARY:Twilight Series Event #3 - Thorndon Park to the Torrens, Orienteering SA
+SUMMARY:Twilight Series Event #3 - Torrens Linear Park - Paradise - Athelstone, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/19595
 END:VEVENT
 BEGIN:VEVENT

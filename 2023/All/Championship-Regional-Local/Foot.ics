@@ -2984,14 +2984,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19626
 GEO:-26.4788176801078;152.771208313574
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18550@eventor.orienteering.asn.au
-DTSTAMP:20230124T054121Z
-DTSTART:20231031T230000Z
-DTEND:20231101T050000Z
-SUMMARY:Closed School Event, Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/18550
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19342@eventor.orienteering.asn.au
 DTSTAMP:20231027T054049Z
 DTSTART:20231101T053000Z
@@ -3061,6 +3053,15 @@ DTEND:20231108T080000Z
 SUMMARY:Twilight #2: Moran Oval, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19662
 GEO:-30.5272974549133;151.666773180121
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19717@eventor.orienteering.asn.au
+DTSTAMP:20231027T235712Z
+DTSTART:20231108T230000Z
+DTEND:20231109T043000Z
+SUMMARY:Closed School Event, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19717
+GEO:-27.7351472034373;152.766791140286
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19609@eventor.orienteering.asn.au
@@ -3184,21 +3185,21 @@ SUMMARY:Berry, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18697
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19185@eventor.orienteering.asn.au
-DTSTAMP:20230822T071631Z
+UID:Event_19184@eventor.orienteering.asn.au
+DTSTAMP:20231028T101613Z
 DTSTART:20231125T130000Z
 DTEND:20231126T130000Z
-SUMMARY:Victorian Mass Start Sprint Race, Yarra Valley Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19185
-GEO:-37.7929298897588;145.19904990901
+SUMMARY:Victorian Sprint Championships - Individual, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19184
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19184@eventor.orienteering.asn.au
-DTSTAMP:20230811T001320Z
+UID:Event_19185@eventor.orienteering.asn.au
+DTSTAMP:20231028T102144Z
 DTSTART:20231125T130000Z
 DTEND:20231126T130000Z
-SUMMARY:Victorian Sprint Championships, Yarra Valley Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19184
+SUMMARY:Victorian Sprint Championships - Mad Dash, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19185
+GEO:-37.7929298897588;145.19904990901
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19658@eventor.orienteering.asn.au

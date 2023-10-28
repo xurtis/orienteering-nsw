@@ -408,19 +408,20 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19626
 GEO:-26.4788176801078;152.771208313574
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_18550@eventor.orienteering.asn.au
-DTSTAMP:20230124T054121Z
-DTSTART:20231031T230000Z
-DTEND:20231101T050000Z
-SUMMARY:Closed School Event, Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/18550
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19683@eventor.orienteering.asn.au
 DTSTAMP:20231022T223951Z
 DTSTART:20231102T230000Z
 DTEND:20231103T040000Z
 SUMMARY:Closed School Event, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19683
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19717@eventor.orienteering.asn.au
+DTSTAMP:20231027T235712Z
+DTSTART:20231108T230000Z
+DTEND:20231109T043000Z
+SUMMARY:Closed School Event, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19717
+GEO:-27.7351472034373;152.766791140286
 END:VEVENT
 END:VCALENDAR
