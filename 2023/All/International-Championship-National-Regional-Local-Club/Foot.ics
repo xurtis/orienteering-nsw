@@ -8885,7 +8885,7 @@ GEO:-26.6787301280025;153.073756206071
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19511@eventor.orienteering.asn.au
-DTSTAMP:20231015T081523Z
+DTSTAMP:20231108T101845Z
 DTSTART:20231107T130000Z
 DTEND:20231108T130000Z
 SUMMARY:Macedon Ranges Twilight Series - #1 MACEDON:  Ash Wednesday park , Central Highlands Orienteering Club
@@ -8894,7 +8894,7 @@ GEO:-37.4222347876667;144.5623160954
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19239@eventor.orienteering.asn.au
-DTSTAMP:20231103T004327Z
+DTSTAMP:20231108T063558Z
 DTSTART:20231108T040000Z
 DTEND:20231108T040000Z
 SUMMARY:Knocklofty - Hobart Spring Schools/Twilight #3, Australopers
@@ -8921,7 +8921,7 @@ GEO:-35.2508494555068;149.106408207957
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19343@eventor.orienteering.asn.au
-DTSTAMP:20231106T210031Z
+DTSTAMP:20231108T085504Z
 DTSTART:20231108T053000Z
 DTEND:20231108T083000Z
 SUMMARY:2023/24 Sydney Summer Series #6 - Lane Cove, Garingal Orienteers
@@ -8929,22 +8929,22 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19343
 GEO:-33.8134667615189;151.144357129781
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19662@eventor.orienteering.asn.au
+DTSTAMP:20231108T044434Z
+DTSTART:20231108T060000Z
+DTEND:20231108T080000Z
+SUMMARY:Twilight #2: Moran Oval, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19662
+GEO:-30.5272974549133;151.666773180121
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19198@eventor.orienteering.asn.au
-DTSTAMP:20231031T020837Z
+DTSTAMP:20231108T082652Z
 DTSTART:20231108T060000Z
 DTEND:20231108T083000Z
 SUMMARY:ACT Runners Shop Twilight Series #3: O'Connor Ridge, Abominable O-Men
 URL:https://eventor.orienteering.asn.au/Events/Show/19198
 GEO:-35.2503858937602;149.106510672833
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19662@eventor.orienteering.asn.au
-DTSTAMP:20231103T040827Z
-DTSTART:20231108T063000Z
-DTEND:20231108T080000Z
-SUMMARY:Twilight #2: Moran Oval, Northern Tablelands Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19662
-GEO:-30.5272974549133;151.666773180121
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19287@eventor.orienteering.asn.au
@@ -9015,15 +9015,6 @@ SUMMARY: Learn to Orienteer, Week 4, Central Highlands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19623
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19617@eventor.orienteering.asn.au
-DTSTAMP:20231009T062620Z
-DTSTART:20231111T230000Z
-DTEND:20231112T000000Z
-SUMMARY:Park orienteering at Gold Coast Regional Botanic Gardens, Paradise Lost Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19617
-GEO:-28.0089478133558;153.388373526769
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19716@eventor.orienteering.asn.au
 DTSTAMP:20231027T014404Z
 DTSTART:20231111T230000Z
@@ -9031,6 +9022,15 @@ DTEND:20231112T010000Z
 SUMMARY:'Fun' teering @ Alice Miller, Central Highlands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19716
 GEO:-37.4455299977533;144.533209765896
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19617@eventor.orienteering.asn.au
+DTSTAMP:20231108T002837Z
+DTSTART:20231111T230000Z
+DTEND:20231112T010000Z
+SUMMARY:Park orienteering at Gold Coast Regional Botanic Gardens, Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19617
+GEO:-28.0089478133558;153.388373526769
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18434@eventor.orienteering.asn.au
@@ -9070,7 +9070,7 @@ GEO:-27.5244202755005;152.963971999481
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19642@eventor.orienteering.asn.au
-DTSTAMP:20231106T012202Z
+DTSTAMP:20231108T110412Z
 DTSTART:20231112T053000Z
 DTEND:20231112T063000Z
 SUMMARY:Park-O #2 Fig Tree Pocket (Combined event with MapRun Parks), Ugly Gully Orienteers
@@ -9167,6 +9167,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19344
 GEO:-33.7118935298243;151.030345349631
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19663@eventor.orienteering.asn.au
+DTSTAMP:20231108T045027Z
+DTSTART:20231115T060000Z
+DTEND:20231115T080000Z
+SUMMARY:Twilight #3: Netball Courts, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19663
+GEO:-30.5272917680321;151.648144557178
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19199@eventor.orienteering.asn.au
 DTSTAMP:20230922T020246Z
 DTSTART:20231115T060000Z
@@ -9174,15 +9183,6 @@ DTEND:20231115T083000Z
 SUMMARY:ACT Runners Shop Twilight Series #4: Gossan Hill, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19199
 GEO:-35.2428632382684;149.084802013225
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19663@eventor.orienteering.asn.au
-DTSTAMP:20231019T105617Z
-DTSTART:20231115T063000Z
-DTEND:20231115T080000Z
-SUMMARY:Twilight #3: Netball Courts, Northern Tablelands Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19663
-GEO:-30.5272917680321;151.648144557178
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19288@eventor.orienteering.asn.au
@@ -9439,6 +9439,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19345
 GEO:-33.7564761531827;151.238010417578
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19664@eventor.orienteering.asn.au
+DTSTAMP:20231108T045307Z
+DTSTART:20231122T060000Z
+DTEND:20231122T080000Z
+SUMMARY:Twilight #4: Curtis Park, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19664
+GEO:-30.5110237059036;151.668491019149
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19200@eventor.orienteering.asn.au
 DTSTAMP:20230922T020248Z
 DTSTART:20231122T060000Z
@@ -9446,15 +9455,6 @@ DTEND:20231122T083000Z
 SUMMARY:ACT Runners Shop Twilight Series #5: Yarramundi Reach, Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/19200
 GEO:-35.2920644935214;149.080860537369
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19664@eventor.orienteering.asn.au
-DTSTAMP:20231019T064148Z
-DTSTART:20231122T063000Z
-DTEND:20231122T080000Z
-SUMMARY:Twilight #4: Curtis Park, Northern Tablelands Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19664
-GEO:-30.5110237059036;151.668491019149
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19668@eventor.orienteering.asn.au
@@ -9625,6 +9625,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19346
 GEO:-33.8396906735827;151.128083387207
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19665@eventor.orienteering.asn.au
+DTSTAMP:20231108T045341Z
+DTSTART:20231129T060000Z
+DTEND:20231129T080000Z
+SUMMARY:Twilight #5: Bruce Browning Oval, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19665
+GEO:-30.5017259102717;151.675889327228
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19201@eventor.orienteering.asn.au
 DTSTAMP:20230922T020250Z
 DTSTART:20231129T060000Z
@@ -9632,15 +9641,6 @@ DTEND:20231129T083000Z
 SUMMARY:ACT Runners Shop Twilight Series #6: Bruce Ridge, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19201
 GEO:-35.2508664893582;149.106235645722
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19665@eventor.orienteering.asn.au
-DTSTAMP:20231019T064443Z
-DTSTART:20231129T063000Z
-DTEND:20231129T080000Z
-SUMMARY:Twilight #5: Bruce Browning Oval, Northern Tablelands Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19665
-GEO:-30.5017259102717;151.675889327228
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19612@eventor.orienteering.asn.au
@@ -9798,7 +9798,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19596
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18474@eventor.orienteering.asn.au
-DTSTAMP:20231104T004602Z
+DTSTAMP:20231108T023732Z
 DTSTART:20231209T053000Z
 DTEND:20231209T073000Z
 SUMMARY:Cyclones Sprint #3 - Ferny Grove SHS, QLD Cyclones
@@ -9913,6 +9913,15 @@ DTSTART:20231216T220100Z
 DTEND:20231216T220200Z
 SUMMARY:ACT Sprint Series Season Pass, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19641
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19749@eventor.orienteering.asn.au
+DTSTAMP:20231108T104023Z
+DTSTART:20231216T223000Z
+DTEND:20231216T223000Z
+SUMMARY:Big Foot Sprints XXVI, Big Foot Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19749
+GEO:-33.7074072102621;151.178276085632
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19499@eventor.orienteering.asn.au

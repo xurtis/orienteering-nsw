@@ -3517,7 +3517,7 @@ GEO:-35.1965480370571;149.143720715721
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19343@eventor.orienteering.asn.au
-DTSTAMP:20231106T210031Z
+DTSTAMP:20231108T085504Z
 DTSTART:20231108T053000Z
 DTEND:20231108T083000Z
 SUMMARY:2023/24 Sydney Summer Series #6 - Lane Cove, Garingal Orienteers
@@ -3526,7 +3526,7 @@ GEO:-33.8134667615189;151.144357129781
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19525@eventor.orienteering.asn.au
-DTSTAMP:20231105T205325Z
+DTSTAMP:20231108T111634Z
 DTSTART:20231108T060000Z
 DTEND:20231108T060000Z
 SUMMARY:Newcastle Summer Street Series #4 - Caves Beach, Newcastle Orienteering Club
@@ -3534,22 +3534,22 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19525
 GEO:-33.1042801767235;151.649188691142
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19662@eventor.orienteering.asn.au
+DTSTAMP:20231108T044434Z
+DTSTART:20231108T060000Z
+DTEND:20231108T080000Z
+SUMMARY:Twilight #2: Moran Oval, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19662
+GEO:-30.5272974549133;151.666773180121
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19198@eventor.orienteering.asn.au
-DTSTAMP:20231031T020837Z
+DTSTAMP:20231108T082652Z
 DTSTART:20231108T060000Z
 DTEND:20231108T083000Z
 SUMMARY:ACT Runners Shop Twilight Series #3: O'Connor Ridge, Abominable O-Men
 URL:https://eventor.orienteering.asn.au/Events/Show/19198
 GEO:-35.2503858937602;149.106510672833
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19662@eventor.orienteering.asn.au
-DTSTAMP:20231103T040827Z
-DTSTART:20231108T063000Z
-DTEND:20231108T080000Z
-SUMMARY:Twilight #2: Moran Oval, Northern Tablelands Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19662
-GEO:-30.5272974549133;151.666773180121
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19717@eventor.orienteering.asn.au
@@ -3615,6 +3615,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19526
 GEO:-32.9381558354931;151.662766646956
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19663@eventor.orienteering.asn.au
+DTSTAMP:20231108T045027Z
+DTSTART:20231115T060000Z
+DTEND:20231115T080000Z
+SUMMARY:Twilight #3: Netball Courts, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19663
+GEO:-30.5272917680321;151.648144557178
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19199@eventor.orienteering.asn.au
 DTSTAMP:20230922T020246Z
 DTSTART:20231115T060000Z
@@ -3622,15 +3631,6 @@ DTEND:20231115T083000Z
 SUMMARY:ACT Runners Shop Twilight Series #4: Gossan Hill, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19199
 GEO:-35.2428632382684;149.084802013225
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19663@eventor.orienteering.asn.au
-DTSTAMP:20231019T105617Z
-DTSTART:20231115T063000Z
-DTEND:20231115T080000Z
-SUMMARY:Twilight #3: Netball Courts, Northern Tablelands Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19663
-GEO:-30.5272917680321;151.648144557178
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19688@eventor.orienteering.asn.au
@@ -3703,6 +3703,15 @@ SUMMARY:Newcastle 2023-24 Summer Street Series #6, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19527
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19664@eventor.orienteering.asn.au
+DTSTAMP:20231108T045307Z
+DTSTART:20231122T060000Z
+DTEND:20231122T080000Z
+SUMMARY:Twilight #4: Curtis Park, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19664
+GEO:-30.5110237059036;151.668491019149
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19200@eventor.orienteering.asn.au
 DTSTAMP:20230922T020248Z
 DTSTART:20231122T060000Z
@@ -3710,15 +3719,6 @@ DTEND:20231122T083000Z
 SUMMARY:ACT Runners Shop Twilight Series #5: Yarramundi Reach, Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/19200
 GEO:-35.2920644935214;149.080860537369
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19664@eventor.orienteering.asn.au
-DTSTAMP:20231019T064148Z
-DTSTART:20231122T063000Z
-DTEND:20231122T080000Z
-SUMMARY:Twilight #4: Curtis Park, Northern Tablelands Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19664
-GEO:-30.5110237059036;151.668491019149
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19611@eventor.orienteering.asn.au
@@ -3809,6 +3809,15 @@ SUMMARY:Newcastle 2023-24 Summer Street Series #7, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19528
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19665@eventor.orienteering.asn.au
+DTSTAMP:20231108T045341Z
+DTSTART:20231129T060000Z
+DTEND:20231129T080000Z
+SUMMARY:Twilight #5: Bruce Browning Oval, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19665
+GEO:-30.5017259102717;151.675889327228
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19201@eventor.orienteering.asn.au
 DTSTAMP:20230922T020250Z
 DTSTART:20231129T060000Z
@@ -3816,15 +3825,6 @@ DTEND:20231129T083000Z
 SUMMARY:ACT Runners Shop Twilight Series #6: Bruce Ridge, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19201
 GEO:-35.2508664893582;149.106235645722
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19665@eventor.orienteering.asn.au
-DTSTAMP:20231019T064443Z
-DTSTART:20231129T063000Z
-DTEND:20231129T080000Z
-SUMMARY:Twilight #5: Bruce Browning Oval, Northern Tablelands Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19665
-GEO:-30.5017259102717;151.675889327228
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19612@eventor.orienteering.asn.au

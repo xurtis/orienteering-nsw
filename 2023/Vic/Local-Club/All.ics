@@ -2512,12 +2512,21 @@ GEO:-37.8389359398326;144.943794536963
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19511@eventor.orienteering.asn.au
-DTSTAMP:20231015T081523Z
+DTSTAMP:20231108T101845Z
 DTSTART:20231107T130000Z
 DTEND:20231108T130000Z
 SUMMARY:Macedon Ranges Twilight Series - #1 MACEDON:  Ash Wednesday park , Central Highlands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19511
 GEO:-37.4222347876667;144.5623160954
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19745@eventor.orienteering.asn.au
+DTSTAMP:20231108T000634Z
+DTSTART:20231108T063000Z
+DTEND:20231108T080000Z
+SUMMARY:Albury-Wodonga Park & Street - Bears Hill MapRun, Albury-Wodonga Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19745
+GEO:-36.1468119295624;146.884322838423
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19429@eventor.orienteering.asn.au
@@ -2556,10 +2565,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19623
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19444@eventor.orienteering.asn.au
-DTSTAMP:20231025T062530Z
+DTSTAMP:20231108T095036Z
 DTSTART:20231111T230000Z
 DTEND:20231112T001500Z
-SUMMARY:Mornington Peninsula Sunday MapRun - Capel Sound, Bayside Kangaroos Orienteers
+SUMMARY:Mornington Peninsula Sunday MapRun - Tootgarook, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19444
 GEO:-38.3693744538739;144.859833954607
 END:VEVENT
@@ -2607,6 +2616,15 @@ DTEND:20231115T130000Z
 SUMMARY:Macedon Ranges Twilight Series - #2 KYNETON:  Barry Doyle Rotunda, Central Highlands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19512
 GEO:-37.2438072217795;144.443398156842
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19746@eventor.orienteering.asn.au
+DTSTAMP:20231108T000732Z
+DTSTART:20231115T063000Z
+DTEND:20231115T080000Z
+SUMMARY:Albury-Wodonga Park & Street - Thurgoona MapRun, Albury-Wodonga Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19746
+GEO:-36.0469821651803;146.987125527681
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19430@eventor.orienteering.asn.au
@@ -2699,6 +2717,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19513
 GEO:-37.3544084993508;144.531206549905
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19747@eventor.orienteering.asn.au
+DTSTAMP:20231108T000417Z
+DTSTART:20231122T063000Z
+DTEND:20231122T080000Z
+SUMMARY:Albury-Wodonga Park & Street - Felltimber MapRun, Albury-Wodonga Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19747
+GEO:-36.1165125216898;146.840277235755
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19431@eventor.orienteering.asn.au
 DTSTAMP:20231025T063551Z
 DTSTART:20231122T073000Z
@@ -2751,6 +2778,15 @@ DTEND:20231129T130000Z
 SUMMARY:Macedon Ranges Twilight Series - #4 ROMSEY - Lions Reserve , Central Highlands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19514
 GEO:-37.3556753484042;144.744138259887
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19748@eventor.orienteering.asn.au
+DTSTAMP:20231108T001222Z
+DTSTART:20231129T063000Z
+DTEND:20231129T080000Z
+SUMMARY:Albury-Wodonga Park & Street - Glenroy MapRun, Albury-Wodonga Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19748
+GEO:-36.0470732487903;146.916221817643
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19432@eventor.orienteering.asn.au
