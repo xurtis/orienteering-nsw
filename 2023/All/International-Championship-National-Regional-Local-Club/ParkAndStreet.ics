@@ -4693,7 +4693,7 @@ GEO:-33.8134667615189;151.144357129781
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19525@eventor.orienteering.asn.au
-DTSTAMP:20231108T111634Z
+DTSTAMP:20231109T025602Z
 DTSTART:20231108T060000Z
 DTEND:20231108T060000Z
 SUMMARY:Newcastle Summer Street Series #4 - Caves Beach, Newcastle Orienteering Club
@@ -4765,7 +4765,7 @@ GEO:-30.2807215490476;153.113255107105
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19670@eventor.orienteering.asn.au
-DTSTAMP:20231107T054606Z
+DTSTAMP:20231109T094634Z
 DTSTART:20231111T090000Z
 DTEND:20231111T101500Z
 SUMMARY:MetrO 1 Koondoola Bushland, Bibbulmun Orienteers / Orienteering WA
@@ -4891,7 +4891,7 @@ GEO:-37.2438072217795;144.443398156842
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19344@eventor.orienteering.asn.au
-DTSTAMP:20231107T004427Z
+DTSTAMP:20231109T001233Z
 DTSTART:20231115T053000Z
 DTEND:20231115T083000Z
 SUMMARY:2023/24 Sydney Summer Series #7 - South Dural  NEW MAP, Western and Hills Orienteers
@@ -4899,22 +4899,22 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19344
 GEO:-33.7118935298243;151.030345349631
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19526@eventor.orienteering.asn.au
-DTSTAMP:20231029T212543Z
-DTSTART:20231115T060000Z
-DTEND:20231115T060000Z
-SUMMARY:Newcastle Summer Street Series #5 - Cardiff North, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19526
-GEO:-32.9381558354931;151.662766646956
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19663@eventor.orienteering.asn.au
-DTSTAMP:20231108T045027Z
+DTSTAMP:20231109T063228Z
 DTSTART:20231115T060000Z
 DTEND:20231115T080000Z
 SUMMARY:Twilight #3: Netball Courts, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19663
 GEO:-30.5272917680321;151.648144557178
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19526@eventor.orienteering.asn.au
+DTSTAMP:20231109T070213Z
+DTSTART:20231115T060000Z
+DTEND:20231115T081500Z
+SUMMARY:Newcastle Summer Street Series #5 - Cardiff North, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19526
+GEO:-32.9381558354931;151.662766646956
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19746@eventor.orienteering.asn.au
@@ -4978,6 +4978,15 @@ DTEND:20231118T053000Z
 SUMMARY:Park-O #3 - Spring Mountain Reserve, Greenbank - LCC, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18470
 GEO:-27.7391926199221;152.92262347445
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19753@eventor.orienteering.asn.au
+DTSTAMP:20231109T093151Z
+DTSTART:20231118T090000Z
+DTEND:20231118T101500Z
+SUMMARY:MetrO 2 High Wycombe, Bibbulmun Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19753
+GEO:-31.9447340627323;115.996397186447
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19501@eventor.orienteering.asn.au
@@ -5395,6 +5404,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17613
 GEO:-27.3958768795048;153.001668274955
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19751@eventor.orienteering.asn.au
+DTSTAMP:20231109T032538Z
+DTSTART:20231205T080000Z
+DTEND:20231205T080000Z
+SUMMARY:Night Nav - Cranks Creek (Noosaville), Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19751
+GEO:-26.4098350851177;153.030068959075
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19515@eventor.orienteering.asn.au
 DTSTAMP:20231015T082007Z
 DTSTART:20231205T130000Z
@@ -5512,6 +5530,14 @@ DTEND:20231212T093000Z
 SUMMARY:Night Nav - Clayfied - BCC, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/17614
 GEO:-27.4290877212154;153.057710928518
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19752@eventor.orienteering.asn.au
+DTSTAMP:20231109T045709Z
+DTSTART:20231212T080000Z
+DTEND:20231212T080000Z
+SUMMARY:Night Nav - Moffat Beach, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19752
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19362@eventor.orienteering.asn.au
