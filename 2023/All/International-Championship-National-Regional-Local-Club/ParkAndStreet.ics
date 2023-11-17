@@ -4972,7 +4972,7 @@ GEO:-37.7125925962913;145.045951720444
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19610@eventor.orienteering.asn.au
-DTSTAMP:20231116T032849Z
+DTSTAMP:20231116T233713Z
 DTSTART:20231117T070000Z
 DTEND:20231117T083000Z
 SUMMARY:Goldseekers Park Series 2023 #2 - Gosling Creek, Goldseekers Orienteers
@@ -4999,7 +4999,7 @@ GEO:-27.7391926199221;152.92262347445
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19753@eventor.orienteering.asn.au
-DTSTAMP:20231112T082323Z
+DTSTAMP:20231117T082336Z
 DTSTART:20231118T090000Z
 DTEND:20231118T101500Z
 SUMMARY:MetrO 2 High Wycombe, Bibbulmun Orienteers / Orienteering WA
@@ -5398,24 +5398,6 @@ SUMMARY:MetrO 4 Churchlands, Orienteering WA / Wullundigong Orienteers of the We
 URL:https://eventor.orienteering.asn.au/Events/Show/19782
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19780@eventor.orienteering.asn.au
-DTSTAMP:20231116T103721Z
-DTSTART:20231202T090000Z
-DTEND:20231202T101500Z
-SUMMARY:MetrO 5 Churchlands, Wullundigong Orienteers of the West
-URL:https://eventor.orienteering.asn.au/Events/Show/19780
-GEO:-31.9221481370751;115.787491253189
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19781@eventor.orienteering.asn.au
-DTSTAMP:20231116T104722Z
-DTSTART:20231202T090000Z
-DTEND:20231202T101500Z
-SUMMARY:MetrO 5 Churchlands, Wullundigong Orienteers of the West
-URL:https://eventor.orienteering.asn.au/Events/Show/19781
-GEO:-31.9222709223034;115.78762441587
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19659@eventor.orienteering.asn.au
 DTSTAMP:20231102T235932Z
 DTSTART:20231202T220000Z
@@ -5672,13 +5654,22 @@ SUMMARY:Twilight Series Event #5 - Oaklands Reserve, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/19597
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19783@eventor.orienteering.asn.au
+DTSTAMP:20231117T032820Z
+DTSTART:20231216T090000Z
+DTEND:20231216T101500Z
+SUMMARY:MetrO 6 Karawara, Bibbulmun Orienteers / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/19783
+GEO:-32.0105609658678;115.87717694561
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19638@eventor.orienteering.asn.au
 DTSTAMP:20231014T015827Z
 DTSTART:20231216T160000Z
 DTEND:20231217T160000Z
-SUMMARY:Christmas Special, LOST
+SUMMARY:Christmas Special, LOST / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/19638
-GEO:-31.9548387103232;115.837068977675
+GEO:-31.9549274649933;115.837232592425
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18601@eventor.orienteering.asn.au
