@@ -11974,7 +11974,7 @@ GEO:-37.6313198948091;144.851320289953
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19610@eventor.orienteering.asn.au
-DTSTAMP:20231116T233713Z
+DTSTAMP:20231118T001613Z
 DTSTART:20231117T070000Z
 DTEND:20231117T083000Z
 SUMMARY:Goldseekers Park Series 2023 #2 - Gosling Creek, Goldseekers Orienteers
@@ -11983,7 +11983,7 @@ GEO:-33.325250504174;149.08592050127
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19593@eventor.orienteering.asn.au
-DTSTAMP:20231103T040443Z
+DTSTAMP:20231117T230800Z
 DTSTART:20231117T073000Z
 DTEND:20231117T093000Z
 SUMMARY:Twilight Series Event #1 - Northeastern Adelaide Parklands, Orienteering SA
@@ -11992,7 +11992,7 @@ GEO:-34.9053417214557;138.600800459392
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19608@eventor.orienteering.asn.au
-DTSTAMP:20231024T032952Z
+DTSTAMP:20231118T005558Z
 DTSTART:20231117T223000Z
 DTEND:20231118T010000Z
 SUMMARY:SOS - Carlingford, Bold Horizons Event Organiser
@@ -12001,7 +12001,7 @@ GEO:-33.781588;151.041618
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18470@eventor.orienteering.asn.au
-DTSTAMP:20231113T102542Z
+DTSTAMP:20231118T065613Z
 DTSTART:20231118T050000Z
 DTEND:20231118T063000Z
 SUMMARY:Park-O #3 - Spring Mountain Reserve, Greenbank - LCC, Ugly Gully Orienteers
@@ -12019,7 +12019,7 @@ GEO:-36.7571543227089;144.259262104985
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19753@eventor.orienteering.asn.au
-DTSTAMP:20231117T082336Z
+DTSTAMP:20231118T101653Z
 DTSTART:20231118T090000Z
 DTEND:20231118T101500Z
 SUMMARY:MetrO 2 High Wycombe, Bibbulmun Orienteers / Orienteering WA
@@ -12060,7 +12060,7 @@ DTSTART:20231118T223000Z
 DTEND:20231119T030000Z
 SUMMARY:AWOC DuO Championships, Albury-Wodonga Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19069
-GEO:-36.1519398989539;146.609780636971
+GEO:-36.1540664004911;146.610345805629
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19771@eventor.orienteering.asn.au
@@ -12240,14 +12240,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19345
 GEO:-33.7564761531827;151.238010417578
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19527@eventor.orienteering.asn.au
-DTSTAMP:20230920T034537Z
-DTSTART:20231122T060000Z
-DTEND:20231122T060000Z
-SUMMARY:Newcastle 2023-24 Summer Street Series #6, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19527
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19664@eventor.orienteering.asn.au
 DTSTAMP:20231108T045307Z
 DTSTART:20231122T060000Z
@@ -12255,6 +12247,15 @@ DTEND:20231122T080000Z
 SUMMARY:Twilight #4: Curtis Park, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19664
 GEO:-30.5110237059036;151.668491019149
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19527@eventor.orienteering.asn.au
+DTSTAMP:20231118T052008Z
+DTSTART:20231122T060000Z
+DTEND:20231122T081500Z
+SUMMARY:Newcastle Summer Street Series #6 - Fletcher North, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19527
+GEO:-32.8675627841052;151.6414985684
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19200@eventor.orienteering.asn.au
@@ -12632,11 +12633,12 @@ GEO:-27.4787105304077;153.028481769895
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19782@eventor.orienteering.asn.au
-DTSTAMP:20231116T105226Z
+DTSTAMP:20231117T223500Z
 DTSTART:20231202T090000Z
 DTEND:20231202T101500Z
 SUMMARY:MetrO 4 Churchlands, Orienteering WA / Wullundigong Orienteers of the West
 URL:https://eventor.orienteering.asn.au/Events/Show/19782
+GEO:-31.9296841874433;115.804415487683
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18986@eventor.orienteering.asn.au
@@ -12855,7 +12857,7 @@ GEO:-27.4065819276843;152.933777971801
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19775@eventor.orienteering.asn.au
-DTSTAMP:20231116T102602Z
+DTSTAMP:20231117T224122Z
 DTSTART:20231209T090000Z
 DTEND:20231209T101500Z
 SUMMARY:MetrO 5 Lake Monger, LOST / Orienteering WA
@@ -13193,12 +13195,39 @@ SUMMARY:Melbourne Park Street Thursday Summer Series - Doncaster Heights, Yarra 
 URL:https://eventor.orienteering.asn.au/Events/Show/19469
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19820@eventor.orienteering.asn.au
+DTSTAMP:20231118T002943Z
+DTSTART:20231225T140000Z
+DTEND:20231226T140000Z
+SUMMARY:Santa 6 Days 2023 - Event 1 - City Botanic Gardens (Gardens Point), Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19820
+GEO:-27.47389988133;153.028946019327
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19821@eventor.orienteering.asn.au
+DTSTAMP:20231118T003939Z
+DTSTART:20231226T140000Z
+DTEND:20231227T140000Z
+SUMMARY:Santa 6 Days 2023 - Event 2 -  Bowman Park, Bardon, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19821
+GEO:-27.4590930314272;152.977820491185
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19466@eventor.orienteering.asn.au
 DTSTAMP:20230901T054157Z
 DTSTART:20231227T073000Z
 DTEND:20231227T091500Z
 SUMMARY:Melbourne Park Street Wednesday Summer Series - Blackburn South, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19466
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19822@eventor.orienteering.asn.au
+DTSTAMP:20231118T005148Z
+DTSTART:20231227T140000Z
+DTEND:20231228T140000Z
+SUMMARY:Santa 6 Days 2023 - Event 3 -  Underwood Park, Underwood, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19822
+GEO:-27.600991647992;153.145266648162
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19470@eventor.orienteering.asn.au
@@ -13209,11 +13238,38 @@ SUMMARY:Melbourne Park Street Thursday Summer Series - Edwardes Lake, Nillumbik 
 URL:https://eventor.orienteering.asn.au/Events/Show/19470
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19823@eventor.orienteering.asn.au
+DTSTAMP:20231118T010928Z
+DTSTART:20231228T140000Z
+DTEND:20231229T140000Z
+SUMMARY:Santa 6 Days 2023 - Event 4 - Cicada Park, Chapel Hill, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19823
+GEO:-27.4949645290146;152.94171724569
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19824@eventor.orienteering.asn.au
+DTSTAMP:20231118T011632Z
+DTSTART:20231229T140000Z
+DTEND:20231230T140000Z
+SUMMARY:Santa 6 Days 2023 - Event 5 - Stockyard Creek, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19824
+GEO:-27.5706951912065;153.164026211711
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_17077@eventor.orienteering.asn.au
 DTSTAMP:20230527T183604Z
 DTSTART:20231230T130000Z
 DTEND:20231231T130000Z
 SUMMARY:Newcastle Orienteering Club Communication 2023, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/17077
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19825@eventor.orienteering.asn.au
+DTSTAMP:20231118T013855Z
+DTSTART:20231230T140000Z
+DTEND:20231231T140000Z
+SUMMARY:Santa 6 Days 2023 - Event 6 - Seven Hills, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19825
+GEO:-27.4770363971921;153.081221973447
 END:VEVENT
 END:VCALENDAR

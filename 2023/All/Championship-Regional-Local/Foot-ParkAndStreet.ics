@@ -3643,7 +3643,7 @@ GEO:-31.9360338961518;115.842855828692
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19610@eventor.orienteering.asn.au
-DTSTAMP:20231116T233713Z
+DTSTAMP:20231118T001613Z
 DTSTART:20231117T070000Z
 DTEND:20231117T083000Z
 SUMMARY:Goldseekers Park Series 2023 #2 - Gosling Creek, Goldseekers Orienteers
@@ -3695,14 +3695,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19345
 GEO:-33.7564761531827;151.238010417578
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19527@eventor.orienteering.asn.au
-DTSTAMP:20230920T034537Z
-DTSTART:20231122T060000Z
-DTEND:20231122T060000Z
-SUMMARY:Newcastle 2023-24 Summer Street Series #6, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19527
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19664@eventor.orienteering.asn.au
 DTSTAMP:20231108T045307Z
 DTSTART:20231122T060000Z
@@ -3710,6 +3702,15 @@ DTEND:20231122T080000Z
 SUMMARY:Twilight #4: Curtis Park, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19664
 GEO:-30.5110237059036;151.668491019149
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19527@eventor.orienteering.asn.au
+DTSTAMP:20231118T052008Z
+DTSTART:20231122T060000Z
+DTEND:20231122T081500Z
+SUMMARY:Newcastle Summer Street Series #6 - Fletcher North, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19527
+GEO:-32.8675627841052;151.6414985684
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19200@eventor.orienteering.asn.au

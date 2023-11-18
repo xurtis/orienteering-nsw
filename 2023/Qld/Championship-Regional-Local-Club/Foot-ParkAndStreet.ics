@@ -2402,7 +2402,7 @@ GEO:-19.2409514139744;146.80248698317
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18470@eventor.orienteering.asn.au
-DTSTAMP:20231113T102542Z
+DTSTAMP:20231118T065613Z
 DTSTART:20231118T050000Z
 DTEND:20231118T063000Z
 SUMMARY:Park-O #3 - Spring Mountain Reserve, Greenbank - LCC, Ugly Gully Orienteers
@@ -2622,5 +2622,59 @@ DTEND:20231219T080000Z
 SUMMARY:Night Nav - Mountain Creeek, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19732
 GEO:-26.6973834147841;153.081169482625
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19820@eventor.orienteering.asn.au
+DTSTAMP:20231118T002943Z
+DTSTART:20231225T140000Z
+DTEND:20231226T140000Z
+SUMMARY:Santa 6 Days 2023 - Event 1 - City Botanic Gardens (Gardens Point), Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19820
+GEO:-27.47389988133;153.028946019327
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19821@eventor.orienteering.asn.au
+DTSTAMP:20231118T003939Z
+DTSTART:20231226T140000Z
+DTEND:20231227T140000Z
+SUMMARY:Santa 6 Days 2023 - Event 2 -  Bowman Park, Bardon, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19821
+GEO:-27.4590930314272;152.977820491185
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19822@eventor.orienteering.asn.au
+DTSTAMP:20231118T005148Z
+DTSTART:20231227T140000Z
+DTEND:20231228T140000Z
+SUMMARY:Santa 6 Days 2023 - Event 3 -  Underwood Park, Underwood, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19822
+GEO:-27.600991647992;153.145266648162
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19823@eventor.orienteering.asn.au
+DTSTAMP:20231118T010928Z
+DTSTART:20231228T140000Z
+DTEND:20231229T140000Z
+SUMMARY:Santa 6 Days 2023 - Event 4 - Cicada Park, Chapel Hill, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19823
+GEO:-27.4949645290146;152.94171724569
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19824@eventor.orienteering.asn.au
+DTSTAMP:20231118T011632Z
+DTSTART:20231229T140000Z
+DTEND:20231230T140000Z
+SUMMARY:Santa 6 Days 2023 - Event 5 - Stockyard Creek, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19824
+GEO:-27.5706951912065;153.164026211711
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19825@eventor.orienteering.asn.au
+DTSTAMP:20231118T013855Z
+DTSTART:20231230T140000Z
+DTEND:20231231T140000Z
+SUMMARY:Santa 6 Days 2023 - Event 6 - Seven Hills, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19825
+GEO:-27.4770363971921;153.081221973447
 END:VEVENT
 END:VCALENDAR
