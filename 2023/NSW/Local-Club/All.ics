@@ -2503,7 +2503,7 @@ DTSTART:20231122T060000Z
 DTEND:20231122T080000Z
 SUMMARY:Twilight #4: Curtis Park, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19664
-GEO:-30.5110237059036;151.668491019149
+GEO:-30.5116354808054;151.668291207124
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19527@eventor.orienteering.asn.au
@@ -2538,7 +2538,7 @@ DTSTART:20231125T220000Z
 DTEND:20231125T233000Z
 SUMMARY:Central Coast Summer Series 4 - Norah Head, Central Coast Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19658
-GEO:-33.2877591089195;151.567133488482
+GEO:-33.2808136658168;151.569487202625
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19145@eventor.orienteering.asn.au
@@ -2731,6 +2731,15 @@ DTSTART:20231220T060000Z
 DTEND:20231220T060000Z
 SUMMARY:Newcastle 2023-24 Summer Street Series #10, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19531
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19839@eventor.orienteering.asn.au
+DTSTAMP:20231121T022103Z
+DTSTART:20231227T053000Z
+DTEND:20231227T083000Z
+SUMMARY:2023/24 Sydney Summer Series #13 - Manly Area, NSW Stingers
+URL:https://eventor.orienteering.asn.au/Events/Show/19839
+GEO:-33.7983557410937;151.289052595791
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17077@eventor.orienteering.asn.au
