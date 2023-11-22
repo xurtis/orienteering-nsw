@@ -853,12 +853,21 @@ GEO:-36.1540664004911;146.610345805629
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19513@eventor.orienteering.asn.au
-DTSTAMP:20231015T081726Z
+DTSTAMP:20231122T101450Z
 DTSTART:20231121T130000Z
 DTEND:20231122T130000Z
 SUMMARY:Macedon Ranges Twilight Series - #3 WOODEND - Campaspe Park Reserve, Central Highlands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19513
 GEO:-37.3544084993508;144.531206549905
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19843@eventor.orienteering.asn.au
+DTSTAMP:20231122T110950Z
+DTSTART:20231127T070000Z
+DTEND:20231127T125900Z
+SUMMARY:Ballarat MapRun Mondays #1 - Soldiers Hill, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19843
+GEO:-37.549435773322;143.867021630881
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19514@eventor.orienteering.asn.au
