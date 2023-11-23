@@ -9213,7 +9213,7 @@ GEO:-31.9360338961518;115.842855828692
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19337@eventor.orienteering.asn.au
-DTSTAMP:20230803T062708Z
+DTSTAMP:20231123T004919Z
 DTSTART:20231116T233000Z
 DTEND:20231116T233000Z
 SUMMARY:Victorian Primary Schools Event, Orienteering Victoria
@@ -9615,14 +9615,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19742
 GEO:-37.8198427610036;144.969422445852
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19250@eventor.orienteering.asn.au
-DTSTAMP:20231027T041116Z
-DTSTART:20231127T130000Z
-DTEND:20231128T130000Z
-SUMMARY:Northwest Region - NW Spring Twilight #3, Pathfinders
-URL:https://eventor.orienteering.asn.au/Events/Show/19250
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19392@eventor.orienteering.asn.au
 DTSTAMP:20230821T070725Z
 DTSTART:20231127T130000Z
@@ -9630,6 +9622,15 @@ DTEND:20231128T130000Z
 SUMMARY:Sydney Summer Series 2023/2024 Season Ticket, Bennelong Northside Orienteers / Big Foot Orienteers / Central Coast Orienteers / Garingal Orienteers / Illawarra Kareelah Orienteers / Orienteering NSW / Uringa Orienteers / Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19392
 GEO:-33.8459900159258;151.074532411409
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19250@eventor.orienteering.asn.au
+DTSTAMP:20231123T044003Z
+DTSTART:20231128T053000Z
+DTEND:20231128T080000Z
+SUMMARY:Northwest Region - NW Spring Twilight #3 - Penguin, Pathfinders
+URL:https://eventor.orienteering.asn.au/Events/Show/19250
+GEO:-41.1141625036268;146.075665535267
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17612@eventor.orienteering.asn.au
@@ -9659,19 +9660,19 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19514
 GEO:-37.3556753484042;144.744138259887
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19832@eventor.orienteering.asn.au
-DTSTAMP:20231120T042624Z
+UID:Event_19851@eventor.orienteering.asn.au
+DTSTAMP:20231123T091428Z
 DTSTART:20231128T130000Z
 DTEND:20231129T130000Z
-SUMMARY:Punchbowl 100, Esk Valley
-URL:https://eventor.orienteering.asn.au/Events/Show/19832
-GEO:-41.4567335046624;147.168105554111
+SUMMARY:Mass Start Trevallyn, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19851
+GEO:-41.4470513226156;147.096044637222
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19242@eventor.orienteering.asn.au
-DTSTAMP:20231103T010608Z
+DTSTAMP:20231123T060646Z
 DTSTART:20231129T040000Z
-DTEND:20231129T040000Z
+DTEND:20231129T070000Z
 SUMMARY:Botanic Gardens - Hobart Spring Schools/Twilight #6, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/19242
 GEO:-42.8658581407141;147.330380147315
@@ -9714,7 +9715,7 @@ GEO:-33.2442983958755;149.115536693827
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19595@eventor.orienteering.asn.au
-DTSTAMP:20231113T041120Z
+DTSTAMP:20231123T052425Z
 DTSTART:20231201T073000Z
 DTEND:20231201T073000Z
 SUMMARY:Twilight Series Event #3 - Torrens Linear Park - Paradise - Athelstone, Orienteering SA
@@ -9766,7 +9767,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19652
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19659@eventor.orienteering.asn.au
-DTSTAMP:20231102T235932Z
+DTSTAMP:20231122T222301Z
 DTSTART:20231202T220000Z
 DTEND:20231202T233000Z
 SUMMARY:Central Coast Summer Series 5 - Woy Woy, Central Coast Orienteers
@@ -9775,11 +9776,12 @@ GEO:-33.4845547322379;151.335697414088
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18600@eventor.orienteering.asn.au
-DTSTAMP:20231009T075457Z
+DTSTAMP:20231123T035930Z
 DTSTART:20231202T220000Z
 DTEND:20231203T000000Z
 SUMMARY:Waggaroos 2023-24 Summer Series #2, Estella, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18600
+GEO:-35.0726514257186;147.354034601705
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19146@eventor.orienteering.asn.au
@@ -9841,6 +9843,15 @@ DTEND:20231206T130000Z
 SUMMARY:Macedon Ranges Twilight Series - #5  GISBORNE – Jackson Creek Reserve , Central Highlands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19515
 GEO:-37.4842480090402;144.590312156875
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19832@eventor.orienteering.asn.au
+DTSTAMP:20231123T091057Z
+DTSTART:20231205T130000Z
+DTEND:20231206T130000Z
+SUMMARY:Punchbowl 100, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/19832
+GEO:-41.4567335046624;147.168105554111
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19239@eventor.orienteering.asn.au
@@ -9923,7 +9934,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19643
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19660@eventor.orienteering.asn.au
-DTSTAMP:20231103T003553Z
+DTSTAMP:20231122T230321Z
 DTSTART:20231209T220000Z
 DTEND:20231209T233000Z
 SUMMARY:Central Coast Summer Series 6 - Avoca Beach, Central Coast Orienteers
