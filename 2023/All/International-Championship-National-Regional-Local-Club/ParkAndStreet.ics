@@ -5196,7 +5196,7 @@ GEO:-37.6690630310771;145.074335832694
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19611@eventor.orienteering.asn.au
-DTSTAMP:20231124T004732Z
+DTSTAMP:20231126T231453Z
 DTSTART:20231124T070000Z
 DTEND:20231124T083000Z
 SUMMARY:Goldseekers Park Series 2023 #3 - Botanic Gardens, Goldseekers Orienteers
@@ -5284,15 +5284,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19423
 GEO:-37.8205081886582;145.030360191903
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19392@eventor.orienteering.asn.au
-DTSTAMP:20230821T070725Z
-DTSTART:20231127T130000Z
-DTEND:20231128T130000Z
-SUMMARY:Sydney Summer Series 2023/2024 Season Ticket, Bennelong Northside Orienteers / Big Foot Orienteers / Central Coast Orienteers / Garingal Orienteers / Illawarra Kareelah Orienteers / Orienteering NSW / Uringa Orienteers / Western and Hills Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19392
-GEO:-33.8459900159258;151.074532411409
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19427@eventor.orienteering.asn.au
 DTSTAMP:20231025T064133Z
 DTSTART:20231128T073000Z
@@ -5318,6 +5309,15 @@ DTEND:20231128T080000Z
 SUMMARY:Night Nav - Brightwater, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19754
 GEO:-26.7105295013093;153.106601537973
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19392@eventor.orienteering.asn.au
+DTSTAMP:20231127T034502Z
+DTSTART:20231129T020000Z
+DTEND:20231129T020000Z
+SUMMARY:Sydney Summer Series 2023/2024 Season Ticket, Bennelong Northside Orienteers / Big Foot Orienteers / Central Coast Orienteers / Garingal Orienteers / Illawarra Kareelah Orienteers / Orienteering NSW / Uringa Orienteers / Western and Hills Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19392
+GEO:-33.8459900159258;151.074532411409
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19346@eventor.orienteering.asn.au
@@ -5393,7 +5393,7 @@ GEO:-27.590639194972;153.133406882762
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19612@eventor.orienteering.asn.au
-DTSTAMP:20231101T061024Z
+DTSTAMP:20231126T231323Z
 DTSTART:20231201T070000Z
 DTEND:20231201T083000Z
 SUMMARY:Goldseekers Park Series 2023 #4 - CSU Orange, Goldseekers Orienteers
