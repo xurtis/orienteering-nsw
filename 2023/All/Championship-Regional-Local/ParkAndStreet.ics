@@ -1596,6 +1596,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19658
 GEO:-33.2808136658168;151.569487202625
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19392@eventor.orienteering.asn.au
+DTSTAMP:20231130T023643Z
+DTSTART:20231127T020000Z
+DTEND:20231127T020000Z
+SUMMARY:Sydney Summer Series 2023/2024 Season Ticket, Bennelong Northside Orienteers / Big Foot Orienteers / Central Coast Orienteers / Garingal Orienteers / Illawarra Kareelah Orienteers / Orienteering NSW / Uringa Orienteers / Western and Hills Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19392
+GEO:-33.8459900159258;151.074532411409
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19633@eventor.orienteering.asn.au
 DTSTAMP:20231127T212204Z
 DTSTART:20231127T060000Z
@@ -1603,15 +1612,6 @@ DTEND:20231127T090000Z
 SUMMARY:ACT MapRun Street Series: Wanniassa, 23-27 Nov, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19633
 GEO:-35.3930341086654;149.082927106309
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19392@eventor.orienteering.asn.au
-DTSTAMP:20231127T034502Z
-DTSTART:20231129T020000Z
-DTEND:20231129T020000Z
-SUMMARY:Sydney Summer Series 2023/2024 Season Ticket, Bennelong Northside Orienteers / Big Foot Orienteers / Central Coast Orienteers / Garingal Orienteers / Illawarra Kareelah Orienteers / Orienteering NSW / Uringa Orienteers / Western and Hills Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19392
-GEO:-33.8459900159258;151.074532411409
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19346@eventor.orienteering.asn.au
@@ -1624,7 +1624,7 @@ GEO:-33.8396906735827;151.128083387207
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19665@eventor.orienteering.asn.au
-DTSTAMP:20231108T045341Z
+DTSTAMP:20231129T225125Z
 DTSTART:20231129T060000Z
 DTEND:20231129T080000Z
 SUMMARY:Twilight #5: Bruce Browning Oval, Northern Tablelands Orienteering Club
@@ -1642,7 +1642,7 @@ GEO:-32.7446690865495;151.763032161719
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19612@eventor.orienteering.asn.au
-DTSTAMP:20231126T231323Z
+DTSTAMP:20231129T224813Z
 DTSTART:20231201T070000Z
 DTEND:20231201T083000Z
 SUMMARY:Goldseekers Park Series 2023 #4 - CSU Orange, Goldseekers Orienteers
@@ -1687,10 +1687,10 @@ GEO:-32.9451615793688;151.759955005056
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19613@eventor.orienteering.asn.au
-DTSTAMP:20231101T061128Z
+DTSTAMP:20231130T025551Z
 DTSTART:20231208T070000Z
 DTEND:20231208T083000Z
-SUMMARY:Goldseekers Park Series 2023 #5 - Cook Park, Goldseekers Orienteers
+SUMMARY:Goldseekers Park Series 2023 #5 - Botanic Gardens, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19613
 GEO:-33.2836806258217;149.09037772898
 END:VEVENT
