@@ -11194,6 +11194,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19437
 GEO:-37.7424997079445;145.042726124749
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_17077@eventor.orienteering.asn.au
+DTSTAMP:20231211T001447Z
+DTSTART:20231130T130000Z
+DTEND:20231201T130000Z
+SUMMARY:Newcastle Orienteering Club Communication 2023, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/17077
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19612@eventor.orienteering.asn.au
 DTSTAMP:20231202T041331Z
 DTSTART:20231201T070000Z
@@ -11607,7 +11615,7 @@ GEO:-34.9863827173729;138.719638157024
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19362@eventor.orienteering.asn.au
-DTSTAMP:20231206T031604Z
+DTSTAMP:20231211T002851Z
 DTSTART:20231213T053000Z
 DTEND:20231213T083000Z
 SUMMARY:2023/24 Sydney Summer Series #11 - Willoughby, Garingal Orienteers
@@ -11693,6 +11701,7 @@ DTSTART:20231216T220000Z
 DTEND:20231216T233000Z
 SUMMARY:ACT Sprint Series #3, Greenhills, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19644
+GEO:-35.329666869935;148.958126665611
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18601@eventor.orienteering.asn.au
@@ -11744,6 +11753,7 @@ DTSTART:20231218T060000Z
 DTEND:20231218T090000Z
 SUMMARY:ACT MapRun Street Series: Parkes, 14-18 Dec, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19636
+GEO:-35.297960419471;149.122726515624
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19637@eventor.orienteering.asn.au
@@ -11799,7 +11809,7 @@ GEO:-26.6973834147841;153.081169482625
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19363@eventor.orienteering.asn.au
-DTSTAMP:20231005T101834Z
+DTSTAMP:20231210T213451Z
 DTSTART:20231220T053000Z
 DTEND:20231220T083000Z
 SUMMARY:2023/24 Sydney Summer Series #12 - Mosman, Bennelong Northside Orienteers
@@ -11913,14 +11923,6 @@ DTEND:20231230T140000Z
 SUMMARY:Santa 6 Days 2023 - Event 5 - Stockyard Creek, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19824
 GEO:-27.5706951912065;153.164026211711
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_17077@eventor.orienteering.asn.au
-DTSTAMP:20230527T183604Z
-DTSTART:20231230T130000Z
-DTEND:20231231T130000Z
-SUMMARY:Newcastle Orienteering Club Communication 2023, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/17077
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19825@eventor.orienteering.asn.au
