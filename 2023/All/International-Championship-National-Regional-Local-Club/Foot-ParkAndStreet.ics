@@ -12633,7 +12633,7 @@ GEO:-37.5464686771517;143.775907125853
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19635@eventor.orienteering.asn.au
-DTSTAMP:20231023T051200Z
+DTSTAMP:20231212T071728Z
 DTSTART:20231211T060000Z
 DTEND:20231211T090000Z
 SUMMARY:ACT MapRun Street Series: Amaroo, 7-11 Dec, Orienteering ACT
@@ -12658,6 +12658,15 @@ SUMMARY:Orienteering ACT December Board Meeting, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19728
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_17614@eventor.orienteering.asn.au
+DTSTAMP:20231212T124359Z
+DTSTART:20231211T140000Z
+DTEND:20231212T140000Z
+SUMMARY:Night Nav - Clayfield - BCC, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/17614
+GEO:-27.4290877212154;153.057710928518
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19461@eventor.orienteering.asn.au
 DTSTAMP:20231124T050921Z
 DTSTART:20231212T073000Z
@@ -12665,15 +12674,6 @@ DTEND:20231212T091500Z
 SUMMARY:Melbourne Park Street Tuesday Summer Series - Kingsville, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19461
 GEO:-37.8180292718626;144.86840229225
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_17614@eventor.orienteering.asn.au
-DTSTAMP:20231205T114607Z
-DTSTART:20231212T073000Z
-DTEND:20231212T093000Z
-SUMMARY:Night Nav - Clayfield - BCC, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/17614
-GEO:-27.4290877212154;153.057710928518
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19752@eventor.orienteering.asn.au
@@ -12695,7 +12695,7 @@ GEO:-34.9863827173729;138.719638157024
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19362@eventor.orienteering.asn.au
-DTSTAMP:20231211T002851Z
+DTSTAMP:20231212T073614Z
 DTSTART:20231213T053000Z
 DTEND:20231213T083000Z
 SUMMARY:2023/24 Sydney Summer Series #11 - Willoughby, Garingal Orienteers
@@ -12749,7 +12749,7 @@ GEO:-37.7291153849241;144.942654220972
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19333@eventor.orienteering.asn.au
-DTSTAMP:20231204T001026Z
+DTSTAMP:20231212T122418Z
 DTSTART:20231215T070000Z
 DTEND:20231220T005900Z
 SUMMARY:Australian Junior Development Camp, Albury-Wodonga Orienteering Club / Orienteering Australia / Orienteering Victoria
@@ -12853,6 +12853,15 @@ SUMMARY:ACT MapRun Street Series October-December Season Pass, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19637
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20008@eventor.orienteering.asn.au
+DTSTAMP:20231212T010242Z
+DTSTART:20231218T070000Z
+DTEND:20231218T070000Z
+SUMMARY:Ballarat MapRun Mondays #4 - Ballarat City - Mega MapRun, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20008
+GEO:-37.556248181127;143.800264652594
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19459@eventor.orienteering.asn.au
 DTSTAMP:20231201T053142Z
 DTSTART:20231218T073000Z
@@ -12924,6 +12933,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19465
 GEO:-37.7979801926191;145.118139437562
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20014@eventor.orienteering.asn.au
+DTSTAMP:20231212T082714Z
+DTSTART:20231221T054500Z
+DTEND:20231221T080000Z
+SUMMARY:Ballarat Christmas New Year Series #1 - Brown Hill, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20014
+GEO:-37.5525431083165;143.897505672097
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19469@eventor.orienteering.asn.au
 DTSTAMP:20231124T052132Z
 DTSTART:20231221T073000Z
@@ -12931,6 +12949,15 @@ DTEND:20231221T091500Z
 SUMMARY:Melbourne Park Street Thursday Summer Series - Doncaster Heights, Yarra Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19469
 GEO:-37.7779632626802;145.163811696757
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20015@eventor.orienteering.asn.au
+DTSTAMP:20231212T083514Z
+DTSTART:20231223T054500Z
+DTEND:20231223T080000Z
+SUMMARY:Ballarat Christmas New Year Series #2 - Lake Esmond - Eureka Orienteers BBQ, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20015
+GEO:-37.575687405251;143.874743703657
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19924@eventor.orienteering.asn.au
@@ -12949,6 +12976,15 @@ DTEND:20231226T140000Z
 SUMMARY:Santa 6 Days 2023 - Event 1 - City Botanic Gardens (Gardens Point), Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19820
 GEO:-27.47389988133;153.028946019327
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20016@eventor.orienteering.asn.au
+DTSTAMP:20231212T091014Z
+DTSTART:20231226T054500Z
+DTEND:20231226T080000Z
+SUMMARY:Ballarat Christmas New Year Series #3 - Victoria Park, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20016
+GEO:-37.5576857889475;143.822351497645
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19039@eventor.orienteering.asn.au
@@ -12994,6 +13030,15 @@ DTEND:20231228T140000Z
 SUMMARY:Santa 6 Days 2023 - Event 3 -  Underwood Park, Underwood, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19822
 GEO:-27.600991647992;153.145266648162
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20017@eventor.orienteering.asn.au
+DTSTAMP:20231212T085332Z
+DTSTART:20231228T054500Z
+DTEND:20231228T080000Z
+SUMMARY:Ballarat Christmas New Year Series #4 - Daylesford, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20017
+GEO:-37.3462703778782;144.14394052116
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19470@eventor.orienteering.asn.au

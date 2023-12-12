@@ -1031,6 +1031,33 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19916
 GEO:-37.5464686771517;143.775907125853
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20008@eventor.orienteering.asn.au
+DTSTAMP:20231212T010242Z
+DTSTART:20231218T070000Z
+DTEND:20231218T070000Z
+SUMMARY:Ballarat MapRun Mondays #4 - Ballarat City - Mega MapRun, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20008
+GEO:-37.556248181127;143.800264652594
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20014@eventor.orienteering.asn.au
+DTSTAMP:20231212T082714Z
+DTSTART:20231221T054500Z
+DTEND:20231221T080000Z
+SUMMARY:Ballarat Christmas New Year Series #1 - Brown Hill, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20014
+GEO:-37.5525431083165;143.897505672097
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20015@eventor.orienteering.asn.au
+DTSTAMP:20231212T083514Z
+DTSTART:20231223T054500Z
+DTEND:20231223T080000Z
+SUMMARY:Ballarat Christmas New Year Series #2 - Lake Esmond - Eureka Orienteers BBQ, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20015
+GEO:-37.575687405251;143.874743703657
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19924@eventor.orienteering.asn.au
 DTSTAMP:20231206T030432Z
 DTSTART:20231224T130000Z
@@ -1038,5 +1065,23 @@ DTEND:20231225T130000Z
 SUMMARY:Ballarat MapRun Mondays #5 - Lake Wendouree, Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19924
 GEO:-37.5497161197954;143.822352049204
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20016@eventor.orienteering.asn.au
+DTSTAMP:20231212T091014Z
+DTSTART:20231226T054500Z
+DTEND:20231226T080000Z
+SUMMARY:Ballarat Christmas New Year Series #3 - Victoria Park, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20016
+GEO:-37.5576857889475;143.822351497645
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20017@eventor.orienteering.asn.au
+DTSTAMP:20231212T085332Z
+DTSTART:20231228T054500Z
+DTEND:20231228T080000Z
+SUMMARY:Ballarat Christmas New Year Series #4 - Daylesford, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20017
+GEO:-37.3462703778782;144.14394052116
 END:VEVENT
 END:VCALENDAR
