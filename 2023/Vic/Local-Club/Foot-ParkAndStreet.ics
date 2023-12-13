@@ -2935,10 +2935,10 @@ GEO:-37.5497161197954;143.822352049204
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20016@eventor.orienteering.asn.au
-DTSTAMP:20231212T091014Z
-DTSTART:20231226T054500Z
-DTEND:20231226T080000Z
-SUMMARY:Ballarat Christmas New Year Series #3 - Victoria Park, Eureka Orienteers
+DTSTAMP:20231213T004541Z
+DTSTART:20231227T054500Z
+DTEND:20231227T080000Z
+SUMMARY:Ballarat Christmas New Year Series #3 - Buninyong, Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20016
 GEO:-37.5576857889475;143.822351497645
 END:VEVENT
@@ -2952,15 +2952,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19466
 GEO:-37.8470083852972;145.143904577669
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20017@eventor.orienteering.asn.au
-DTSTAMP:20231212T085332Z
-DTSTART:20231228T054500Z
-DTEND:20231228T080000Z
-SUMMARY:Ballarat Christmas New Year Series #4 - Daylesford, Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20017
-GEO:-37.3462703778782;144.14394052116
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19470@eventor.orienteering.asn.au
 DTSTAMP:20231124T052455Z
 DTSTART:20231228T073000Z
@@ -2968,5 +2959,14 @@ DTEND:20231228T091500Z
 SUMMARY:Melbourne Park Street Thursday Summer Series - Edwardes Lake, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19470
 GEO:-37.7137437403656;144.995627027816
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20017@eventor.orienteering.asn.au
+DTSTAMP:20231213T020614Z
+DTSTART:20231230T054500Z
+DTEND:20231230T080000Z
+SUMMARY:Ballarat Christmas New Year Series #4 - Daylesford, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20017
+GEO:-37.3462703778782;144.14394052116
 END:VEVENT
 END:VCALENDAR

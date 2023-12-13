@@ -11552,14 +11552,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19437
 GEO:-37.7424997079445;145.042726124749
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_17077@eventor.orienteering.asn.au
-DTSTAMP:20231211T001447Z
-DTSTART:20231130T130000Z
-DTEND:20231201T130000Z
-SUMMARY:Newcastle Orienteering Club Communication 2023, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/17077
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19612@eventor.orienteering.asn.au
 DTSTAMP:20231202T041331Z
 DTSTART:20231201T070000Z
@@ -11991,7 +11983,7 @@ GEO:-34.9863827173729;138.719638157024
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19362@eventor.orienteering.asn.au
-DTSTAMP:20231212T073614Z
+DTSTAMP:20231213T103644Z
 DTSTART:20231213T053000Z
 DTEND:20231213T083000Z
 SUMMARY:2023/24 Sydney Summer Series #11 - Willoughby, Garingal Orienteers
@@ -12000,7 +11992,7 @@ GEO:-33.8115598307651;151.203530195184
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19530@eventor.orienteering.asn.au
-DTSTAMP:20231203T225933Z
+DTSTAMP:20231213T104447Z
 DTSTART:20231213T060000Z
 DTEND:20231213T081500Z
 SUMMARY:Newcastle Summer Street Series #9 - Kurri Kurri, Newcastle Orienteering Club
@@ -12009,7 +12001,7 @@ GEO:-32.8158346982439;151.468519171002
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19396@eventor.orienteering.asn.au
-DTSTAMP:20231030T230657Z
+DTSTAMP:20231213T080255Z
 DTSTART:20231213T060000Z
 DTEND:20231213T083000Z
 SUMMARY:ACT Twilight MTBO + Come & Try:Gossan Hill (new MTBO map), Orienteering ACT
@@ -12090,11 +12082,12 @@ GEO:-35.329666869935;148.958126665611
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18601@eventor.orienteering.asn.au
-DTSTAMP:20231009T075801Z
+DTSTAMP:20231212T221628Z
 DTSTART:20231216T220000Z
 DTEND:20231217T000000Z
 SUMMARY:Waggaroos 2023-24 Summer Series #3, Hilltop/Bourkelands, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18601
+GEO:-35.1594621594738;147.342207219523
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19641@eventor.orienteering.asn.au
@@ -12283,15 +12276,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19820
 GEO:-27.47389988133;153.028946019327
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20016@eventor.orienteering.asn.au
-DTSTAMP:20231212T091014Z
-DTSTART:20231226T054500Z
-DTEND:20231226T080000Z
-SUMMARY:Ballarat Christmas New Year Series #3 - Victoria Park, Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20016
-GEO:-37.5576857889475;143.822351497645
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19821@eventor.orienteering.asn.au
 DTSTAMP:20231118T003939Z
 DTSTART:20231226T140000Z
@@ -12310,6 +12294,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19839
 GEO:-33.7983557410937;151.289052595791
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20016@eventor.orienteering.asn.au
+DTSTAMP:20231213T004541Z
+DTSTART:20231227T054500Z
+DTEND:20231227T080000Z
+SUMMARY:Ballarat Christmas New Year Series #3 - Buninyong, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20016
+GEO:-37.5576857889475;143.822351497645
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19466@eventor.orienteering.asn.au
 DTSTAMP:20231124T052219Z
 DTSTART:20231227T073000Z
@@ -12326,15 +12319,6 @@ DTEND:20231228T140000Z
 SUMMARY:Santa 6 Days 2023 - Event 3 -  Underwood Park, Underwood, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19822
 GEO:-27.600991647992;153.145266648162
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20017@eventor.orienteering.asn.au
-DTSTAMP:20231212T085332Z
-DTSTART:20231228T054500Z
-DTEND:20231228T080000Z
-SUMMARY:Ballarat Christmas New Year Series #4 - Daylesford, Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20017
-GEO:-37.3462703778782;144.14394052116
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19470@eventor.orienteering.asn.au
@@ -12362,6 +12346,23 @@ DTEND:20231230T140000Z
 SUMMARY:Santa 6 Days 2023 - Event 5 - Stockyard Creek, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19824
 GEO:-27.5706951912065;153.164026211711
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20017@eventor.orienteering.asn.au
+DTSTAMP:20231213T020614Z
+DTSTART:20231230T054500Z
+DTEND:20231230T080000Z
+SUMMARY:Ballarat Christmas New Year Series #4 - Daylesford, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20017
+GEO:-37.3462703778782;144.14394052116
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_17077@eventor.orienteering.asn.au
+DTSTAMP:20231213T061810Z
+DTSTART:20231230T130000Z
+DTEND:20231231T130000Z
+SUMMARY:Newcastle Orienteering Club Communication 2023, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/17077
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19825@eventor.orienteering.asn.au
