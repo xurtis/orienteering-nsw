@@ -983,12 +983,21 @@ GEO:-42.8881079411497;147.302020479395
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19853@eventor.orienteering.asn.au
-DTSTAMP:20231211T042830Z
+DTSTAMP:20231215T002554Z
 DTSTART:20231212T130000Z
 DTEND:20231213T130000Z
 SUMMARY:Heritage Forest MTBO, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/19853
 GEO:-41.4128597956431;147.134128217187
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19333@eventor.orienteering.asn.au
+DTSTAMP:20231215T104226Z
+DTSTART:20231215T070000Z
+DTEND:20231220T005900Z
+SUMMARY:Australian Junior Development Camp, Albury-Wodonga Orienteering Club / Orienteering Australia / Orienteering Tasmania / Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/19333
+GEO:-36.3594858331641;146.68701494158
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19991@eventor.orienteering.asn.au

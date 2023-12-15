@@ -13269,7 +13269,7 @@ GEO:-26.7901660456392;153.143242319507
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19853@eventor.orienteering.asn.au
-DTSTAMP:20231211T042830Z
+DTSTAMP:20231215T002554Z
 DTSTART:20231212T130000Z
 DTEND:20231213T130000Z
 SUMMARY:Heritage Forest MTBO, Esk Valley
@@ -13332,9 +13332,9 @@ GEO:-37.91523441471;145.200397591797
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19708@eventor.orienteering.asn.au
-DTSTAMP:20231026T062940Z
-DTSTART:20231214T073000Z
-DTEND:20231214T090000Z
+DTSTAMP:20231215T043758Z
+DTSTART:20231213T140000Z
+DTEND:20231214T140000Z
 SUMMARY:Night Nav - Southside - Kuraby/Underwood, Toohey Forest Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19708
 GEO:-27.6033783002588;153.102314349435
@@ -13350,10 +13350,10 @@ GEO:-37.7291153849241;144.942654220972
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19333@eventor.orienteering.asn.au
-DTSTAMP:20231214T014027Z
+DTSTAMP:20231215T104226Z
 DTSTART:20231215T070000Z
 DTEND:20231220T005900Z
-SUMMARY:Australian Junior Development Camp, Albury-Wodonga Orienteering Club / Orienteering Australia / Orienteering Victoria
+SUMMARY:Australian Junior Development Camp, Albury-Wodonga Orienteering Club / Orienteering Australia / Orienteering Tasmania / Orienteering Victoria
 URL:https://eventor.orienteering.asn.au/Events/Show/19333
 GEO:-36.3594858331641;146.68701494158
 END:VEVENT
@@ -13536,15 +13536,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19465
 GEO:-37.7979801926191;145.118139437562
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20014@eventor.orienteering.asn.au
-DTSTAMP:20231212T082714Z
-DTSTART:20231221T054500Z
-DTEND:20231221T080000Z
-SUMMARY:Ballarat Christmas New Year Series #1 - Brown Hill, Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20014
-GEO:-37.5525431083165;143.897505672097
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19469@eventor.orienteering.asn.au
 DTSTAMP:20231124T052132Z
 DTSTART:20231221T073000Z
@@ -13554,13 +13545,13 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19469
 GEO:-37.7779632626802;145.163811696757
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20015@eventor.orienteering.asn.au
-DTSTAMP:20231212T083514Z
+UID:Event_20014@eventor.orienteering.asn.au
+DTSTAMP:20231214T235530Z
 DTSTART:20231223T054500Z
 DTEND:20231223T080000Z
-SUMMARY:Ballarat Christmas New Year Series #2 - Lake Esmond - Eureka Orienteers BBQ, Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20015
-GEO:-37.575687405251;143.874743703657
+SUMMARY:Ballarat Christmas New Year Series #1 - Brown Hill, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20014
+GEO:-37.5525431083165;143.897505672097
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19924@eventor.orienteering.asn.au
@@ -13600,7 +13591,7 @@ GEO:-27.4590930314272;152.977820491185
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19839@eventor.orienteering.asn.au
-DTSTAMP:20231213T215223Z
+DTSTAMP:20231214T231514Z
 DTSTART:20231227T053000Z
 DTEND:20231227T083000Z
 SUMMARY:2023/24 Sydney Summer Series #13 - Manly Beach (South Steyne), Garingal Orienteers
@@ -13609,10 +13600,10 @@ GEO:-33.7983557410937;151.289052595791
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20016@eventor.orienteering.asn.au
-DTSTAMP:20231213T004541Z
+DTSTAMP:20231215T000016Z
 DTSTART:20231227T054500Z
 DTEND:20231227T080000Z
-SUMMARY:Ballarat Christmas New Year Series #3 - Buninyong, Eureka Orienteers
+SUMMARY:Ballarat Christmas New Year Series #2 - Buninyong, Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20016
 GEO:-37.5576857889475;143.822351497645
 END:VEVENT
@@ -13663,10 +13654,10 @@ GEO:-27.5706951912065;153.164026211711
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20017@eventor.orienteering.asn.au
-DTSTAMP:20231213T020614Z
+DTSTAMP:20231214T235720Z
 DTSTART:20231230T054500Z
 DTEND:20231230T080000Z
-SUMMARY:Ballarat Christmas New Year Series #4 - Daylesford, Eureka Orienteers
+SUMMARY:Ballarat Christmas New Year Series #3 - Daylesford, Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20017
 GEO:-37.3462703778782;144.14394052116
 END:VEVENT
