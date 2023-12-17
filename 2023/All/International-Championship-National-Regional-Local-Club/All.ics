@@ -13350,12 +13350,12 @@ GEO:-37.7291153849241;144.942654220972
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19333@eventor.orienteering.asn.au
-DTSTAMP:20231216T125813Z
+DTSTAMP:20231217T104014Z
 DTSTART:20231215T070000Z
 DTEND:20231220T005900Z
 SUMMARY:Australian Junior Development Camp, Albury-Wodonga Orienteering Club / Orienteering Australia / Orienteering Tasmania / Orienteering Victoria
 URL:https://eventor.orienteering.asn.au/Events/Show/19333
-GEO:-36.1356291160424;146.628890359353
+GEO:-36.3653423640924;146.695238218399
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19597@eventor.orienteering.asn.au
@@ -13386,7 +13386,7 @@ GEO:-31.9549274649933;115.837232592425
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19644@eventor.orienteering.asn.au
-DTSTAMP:20231116T013636Z
+DTSTAMP:20231217T003321Z
 DTSTART:20231216T220000Z
 DTEND:20231216T233000Z
 SUMMARY:ACT Sprint Series #3, Greenhills, Orienteering ACT
@@ -13395,7 +13395,7 @@ GEO:-35.329666869935;148.958126665611
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18601@eventor.orienteering.asn.au
-DTSTAMP:20231212T221628Z
+DTSTAMP:20231217T024159Z
 DTSTART:20231216T220000Z
 DTEND:20231217T000000Z
 SUMMARY:Waggaroos 2023-24 Summer Series #3, Hilltop/Bourkelands, Wagga and Riverina Occasional Orienteers
@@ -13404,7 +13404,7 @@ GEO:-35.1594621594738;147.342207219523
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19749@eventor.orienteering.asn.au
-DTSTAMP:20231208T071106Z
+DTSTAMP:20231217T091306Z
 DTSTART:20231216T223000Z
 DTEND:20231216T223000Z
 SUMMARY:Big Foot Sprints XXVI, Big Foot Orienteers
@@ -13413,12 +13413,20 @@ GEO:-33.7074072102621;151.178276085632
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19903@eventor.orienteering.asn.au
-DTSTAMP:20231208T203548Z
+DTSTAMP:20231217T022214Z
 DTSTART:20231217T000000Z
 DTEND:20231217T020000Z
 SUMMARY:Wayne Richards Park orienteering, Hastings Orienteering Group
 URL:https://eventor.orienteering.asn.au/Events/Show/19903
 GEO:-31.4554940513643;152.904912271031
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20054@eventor.orienteering.asn.au
+DTSTAMP:20231217T051742Z
+DTSTART:20231217T050000Z
+DTEND:20231217T050000Z
+SUMMARY:Australian Junior Development Camp, Albury-Wodonga Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20054
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19499@eventor.orienteering.asn.au
@@ -13445,15 +13453,6 @@ DTSTART:20231218T060100Z
 DTEND:20231218T060200Z
 SUMMARY:ACT MapRun Street Series October-December Season Pass, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19637
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20008@eventor.orienteering.asn.au
-DTSTAMP:20231212T010242Z
-DTSTART:20231218T070000Z
-DTEND:20231218T070000Z
-SUMMARY:Ballarat MapRun Mondays #4 - Ballarat City - Mega MapRun, Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20008
-GEO:-37.556248181127;143.800264652594
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19459@eventor.orienteering.asn.au
@@ -13545,24 +13544,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19469
 GEO:-37.7779632626802;145.163811696757
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20014@eventor.orienteering.asn.au
-DTSTAMP:20231214T235530Z
-DTSTART:20231223T054500Z
-DTEND:20231223T080000Z
-SUMMARY:Ballarat Christmas New Year Series #1 - Brown Hill, Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20014
-GEO:-37.5525431083165;143.897505672097
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19924@eventor.orienteering.asn.au
-DTSTAMP:20231206T030432Z
-DTSTART:20231224T130000Z
-DTEND:20231225T130000Z
-SUMMARY:Ballarat MapRun Mondays #5 - Lake Wendouree, Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19924
-GEO:-37.5497161197954;143.822352049204
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19820@eventor.orienteering.asn.au
 DTSTAMP:20231118T002943Z
 DTSTART:20231225T140000Z
@@ -13597,15 +13578,6 @@ DTEND:20231227T083000Z
 SUMMARY:2023/24 Sydney Summer Series #13 - Manly Beach (South Steyne), Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19839
 GEO:-33.7983557410937;151.289052595791
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20016@eventor.orienteering.asn.au
-DTSTAMP:20231215T000016Z
-DTSTART:20231227T054500Z
-DTEND:20231227T080000Z
-SUMMARY:Ballarat Christmas New Year Series #2 - Buninyong, Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20016
-GEO:-37.5576857889475;143.822351497645
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19466@eventor.orienteering.asn.au
@@ -13651,15 +13623,6 @@ DTEND:20231230T140000Z
 SUMMARY:Santa 6 Days 2023 - Event 5 - Stockyard Creek, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19824
 GEO:-27.5706951912065;153.164026211711
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20017@eventor.orienteering.asn.au
-DTSTAMP:20231214T235720Z
-DTSTART:20231230T054500Z
-DTEND:20231230T080000Z
-SUMMARY:Ballarat Christmas New Year Series #3 - Daylesford, Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20017
-GEO:-37.3462703778782;144.14394052116
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19825@eventor.orienteering.asn.au

@@ -3015,21 +3015,20 @@ GEO:-37.7291153849241;144.942654220972
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19333@eventor.orienteering.asn.au
-DTSTAMP:20231216T125813Z
+DTSTAMP:20231217T104014Z
 DTSTART:20231215T070000Z
 DTEND:20231220T005900Z
 SUMMARY:Australian Junior Development Camp, Albury-Wodonga Orienteering Club / Orienteering Australia / Orienteering Tasmania / Orienteering Victoria
 URL:https://eventor.orienteering.asn.au/Events/Show/19333
-GEO:-36.1356291160424;146.628890359353
+GEO:-36.3653423640924;146.695238218399
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20008@eventor.orienteering.asn.au
-DTSTAMP:20231212T010242Z
-DTSTART:20231218T070000Z
-DTEND:20231218T070000Z
-SUMMARY:Ballarat MapRun Mondays #4 - Ballarat City - Mega MapRun, Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20008
-GEO:-37.556248181127;143.800264652594
+UID:Event_20054@eventor.orienteering.asn.au
+DTSTAMP:20231217T051742Z
+DTSTART:20231217T050000Z
+DTEND:20231217T050000Z
+SUMMARY:Australian Junior Development Camp, Albury-Wodonga Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20054
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19459@eventor.orienteering.asn.au
@@ -3068,33 +3067,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19469
 GEO:-37.7779632626802;145.163811696757
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20014@eventor.orienteering.asn.au
-DTSTAMP:20231214T235530Z
-DTSTART:20231223T054500Z
-DTEND:20231223T080000Z
-SUMMARY:Ballarat Christmas New Year Series #1 - Brown Hill, Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20014
-GEO:-37.5525431083165;143.897505672097
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19924@eventor.orienteering.asn.au
-DTSTAMP:20231206T030432Z
-DTSTART:20231224T130000Z
-DTEND:20231225T130000Z
-SUMMARY:Ballarat MapRun Mondays #5 - Lake Wendouree, Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19924
-GEO:-37.5497161197954;143.822352049204
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20016@eventor.orienteering.asn.au
-DTSTAMP:20231215T000016Z
-DTSTART:20231227T054500Z
-DTEND:20231227T080000Z
-SUMMARY:Ballarat Christmas New Year Series #2 - Buninyong, Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20016
-GEO:-37.5576857889475;143.822351497645
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19466@eventor.orienteering.asn.au
 DTSTAMP:20231124T052219Z
 DTSTART:20231227T073000Z
@@ -3111,14 +3083,5 @@ DTEND:20231228T091500Z
 SUMMARY:Melbourne Park Street Thursday Summer Series - Edwardes Lake, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19470
 GEO:-37.7137437403656;144.995627027816
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20017@eventor.orienteering.asn.au
-DTSTAMP:20231214T235720Z
-DTSTART:20231230T054500Z
-DTEND:20231230T080000Z
-SUMMARY:Ballarat Christmas New Year Series #3 - Daylesford, Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20017
-GEO:-37.3462703778782;144.14394052116
 END:VEVENT
 END:VCALENDAR

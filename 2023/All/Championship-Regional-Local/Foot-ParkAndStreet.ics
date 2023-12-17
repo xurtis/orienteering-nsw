@@ -3992,12 +3992,20 @@ GEO:-31.9549274649933;115.837232592425
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19644@eventor.orienteering.asn.au
-DTSTAMP:20231116T013636Z
+DTSTAMP:20231217T003321Z
 DTSTART:20231216T220000Z
 DTEND:20231216T233000Z
 SUMMARY:ACT Sprint Series #3, Greenhills, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19644
 GEO:-35.329666869935;148.958126665611
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20054@eventor.orienteering.asn.au
+DTSTAMP:20231217T051742Z
+DTSTART:20231217T050000Z
+DTEND:20231217T050000Z
+SUMMARY:Australian Junior Development Camp, Albury-Wodonga Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20054
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19636@eventor.orienteering.asn.au
