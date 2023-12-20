@@ -12569,6 +12569,15 @@ SUMMARY:Bennelong Northside Club Christmas BBQ, Bennelong Northside Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19867
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19498@eventor.orienteering.asn.au
+DTSTAMP:20231219T234742Z
+DTSTART:20231209T140000Z
+DTEND:20231210T140000Z
+SUMMARY:MapRun Parks 2023 - Edenbrooke, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19498
+GEO:-27.548542;152.948967
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19643@eventor.orienteering.asn.au
 DTSTAMP:20231209T233658Z
 DTSTART:20231209T220000Z
@@ -12612,15 +12621,6 @@ DTEND:20231210T001500Z
 SUMMARY:Mornington Peninsula Sunday MapRun - Blairgowrie, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19471
 GEO:-38.3617465487059;144.763339762836
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19498@eventor.orienteering.asn.au
-DTSTAMP:20230909T054825Z
-DTSTART:20231210T060000Z
-DTEND:20231210T060000Z
-SUMMARY:MapRun Parks 2023 - Edenbrooke, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19498
-GEO:-27.548542;152.948967
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19916@eventor.orienteering.asn.au
@@ -12775,6 +12775,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19783
 GEO:-32.0116708566954;115.87570709507
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19499@eventor.orienteering.asn.au
+DTSTAMP:20231219T234907Z
+DTSTART:20231216T140000Z
+DTEND:20231217T140000Z
+SUMMARY:MapRun Parks 2023 - Rocks Riverside, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19499
+GEO:-27.5417525;152.960040589901
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19638@eventor.orienteering.asn.au
 DTSTAMP:20231201T102309Z
 DTSTART:20231216T160000Z
@@ -12828,15 +12837,6 @@ SUMMARY:Australian Junior Development Camp - Mayday Hills, Albury-Wodonga Orient
 URL:https://eventor.orienteering.asn.au/Events/Show/20054
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19499@eventor.orienteering.asn.au
-DTSTAMP:20231210T055901Z
-DTSTART:20231217T060000Z
-DTEND:20231217T060000Z
-SUMMARY:MapRun Parks 2023 - Rocks Riverside, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19499
-GEO:-27.5417525;152.960040589901
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19636@eventor.orienteering.asn.au
 DTSTAMP:20231219T021315Z
 DTSTART:20231218T060000Z
@@ -12871,6 +12871,15 @@ SUMMARY:ACT Pre-Christmas Training, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19876
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_17615@eventor.orienteering.asn.au
+DTSTAMP:20231219T231511Z
+DTSTART:20231218T140000Z
+DTEND:20231219T140000Z
+SUMMARY:Night Nav - Ferny Grove, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/17615
+GEO:-27.4031185307102;152.934752829146
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19462@eventor.orienteering.asn.au
 DTSTAMP:20231124T051908Z
 DTSTART:20231219T073000Z
@@ -12878,15 +12887,6 @@ DTEND:20231219T091500Z
 SUMMARY:Melbourne Park Street Tuesday Summer Series - Gowanbrae, Tuckonie Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19462
 GEO:-37.7050818337591;144.901350422051
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_17615@eventor.orienteering.asn.au
-DTSTAMP:20231014T051750Z
-DTSTART:20231219T073000Z
-DTEND:20231219T093000Z
-SUMMARY:Night Nav - Ferny Grove, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/17615
-GEO:-27.4031185307102;152.934752829146
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19732@eventor.orienteering.asn.au
@@ -12898,8 +12898,17 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19732
 GEO:-26.6973834147841;153.081169482625
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20087@eventor.orienteering.asn.au
+DTSTAMP:20231220T081309Z
+DTSTART:20231219T130000Z
+DTEND:20231220T130000Z
+SUMMARY:Australian Junior Development Camp - Relay Champs, Albury-Wodonga Orienteering Club / Orienteering Australia / Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/20087
+GEO:-36.3545618124948;146.679305657845
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19363@eventor.orienteering.asn.au
-DTSTAMP:20231219T100913Z
+DTSTAMP:20231220T103552Z
 DTSTART:20231220T053000Z
 DTEND:20231220T083000Z
 SUMMARY:2023/24 Sydney Summer Series #12 - Mosman, Bennelong Northside Orienteers
@@ -12908,7 +12917,7 @@ GEO:-33.8058262705058;151.245916325501
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19531@eventor.orienteering.asn.au
-DTSTAMP:20231127T231041Z
+DTSTAMP:20231220T112114Z
 DTSTART:20231220T060000Z
 DTEND:20231220T081500Z
 SUMMARY:Newcastle Summer Street Series #10 - Kilaben Bay, Newcastle Orienteering Club
@@ -12944,7 +12953,7 @@ GEO:-27.47389988133;153.028946019327
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19039@eventor.orienteering.asn.au
-DTSTAMP:20231215T220056Z
+DTSTAMP:20231220T043533Z
 DTSTART:20231226T130000Z
 DTEND:20231231T130000Z
 SUMMARY:XMAS 5 DAYS, Central Coast Orienteers / Uringa Orienteers

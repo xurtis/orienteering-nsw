@@ -4025,8 +4025,17 @@ SUMMARY:ACT MapRun Street Series October-December Season Pass, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19637
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20087@eventor.orienteering.asn.au
+DTSTAMP:20231220T081309Z
+DTSTART:20231219T130000Z
+DTEND:20231220T130000Z
+SUMMARY:Australian Junior Development Camp - Relay Champs, Albury-Wodonga Orienteering Club / Orienteering Australia / Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/20087
+GEO:-36.3545618124948;146.679305657845
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19363@eventor.orienteering.asn.au
-DTSTAMP:20231219T100913Z
+DTSTAMP:20231220T103552Z
 DTSTART:20231220T053000Z
 DTEND:20231220T083000Z
 SUMMARY:2023/24 Sydney Summer Series #12 - Mosman, Bennelong Northside Orienteers
@@ -4035,7 +4044,7 @@ GEO:-33.8058262705058;151.245916325501
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19531@eventor.orienteering.asn.au
-DTSTAMP:20231127T231041Z
+DTSTAMP:20231220T112114Z
 DTSTART:20231220T060000Z
 DTEND:20231220T081500Z
 SUMMARY:Newcastle Summer Street Series #10 - Kilaben Bay, Newcastle Orienteering Club

@@ -8866,6 +8866,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19775
 GEO:-31.9240747033142;115.826044382612
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19498@eventor.orienteering.asn.au
+DTSTAMP:20231219T234742Z
+DTSTART:20231209T140000Z
+DTEND:20231210T140000Z
+SUMMARY:MapRun Parks 2023 - Edenbrooke, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19498
+GEO:-27.548542;152.948967
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19643@eventor.orienteering.asn.au
 DTSTAMP:20231209T233658Z
 DTSTART:20231209T220000Z
@@ -8900,15 +8909,6 @@ DTEND:20231209T223000Z
 SUMMARY:West Sydney Orienteering Series #1, Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19502
 GEO:-33.7721456236764;150.63567889557
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19498@eventor.orienteering.asn.au
-DTSTAMP:20230909T054825Z
-DTSTART:20231210T060000Z
-DTEND:20231210T060000Z
-SUMMARY:MapRun Parks 2023 - Edenbrooke, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19498
-GEO:-27.548542;152.948967
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19916@eventor.orienteering.asn.au
@@ -9000,6 +9000,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19783
 GEO:-32.0116708566954;115.87570709507
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19499@eventor.orienteering.asn.au
+DTSTAMP:20231219T234907Z
+DTSTART:20231216T140000Z
+DTEND:20231217T140000Z
+SUMMARY:MapRun Parks 2023 - Rocks Riverside, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19499
+GEO:-27.5417525;152.960040589901
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19644@eventor.orienteering.asn.au
 DTSTAMP:20231217T003321Z
 DTSTART:20231216T220000Z
@@ -9044,15 +9053,6 @@ SUMMARY:Australian Junior Development Camp - Mayday Hills, Albury-Wodonga Orient
 URL:https://eventor.orienteering.asn.au/Events/Show/20054
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19499@eventor.orienteering.asn.au
-DTSTAMP:20231210T055901Z
-DTSTART:20231217T060000Z
-DTEND:20231217T060000Z
-SUMMARY:MapRun Parks 2023 - Rocks Riverside, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19499
-GEO:-27.5417525;152.960040589901
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19876@eventor.orienteering.asn.au
 DTSTAMP:20231201T021437Z
 DTSTART:20231218T130000Z
@@ -9062,9 +9062,9 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19876
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17615@eventor.orienteering.asn.au
-DTSTAMP:20231014T051750Z
-DTSTART:20231219T073000Z
-DTEND:20231219T093000Z
+DTSTAMP:20231219T231511Z
+DTSTART:20231218T140000Z
+DTEND:20231219T140000Z
 SUMMARY:Night Nav - Ferny Grove, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/17615
 GEO:-27.4031185307102;152.934752829146
@@ -9079,8 +9079,17 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19732
 GEO:-26.6973834147841;153.081169482625
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20087@eventor.orienteering.asn.au
+DTSTAMP:20231220T081309Z
+DTSTART:20231219T130000Z
+DTEND:20231220T130000Z
+SUMMARY:Australian Junior Development Camp - Relay Champs, Albury-Wodonga Orienteering Club / Orienteering Australia / Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/20087
+GEO:-36.3545618124948;146.679305657845
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19363@eventor.orienteering.asn.au
-DTSTAMP:20231219T100913Z
+DTSTAMP:20231220T103552Z
 DTSTART:20231220T053000Z
 DTEND:20231220T083000Z
 SUMMARY:2023/24 Sydney Summer Series #12 - Mosman, Bennelong Northside Orienteers
