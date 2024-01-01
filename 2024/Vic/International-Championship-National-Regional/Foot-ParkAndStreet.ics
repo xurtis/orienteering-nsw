@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Svenska Orienteringsförbundet//Eventor
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:Event_19713@eventor.orienteering.asn.au
+DTSTAMP:20231026T093511Z
+DTSTART:20240316T130000Z
+DTEND:20240317T130000Z
+SUMMARY:Victorian Club Relays, Melbourne Forest Racers
+URL:https://eventor.orienteering.asn.au/Events/Show/19713
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19714@eventor.orienteering.asn.au
+DTSTAMP:20231026T093511Z
+DTSTART:20240914T140000Z
+DTEND:20240915T140000Z
+SUMMARY:Vic Middle Distance Championships  - Blackwood, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19714
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19715@eventor.orienteering.asn.au
+DTSTAMP:20231026T093511Z
+DTSTART:20240921T140000Z
+DTEND:20240922T140000Z
+SUMMARY:Vic Long Distance Championships - Nuggety Range, Maldon, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19715
+END:VEVENT
+END:VCALENDAR
