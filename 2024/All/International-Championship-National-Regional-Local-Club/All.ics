@@ -12,22 +12,22 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19877
 GEO:-37.8788027567128;145.137020806385
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19882@eventor.orienteering.asn.au
-DTSTAMP:20231230T105334Z
-DTSTART:20240102T073000Z
-DTEND:20240102T091500Z
-SUMMARY:Melbourne Park Street Tuesday Summer Series - Williams Landing, Nillumbik Emus Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19882
-GEO:-37.862159510779;144.749186354153
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19585@eventor.orienteering.asn.au
-DTSTAMP:20240101T084937Z
-DTSTART:20240102T073000Z
-DTEND:20240102T093000Z
+DTSTAMP:20240102T103257Z
+DTSTART:20240101T140000Z
+DTEND:20240102T140000Z
 SUMMARY:Night Nav - Albany Creek, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/19585
 GEO:-27.3607487038866;152.959422694905
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19882@eventor.orienteering.asn.au
+DTSTAMP:20240102T061626Z
+DTSTART:20240102T073000Z
+DTEND:20240102T091500Z
+SUMMARY:CANCELLED Melbourne Park Street Tuesday Summer Series - Williams Landing, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19882
+GEO:-37.862159510779;144.749186354153
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20126@eventor.orienteering.asn.au
@@ -247,7 +247,7 @@ GEO:-38.2867325686688;144.606207144735
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19776@eventor.orienteering.asn.au
-DTSTAMP:20231116T102602Z
+DTSTAMP:20240102T062144Z
 DTSTART:20240113T090000Z
 DTEND:20240113T101500Z
 SUMMARY:MetrO 8 Mosman Park, Bibbulmun Orienteers / Orienteering WA
@@ -355,7 +355,7 @@ GEO:-37.8145580690817;145.079301336919
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19968@eventor.orienteering.asn.au
-DTSTAMP:20231223T044802Z
+DTSTAMP:20240102T000849Z
 DTSTART:20240117T130000Z
 DTEND:20240121T130000Z
 SUMMARY:2024 Tasmania Junior Summer Orienteering Camp, Orienteering Tasmania
@@ -418,7 +418,7 @@ GEO:-38.1749386000342;144.713793812666
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19905@eventor.orienteering.asn.au
-DTSTAMP:20231205T042820Z
+DTSTAMP:20240102T041755Z
 DTSTART:20240120T070000Z
 DTEND:20240120T084500Z
 SUMMARY:Bike-O 75 Event 1 - Lysterfield, Bayside Kangaroos Orienteers
@@ -639,7 +639,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19647
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19675@eventor.orienteering.asn.au
-DTSTAMP:20231020T065822Z
+DTSTAMP:20240102T015426Z
 DTSTART:20240127T220000Z
 DTEND:20240127T233000Z
 SUMMARY:Central Coast Summer Series 9 - Bateau Bay, Central Coast Orienteers
@@ -743,10 +743,10 @@ GEO:-33.2703590478003;149.079747502664
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20042@eventor.orienteering.asn.au
-DTSTAMP:20231213T071438Z
+DTSTAMP:20240102T073058Z
 DTSTART:20240202T080000Z
 DTEND:20240202T093000Z
-SUMMARY:Snap Sprint Series Race 1, SA Arrows
+SUMMARY:Snap Sprint Series Race 1 - Flinders University North, SA Arrows
 URL:https://eventor.orienteering.asn.au/Events/Show/20042
 END:VEVENT
 BEGIN:VEVENT
@@ -777,7 +777,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19648
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19676@eventor.orienteering.asn.au
-DTSTAMP:20231020T070110Z
+DTSTAMP:20240102T020559Z
 DTSTART:20240203T220000Z
 DTEND:20240203T233000Z
 SUMMARY:Central Coast Summer Series 10 - Copacabana, Central Coast Orienteers
@@ -934,10 +934,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20031
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20043@eventor.orienteering.asn.au
-DTSTAMP:20231213T071517Z
+DTSTAMP:20240102T073128Z
 DTSTART:20240209T080000Z
 DTEND:20240209T093000Z
-SUMMARY:Snap Sprint Series Race 2, SA Arrows
+SUMMARY:Snap Sprint Series Race 2 - Mawson Lakes, SA Arrows
 URL:https://eventor.orienteering.asn.au/Events/Show/20043
 END:VEVENT
 BEGIN:VEVENT
@@ -1143,10 +1143,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20032
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20044@eventor.orienteering.asn.au
-DTSTAMP:20231213T071555Z
+DTSTAMP:20240102T073155Z
 DTSTART:20240216T080000Z
 DTEND:20240216T093000Z
-SUMMARY:Snap Sprint Series Race 3, SA Arrows
+SUMMARY:Snap Sprint Series Race 3 - Adelaide Botanic Gardens, SA Arrows
 URL:https://eventor.orienteering.asn.au/Events/Show/20044
 END:VEVENT
 BEGIN:VEVENT
@@ -1187,12 +1187,12 @@ GEO:-42.9024106396489;147.328365828663
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19907@eventor.orienteering.asn.au
-DTSTAMP:20231208T000034Z
+DTSTAMP:20240102T031119Z
 DTSTART:20240217T070000Z
 DTEND:20240217T084500Z
-SUMMARY:Bike-O 75  Event 3 - location TBC, Bayside Kangaroos Orienteers
+SUMMARY:Bike-O 75  Event 3 - Silvan, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19907
-GEO:-37.6461414907259;144.868463546836
+GEO:-37.8371376245979;145.392036103179
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19764@eventor.orienteering.asn.au
@@ -1380,10 +1380,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20033
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20045@eventor.orienteering.asn.au
-DTSTAMP:20231213T071646Z
+DTSTAMP:20240102T073225Z
 DTSTART:20240223T080000Z
 DTEND:20240223T093000Z
-SUMMARY:Snap Sprint Series Race 4, SA Arrows
+SUMMARY:Snap Sprint Series Race 4 - St Clair Wetlands (TBC), SA Arrows
 URL:https://eventor.orienteering.asn.au/Events/Show/20045
 END:VEVENT
 BEGIN:VEVENT
@@ -1570,12 +1570,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19518
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19908@eventor.orienteering.asn.au
-DTSTAMP:20231231T074624Z
+DTSTAMP:20240102T031529Z
 DTSTART:20240302T070000Z
 DTEND:20240302T084500Z
 SUMMARY:Bike-O 75 Event 4 - You Yangs Regional Park, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19908
-GEO:-37.9655930769915;144.408277233698
+GEO:-37.9538343422403;144.403904649304
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19541@eventor.orienteering.asn.au
