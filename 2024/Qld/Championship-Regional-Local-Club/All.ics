@@ -21,6 +21,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20126
 GEO:-28.5715847054391;151.775711160487
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20135@eventor.orienteering.asn.au
+DTSTAMP:20240102T232650Z
+DTSTART:20240104T030000Z
+DTEND:20240104T030000Z
+SUMMARY:QNOTS - middle, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/20135
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19710@eventor.orienteering.asn.au
 DTSTAMP:20231220T025011Z
 DTSTART:20240104T073000Z
@@ -28,6 +36,38 @@ DTEND:20240104T090000Z
 SUMMARY:Night Nav - Southside - Acacia Ridge, Toohey Forest Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19710
 GEO:-27.5863270541853;153.014703907154
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20136@eventor.orienteering.asn.au
+DTSTAMP:20240102T234537Z
+DTSTART:20240104T100000Z
+DTEND:20240104T100000Z
+SUMMARY:QNOTS - NightO, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/20136
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20137@eventor.orienteering.asn.au
+DTSTAMP:20240103T000453Z
+DTSTART:20240104T233000Z
+DTEND:20240104T233000Z
+SUMMARY:QNOTS - Long Legs, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/20137
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20138@eventor.orienteering.asn.au
+DTSTAMP:20240103T002238Z
+DTSTART:20240105T060000Z
+DTEND:20240105T060000Z
+SUMMARY:QNOTs - Bush Sprint, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/20138
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20139@eventor.orienteering.asn.au
+DTSTAMP:20240103T014838Z
+DTSTART:20240105T230000Z
+DTEND:20240105T230000Z
+SUMMARY:QNOTS - Finale, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/20139
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18733@eventor.orienteering.asn.au
@@ -204,7 +244,7 @@ GEO:-27.5395960254306;152.967008418521
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18751@eventor.orienteering.asn.au
-DTSTAMP:20230225T235622Z
+DTSTAMP:20240103T094310Z
 DTSTART:20240404T003000Z
 DTEND:20240404T010000Z
 SUMMARY:Bardon Forest Park. Bardon. Bush. (BCC Sponsored) (MAPRUN EVENT), Orienteering Queensland
@@ -247,7 +287,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19701
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18758@eventor.orienteering.asn.au
-DTSTAMP:20230226T033732Z
+DTSTAMP:20240103T094353Z
 DTSTART:20240502T003000Z
 DTEND:20240502T010000Z
 SUMMARY:Mercer Park, Kedron. (BCC Sponsored) (MAPRUN EVENT), Orienteering Queensland

@@ -4,7 +4,7 @@ PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
 UID:Event_19365@eventor.orienteering.asn.au
-DTSTAMP:20240101T073343Z
+DTSTAMP:20240103T103145Z
 DTSTART:20240103T053000Z
 DTEND:20240103T083000Z
 SUMMARY:2023/24 Sydney Summer Series #14 - Cooper Park, Woollahra, Illawarra Kareelah Orienteers
@@ -13,12 +13,20 @@ GEO:-33.8867359770907;151.250372594267
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19532@eventor.orienteering.asn.au
-DTSTAMP:20231213T210218Z
+DTSTAMP:20240103T102404Z
 DTSTART:20240103T060000Z
 DTEND:20240103T081500Z
 SUMMARY:Newcastle Summer Street Series #11 - Georgetown, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19532
 GEO:-32.9065008471071;151.734020376431
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20135@eventor.orienteering.asn.au
+DTSTAMP:20240102T232650Z
+DTSTART:20240104T030000Z
+DTEND:20240104T030000Z
+SUMMARY:QNOTS - middle, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/20135
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20091@eventor.orienteering.asn.au
