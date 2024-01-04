@@ -139,7 +139,7 @@ GEO:-38.1749386000342;144.713793812666
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19905@eventor.orienteering.asn.au
-DTSTAMP:20240103T102644Z
+DTSTAMP:20240103T224058Z
 DTSTART:20240120T070000Z
 DTEND:20240120T084500Z
 SUMMARY:Bike-O 75 Event 1 - Lysterfield, Bayside Kangaroos Orienteers
@@ -405,7 +405,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19946
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19907@eventor.orienteering.asn.au
-DTSTAMP:20240103T103828Z
+DTSTAMP:20240103T230016Z
 DTSTART:20240217T070000Z
 DTEND:20240217T084500Z
 SUMMARY:Bike-O 75  Event 3 - Silvan, Bayside Kangaroos Orienteers
@@ -511,7 +511,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19948
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19908@eventor.orienteering.asn.au
-DTSTAMP:20240103T104041Z
+DTSTAMP:20240103T231249Z
 DTSTART:20240302T070000Z
 DTEND:20240302T084500Z
 SUMMARY:Bike-O 75 Event 4 - You Yangs Regional Park, Bayside Kangaroos Orienteers
@@ -573,6 +573,15 @@ DTSTART:20240307T080000Z
 DTEND:20240307T091500Z
 SUMMARY:Geelong Park Street Thursday Summer Series - North Valley, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19956
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20140@eventor.orienteering.asn.au
+DTSTAMP:20240104T060342Z
+DTSTART:20240308T230000Z
+DTEND:20240309T130000Z
+SUMMARY:Ballarat Sprints / Eureka Challenge, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20140
+GEO:-37.5540413357958;143.816037440442
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19919@eventor.orienteering.asn.au
