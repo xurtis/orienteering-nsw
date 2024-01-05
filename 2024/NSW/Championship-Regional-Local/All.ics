@@ -22,16 +22,16 @@ GEO:-32.9065008471071;151.734020376431
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20091@eventor.orienteering.asn.au
-DTSTAMP:20231230T081423Z
+DTSTAMP:20240104T232006Z
 DTSTART:20240105T220000Z
 DTEND:20240105T233000Z
-SUMMARY:SHOO's Summer Saturdays #1, Southern Highlands Orienteers
+SUMMARY:SHOO's Summer Saturdays #1 - Spring Farm, Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20091
 GEO:-34.0695175216636;150.730184137591
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19372@eventor.orienteering.asn.au
-DTSTAMP:20240104T075714Z
+DTSTAMP:20240105T022518Z
 DTSTART:20240110T053000Z
 DTEND:20240110T083000Z
 SUMMARY:2023/24 Sydney Summer Series #15 - Turramurra, Garingal Orienteers
@@ -49,10 +49,10 @@ GEO:-32.9895737001617;151.638679188791
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20092@eventor.orienteering.asn.au
-DTSTAMP:20231228T035625Z
+DTSTAMP:20240104T231842Z
 DTSTART:20240112T220000Z
 DTEND:20240112T233000Z
-SUMMARY:SHOO's Summer Saturdays #2, Southern Highlands Orienteers
+SUMMARY:SHOO's Summer Saturdays #2 - Mt Annan, Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20092
 GEO:-34.0606349303381;150.759405719825
 END:VEVENT
@@ -154,11 +154,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19508
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19909@eventor.orienteering.asn.au
-DTSTAMP:20231206T021401Z
+DTSTAMP:20240105T051226Z
 DTSTART:20240203T230000Z
 DTEND:20240204T010000Z
 SUMMARY:Illawarra Map Running #1 - South Wollongong, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19909
+GEO:-34.4361372312141;150.892850140567
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19377@eventor.orienteering.asn.au
@@ -197,7 +198,7 @@ GEO:-33.7915469793891;151.007736860288
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19910@eventor.orienteering.asn.au
-DTSTAMP:20240104T012319Z
+DTSTAMP:20240105T053238Z
 DTSTART:20240210T230000Z
 DTEND:20240211T010000Z
 SUMMARY:Illawarra Map Running #2 - (change of location) tba, Illawarra Kareelah Orienteers
@@ -285,6 +286,15 @@ DTSTART:20240302T023000Z
 DTEND:20240303T023000Z
 SUMMARY:O'Shea 2 Days 2024 - testing Relay (take 2), Central Coast Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19518
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20141@eventor.orienteering.asn.au
+DTSTAMP:20240105T022050Z
+DTSTART:20240302T130000Z
+DTEND:20240303T130000Z
+SUMMARY:Women in Sport Expo - Speers Point Park, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20141
+GEO:-32.9615754787454;151.617076782514
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19915@eventor.orienteering.asn.au
