@@ -148,7 +148,7 @@ GEO:-37.7657971615269;144.952392159296
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19586@eventor.orienteering.asn.au
-DTSTAMP:20231127T030014Z
+DTSTAMP:20240107T093729Z
 DTSTART:20240109T073000Z
 DTEND:20240109T093000Z
 SUMMARY:Night Nav - Bridgeman Downs, Enoggeroos
@@ -265,7 +265,7 @@ GEO:-38.1081522893944;145.174585090077
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18098@eventor.orienteering.asn.au
-DTSTAMP:20231127T031857Z
+DTSTAMP:20240107T093817Z
 DTSTART:20240116T073000Z
 DTEND:20240116T073000Z
 SUMMARY:Night Nav - Enoggera, Enoggeroos
@@ -334,6 +334,15 @@ DTEND:20240119T083000Z
 SUMMARY:Twilight Series Event #8 - Marino, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/19766
 GEO:-35.0398807356963;138.514549545386
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20145@eventor.orienteering.asn.au
+DTSTAMP:20240106T233654Z
+DTSTART:20240119T220000Z
+DTEND:20240119T233000Z
+SUMMARY:SHOO's Summer Saturdays #3 - Gregory Hills, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20145
+GEO:-34.0298271874958;150.779222462221
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19624@eventor.orienteering.asn.au
@@ -418,7 +427,7 @@ GEO:-37.7650650882536;144.899274292019
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19587@eventor.orienteering.asn.au
-DTSTAMP:20231127T031944Z
+DTSTAMP:20240107T093834Z
 DTSTART:20240123T073000Z
 DTEND:20240123T093000Z
 SUMMARY:Night Nav - Gordon Park, Enoggeroos
@@ -458,6 +467,15 @@ DTEND:20240125T091500Z
 SUMMARY:Melbourne Park Street Thursday Summer Series - Bellfield, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19895
 GEO:-37.7547156007038;145.038693031785
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20146@eventor.orienteering.asn.au
+DTSTAMP:20240107T063807Z
+DTSTART:20240126T220000Z
+DTEND:20240127T000000Z
+SUMMARY:SHOO’s Summer Saturdays #4 - Oran Park, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20146
+GEO:-34.0093101521635;150.748746581232
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19899@eventor.orienteering.asn.au
@@ -582,6 +600,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20030
 GEO:-33.2703590478003;149.079747502664
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20147@eventor.orienteering.asn.au
+DTSTAMP:20240107T064411Z
+DTSTART:20240202T220000Z
+DTEND:20240203T003000Z
+SUMMARY:SHOO’s Summer Saturdays #5 - Currans Hill, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20147
+GEO:-34.0465591434101;150.765917191786
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19784@eventor.orienteering.asn.au
 DTSTAMP:20231118T055302Z
 DTSTART:20240203T090000Z
@@ -650,7 +677,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19926
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18738@eventor.orienteering.asn.au
-DTSTAMP:20230223T090529Z
+DTSTAMP:20240107T064551Z
 DTSTART:20240206T073000Z
 DTEND:20240206T093000Z
 SUMMARY:Night Nav - Toowong- BCC, Ugly Gully Orienteers
@@ -788,6 +815,14 @@ DTSTART:20240212T073000Z
 DTEND:20240212T091500Z
 SUMMARY:Melbourne Park Street Monday Summer Series - Nortons Park, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19913
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20148@eventor.orienteering.asn.au
+DTSTAMP:20240107T064255Z
+DTSTART:20240212T140000Z
+DTEND:20240213T140000Z
+SUMMARY:Night Nav - TBC, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20148
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19927@eventor.orienteering.asn.au

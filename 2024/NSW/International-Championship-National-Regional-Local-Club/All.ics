@@ -58,10 +58,10 @@ GEO:-34.0606349303381;150.759405719825
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18414@eventor.orienteering.asn.au
-DTSTAMP:20231222T002102Z
+DTSTAMP:20240106T222727Z
 DTSTART:20240113T210000Z
 DTEND:20240114T000000Z
-SUMMARY:BOSS 4 NEWCASTLE MTBO, Newcastle Orienteering Club
+SUMMARY:BOSS 4 NEWCASTLE MTBO - Stanford Merthyr, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18414
 GEO:-32.8238754380194;151.488060736391
 END:VEVENT
@@ -91,6 +91,15 @@ DTEND:20240117T060000Z
 SUMMARY:Newcastle 2023-24 Summer Street Series #13, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19534
 GEO:-33.0712154820664;151.588659541942
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20145@eventor.orienteering.asn.au
+DTSTAMP:20240106T233654Z
+DTSTART:20240119T220000Z
+DTEND:20240119T233000Z
+SUMMARY:SHOO's Summer Saturdays #3 - Gregory Hills, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20145
+GEO:-34.0298271874958;150.779222462221
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19674@eventor.orienteering.asn.au
@@ -136,6 +145,15 @@ SUMMARY:Newcastle 2023-24 Summer Street Series #14, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19535
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20146@eventor.orienteering.asn.au
+DTSTAMP:20240107T063807Z
+DTSTART:20240126T220000Z
+DTEND:20240127T000000Z
+SUMMARY:SHOO’s Summer Saturdays #4 - Oran Park, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20146
+GEO:-34.0093101521635;150.748746581232
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19675@eventor.orienteering.asn.au
 DTSTAMP:20240102T015426Z
 DTSTART:20240127T220000Z
@@ -177,6 +195,15 @@ DTEND:20240202T083000Z
 SUMMARY:Goldseekers Summer Series #1 2024, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20030
 GEO:-33.2703590478003;149.079747502664
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20147@eventor.orienteering.asn.au
+DTSTAMP:20240107T064411Z
+DTSTART:20240202T220000Z
+DTEND:20240203T003000Z
+SUMMARY:SHOO’s Summer Saturdays #5 - Currans Hill, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20147
+GEO:-34.0465591434101;150.765917191786
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19676@eventor.orienteering.asn.au
