@@ -13,12 +13,12 @@ GEO:-34.9350281735472;138.657588422896
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19857@eventor.orienteering.asn.au
-DTSTAMP:20231222T090938Z
+DTSTAMP:20240109T074956Z
 DTSTART:20240112T073000Z
 DTEND:20240112T073000Z
 SUMMARY:Twilight Series Event #7 - North Adelaide City and Parklands, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/19857
-GEO:-34.9169469043876;138.60121094297
+GEO:-34.9170761089788;138.60155622494
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19766@eventor.orienteering.asn.au
@@ -28,6 +28,15 @@ DTEND:20240119T083000Z
 SUMMARY:Twilight Series Event #8 - Marino, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/19766
 GEO:-35.0398807356963;138.514549545386
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20150@eventor.orienteering.asn.au
+DTSTAMP:20240109T135438Z
+DTSTART:20240125T143000Z
+DTEND:20240126T143000Z
+SUMMARY:NT: 2024 Australia Day Come and Try, Top End Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20150
+GEO:-12.4449499798777;130.836637445497
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20144@eventor.orienteering.asn.au
@@ -80,10 +89,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20044
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20045@eventor.orienteering.asn.au
-DTSTAMP:20240102T073225Z
+DTSTAMP:20240109T075241Z
 DTSTART:20240223T080000Z
 DTEND:20240223T093000Z
-SUMMARY:Snap Sprint Series Race 4 - St Clair Wetlands (TBC), SA Arrows
+SUMMARY:Snap Sprint Series Race 4 - Glenelg (TBC), SA Arrows
 URL:https://eventor.orienteering.asn.au/Events/Show/20045
 END:VEVENT
 BEGIN:VEVENT
