@@ -498,6 +498,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20142
 GEO:-32.9731962685724;151.616255555445
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18416@eventor.orienteering.asn.au
+DTSTAMP:20240111T051317Z
+DTSTART:20240309T210000Z
+DTEND:20240309T210000Z
+SUMMARY:BOSS 6 FINAL  NEWCASTLE MTBO, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/18416
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19770@eventor.orienteering.asn.au
 DTSTAMP:20231116T063419Z
 DTSTART:20240309T230000Z
@@ -554,14 +562,6 @@ DTSTART:20240316T130000Z
 DTEND:20240317T130000Z
 SUMMARY:2024 NSW State League #2 - Ophir, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19573
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18416@eventor.orienteering.asn.au
-DTSTAMP:20230107T021151Z
-DTSTART:20240316T210000Z
-DTEND:20240317T000000Z
-SUMMARY:BOSS 6 FINAL  NEWCASTLE MTBO, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/18416
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20050@eventor.orienteering.asn.au
@@ -782,10 +782,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19806
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19577@eventor.orienteering.asn.au
-DTSTAMP:20231205T104235Z
+DTSTAMP:20240111T071524Z
 DTSTART:20240608T040000Z
 DTEND:20240610T040000Z
-SUMMARY:2024 KB3 and NSW State Leagues Weekend 3days - Rylstone Area, Garingal Orienteers
+SUMMARY:2024 KB3 3-Days (NSW State Leagues) - Rylstone Area, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19577
 END:VEVENT
 BEGIN:VEVENT
@@ -862,6 +862,15 @@ DTEND:20240707T033000Z
 SUMMARY:Waggaroos - AWOC Interclub #4, Narrandera, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19810
 GEO:-34.7540010443224;146.592562804123
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20169@eventor.orienteering.asn.au
+DTSTAMP:20240111T050550Z
+DTSTART:20240712T060000Z
+DTEND:20240716T020000Z
+SUMMARY:Bluebottle July Camp near Armidale, Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/20169
+GEO:-30.4478958083191;151.825279115907
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19847@eventor.orienteering.asn.au

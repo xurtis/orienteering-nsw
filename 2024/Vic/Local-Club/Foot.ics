@@ -3,6 +3,15 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
+UID:Event_20170@eventor.orienteering.asn.au
+DTSTAMP:20240111T062031Z
+DTSTART:20240116T064500Z
+DTEND:20240116T084500Z
+SUMMARY:Ballarat Park & Street Summer Series ’24 – #1 Brown Hill, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20170
+GEO:-37.5524517116015;143.89759190791
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20127@eventor.orienteering.asn.au
 DTSTAMP:20231231T025708Z
 DTSTART:20240120T233000Z
@@ -19,6 +28,15 @@ DTEND:20240120T233000Z
 SUMMARY:Monash Mayhem 2.0 Team Entries - Organiser Use Only, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19762
 GEO:-37.9152394465156;145.134704344355
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20171@eventor.orienteering.asn.au
+DTSTAMP:20240111T062113Z
+DTSTART:20240123T064500Z
+DTEND:20240123T084500Z
+SUMMARY:Ballarat Park & Street Summer Series ’24 – #2 Canadian Gully, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20171
+GEO:-37.588156815099;143.867629409591
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19151@eventor.orienteering.asn.au
@@ -48,6 +66,24 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19153
 GEO:-37.0221564835137;147.23929662307
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20172@eventor.orienteering.asn.au
+DTSTAMP:20240111T062147Z
+DTSTART:20240130T064500Z
+DTEND:20240130T084500Z
+SUMMARY:Ballarat Park & Street Summer Series ’24 – #3 Cornish Hill, Daylesford, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20172
+GEO:-37.3462504998199;144.144002732867
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20173@eventor.orienteering.asn.au
+DTSTAMP:20240111T061808Z
+DTSTART:20240206T064500Z
+DTEND:20240206T084500Z
+SUMMARY:Ballarat Park & Street Summer Series ’24 – #4 Buninyong, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20173
+GEO:-37.6490474635931;143.884014532275
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20057@eventor.orienteering.asn.au
 DTSTAMP:20231218T110525Z
 DTSTART:20240210T203000Z
@@ -55,6 +91,50 @@ DTEND:20240210T203000Z
 SUMMARY:Peter Creely memorial Fowl & Fizz (plus AGM), Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20057
 GEO:-36.7120532760186;144.288285238037
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20166@eventor.orienteering.asn.au
+DTSTAMP:20240111T035002Z
+DTSTART:20240211T000000Z
+DTEND:20240211T000000Z
+SUMMARY:Sunday Morning Sprint, Kensington, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20166
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20174@eventor.orienteering.asn.au
+DTSTAMP:20240111T061833Z
+DTSTART:20240213T064500Z
+DTEND:20240213T084500Z
+SUMMARY:Ballarat Park & Street Summer Series ’24 – #5 Lake Calembeen, Creswick, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20174
+GEO:-37.4193655551338;143.89077295241
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20183@eventor.orienteering.asn.au
+DTSTAMP:20240111T104219Z
+DTSTART:20240214T073000Z
+DTEND:20240214T083000Z
+SUMMARY:Twilight Sprint #1 Kyneton Gardens, Central Highlands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20183
+GEO:-37.2532072253329;144.449919359777
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20175@eventor.orienteering.asn.au
+DTSTAMP:20240111T061900Z
+DTSTART:20240220T064500Z
+DTEND:20240220T084500Z
+SUMMARY:Ballarat Park & Street Summer Series ’24 – #6 Lake Esmond, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20175
+GEO:-37.5758663737338;143.874635307767
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20184@eventor.orienteering.asn.au
+DTSTAMP:20240111T105428Z
+DTSTART:20240221T073000Z
+DTEND:20240221T084500Z
+SUMMARY:Twilight Sprint #2 Woodend Parklands, Central Highlands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20184
+GEO:-37.3540913629203;144.529432521406
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20090@eventor.orienteering.asn.au
@@ -66,6 +146,41 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20090
 GEO:-36.5992471953102;143.613073204183
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20176@eventor.orienteering.asn.au
+DTSTAMP:20240111T061922Z
+DTSTART:20240227T064500Z
+DTEND:20240227T084500Z
+SUMMARY:Ballarat Park & Street Summer Series ’24 – #7 Yuille Wetlands, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20176
+GEO:-37.5911296636486;143.846166755456
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20185@eventor.orienteering.asn.au
+DTSTAMP:20240111T105641Z
+DTSTART:20240228T073000Z
+DTEND:20240228T084500Z
+SUMMARY:Twilight Sprint #3 Malmsbury Botanical Gardens, Central Highlands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20185
+GEO:-37.1891251714827;144.382253733585
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20182@eventor.orienteering.asn.au
+DTSTAMP:20240111T074056Z
+DTSTART:20240303T000000Z
+DTEND:20240303T000000Z
+SUMMARY:Sunday Morning Sprint, University of Melbourne, Melbourne Forest Racers
+URL:https://eventor.orienteering.asn.au/Events/Show/20182
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20177@eventor.orienteering.asn.au
+DTSTAMP:20240111T061950Z
+DTSTART:20240305T064500Z
+DTEND:20240305T084500Z
+SUMMARY:Ballarat Park & Street Summer Series ’24 – #8 Black Hill, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20177
+GEO:-37.5519788801262;143.873493740234
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20140@eventor.orienteering.asn.au
 DTSTAMP:20240108T000941Z
 DTSTART:20240308T230000Z
@@ -73,6 +188,15 @@ DTEND:20240309T130000Z
 SUMMARY:Ballarat Sprints / Eureka Challenge, Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20140
 GEO:-37.5540413357958;143.816037440442
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20178@eventor.orienteering.asn.au
+DTSTAMP:20240111T061740Z
+DTSTART:20240312T064500Z
+DTEND:20240312T084500Z
+SUMMARY:Ballarat Park & Street Summer Series ’24 – #9 Ballarat East, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20178
+GEO:-37.5649186744627;143.885979757576
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20056@eventor.orienteering.asn.au
@@ -92,6 +216,15 @@ SUMMARY:AWOC training #1 Chiltern Forest, Albury-Wodonga Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19789
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20179@eventor.orienteering.asn.au
+DTSTAMP:20240111T062428Z
+DTSTART:20240319T064500Z
+DTEND:20240319T084500Z
+SUMMARY:Ballarat Park & Street Summer Series ’24 – #10 Victoria Park, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20179
+GEO:-37.5616900199505;143.827236172286
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20058@eventor.orienteering.asn.au
 DTSTAMP:20231218T111436Z
 DTSTART:20240323T013000Z
@@ -99,6 +232,32 @@ DTEND:20240323T030000Z
 SUMMARY:Bendigo Series 1 - Lightning Hill, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20058
 GEO:-36.7178445326267;144.252019471283
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20168@eventor.orienteering.asn.au
+DTSTAMP:20240111T035623Z
+DTSTART:20240324T000000Z
+DTEND:20240324T000000Z
+SUMMARY:Sunday Morning Sprint, Dandenong Ranges Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20168
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20180@eventor.orienteering.asn.au
+DTSTAMP:20240111T062935Z
+DTSTART:20240326T064500Z
+DTEND:20240326T084500Z
+SUMMARY:Ballarat Park & Street Summer Series ’24 – #11 Golden Point, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20180
+GEO:-37.5774678517803;143.864158081469
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20181@eventor.orienteering.asn.au
+DTSTAMP:20240111T063617Z
+DTSTART:20240402T064500Z
+DTEND:20240402T084500Z
+SUMMARY:Ballarat Park & Street Summer Series ’24 – #12 Lake Gardens, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20181
+GEO:-37.5453059736572;143.823061482585
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20068@eventor.orienteering.asn.au
