@@ -443,7 +443,7 @@ GEO:-35.0398807356963;138.514549545386
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20145@eventor.orienteering.asn.au
-DTSTAMP:20240106T233654Z
+DTSTAMP:20240112T032523Z
 DTSTART:20240119T220000Z
 DTEND:20240119T233000Z
 SUMMARY:SHOO's Summer Saturdays #3 - Gregory Hills, Southern Highlands Orienteers
@@ -612,7 +612,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20025
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19374@eventor.orienteering.asn.au
-DTSTAMP:20231008T212018Z
+DTSTAMP:20240112T100239Z
 DTSTART:20240124T053000Z
 DTEND:20240124T083000Z
 SUMMARY:2023/24 Sydney Summer Series #17 - Paddington, Garingal Orienteers
@@ -644,6 +644,15 @@ DTEND:20240125T091500Z
 SUMMARY:Melbourne Park Street Thursday Summer Series - Bellfield, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19895
 GEO:-37.7547156007038;145.038693031785
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20186@eventor.orienteering.asn.au
+DTSTAMP:20240112T050439Z
+DTSTART:20240125T073000Z
+DTEND:20240125T093000Z
+SUMMARY:Algester South, Algester & Parkinson, Toohey Forest Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20186
+GEO:-27.6291080682048;153.023618914087
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19151@eventor.orienteering.asn.au
@@ -1419,7 +1428,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19768
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19509@eventor.orienteering.asn.au
-DTSTAMP:20240108T021838Z
+DTSTAMP:20240112T110655Z
 DTSTART:20240217T223000Z
 DTEND:20240218T010000Z
 SUMMARY:West Sydney Orienteering Series, Garingal Orienteers
