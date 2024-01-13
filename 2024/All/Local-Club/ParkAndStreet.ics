@@ -202,7 +202,7 @@ GEO:-37.7006099311177;145.020128571518
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19857@eventor.orienteering.asn.au
-DTSTAMP:20240111T123442Z
+DTSTAMP:20240113T014341Z
 DTSTART:20240112T073000Z
 DTEND:20240112T073000Z
 SUMMARY:Twilight Series Event #7 - North Adelaide City and Parklands, Orienteering SA
@@ -211,7 +211,7 @@ GEO:-34.9170761089788;138.60155622494
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20092@eventor.orienteering.asn.au
-DTSTAMP:20240104T231842Z
+DTSTAMP:20240113T035953Z
 DTSTART:20240112T220000Z
 DTEND:20240112T233000Z
 SUMMARY:SHOO's Summer Saturdays #2 - Mt Annan, Southern Highlands Orienteers
@@ -229,7 +229,7 @@ GEO:-38.2867325686688;144.606207144735
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19776@eventor.orienteering.asn.au
-DTSTAMP:20240111T024231Z
+DTSTAMP:20240113T101404Z
 DTSTART:20240113T090000Z
 DTEND:20240113T101500Z
 SUMMARY:MetrO 8 Mosman Park, Bibbulmun Orienteers / Orienteering WA
@@ -453,7 +453,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19587
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19374@eventor.orienteering.asn.au
-DTSTAMP:20240112T100239Z
+DTSTAMP:20240113T101732Z
 DTSTART:20240124T053000Z
 DTEND:20240124T083000Z
 SUMMARY:2023/24 Sydney Summer Series #17 - Paddington, Garingal Orienteers
@@ -604,11 +604,12 @@ GEO:-37.8023394829244;145.07476140679
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19826@eventor.orienteering.asn.au
-DTSTAMP:20231119T031311Z
+DTSTAMP:20240113T022735Z
 DTSTART:20240201T060000Z
 DTEND:20240201T080000Z
-SUMMARY:Twilight, Northern Tablelands Orienteering Club
+SUMMARY:Twilight #6, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19826
+GEO:-30.5115072508037;151.656550592528
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19951@eventor.orienteering.asn.au
@@ -680,7 +681,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19508
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19909@eventor.orienteering.asn.au
-DTSTAMP:20240105T051226Z
+DTSTAMP:20240113T010628Z
 DTSTART:20240203T230000Z
 DTEND:20240204T010000Z
 SUMMARY:Illawarra Map Running #1 - South Wollongong, Illawarra Kareelah Orienteers
@@ -765,11 +766,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19936
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19827@eventor.orienteering.asn.au
-DTSTAMP:20231119T031246Z
+DTSTAMP:20240113T031602Z
 DTSTART:20240208T060000Z
 DTEND:20240208T080000Z
-SUMMARY:Twilight, Northern Tablelands Orienteering Club
+SUMMARY:Twilight #7, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19827
+GEO:-30.6384235280155;151.500764283684
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19952@eventor.orienteering.asn.au
@@ -855,6 +857,15 @@ SUMMARY:Orienteering ACT Planning Workshop, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/20005
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20187@eventor.orienteering.asn.au
+DTSTAMP:20240113T035555Z
+DTSTART:20240211T073000Z
+DTEND:20240211T093000Z
+SUMMARY:Big Swamp Bunbury (SWOT Urban Series 2), South-West Orienteering Trekkers
+URL:https://eventor.orienteering.asn.au/Events/Show/20187
+GEO:-33.3431730036582;115.632921471803
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19984@eventor.orienteering.asn.au
 DTSTAMP:20231212T212808Z
 DTSTART:20240212T060000Z
@@ -922,11 +933,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19937
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19828@eventor.orienteering.asn.au
-DTSTAMP:20231119T031405Z
+DTSTAMP:20240113T031915Z
 DTSTART:20240215T060000Z
 DTEND:20240215T080000Z
-SUMMARY:Twilight, Northern Tablelands Orienteering Club
+SUMMARY:Twilight #8, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19828
+GEO:-30.5296974244979;151.659225470273
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19953@eventor.orienteering.asn.au
@@ -995,6 +1007,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20049
 GEO:-31.4541105910967;152.900304842263
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20188@eventor.orienteering.asn.au
+DTSTAMP:20240113T035708Z
+DTSTART:20240218T073000Z
+DTEND:20240218T093000Z
+SUMMARY:Galway Green (SWOT Urban Series 3), South-West Orienteering Trekkers
+URL:https://eventor.orienteering.asn.au/Events/Show/20188
+GEO:-33.3431730036582;115.632921471803
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19985@eventor.orienteering.asn.au
 DTSTAMP:20231212T212810Z
 DTSTART:20240219T060000Z
@@ -1054,10 +1075,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19938
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19829@eventor.orienteering.asn.au
-DTSTAMP:20231119T031448Z
+DTSTAMP:20240113T032619Z
 DTSTART:20240222T060000Z
 DTEND:20240222T080000Z
-SUMMARY:Twilight, Northern Tablelands Orienteering Club
+SUMMARY:Twilight #9, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19829
 END:VEVENT
 BEGIN:VEVENT
@@ -1144,11 +1165,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19939
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19830@eventor.orienteering.asn.au
-DTSTAMP:20231119T031537Z
+DTSTAMP:20240113T032810Z
 DTSTART:20240229T060000Z
 DTEND:20240229T080000Z
-SUMMARY:Twilight, Northern Tablelands Orienteering Club
+SUMMARY:Twilight #10, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19830
+GEO:-30.4300313136254;151.595768125608
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19955@eventor.orienteering.asn.au
