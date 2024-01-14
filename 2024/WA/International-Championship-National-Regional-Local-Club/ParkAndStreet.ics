@@ -22,21 +22,30 @@ GEO:-32.0229214304305;115.77090587987
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19772@eventor.orienteering.asn.au
-DTSTAMP:20240101T043753Z
+DTSTAMP:20240114T032008Z
 DTSTART:20240120T090000Z
 DTEND:20240120T101500Z
-SUMMARY:MetrO 9 Hillarys, LOST / Orienteering WA
+SUMMARY:MetrO 9 Hillarys, LOST / Orienteering WA / Wullundigong Orienteers of the West
 URL:https://eventor.orienteering.asn.au/Events/Show/19772
 GEO:-31.8119801471385;115.738248808932
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19773@eventor.orienteering.asn.au
-DTSTAMP:20231226T095613Z
+DTSTAMP:20240114T070227Z
 DTSTART:20240127T090000Z
 DTEND:20240127T101500Z
 SUMMARY:MetrO 10 Bibra Lake, Kulgun 225 Orienteers / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/19773
 GEO:-32.0859265179589;115.83842849888
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20195@eventor.orienteering.asn.au
+DTSTAMP:20240114T011250Z
+DTSTART:20240203T070000Z
+DTEND:20240203T070000Z
+SUMMARY:Albany - Little Grove, Albany & Denmark Hinterland Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20195
+GEO:-35.0660004520986;117.868215460109
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19784@eventor.orienteering.asn.au
@@ -49,7 +58,7 @@ GEO:-31.7884438427341;115.788763772325
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20167@eventor.orienteering.asn.au
-DTSTAMP:20240111T040039Z
+DTSTAMP:20240114T052729Z
 DTSTART:20240204T073000Z
 DTEND:20240204T093000Z
 SUMMARY:Dalyellup (SWOT Urban Series 1), South-West Orienteering Trekkers
@@ -75,6 +84,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20187
 GEO:-33.3431730036582;115.632921471803
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20196@eventor.orienteering.asn.au
+DTSTAMP:20240114T031835Z
+DTSTART:20240217T070000Z
+DTEND:20240217T070000Z
+SUMMARY:Albany - Mt Barker College, Albany & Denmark Hinterland Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20196
+GEO:-34.6129358765931;117.663598707669
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19764@eventor.orienteering.asn.au
 DTSTAMP:20231121T090329Z
 DTSTART:20240217T090000Z
@@ -91,5 +109,23 @@ DTEND:20240218T093000Z
 SUMMARY:Galway Green (SWOT Urban Series 3), South-West Orienteering Trekkers
 URL:https://eventor.orienteering.asn.au/Events/Show/20188
 GEO:-33.3431730036582;115.632921471803
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20197@eventor.orienteering.asn.au
+DTSTAMP:20240114T032448Z
+DTSTART:20240302T070000Z
+DTEND:20240302T070000Z
+SUMMARY:Albany - Flinders Park Primary, Albany & Denmark Hinterland Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20197
+GEO:-34.9782704893331;117.930027119365
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20198@eventor.orienteering.asn.au
+DTSTAMP:20240114T033211Z
+DTSTART:20240316T070000Z
+DTEND:20240316T070000Z
+SUMMARY:Albany - Mount Manypeaks Primary, Albany & Denmark Hinterland Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20198
+GEO:-34.8392474049765;118.171741515757
 END:VEVENT
 END:VCALENDAR
