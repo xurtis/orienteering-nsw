@@ -608,6 +608,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19205
 GEO:-35.4101518389684;149.119199700994
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20199@eventor.orienteering.asn.au
+DTSTAMP:20240115T020530Z
+DTSTART:20240301T230000Z
+DTEND:20240302T013000Z
+SUMMARY:Everton Park - Scout Qld - Park O Teralba Park, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/20199
+GEO:-27.4056944736787;152.978309732186
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19517@eventor.orienteering.asn.au
 DTSTAMP:20230920T204653Z
 DTSTART:20240302T023000Z
@@ -919,6 +928,15 @@ DTSTART:20240413T140000Z
 DTEND:20240414T140000Z
 SUMMARY:2024 NSW State League #4 - Snow Hills, Big Foot Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19575
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20200@eventor.orienteering.asn.au
+DTSTAMP:20240115T021440Z
+DTSTART:20240426T230000Z
+DTEND:20240427T040000Z
+SUMMARY:Petrie - Scout O - Murrenbong Scout Camp, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/20200
+GEO:-27.2319188118193;152.946845501887
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19974@eventor.orienteering.asn.au

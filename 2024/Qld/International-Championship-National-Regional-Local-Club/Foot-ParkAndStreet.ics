@@ -287,6 +287,15 @@ SUMMARY:Sprint Series - EN - Event 3, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20152
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20199@eventor.orienteering.asn.au
+DTSTAMP:20240115T020530Z
+DTSTART:20240301T230000Z
+DTEND:20240302T013000Z
+SUMMARY:Everton Park - Scout Qld - Park O Teralba Park, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/20199
+GEO:-27.4056944736787;152.978309732186
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20153@eventor.orienteering.asn.au
 DTSTAMP:20240110T031259Z
 DTSTART:20240302T053000Z
@@ -418,6 +427,15 @@ DTSTART:20240426T140000Z
 DTEND:20240427T140000Z
 SUMMARY:NOL - WRE Elite & Public Sprint (am) - OY3, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19733
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20200@eventor.orienteering.asn.au
+DTSTAMP:20240115T021440Z
+DTSTART:20240426T230000Z
+DTEND:20240427T040000Z
+SUMMARY:Petrie - Scout O - Murrenbong Scout Camp, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/20200
+GEO:-27.2319188118193;152.946845501887
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19735@eventor.orienteering.asn.au

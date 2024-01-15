@@ -254,7 +254,7 @@ GEO:-37.7006099311177;145.020128571518
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20132@eventor.orienteering.asn.au
-DTSTAMP:20240109T212408Z
+DTSTAMP:20240114T215908Z
 DTSTART:20240111T130000Z
 DTEND:20240114T130000Z
 SUMMARY:Launceston Summer Cup 2024, Esk Valley
@@ -488,12 +488,12 @@ GEO:-37.9660010793438;145.302933376022
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19772@eventor.orienteering.asn.au
-DTSTAMP:20240114T032008Z
+DTSTAMP:20240114T132747Z
 DTSTART:20240120T090000Z
 DTEND:20240120T101500Z
 SUMMARY:MetrO 9 Hillarys, LOST / Orienteering WA / Wullundigong Orienteers of the West
 URL:https://eventor.orienteering.asn.au/Events/Show/19772
-GEO:-31.8119801471385;115.738248808932
+GEO:-31.8145376249524;115.748180942547
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19906@eventor.orienteering.asn.au
@@ -542,7 +542,7 @@ GEO:-37.9152530848088;145.134680897776
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19762@eventor.orienteering.asn.au
-DTSTAMP:20231231T024019Z
+DTSTAMP:20240115T043820Z
 DTSTART:20240120T233000Z
 DTEND:20240120T233000Z
 SUMMARY:Monash Mayhem 2.0 Team Entries - Organiser Use Only, Dandenong Ranges Orienteering Club
@@ -720,7 +720,7 @@ GEO:-38.2683185857274;144.662276980605
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19773@eventor.orienteering.asn.au
-DTSTAMP:20240114T070227Z
+DTSTAMP:20240115T090857Z
 DTSTART:20240127T090000Z
 DTEND:20240127T101500Z
 SUMMARY:MetrO 10 Bibra Lake, Kulgun 225 Orienteers / Orienteering WA
@@ -896,10 +896,10 @@ GEO:-35.0660004520986;117.868215460109
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19784@eventor.orienteering.asn.au
-DTSTAMP:20231118T055302Z
+DTSTAMP:20240115T092321Z
 DTSTART:20240203T090000Z
 DTEND:20240203T101500Z
-SUMMARY:MetrO 11 Woodvale, Kulgun 225 Orienteers / Orienteering WA
+SUMMARY:MetrO 11 Woodvale, Kulgun 225 Orienteers / Orienteering WA / Wullundigong Orienteers of the West
 URL:https://eventor.orienteering.asn.au/Events/Show/19784
 GEO:-31.7884438427341;115.788763772325
 END:VEVENT
@@ -1159,10 +1159,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19970
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19774@eventor.orienteering.asn.au
-DTSTAMP:20231118T055704Z
+DTSTAMP:20240115T092407Z
 DTSTART:20240210T090000Z
 DTEND:20240210T101500Z
-SUMMARY:MetrO 12 Piara Waters, Bibbulmun Orienteers / Orienteering WA
+SUMMARY:MetrO 12 Piara Waters, Bibbulmun Orienteers / Kulgun 225 Orienteers / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/19774
 GEO:-32.1247954587037;115.923506470951
 END:VEVENT
@@ -1474,10 +1474,10 @@ GEO:-37.8371376245979;145.392036103179
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19764@eventor.orienteering.asn.au
-DTSTAMP:20231121T090329Z
+DTSTAMP:20240115T092447Z
 DTSTART:20240217T090000Z
 DTEND:20240217T101500Z
-SUMMARY:MetrO 13 Maylands, Kulgun 225 Orienteers / Orienteering WA
+SUMMARY:MetrO 13 Maylands, Kulgun 225 Orienteers / LOST / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/19764
 GEO:-31.9505210686929;115.908676453657
 END:VEVENT
@@ -1684,11 +1684,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20033
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20045@eventor.orienteering.asn.au
-DTSTAMP:20240109T075241Z
+DTSTAMP:20240115T020948Z
 DTSTART:20240223T080000Z
 DTEND:20240223T093000Z
-SUMMARY:Snap Sprint Series Race 4 - Glenelg (TBC), SA Arrows
+SUMMARY:Snap Sprint Series Race 4 - Glenelg, SA Arrows
 URL:https://eventor.orienteering.asn.au/Events/Show/20045
+GEO:-34.9784933315203;138.511831288972
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19568@eventor.orienteering.asn.au
@@ -1875,6 +1876,15 @@ DTSTART:20240229T073000Z
 DTEND:20240229T091500Z
 SUMMARY:Melbourne Park Street Thursday Summer Series - Kalparrin Gardens, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19948
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20199@eventor.orienteering.asn.au
+DTSTAMP:20240115T020530Z
+DTSTART:20240301T230000Z
+DTEND:20240302T013000Z
+SUMMARY:Everton Park - Scout Qld - Park O Teralba Park, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/20199
+GEO:-27.4056944736787;152.978309732186
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19517@eventor.orienteering.asn.au
@@ -2953,6 +2963,15 @@ DTEND:20240425T040000Z
 SUMMARY:Come And Try It - St Just's Point, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20060
 GEO:-36.7556195407795;144.284604076145
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20200@eventor.orienteering.asn.au
+DTSTAMP:20240115T021440Z
+DTSTART:20240426T230000Z
+DTEND:20240427T040000Z
+SUMMARY:Petrie - Scout O - Murrenbong Scout Camp, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/20200
+GEO:-27.2319188118193;152.946845501887
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20020@eventor.orienteering.asn.au
