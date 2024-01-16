@@ -164,7 +164,7 @@ GEO:-31.9757791259059;115.930827278943
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18733@eventor.orienteering.asn.au
-DTSTAMP:20240101T021544Z
+DTSTAMP:20240116T112754Z
 DTSTART:20240106T140000Z
 DTEND:20240107T140000Z
 SUMMARY:MapRun Parks 2024 - Mercer Park, Ugly Gully Orienteers
@@ -298,6 +298,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19776
 GEO:-32.0229214304305;115.77090587987
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20133@eventor.orienteering.asn.au
+DTSTAMP:20240116T112547Z
+DTSTART:20240113T140000Z
+DTEND:20240114T140000Z
+SUMMARY:MapRun Parks 2024 - Meadowlands, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20133
+GEO:-27.490296954466;153.115910782345
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18414@eventor.orienteering.asn.au
 DTSTAMP:20240114T035845Z
 DTSTART:20240113T210000Z
@@ -325,17 +334,8 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19673
 GEO:-33.3923559358394;151.469929056707
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20133@eventor.orienteering.asn.au
-DTSTAMP:20240101T022200Z
-DTSTART:20240114T060000Z
-DTEND:20240114T060000Z
-SUMMARY:MapRun Parks 2024 - Meadowlands, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20133
-GEO:-27.490296954466;153.115910782345
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19980@eventor.orienteering.asn.au
-DTSTAMP:20231212T212349Z
+DTSTAMP:20240116T001857Z
 DTSTART:20240115T060000Z
 DTEND:20240115T090000Z
 SUMMARY:ACT MapRun Street Series: Hackett, 11-15 Jan, Orienteering ACT
@@ -352,6 +352,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19879
 GEO:-38.1081522893944;145.174585090077
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18098@eventor.orienteering.asn.au
+DTSTAMP:20240116T111152Z
+DTSTART:20240115T140000Z
+DTEND:20240116T140000Z
+SUMMARY:Night Nav - Enoggera, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/18098
+GEO:-27.4349468418652;152.992053201409
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20170@eventor.orienteering.asn.au
 DTSTAMP:20240111T062031Z
 DTSTART:20240116T064500Z
@@ -359,15 +368,6 @@ DTEND:20240116T084500Z
 SUMMARY:Ballarat Park & Street Summer Series ’24 – #1 Brown Hill, Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20170
 GEO:-37.5524517116015;143.89759190791
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18098@eventor.orienteering.asn.au
-DTSTAMP:20240107T093817Z
-DTSTART:20240116T073000Z
-DTEND:20240116T073000Z
-SUMMARY:Night Nav - Enoggera, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/18098
-GEO:-27.4349468418652;152.992053201409
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19884@eventor.orienteering.asn.au
@@ -488,7 +488,7 @@ GEO:-37.9660010793438;145.302933376022
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19772@eventor.orienteering.asn.au
-DTSTAMP:20240114T132747Z
+DTSTAMP:20240115T140456Z
 DTSTART:20240120T090000Z
 DTEND:20240120T101500Z
 SUMMARY:MetrO 9 Hillarys, LOST / Orienteering WA / Wullundigong Orienteers of the West
@@ -542,7 +542,7 @@ GEO:-37.9152530848088;145.134680897776
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19762@eventor.orienteering.asn.au
-DTSTAMP:20240115T043820Z
+DTSTAMP:20240116T110543Z
 DTSTART:20240120T233000Z
 DTEND:20240120T233000Z
 SUMMARY:Monash Mayhem 2.0 Team Entries - Organiser Use Only, Dandenong Ranges Orienteering Club
@@ -690,6 +690,15 @@ DTEND:20240126T000000Z
 SUMMARY:Mt Lofty Botanic Gardens, Onkaparinga Hills Orienteering Club / Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/20144
 GEO:-34.9858306902265;138.718978018455
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20202@eventor.orienteering.asn.au
+DTSTAMP:20240116T061248Z
+DTSTART:20240126T130000Z
+DTEND:20240127T130000Z
+SUMMARY:Goldseekers Presentation Night , Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20202
+GEO:-33.4656820109713;149.088515621247
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19152@eventor.orienteering.asn.au
@@ -965,7 +974,7 @@ GEO:-34.4361372312141;150.892850140567
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20163@eventor.orienteering.asn.au
-DTSTAMP:20240110T094630Z
+DTSTAMP:20240116T064928Z
 DTSTART:20240204T050000Z
 DTEND:20240204T050000Z
 SUMMARY:Learn to Orienteer, Range Runners Orienteering Club
@@ -1151,11 +1160,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20164
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19970@eventor.orienteering.asn.au
-DTSTAMP:20240110T031140Z
+DTSTAMP:20240115T232549Z
 DTSTART:20240210T053000Z
 DTEND:20240210T070000Z
-SUMMARY:Sprint Series - EN - Event 1, Enoggeroos
+SUMMARY:Sprint Series - EN - Event 1 - Samford State School, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/19970
+GEO:-27.3761004026542;152.882923153382
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19774@eventor.orienteering.asn.au
@@ -2974,14 +2984,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20200
 GEO:-27.2319188118193;152.946845501887
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20020@eventor.orienteering.asn.au
-DTSTAMP:20231212T092346Z
-DTSTART:20240427T000000Z
-DTEND:20240427T043000Z
-SUMMARY:Ballarat Classics Series #2 - Petticoat Gully, Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20020
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19974@eventor.orienteering.asn.au
 DTSTAMP:20231211T043330Z
 DTSTART:20240427T140000Z
@@ -3014,6 +3016,14 @@ DTSTART:20240428T000000Z
 DTEND:20240428T033000Z
 SUMMARY:Waggaroos - AWOC Interclub #1, Mt Terrible, Albury-Wodonga Orienteering Club / Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19805
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20020@eventor.orienteering.asn.au
+DTSTAMP:20240116T110948Z
+DTSTART:20240428T000000Z
+DTEND:20240428T043000Z
+SUMMARY:Ballarat Classics Series #2 - Petticoat Gully, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20020
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18758@eventor.orienteering.asn.au
@@ -3792,6 +3802,15 @@ SUMMARY:Windfalls Northern Classic - OST 10, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/20109
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20201@eventor.orienteering.asn.au
+DTSTAMP:20240116T001157Z
+DTSTART:20240727T230000Z
+DTEND:20240728T020000Z
+SUMMARY:Fiona Calabro day - Stockyard Creek, Burbank, Toohey Forest Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20201
+GEO:-27.570615596181;153.164073593242
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19796@eventor.orienteering.asn.au
 DTSTAMP:20231117T042333Z
 DTSTART:20240728T000000Z
@@ -4122,7 +4141,7 @@ GEO:-35.1163025455301;147.296582208989
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19591@eventor.orienteering.asn.au
-DTSTAMP:20231130T044452Z
+DTSTAMP:20240116T062129Z
 DTSTART:20240906T140000Z
 DTEND:20240907T140000Z
 SUMMARY:2024 NSW Middle Distance Championships (SL #16), Bennelong Northside Orienteers / Orienteering NSW / Uringa Orienteers
@@ -4140,7 +4159,7 @@ GEO:-36.7448279675122;144.289456439457
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19520@eventor.orienteering.asn.au
-DTSTAMP:20231130T045255Z
+DTSTAMP:20240116T062217Z
 DTSTART:20240907T140000Z
 DTEND:20240908T140000Z
 SUMMARY:2024 NSW Long Distance Championships (SL #17), Bennelong Northside Orienteers / Orienteering NSW / Uringa Orienteers
