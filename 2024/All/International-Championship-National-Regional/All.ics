@@ -213,14 +213,6 @@ SUMMARY:2024 NSW State League #3, Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/19574
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19567@eventor.orienteering.asn.au
-DTSTAMP:20230922T030803Z
-DTSTART:20240413T000000Z
-DTEND:20240413T040000Z
-SUMMARY:ACT Classic Series: ACT League #3, TBA, Bushflyers
-URL:https://eventor.orienteering.asn.au/Events/Show/19567
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19575@eventor.orienteering.asn.au
 DTSTAMP:20230922T061219Z
 DTSTART:20240413T140000Z
@@ -271,6 +263,14 @@ SUMMARY:NOL - Elite Knockout Sprint (am & pm) and Public Sprint (pm only), Orien
 URL:https://eventor.orienteering.asn.au/Events/Show/19735
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19567@eventor.orienteering.asn.au
+DTSTAMP:20240117T092522Z
+DTSTART:20240428T000000Z
+DTEND:20240428T040000Z
+SUMMARY:ACT Classic Series: ACT League #3, TBA, Bushflyers
+URL:https://eventor.orienteering.asn.au/Events/Show/19567
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19543@eventor.orienteering.asn.au
 DTSTAMP:20230921T022936Z
 DTSTART:20240503T140000Z
@@ -306,18 +306,18 @@ GEO:-27.5172801876494;153.122054396254
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19545@eventor.orienteering.asn.au
-DTSTAMP:20230921T022936Z
+DTSTAMP:20240117T042941Z
 DTSTART:20240517T140000Z
 DTEND:20240518T140000Z
-SUMMARY:NOL, ACT League #7: Wee Jasper, Abominable O-Men
+SUMMARY:NOL Round 4, ACT League #7: Wee Jasper, Abominable O-Men
 URL:https://eventor.orienteering.asn.au/Events/Show/19545
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19546@eventor.orienteering.asn.au
-DTSTAMP:20230921T023011Z
+DTSTAMP:20240117T043109Z
 DTSTART:20240518T140000Z
 DTEND:20240519T140000Z
-SUMMARY:NOL, ACT League #8: Awoonga, Bushflyers
+SUMMARY:NOL Round 4, ACT League #8: Awoonga, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19546
 END:VEVENT
 BEGIN:VEVENT

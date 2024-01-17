@@ -49,7 +49,7 @@ GEO:-33.3923559358394;151.469929056707
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19373@eventor.orienteering.asn.au
-DTSTAMP:20231209T230211Z
+DTSTAMP:20240117T083314Z
 DTSTART:20240117T053000Z
 DTEND:20240117T083000Z
 SUMMARY:2023/24 Sydney Summer Series #16 - Hunters Hill, Uringa Orienteers
@@ -101,15 +101,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19374
 GEO:-33.8806547886109;151.233511724829
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20202@eventor.orienteering.asn.au
-DTSTAMP:20240116T061248Z
-DTSTART:20240126T130000Z
-DTEND:20240127T130000Z
-SUMMARY:Goldseekers Presentation Night , Goldseekers Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20202
-GEO:-33.4656820109713;149.088515621247
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20146@eventor.orienteering.asn.au
 DTSTAMP:20240114T071224Z
 DTSTART:20240126T220000Z
@@ -117,6 +108,15 @@ DTEND:20240127T000000Z
 SUMMARY:SHOO’s Summer Saturdays #4 - Oran Park, Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20146
 GEO:-34.0093101521635;150.748746581232
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20202@eventor.orienteering.asn.au
+DTSTAMP:20240117T005423Z
+DTSTART:20240127T070000Z
+DTEND:20240127T070000Z
+SUMMARY:Goldseekers Presentation Night , Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20202
+GEO:-33.4656820109713;149.088515621247
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19675@eventor.orienteering.asn.au

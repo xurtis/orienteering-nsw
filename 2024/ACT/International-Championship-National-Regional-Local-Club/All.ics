@@ -299,10 +299,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20011
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19542@eventor.orienteering.asn.au
-DTSTAMP:20230921T015624Z
+DTSTAMP:20240117T092618Z
 DTSTART:20240323T230000Z
 DTEND:20240324T020000Z
-SUMMARY:ACT Classic Series: ACT Relays, Hibernian Road, Abominable O-Men
+SUMMARY:ACT Classic Series: ACT Relays, Stromlo West, Abominable O-Men
 URL:https://eventor.orienteering.asn.au/Events/Show/19542
 GEO:-35.3247583195795;149.37026403874
 END:VEVENT
@@ -340,20 +340,20 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17892
 GEO:-35.6807591475124;149.460271355306
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19567@eventor.orienteering.asn.au
-DTSTAMP:20230922T030803Z
-DTSTART:20240413T000000Z
-DTEND:20240413T040000Z
-SUMMARY:ACT Classic Series: ACT League #3, TBA, Bushflyers
-URL:https://eventor.orienteering.asn.au/Events/Show/19567
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19731@eventor.orienteering.asn.au
 DTSTAMP:20231102T015526Z
 DTSTART:20240418T100000Z
 DTEND:20240418T100000Z
 SUMMARY:Orienteering ACT Annual General Meeting, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19731
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19567@eventor.orienteering.asn.au
+DTSTAMP:20240117T092522Z
+DTSTART:20240428T000000Z
+DTEND:20240428T040000Z
+SUMMARY:ACT Classic Series: ACT League #3, TBA, Bushflyers
+URL:https://eventor.orienteering.asn.au/Events/Show/19567
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19543@eventor.orienteering.asn.au
@@ -381,26 +381,26 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19553
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19545@eventor.orienteering.asn.au
-DTSTAMP:20230921T022936Z
+DTSTAMP:20240117T042941Z
 DTSTART:20240517T140000Z
 DTEND:20240518T140000Z
-SUMMARY:NOL, ACT League #7: Wee Jasper, Abominable O-Men
+SUMMARY:NOL Round 4, ACT League #7: Wee Jasper, Abominable O-Men
 URL:https://eventor.orienteering.asn.au/Events/Show/19545
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19546@eventor.orienteering.asn.au
-DTSTAMP:20230921T023011Z
+DTSTAMP:20240117T043109Z
 DTSTART:20240518T140000Z
 DTEND:20240519T140000Z
-SUMMARY:NOL, ACT League #8: Awoonga, Bushflyers
+SUMMARY:NOL Round 4, ACT League #8: Awoonga, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19546
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19555@eventor.orienteering.asn.au
-DTSTAMP:20230921T121541Z
+DTSTAMP:20240117T092724Z
 DTSTART:20240525T003000Z
 DTEND:20240525T030000Z
-SUMMARY:ACT Metro Series: incl. Junior League #2, TBA, Parawanga Orienteers
+SUMMARY:ACT Metro Series: incl. Junior League #2, Bruce Ridge, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19555
 END:VEVENT
 BEGIN:VEVENT
@@ -414,10 +414,10 @@ GEO:-35.3495970757728;149.024002200421
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19556@eventor.orienteering.asn.au
-DTSTAMP:20230921T122519Z
+DTSTAMP:20240117T092813Z
 DTSTART:20240601T003000Z
 DTEND:20240601T030000Z
-SUMMARY:ACT Metro Series: incl. Junior League #3, TBA, Red Roos
+SUMMARY:ACT Metro Series: incl. Junior League #3, Oakey Hill, Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/19556
 END:VEVENT
 BEGIN:VEVENT
@@ -430,10 +430,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19547
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19557@eventor.orienteering.asn.au
-DTSTAMP:20230921T122626Z
+DTSTAMP:20240117T092901Z
 DTSTART:20240615T003000Z
 DTEND:20240615T030000Z
-SUMMARY:ACT Metro Series: incl. Junior League #4, TBA, Abominable O-Men
+SUMMARY:ACT Metro Series: incl. Junior League #4, Mt Mugga Mugga, Abominable O-Men
 URL:https://eventor.orienteering.asn.au/Events/Show/19557
 END:VEVENT
 BEGIN:VEVENT
@@ -446,10 +446,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19548
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19558@eventor.orienteering.asn.au
-DTSTAMP:20230921T122912Z
+DTSTAMP:20240117T092935Z
 DTSTART:20240622T003000Z
 DTEND:20240622T030000Z
-SUMMARY:ACT Metro Series: incl. Junior League #5, TBA, Bushflyers
+SUMMARY:ACT Metro Series: incl. Junior League #5, The Pinnacle, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19558
 END:VEVENT
 BEGIN:VEVENT
@@ -462,26 +462,26 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19554
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19559@eventor.orienteering.asn.au
-DTSTAMP:20230921T122854Z
+DTSTAMP:20240117T093018Z
 DTSTART:20240727T003000Z
 DTEND:20240727T030000Z
-SUMMARY:ACT Metro Series: incl. Junior League #7, TBA, Parawanga Orienteers
+SUMMARY:ACT Metro Series: incl. Junior League #7, Cooleman Ridge, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19559
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19560@eventor.orienteering.asn.au
-DTSTAMP:20230921T123035Z
+DTSTAMP:20240117T093057Z
 DTSTART:20240803T003000Z
 DTEND:20240803T030000Z
-SUMMARY:ACT Metro Series: incl. Junior League #8, TBA, Bushflyers
+SUMMARY:ACT Metro Series: incl. Junior League #8, Remembrance Park, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19560
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19561@eventor.orienteering.asn.au
-DTSTAMP:20230921T123125Z
+DTSTAMP:20240117T093147Z
 DTSTART:20240810T003000Z
 DTEND:20240810T030000Z
-SUMMARY:ACT Metro Series: incl. Junior League #9, TBA, Parawanga Orienteers
+SUMMARY:ACT Metro Series: incl. Junior League #9, McQuoids Hill, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19561
 END:VEVENT
 BEGIN:VEVENT
@@ -494,10 +494,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19571
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19562@eventor.orienteering.asn.au
-DTSTAMP:20230921T123222Z
+DTSTAMP:20240117T093222Z
 DTSTART:20240817T003000Z
 DTEND:20240817T030000Z
-SUMMARY:ACT Metro Series: incl. Junior League #10, TBA, Weston Emus
+SUMMARY:ACT Metro Series: incl. Junior League #10, Mt Jerrabomberra, Weston Emus
 URL:https://eventor.orienteering.asn.au/Events/Show/19562
 END:VEVENT
 BEGIN:VEVENT
@@ -518,10 +518,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19550
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19563@eventor.orienteering.asn.au
-DTSTAMP:20230921T123319Z
+DTSTAMP:20240117T093255Z
 DTSTART:20240831T003000Z
 DTEND:20240831T030000Z
-SUMMARY:ACT Metro Series: incl. Junior League #11, TBA, Bushflyers
+SUMMARY:ACT Metro Series: incl. Junior League #11, Farrer Ridge, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19563
 END:VEVENT
 BEGIN:VEVENT
@@ -534,10 +534,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19566
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19564@eventor.orienteering.asn.au
-DTSTAMP:20230921T130600Z
+DTSTAMP:20240117T093339Z
 DTSTART:20240914T003000Z
 DTEND:20240914T030000Z
-SUMMARY:ACT Schools Championships and Public Event, TBA, Red Roos
+SUMMARY:ACT Schools Championships and Public Event, Isaacs Ridge, Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/19564
 END:VEVENT
 BEGIN:VEVENT
@@ -551,10 +551,10 @@ GEO:-35.3218952233822;149.054001040996
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19565@eventor.orienteering.asn.au
-DTSTAMP:20230921T123720Z
+DTSTAMP:20240117T093411Z
 DTSTART:20240921T003000Z
 DTEND:20240921T033000Z
-SUMMARY:ACT Blue Lightning Super Sprints, TBA, Orienteering ACT
+SUMMARY:ACT Blue Lightning Super Sprints, Mt Taylor, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19565
 END:VEVENT
 BEGIN:VEVENT

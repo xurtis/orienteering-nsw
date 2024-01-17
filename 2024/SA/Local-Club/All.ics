@@ -54,6 +54,7 @@ DTSTART:20240202T080000Z
 DTEND:20240202T093000Z
 SUMMARY:Snap Sprint Series Race 1 - Flinders University North, SA Arrows
 URL:https://eventor.orienteering.asn.au/Events/Show/20042
+GEO:-35.0179961782505;138.57492982311
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20094@eventor.orienteering.asn.au
@@ -79,6 +80,7 @@ DTSTART:20240209T080000Z
 DTEND:20240209T093000Z
 SUMMARY:Snap Sprint Series Race 2 - Mawson Lakes, SA Arrows
 URL:https://eventor.orienteering.asn.au/Events/Show/20043
+GEO:-34.8104939983301;138.620871323176
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20044@eventor.orienteering.asn.au
@@ -87,10 +89,11 @@ DTSTART:20240216T080000Z
 DTEND:20240216T093000Z
 SUMMARY:Snap Sprint Series Race 3 - Adelaide Botanic Gardens, SA Arrows
 URL:https://eventor.orienteering.asn.au/Events/Show/20044
+GEO:-34.9155256867614;138.612358653558
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20045@eventor.orienteering.asn.au
-DTSTAMP:20240115T020948Z
+DTSTAMP:20240116T203913Z
 DTSTART:20240223T080000Z
 DTEND:20240223T093000Z
 SUMMARY:Snap Sprint Series Race 4 - Glenelg, SA Arrows

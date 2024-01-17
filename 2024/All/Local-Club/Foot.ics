@@ -227,7 +227,7 @@ GEO:-37.5524517116015;143.89759190791
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19373@eventor.orienteering.asn.au
-DTSTAMP:20231209T230211Z
+DTSTAMP:20240117T083314Z
 DTSTART:20240117T053000Z
 DTEND:20240117T083000Z
 SUMMARY:2023/24 Sydney Summer Series #16 - Hunters Hill, Uringa Orienteers
@@ -299,7 +299,7 @@ GEO:-37.9152530848088;145.134680897776
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19762@eventor.orienteering.asn.au
-DTSTAMP:20240116T110543Z
+DTSTAMP:20240117T020247Z
 DTSTART:20240120T233000Z
 DTEND:20240120T233000Z
 SUMMARY:Monash Mayhem 2.0 Team Entries - Organiser Use Only, Dandenong Ranges Orienteering Club
@@ -326,7 +326,7 @@ GEO:-27.4803290443034;152.980498481985
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20171@eventor.orienteering.asn.au
-DTSTAMP:20240111T062113Z
+DTSTAMP:20240117T085952Z
 DTSTART:20240123T064500Z
 DTEND:20240123T084500Z
 SUMMARY:Ballarat Park & Street Summer Series ’24 – #2 Canadian Gully, Eureka Orienteers
@@ -386,15 +386,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20144
 GEO:-34.9858306902265;138.718978018455
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20202@eventor.orienteering.asn.au
-DTSTAMP:20240116T061248Z
-DTSTART:20240126T130000Z
-DTEND:20240127T130000Z
-SUMMARY:Goldseekers Presentation Night , Goldseekers Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20202
-GEO:-33.4656820109713;149.088515621247
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19152@eventor.orienteering.asn.au
 DTSTAMP:20230925T030051Z
 DTSTART:20240126T130000Z
@@ -411,6 +402,15 @@ DTEND:20240127T000000Z
 SUMMARY:SHOO’s Summer Saturdays #4 - Oran Park, Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20146
 GEO:-34.0093101521635;150.748746581232
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20202@eventor.orienteering.asn.au
+DTSTAMP:20240117T005423Z
+DTSTART:20240127T070000Z
+DTEND:20240127T070000Z
+SUMMARY:Goldseekers Presentation Night , Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20202
+GEO:-33.4656820109713;149.088515621247
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19773@eventor.orienteering.asn.au
@@ -508,6 +508,7 @@ DTSTART:20240202T080000Z
 DTEND:20240202T093000Z
 SUMMARY:Snap Sprint Series Race 1 - Flinders University North, SA Arrows
 URL:https://eventor.orienteering.asn.au/Events/Show/20042
+GEO:-35.0179961782505;138.57492982311
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20147@eventor.orienteering.asn.au
@@ -698,6 +699,7 @@ DTSTART:20240209T080000Z
 DTEND:20240209T093000Z
 SUMMARY:Snap Sprint Series Race 2 - Mawson Lakes, SA Arrows
 URL:https://eventor.orienteering.asn.au/Events/Show/20043
+GEO:-34.8104939983301;138.620871323176
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20164@eventor.orienteering.asn.au
@@ -912,6 +914,7 @@ DTSTART:20240216T080000Z
 DTEND:20240216T093000Z
 SUMMARY:Snap Sprint Series Race 3 - Adelaide Botanic Gardens, SA Arrows
 URL:https://eventor.orienteering.asn.au/Events/Show/20044
+GEO:-34.9155256867614;138.612358653558
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20151@eventor.orienteering.asn.au
@@ -1069,7 +1072,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20033
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20045@eventor.orienteering.asn.au
-DTSTAMP:20240115T020948Z
+DTSTAMP:20240116T203913Z
 DTSTART:20240223T080000Z
 DTEND:20240223T093000Z
 SUMMARY:Snap Sprint Series Race 4 - Glenelg, SA Arrows
@@ -1250,7 +1253,7 @@ GEO:-32.9615754787454;151.617076782514
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19858@eventor.orienteering.asn.au
-DTSTAMP:20231127T033552Z
+DTSTAMP:20240117T063939Z
 DTSTART:20240302T140000Z
 DTEND:20240303T140000Z
 SUMMARY:OY1 Sprints - Gold Coast, QLD Cyclones
@@ -1652,10 +1655,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19800
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19542@eventor.orienteering.asn.au
-DTSTAMP:20230921T015624Z
+DTSTAMP:20240117T092618Z
 DTSTART:20240323T230000Z
 DTEND:20240324T020000Z
-SUMMARY:ACT Classic Series: ACT Relays, Hibernian Road, Abominable O-Men
+SUMMARY:ACT Classic Series: ACT Relays, Stromlo West, Abominable O-Men
 URL:https://eventor.orienteering.asn.au/Events/Show/19542
 GEO:-35.3247583195795;149.37026403874
 END:VEVENT
@@ -2112,10 +2115,10 @@ GEO:-37.3381361934243;144.107131962973
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19555@eventor.orienteering.asn.au
-DTSTAMP:20230921T121541Z
+DTSTAMP:20240117T092724Z
 DTSTART:20240525T003000Z
 DTEND:20240525T030000Z
-SUMMARY:ACT Metro Series: incl. Junior League #2, TBA, Parawanga Orienteers
+SUMMARY:ACT Metro Series: incl. Junior League #2, Bruce Ridge, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19555
 END:VEVENT
 BEGIN:VEVENT
@@ -2189,10 +2192,10 @@ GEO:-41.444957433084;147.09345113803
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19556@eventor.orienteering.asn.au
-DTSTAMP:20230921T122519Z
+DTSTAMP:20240117T092813Z
 DTSTART:20240601T003000Z
 DTEND:20240601T030000Z
-SUMMARY:ACT Metro Series: incl. Junior League #3, TBA, Red Roos
+SUMMARY:ACT Metro Series: incl. Junior League #3, Oakey Hill, Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/19556
 END:VEVENT
 BEGIN:VEVENT
@@ -2248,10 +2251,10 @@ GEO:-37.7534954843526;143.787121576464
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19557@eventor.orienteering.asn.au
-DTSTAMP:20230921T122626Z
+DTSTAMP:20240117T092901Z
 DTSTART:20240615T003000Z
 DTEND:20240615T030000Z
-SUMMARY:ACT Metro Series: incl. Junior League #4, TBA, Abominable O-Men
+SUMMARY:ACT Metro Series: incl. Junior League #4, Mt Mugga Mugga, Abominable O-Men
 URL:https://eventor.orienteering.asn.au/Events/Show/19557
 END:VEVENT
 BEGIN:VEVENT
@@ -2289,10 +2292,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20098
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19558@eventor.orienteering.asn.au
-DTSTAMP:20230921T122912Z
+DTSTAMP:20240117T092935Z
 DTSTART:20240622T003000Z
 DTEND:20240622T030000Z
-SUMMARY:ACT Metro Series: incl. Junior League #5, TBA, Bushflyers
+SUMMARY:ACT Metro Series: incl. Junior League #5, The Pinnacle, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19558
 END:VEVENT
 BEGIN:VEVENT
@@ -2528,10 +2531,10 @@ GEO:-33.8460034291842;151.074483418337
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19559@eventor.orienteering.asn.au
-DTSTAMP:20230921T122854Z
+DTSTAMP:20240117T093018Z
 DTSTART:20240727T003000Z
 DTEND:20240727T030000Z
-SUMMARY:ACT Metro Series: incl. Junior League #7, TBA, Parawanga Orienteers
+SUMMARY:ACT Metro Series: incl. Junior League #7, Cooleman Ridge, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19559
 END:VEVENT
 BEGIN:VEVENT
@@ -2605,10 +2608,10 @@ GEO:-41.4451034149733;147.093890380971
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19560@eventor.orienteering.asn.au
-DTSTAMP:20230921T123035Z
+DTSTAMP:20240117T093057Z
 DTSTART:20240803T003000Z
 DTEND:20240803T030000Z
-SUMMARY:ACT Metro Series: incl. Junior League #8, TBA, Bushflyers
+SUMMARY:ACT Metro Series: incl. Junior League #8, Remembrance Park, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19560
 END:VEVENT
 BEGIN:VEVENT
@@ -2647,10 +2650,10 @@ GEO:-42.8510737614652;147.250014503533
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19561@eventor.orienteering.asn.au
-DTSTAMP:20230921T123125Z
+DTSTAMP:20240117T093147Z
 DTSTART:20240810T003000Z
 DTEND:20240810T030000Z
-SUMMARY:ACT Metro Series: incl. Junior League #9, TBA, Parawanga Orienteers
+SUMMARY:ACT Metro Series: incl. Junior League #9, McQuoids Hill, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19561
 END:VEVENT
 BEGIN:VEVENT
@@ -2723,10 +2726,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20100
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19562@eventor.orienteering.asn.au
-DTSTAMP:20230921T123222Z
+DTSTAMP:20240117T093222Z
 DTSTART:20240817T003000Z
 DTEND:20240817T030000Z
-SUMMARY:ACT Metro Series: incl. Junior League #10, TBA, Weston Emus
+SUMMARY:ACT Metro Series: incl. Junior League #10, Mt Jerrabomberra, Weston Emus
 URL:https://eventor.orienteering.asn.au/Events/Show/19562
 END:VEVENT
 BEGIN:VEVENT
@@ -2758,10 +2761,10 @@ GEO:-33.8460034291842;151.074483418337
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19563@eventor.orienteering.asn.au
-DTSTAMP:20230921T123319Z
+DTSTAMP:20240117T093255Z
 DTSTART:20240831T003000Z
 DTEND:20240831T030000Z
-SUMMARY:ACT Metro Series: incl. Junior League #11, TBA, Bushflyers
+SUMMARY:ACT Metro Series: incl. Junior League #11, Farrer Ridge, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19563
 END:VEVENT
 BEGIN:VEVENT
@@ -2826,10 +2829,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19506
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19564@eventor.orienteering.asn.au
-DTSTAMP:20230921T130600Z
+DTSTAMP:20240117T093339Z
 DTSTART:20240914T003000Z
 DTEND:20240914T030000Z
-SUMMARY:ACT Schools Championships and Public Event, TBA, Red Roos
+SUMMARY:ACT Schools Championships and Public Event, Isaacs Ridge, Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/19564
 END:VEVENT
 BEGIN:VEVENT
@@ -2868,10 +2871,10 @@ GEO:-27.483014006192;153.115024138744
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19565@eventor.orienteering.asn.au
-DTSTAMP:20230921T123720Z
+DTSTAMP:20240117T093411Z
 DTSTART:20240921T003000Z
 DTEND:20240921T033000Z
-SUMMARY:ACT Blue Lightning Super Sprints, TBA, Orienteering ACT
+SUMMARY:ACT Blue Lightning Super Sprints, Mt Taylor, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19565
 END:VEVENT
 BEGIN:VEVENT
