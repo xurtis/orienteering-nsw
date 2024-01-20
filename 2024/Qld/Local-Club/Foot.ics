@@ -230,10 +230,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20160
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20148@eventor.orienteering.asn.au
-DTSTAMP:20240107T064255Z
+DTSTAMP:20240120T054219Z
 DTSTART:20240212T140000Z
 DTEND:20240213T140000Z
-SUMMARY:Night Nav - TBC, Ugly Gully Orienteers
+SUMMARY:Night Nav - St Lucia, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20148
 END:VEVENT
 BEGIN:VEVENT
@@ -251,6 +251,14 @@ DTSTART:20240218T060000Z
 DTEND:20240218T060000Z
 SUMMARY:The Glennie School, Toowoomba, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20165
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20220@eventor.orienteering.asn.au
+DTSTAMP:20240120T054712Z
+DTSTART:20240221T073000Z
+DTEND:20240221T073000Z
+SUMMARY:Night Nav - Chelmer, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20220
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20152@eventor.orienteering.asn.au
@@ -295,6 +303,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18754
 GEO:-27.477463;153.094363
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20205@eventor.orienteering.asn.au
+DTSTAMP:20240119T235639Z
+DTSTART:20240308T030000Z
+DTEND:20240308T030000Z
+SUMMARY:NWD Interschool Sport, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/20205
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20154@eventor.orienteering.asn.au
 DTSTAMP:20240119T044129Z
 DTSTART:20240309T053000Z
@@ -312,12 +328,30 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18672
 GEO:-27.6015484743879;153.146459185404
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20206@eventor.orienteering.asn.au
+DTSTAMP:20240119T235831Z
+DTSTART:20240315T030000Z
+DTEND:20240315T030000Z
+SUMMARY:NWD Interschool Sport, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/20206
+GEO:-27.4523197297565;152.982815122611
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20155@eventor.orienteering.asn.au
 DTSTAMP:20240110T031459Z
 DTSTART:20240316T053000Z
 DTEND:20240316T053000Z
 SUMMARY:Sprint Series - EN - Event 6, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20155
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20207@eventor.orienteering.asn.au
+DTSTAMP:20240119T235954Z
+DTSTART:20240322T030000Z
+DTEND:20240322T030000Z
+SUMMARY:NWD Interschool Sport, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/20207
+GEO:-27.409952352964;152.923174055076
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20156@eventor.orienteering.asn.au
@@ -354,6 +388,14 @@ SUMMARY:Sprint Series - EN - Event 8, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20157
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20208@eventor.orienteering.asn.au
+DTSTAMP:20240120T000123Z
+DTSTART:20240419T030000Z
+DTEND:20240419T030000Z
+SUMMARY:NWD Interschool Sport, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/20208
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20158@eventor.orienteering.asn.au
 DTSTAMP:20240110T031830Z
 DTSTART:20240420T053000Z
@@ -379,6 +421,15 @@ SUMMARY:OA HP Training - Brisbane Thurs (am/pm) & Fri (am/pm), Orienteering Aust
 URL:https://eventor.orienteering.asn.au/Events/Show/19738
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20209@eventor.orienteering.asn.au
+DTSTAMP:20240120T000253Z
+DTSTART:20240426T030000Z
+DTEND:20240426T030000Z
+SUMMARY:NWD Interschool Sport, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/20209
+GEO:-27.3811503713007;152.975289351301
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20200@eventor.orienteering.asn.au
 DTSTAMP:20240115T021440Z
 DTSTART:20240426T230000Z
@@ -397,12 +448,47 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18758
 GEO:-27.405614;153.041297
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20210@eventor.orienteering.asn.au
+DTSTAMP:20240120T000424Z
+DTSTART:20240503T030000Z
+DTEND:20240503T030000Z
+SUMMARY:NWD Interschool Sport, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/20210
+GEO:-27.4178858129935;153.000302235125
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19901@eventor.orienteering.asn.au
 DTSTAMP:20231202T025953Z
 DTSTART:20240505T140000Z
 DTEND:20240506T140000Z
 SUMMARY:Mini-Cyclones Camp Champs + public event, Bullecourt Boulder Bounders
 URL:https://eventor.orienteering.asn.au/Events/Show/19901
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20211@eventor.orienteering.asn.au
+DTSTAMP:20240120T000528Z
+DTSTART:20240510T030000Z
+DTEND:20240510T030000Z
+SUMMARY:NWD Interschool Sport, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/20211
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20212@eventor.orienteering.asn.au
+DTSTAMP:20240120T000654Z
+DTSTART:20240517T030000Z
+DTEND:20240517T030000Z
+SUMMARY:NWD Interschool Sport, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/20212
+GEO:-27.4381606293001;152.934696566004
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20213@eventor.orienteering.asn.au
+DTSTAMP:20240120T000802Z
+DTSTART:20240524T030000Z
+DTEND:20240524T030000Z
+SUMMARY:NWD Interschool Sport, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/20213
+GEO:-27.38124152285;152.975348414287
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19450@eventor.orienteering.asn.au
@@ -437,6 +523,15 @@ DTEND:20240526T060000Z
 SUMMARY:MapRun Parks 2024 - Edenbrooke - BCC, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18735
 GEO:-27.5485784403517;152.949178229048
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20214@eventor.orienteering.asn.au
+DTSTAMP:20240120T000921Z
+DTSTART:20240531T030000Z
+DTEND:20240531T030000Z
+SUMMARY:NWD Interschool Sport, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/20214
+GEO:-27.4179991938041;153.000158694982
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18752@eventor.orienteering.asn.au

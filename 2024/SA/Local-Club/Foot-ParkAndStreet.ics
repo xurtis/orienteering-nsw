@@ -22,7 +22,7 @@ GEO:-34.9170761089788;138.60155622494
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19766@eventor.orienteering.asn.au
-DTSTAMP:20231211T220445Z
+DTSTAMP:20240120T005554Z
 DTSTART:20240119T073000Z
 DTEND:20240119T083000Z
 SUMMARY:Twilight Series Event #8 - Marino, Orienteering SA
@@ -66,12 +66,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20094
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20093@eventor.orienteering.asn.au
-DTSTAMP:20231228T101111Z
+DTSTAMP:20240120T053555Z
 DTSTART:20240207T000000Z
 DTEND:20240207T023000Z
 SUMMARY:Midweek Training at Plympton, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/20093
-GEO:-34.9558003562086;138.559244523597
+GEO:-34.9565421584845;138.559294612898
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20043@eventor.orienteering.asn.au
@@ -118,6 +118,15 @@ SUMMARY:Midweek Training at Mt Crawford, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/20095
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20215@eventor.orienteering.asn.au
+DTSTAMP:20240120T040915Z
+DTSTART:20240323T233000Z
+DTEND:20240323T233000Z
+SUMMARY:Belair NP, Onkaparinga Hills Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20215
+GEO:-35.0102958614921;138.635895697135
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19868@eventor.orienteering.asn.au
 DTSTAMP:20231128T104525Z
 DTSTART:20240414T003000Z
@@ -132,6 +141,15 @@ DTSTART:20240417T010000Z
 DTEND:20240417T033000Z
 SUMMARY:Midweek Training at Para Wirra, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/20096
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20216@eventor.orienteering.asn.au
+DTSTAMP:20240120T041504Z
+DTSTART:20240511T040000Z
+DTEND:20240511T063000Z
+SUMMARY:Craigburn Farm, Onkaparinga Hills Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20216
+GEO:-35.0333294805807;138.604795536715
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20097@eventor.orienteering.asn.au
@@ -158,6 +176,24 @@ SUMMARY:Midweek Training at Mt Crawford, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/20098
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20217@eventor.orienteering.asn.au
+DTSTAMP:20240120T041755Z
+DTSTART:20240629T040000Z
+DTEND:20240629T040000Z
+SUMMARY:Strathalbyn, Onkaparinga Hills Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20217
+GEO:-35.2568979261021;138.891149269729
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20218@eventor.orienteering.asn.au
+DTSTAMP:20240120T041923Z
+DTSTART:20240630T003000Z
+DTEND:20240630T003000Z
+SUMMARY:Port Elliot, Onkaparinga Hills Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20218
+GEO:-35.5360301552954;138.682575802221
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18632@eventor.orienteering.asn.au
 DTSTAMP:20231128T104021Z
 DTSTART:20240707T003000Z
@@ -173,6 +209,15 @@ DTSTART:20240717T010000Z
 DTEND:20240717T033000Z
 SUMMARY:Midweek Training at Mack Creek, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/20099
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20219@eventor.orienteering.asn.au
+DTSTAMP:20240120T042111Z
+DTSTART:20240803T090000Z
+DTEND:20240803T090000Z
+SUMMARY:Night Championships - Belair NP , Onkaparinga Hills Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20219
+GEO:-35.0115285544657;138.636675502521
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20100@eventor.orienteering.asn.au

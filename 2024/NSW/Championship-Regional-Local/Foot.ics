@@ -58,7 +58,7 @@ GEO:-33.8327100882431;151.139429918633
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20145@eventor.orienteering.asn.au
-DTSTAMP:20240112T032523Z
+DTSTAMP:20240120T034721Z
 DTSTART:20240119T220000Z
 DTEND:20240119T233000Z
 SUMMARY:SHOO's Summer Saturdays #3 - Gregory Hills, Southern Highlands Orienteers
@@ -138,7 +138,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19508
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19909@eventor.orienteering.asn.au
-DTSTAMP:20240113T010628Z
+DTSTAMP:20240120T080649Z
 DTSTART:20240203T230000Z
 DTEND:20240204T010000Z
 SUMMARY:Illawarra Map Running #1 - South Wollongong, Illawarra Kareelah Orienteers
@@ -174,10 +174,10 @@ GEO:-33.7915469793891;151.007736860288
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19910@eventor.orienteering.asn.au
-DTSTAMP:20240105T053238Z
+DTSTAMP:20240120T080228Z
 DTSTART:20240210T230000Z
 DTEND:20240211T010000Z
-SUMMARY:Illawarra Map Running #2 - (change of location) tba, Illawarra Kareelah Orienteers
+SUMMARY:Illawarra Map Running #2 - Kiama Downs, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19910
 END:VEVENT
 BEGIN:VEVENT
@@ -258,7 +258,7 @@ GEO:-32.9615754787454;151.617076782514
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19915@eventor.orienteering.asn.au
-DTSTAMP:20240114T070008Z
+DTSTAMP:20240120T081621Z
 DTSTART:20240302T230000Z
 DTEND:20240303T010000Z
 SUMMARY:Illawarra Map Running #4 & Final - Shell Cove, Illawarra Kareelah Orienteers
@@ -349,14 +349,6 @@ SUMMARY:2024 NSW State League #4 - Snow Hills, Big Foot Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19575
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19925@eventor.orienteering.asn.au
-DTSTAMP:20231206T031238Z
-DTSTART:20240504T040000Z
-DTEND:20240504T060000Z
-SUMMARY:Kirrawee South, Illawarra Kareelah Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19925
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19803@eventor.orienteering.asn.au
 DTSTAMP:20231117T054515Z
 DTSTART:20240506T230000Z
@@ -371,6 +363,14 @@ DTSTART:20240507T000000Z
 DTEND:20240507T040000Z
 SUMMARY:Riverina Schools Relays, Willan's Hill, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19804
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19925@eventor.orienteering.asn.au
+DTSTAMP:20240120T083756Z
+DTSTART:20240511T040000Z
+DTEND:20240511T060000Z
+SUMMARY:Kirrawee South, Illawarra Kareelah Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19925
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19577@eventor.orienteering.asn.au

@@ -2,4 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
+BEGIN:VEVENT
+UID:Event_20216@eventor.orienteering.asn.au
+DTSTAMP:20240120T041504Z
+DTSTART:20240511T040000Z
+DTEND:20240511T063000Z
+SUMMARY:Craigburn Farm, Onkaparinga Hills Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20216
+GEO:-35.0333294805807;138.604795536715
+END:VEVENT
 END:VCALENDAR
