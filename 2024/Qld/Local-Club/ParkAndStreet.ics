@@ -110,6 +110,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18094
 GEO:-27.4435819889838;152.987335115063
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_8158@eventor.orienteering.asn.au
+DTSTAMP:20240121T063708Z
+DTSTART:20240203T173000Z
+DTEND:20240203T190000Z
+SUMMARY:Sprint and park O at Scots College, Warwick, Bullecourt Boulder Bounders
+URL:https://eventor.orienteering.asn.au/Events/Show/8158
+GEO:-28.21084;152.0462
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18738@eventor.orienteering.asn.au
 DTSTAMP:20240107T064551Z
 DTSTART:20240206T073000Z
@@ -135,12 +144,30 @@ SUMMARY:Night Nav - St Lucia, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20148
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20221@eventor.orienteering.asn.au
+DTSTAMP:20240121T090318Z
+DTSTART:20240218T053000Z
+DTEND:20240218T070000Z
+SUMMARY:Stanthorpe High School sprint, Bullecourt Boulder Bounders
+URL:https://eventor.orienteering.asn.au/Events/Show/20221
+GEO:-28.6461653232045;151.929421802942
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20220@eventor.orienteering.asn.au
 DTSTAMP:20240120T054712Z
 DTSTART:20240221T073000Z
 DTEND:20240221T073000Z
 SUMMARY:Night Nav - Chelmer, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20220
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_16996@eventor.orienteering.asn.au
+DTSTAMP:20240120T211015Z
+DTSTART:20240225T053000Z
+DTEND:20240225T070000Z
+SUMMARY:Warwick Showgrounds sprint, Bullecourt Boulder Bounders
+URL:https://eventor.orienteering.asn.au/Events/Show/16996
+GEO:-28.226746528145;152.031872814038
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20199@eventor.orienteering.asn.au
@@ -284,12 +311,36 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20214
 GEO:-27.4179991938041;153.000158694982
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20223@eventor.orienteering.asn.au
+DTSTAMP:20240121T003248Z
+DTSTART:20240810T230000Z
+DTEND:20240810T230000Z
+SUMMARY:Bardon Forest CATI - BCC - tbc, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20223
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20224@eventor.orienteering.asn.au
+DTSTAMP:20240121T005627Z
+DTSTART:20241006T060000Z
+DTEND:20241006T060000Z
+SUMMARY:MapRun Parks - City Botanical Gardens - BCC - tbc, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20224
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19869@eventor.orienteering.asn.au
 DTSTAMP:20231129T030258Z
 DTSTART:20241105T073000Z
 DTEND:20241105T073000Z
 SUMMARY:Night Nav - Venue TBC, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/19869
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20225@eventor.orienteering.asn.au
+DTSTAMP:20240121T005752Z
+DTSTART:20241110T060000Z
+DTEND:20241110T060000Z
+SUMMARY:MapRun Parks - New Farm Park - BCC - tbc, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20225
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19870@eventor.orienteering.asn.au
@@ -322,6 +373,14 @@ DTSTART:20241203T073000Z
 DTEND:20241203T073000Z
 SUMMARY:Night Nav - Venue TBC, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/19873
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20226@eventor.orienteering.asn.au
+DTSTAMP:20240121T005711Z
+DTSTART:20241208T060000Z
+DTEND:20241208T060000Z
+SUMMARY:MapRun Parks  - Rocks Riverside Park - BCC - tbc, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20226
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19874@eventor.orienteering.asn.au

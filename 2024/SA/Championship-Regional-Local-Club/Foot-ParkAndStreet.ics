@@ -49,7 +49,7 @@ GEO:-34.9858306902265;138.718978018455
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20042@eventor.orienteering.asn.au
-DTSTAMP:20240102T073058Z
+DTSTAMP:20240121T082149Z
 DTSTART:20240202T080000Z
 DTEND:20240202T093000Z
 SUMMARY:Snap Sprint Series Race 1 - Flinders University North, SA Arrows
@@ -75,7 +75,7 @@ GEO:-34.9565421584845;138.559294612898
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20043@eventor.orienteering.asn.au
-DTSTAMP:20240102T073128Z
+DTSTAMP:20240121T082919Z
 DTSTART:20240209T080000Z
 DTEND:20240209T093000Z
 SUMMARY:Snap Sprint Series Race 2 - Mawson Lakes, SA Arrows
@@ -84,7 +84,7 @@ GEO:-34.8104939983301;138.620871323176
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20044@eventor.orienteering.asn.au
-DTSTAMP:20240102T073155Z
+DTSTAMP:20240121T083039Z
 DTSTART:20240216T080000Z
 DTEND:20240216T093000Z
 SUMMARY:Snap Sprint Series Race 3 - Adelaide Botanic Gardens, SA Arrows
@@ -93,7 +93,7 @@ GEO:-34.9155256867614;138.612358653558
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20045@eventor.orienteering.asn.au
-DTSTAMP:20240116T203913Z
+DTSTAMP:20240121T083126Z
 DTSTART:20240223T080000Z
 DTEND:20240223T093000Z
 SUMMARY:Snap Sprint Series Race 4 - Glenelg, SA Arrows
@@ -160,12 +160,28 @@ SUMMARY:Midweek Training at Kuitpo, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/20097
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20244@eventor.orienteering.asn.au
+DTSTAMP:20240121T081432Z
+DTSTART:20240519T003000Z
+DTEND:20240519T030000Z
+SUMMARY:Seymour College (Adelaide), Tjuringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20244
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19504@eventor.orienteering.asn.au
 DTSTAMP:20230914T110413Z
 DTSTART:20240609T003000Z
 DTEND:20240609T003000Z
 SUMMARY:SA Long Distance Championships - Port Lincoln, Lincoln Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19504
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20243@eventor.orienteering.asn.au
+DTSTAMP:20240121T081844Z
+DTSTART:20240616T003000Z
+DTEND:20240616T033000Z
+SUMMARY:Prospect Hill (Kuitpo), Tjuringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20243
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20098@eventor.orienteering.asn.au
@@ -228,6 +244,14 @@ SUMMARY:Midweek Training at Simmonds Hill, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/20100
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20245@eventor.orienteering.asn.au
+DTSTAMP:20240121T081437Z
+DTSTART:20240818T003000Z
+DTEND:20240818T033000Z
+SUMMARY:Paradise (Burra), Tjuringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20245
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19506@eventor.orienteering.asn.au
 DTSTAMP:20230914T110703Z
 DTSTART:20240908T003000Z
@@ -244,12 +268,29 @@ SUMMARY:Midweek Training at TBA, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/20101
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20247@eventor.orienteering.asn.au
+DTSTAMP:20240121T084754Z
+DTSTART:20240922T010000Z
+DTEND:20240922T010000Z
+SUMMARY:SA Interclub Relays, SA Arrows
+URL:https://eventor.orienteering.asn.au/Events/Show/20247
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20102@eventor.orienteering.asn.au
 DTSTAMP:20231228T112106Z
 DTSTART:20241016T000000Z
 DTEND:20241016T023000Z
 SUMMARY:Midweek Training at Belair, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/20102
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20246@eventor.orienteering.asn.au
+DTSTAMP:20240121T081443Z
+DTSTART:20241019T233000Z
+DTEND:20241020T020000Z
+SUMMARY:Hallett Cove (Adelaide), Tjuringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20246
+GEO:-35.077029405309;138.511892748975
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20103@eventor.orienteering.asn.au

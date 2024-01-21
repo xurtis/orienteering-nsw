@@ -21,6 +21,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20149
 GEO:-42.9441502767215;147.353635475261
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20110@eventor.orienteering.asn.au
+DTSTAMP:20240121T054706Z
+DTSTART:20240213T130000Z
+DTEND:20240214T130000Z
+SUMMARY:Enter all Southern Autumn Twilight Events at Discounted Rate, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/20110
+GEO:-42.8893479853821;147.329073160158
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19996@eventor.orienteering.asn.au
 DTSTAMP:20231211T214419Z
 DTSTART:20240213T130000Z
@@ -28,15 +37,6 @@ DTEND:20240214T130000Z
 SUMMARY:First Basin - Northern Autumn Twilight Series #1, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/19996
 GEO:-41.4459006801235;147.121309210622
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20110@eventor.orienteering.asn.au
-DTSTAMP:20231229T012456Z
-DTSTART:20240214T043000Z
-DTEND:20240214T043000Z
-SUMMARY:Enter all Southern Autumn Twilight Events at Discounted Rate, Australopers
-URL:https://eventor.orienteering.asn.au/Events/Show/20110
-GEO:-42.8893479853821;147.329073160158
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19976@eventor.orienteering.asn.au
@@ -121,12 +121,12 @@ GEO:-41.4585069546035;147.10341146286
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19994@eventor.orienteering.asn.au
-DTSTAMP:20231231T000609Z
+DTSTAMP:20240121T054632Z
 DTSTART:20240313T043000Z
 DTEND:20240313T043000Z
 SUMMARY:Wentworth Park - Southern Autumn Twilight Series #5, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/19994
-GEO:-42.8805289818825;147.398990464096
+GEO:-42.8807386565479;147.398800060122
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20083@eventor.orienteering.asn.au
@@ -147,7 +147,7 @@ GEO:-41.4569003772322;147.169562790096
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19995@eventor.orienteering.asn.au
-DTSTAMP:20231211T222151Z
+DTSTAMP:20240121T054021Z
 DTSTART:20240320T043000Z
 DTEND:20240320T043000Z
 SUMMARY:Waterworks - Southern Autumn Twilight Series #6 & Sth School Champs, Australopers

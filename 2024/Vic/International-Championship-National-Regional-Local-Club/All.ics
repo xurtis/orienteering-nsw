@@ -148,7 +148,7 @@ GEO:-38.1749386000342;144.713793812666
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19905@eventor.orienteering.asn.au
-DTSTAMP:20240114T031344Z
+DTSTAMP:20240121T072631Z
 DTSTART:20240120T070000Z
 DTEND:20240120T084500Z
 SUMMARY:Bike-O 75 Event 1 - Lysterfield, Bayside Kangaroos Orienteers
@@ -184,10 +184,10 @@ GEO:-37.9152530848088;145.134680897776
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19762@eventor.orienteering.asn.au
-DTSTAMP:20240118T041740Z
+DTSTAMP:20240121T060232Z
 DTSTART:20240120T233000Z
 DTEND:20240120T233000Z
-SUMMARY:Monash Mayhem 2.0 Team Entries - Organiser Use Only, Dandenong Ranges Orienteering Club
+SUMMARY:Monash Mayhem 2.0 Team Results, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19762
 GEO:-37.9152394465156;145.134704344355
 END:VEVENT
@@ -847,6 +847,14 @@ DTSTART:20240324T000000Z
 DTEND:20240324T000000Z
 SUMMARY:Sunday Morning Sprint, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20168
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20238@eventor.orienteering.asn.au
+DTSTAMP:20240121T075029Z
+DTSTART:20240324T000000Z
+DTEND:20240324T000000Z
+SUMMARY:Sunday Morning Sprint, Mt Lilydale, Dandenong Ranges Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20238
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19921@eventor.orienteering.asn.au
