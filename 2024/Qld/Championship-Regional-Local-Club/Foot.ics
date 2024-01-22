@@ -133,6 +133,7 @@ DTSTART:20240123T073000Z
 DTEND:20240123T093000Z
 SUMMARY:Night Nav - Gordon Park, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/19587
+GEO:-27.414406186005;153.02792998736
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20134@eventor.orienteering.asn.au
@@ -315,7 +316,7 @@ GEO:-27.5944051077715;151.903318115694
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16996@eventor.orienteering.asn.au
-DTSTAMP:20240120T211015Z
+DTSTAMP:20240122T104218Z
 DTSTART:20240225T053000Z
 DTEND:20240225T070000Z
 SUMMARY:Warwick Showgrounds sprint, Bullecourt Boulder Bounders
@@ -517,10 +518,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20208
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20158@eventor.orienteering.asn.au
-DTSTAMP:20240110T031830Z
+DTSTAMP:20240122T040048Z
 DTSTART:20240420T053000Z
 DTEND:20240420T053000Z
-SUMMARY:Sprint Series - EN - Event 9, Enoggeroos
+SUMMARY:Sprint Series - EN - Event 9 incl SEQ All Schools Sprint - Craigslea SHS, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20158
 END:VEVENT
 BEGIN:VEVENT
@@ -620,6 +621,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20212
 GEO:-27.4381606293001;152.934696566004
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18097@eventor.orienteering.asn.au
+DTSTAMP:20240122T052148Z
+DTSTART:20240518T040000Z
+DTEND:20240518T053000Z
+SUMMARY:EODS - Victoria Park - BCC , Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/18097
+GEO:-27.4497629514946;153.023026386448
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20213@eventor.orienteering.asn.au
 DTSTAMP:20240120T000802Z
 DTSTART:20240524T030000Z
@@ -635,15 +645,6 @@ DTSTART:20240525T040000Z
 DTEND:20240525T040000Z
 SUMMARY:OY - Qld Middle Champs - PM, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/19450
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18097@eventor.orienteering.asn.au
-DTSTAMP:20230827T230020Z
-DTSTART:20240525T040000Z
-DTEND:20240525T053000Z
-SUMMARY:EODS - Victoria Park - BCC , Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/18097
-GEO:-27.4497629514946;153.023026386448
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19451@eventor.orienteering.asn.au

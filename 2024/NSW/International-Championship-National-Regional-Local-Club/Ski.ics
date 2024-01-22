@@ -2,4 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
+BEGIN:VEVENT
+UID:Event_20250@eventor.orienteering.asn.au
+DTSTAMP:20240121T205134Z
+DTSTART:20241002T140000Z
+DTEND:20241003T140000Z
+SUMMARY:Australian Schools Relay Championships - ENTRY BY INDEPENDENT STUDENTS, Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/20250
+END:VEVENT
 END:VCALENDAR

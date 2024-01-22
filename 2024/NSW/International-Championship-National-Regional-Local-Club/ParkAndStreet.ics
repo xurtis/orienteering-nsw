@@ -210,11 +210,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19767
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19508@eventor.orienteering.asn.au
-DTSTAMP:20231219T213403Z
+DTSTAMP:20240122T101825Z
 DTSTART:20240203T223000Z
 DTEND:20240203T223000Z
-SUMMARY:West Sydney Orienteering Series, Western and Hills Orienteers
+SUMMARY:West Sydney Orienteering Series # 2, Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19508
+GEO:-33.6799086612503;150.910772009676
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19909@eventor.orienteering.asn.au
@@ -398,6 +399,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19380
 GEO:-33.7764357617742;151.206819435696
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20253@eventor.orienteering.asn.au
+DTSTAMP:20240122T072519Z
+DTSTART:20240228T060000Z
+DTEND:20240228T060000Z
+SUMMARY:2024 Newcastle Urban Orienteering Series #1, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20253
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19830@eventor.orienteering.asn.au
 DTSTAMP:20240113T032810Z
 DTSTART:20240229T060000Z
@@ -442,6 +451,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19381
 GEO:-33.8620489712594;151.162949859407
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20254@eventor.orienteering.asn.au
+DTSTAMP:20240122T072651Z
+DTSTART:20240306T060000Z
+DTEND:20240306T060000Z
+SUMMARY:2024 Newcastle Urban Orienteering Series #2, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20254
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19382@eventor.orienteering.asn.au
 DTSTAMP:20231220T001704Z
 DTSTART:20240313T053000Z
@@ -451,6 +468,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19382
 GEO:-33.8142795559185;151.172201917723
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20255@eventor.orienteering.asn.au
+DTSTAMP:20240122T072803Z
+DTSTART:20240313T060000Z
+DTEND:20240313T060000Z
+SUMMARY:2024 Newcastle Urban Orienteering Series #3, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20255
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19383@eventor.orienteering.asn.au
 DTSTAMP:20231219T213427Z
 DTSTART:20240320T053000Z
@@ -458,6 +483,14 @@ DTEND:20240320T083000Z
 SUMMARY:2023/24 Sydney Summer Series #25 - North Rocks, Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19383
 GEO:-33.7680684429069;151.022930578737
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20256@eventor.orienteering.asn.au
+DTSTAMP:20240122T072918Z
+DTSTART:20240320T060000Z
+DTEND:20240320T060000Z
+SUMMARY:2024 Newcastle Urban Orienteering Series #4, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20256
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19384@eventor.orienteering.asn.au

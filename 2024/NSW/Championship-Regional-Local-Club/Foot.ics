@@ -182,11 +182,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19767
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19508@eventor.orienteering.asn.au
-DTSTAMP:20231219T213403Z
+DTSTAMP:20240122T101825Z
 DTSTART:20240203T223000Z
 DTEND:20240203T223000Z
-SUMMARY:West Sydney Orienteering Series, Western and Hills Orienteers
+SUMMARY:West Sydney Orienteering Series # 2, Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19508
+GEO:-33.6799086612503;150.910772009676
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19909@eventor.orienteering.asn.au
@@ -360,6 +361,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19380
 GEO:-33.7764357617742;151.206819435696
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20253@eventor.orienteering.asn.au
+DTSTAMP:20240122T072519Z
+DTSTART:20240228T060000Z
+DTEND:20240228T060000Z
+SUMMARY:2024 Newcastle Urban Orienteering Series #1, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20253
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19830@eventor.orienteering.asn.au
 DTSTAMP:20240113T032810Z
 DTSTART:20240229T060000Z
@@ -428,6 +437,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19381
 GEO:-33.8620489712594;151.162949859407
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20254@eventor.orienteering.asn.au
+DTSTAMP:20240122T072651Z
+DTSTART:20240306T060000Z
+DTEND:20240306T060000Z
+SUMMARY:2024 Newcastle Urban Orienteering Series #2, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20254
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20142@eventor.orienteering.asn.au
 DTSTAMP:20240105T025722Z
 DTSTART:20240309T130000Z
@@ -479,6 +496,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19382
 GEO:-33.8142795559185;151.172201917723
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20255@eventor.orienteering.asn.au
+DTSTAMP:20240122T072803Z
+DTSTART:20240313T060000Z
+DTEND:20240313T060000Z
+SUMMARY:2024 Newcastle Urban Orienteering Series #3, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20255
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19572@eventor.orienteering.asn.au
 DTSTAMP:20230922T035459Z
 DTSTART:20240315T130000Z
@@ -521,6 +546,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19383
 GEO:-33.7680684429069;151.022930578737
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20256@eventor.orienteering.asn.au
+DTSTAMP:20240122T072918Z
+DTSTART:20240320T060000Z
+DTEND:20240320T060000Z
+SUMMARY:2024 Newcastle Urban Orienteering Series #4, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20256
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19799@eventor.orienteering.asn.au
 DTSTAMP:20231117T053243Z
 DTSTART:20240323T020000Z
@@ -554,14 +587,6 @@ DTEND:20240403T050000Z
 SUMMARY:Sydney Summer Handicap Championship, Bennelong Northside Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20089
 GEO:-33.7436847510268;151.17636591858
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19922@eventor.orienteering.asn.au
-DTSTAMP:20231206T025853Z
-DTSTART:20240405T130000Z
-DTEND:20240406T130000Z
-SUMMARY:Training Day - details tba, Illawarra Kareelah Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19922
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19801@eventor.orienteering.asn.au
@@ -1015,22 +1040,13 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20039
 GEO:-33.8460034291842;151.074483418337
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19304@eventor.orienteering.asn.au
-DTSTAMP:20230911T183853Z
+UID:Event_20251@eventor.orienteering.asn.au
+DTSTAMP:20240121T210807Z
 DTSTART:20240930T140000Z
-DTEND:20241001T140000Z
-SUMMARY:3B- Thunderbolts 3 Days - Day 1, Orienteering NSW
-URL:https://eventor.orienteering.asn.au/Events/Show/19304
-GEO:-30.4601455703433;151.703321508252
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19306@eventor.orienteering.asn.au
-DTSTAMP:20230911T183833Z
-DTSTART:20241001T140000Z
-DTEND:20241002T140000Z
-SUMMARY:4B- Thunderbolts 3 Days - Day 2, Orienteering NSW
-URL:https://eventor.orienteering.asn.au/Events/Show/19306
-GEO:-30.53399108687;151.661592908148
+DTEND:20241003T140000Z
+SUMMARY:Thunderbolts 3 Day , Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/20251
+GEO:-30.5216309515829;151.67355221485
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19852@eventor.orienteering.asn.au

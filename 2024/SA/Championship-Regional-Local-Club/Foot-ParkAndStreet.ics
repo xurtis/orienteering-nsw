@@ -49,7 +49,7 @@ GEO:-34.9858306902265;138.718978018455
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20042@eventor.orienteering.asn.au
-DTSTAMP:20240121T082149Z
+DTSTAMP:20240122T080053Z
 DTSTART:20240202T080000Z
 DTEND:20240202T093000Z
 SUMMARY:Snap Sprint Series Race 1 - Flinders University North, SA Arrows
@@ -75,7 +75,7 @@ GEO:-34.9565421584845;138.559294612898
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20043@eventor.orienteering.asn.au
-DTSTAMP:20240121T082919Z
+DTSTAMP:20240122T081430Z
 DTSTART:20240209T080000Z
 DTEND:20240209T093000Z
 SUMMARY:Snap Sprint Series Race 2 - Mawson Lakes, SA Arrows
@@ -84,7 +84,7 @@ GEO:-34.8104939983301;138.620871323176
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20044@eventor.orienteering.asn.au
-DTSTAMP:20240121T083039Z
+DTSTAMP:20240122T083009Z
 DTSTART:20240216T080000Z
 DTEND:20240216T093000Z
 SUMMARY:Snap Sprint Series Race 3 - Adelaide Botanic Gardens, SA Arrows
@@ -93,7 +93,7 @@ GEO:-34.9155256867614;138.612358653558
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20045@eventor.orienteering.asn.au
-DTSTAMP:20240121T083126Z
+DTSTAMP:20240122T085443Z
 DTSTART:20240223T080000Z
 DTEND:20240223T093000Z
 SUMMARY:Snap Sprint Series Race 4 - Glenelg, SA Arrows
@@ -143,6 +143,14 @@ SUMMARY:Midweek Training at Para Wirra, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/20096
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20257@eventor.orienteering.asn.au
+DTSTAMP:20240122T085619Z
+DTSTART:20240505T003000Z
+DTEND:20240505T033000Z
+SUMMARY:Morialta Park and Street, Wallaringa Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20257
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20216@eventor.orienteering.asn.au
 DTSTAMP:20240120T041504Z
 DTSTART:20240511T040000Z
@@ -166,6 +174,15 @@ DTSTART:20240519T003000Z
 DTEND:20240519T030000Z
 SUMMARY:Seymour College (Adelaide), Tjuringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20244
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20258@eventor.orienteering.asn.au
+DTSTAMP:20240122T085847Z
+DTSTART:20240602T003000Z
+DTEND:20240602T033000Z
+SUMMARY:Woodhouse (Activity Centre) Sprint Orienteer of the Year event, Wallaringa Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20258
+GEO:-34.9869775824457;138.73680153094
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19504@eventor.orienteering.asn.au
@@ -253,11 +270,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20245
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19506@eventor.orienteering.asn.au
-DTSTAMP:20230914T110703Z
+DTSTAMP:20240122T085932Z
 DTSTART:20240908T003000Z
 DTEND:20240908T003000Z
-SUMMARY:SA Middle Distance Championships, Wallaringa Orienteering Club
+SUMMARY:SA Middle Distance Championships Wirreanda Farm, Wallaringa Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19506
+GEO:-34.7145860224033;138.931954156703
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20101@eventor.orienteering.asn.au

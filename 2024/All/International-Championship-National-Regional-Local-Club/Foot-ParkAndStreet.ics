@@ -583,6 +583,7 @@ DTSTART:20240123T073000Z
 DTEND:20240123T093000Z
 SUMMARY:Night Nav - Gordon Park, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/19587
+GEO:-27.414406186005;153.02792998736
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20025@eventor.orienteering.asn.au
@@ -853,7 +854,7 @@ GEO:-33.2703590478003;149.079747502664
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20042@eventor.orienteering.asn.au
-DTSTAMP:20240121T082149Z
+DTSTAMP:20240122T080053Z
 DTSTART:20240202T080000Z
 DTEND:20240202T093000Z
 SUMMARY:Snap Sprint Series Race 1 - Flinders University North, SA Arrows
@@ -932,11 +933,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19767
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19508@eventor.orienteering.asn.au
-DTSTAMP:20231219T213403Z
+DTSTAMP:20240122T101825Z
 DTSTART:20240203T223000Z
 DTEND:20240203T223000Z
-SUMMARY:West Sydney Orienteering Series, Western and Hills Orienteers
+SUMMARY:West Sydney Orienteering Series # 2, Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19508
+GEO:-33.6799086612503;150.910772009676
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19909@eventor.orienteering.asn.au
@@ -1119,7 +1121,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20031
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20043@eventor.orienteering.asn.au
-DTSTAMP:20240121T082919Z
+DTSTAMP:20240122T081430Z
 DTSTART:20240209T080000Z
 DTEND:20240209T093000Z
 SUMMARY:Snap Sprint Series Race 2 - Mawson Lakes, SA Arrows
@@ -1417,7 +1419,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20032
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20044@eventor.orienteering.asn.au
-DTSTAMP:20240121T083039Z
+DTSTAMP:20240122T083009Z
 DTSTART:20240216T080000Z
 DTEND:20240216T093000Z
 SUMMARY:Snap Sprint Series Race 3 - Adelaide Botanic Gardens, SA Arrows
@@ -1716,7 +1718,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20033
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20045@eventor.orienteering.asn.au
-DTSTAMP:20240121T083126Z
+DTSTAMP:20240122T085443Z
 DTSTART:20240223T080000Z
 DTEND:20240223T093000Z
 SUMMARY:Snap Sprint Series Race 4 - Glenelg, SA Arrows
@@ -1776,7 +1778,7 @@ GEO:-27.5944051077715;151.903318115694
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16996@eventor.orienteering.asn.au
-DTSTAMP:20240120T211015Z
+DTSTAMP:20240122T104218Z
 DTSTART:20240225T053000Z
 DTEND:20240225T070000Z
 SUMMARY:Warwick Showgrounds sprint, Bullecourt Boulder Bounders
@@ -1867,6 +1869,14 @@ DTEND:20240228T083000Z
 SUMMARY:2023/24 Sydney Summer Series #22 - Roseville, Big Foot Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19380
 GEO:-33.7764357617742;151.206819435696
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20253@eventor.orienteering.asn.au
+DTSTAMP:20240122T072519Z
+DTSTART:20240228T060000Z
+DTEND:20240228T060000Z
+SUMMARY:2024 Newcastle Urban Orienteering Series #1, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20253
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19205@eventor.orienteering.asn.au
@@ -2114,6 +2124,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19381
 GEO:-33.8620489712594;151.162949859407
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20254@eventor.orienteering.asn.au
+DTSTAMP:20240122T072651Z
+DTSTART:20240306T060000Z
+DTEND:20240306T060000Z
+SUMMARY:2024 Newcastle Urban Orienteering Series #2, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20254
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19206@eventor.orienteering.asn.au
 DTSTAMP:20230922T020303Z
 DTSTART:20240306T060000Z
@@ -2190,12 +2208,12 @@ GEO:-41.871107608693;148.305359854761
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20140@eventor.orienteering.asn.au
-DTSTAMP:20240108T000941Z
+DTSTAMP:20240122T044024Z
 DTSTART:20240308T230000Z
-DTEND:20240309T130000Z
-SUMMARY:Ballarat Sprints / Eureka Challenge, Eureka Orienteers
+DTEND:20240309T050000Z
+SUMMARY:Ballarat Sprints Day 1, Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20140
-GEO:-37.5540413357958;143.816037440442
+GEO:-37.553876159799;143.815804586552
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20154@eventor.orienteering.asn.au
@@ -2222,6 +2240,15 @@ DTEND:20240310T130000Z
 SUMMARY:Come and Try Orienteering - Booragul, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20142
 GEO:-32.9731962685724;151.616255555445
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20252@eventor.orienteering.asn.au
+DTSTAMP:20240122T045611Z
+DTSTART:20240309T223000Z
+DTEND:20240310T050000Z
+SUMMARY:Ballarat Sprints Day 2, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20252
+GEO:-37.6246936020354;143.881154826383
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20222@eventor.orienteering.asn.au
@@ -2365,6 +2392,14 @@ DTEND:20240313T083000Z
 SUMMARY:2023/24 Sydney Summer Series #24 - Lane Cove, Bennelong Northside Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19382
 GEO:-33.8142795559185;151.172201917723
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20255@eventor.orienteering.asn.au
+DTSTAMP:20240122T072803Z
+DTSTART:20240313T060000Z
+DTEND:20240313T060000Z
+SUMMARY:2024 Newcastle Urban Orienteering Series #3, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20255
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19207@eventor.orienteering.asn.au
@@ -2599,6 +2634,14 @@ DTEND:20240320T083000Z
 SUMMARY:2023/24 Sydney Summer Series #25 - North Rocks, Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19383
 GEO:-33.7680684429069;151.022930578737
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20256@eventor.orienteering.asn.au
+DTSTAMP:20240122T072918Z
+DTSTART:20240320T060000Z
+DTEND:20240320T060000Z
+SUMMARY:2024 Newcastle Urban Orienteering Series #4, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20256
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19788@eventor.orienteering.asn.au
@@ -2866,14 +2909,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18751
 GEO:-27.4591639178209;152.978139654517
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19922@eventor.orienteering.asn.au
-DTSTAMP:20231206T025853Z
-DTSTART:20240405T130000Z
-DTEND:20240406T130000Z
-SUMMARY:Training Day - details tba, Illawarra Kareelah Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19922
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20068@eventor.orienteering.asn.au
 DTSTAMP:20231218T130203Z
 DTSTART:20240406T013000Z
@@ -3044,10 +3079,10 @@ GEO:-36.7594473081197;144.278470725581
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20158@eventor.orienteering.asn.au
-DTSTAMP:20240110T031830Z
+DTSTAMP:20240122T040048Z
 DTSTART:20240420T053000Z
 DTEND:20240420T053000Z
-SUMMARY:Sprint Series - EN - Event 9, Enoggeroos
+SUMMARY:Sprint Series - EN - Event 9 incl SEQ All Schools Sprint - Craigslea SHS, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20158
 END:VEVENT
 BEGIN:VEVENT
@@ -3230,6 +3265,14 @@ SUMMARY:ACT Classic Series: ACT League #6, Broulee, Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/19544
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20257@eventor.orienteering.asn.au
+DTSTAMP:20240122T085619Z
+DTSTART:20240505T003000Z
+DTEND:20240505T033000Z
+SUMMARY:Morialta Park and Street, Wallaringa Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20257
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19901@eventor.orienteering.asn.au
 DTSTAMP:20231202T025953Z
 DTSTART:20240505T140000Z
@@ -3364,6 +3407,15 @@ SUMMARY:NOL Round 4, ACT League #7: Wee Jasper, Abominable O-Men
 URL:https://eventor.orienteering.asn.au/Events/Show/19545
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18097@eventor.orienteering.asn.au
+DTSTAMP:20240122T052148Z
+DTSTART:20240518T040000Z
+DTEND:20240518T053000Z
+SUMMARY:EODS - Victoria Park - BCC , Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/18097
+GEO:-27.4497629514946;153.023026386448
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20006@eventor.orienteering.asn.au
 DTSTAMP:20231211T224025Z
 DTSTART:20240518T140000Z
@@ -3446,15 +3498,6 @@ DTSTART:20240525T040000Z
 DTEND:20240525T040000Z
 SUMMARY:OY - Qld Middle Champs - PM, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/19450
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18097@eventor.orienteering.asn.au
-DTSTAMP:20230827T230020Z
-DTSTART:20240525T040000Z
-DTEND:20240525T053000Z
-SUMMARY:EODS - Victoria Park - BCC , Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/18097
-GEO:-27.4497629514946;153.023026386448
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19975@eventor.orienteering.asn.au
@@ -3548,6 +3591,15 @@ DTSTART:20240602T000000Z
 DTEND:20240602T040000Z
 SUMMARY:ACT Classic Series: Hermann Wehner Tribute Event, Stromlo, Weston Emus
 URL:https://eventor.orienteering.asn.au/Events/Show/19547
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20258@eventor.orienteering.asn.au
+DTSTAMP:20240122T085847Z
+DTSTART:20240602T003000Z
+DTEND:20240602T033000Z
+SUMMARY:Woodhouse (Activity Centre) Sprint Orienteer of the Year event, Wallaringa Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20258
+GEO:-34.9869775824457;138.73680153094
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18752@eventor.orienteering.asn.au
@@ -4388,11 +4440,12 @@ GEO:-32.9012458742003;149.934339258176
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19506@eventor.orienteering.asn.au
-DTSTAMP:20230914T110703Z
+DTSTAMP:20240122T085932Z
 DTSTART:20240908T003000Z
 DTEND:20240908T003000Z
-SUMMARY:SA Middle Distance Championships, Wallaringa Orienteering Club
+SUMMARY:SA Middle Distance Championships Wirreanda Farm, Wallaringa Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19506
+GEO:-34.7145860224033;138.931954156703
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20113@eventor.orienteering.asn.au
@@ -4520,31 +4573,38 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19303
 GEO:-30.5050010642412;151.686031413461
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19304@eventor.orienteering.asn.au
-DTSTAMP:20230911T183853Z
+UID:Event_20248@eventor.orienteering.asn.au
+DTSTAMP:20240121T205134Z
 DTSTART:20240930T140000Z
 DTEND:20241001T140000Z
-SUMMARY:3B- Thunderbolts 3 Days - Day 1, Orienteering NSW
-URL:https://eventor.orienteering.asn.au/Events/Show/19304
-GEO:-30.4601455703433;151.703321508252
+SUMMARY:Australian Schools Sprint Championships - ENTRY BY INDEPENDENT STUDENTS, Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/20248
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20251@eventor.orienteering.asn.au
+DTSTAMP:20240121T210807Z
+DTSTART:20240930T140000Z
+DTEND:20241003T140000Z
+SUMMARY:Thunderbolts 3 Day , Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/20251
+GEO:-30.5216309515829;151.67355221485
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19305@eventor.orienteering.asn.au
-DTSTAMP:20230911T183810Z
+DTSTAMP:20240121T205637Z
 DTSTART:20241001T140000Z
 DTEND:20241002T140000Z
-SUMMARY:4A- ASOC Long Championship- 	Australian Schools Sprint Championships - ENTRY BY STATE TEAM MANAGERS ONLY, Orienteering NSW
+SUMMARY:4A- ASOC Long Championship- 	Australian Schools Long Championships - ENTRY BY STATE TEAM MANAGERS ONLY, Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/19305
 GEO:-30.4566250031145;151.696880474483
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19306@eventor.orienteering.asn.au
-DTSTAMP:20230911T183833Z
+UID:Event_20249@eventor.orienteering.asn.au
+DTSTAMP:20240121T205134Z
 DTSTART:20241001T140000Z
 DTEND:20241002T140000Z
-SUMMARY:4B- Thunderbolts 3 Days - Day 2, Orienteering NSW
-URL:https://eventor.orienteering.asn.au/Events/Show/19306
-GEO:-30.53399108687;151.661592908148
+SUMMARY:Australian Schools Long Championships - ENTRY BY INDEPENDENT STUDENTS, Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/20249
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19307@eventor.orienteering.asn.au
@@ -4556,13 +4616,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19307
 GEO:-30.4771169611597;151.682679318196
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19308@eventor.orienteering.asn.au
-DTSTAMP:20230911T183922Z
+UID:Event_20250@eventor.orienteering.asn.au
+DTSTAMP:20240121T205134Z
 DTSTART:20241002T140000Z
 DTEND:20241003T140000Z
-SUMMARY:5B- Thunderbolts 3 Days - Day 3, Orienteering NSW
-URL:https://eventor.orienteering.asn.au/Events/Show/19308
-GEO:-30.4799731801484;151.72611740156
+SUMMARY:Australian Schools Relay Championships - ENTRY BY INDEPENDENT STUDENTS, Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/20250
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19309@eventor.orienteering.asn.au

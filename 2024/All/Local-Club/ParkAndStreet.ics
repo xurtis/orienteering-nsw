@@ -459,6 +459,7 @@ DTSTART:20240123T073000Z
 DTEND:20240123T093000Z
 SUMMARY:Night Nav - Gordon Park, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/19587
+GEO:-27.414406186005;153.02792998736
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19374@eventor.orienteering.asn.au
@@ -702,11 +703,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19767
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19508@eventor.orienteering.asn.au
-DTSTAMP:20231219T213403Z
+DTSTAMP:20240122T101825Z
 DTSTART:20240203T223000Z
 DTEND:20240203T223000Z
-SUMMARY:West Sydney Orienteering Series, Western and Hills Orienteers
+SUMMARY:West Sydney Orienteering Series # 2, Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19508
+GEO:-33.6799086612503;150.910772009676
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19909@eventor.orienteering.asn.au
@@ -1165,7 +1167,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20033
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16996@eventor.orienteering.asn.au
-DTSTAMP:20240120T211015Z
+DTSTAMP:20240122T104218Z
 DTSTART:20240225T053000Z
 DTEND:20240225T070000Z
 SUMMARY:Warwick Showgrounds sprint, Bullecourt Boulder Bounders
@@ -1213,6 +1215,14 @@ DTEND:20240228T083000Z
 SUMMARY:2023/24 Sydney Summer Series #22 - Roseville, Big Foot Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19380
 GEO:-33.7764357617742;151.206819435696
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20253@eventor.orienteering.asn.au
+DTSTAMP:20240122T072519Z
+DTSTART:20240228T060000Z
+DTEND:20240228T060000Z
+SUMMARY:2024 Newcastle Urban Orienteering Series #1, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20253
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19785@eventor.orienteering.asn.au
@@ -1350,6 +1360,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19381
 GEO:-33.8620489712594;151.162949859407
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20254@eventor.orienteering.asn.au
+DTSTAMP:20240122T072651Z
+DTSTART:20240306T060000Z
+DTEND:20240306T060000Z
+SUMMARY:2024 Newcastle Urban Orienteering Series #2, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20254
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19786@eventor.orienteering.asn.au
 DTSTAMP:20231209T075655Z
 DTSTART:20240306T063000Z
@@ -1441,6 +1459,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19382
 GEO:-33.8142795559185;151.172201917723
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20255@eventor.orienteering.asn.au
+DTSTAMP:20240122T072803Z
+DTSTART:20240313T060000Z
+DTEND:20240313T060000Z
+SUMMARY:2024 Newcastle Urban Orienteering Series #3, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20255
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19787@eventor.orienteering.asn.au
 DTSTAMP:20231209T075722Z
 DTSTART:20240313T063000Z
@@ -1523,6 +1549,14 @@ DTEND:20240320T083000Z
 SUMMARY:2023/24 Sydney Summer Series #25 - North Rocks, Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19383
 GEO:-33.7680684429069;151.022930578737
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20256@eventor.orienteering.asn.au
+DTSTAMP:20240122T072918Z
+DTSTART:20240320T060000Z
+DTEND:20240320T060000Z
+SUMMARY:2024 Newcastle Urban Orienteering Series #4, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20256
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19788@eventor.orienteering.asn.au
@@ -1686,6 +1720,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20212
 GEO:-27.4381606293001;152.934696566004
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_18097@eventor.orienteering.asn.au
+DTSTAMP:20240122T052148Z
+DTSTART:20240518T040000Z
+DTEND:20240518T053000Z
+SUMMARY:EODS - Victoria Park - BCC , Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/18097
+GEO:-27.4497629514946;153.023026386448
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20213@eventor.orienteering.asn.au
 DTSTAMP:20240120T000802Z
 DTSTART:20240524T030000Z
@@ -1693,15 +1736,6 @@ DTEND:20240524T030000Z
 SUMMARY:NWD Interschool Sport, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20213
 GEO:-27.38124152285;152.975348414287
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_18097@eventor.orienteering.asn.au
-DTSTAMP:20230827T230020Z
-DTSTART:20240525T040000Z
-DTEND:20240525T053000Z
-SUMMARY:EODS - Victoria Park - BCC , Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/18097
-GEO:-27.4497629514946;153.023026386448
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18735@eventor.orienteering.asn.au
