@@ -294,12 +294,28 @@ SUMMARY:NOL Round 4, ACT League #8: Awoonga, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19546
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19450@eventor.orienteering.asn.au
+DTSTAMP:20240123T230119Z
+DTSTART:20240525T040000Z
+DTEND:20240525T040000Z
+SUMMARY:OY - Qld Middle Champs - PM, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/19450
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19975@eventor.orienteering.asn.au
 DTSTAMP:20231211T043623Z
 DTSTART:20240525T140000Z
 DTEND:20240526T140000Z
 SUMMARY:Stonehenge - OST 6 - Schools Forest Champs - Long, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/19975
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19451@eventor.orienteering.asn.au
+DTSTAMP:20240123T230048Z
+DTSTART:20240525T230000Z
+DTEND:20240525T230000Z
+SUMMARY:OY - EN - Reedy Creek, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/19451
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20115@eventor.orienteering.asn.au
@@ -385,6 +401,14 @@ SUMMARY:Junior Camp, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19862
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19449@eventor.orienteering.asn.au
+DTSTAMP:20240123T230538Z
+DTSTART:20240713T230000Z
+DTEND:20240713T230000Z
+SUMMARY:OY7 - EN - Woodlands, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/19449
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19580@eventor.orienteering.asn.au
 DTSTAMP:20231113T034407Z
 DTSTART:20240719T140000Z
@@ -416,6 +440,14 @@ DTSTART:20240727T140000Z
 DTEND:20240728T140000Z
 SUMMARY:Windfalls Northern Classic - OST 10, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/20109
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19863@eventor.orienteering.asn.au
+DTSTAMP:20240123T230319Z
+DTSTART:20240803T140000Z
+DTEND:20240804T140000Z
+SUMMARY:OY8 Kings State Forest, Gympie (location tbc), Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19863
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19582@eventor.orienteering.asn.au
@@ -464,6 +496,14 @@ DTSTART:20240824T140000Z
 DTEND:20240825T140000Z
 SUMMARY:ACT Long Championships: ACT League #12, NSW SL #15, Birkenburn, Orienteering ACT / Orienteering NSW / Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19550
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19864@eventor.orienteering.asn.au
+DTSTAMP:20240123T230514Z
+DTSTART:20240831T140000Z
+DTEND:20240901T140000Z
+SUMMARY:OY9 Priest Gully, Burbank, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19864
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19591@eventor.orienteering.asn.au
@@ -520,7 +560,7 @@ UID:Event_19301@eventor.orienteering.asn.au
 DTSTAMP:20240112T044700Z
 DTSTART:20240927T140000Z
 DTEND:20240928T140000Z
-SUMMARY:1- Australian Middle Distance Championship, Orienteering NSW
+SUMMARY:1- Australian Middle Distance Championship, Bennelong Northside Orienteers / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/19301
 END:VEVENT
 BEGIN:VEVENT

@@ -48,6 +48,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20144
 GEO:-34.9858306902265;138.718978018455
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20259@eventor.orienteering.asn.au
+DTSTAMP:20240123T134327Z
+DTSTART:20240201T143000Z
+DTEND:20240202T143000Z
+SUMMARY:NT: 2024 Wet Season Series Event 1 - Anula, Top End Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20259
+GEO:-12.3917616306599;130.891407821413
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20042@eventor.orienteering.asn.au
 DTSTAMP:20240122T080053Z
 DTSTART:20240202T080000Z
@@ -74,6 +83,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20093
 GEO:-34.9565421584845;138.559294612898
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20260@eventor.orienteering.asn.au
+DTSTAMP:20240123T134738Z
+DTSTART:20240208T143000Z
+DTEND:20240209T143000Z
+SUMMARY:NT: 2024 Wet Season Series Event 2 - Fannie Bay, Top End Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20260
+GEO:-12.3917616306599;130.891407821413
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20043@eventor.orienteering.asn.au
 DTSTAMP:20240122T081430Z
 DTSTART:20240209T080000Z
@@ -81,6 +99,15 @@ DTEND:20240209T093000Z
 SUMMARY:Snap Sprint Series Race 2 - Mawson Lakes, SA Arrows
 URL:https://eventor.orienteering.asn.au/Events/Show/20043
 GEO:-34.8104939983301;138.620871323176
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20261@eventor.orienteering.asn.au
+DTSTAMP:20240123T140116Z
+DTSTART:20240215T143000Z
+DTEND:20240216T143000Z
+SUMMARY:NT: 2024 Wet Season Series Event 3 - Leanyer, Top End Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20261
+GEO:-12.3771801160426;130.897016201682
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20044@eventor.orienteering.asn.au
@@ -92,6 +119,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20044
 GEO:-34.9155256867614;138.612358653558
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20262@eventor.orienteering.asn.au
+DTSTAMP:20240123T140513Z
+DTSTART:20240222T143000Z
+DTEND:20240223T143000Z
+SUMMARY:NT: 2024 Wet Season Series Event 4 - Stuart Park, Top End Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20262
+GEO:-12.4489806945403;130.846983867889
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20045@eventor.orienteering.asn.au
 DTSTAMP:20240122T085443Z
 DTSTART:20240223T080000Z
@@ -99,6 +135,15 @@ DTEND:20240223T093000Z
 SUMMARY:Snap Sprint Series Race 4 - Glenelg, SA Arrows
 URL:https://eventor.orienteering.asn.au/Events/Show/20045
 GEO:-34.9784933315203;138.511831288972
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20263@eventor.orienteering.asn.au
+DTSTAMP:20240123T140826Z
+DTSTART:20240229T143000Z
+DTEND:20240301T143000Z
+SUMMARY:NT: 2024 Wet Season Series Event 5 - Parap/Ludmilla, Top End Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20263
+GEO:-12.4313944550495;130.844391179261
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19505@eventor.orienteering.asn.au
@@ -110,12 +155,39 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19505
 GEO:-35.074041069437;138.595233012356
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20264@eventor.orienteering.asn.au
+DTSTAMP:20240123T141153Z
+DTSTART:20240307T143000Z
+DTEND:20240308T143000Z
+SUMMARY:NT: 2024 Wet Season Series Event 6 - Rapid Creek, Top End Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20264
+GEO:-12.4313944550495;130.844391179261
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20095@eventor.orienteering.asn.au
 DTSTAMP:20231228T103401Z
 DTSTART:20240313T000000Z
 DTEND:20240313T023000Z
 SUMMARY:Midweek Training at Mt Crawford, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/20095
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20265@eventor.orienteering.asn.au
+DTSTAMP:20240123T141626Z
+DTSTART:20240314T143000Z
+DTEND:20240315T143000Z
+SUMMARY:NT: 2024 Wet Season Series Event 7 - Cullen Bay, Top End Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20265
+GEO:-12.4495715713392;130.822624899014
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20266@eventor.orienteering.asn.au
+DTSTAMP:20240123T143422Z
+DTSTART:20240323T143000Z
+DTEND:20240324T143000Z
+SUMMARY:NT: 2024 East Point, Top End Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20266
+GEO:-12.4495715713392;130.822624899014
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20215@eventor.orienteering.asn.au

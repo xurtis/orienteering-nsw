@@ -103,7 +103,7 @@ GEO:-35.2522894399233;149.160395362676
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20170@eventor.orienteering.asn.au
-DTSTAMP:20240111T062031Z
+DTSTAMP:20240124T074247Z
 DTSTART:20240116T064500Z
 DTEND:20240116T084500Z
 SUMMARY:Ballarat Park & Street Summer Series ’24 – #1 Brown Hill, Eureka Orienteers
@@ -184,7 +184,7 @@ GEO:-35.4293748724068;149.071241772562
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20171@eventor.orienteering.asn.au
-DTSTAMP:20240117T085952Z
+DTSTAMP:20240124T074439Z
 DTSTART:20240123T064500Z
 DTEND:20240123T084500Z
 SUMMARY:Ballarat Park & Street Summer Series ’24 – #2 Canadian Gully, Eureka Orienteers
@@ -193,7 +193,7 @@ GEO:-37.588156815099;143.867629409591
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19374@eventor.orienteering.asn.au
-DTSTAMP:20240123T081208Z
+DTSTAMP:20240124T120505Z
 DTSTART:20240124T053000Z
 DTEND:20240124T083000Z
 SUMMARY:2023/24 Sydney Summer Series #17 - Paddington, Garingal Orienteers
@@ -202,7 +202,7 @@ GEO:-33.8806547886109;151.233511724829
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19535@eventor.orienteering.asn.au
-DTSTAMP:20240114T042247Z
+DTSTAMP:20240124T101441Z
 DTSTART:20240124T060000Z
 DTEND:20240124T060000Z
 SUMMARY:Newcastle Summer Street Series #14 - Kahibah, Newcastle Orienteering Club
@@ -211,7 +211,7 @@ GEO:-32.9733567272281;151.705969063267
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19151@eventor.orienteering.asn.au
-DTSTAMP:20231206T124859Z
+DTSTAMP:20240124T075618Z
 DTSTART:20240125T130000Z
 DTEND:20240126T130000Z
 SUMMARY:High O 2024 - Day 1, Albury-Wodonga Orienteering Club
@@ -397,7 +397,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19649
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19677@eventor.orienteering.asn.au
-DTSTAMP:20231202T045946Z
+DTSTAMP:20240123T234725Z
 DTSTART:20240210T220000Z
 DTEND:20240210T233000Z
 SUMMARY:Central Coast Summer Series 11 (final) - Kincumber, Central Coast Orienteers
@@ -415,7 +415,7 @@ GEO:-33.7915469793891;151.007736860288
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19910@eventor.orienteering.asn.au
-DTSTAMP:20240120T080228Z
+DTSTAMP:20240123T232047Z
 DTSTART:20240210T230000Z
 DTEND:20240211T010000Z
 SUMMARY:Illawarra Map Running #2 - Kiama Downs, Illawarra Kareelah Orienteers
@@ -424,7 +424,7 @@ GEO:-34.6421987916222;150.845538450475
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20005@eventor.orienteering.asn.au
-DTSTAMP:20231211T224021Z
+DTSTAMP:20240124T022926Z
 DTSTART:20240211T040000Z
 DTEND:20240211T040000Z
 SUMMARY:Orienteering ACT Planning Workshop, Orienteering ACT
@@ -528,7 +528,7 @@ GEO:-42.4531967341763;147.24022932572
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19911@eventor.orienteering.asn.au
-DTSTAMP:20231206T023827Z
+DTSTAMP:20240123T225736Z
 DTSTART:20240217T230000Z
 DTEND:20240218T010000Z
 SUMMARY:Illawarra Map Running #3 - Thirroul, Illawarra Kareelah Orienteers
@@ -655,28 +655,13 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20199
 GEO:-27.4056944736787;152.978309732186
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19517@eventor.orienteering.asn.au
-DTSTAMP:20230920T204653Z
+UID:Event_20267@eventor.orienteering.asn.au
+DTSTAMP:20240124T024657Z
 DTSTART:20240302T023000Z
-DTEND:20240303T010000Z
-SUMMARY:O'Shea 2 Days 2024 - testing as a Relay event, Central Coast Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19517
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19516@eventor.orienteering.asn.au
-DTSTAMP:20230918T050745Z
-DTSTART:20240302T023000Z
-DTEND:20240303T010000Z
-SUMMARY:O'Shea 2 Days 2024 - testing as a Team event, Central Coast Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19516
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19518@eventor.orienteering.asn.au
-DTSTAMP:20230925T005148Z
-DTSTART:20240302T023000Z
-DTEND:20240303T023000Z
-SUMMARY:O'Shea 2 Days 2024 - testing Relay (take 2), Central Coast Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19518
+DTEND:20240302T023000Z
+SUMMARY:O'Shea 2 Days 2024 - Rumbalara & East Gosford, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20267
+GEO:-33.4237001721943;151.349749823316
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19541@eventor.orienteering.asn.au
@@ -698,7 +683,7 @@ GEO:-32.9615754787454;151.617076782514
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19915@eventor.orienteering.asn.au
-DTSTAMP:20240120T081621Z
+DTSTAMP:20240123T233000Z
 DTSTART:20240302T230000Z
 DTEND:20240303T010000Z
 SUMMARY:Illawarra Map Running #4 & Final - Shell Cove, Illawarra Kareelah Orienteers
@@ -1103,12 +1088,28 @@ SUMMARY:ACT Metro Series: incl. Junior League #2, Bruce Ridge, Parawanga Oriente
 URL:https://eventor.orienteering.asn.au/Events/Show/19555
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19450@eventor.orienteering.asn.au
+DTSTAMP:20240123T230119Z
+DTSTART:20240525T040000Z
+DTEND:20240525T040000Z
+SUMMARY:OY - Qld Middle Champs - PM, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/19450
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19975@eventor.orienteering.asn.au
 DTSTAMP:20231211T043623Z
 DTSTART:20240525T140000Z
 DTEND:20240526T140000Z
 SUMMARY:Stonehenge - OST 6 - Schools Forest Champs - Long, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/19975
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19451@eventor.orienteering.asn.au
+DTSTAMP:20240123T230048Z
+DTSTART:20240525T230000Z
+DTEND:20240525T230000Z
+SUMMARY:OY - EN - Reedy Creek, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/19451
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19569@eventor.orienteering.asn.au
@@ -1260,6 +1261,14 @@ SUMMARY:Junior Camp, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19862
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19449@eventor.orienteering.asn.au
+DTSTAMP:20240123T230538Z
+DTSTART:20240713T230000Z
+DTEND:20240713T230000Z
+SUMMARY:OY7 - EN - Woodlands, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/19449
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19580@eventor.orienteering.asn.au
 DTSTAMP:20231113T034407Z
 DTSTART:20240719T140000Z
@@ -1323,6 +1332,14 @@ DTSTART:20240803T003000Z
 DTEND:20240803T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #8, Remembrance Park, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19560
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19863@eventor.orienteering.asn.au
+DTSTAMP:20240123T230319Z
+DTSTART:20240803T140000Z
+DTEND:20240804T140000Z
+SUMMARY:OY8 Kings State Forest, Gympie (location tbc), Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19863
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20077@eventor.orienteering.asn.au
@@ -1437,6 +1454,14 @@ DTSTART:20240831T003100Z
 DTEND:20240831T003200Z
 SUMMARY:ACT Metro Series Season Pass, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19566
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19864@eventor.orienteering.asn.au
+DTSTAMP:20240123T230514Z
+DTSTART:20240831T140000Z
+DTEND:20240901T140000Z
+SUMMARY:OY9 Priest Gully, Burbank, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19864
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19591@eventor.orienteering.asn.au
