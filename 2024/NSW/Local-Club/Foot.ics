@@ -155,8 +155,17 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20030
 GEO:-33.2703590478003;149.079747502664
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20292@eventor.orienteering.asn.au
+DTSTAMP:20240125T033354Z
+DTSTART:20240202T220000Z
+DTEND:20240202T220000Z
+SUMMARY:Bold Horizons Saturday Coaching, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20292
+GEO:-33.8290029543963;151.207645155315
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20147@eventor.orienteering.asn.au
-DTSTAMP:20240114T071546Z
+DTSTAMP:20240124T205948Z
 DTSTART:20240202T220000Z
 DTEND:20240203T003000Z
 SUMMARY:SHOO’s Summer Saturdays #5 - Currans Hill, Southern Highlands Orienteers
@@ -174,11 +183,12 @@ GEO:-33.4900132441344;151.430916126233
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19767@eventor.orienteering.asn.au
-DTSTAMP:20231116T063047Z
+DTSTAMP:20240125T022129Z
 DTSTART:20240203T220000Z
 DTEND:20240204T000000Z
 SUMMARY:Waggaroos Summer Series 2023-24 #4, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19767
+GEO:-35.1055320132443;147.374878910754
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19508@eventor.orienteering.asn.au
@@ -223,6 +233,24 @@ DTSTART:20240209T070000Z
 DTEND:20240209T083000Z
 SUMMARY:Goldseekers Summer Series #2 2024, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20031
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20293@eventor.orienteering.asn.au
+DTSTAMP:20240125T034052Z
+DTSTART:20240209T220000Z
+DTEND:20240209T220000Z
+SUMMARY:SOS 3D - Pennant Hills, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20293
+GEO:-33.7408531590984;151.059006325287
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20294@eventor.orienteering.asn.au
+DTSTAMP:20240125T034702Z
+DTSTART:20240209T220000Z
+DTEND:20240209T220000Z
+SUMMARY:SOS Macarthur - Elderslie, Bold Horizons Event Organiser / Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20294
+GEO:-34.0611371854343;150.712640620888
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19677@eventor.orienteering.asn.au
@@ -286,6 +314,24 @@ SUMMARY:Goldseekers Summer Series #3 2024, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20032
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20296@eventor.orienteering.asn.au
+DTSTAMP:20240125T035504Z
+DTSTART:20240216T220000Z
+DTEND:20240216T220000Z
+SUMMARY:SOS 3D - Killarney Heights, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20296
+GEO:-33.7718570848646;151.216121659938
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20295@eventor.orienteering.asn.au
+DTSTAMP:20240125T034959Z
+DTSTART:20240216T220000Z
+DTEND:20240216T220000Z
+SUMMARY:SOS Macarthur - Spring Farm, Bold Horizons Event Organiser / Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20295
+GEO:-34.0699147394674;150.71603341641
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19768@eventor.orienteering.asn.au
 DTSTAMP:20231116T063119Z
 DTSTART:20240217T220000Z
@@ -303,11 +349,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19509
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19911@eventor.orienteering.asn.au
-DTSTAMP:20240123T225736Z
+DTSTAMP:20240124T223303Z
 DTSTART:20240217T230000Z
 DTEND:20240218T010000Z
 SUMMARY:Illawarra Map Running #3 - Thirroul, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19911
+GEO:-34.3184425123331;150.919291980427
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20049@eventor.orienteering.asn.au
@@ -344,6 +391,24 @@ SUMMARY:Goldseekers Summer Series #4 2024, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20033
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20298@eventor.orienteering.asn.au
+DTSTAMP:20240125T041104Z
+DTSTART:20240223T220000Z
+DTEND:20240223T220000Z
+SUMMARY:SOS 3D - Cherrybrook, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20298
+GEO:-33.7169889964158;151.038534907962
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20297@eventor.orienteering.asn.au
+DTSTAMP:20240125T035955Z
+DTSTART:20240223T220000Z
+DTEND:20240223T220000Z
+SUMMARY:SOS Macarthur, Bold Horizons Event Organiser / Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20297
+GEO:-33.7718570848646;151.216121659938
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20026@eventor.orienteering.asn.au
 DTSTAMP:20231213T030112Z
 DTSTART:20240227T083000Z
@@ -376,6 +441,24 @@ DTEND:20240229T080000Z
 SUMMARY:Twilight #10, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19830
 GEO:-30.4300313136254;151.595768125608
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20300@eventor.orienteering.asn.au
+DTSTAMP:20240125T041642Z
+DTSTART:20240301T220000Z
+DTEND:20240301T220000Z
+SUMMARY:SOS 3D - Killara, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20300
+GEO:-33.757157679965;151.173912356527
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20299@eventor.orienteering.asn.au
+DTSTAMP:20240125T041419Z
+DTSTART:20240301T220000Z
+DTEND:20240301T220000Z
+SUMMARY:SOS Macarthur - Macquarie Fields, Bold Horizons Event Organiser / Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20299
+GEO:-33.9970438445263;150.885498512303
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20267@eventor.orienteering.asn.au
@@ -428,6 +511,24 @@ DTSTART:20240306T060000Z
 DTEND:20240306T060000Z
 SUMMARY:2024 Newcastle Urban Orienteering Series #2, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20254
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20301@eventor.orienteering.asn.au
+DTSTAMP:20240125T041951Z
+DTSTART:20240308T220000Z
+DTEND:20240308T220000Z
+SUMMARY:SOS 3D - Ryde, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20301
+GEO:-33.8129385006554;151.118509786177
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20302@eventor.orienteering.asn.au
+DTSTAMP:20240125T042233Z
+DTSTART:20240308T220000Z
+DTEND:20240308T220000Z
+SUMMARY:SOS Macarthur - Macquarie Fields, Bold Horizons Event Organiser / Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20302
+GEO:-33.9877345218926;150.892355491986
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20142@eventor.orienteering.asn.au
@@ -523,6 +624,24 @@ SUMMARY:2024 Newcastle Urban Orienteering Series #4, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20256
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20304@eventor.orienteering.asn.au
+DTSTAMP:20240125T043126Z
+DTSTART:20240322T220000Z
+DTEND:20240322T220000Z
+SUMMARY:SOS 3D - Balgowlah, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20304
+GEO:-33.7963398316995;151.254735973927
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20303@eventor.orienteering.asn.au
+DTSTAMP:20240125T042842Z
+DTSTART:20240322T220000Z
+DTEND:20240322T220000Z
+SUMMARY:SOS Macarthur - Camden, Bold Horizons Event Organiser / Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20303
+GEO:-34.0798231831812;150.67626905805
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19799@eventor.orienteering.asn.au
 DTSTAMP:20231117T053243Z
 DTSTART:20240323T020000Z
@@ -567,6 +686,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19801
 GEO:-35.1344185165987;147.369435961558
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20286@eventor.orienteering.asn.au
+DTSTAMP:20240125T014743Z
+DTSTART:20240406T233000Z
+DTEND:20240406T233000Z
+SUMMARY:2024 Metro League #1 - Appin, Illawarra Kareelah Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20286
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19844@eventor.orienteering.asn.au
 DTSTAMP:20231122T234816Z
 DTSTART:20240407T000000Z
@@ -606,6 +733,14 @@ DTSTART:20240428T000000Z
 DTEND:20240428T033000Z
 SUMMARY:Waggaroos - AWOC Interclub #1, Mt Terrible, Albury-Wodonga Orienteering Club / Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19805
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20287@eventor.orienteering.asn.au
+DTSTAMP:20240125T014929Z
+DTSTART:20240504T233000Z
+DTEND:20240504T233000Z
+SUMMARY:2024 Metro League #2 - Lansdowne, Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20287
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19803@eventor.orienteering.asn.au
@@ -707,6 +842,14 @@ SUMMARY:Sydney South West Regional Schools Secondary, Orienteering NSW / Souther
 URL:https://eventor.orienteering.asn.au/Events/Show/19684
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20288@eventor.orienteering.asn.au
+DTSTAMP:20240125T015055Z
+DTSTART:20240622T233000Z
+DTEND:20240622T233000Z
+SUMMARY:2024 Metro League #3 - Pennant Hills, Bennelong Northside Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20288
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19846@eventor.orienteering.asn.au
 DTSTAMP:20231122T234952Z
 DTSTART:20240623T000000Z
@@ -782,6 +925,14 @@ DTEND:20240723T093000Z
 SUMMARY:Orienteering NSW July Board Meeting, Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/20037
 GEO:-33.8460034291842;151.074483418337
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20289@eventor.orienteering.asn.au
+DTSTAMP:20240125T015218Z
+DTSTART:20240727T233000Z
+DTEND:20240727T233000Z
+SUMMARY:2024 Metro League #4 - Clay Pan, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20289
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19812@eventor.orienteering.asn.au
@@ -877,6 +1028,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20038
 GEO:-33.8460034291842;151.074483418337
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20290@eventor.orienteering.asn.au
+DTSTAMP:20240125T015341Z
+DTSTART:20240831T233000Z
+DTEND:20240831T233000Z
+SUMMARY:2024 Metro League #5 - Nurragingy, Big Foot Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20290
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19815@eventor.orienteering.asn.au
 DTSTAMP:20231117T082558Z
 DTSTART:20240901T000000Z
@@ -884,6 +1043,14 @@ DTEND:20240901T033000Z
 SUMMARY:Waggaroos Local event, Pomingalarna., Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19815
 GEO:-35.1163025455301;147.296582208989
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20291@eventor.orienteering.asn.au
+DTSTAMP:20240125T015504Z
+DTSTART:20240914T233000Z
+DTEND:20240914T233000Z
+SUMMARY:2024 Metro League #6 - Excelsior, Western and Hills Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20291
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19849@eventor.orienteering.asn.au

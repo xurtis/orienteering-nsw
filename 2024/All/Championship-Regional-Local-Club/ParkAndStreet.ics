@@ -498,6 +498,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19890
 GEO:-37.8226778250832;145.088250358396
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20186@eventor.orienteering.asn.au
+DTSTAMP:20240125T114253Z
+DTSTART:20240125T073000Z
+DTEND:20240125T073000Z
+SUMMARY:Algester South, Algester & Parkinson, Toohey Forest Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20186
+GEO:-27.6291080682048;153.023618914087
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19895@eventor.orienteering.asn.au
 DTSTAMP:20231230T114345Z
 DTSTART:20240125T073000Z
@@ -505,15 +514,6 @@ DTEND:20240125T091500Z
 SUMMARY:Melbourne Park Street Thursday Summer Series - Bellfield, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19895
 GEO:-37.7547156007038;145.038693031785
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20186@eventor.orienteering.asn.au
-DTSTAMP:20240112T050439Z
-DTSTART:20240125T073000Z
-DTEND:20240125T093000Z
-SUMMARY:Algester South, Algester & Parkinson, Toohey Forest Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20186
-GEO:-27.6291080682048;153.023618914087
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20146@eventor.orienteering.asn.au
@@ -659,7 +659,7 @@ GEO:-33.2703590478003;149.079747502664
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20147@eventor.orienteering.asn.au
-DTSTAMP:20240114T071546Z
+DTSTAMP:20240124T205948Z
 DTSTART:20240202T220000Z
 DTEND:20240203T003000Z
 SUMMARY:SHOO’s Summer Saturdays #5 - Currans Hill, Southern Highlands Orienteers
@@ -704,11 +704,12 @@ GEO:-33.4900132441344;151.430916126233
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19767@eventor.orienteering.asn.au
-DTSTAMP:20231116T063047Z
+DTSTAMP:20240125T022129Z
 DTSTART:20240203T220000Z
 DTEND:20240204T000000Z
 SUMMARY:Waggaroos Summer Series 2023-24 #4, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19767
+GEO:-35.1055320132443;147.374878910754
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19508@eventor.orienteering.asn.au
@@ -729,6 +730,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19909
 GEO:-34.4361372312141;150.892850140567
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20270@eventor.orienteering.asn.au
+DTSTAMP:20240124T221656Z
+DTSTART:20240204T000000Z
+DTEND:20240204T000000Z
+SUMMARY:Port Lincoln CBD, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20270
+GEO:-34.7207449154162;135.860310419053
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20167@eventor.orienteering.asn.au
 DTSTAMP:20240114T052729Z
 DTSTART:20240204T073000Z
@@ -744,6 +754,7 @@ DTSTART:20240205T060000Z
 DTEND:20240205T090000Z
 SUMMARY:ACT MapRun Street Series: South Googong, 1-5 Feb, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19983
+GEO:-35.4277757725557;149.232753340782
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19912@eventor.orienteering.asn.au
@@ -839,6 +850,24 @@ SUMMARY:Goldseekers Summer Series #2 2024, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20031
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20293@eventor.orienteering.asn.au
+DTSTAMP:20240125T034052Z
+DTSTART:20240209T220000Z
+DTEND:20240209T220000Z
+SUMMARY:SOS 3D - Pennant Hills, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20293
+GEO:-33.7408531590984;151.059006325287
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20294@eventor.orienteering.asn.au
+DTSTAMP:20240125T034702Z
+DTSTART:20240209T220000Z
+DTEND:20240209T220000Z
+SUMMARY:SOS Macarthur - Elderslie, Bold Horizons Event Organiser / Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20294
+GEO:-34.0611371854343;150.712640620888
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19774@eventor.orienteering.asn.au
 DTSTAMP:20240124T064118Z
 DTSTART:20240210T090000Z
@@ -891,12 +920,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19910
 GEO:-34.6421987916222;150.845538450475
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20005@eventor.orienteering.asn.au
-DTSTAMP:20240124T022926Z
+UID:Event_20284@eventor.orienteering.asn.au
+DTSTAMP:20240124T231214Z
 DTSTART:20240211T040000Z
-DTEND:20240211T040000Z
+DTEND:20240211T060000Z
 SUMMARY:Orienteering ACT Planning Workshop, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/20005
+URL:https://eventor.orienteering.asn.au/Events/Show/20284
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20187@eventor.orienteering.asn.au
@@ -914,6 +943,7 @@ DTSTART:20240212T060000Z
 DTEND:20240212T090000Z
 SUMMARY:ACT MapRun Street Series: Hawker, 8-12 Feb, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19984
+GEO:-35.2465384860553;149.03450141652
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19913@eventor.orienteering.asn.au
@@ -1017,6 +1047,33 @@ SUMMARY:Goldseekers Summer Series #3 2024, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20032
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20271@eventor.orienteering.asn.au
+DTSTAMP:20240124T221632Z
+DTSTART:20240216T073000Z
+DTEND:20240216T073000Z
+SUMMARY:Port Lincoln Marina, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20271
+GEO:-34.7442630138305;135.873126439412
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20296@eventor.orienteering.asn.au
+DTSTAMP:20240125T035504Z
+DTSTART:20240216T220000Z
+DTEND:20240216T220000Z
+SUMMARY:SOS 3D - Killarney Heights, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20296
+GEO:-33.7718570848646;151.216121659938
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20295@eventor.orienteering.asn.au
+DTSTAMP:20240125T034959Z
+DTSTART:20240216T220000Z
+DTEND:20240216T220000Z
+SUMMARY:SOS Macarthur - Spring Farm, Bold Horizons Event Organiser / Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20295
+GEO:-34.0699147394674;150.71603341641
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20196@eventor.orienteering.asn.au
 DTSTAMP:20240114T031835Z
 DTSTART:20240217T070000Z
@@ -1052,11 +1109,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19509
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19911@eventor.orienteering.asn.au
-DTSTAMP:20240123T225736Z
+DTSTAMP:20240124T223303Z
 DTSTART:20240217T230000Z
 DTEND:20240218T010000Z
 SUMMARY:Illawarra Map Running #3 - Thirroul, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19911
+GEO:-34.3184425123331;150.919291980427
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20049@eventor.orienteering.asn.au
@@ -1092,6 +1150,7 @@ DTSTART:20240219T060000Z
 DTEND:20240219T090000Z
 SUMMARY:ACT MapRun Street Series: Jerrabomberra, 15-19 Feb, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19985
+GEO:-35.3847229263393;149.200223922903
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19914@eventor.orienteering.asn.au
@@ -1184,6 +1243,24 @@ SUMMARY:Goldseekers Summer Series #4 2024, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20033
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20298@eventor.orienteering.asn.au
+DTSTAMP:20240125T041104Z
+DTSTART:20240223T220000Z
+DTEND:20240223T220000Z
+SUMMARY:SOS 3D - Cherrybrook, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20298
+GEO:-33.7169889964158;151.038534907962
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20297@eventor.orienteering.asn.au
+DTSTAMP:20240125T035955Z
+DTSTART:20240223T220000Z
+DTEND:20240223T220000Z
+SUMMARY:SOS Macarthur, Bold Horizons Event Organiser / Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20297
+GEO:-33.7718570848646;151.216121659938
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_16996@eventor.orienteering.asn.au
 DTSTAMP:20240122T213540Z
 DTSTART:20240225T053000Z
@@ -1199,6 +1276,7 @@ DTSTART:20240226T060000Z
 DTEND:20240226T090000Z
 SUMMARY:ACT MapRun Street Series: McKellar, 22-26 Feb, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19986
+GEO:-35.216627888784;149.075786770683
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19917@eventor.orienteering.asn.au
@@ -1282,6 +1360,33 @@ DTSTART:20240229T073000Z
 DTEND:20240229T091500Z
 SUMMARY:Melbourne Park Street Thursday Summer Series - Kalparrin Gardens, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19948
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20272@eventor.orienteering.asn.au
+DTSTAMP:20240124T221513Z
+DTSTART:20240301T073000Z
+DTEND:20240301T073000Z
+SUMMARY:Port Lincoln North, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20272
+GEO:-34.7094765651626;135.851623690803
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20300@eventor.orienteering.asn.au
+DTSTAMP:20240125T041642Z
+DTSTART:20240301T220000Z
+DTEND:20240301T220000Z
+SUMMARY:SOS 3D - Killara, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20300
+GEO:-33.757157679965;151.173912356527
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20299@eventor.orienteering.asn.au
+DTSTAMP:20240125T041419Z
+DTSTART:20240301T220000Z
+DTEND:20240301T220000Z
+SUMMARY:SOS Macarthur - Macquarie Fields, Bold Horizons Event Organiser / Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20299
+GEO:-33.9970438445263;150.885498512303
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20199@eventor.orienteering.asn.au
@@ -1435,6 +1540,24 @@ SUMMARY:NWD Interschool Sport, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20205
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20301@eventor.orienteering.asn.au
+DTSTAMP:20240125T041951Z
+DTSTART:20240308T220000Z
+DTEND:20240308T220000Z
+SUMMARY:SOS 3D - Ryde, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20301
+GEO:-33.8129385006554;151.118509786177
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20302@eventor.orienteering.asn.au
+DTSTAMP:20240125T042233Z
+DTSTART:20240308T220000Z
+DTEND:20240308T220000Z
+SUMMARY:SOS Macarthur - Macquarie Fields, Bold Horizons Event Organiser / Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20302
+GEO:-33.9877345218926;150.892355491986
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18672@eventor.orienteering.asn.au
 DTSTAMP:20230424T120653Z
 DTSTART:20240310T060000Z
@@ -1527,6 +1650,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20206
 GEO:-27.4523197297565;152.982815122611
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20273@eventor.orienteering.asn.au
+DTSTAMP:20240124T221847Z
+DTSTART:20240315T073000Z
+DTEND:20240315T073000Z
+SUMMARY:Port Lincoln Heights, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20273
+GEO:-34.7294957505074;135.847499586206
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20198@eventor.orienteering.asn.au
 DTSTAMP:20240114T033211Z
 DTSTART:20240316T070000Z
@@ -1534,6 +1666,24 @@ DTEND:20240316T070000Z
 SUMMARY:Albany - Mount Manypeaks Primary, Albany & Denmark Hinterland Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20198
 GEO:-34.8392474049765;118.171741515757
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20285@eventor.orienteering.asn.au
+DTSTAMP:20240125T011429Z
+DTSTART:20240317T053000Z
+DTEND:20240317T073000Z
+SUMMARY:SE Parklands and OSA AGM, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/20285
+GEO:-34.9363549958459;138.617765467125
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20305@eventor.orienteering.asn.au
+DTSTAMP:20240125T062212Z
+DTSTART:20240317T063000Z
+DTEND:20240317T093000Z
+SUMMARY:Whyalla Golf Course, Saltbush Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20305
+GEO:-33.0195340554583;137.564355029053
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19989@eventor.orienteering.asn.au
@@ -1609,6 +1759,33 @@ DTEND:20240322T030000Z
 SUMMARY:NWD Interschool Sport, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20207
 GEO:-27.409952352964;152.923174055076
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20304@eventor.orienteering.asn.au
+DTSTAMP:20240125T043126Z
+DTSTART:20240322T220000Z
+DTEND:20240322T220000Z
+SUMMARY:SOS 3D - Balgowlah, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20304
+GEO:-33.7963398316995;151.254735973927
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20303@eventor.orienteering.asn.au
+DTSTAMP:20240125T042842Z
+DTSTART:20240322T220000Z
+DTEND:20240322T220000Z
+SUMMARY:SOS Macarthur - Camden, Bold Horizons Event Organiser / Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20303
+GEO:-34.0798231831812;150.67626905805
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20274@eventor.orienteering.asn.au
+DTSTAMP:20240124T222408Z
+DTSTART:20240323T230000Z
+DTEND:20240323T230000Z
+SUMMARY:Coffin Bay Street/Park, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20274
+GEO:-34.6212006564639;135.467050472877
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18734@eventor.orienteering.asn.au
@@ -1687,6 +1864,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20181
 GEO:-37.5453059736572;143.823061482585
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20306@eventor.orienteering.asn.au
+DTSTAMP:20240125T062541Z
+DTSTART:20240414T003000Z
+DTEND:20240414T033000Z
+SUMMARY:Wetlands and Tower Hill, Saltbush Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20306
+GEO:-33.0379558692311;137.562552584595
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20208@eventor.orienteering.asn.au
 DTSTAMP:20240120T000123Z
 DTSTART:20240419T030000Z
@@ -1720,6 +1906,15 @@ DTEND:20240503T030000Z
 SUMMARY:NWD Interschool Sport, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20210
 GEO:-27.4178858129935;153.000302235125
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20276@eventor.orienteering.asn.au
+DTSTAMP:20240124T223825Z
+DTSTART:20240505T010000Z
+DTEND:20240505T033000Z
+SUMMARY:Port Lincoln: Mourilya, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20276
+GEO:-34.645583336445;135.743723466999
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20211@eventor.orienteering.asn.au
@@ -1847,6 +2042,31 @@ DTSTART:20240811T233000Z
 DTEND:20240811T233000Z
 SUMMARY:Sydney North (combined Primary & Secondary) Schools, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/19721
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20313@eventor.orienteering.asn.au
+DTSTAMP:20240125T063608Z
+DTSTART:20240825T003000Z
+DTEND:20240825T033000Z
+SUMMARY:Whyalla Hills, Saltbush Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20313
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20314@eventor.orienteering.asn.au
+DTSTAMP:20240125T063743Z
+DTSTART:20240915T003000Z
+DTEND:20240915T033000Z
+SUMMARY:Whyalla East, Saltbush Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20314
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20283@eventor.orienteering.asn.au
+DTSTAMP:20240124T230204Z
+DTSTART:20240915T010000Z
+DTEND:20240915T023000Z
+SUMMARY:Port Lincoln: Flinders/Pioneer Park, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20283
+GEO:-34.7178406471005;135.849697135834
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20224@eventor.orienteering.asn.au
