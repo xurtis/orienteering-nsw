@@ -31,7 +31,7 @@ GEO:-37.0220026130575;147.239482360701
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19152@eventor.orienteering.asn.au
-DTSTAMP:20230925T030051Z
+DTSTAMP:20240127T052250Z
 DTSTART:20240126T130000Z
 DTEND:20240127T130000Z
 SUMMARY:High O 2024 - Day 2, Albury-Wodonga Orienteering Club
@@ -40,12 +40,21 @@ GEO:-37.0244785186712;147.243969560311
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19153@eventor.orienteering.asn.au
-DTSTAMP:20230925T030822Z
+DTSTAMP:20240127T112418Z
 DTSTART:20240127T130000Z
 DTEND:20240128T130000Z
-SUMMARY:High O 2024 - Day 3, Albury-Wodonga Orienteering Club
+SUMMARY:High O 2024 - Day 3 info, Albury-Wodonga Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19153
-GEO:-37.0221564835137;147.23929662307
+GEO:-37.0215010412378;147.239860229488
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20357@eventor.orienteering.asn.au
+DTSTAMP:20240127T112621Z
+DTSTART:20240127T220000Z
+DTEND:20240127T220000Z
+SUMMARY:High O 2024 - Day 3 team results, Albury-Wodonga Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20357
+GEO:-37.0215421466778;147.239744571098
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20172@eventor.orienteering.asn.au
@@ -144,6 +153,14 @@ DTEND:20240402T084500Z
 SUMMARY:Ballarat Park & Street Summer Series ’24 – #12 Lake Gardens, Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20181
 GEO:-37.5453059736572;143.823061482585
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20356@eventor.orienteering.asn.au
+DTSTAMP:20240127T064015Z
+DTSTART:20240414T000000Z
+DTEND:20240414T000000Z
+SUMMARY:MelBushO 1 - Brimbank Park, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20356
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19714@eventor.orienteering.asn.au

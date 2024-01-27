@@ -49,7 +49,7 @@ GEO:-37.0220026130575;147.239482360701
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19152@eventor.orienteering.asn.au
-DTSTAMP:20230925T030051Z
+DTSTAMP:20240127T052250Z
 DTSTART:20240126T130000Z
 DTEND:20240127T130000Z
 SUMMARY:High O 2024 - Day 2, Albury-Wodonga Orienteering Club
@@ -58,12 +58,21 @@ GEO:-37.0244785186712;147.243969560311
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19153@eventor.orienteering.asn.au
-DTSTAMP:20230925T030822Z
+DTSTAMP:20240127T112418Z
 DTSTART:20240127T130000Z
 DTEND:20240128T130000Z
-SUMMARY:High O 2024 - Day 3, Albury-Wodonga Orienteering Club
+SUMMARY:High O 2024 - Day 3 info, Albury-Wodonga Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19153
-GEO:-37.0221564835137;147.23929662307
+GEO:-37.0215010412378;147.239860229488
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20357@eventor.orienteering.asn.au
+DTSTAMP:20240127T112621Z
+DTSTART:20240127T220000Z
+DTEND:20240127T220000Z
+SUMMARY:High O 2024 - Day 3 team results, Albury-Wodonga Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20357
+GEO:-37.0215421466778;147.239744571098
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20172@eventor.orienteering.asn.au
@@ -320,6 +329,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20019
 GEO:-37.5428579433382;143.895143137392
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20356@eventor.orienteering.asn.au
+DTSTAMP:20240127T064015Z
+DTSTART:20240414T000000Z
+DTEND:20240414T000000Z
+SUMMARY:MelBushO 1 - Brimbank Park, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20356
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20059@eventor.orienteering.asn.au
 DTSTAMP:20231218T123521Z
 DTSTART:20240420T023000Z
@@ -397,6 +414,22 @@ DTEND:20240525T040000Z
 SUMMARY:Bendigo Series 4 - Pilchers Bridge Central, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20062
 GEO:-36.7482632294784;144.302853643105
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20352@eventor.orienteering.asn.au
+DTSTAMP:20240127T062714Z
+DTSTART:20240609T010000Z
+DTEND:20240609T010000Z
+SUMMARY:Maxi 3 hr - Glenlyon Forest, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20352
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20353@eventor.orienteering.asn.au
+DTSTAMP:20240127T063059Z
+DTSTART:20240609T140000Z
+DTEND:20240610T140000Z
+SUMMARY:Bush coaching - Glenlyon Forest, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20353
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20022@eventor.orienteering.asn.au
