@@ -144,7 +144,7 @@ GEO:-35.1045136760045;139.131372724979
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19480@eventor.orienteering.asn.au
-DTSTAMP:20240112T033145Z
+DTSTAMP:20240127T200429Z
 DTSTART:20240329T013000Z
 DTEND:20240329T063000Z
 SUMMARY:Australian 3 Days 2024 - NOL Prologue & Public Sprint, Orienteering SA
@@ -162,7 +162,7 @@ GEO:-35.0213181436702;138.714402699215
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19672@eventor.orienteering.asn.au
-DTSTAMP:20231218T084033Z
+DTSTAMP:20240128T082614Z
 DTSTART:20240329T130000Z
 DTEND:20240329T130000Z
 SUMMARY:Australian 3 Days 2024 Merchandise, Orienteering SA
@@ -171,7 +171,7 @@ GEO:-34.9389239298646;139.068478963944
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19482@eventor.orienteering.asn.au
-DTSTAMP:20240109T080926Z
+DTSTAMP:20240128T065150Z
 DTSTART:20240329T233000Z
 DTEND:20240401T013000Z
 SUMMARY:Australian 3 Days 2024, Orienteering SA
@@ -270,6 +270,14 @@ SUMMARY:ACT Classic Series: ACT League #6, Broulee, Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/19544
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20348@eventor.orienteering.asn.au
+DTSTAMP:20240128T084231Z
+DTSTART:20240504T140000Z
+DTEND:20240505T140000Z
+SUMMARY:Vic Series 1 - Eppalock, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20348
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19860@eventor.orienteering.asn.au
 DTSTAMP:20240122T221455Z
 DTSTART:20240511T140000Z
@@ -319,6 +327,14 @@ SUMMARY:OY - EN - Reedy Creek, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/19451
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20349@eventor.orienteering.asn.au
+DTSTAMP:20240128T084231Z
+DTSTART:20240601T140000Z
+DTEND:20240602T140000Z
+SUMMARY:Vic Series 2 - Irishtown, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20349
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20115@eventor.orienteering.asn.au
 DTSTAMP:20231230T000638Z
 DTSTART:20240607T140000Z
@@ -360,6 +376,23 @@ DTSTART:20240616T000000Z
 DTEND:20240616T040000Z
 SUMMARY:ACT Classic Series: ACT League #9, Orroral, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19548
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20350@eventor.orienteering.asn.au
+DTSTAMP:20240128T084231Z
+DTSTART:20240621T140000Z
+DTEND:20240622T140000Z
+SUMMARY:Vic Series 3 - Racecourse Creek, Beechworth, Albury-Wodonga Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20350
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20351@eventor.orienteering.asn.au
+DTSTAMP:20240128T084231Z
+DTSTART:20240622T140000Z
+DTEND:20240623T140000Z
+SUMMARY:Vic Series 4 - Beechworth Gorge, Albury-Wodonga Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20351
+GEO:-36.3512129196015;146.681499619802
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19578@eventor.orienteering.asn.au
@@ -424,6 +457,14 @@ DTSTART:20240720T140000Z
 DTEND:20240721T140000Z
 SUMMARY:2024 NSW State League #11, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19581
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20354@eventor.orienteering.asn.au
+DTSTAMP:20240128T084231Z
+DTSTART:20240720T140000Z
+DTEND:20240721T140000Z
+SUMMARY:Vic Series 5 - Tarrengower, Maldon, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20354
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20108@eventor.orienteering.asn.au
@@ -497,6 +538,14 @@ DTSTART:20240824T140000Z
 DTEND:20240825T140000Z
 SUMMARY:ACT Long Championships: ACT League #12, NSW SL #15, Birkenburn, Orienteering ACT / Orienteering NSW / Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19550
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20355@eventor.orienteering.asn.au
+DTSTAMP:20240128T084231Z
+DTSTART:20240824T140000Z
+DTEND:20240825T140000Z
+SUMMARY:Vic Series 6 - Chewton Challenge, Melbourne Forest Racers
+URL:https://eventor.orienteering.asn.au/Events/Show/20355
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19864@eventor.orienteering.asn.au

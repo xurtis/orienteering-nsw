@@ -67,7 +67,7 @@ GEO:-37.0215010412378;147.239860229488
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20357@eventor.orienteering.asn.au
-DTSTAMP:20240127T112621Z
+DTSTAMP:20240128T005855Z
 DTSTART:20240127T220000Z
 DTEND:20240127T220000Z
 SUMMARY:High O 2024 - Day 3 team results, Albury-Wodonga Orienteering Club
@@ -112,11 +112,12 @@ GEO:-36.7120532760186;144.288285238037
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20166@eventor.orienteering.asn.au
-DTSTAMP:20240111T035002Z
+DTSTAMP:20240128T023342Z
 DTSTART:20240211T000000Z
 DTEND:20240211T000000Z
 SUMMARY:Sunday Morning Sprint, Kensington, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20166
+GEO:-37.7951915885218;144.915306900803
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20174@eventor.orienteering.asn.au
@@ -380,6 +381,14 @@ SUMMARY:Ballarat Classics Series #2 - Petticoat Gully, Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20020
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20348@eventor.orienteering.asn.au
+DTSTAMP:20240128T084231Z
+DTSTART:20240504T140000Z
+DTEND:20240505T140000Z
+SUMMARY:Vic Series 1 - Eppalock, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20348
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20061@eventor.orienteering.asn.au
 DTSTAMP:20231218T115846Z
 DTSTART:20240511T023000Z
@@ -387,6 +396,14 @@ DTEND:20240511T040000Z
 SUMMARY:Bendigo Series 3 - Sedgwick North, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20061
 GEO:-36.7532798909974;144.299471613962
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20368@eventor.orienteering.asn.au
+DTSTAMP:20240128T042739Z
+DTSTART:20240512T000000Z
+DTEND:20240512T000000Z
+SUMMARY:MelBushO 2 - Banksia Park, Bulleen, Melbourne Forest Racers
+URL:https://eventor.orienteering.asn.au/Events/Show/20368
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19793@eventor.orienteering.asn.au
@@ -416,6 +433,22 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20062
 GEO:-36.7482632294784;144.302853643105
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20365@eventor.orienteering.asn.au
+DTSTAMP:20240128T114557Z
+DTSTART:20240526T000000Z
+DTEND:20240526T000000Z
+SUMMARY:MelBushO 3 - Macedon, Central Highlands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20365
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20349@eventor.orienteering.asn.au
+DTSTAMP:20240128T084231Z
+DTSTART:20240601T140000Z
+DTEND:20240602T140000Z
+SUMMARY:Vic Series 2 - Irishtown, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20349
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20352@eventor.orienteering.asn.au
 DTSTAMP:20240127T062714Z
 DTSTART:20240609T010000Z
@@ -441,12 +474,37 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20022
 GEO:-37.7534954843526;143.787121576464
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20366@eventor.orienteering.asn.au
+DTSTAMP:20240128T042549Z
+DTSTART:20240616T000000Z
+DTEND:20240616T000000Z
+SUMMARY:MelBushO 4 - Westerfolds (Porter St), Templestowe, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20366
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19794@eventor.orienteering.asn.au
 DTSTAMP:20231117T041350Z
 DTSTART:20240616T000000Z
 DTEND:20240616T020000Z
 SUMMARY:AWOC training #4 Nail Can Hill, Albury-Wodonga Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19794
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20350@eventor.orienteering.asn.au
+DTSTAMP:20240128T084231Z
+DTSTART:20240621T140000Z
+DTEND:20240622T140000Z
+SUMMARY:Vic Series 3 - Racecourse Creek, Beechworth, Albury-Wodonga Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20350
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20351@eventor.orienteering.asn.au
+DTSTAMP:20240128T084231Z
+DTSTART:20240622T140000Z
+DTEND:20240623T140000Z
+SUMMARY:Vic Series 4 - Beechworth Gorge, Albury-Wodonga Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20351
+GEO:-36.3512129196015;146.681499619802
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19797@eventor.orienteering.asn.au
@@ -464,6 +522,14 @@ DTEND:20240629T040000Z
 SUMMARY:Bendigo Basic 2 - Mandurang Sheepwash, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20069
 GEO:-36.7313375526898;144.291605319963
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20367@eventor.orienteering.asn.au
+DTSTAMP:20240128T042127Z
+DTSTART:20240630T000000Z
+DTEND:20240630T000000Z
+SUMMARY:MelBushO 5 - Candlebark Park (from Westerfolds), Templestowe, Dandenong Ranges Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20367
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20018@eventor.orienteering.asn.au
@@ -498,6 +564,14 @@ DTSTART:20240714T000000Z
 DTEND:20240714T020000Z
 SUMMARY:AWOC training #5 (location tba), Albury-Wodonga Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19795
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20354@eventor.orienteering.asn.au
+DTSTAMP:20240128T084231Z
+DTSTART:20240720T140000Z
+DTEND:20240721T140000Z
+SUMMARY:Vic Series 5 - Tarrengower, Maldon, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20354
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20064@eventor.orienteering.asn.au
@@ -551,6 +625,14 @@ DTEND:20240817T040000Z
 SUMMARY:Bendigo Series 8 - Argyle, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20066
 GEO:-36.9061718353659;144.695868936257
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20355@eventor.orienteering.asn.au
+DTSTAMP:20240128T084231Z
+DTSTART:20240824T140000Z
+DTEND:20240825T140000Z
+SUMMARY:Vic Series 6 - Chewton Challenge, Melbourne Forest Racers
+URL:https://eventor.orienteering.asn.au/Events/Show/20355
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20071@eventor.orienteering.asn.au
