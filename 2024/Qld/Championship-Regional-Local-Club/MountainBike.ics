@@ -4,11 +4,12 @@ PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
 UID:Event_19700@eventor.orienteering.asn.au
-DTSTAMP:20231026T014105Z
-DTSTART:20240224T140000Z
-DTEND:20240225T140000Z
-SUMMARY:MTBO - State Series #1, Sunshine Orienteers Club
+DTSTAMP:20240201T040023Z
+DTSTART:20240224T223000Z
+DTEND:20240224T223000Z
+SUMMARY:MTBO SS1 and Foot-O USC Sippy Downs, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19700
+GEO:-26.7189383117615;153.061558060284
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19696@eventor.orienteering.asn.au

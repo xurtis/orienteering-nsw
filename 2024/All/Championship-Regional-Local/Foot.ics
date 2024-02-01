@@ -337,7 +337,7 @@ GEO:-33.4651015823325;151.382751695447
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19718@eventor.orienteering.asn.au
-DTSTAMP:20231230T013801Z
+DTSTAMP:20240131T202542Z
 DTSTART:20240210T223000Z
 DTEND:20240210T223000Z
 SUMMARY:West Sydney Orienteering Series #3, Bennelong Northside Orienteers
@@ -360,6 +360,7 @@ DTSTART:20240211T040000Z
 DTEND:20240211T060000Z
 SUMMARY:Orienteering ACT Planning Workshop, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/20284
+GEO:-35.3165350342029;149.135096226058
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20174@eventor.orienteering.asn.au
@@ -953,6 +954,15 @@ SUMMARY:2024 NSW State League #3, NSW Stingers / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/19574
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20382@eventor.orienteering.asn.au
+DTSTAMP:20240201T040022Z
+DTSTART:20240413T030000Z
+DTEND:20240413T030000Z
+SUMMARY:Highlands Forest Series #1 - Penrose State Forest, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20382
+GEO:-34.621273291048;150.213279576268
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19575@eventor.orienteering.asn.au
 DTSTAMP:20230922T061219Z
 DTSTART:20240413T140000Z
@@ -1062,7 +1072,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19804
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19553@eventor.orienteering.asn.au
-DTSTAMP:20230921T121030Z
+DTSTAMP:20240131T233026Z
 DTSTART:20240511T003000Z
 DTEND:20240511T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #1, Weston Park, Bushflyers
@@ -1096,7 +1106,7 @@ GEO:-34.839728297617;135.866970368589
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19555@eventor.orienteering.asn.au
-DTSTAMP:20240117T092724Z
+DTSTAMP:20240131T233028Z
 DTSTART:20240525T003000Z
 DTEND:20240525T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #2, Bruce Ridge, Parawanga Orienteers
@@ -1127,8 +1137,17 @@ SUMMARY:OY - EN - Reedy Creek, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/19451
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20383@eventor.orienteering.asn.au
+DTSTAMP:20240201T044501Z
+DTSTART:20240526T003000Z
+DTEND:20240526T030000Z
+SUMMARY:Highlands Forest Series #2, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20383
+GEO:-34.3875853875162;150.355938708203
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19556@eventor.orienteering.asn.au
-DTSTAMP:20240117T092813Z
+DTSTAMP:20240131T233030Z
 DTSTART:20240601T003000Z
 DTEND:20240601T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #3, Oakey Hill, Red Roos
@@ -1205,7 +1224,7 @@ GEO:-34.6485468828313;135.833176912382
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19557@eventor.orienteering.asn.au
-DTSTAMP:20240117T092901Z
+DTSTAMP:20240131T233032Z
 DTSTART:20240615T003000Z
 DTEND:20240615T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #4, Mt Mugga Mugga, Abominable O-Men
@@ -1237,7 +1256,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20350
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19558@eventor.orienteering.asn.au
-DTSTAMP:20240117T092935Z
+DTSTAMP:20240131T233034Z
 DTSTART:20240622T003000Z
 DTEND:20240622T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #5, The Pinnacle, Bushflyers
@@ -1369,7 +1388,7 @@ GEO:-41.4371920776349;147.135195582851
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19559@eventor.orienteering.asn.au
-DTSTAMP:20240117T093018Z
+DTSTAMP:20240131T233037Z
 DTSTART:20240727T003000Z
 DTEND:20240727T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #7, Cooleman Ridge, Parawanga Orienteers
@@ -1409,7 +1428,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19720
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19560@eventor.orienteering.asn.au
-DTSTAMP:20240117T093057Z
+DTSTAMP:20240131T233039Z
 DTSTART:20240803T003000Z
 DTEND:20240803T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #8, Remembrance Park, Bushflyers
@@ -1425,7 +1444,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19863
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19561@eventor.orienteering.asn.au
-DTSTAMP:20240117T093147Z
+DTSTAMP:20240131T233042Z
 DTSTART:20240810T003000Z
 DTEND:20240810T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #9, McQuoids Hill, Parawanga Orienteers
@@ -1475,7 +1494,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20112
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19562@eventor.orienteering.asn.au
-DTSTAMP:20240117T093222Z
+DTSTAMP:20240131T233044Z
 DTSTART:20240817T003000Z
 DTEND:20240817T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #10, Mt Jerrabomberra, Weston Emus
@@ -1523,7 +1542,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20355
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19563@eventor.orienteering.asn.au
-DTSTAMP:20240117T093255Z
+DTSTAMP:20240131T233046Z
 DTSTART:20240831T003000Z
 DTEND:20240831T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #11, Farrer Ridge, Bushflyers

@@ -193,7 +193,7 @@ GEO:-33.4651015823325;151.382751695447
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19718@eventor.orienteering.asn.au
-DTSTAMP:20231230T013801Z
+DTSTAMP:20240131T202542Z
 DTSTART:20240210T223000Z
 DTEND:20240210T223000Z
 SUMMARY:West Sydney Orienteering Series #3, Bennelong Northside Orienteers
@@ -502,6 +502,15 @@ SUMMARY:2024 NSW State League #3, NSW Stingers / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/19574
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20382@eventor.orienteering.asn.au
+DTSTAMP:20240201T040022Z
+DTSTART:20240413T030000Z
+DTEND:20240413T030000Z
+SUMMARY:Highlands Forest Series #1 - Penrose State Forest, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20382
+GEO:-34.621273291048;150.213279576268
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19575@eventor.orienteering.asn.au
 DTSTAMP:20230922T061219Z
 DTSTART:20240413T140000Z
@@ -540,6 +549,15 @@ DTSTART:20240511T040000Z
 DTEND:20240511T060000Z
 SUMMARY:Kirrawee South, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19925
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20383@eventor.orienteering.asn.au
+DTSTAMP:20240201T044501Z
+DTSTART:20240526T003000Z
+DTEND:20240526T030000Z
+SUMMARY:Highlands Forest Series #2, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20383
+GEO:-34.3875853875162;150.355938708203
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19577@eventor.orienteering.asn.au
