@@ -270,7 +270,7 @@ DTSTART:20240203T230000Z
 DTEND:20240204T010000Z
 SUMMARY:Illawarra Map Running #1 - South Wollongong, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19909
-GEO:-34.4361372312141;150.892850140567
+GEO:-34.4359926767065;150.892968715544
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20270@eventor.orienteering.asn.au
@@ -298,6 +298,15 @@ DTEND:20240207T083000Z
 SUMMARY:2023/24 Sydney Summer Series #19 - Forestville West, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19377
 GEO:-33.7651245038405;151.209760683271
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20385@eventor.orienteering.asn.au
+DTSTAMP:20240202T071941Z
+DTSTART:20240209T213000Z
+DTEND:20240209T213000Z
+SUMMARY:Princes Park Orienteering Week 1, Melbourne Forest Racers
+URL:https://eventor.orienteering.asn.au/Events/Show/20385
+GEO:-37.7821020243649;144.963267137166
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20293@eventor.orienteering.asn.au
@@ -399,6 +408,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20271
 GEO:-34.7442630138305;135.873126439412
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20386@eventor.orienteering.asn.au
+DTSTAMP:20240202T072506Z
+DTSTART:20240216T213000Z
+DTEND:20240217T000000Z
+SUMMARY:Princes Park Orienteering Week 2, Melbourne Forest Racers
+URL:https://eventor.orienteering.asn.au/Events/Show/20386
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20296@eventor.orienteering.asn.au
 DTSTAMP:20240125T035504Z
 DTSTART:20240216T220000Z
@@ -494,6 +511,14 @@ DTEND:20240221T083000Z
 SUMMARY:ACT Runners Shop Twilight Series #9: National Arboretum, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19204
 GEO:-35.2875406009718;149.066196023692
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20387@eventor.orienteering.asn.au
+DTSTAMP:20240202T073001Z
+DTSTART:20240223T213000Z
+DTEND:20240224T000000Z
+SUMMARY:Princes Park Orienteering Week 3, Melbourne Forest Racers
+URL:https://eventor.orienteering.asn.au/Events/Show/20387
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20298@eventor.orienteering.asn.au

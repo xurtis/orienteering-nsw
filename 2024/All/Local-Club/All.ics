@@ -881,7 +881,7 @@ GEO:-12.3917616306599;130.891407821413
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20030@eventor.orienteering.asn.au
-DTSTAMP:20240201T101626Z
+DTSTAMP:20240202T094136Z
 DTSTART:20240202T070000Z
 DTEND:20240202T083000Z
 SUMMARY:Goldseekers Summer Series #1 2024, Goldseekers Orienteers
@@ -890,7 +890,7 @@ GEO:-33.2703590478003;149.079747502664
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20042@eventor.orienteering.asn.au
-DTSTAMP:20240130T124011Z
+DTSTAMP:20240202T113605Z
 DTSTART:20240202T080000Z
 DTEND:20240202T093000Z
 SUMMARY:Snap Sprint Series Race 1 - Flinders University North, SA Arrows
@@ -1003,7 +1003,7 @@ DTSTART:20240203T230000Z
 DTEND:20240204T010000Z
 SUMMARY:Illawarra Map Running #1 - South Wollongong, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19909
-GEO:-34.4361372312141;150.892850140567
+GEO:-34.4359926767065;150.892968715544
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20270@eventor.orienteering.asn.au
@@ -1221,6 +1221,15 @@ DTEND:20240209T093000Z
 SUMMARY:Snap Sprint Series Race 2 - Mawson Lakes, SA Arrows
 URL:https://eventor.orienteering.asn.au/Events/Show/20043
 GEO:-34.8104939983301;138.620871323176
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20385@eventor.orienteering.asn.au
+DTSTAMP:20240202T071941Z
+DTSTART:20240209T213000Z
+DTEND:20240209T213000Z
+SUMMARY:Princes Park Orienteering Week 1, Melbourne Forest Racers
+URL:https://eventor.orienteering.asn.au/Events/Show/20385
+GEO:-37.7821020243649;144.963267137166
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20381@eventor.orienteering.asn.au
@@ -1600,6 +1609,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20044
 GEO:-34.9155256867614;138.612358653558
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20386@eventor.orienteering.asn.au
+DTSTAMP:20240202T072506Z
+DTSTART:20240216T213000Z
+DTEND:20240217T000000Z
+SUMMARY:Princes Park Orienteering Week 2, Melbourne Forest Racers
+URL:https://eventor.orienteering.asn.au/Events/Show/20386
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20296@eventor.orienteering.asn.au
 DTSTAMP:20240125T035504Z
 DTSTART:20240216T220000Z
@@ -1926,6 +1943,14 @@ DTEND:20240223T093000Z
 SUMMARY:Snap Sprint Series Race 4 - Glenelg, SA Arrows
 URL:https://eventor.orienteering.asn.au/Events/Show/20045
 GEO:-34.9784933315203;138.511831288972
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20387@eventor.orienteering.asn.au
+DTSTAMP:20240202T073001Z
+DTSTART:20240223T213000Z
+DTEND:20240224T000000Z
+SUMMARY:Princes Park Orienteering Week 3, Melbourne Forest Racers
+URL:https://eventor.orienteering.asn.au/Events/Show/20387
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20298@eventor.orienteering.asn.au
