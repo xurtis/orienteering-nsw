@@ -917,7 +917,7 @@ GEO:-33.8292711724621;151.207351284074
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20147@eventor.orienteering.asn.au
-DTSTAMP:20240124T205948Z
+DTSTAMP:20240203T004354Z
 DTSTART:20240202T220000Z
 DTEND:20240203T003000Z
 SUMMARY:SHOO’s Summer Saturdays #5 - Currans Hill, Southern Highlands Orienteers
@@ -926,7 +926,7 @@ GEO:-34.0465591434101;150.765917191786
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20195@eventor.orienteering.asn.au
-DTSTAMP:20240201T040536Z
+DTSTAMP:20240203T102717Z
 DTSTART:20240203T070000Z
 DTEND:20240203T070000Z
 SUMMARY:Albany - Little Grove, Albany & Denmark Hinterland Orienteering Club
@@ -935,7 +935,7 @@ GEO:-35.0660004520986;117.868215460109
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19784@eventor.orienteering.asn.au
-DTSTAMP:20240121T080517Z
+DTSTAMP:20240203T101259Z
 DTSTART:20240203T090000Z
 DTEND:20240203T101500Z
 SUMMARY:MetrO 11 Woodvale, Kulgun 225 Orienteers / Orienteering WA / Wullundigong Orienteers of the West
@@ -998,10 +998,10 @@ GEO:-35.1055320132443;147.374878910754
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19508@eventor.orienteering.asn.au
-DTSTAMP:20240122T234430Z
+DTSTAMP:20240203T080614Z
 DTSTART:20240203T223000Z
-DTEND:20240203T223000Z
-SUMMARY:West Sydney Orienteering Series # 2, Western and Hills Orienteers
+DTEND:20240204T000000Z
+SUMMARY:West Sydney Orienteering Series # 2 - Rouse Hill, Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19508
 GEO:-33.6799086612503;150.910772009676
 END:VEVENT
@@ -1707,7 +1707,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20151
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20196@eventor.orienteering.asn.au
-DTSTAMP:20240114T031835Z
+DTSTAMP:20240203T103938Z
 DTSTART:20240217T070000Z
 DTEND:20240217T070000Z
 SUMMARY:Albany - Mt Barker College, Albany & Denmark Hinterland Orienteering Club
@@ -1734,11 +1734,12 @@ GEO:-31.9505210686929;115.908676453657
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18415@eventor.orienteering.asn.au
-DTSTAMP:20230107T020949Z
+DTSTAMP:20240203T060443Z
 DTSTART:20240217T210000Z
 DTEND:20240218T000000Z
-SUMMARY:BOSS 5 NEWCASTLE MTBO, Newcastle Orienteering Club
+SUMMARY:BOSS5 MTBO - Killingworth, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/18415
+GEO:-32.9267568053119;151.549909021624
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19650@eventor.orienteering.asn.au
@@ -1907,7 +1908,7 @@ GEO:-42.8703682246643;147.367885384351
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19379@eventor.orienteering.asn.au
-DTSTAMP:20231219T213416Z
+DTSTAMP:20240203T082137Z
 DTSTART:20240221T053000Z
 DTEND:20240221T083000Z
 SUMMARY:2023/24 Sydney Summer Series #21 - Castlewood, Western and Hills Orienteers
@@ -2912,15 +2913,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20273
 GEO:-34.7294957505074;135.847499586206
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19572@eventor.orienteering.asn.au
-DTSTAMP:20240130T025340Z
-DTSTART:20240315T130000Z
-DTEND:20240316T130000Z
-SUMMARY:2024 NSW State League #1 - Roseberg SF, Western and Hills Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19572
-GEO:-33.8019821072878;149.041077535894
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20056@eventor.orienteering.asn.au
 DTSTAMP:20231218T123429Z
 DTSTART:20240316T013000Z
@@ -2928,6 +2920,15 @@ DTEND:20240316T030000Z
 SUMMARY:Come And Try It - Myers Creek, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20056
 GEO:-36.7585764761415;144.279697519706
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19572@eventor.orienteering.asn.au
+DTSTAMP:20240203T090454Z
+DTSTART:20240316T020000Z
+DTEND:20240316T050000Z
+SUMMARY:2024 NSW State League #1 - Roseberg SF, Western and Hills Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19572
+GEO:-33.8019821072878;149.041077535894
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20155@eventor.orienteering.asn.au
@@ -4027,14 +4028,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20216
 GEO:-35.0333294805807;138.604795536715
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20316@eventor.orienteering.asn.au
-DTSTAMP:20240125T120435Z
-DTSTART:20240511T050000Z
-DTEND:20240511T050000Z
-SUMMARY:Club Event - Robelle Domain - TBC, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20316
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19860@eventor.orienteering.asn.au
 DTSTAMP:20240122T221455Z
 DTSTART:20240511T140000Z
@@ -4201,6 +4194,14 @@ DTEND:20240519T033000Z
 SUMMARY:Port Lincoln: Wanna, Lincoln Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20277
 GEO:-34.839728297617;135.866970368589
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20316@eventor.orienteering.asn.au
+DTSTAMP:20240203T065629Z
+DTSTART:20240519T050000Z
+DTEND:20240519T050000Z
+SUMMARY:Club Event - Location - TBC, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20316
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20333@eventor.orienteering.asn.au
@@ -4615,6 +4616,14 @@ SUMMARY:Prospect Hill (Kuitpo), Tjuringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20243
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20317@eventor.orienteering.asn.au
+DTSTAMP:20240203T065706Z
+DTSTART:20240616T050000Z
+DTEND:20240616T050000Z
+SUMMARY:Club Event - Haig Street - TBC, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20317
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19684@eventor.orienteering.asn.au
 DTSTAMP:20231023T055039Z
 DTSTART:20240616T140000Z
@@ -4779,14 +4788,6 @@ DTEND:20240629T040000Z
 SUMMARY:Strathalbyn, Onkaparinga Hills Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20217
 GEO:-35.2568979261021;138.891149269729
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20317@eventor.orienteering.asn.au
-DTSTAMP:20240125T094451Z
-DTSTART:20240629T050000Z
-DTEND:20240629T050000Z
-SUMMARY:Club Event - Haig Street - TBC, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20317
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19579@eventor.orienteering.asn.au
@@ -6380,5 +6381,13 @@ DTSTART:20241218T000000Z
 DTEND:20241218T023000Z
 SUMMARY:Midweek Training at TBA, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/20104
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20388@eventor.orienteering.asn.au
+DTSTAMP:20240203T001034Z
+DTSTART:20241230T130000Z
+DTEND:20241231T130000Z
+SUMMARY:Newcastle Club Communication, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20388
 END:VEVENT
 END:VCALENDAR

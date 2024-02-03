@@ -777,14 +777,6 @@ SUMMARY:Forest Series - EN - Event 1 - tbc, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20321
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20316@eventor.orienteering.asn.au
-DTSTAMP:20240125T120435Z
-DTSTART:20240511T050000Z
-DTEND:20240511T050000Z
-SUMMARY:Club Event - Robelle Domain - TBC, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20316
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19860@eventor.orienteering.asn.au
 DTSTAMP:20240122T221455Z
 DTSTART:20240511T140000Z
@@ -818,6 +810,14 @@ DTEND:20240518T053000Z
 SUMMARY:Forest Series - EN - Event 2 - Victoria Park - BCC , Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/18097
 GEO:-27.4497629514946;153.023026386448
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20316@eventor.orienteering.asn.au
+DTSTAMP:20240203T065629Z
+DTSTART:20240519T050000Z
+DTEND:20240519T050000Z
+SUMMARY:Club Event - Location - TBC, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20316
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20333@eventor.orienteering.asn.au
@@ -936,6 +936,14 @@ SUMMARY:Forest Series - EN - Event 6 - Clear Mountian tbc, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20325
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20317@eventor.orienteering.asn.au
+DTSTAMP:20240203T065706Z
+DTSTART:20240616T050000Z
+DTEND:20240616T050000Z
+SUMMARY:Club Event - Haig Street - TBC, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20317
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20326@eventor.orienteering.asn.au
 DTSTAMP:20240126T035238Z
 DTSTART:20240622T040000Z
@@ -950,14 +958,6 @@ DTSTART:20240628T140000Z
 DTEND:20240629T140000Z
 SUMMARY:Forest Series - EN - Event 8 - Bunyaville W tbc, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20327
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20317@eventor.orienteering.asn.au
-DTSTAMP:20240125T094451Z
-DTSTART:20240629T050000Z
-DTEND:20240629T050000Z
-SUMMARY:Club Event - Haig Street - TBC, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20317
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19862@eventor.orienteering.asn.au
