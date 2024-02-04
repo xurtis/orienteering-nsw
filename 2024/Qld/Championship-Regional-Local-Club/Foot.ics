@@ -191,7 +191,7 @@ GEO:-27.4378628193672;152.997421379453
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20159@eventor.orienteering.asn.au
-DTSTAMP:20240127T092238Z
+DTSTAMP:20240204T105945Z
 DTSTART:20240204T060000Z
 DTEND:20240204T060000Z
 SUMMARY:Picnic Point, Toowoomba, Range Runners Orienteering Club
@@ -200,7 +200,7 @@ GEO:-27.5809009864829;151.987135688915
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18738@eventor.orienteering.asn.au
-DTSTAMP:20240126T052354Z
+DTSTAMP:20240204T115821Z
 DTSTART:20240206T073000Z
 DTEND:20240206T093000Z
 SUMMARY:Night Nav - Toowong- BCC - Term 1 Series - Event #1, Ugly Gully Orienteers
@@ -235,8 +235,8 @@ GEO:-27.3761004026542;152.882923153382
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19971@eventor.orienteering.asn.au
-DTSTAMP:20240127T061326Z
-DTSTART:20240210T100000Z
+DTSTAMP:20240204T082136Z
+DTSTART:20240210T093000Z
 DTEND:20240210T100000Z
 SUMMARY:Samford Village Scatter, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/19971
@@ -279,7 +279,7 @@ GEO:-27.5604626965759;151.964058468421
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20148@eventor.orienteering.asn.au
-DTSTAMP:20240126T052412Z
+DTSTAMP:20240204T122126Z
 DTSTART:20240212T140000Z
 DTEND:20240213T140000Z
 SUMMARY:Night Nav - St Lucia - Term 1 Series - Event #2, Ugly Gully Orienteers
@@ -349,7 +349,7 @@ GEO:-26.752214051435;153.131047288939
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20220@eventor.orienteering.asn.au
-DTSTAMP:20240126T052429Z
+DTSTAMP:20240204T122251Z
 DTSTART:20240221T073000Z
 DTEND:20240221T073000Z
 SUMMARY:Night Nav - Chelmer - Term 1 Series - Event #3, Ugly Gully Orienteers
@@ -411,7 +411,7 @@ GEO:-27.5943150069633;151.903328002289
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20227@eventor.orienteering.asn.au
-DTSTAMP:20240126T052506Z
+DTSTAMP:20240204T122419Z
 DTSTART:20240227T073000Z
 DTEND:20240227T073000Z
 SUMMARY:Night Nav - Red Hill - Term 1 Series - Event #4, Ugly Gully Orienteers
@@ -454,7 +454,7 @@ GEO:-27.3776542117952;153.034364001024
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20228@eventor.orienteering.asn.au
-DTSTAMP:20240126T052832Z
+DTSTAMP:20240204T122613Z
 DTSTART:20240305T073000Z
 DTEND:20240305T073000Z
 SUMMARY:Night Nav - Tarragindi - Term 1 Series - Event #5, Ugly Gully Orienteers
@@ -524,10 +524,10 @@ GEO:-27.6015484743879;153.146459185404
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20229@eventor.orienteering.asn.au
-DTSTAMP:20240126T052849Z
+DTSTAMP:20240204T122742Z
 DTSTART:20240312T073000Z
 DTEND:20240312T073000Z
-SUMMARY:Night Nav - Chapel Hill Cuberla Creek - Term 1 Series - Event #6, Ugly Gully Orienteers
+SUMMARY:Night Nav - Chapel Hill (Cubberla Creek) - Term 1 Series - Event #6, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20229
 GEO:-27.511204120327;152.951764951005
 END:VEVENT
@@ -567,7 +567,7 @@ GEO:-27.4630472152421;153.018033239785
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20236@eventor.orienteering.asn.au
-DTSTAMP:20240126T053655Z
+DTSTAMP:20240204T122852Z
 DTSTART:20240319T073000Z
 DTEND:20240319T073000Z
 SUMMARY:Night Nav - Ithaca - Term 1 Series - Event #7, Ugly Gully Orienteers
@@ -602,7 +602,7 @@ GEO:-27.5395960254306;152.967008418521
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20237@eventor.orienteering.asn.au
-DTSTAMP:20240126T052939Z
+DTSTAMP:20240204T123000Z
 DTSTART:20240326T073000Z
 DTEND:20240326T073000Z
 SUMMARY:NightNav - WestEnd - Term 1 Series - Event #8, Ugly Gully Orienteers
@@ -633,6 +633,15 @@ DTSTART:20240413T053000Z
 DTEND:20240413T053000Z
 SUMMARY:Sprint Series - EN - Event 8, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20157
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20389@eventor.orienteering.asn.au
+DTSTAMP:20240204T051044Z
+DTSTART:20240413T230000Z
+DTEND:20240414T010000Z
+SUMMARY:Bush Trail orienteering at Coombabah Lakelands, Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20389
+GEO:-27.9198521597297;153.377034678758
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20208@eventor.orienteering.asn.au
@@ -788,6 +797,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18097
 GEO:-27.4497629514946;153.023026386448
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20390@eventor.orienteering.asn.au
+DTSTAMP:20240204T064158Z
+DTSTART:20240518T230000Z
+DTEND:20240519T010000Z
+SUMMARY:Score Orienteering at Hinze Dam, Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20390
+GEO:-28.0504896245519;153.279283956862
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20316@eventor.orienteering.asn.au
 DTSTAMP:20240203T065629Z
 DTSTART:20240519T050000Z
@@ -896,6 +914,14 @@ SUMMARY:Forest Series - EN - Event 5 - Bellbird Grove tbc, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20324
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20391@eventor.orienteering.asn.au
+DTSTAMP:20240204T064330Z
+DTSTART:20240608T230000Z
+DTEND:20240609T010000Z
+SUMMARY:Bush Orienteering at Nerang NP, Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20391
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20338@eventor.orienteering.asn.au
 DTSTAMP:20240126T055736Z
 DTSTART:20240611T073000Z
@@ -951,6 +977,15 @@ DTEND:20240704T013000Z
 SUMMARY:Dumbarton Park, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19689
 GEO:-27.5115606198811;152.927937065288
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20392@eventor.orienteering.asn.au
+DTSTAMP:20240204T064733Z
+DTSTART:20240706T230000Z
+DTEND:20240707T010000Z
+SUMMARY:Bush Orienteering at Shelter Road, Arundel, Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20392
+GEO:-27.9174938050246;153.358754674151
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20328@eventor.orienteering.asn.au
@@ -1042,6 +1077,14 @@ SUMMARY:Bardon Forest CATI - BCC - tbc, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20223
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20393@eventor.orienteering.asn.au
+DTSTAMP:20240204T065105Z
+DTSTART:20240810T230000Z
+DTEND:20240811T010000Z
+SUMMARY:Orienteering at Griffith University, Gold Coast, Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20393
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20340@eventor.orienteering.asn.au
 DTSTAMP:20240126T055915Z
 DTSTART:20240813T073000Z
@@ -1090,6 +1133,15 @@ SUMMARY:Night Nav - Term 3 Series Event #8, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20343
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20394@eventor.orienteering.asn.au
+DTSTAMP:20240204T065326Z
+DTSTART:20240914T230000Z
+DTEND:20240915T010000Z
+SUMMARY:Bush Orienteering at Highvale Hill, Helensvale, Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20394
+GEO:-27.909065582337;153.319301312087
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19690@eventor.orienteering.asn.au
 DTSTAMP:20231025T061353Z
 DTSTART:20240919T003000Z
@@ -1121,6 +1173,15 @@ DTSTART:20241008T073000Z
 DTEND:20241008T073000Z
 SUMMARY:Night Nav - Term 4 Series Event #1, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20344
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20395@eventor.orienteering.asn.au
+DTSTAMP:20240204T065545Z
+DTSTART:20241012T230000Z
+DTEND:20241013T010000Z
+SUMMARY:Park Orienteering at Schuster Park, Elanora, Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20395
+GEO:-28.1250480177146;153.443186619489
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20345@eventor.orienteering.asn.au
@@ -1178,6 +1239,15 @@ DTSTART:20241105T073000Z
 DTEND:20241105T073000Z
 SUMMARY:Night Nav - Venue TBC, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/19869
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20396@eventor.orienteering.asn.au
+DTSTAMP:20240204T065816Z
+DTSTART:20241109T230000Z
+DTEND:20241110T010000Z
+SUMMARY:Park Orienteering at Musgrave Park, Southport, Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20396
+GEO:-27.9555767851769;153.393376807799
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20225@eventor.orienteering.asn.au
