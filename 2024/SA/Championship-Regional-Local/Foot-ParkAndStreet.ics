@@ -30,6 +30,22 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20272
 GEO:-34.7094765651626;135.851623690803
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20401@eventor.orienteering.asn.au
+DTSTAMP:20240205T071640Z
+DTSTART:20240307T051500Z
+DTEND:20240307T063000Z
+SUMMARY:Central Adelaide Schools Zone Event 1 Burnside PS, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/20401
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20399@eventor.orienteering.asn.au
+DTSTAMP:20240205T071428Z
+DTSTART:20240314T051500Z
+DTEND:20240314T063000Z
+SUMMARY:Central Adelaide Schools Zone Event 2 Black Forest PS, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/20399
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20273@eventor.orienteering.asn.au
 DTSTAMP:20240124T221847Z
 DTSTART:20240315T073000Z
@@ -37,6 +53,15 @@ DTEND:20240315T073000Z
 SUMMARY:Port Lincoln Heights, Lincoln Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20273
 GEO:-34.7294957505074;135.847499586206
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20400@eventor.orienteering.asn.au
+DTSTAMP:20240205T071435Z
+DTSTART:20240321T051500Z
+DTEND:20240321T063000Z
+SUMMARY:Central Adelaide Schools Zone Event 3 Linden Park PS, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/20400
+GEO:-34.9480095019227;138.644737009755
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20274@eventor.orienteering.asn.au

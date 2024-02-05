@@ -182,6 +182,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19505
 GEO:-35.074041069437;138.595233012356
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20401@eventor.orienteering.asn.au
+DTSTAMP:20240205T071640Z
+DTSTART:20240307T051500Z
+DTEND:20240307T063000Z
+SUMMARY:Central Adelaide Schools Zone Event 1 Burnside PS, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/20401
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20264@eventor.orienteering.asn.au
 DTSTAMP:20240123T141153Z
 DTSTART:20240307T143000Z
@@ -197,6 +205,14 @@ DTSTART:20240313T000000Z
 DTEND:20240313T023000Z
 SUMMARY:Midweek Training at Mt Crawford, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/20095
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20399@eventor.orienteering.asn.au
+DTSTAMP:20240205T071428Z
+DTSTART:20240314T051500Z
+DTEND:20240314T063000Z
+SUMMARY:Central Adelaide Schools Zone Event 2 Black Forest PS, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/20399
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20265@eventor.orienteering.asn.au
@@ -233,6 +249,15 @@ DTEND:20240317T093000Z
 SUMMARY:Whyalla Golf Course, Saltbush Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20305
 GEO:-33.0195340554583;137.564355029053
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20400@eventor.orienteering.asn.au
+DTSTAMP:20240205T071435Z
+DTSTART:20240321T051500Z
+DTEND:20240321T063000Z
+SUMMARY:Central Adelaide Schools Zone Event 3 Linden Park PS, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/20400
+GEO:-34.9480095019227;138.644737009755
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20266@eventor.orienteering.asn.au

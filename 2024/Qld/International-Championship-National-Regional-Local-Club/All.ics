@@ -182,7 +182,7 @@ GEO:-27.4435819889838;152.987335115063
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_8158@eventor.orienteering.asn.au
-DTSTAMP:20240124T052021Z
+DTSTAMP:20240205T123251Z
 DTSTART:20240203T173000Z
 DTEND:20240203T190000Z
 SUMMARY:Sprint and park O at Scots College, Warwick, Bullecourt Boulder Bounders
@@ -259,6 +259,14 @@ DTEND:20240210T100000Z
 SUMMARY:Samford Village Scatter, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/19971
 GEO:-27.3693731608164;152.886130004713
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20397@eventor.orienteering.asn.au
+DTSTAMP:20240204T222718Z
+DTSTART:20240210T224500Z
+DTEND:20240211T050000Z
+SUMMARY:RROC Workshop, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20397
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20162@eventor.orienteering.asn.au
@@ -384,7 +392,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20152
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19700@eventor.orienteering.asn.au
-DTSTAMP:20240201T040023Z
+DTSTAMP:20240205T013126Z
 DTSTART:20240224T223000Z
 DTEND:20240224T223000Z
 SUMMARY:MTBO SS1 and Foot-O USC Sippy Downs, Sunshine Orienteers Club
@@ -548,6 +556,15 @@ DTEND:20240312T073000Z
 SUMMARY:Night Nav - Chapel Hill (Cubberla Creek) - Term 1 Series - Event #6, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20229
 GEO:-27.511204120327;152.951764951005
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20398@eventor.orienteering.asn.au
+DTSTAMP:20240205T043613Z
+DTSTART:20240312T080000Z
+DTEND:20240312T080000Z
+SUMMARY:Night Nav - Old Tewantin, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20398
+GEO:-26.3908519117398;153.037171781829
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20206@eventor.orienteering.asn.au
@@ -820,6 +837,14 @@ SUMMARY:Forest Series - EN - Event 1 - tbc, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20321
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20316@eventor.orienteering.asn.au
+DTSTAMP:20240205T054813Z
+DTSTART:20240511T050000Z
+DTEND:20240511T050000Z
+SUMMARY:Club Event - Location - TBC, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20316
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19860@eventor.orienteering.asn.au
 DTSTAMP:20240122T221455Z
 DTSTART:20240511T140000Z
@@ -870,14 +895,6 @@ DTEND:20240519T010000Z
 SUMMARY:Score Orienteering at Hinze Dam, Paradise Lost Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20390
 GEO:-28.0504896245519;153.279283956862
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20316@eventor.orienteering.asn.au
-DTSTAMP:20240203T065629Z
-DTSTART:20240519T050000Z
-DTEND:20240519T050000Z
-SUMMARY:Club Event - Location - TBC, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20316
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20333@eventor.orienteering.asn.au

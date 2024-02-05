@@ -121,7 +121,7 @@ GEO:-27.4435819889838;152.987335115063
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_8158@eventor.orienteering.asn.au
-DTSTAMP:20240124T052021Z
+DTSTAMP:20240205T123251Z
 DTSTART:20240203T173000Z
 DTEND:20240203T190000Z
 SUMMARY:Sprint and park O at Scots College, Warwick, Bullecourt Boulder Bounders
@@ -252,6 +252,15 @@ DTEND:20240312T073000Z
 SUMMARY:Night Nav - Chapel Hill (Cubberla Creek) - Term 1 Series - Event #6, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20229
 GEO:-27.511204120327;152.951764951005
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20398@eventor.orienteering.asn.au
+DTSTAMP:20240205T043613Z
+DTSTART:20240312T080000Z
+DTEND:20240312T080000Z
+SUMMARY:Night Nav - Old Tewantin, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20398
+GEO:-26.3908519117398;153.037171781829
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20206@eventor.orienteering.asn.au

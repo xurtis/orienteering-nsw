@@ -595,7 +595,7 @@ GEO:-42.9441502767215;147.353635475261
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_8158@eventor.orienteering.asn.au
-DTSTAMP:20240124T052021Z
+DTSTAMP:20240205T123251Z
 DTSTART:20240203T173000Z
 DTEND:20240203T190000Z
 SUMMARY:Sprint and park O at Scots College, Warwick, Bullecourt Boulder Bounders
@@ -782,11 +782,12 @@ GEO:-12.4236205307324;130.83714074769
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20031@eventor.orienteering.asn.au
-DTSTAMP:20231213T033810Z
+DTSTAMP:20240205T025043Z
 DTSTART:20240209T070000Z
 DTEND:20240209T083000Z
 SUMMARY:Goldseekers Summer Series #2 2024, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20031
+GEO:-33.2275625542806;149.245818356505
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20043@eventor.orienteering.asn.au
@@ -808,8 +809,8 @@ GEO:-37.7821020243649;144.963267137166
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20381@eventor.orienteering.asn.au
-DTSTAMP:20240130T215633Z
-DTSTART:20240209T223000Z
+DTSTAMP:20240205T025823Z
+DTSTART:20240209T220000Z
 DTEND:20240210T010000Z
 SUMMARY:Bold Horizons Term 1 Pass, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/20381
@@ -826,7 +827,7 @@ GEO:-33.7406652159538;151.060188497546
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20294@eventor.orienteering.asn.au
-DTSTAMP:20240130T221005Z
+DTSTAMP:20240205T025737Z
 DTSTART:20240209T223000Z
 DTEND:20240210T010000Z
 SUMMARY:SOS Macarthur - Elderslie, Bold Horizons Event Organiser / Southern Highlands Orienteers
@@ -903,6 +904,14 @@ DTEND:20240210T223000Z
 SUMMARY:West Sydney Orienteering Series #3, Bennelong Northside Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19718
 GEO:-33.7915469793891;151.007736860288
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20397@eventor.orienteering.asn.au
+DTSTAMP:20240204T222718Z
+DTSTART:20240210T224500Z
+DTEND:20240211T050000Z
+SUMMARY:RROC Workshop, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20397
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20162@eventor.orienteering.asn.au
@@ -1207,12 +1216,12 @@ GEO:-34.6129358765931;117.663598707669
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19764@eventor.orienteering.asn.au
-DTSTAMP:20240115T092447Z
+DTSTAMP:20240205T060558Z
 DTSTART:20240217T090000Z
 DTEND:20240217T101500Z
 SUMMARY:MetrO 13 Maylands, Kulgun 225 Orienteers / LOST / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/19764
-GEO:-31.9505210686929;115.908676453657
+GEO:-31.9504306766294;115.908592687491
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19650@eventor.orienteering.asn.au
@@ -1494,7 +1503,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19641
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19700@eventor.orienteering.asn.au
-DTSTAMP:20240201T040023Z
+DTSTAMP:20240205T013126Z
 DTSTART:20240224T223000Z
 DTEND:20240224T223000Z
 SUMMARY:MTBO SS1 and Foot-O USC Sippy Downs, Sunshine Orienteers Club
@@ -1856,6 +1865,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18754
 GEO:-27.477463;153.094363
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20401@eventor.orienteering.asn.au
+DTSTAMP:20240205T071640Z
+DTSTART:20240307T051500Z
+DTEND:20240307T063000Z
+SUMMARY:Central Adelaide Schools Zone Event 1 Burnside PS, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/20401
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20264@eventor.orienteering.asn.au
 DTSTAMP:20240123T141153Z
 DTSTART:20240307T143000Z
@@ -1936,7 +1953,7 @@ GEO:-32.9731962685724;151.616255555445
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20252@eventor.orienteering.asn.au
-DTSTAMP:20240122T045611Z
+DTSTAMP:20240205T033847Z
 DTSTART:20240309T223000Z
 DTEND:20240310T050000Z
 SUMMARY:Ballarat Sprints Day 2, Eureka Orienteers
@@ -2038,6 +2055,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20229
 GEO:-27.511204120327;152.951764951005
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20398@eventor.orienteering.asn.au
+DTSTAMP:20240205T043613Z
+DTSTART:20240312T080000Z
+DTEND:20240312T080000Z
+SUMMARY:Night Nav - Old Tewantin, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20398
+GEO:-26.3908519117398;153.037171781829
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20000@eventor.orienteering.asn.au
 DTSTAMP:20240130T063024Z
 DTSTART:20240312T130000Z
@@ -2105,6 +2131,14 @@ DTSTART:20240313T204500Z
 DTEND:20240313T214500Z
 SUMMARY:SC-ORE #2: Curtin Primary School, Curtin, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/20010
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20399@eventor.orienteering.asn.au
+DTSTAMP:20240205T071428Z
+DTSTART:20240314T051500Z
+DTEND:20240314T063000Z
+SUMMARY:Central Adelaide Schools Zone Event 2 Black Forest PS, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/20399
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20265@eventor.orienteering.asn.au
@@ -2340,6 +2374,15 @@ DTSTART:20240320T204500Z
 DTEND:20240320T214500Z
 SUMMARY:SC-ORE #3: Eddison Park, Woden, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/20011
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20400@eventor.orienteering.asn.au
+DTSTAMP:20240205T071435Z
+DTSTART:20240321T051500Z
+DTEND:20240321T063000Z
+SUMMARY:Central Adelaide Schools Zone Event 3 Linden Park PS, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/20400
+GEO:-34.9480095019227;138.644737009755
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20207@eventor.orienteering.asn.au
@@ -3127,6 +3170,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20216
 GEO:-35.0333294805807;138.604795536715
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20316@eventor.orienteering.asn.au
+DTSTAMP:20240205T054813Z
+DTSTART:20240511T050000Z
+DTEND:20240511T050000Z
+SUMMARY:Club Event - Location - TBC, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20316
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19860@eventor.orienteering.asn.au
 DTSTAMP:20240122T221455Z
 DTSTART:20240511T140000Z
@@ -3294,14 +3345,6 @@ DTEND:20240519T033000Z
 SUMMARY:Port Lincoln: Wanna, Lincoln Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20277
 GEO:-34.839728297617;135.866970368589
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20316@eventor.orienteering.asn.au
-DTSTAMP:20240203T065629Z
-DTSTART:20240519T050000Z
-DTEND:20240519T050000Z
-SUMMARY:Club Event - Location - TBC, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20316
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20333@eventor.orienteering.asn.au
