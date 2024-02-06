@@ -58,10 +58,10 @@ GEO:-34.7094765651626;135.851623690803
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20273@eventor.orienteering.asn.au
-DTSTAMP:20240124T221847Z
+DTSTAMP:20240206T064251Z
 DTSTART:20240315T073000Z
 DTEND:20240315T073000Z
-SUMMARY:Port Lincoln Heights, Lincoln Orienteers
+SUMMARY:Port Lincoln - Kirton Point, Lincoln Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20273
 GEO:-34.7294957505074;135.847499586206
 END:VEVENT
@@ -137,20 +137,20 @@ SUMMARY:Whyalla Hills, Saltbush Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20313
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20283@eventor.orienteering.asn.au
+DTSTAMP:20240206T064219Z
+DTSTART:20240908T010000Z
+DTEND:20240908T023000Z
+SUMMARY:Port Lincoln: Flinders/Pioneer Park, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20283
+GEO:-34.7178406471005;135.849697135834
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20314@eventor.orienteering.asn.au
 DTSTAMP:20240125T063743Z
 DTSTART:20240915T003000Z
 DTEND:20240915T033000Z
 SUMMARY:Whyalla East, Saltbush Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20314
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20283@eventor.orienteering.asn.au
-DTSTAMP:20240124T230204Z
-DTSTART:20240915T010000Z
-DTEND:20240915T023000Z
-SUMMARY:Port Lincoln: Flinders/Pioneer Park, Lincoln Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20283
-GEO:-34.7178406471005;135.849697135834
 END:VEVENT
 END:VCALENDAR

@@ -373,7 +373,7 @@ GEO:-34.7207449154162;135.860310419053
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19983@eventor.orienteering.asn.au
-DTSTAMP:20231212T212806Z
+DTSTAMP:20240205T235301Z
 DTSTART:20240205T060000Z
 DTEND:20240205T090000Z
 SUMMARY:ACT MapRun Street Series: South Googong, 1-5 Feb, Orienteering ACT
@@ -382,16 +382,16 @@ GEO:-35.4277757725557;149.232753340782
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20173@eventor.orienteering.asn.au
-DTSTAMP:20240111T061808Z
+DTSTAMP:20240206T124319Z
 DTSTART:20240206T064500Z
 DTEND:20240206T084500Z
 SUMMARY:Ballarat Park & Street Summer Series ’24 – #4 Buninyong, Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20173
-GEO:-37.6490474635931;143.884014532275
+GEO:-37.648969470153;143.883506713931
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19377@eventor.orienteering.asn.au
-DTSTAMP:20240129T110953Z
+DTSTAMP:20240206T065721Z
 DTSTART:20240207T053000Z
 DTEND:20240207T083000Z
 SUMMARY:2023/24 Sydney Summer Series #19 - Forestville West, Garingal Orienteers
@@ -400,7 +400,7 @@ GEO:-33.7651245038405;151.209760683271
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19537@eventor.orienteering.asn.au
-DTSTAMP:20240201T063350Z
+DTSTAMP:20240205T200935Z
 DTSTART:20240207T060000Z
 DTEND:20240207T060000Z
 SUMMARY:Newcastle Summer Street Series #16 - Islington , Newcastle Orienteering Club
@@ -441,7 +441,7 @@ DTSTART:20240210T220000Z
 DTEND:20240210T233000Z
 SUMMARY:ACT Sprint Series #8, Australian Catholic University, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19649
-GEO:-35.2460349504657;149.154277571611
+GEO:-35.24449582512;149.15623227822
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19677@eventor.orienteering.asn.au
@@ -980,10 +980,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20399
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20273@eventor.orienteering.asn.au
-DTSTAMP:20240124T221847Z
+DTSTAMP:20240206T064251Z
 DTSTART:20240315T073000Z
 DTEND:20240315T073000Z
-SUMMARY:Port Lincoln Heights, Lincoln Orienteers
+SUMMARY:Port Lincoln - Kirton Point, Lincoln Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20273
 GEO:-34.7294957505074;135.847499586206
 END:VEVENT
@@ -1189,7 +1189,7 @@ GEO:-34.7000759545791;135.92545740367
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19574@eventor.orienteering.asn.au
-DTSTAMP:20230922T035649Z
+DTSTAMP:20240206T071058Z
 DTSTART:20240412T140000Z
 DTEND:20240413T140000Z
 SUMMARY:2024 NSW State League #3, NSW Stingers / Orienteering NSW
@@ -1338,15 +1338,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19860
 GEO:-27.5172801876494;153.122054396254
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20277@eventor.orienteering.asn.au
-DTSTAMP:20240124T224208Z
-DTSTART:20240519T010000Z
-DTEND:20240519T033000Z
-SUMMARY:Port Lincoln: Wanna, Lincoln Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20277
-GEO:-34.839728297617;135.866970368589
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19555@eventor.orienteering.asn.au
 DTSTAMP:20240131T233028Z
 DTSTART:20240525T003000Z
@@ -1386,6 +1377,15 @@ DTEND:20240526T030000Z
 SUMMARY:Highlands Forest Series #2, Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20383
 GEO:-34.3875853875162;150.355938708203
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20277@eventor.orienteering.asn.au
+DTSTAMP:20240206T063954Z
+DTSTART:20240526T010000Z
+DTEND:20240526T033000Z
+SUMMARY:Port Lincoln: Wanna, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20277
+GEO:-34.839728297617;135.866970368589
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19556@eventor.orienteering.asn.au
@@ -1522,6 +1522,15 @@ SUMMARY:2024 Metro League #3 - Pennant Hills, Bennelong Northside Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20288
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20281@eventor.orienteering.asn.au
+DTSTAMP:20240206T064040Z
+DTSTART:20240623T010000Z
+DTEND:20240623T033000Z
+SUMMARY:Port Lincoln: Surfleet Cove, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20281
+GEO:-34.7667912100399;135.957542484605
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19578@eventor.orienteering.asn.au
 DTSTAMP:20231113T034300Z
 DTSTART:20240628T140000Z
@@ -1552,15 +1561,6 @@ DTSTART:20240629T140000Z
 DTEND:20240630T140000Z
 SUMMARY:Brookstead - Long Distance - OST 9, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/20111
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20280@eventor.orienteering.asn.au
-DTSTAMP:20240124T225406Z
-DTSTART:20240630T010000Z
-DTEND:20240630T033000Z
-SUMMARY:Port Lincoln: Log Hut Gully, Lincoln Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20280
-GEO:-34.3412868962343;135.991826270147
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19685@eventor.orienteering.asn.au
@@ -1611,13 +1611,13 @@ SUMMARY:Vic Series 5 - Tarrengower, Maldon, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20354
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20281@eventor.orienteering.asn.au
-DTSTAMP:20240124T225609Z
+UID:Event_20280@eventor.orienteering.asn.au
+DTSTAMP:20240206T064122Z
 DTSTART:20240721T010000Z
 DTEND:20240721T033000Z
-SUMMARY:Port Lincoln: Surfleet Cove, Lincoln Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20281
-GEO:-34.7667912100399;135.957542484605
+SUMMARY:Port Lincoln: Log Hut Gully, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20280
+GEO:-34.3412868962343;135.991826270147
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20108@eventor.orienteering.asn.au
@@ -1693,15 +1693,6 @@ SUMMARY:ACT Metro Series: incl. Junior League #9, McQuoids Hill, Parawanga Orien
 URL:https://eventor.orienteering.asn.au/Events/Show/19561
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20282@eventor.orienteering.asn.au
-DTSTAMP:20240124T225914Z
-DTSTART:20240811T010000Z
-DTEND:20240811T033000Z
-SUMMARY:Port Lincoln: Mena View, Lincoln Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20282
-GEO:-34.5105487419711;135.428461002275
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19721@eventor.orienteering.asn.au
 DTSTAMP:20231030T053457Z
 DTSTART:20240811T233000Z
@@ -1757,6 +1748,15 @@ DTSTART:20240817T140000Z
 DTEND:20240818T140000Z
 SUMMARY:Pittwater - Middle Distance - OST 11, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/20114
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20282@eventor.orienteering.asn.au
+DTSTAMP:20240206T064153Z
+DTSTART:20240818T010000Z
+DTEND:20240818T033000Z
+SUMMARY:Port Lincoln: Mena View, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20282
+GEO:-34.5105487419711;135.428461002275
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19549@eventor.orienteering.asn.au
