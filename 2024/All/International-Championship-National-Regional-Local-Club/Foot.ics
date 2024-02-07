@@ -595,10 +595,10 @@ GEO:-42.9441502767215;147.353635475261
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20194@eventor.orienteering.asn.au
-DTSTAMP:20240206T115117Z
+DTSTAMP:20240207T040815Z
 DTSTART:20240203T140000Z
 DTEND:20240204T140000Z
-SUMMARY:MapRun Parks 2023 - Banks Street Reserve, Ugly Gully Orienteers
+SUMMARY:MapRun Parks 2024 - Banks Street Reserve, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20194
 GEO:-27.4378628193672;152.997421379453
 END:VEVENT
@@ -755,7 +755,7 @@ GEO:-34.9565421584845;138.559294612898
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19377@eventor.orienteering.asn.au
-DTSTAMP:20240206T065721Z
+DTSTAMP:20240207T084552Z
 DTSTART:20240207T053000Z
 DTEND:20240207T083000Z
 SUMMARY:2023/24 Sydney Summer Series #19 - Forestville West, Garingal Orienteers
@@ -782,7 +782,7 @@ GEO:-12.4236205307324;130.83714074769
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20031@eventor.orienteering.asn.au
-DTSTAMP:20240205T025043Z
+DTSTAMP:20240207T034600Z
 DTSTART:20240209T070000Z
 DTEND:20240209T083000Z
 SUMMARY:Goldseekers Summer Series #2 2024, Goldseekers Orienteers
@@ -923,7 +923,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20162
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19910@eventor.orienteering.asn.au
-DTSTAMP:20240123T232047Z
+DTSTAMP:20240206T224755Z
 DTSTART:20240210T230000Z
 DTEND:20240211T010000Z
 SUMMARY:Illawarra Map Running #2 - Kiama Downs, Illawarra Kareelah Orienteers
@@ -1017,7 +1017,7 @@ DTSTART:20240213T080000Z
 DTEND:20240213T080000Z
 SUMMARY:Night Nav - Sunshine Beach, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20378
-GEO:-26.4057507122444;153.111257795995
+GEO:-26.410165424472;153.100844940107
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20268@eventor.orienteering.asn.au
@@ -1153,6 +1153,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20295
 GEO:-34.0699147394674;150.71603341641
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20051@eventor.orienteering.asn.au
+DTSTAMP:20240206T214340Z
+DTSTART:20240216T220000Z
+DTEND:20240216T230000Z
+SUMMARY:West Hobart - HOF24 - Public Event - OST 1A - Sprint, Orienteering Tasmania
+URL:https://eventor.orienteering.asn.au/Events/Show/20051
+GEO:-42.8821696689327;147.313351536588
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19756@eventor.orienteering.asn.au
 DTSTAMP:20231231T004715Z
 DTSTART:20240216T230000Z
@@ -1160,15 +1169,6 @@ DTEND:20240216T230000Z
 SUMMARY:West Hobart - HOF24 - NOL 1 - Sprint, Orienteering Tasmania
 URL:https://eventor.orienteering.asn.au/Events/Show/19756
 GEO:-42.8821359523925;147.313056366325
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20051@eventor.orienteering.asn.au
-DTSTAMP:20231220T031112Z
-DTSTART:20240216T230000Z
-DTEND:20240216T230000Z
-SUMMARY:West Hobart - HOF24 - Public Event - OST 1A - Sprint, Orienteering Tasmania
-URL:https://eventor.orienteering.asn.au/Events/Show/20051
-GEO:-42.8821696689327;147.313351536588
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20374@eventor.orienteering.asn.au
@@ -1757,6 +1757,15 @@ DTEND:20240302T230000Z
 SUMMARY:SA Sprint Distance Championships - Aberfoyle Park HS, Onkaparinga Hills Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19505
 GEO:-35.074041069437;138.595233012356
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20403@eventor.orienteering.asn.au
+DTSTAMP:20240207T000025Z
+DTSTART:20240302T230000Z
+DTEND:20240303T010000Z
+SUMMARY:Goldseekers Bush Series # 1 - Lake Canobolas + AGM, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20403
+GEO:-33.3012292294971;149.027193102631
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19915@eventor.orienteering.asn.au
@@ -3180,10 +3189,10 @@ GEO:-35.0333294805807;138.604795536715
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20316@eventor.orienteering.asn.au
-DTSTAMP:20240205T054813Z
+DTSTAMP:20240207T104806Z
 DTSTART:20240511T050000Z
 DTEND:20240511T050000Z
-SUMMARY:Club Event - Location - TBC, Ugly Gully Orienteers
+SUMMARY:Club Event - Robelle Domain - TBC, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20316
 END:VEVENT
 BEGIN:VEVENT
@@ -4814,6 +4823,14 @@ SUMMARY:ACT Schools Championships and Public Event, Isaacs Ridge, Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/19564
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20404@eventor.orienteering.asn.au
+DTSTAMP:20240207T105000Z
+DTSTART:20240914T050000Z
+DTEND:20240914T050000Z
+SUMMARY:Club Event - Denmark Hill (New Map) TBC, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20404
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19714@eventor.orienteering.asn.au
 DTSTAMP:20231026T093511Z
 DTSTART:20240914T140000Z
@@ -5235,6 +5252,14 @@ SUMMARY:Albury-Wodonga Street & Park (location tba), Albury-Wodonga Orienteering
 URL:https://eventor.orienteering.asn.au/Events/Show/19838
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20405@eventor.orienteering.asn.au
+DTSTAMP:20240207T105115Z
+DTSTART:20241116T050000Z
+DTEND:20241116T050000Z
+SUMMARY:Club Event - Queens Park TBC, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20405
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19817@eventor.orienteering.asn.au
 DTSTAMP:20231117T083416Z
 DTSTART:20241116T220000Z
@@ -5339,6 +5364,14 @@ DTSTART:20241214T130000Z
 DTEND:20241215T130000Z
 SUMMARY:Waggaroos Summer Series 2024-25 #3. Location TBA., Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19819
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20406@eventor.orienteering.asn.au
+DTSTAMP:20240207T105215Z
+DTSTART:20241216T050000Z
+DTEND:20241216T050000Z
+SUMMARY:Club Event - Location TBC, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20406
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19875@eventor.orienteering.asn.au

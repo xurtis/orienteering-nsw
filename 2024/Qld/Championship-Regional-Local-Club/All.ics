@@ -182,10 +182,10 @@ GEO:-27.4435819889838;152.987335115063
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20194@eventor.orienteering.asn.au
-DTSTAMP:20240206T115117Z
+DTSTAMP:20240207T040815Z
 DTSTART:20240203T140000Z
 DTEND:20240204T140000Z
-SUMMARY:MapRun Parks 2023 - Banks Street Reserve, Ugly Gully Orienteers
+SUMMARY:MapRun Parks 2024 - Banks Street Reserve, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20194
 GEO:-27.4378628193672;152.997421379453
 END:VEVENT
@@ -319,7 +319,7 @@ DTSTART:20240213T080000Z
 DTEND:20240213T080000Z
 SUMMARY:Night Nav - Sunshine Beach, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20378
-GEO:-26.4057507122444;153.111257795995
+GEO:-26.410165424472;153.100844940107
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20151@eventor.orienteering.asn.au
@@ -814,10 +814,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20321
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20316@eventor.orienteering.asn.au
-DTSTAMP:20240205T054813Z
+DTSTAMP:20240207T104806Z
 DTSTART:20240511T050000Z
 DTEND:20240511T050000Z
-SUMMARY:Club Event - Location - TBC, Ugly Gully Orienteers
+SUMMARY:Club Event - Robelle Domain - TBC, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20316
 END:VEVENT
 BEGIN:VEVENT
@@ -1208,6 +1208,14 @@ SUMMARY:Night Nav - Term 3 Series Event #8, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20343
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20404@eventor.orienteering.asn.au
+DTSTAMP:20240207T105000Z
+DTSTART:20240914T050000Z
+DTEND:20240914T050000Z
+SUMMARY:Club Event - Denmark Hill (New Map) TBC, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20404
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20394@eventor.orienteering.asn.au
 DTSTAMP:20240204T065326Z
 DTSTART:20240914T230000Z
@@ -1357,6 +1365,14 @@ SUMMARY:Night Nav - Venue TBC, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/19870
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20405@eventor.orienteering.asn.au
+DTSTAMP:20240207T105115Z
+DTSTART:20241116T050000Z
+DTEND:20241116T050000Z
+SUMMARY:Club Event - Queens Park TBC, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20405
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19871@eventor.orienteering.asn.au
 DTSTAMP:20231129T030432Z
 DTSTART:20241119T073000Z
@@ -1395,6 +1411,14 @@ DTSTART:20241210T073000Z
 DTEND:20241210T073000Z
 SUMMARY:Night Nav - Venue TBC, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/19874
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20406@eventor.orienteering.asn.au
+DTSTAMP:20240207T105215Z
+DTSTART:20241216T050000Z
+DTEND:20241216T050000Z
+SUMMARY:Club Event - Location TBC, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20406
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19875@eventor.orienteering.asn.au
