@@ -75,14 +75,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20270
 GEO:-34.7207449154162;135.860310419053
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20094@eventor.orienteering.asn.au
-DTSTAMP:20231228T100344Z
-DTSTART:20240206T133000Z
-DTEND:20240207T133000Z
-SUMMARY:Midweek Training  Season Ticket, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/20094
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20093@eventor.orienteering.asn.au
 DTSTAMP:20240120T053555Z
 DTSTART:20240207T000000Z
@@ -197,6 +189,14 @@ DTEND:20240308T143000Z
 SUMMARY:NT: 2024 Wet Season Series Event 6 - Rapid Creek, Top End Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20264
 GEO:-12.4313944550495;130.844391179261
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20094@eventor.orienteering.asn.au
+DTSTAMP:20240207T190045Z
+DTSTART:20240312T133000Z
+DTEND:20240313T133000Z
+SUMMARY:Midweek Training  Season Ticket, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/20094
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20095@eventor.orienteering.asn.au
