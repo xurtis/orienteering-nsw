@@ -218,15 +218,16 @@ GEO:-26.5997470175708;153.018162417275
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20164@eventor.orienteering.asn.au
-DTSTAMP:20240110T094817Z
+DTSTAMP:20240209T045332Z
 DTSTART:20240209T233000Z
 DTEND:20240209T233000Z
-SUMMARY:QOTS3 - Bush training event, Enoggeroos
+SUMMARY:QOTS3 - Bush training, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20164
+GEO:-27.6888117080807;152.917214800791
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19970@eventor.orienteering.asn.au
-DTSTAMP:20240201T013522Z
+DTSTAMP:20240209T010434Z
 DTSTART:20240210T053000Z
 DTEND:20240210T070000Z
 SUMMARY:Sprint Series - EN - Event 1 - Samford SS - includes Learn to Orienteer, Enoggeroos
@@ -244,10 +245,10 @@ GEO:-27.3693731608164;152.886130004713
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20397@eventor.orienteering.asn.au
-DTSTAMP:20240204T222718Z
+DTSTAMP:20240209T103710Z
 DTSTART:20240210T224500Z
 DTEND:20240211T050000Z
-SUMMARY:RROC Workshop, Range Runners Orienteering Club
+SUMMARY:****RROC Workshop - POSTPONED****, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20397
 END:VEVENT
 BEGIN:VEVENT
@@ -278,7 +279,7 @@ GEO:-27.6804724;152.9033582
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20160@eventor.orienteering.asn.au
-DTSTAMP:20240208T022746Z
+DTSTAMP:20240209T004726Z
 DTSTART:20240211T060000Z
 DTEND:20240211T060000Z
 SUMMARY:Queens Park, Toowoomba, Range Runners Orienteering Club
@@ -347,6 +348,15 @@ SUMMARY:RROC sprint, Toowoomba, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20165
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20220@eventor.orienteering.asn.au
+DTSTAMP:20240209T011528Z
+DTSTART:20240220T073000Z
+DTEND:20240220T073000Z
+SUMMARY:Night Nav - Chelmer - Term 1 Series - Event #3, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20220
+GEO:-27.5183721634103;152.985483711042
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20377@eventor.orienteering.asn.au
 DTSTAMP:20240129T103804Z
 DTSTART:20240220T080000Z
@@ -354,15 +364,6 @@ DTEND:20240220T080000Z
 SUMMARY:Night Nav - Bok Beach, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20377
 GEO:-26.752214051435;153.131047288939
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20220@eventor.orienteering.asn.au
-DTSTAMP:20240204T122251Z
-DTSTART:20240221T073000Z
-DTEND:20240221T073000Z
-SUMMARY:Night Nav - Chelmer - Term 1 Series - Event #3, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20220
-GEO:-27.5183721634103;152.985483711042
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20152@eventor.orienteering.asn.au
@@ -374,7 +375,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20152
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19700@eventor.orienteering.asn.au
-DTSTAMP:20240205T013126Z
+DTSTAMP:20240209T061157Z
 DTSTART:20240224T223000Z
 DTEND:20240224T223000Z
 SUMMARY:MTBO SS1 and Foot-O USC Sippy Downs, Sunshine Orienteers Club

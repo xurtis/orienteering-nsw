@@ -192,6 +192,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20221
 GEO:-28.6470033077443;151.929657837335
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20220@eventor.orienteering.asn.au
+DTSTAMP:20240209T011528Z
+DTSTART:20240220T073000Z
+DTEND:20240220T073000Z
+SUMMARY:Night Nav - Chelmer - Term 1 Series - Event #3, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20220
+GEO:-27.5183721634103;152.985483711042
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20377@eventor.orienteering.asn.au
 DTSTAMP:20240129T103804Z
 DTSTART:20240220T080000Z
@@ -199,15 +208,6 @@ DTEND:20240220T080000Z
 SUMMARY:Night Nav - Bok Beach, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20377
 GEO:-26.752214051435;153.131047288939
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20220@eventor.orienteering.asn.au
-DTSTAMP:20240204T122251Z
-DTSTART:20240221T073000Z
-DTEND:20240221T073000Z
-SUMMARY:Night Nav - Chelmer - Term 1 Series - Event #3, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20220
-GEO:-27.5183721634103;152.985483711042
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16996@eventor.orienteering.asn.au
