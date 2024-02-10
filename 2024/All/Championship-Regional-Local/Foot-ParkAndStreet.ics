@@ -418,7 +418,7 @@ GEO:-37.7821020243649;144.963267137166
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20293@eventor.orienteering.asn.au
-DTSTAMP:20240130T220353Z
+DTSTAMP:20240210T013533Z
 DTSTART:20240209T223000Z
 DTEND:20240210T010000Z
 SUMMARY:SOS 3D - Pennant Hills, Bold Horizons Event Organiser
@@ -427,7 +427,7 @@ GEO:-33.7406652159538;151.060188497546
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20294@eventor.orienteering.asn.au
-DTSTAMP:20240208T020907Z
+DTSTAMP:20240210T003837Z
 DTSTART:20240209T223000Z
 DTEND:20240210T010000Z
 SUMMARY:SOS Macarthur - Elderslie, Bold Horizons Event Organiser / Southern Highlands Orienteers
@@ -726,10 +726,10 @@ GEO:-33.7764357617742;151.206819435696
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20253@eventor.orienteering.asn.au
-DTSTAMP:20240209T034026Z
+DTSTAMP:20240209T193013Z
 DTSTART:20240228T054500Z
 DTEND:20240228T080000Z
-SUMMARY:2024 Newcastle Urban Orienteering Series #1, Newcastle Orienteering Club
+SUMMARY:2024 Newcastle Urban Orienteering Series1 - Elermore Vale, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20253
 GEO:-32.9172964348222;151.67413452565
 END:VEVENT
@@ -842,10 +842,10 @@ GEO:-33.8620489712594;151.162949859407
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20254@eventor.orienteering.asn.au
-DTSTAMP:20240209T043635Z
+DTSTAMP:20240209T194518Z
 DTSTART:20240306T060000Z
 DTEND:20240306T060000Z
-SUMMARY:2024 Newcastle Urban Orienteering Series #2, Newcastle Orienteering Club
+SUMMARY:2024 Newcastle Urban Orienteering 2 - Hunter Wetlands, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20254
 GEO:-32.8765175172037;151.695778283571
 END:VEVENT
@@ -946,10 +946,10 @@ GEO:-33.8142795559185;151.172201917723
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20255@eventor.orienteering.asn.au
-DTSTAMP:20240209T043833Z
+DTSTAMP:20240209T202202Z
 DTSTART:20240313T060000Z
 DTEND:20240313T060000Z
-SUMMARY:2024 Newcastle Urban Orienteering Series #3, Newcastle Orienteering Club
+SUMMARY:2024 Newcastle Urban Orienteering 3 - Belmont, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20255
 GEO:-33.0240279659709;151.640298170835
 END:VEVENT
@@ -997,14 +997,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19572
 GEO:-33.8019821072878;149.041077535894
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19713@eventor.orienteering.asn.au
-DTSTAMP:20231026T093511Z
-DTSTART:20240316T130000Z
-DTEND:20240317T130000Z
-SUMMARY:Victorian Club Relays, Melbourne Forest Racers
-URL:https://eventor.orienteering.asn.au/Events/Show/19713
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19859@eventor.orienteering.asn.au
 DTSTAMP:20240123T040454Z
 DTSTART:20240316T140000Z
@@ -1020,6 +1012,14 @@ DTEND:20240317T023000Z
 SUMMARY:2024 NSW State League #2 - Ophir, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19573
 GEO:-33.185224;149.238215
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19713@eventor.orienteering.asn.au
+DTSTAMP:20240210T090438Z
+DTSTART:20240317T000000Z
+DTEND:20240317T023000Z
+SUMMARY:Victorian Club Relays, Melbourne Forest Racers
+URL:https://eventor.orienteering.asn.au/Events/Show/19713
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20375@eventor.orienteering.asn.au
@@ -1058,10 +1058,10 @@ GEO:-33.7680684429069;151.022930578737
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20256@eventor.orienteering.asn.au
-DTSTAMP:20240209T033506Z
+DTSTAMP:20240209T200806Z
 DTSTART:20240320T060000Z
 DTEND:20240320T060000Z
-SUMMARY:2024 Newcastle Urban Orienteering Series #4, Newcastle Orienteering Club
+SUMMARY:2024 Newcastle Urban Orienteering Final - Cooks Hill, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20256
 GEO:-32.9335451249138;151.766722322204
 END:VEVENT
@@ -1214,11 +1214,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19575
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20356@eventor.orienteering.asn.au
-DTSTAMP:20240129T001348Z
+DTSTAMP:20240210T010257Z
 DTSTART:20240414T000000Z
 DTEND:20240414T000000Z
 SUMMARY:MelBushO 1 - Brimbank Park, Keilor, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20356
+GEO:-37.7343779695293;144.849474659351
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20200@eventor.orienteering.asn.au
@@ -1240,10 +1241,10 @@ GEO:-42.4531559089982;147.237369899144
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19567@eventor.orienteering.asn.au
-DTSTAMP:20240117T092522Z
+DTSTAMP:20240210T060807Z
 DTSTART:20240428T000000Z
 DTEND:20240428T040000Z
-SUMMARY:ACT Classic Series: ACT League #3, TBA, Bushflyers
+SUMMARY:ACT Classic Series: ACT League #4, TBA, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19567
 END:VEVENT
 BEGIN:VEVENT
