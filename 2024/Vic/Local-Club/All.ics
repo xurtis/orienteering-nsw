@@ -444,21 +444,21 @@ SUMMARY:Melbourne Park Street Monday Summer Series - Nortons Park, Dandenong Ran
 URL:https://eventor.orienteering.asn.au/Events/Show/19913
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20174@eventor.orienteering.asn.au
-DTSTAMP:20240209T003353Z
-DTSTART:20240213T064500Z
-DTEND:20240213T084500Z
-SUMMARY:Ballarat Park & Street Summer Series ’24 – #5 Lake Calembeen, Creswick, Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20174
-GEO:-37.4193655551338;143.89077295241
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19927@eventor.orienteering.asn.au
 DTSTAMP:20231206T033109Z
 DTSTART:20240213T073000Z
 DTEND:20240213T091500Z
 SUMMARY:Melbourne Park Street Tuesday Summer Series - Gaffney Hill, Melbourne Forest Racers
 URL:https://eventor.orienteering.asn.au/Events/Show/19927
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20174@eventor.orienteering.asn.au
+DTSTAMP:20240212T112806Z
+DTSTART:20240214T064500Z
+DTEND:20240214T084500Z
+SUMMARY:RESCHEDULED from 13/02 to 14/02 - Ballarat Park & Street Summer Series ’24 – #5 Lake Calembeen, Creswick, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20174
+GEO:-37.4193655551338;143.89077295241
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20183@eventor.orienteering.asn.au
@@ -745,7 +745,7 @@ GEO:-37.5508702239231;143.817528166934
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20252@eventor.orienteering.asn.au
-DTSTAMP:20240205T033847Z
+DTSTAMP:20240212T052927Z
 DTSTART:20240309T223000Z
 DTEND:20240310T050000Z
 SUMMARY:Ballarat Sprints Day 2, Eureka Orienteers

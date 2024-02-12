@@ -126,7 +126,7 @@ DTSTART:20240216T073000Z
 DTEND:20240216T091500Z
 SUMMARY:Snap Sprint Series Race 3 - Adelaide Botanic Gardens, SA Arrows
 URL:https://eventor.orienteering.asn.au/Events/Show/20044
-GEO:-34.9155256867614;138.612358653558
+GEO:-34.9156381390693;138.609341762838
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20262@eventor.orienteering.asn.au
@@ -166,9 +166,9 @@ GEO:-34.7094765651626;135.851623690803
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19505@eventor.orienteering.asn.au
-DTSTAMP:20240106T064404Z
-DTSTART:20240302T230000Z
-DTEND:20240302T230000Z
+DTSTAMP:20240212T034344Z
+DTSTART:20240302T233000Z
+DTEND:20240303T010000Z
 SUMMARY:SA Sprint Distance Championships - Aberfoyle Park HS, Onkaparinga Hills Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19505
 GEO:-35.074041069437;138.595233012356
@@ -200,11 +200,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20094
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20095@eventor.orienteering.asn.au
-DTSTAMP:20231228T103401Z
+DTSTAMP:20240212T060137Z
 DTSTART:20240313T000000Z
 DTEND:20240313T023000Z
-SUMMARY:Midweek Training at Mt Crawford, Orienteering SA
+SUMMARY:Midweek Training at Mt Crawford, Rocky Paddock, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/20095
+GEO:-34.7164312331362;138.940503842444
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20399@eventor.orienteering.asn.au
