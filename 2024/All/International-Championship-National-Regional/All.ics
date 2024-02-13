@@ -128,10 +128,10 @@ GEO:-33.185224;149.238215
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19713@eventor.orienteering.asn.au
-DTSTAMP:20240211T073926Z
+DTSTAMP:20240213T075541Z
 DTSTART:20240317T000000Z
 DTEND:20240317T023000Z
-SUMMARY:Victorian Club Relays, Melbourne Forest Racers
+SUMMARY:Victorian Club Relays - Royal Park, Parkville, Melbourne Forest Racers
 URL:https://eventor.orienteering.asn.au/Events/Show/19713
 GEO:-37.7874063845404;144.95011889766
 END:VEVENT
@@ -182,12 +182,12 @@ GEO:-34.9389239298646;139.068478963944
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19482@eventor.orienteering.asn.au
-DTSTAMP:20240205T233219Z
+DTSTAMP:20240213T093422Z
 DTSTART:20240329T233000Z
 DTEND:20240401T013000Z
 SUMMARY:Australian 3 Days 2024, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/19482
-GEO:-34.93913241;139.068407715817
+GEO:-34.9405221218977;139.075008610849
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20046@eventor.orienteering.asn.au
@@ -234,10 +234,10 @@ GEO:-37.710338218982;144.040998007801
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20409@eventor.orienteering.asn.au
-DTSTAMP:20240208T235637Z
+DTSTAMP:20240213T030456Z
 DTSTART:20240426T140000Z
 DTEND:20240427T140000Z
-SUMMARY:NOL3 - Sprint Relay Teams & Results, Orienteering Queensland
+SUMMARY:NOL3b - Sprint Relay Teams & Results, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/20409
 GEO:-27.6325109635659;153.132395909351
 END:VEVENT
@@ -270,10 +270,10 @@ GEO:-42.4531559089982;147.237369899144
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19735@eventor.orienteering.asn.au
-DTSTAMP:20231127T034316Z
+DTSTAMP:20240213T033329Z
 DTSTART:20240427T140000Z
 DTEND:20240428T140000Z
-SUMMARY:NOL - Elite Knockout Sprint (am & pm) and Public Sprint (pm only), Orienteering Queensland
+SUMMARY:NOL - Elite Knockout Sprint (am & pm), Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19735
 END:VEVENT
 BEGIN:VEVENT
@@ -286,10 +286,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19567
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19543@eventor.orienteering.asn.au
-DTSTAMP:20230921T022936Z
+DTSTAMP:20240213T013156Z
 DTSTART:20240503T140000Z
 DTEND:20240504T140000Z
-SUMMARY:ACT Classic Series: ACT League #5, Broulee, Red Roos
+SUMMARY:ACT Classic Series: ACT League #5, Broulee Dunes, Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/19543
 END:VEVENT
 BEGIN:VEVENT
@@ -328,7 +328,7 @@ GEO:-27.5172801876494;153.122054396254
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19545@eventor.orienteering.asn.au
-DTSTAMP:20240117T042941Z
+DTSTAMP:20240213T014629Z
 DTSTART:20240517T140000Z
 DTEND:20240518T140000Z
 SUMMARY:NOL Round 4, ACT League #7: Wee Jasper, Abominable O-Men
@@ -336,7 +336,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19545
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19546@eventor.orienteering.asn.au
-DTSTAMP:20240117T043109Z
+DTSTAMP:20240213T015011Z
 DTSTART:20240518T140000Z
 DTEND:20240519T140000Z
 SUMMARY:NOL Round 4, ACT League #8: Awoonga, Bushflyers
@@ -460,6 +460,7 @@ DTSTART:20240629T000000Z
 DTEND:20240629T040000Z
 SUMMARY:ACT Metro Series: incl. Junior League #6, ACT League #10, Jim Sawkins Handicap, Stringybark East, Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/19554
+GEO:-35.3875155005967;149.208288059862
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19579@eventor.orienteering.asn.au
@@ -618,7 +619,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19704
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19550@eventor.orienteering.asn.au
-DTSTAMP:20231113T034739Z
+DTSTAMP:20240213T021000Z
 DTSTART:20240824T140000Z
 DTEND:20240825T140000Z
 SUMMARY:ACT Long Championships: ACT League #12, NSW SL #15, Birkenburn, Orienteering ACT / Orienteering NSW / Parawanga Orienteers

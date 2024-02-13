@@ -481,7 +481,7 @@ GEO:-35.3165350342029;149.135096226058
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19984@eventor.orienteering.asn.au
-DTSTAMP:20231212T212808Z
+DTSTAMP:20240213T041729Z
 DTSTART:20240212T060000Z
 DTEND:20240212T090000Z
 SUMMARY:ACT MapRun Street Series: Hawker, 8-12 Feb, Orienteering ACT
@@ -499,12 +499,12 @@ GEO:-33.7409412404005;151.174171291746
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19538@eventor.orienteering.asn.au
-DTSTAMP:20240113T215628Z
+DTSTAMP:20240213T124118Z
 DTSTART:20240214T060000Z
 DTEND:20240214T081500Z
 SUMMARY:Newcastle Summer Street Series #17 - Mayfield (east), Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19538
-GEO:-32.9018405602746;151.745339344064
+GEO:-32.9033639542;151.745901544013
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19203@eventor.orienteering.asn.au
@@ -587,7 +587,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19650
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19509@eventor.orienteering.asn.au
-DTSTAMP:20240212T054825Z
+DTSTAMP:20240212T231222Z
 DTSTART:20240217T223000Z
 DTEND:20240218T010000Z
 SUMMARY:West Sydney Orienteering Series #4 - Castle Hill, Garingal Orienteers
@@ -637,7 +637,7 @@ DTSTART:20240221T053000Z
 DTEND:20240221T083000Z
 SUMMARY:2023/24 Sydney Summer Series #21 - Castlewood, Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19379
-GEO:-33.7476739954595;151.027383590956
+GEO:-33.7471801726549;151.027471993127
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19539@eventor.orienteering.asn.au
@@ -727,7 +727,7 @@ GEO:-33.7764357617742;151.206819435696
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20253@eventor.orienteering.asn.au
-DTSTAMP:20240209T193013Z
+DTSTAMP:20240213T012541Z
 DTSTART:20240228T054500Z
 DTEND:20240228T080000Z
 SUMMARY:2024 Newcastle Urban Orienteering Series1 - Elermore Vale, Newcastle Orienteering Club
@@ -1016,10 +1016,10 @@ GEO:-33.185224;149.238215
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19713@eventor.orienteering.asn.au
-DTSTAMP:20240211T073926Z
+DTSTAMP:20240213T075541Z
 DTSTART:20240317T000000Z
 DTEND:20240317T023000Z
-SUMMARY:Victorian Club Relays, Melbourne Forest Racers
+SUMMARY:Victorian Club Relays - Royal Park, Parkville, Melbourne Forest Racers
 URL:https://eventor.orienteering.asn.au/Events/Show/19713
 GEO:-37.7874063845404;144.95011889766
 END:VEVENT
@@ -1048,6 +1048,15 @@ DTEND:20240319T084500Z
 SUMMARY:Ballarat Park & Street Summer Series ’24 – #10 Victoria Park, Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20179
 GEO:-37.5616900199505;143.827236172286
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20415@eventor.orienteering.asn.au
+DTSTAMP:20240213T092459Z
+DTSTART:20240319T100000Z
+DTEND:20240319T130000Z
+SUMMARY:Course Planning Workshop, Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/20415
+GEO:-31.9361437009828;115.843005560605
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19383@eventor.orienteering.asn.au
@@ -1251,10 +1260,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19567
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19543@eventor.orienteering.asn.au
-DTSTAMP:20230921T022936Z
+DTSTAMP:20240213T013156Z
 DTSTART:20240503T140000Z
 DTEND:20240504T140000Z
-SUMMARY:ACT Classic Series: ACT League #5, Broulee, Red Roos
+SUMMARY:ACT Classic Series: ACT League #5, Broulee Dunes, Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/19543
 END:VEVENT
 BEGIN:VEVENT
@@ -1550,6 +1559,7 @@ DTSTART:20240629T000000Z
 DTEND:20240629T040000Z
 SUMMARY:ACT Metro Series: incl. Junior League #6, ACT League #10, Jim Sawkins Handicap, Stringybark East, Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/19554
+GEO:-35.3875155005967;149.208288059862
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19579@eventor.orienteering.asn.au
@@ -1773,7 +1783,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19549
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19550@eventor.orienteering.asn.au
-DTSTAMP:20231113T034739Z
+DTSTAMP:20240213T021000Z
 DTSTART:20240824T140000Z
 DTEND:20240825T140000Z
 SUMMARY:ACT Long Championships: ACT League #12, NSW SL #15, Birkenburn, Orienteering ACT / Orienteering NSW / Parawanga Orienteers

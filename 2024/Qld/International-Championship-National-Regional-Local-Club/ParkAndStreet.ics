@@ -166,7 +166,7 @@ GEO:-27.3693731608164;152.886130004713
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20148@eventor.orienteering.asn.au
-DTSTAMP:20240211T051725Z
+DTSTAMP:20240213T120647Z
 DTSTART:20240212T140000Z
 DTEND:20240213T140000Z
 SUMMARY:Night Nav - St Lucia - Term 1 Series - Event #2, Ugly Gully Orienteers
@@ -315,6 +315,15 @@ DTEND:20240326T073000Z
 SUMMARY:NightNav - WestEnd - Term 1 Series - Event #8, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20237
 GEO:-27.4898218770537;153.001198619754
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20412@eventor.orienteering.asn.au
+DTSTAMP:20240213T004559Z
+DTSTART:20240418T003000Z
+DTEND:20240418T020000Z
+SUMMARY:Midweek - Bulimba Creek Parklands, Mansfield, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/20412
+GEO:-27.5399138098234;153.109460791205
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20208@eventor.orienteering.asn.au
