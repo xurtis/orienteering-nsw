@@ -244,6 +244,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19971
 GEO:-27.3693731608164;152.886130004713
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20358@eventor.orienteering.asn.au
+DTSTAMP:20240214T033751Z
+DTSTART:20240210T140000Z
+DTEND:20240211T140000Z
+SUMMARY:MapRun Parks 2024 - Robelle Domain, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20358
+GEO:-27.6804724;152.9033582
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20397@eventor.orienteering.asn.au
 DTSTAMP:20240209T103710Z
 DTSTART:20240210T224500Z
@@ -268,15 +277,6 @@ DTEND:20240211T050000Z
 SUMMARY:Learn to Orienteer No 2 - Queens Park, Tmba, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20239
 GEO:-27.5604464850959;151.963966510598
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20358@eventor.orienteering.asn.au
-DTSTAMP:20240211T051702Z
-DTSTART:20240211T060000Z
-DTEND:20240211T060000Z
-SUMMARY:MapRun Parks 2024 - Robelle Domain, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20358
-GEO:-27.6804724;152.9033582
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20160@eventor.orienteering.asn.au
@@ -415,12 +415,12 @@ GEO:-27.52018;152.923363
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20242@eventor.orienteering.asn.au
-DTSTAMP:20240212T230236Z
+DTSTAMP:20240214T080140Z
 DTSTART:20240225T060000Z
 DTEND:20240225T060000Z
 SUMMARY:Mt Peel, Toowoomba, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20242
-GEO:-27.5943150069633;151.903328002289
+GEO:-27.5961359463981;151.900239555419
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20227@eventor.orienteering.asn.au
