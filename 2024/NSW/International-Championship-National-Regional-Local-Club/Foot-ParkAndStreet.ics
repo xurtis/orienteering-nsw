@@ -381,7 +381,7 @@ GEO:-33.2715938948533;149.088739339853
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20296@eventor.orienteering.asn.au
-DTSTAMP:20240210T211658Z
+DTSTAMP:20240217T011815Z
 DTSTART:20240216T220000Z
 DTEND:20240216T220000Z
 SUMMARY:SOS 3D - Killarney Heights, Bold Horizons Event Organiser
@@ -399,7 +399,7 @@ GEO:-33.74074;151.0602
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20295@eventor.orienteering.asn.au
-DTSTAMP:20240210T214105Z
+DTSTAMP:20240217T005410Z
 DTSTART:20240216T223000Z
 DTEND:20240217T010000Z
 SUMMARY:SOS Macarthur - Spring Farm, Bold Horizons Event Organiser / Southern Highlands Orienteers
@@ -408,7 +408,7 @@ GEO:-34.0702797941738;150.715710845034
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20374@eventor.orienteering.asn.au
-DTSTAMP:20240201T104934Z
+DTSTAMP:20240217T082133Z
 DTSTART:20240217T030000Z
 DTEND:20240217T050000Z
 SUMMARY:Diggers Beach Orienteering, Bush n Beach Orienteering Club
@@ -443,7 +443,7 @@ GEO:-34.3190977116815;150.919013793464
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20049@eventor.orienteering.asn.au
-DTSTAMP:20231216T052856Z
+DTSTAMP:20240217T000330Z
 DTSTART:20240218T000000Z
 DTEND:20240218T020000Z
 SUMMARY:HOG Wayne Richards Park #2, Hastings Orienteering Group
@@ -452,7 +452,7 @@ GEO:-31.4541105910967;152.900304842263
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19379@eventor.orienteering.asn.au
-DTSTAMP:20240203T082137Z
+DTSTAMP:20240217T043804Z
 DTSTART:20240221T053000Z
 DTEND:20240221T083000Z
 SUMMARY:2023/24 Sydney Summer Series #21 - Castlewood, Western and Hills Orienteers
@@ -556,6 +556,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20299
 GEO:-33.9966089779971;150.885030996843
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20419@eventor.orienteering.asn.au
+DTSTAMP:20240217T051002Z
+DTSTART:20240302T020000Z
+DTEND:20240302T024500Z
+SUMMARY:O'Shea Saturday afternnon event - Rumbalara - individual entry, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20419
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20267@eventor.orienteering.asn.au
 DTSTAMP:20240130T094232Z
 DTSTART:20240302T020000Z
@@ -563,6 +571,14 @@ DTEND:20240303T013000Z
 SUMMARY:O'Shea 2 Days 2024 - Rumbalara & East Gosford, Central Coast Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20267
 GEO:-33.4231333396747;151.34879255558
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20421@eventor.orienteering.asn.au
+DTSTAMP:20240217T053006Z
+DTSTART:20240302T084500Z
+DTEND:20240302T084500Z
+SUMMARY:O'Shea Night leg - East Gosford - individual entry, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20421
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20141@eventor.orienteering.asn.au
@@ -580,6 +596,14 @@ DTSTART:20240302T220000Z
 DTEND:20240303T000000Z
 SUMMARY:Waggaroos Summer Series 2023-24 #6, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19769
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20420@eventor.orienteering.asn.au
+DTSTAMP:20240217T053221Z
+DTSTART:20240302T230000Z
+DTEND:20240302T230000Z
+SUMMARY:O'Shea Sunday morning Score event - Rumbalara - individual entry, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20420
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20403@eventor.orienteering.asn.au
@@ -741,7 +765,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20028
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19383@eventor.orienteering.asn.au
-DTSTAMP:20231219T213427Z
+DTSTAMP:20240217T050109Z
 DTSTART:20240320T053000Z
 DTEND:20240320T083000Z
 SUMMARY:2023/24 Sydney Summer Series #25 - North Rocks, Western and Hills Orienteers
@@ -1344,6 +1368,15 @@ DTSTART:20240927T140000Z
 DTEND:20240928T140000Z
 SUMMARY:1- Australian Middle Distance Championship, Bennelong Northside Orienteers / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/19301
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20418@eventor.orienteering.asn.au
+DTSTAMP:20240216T184235Z
+DTSTART:20240928T140000Z
+DTEND:20240929T140000Z
+SUMMARY:2A- Australian Relay Championship - Individual Entries , Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/20418
+GEO:-30.6609913675449;151.485387844755
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19312@eventor.orienteering.asn.au

@@ -552,7 +552,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20386
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20296@eventor.orienteering.asn.au
-DTSTAMP:20240210T211658Z
+DTSTAMP:20240217T011815Z
 DTSTART:20240216T220000Z
 DTEND:20240216T220000Z
 SUMMARY:SOS 3D - Killarney Heights, Bold Horizons Event Organiser
@@ -561,7 +561,7 @@ GEO:-33.7718603548566;151.21522294117
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20051@eventor.orienteering.asn.au
-DTSTAMP:20240208T032816Z
+DTSTAMP:20240217T114519Z
 DTSTART:20240216T220000Z
 DTEND:20240216T230000Z
 SUMMARY:West Hobart - HOF24 - Public Event - OST 1A - Sprint, Orienteering Tasmania
@@ -579,7 +579,7 @@ GEO:-35.2457226718591;149.090020299564
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20295@eventor.orienteering.asn.au
-DTSTAMP:20240210T214105Z
+DTSTAMP:20240217T005410Z
 DTSTART:20240216T223000Z
 DTEND:20240217T010000Z
 SUMMARY:SOS Macarthur - Spring Farm, Bold Horizons Event Organiser / Southern Highlands Orienteers
@@ -588,7 +588,7 @@ GEO:-34.0702797941738;150.715710845034
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20052@eventor.orienteering.asn.au
-DTSTAMP:20231220T031251Z
+DTSTAMP:20240217T113551Z
 DTSTART:20240217T043000Z
 DTEND:20240217T043000Z
 SUMMARY:UTas Sandy Bay - HOF24 - Public Event - OST 1B - Sprint, Orienteering Tasmania
@@ -651,7 +651,7 @@ GEO:-37.5758663737338;143.874635307767
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19379@eventor.orienteering.asn.au
-DTSTAMP:20240203T082137Z
+DTSTAMP:20240217T043804Z
 DTSTART:20240221T053000Z
 DTEND:20240221T083000Z
 SUMMARY:2023/24 Sydney Summer Series #21 - Castlewood, Western and Hills Orienteers
@@ -808,6 +808,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20199
 GEO:-27.4056944736787;152.978309732186
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20419@eventor.orienteering.asn.au
+DTSTAMP:20240217T051002Z
+DTSTART:20240302T020000Z
+DTEND:20240302T024500Z
+SUMMARY:O'Shea Saturday afternnon event - Rumbalara - individual entry, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20419
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20267@eventor.orienteering.asn.au
 DTSTAMP:20240130T094232Z
 DTSTART:20240302T020000Z
@@ -815,6 +823,14 @@ DTEND:20240303T013000Z
 SUMMARY:O'Shea 2 Days 2024 - Rumbalara & East Gosford, Central Coast Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20267
 GEO:-33.4231333396747;151.34879255558
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20421@eventor.orienteering.asn.au
+DTSTAMP:20240217T053006Z
+DTSTART:20240302T084500Z
+DTEND:20240302T084500Z
+SUMMARY:O'Shea Night leg - East Gosford - individual entry, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20421
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19541@eventor.orienteering.asn.au
@@ -833,6 +849,14 @@ DTEND:20240303T130000Z
 SUMMARY:Women in Sport Expo - Speers Point Park, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20141
 GEO:-32.9615754787454;151.617076782514
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20420@eventor.orienteering.asn.au
+DTSTAMP:20240217T053221Z
+DTSTART:20240302T230000Z
+DTEND:20240302T230000Z
+SUMMARY:O'Shea Sunday morning Score event - Rumbalara - individual entry, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20420
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19915@eventor.orienteering.asn.au
@@ -1089,7 +1113,7 @@ GEO:-31.9361437009828;115.843005560605
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19383@eventor.orienteering.asn.au
-DTSTAMP:20231219T213427Z
+DTSTAMP:20240217T050109Z
 DTSTART:20240320T053000Z
 DTEND:20240320T083000Z
 SUMMARY:2023/24 Sydney Summer Series #25 - North Rocks, Western and Hills Orienteers
@@ -1152,9 +1176,9 @@ GEO:-35.3247583195795;149.37026403874
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20074@eventor.orienteering.asn.au
-DTSTAMP:20240104T203606Z
+DTSTAMP:20240217T012137Z
 DTSTART:20240323T230000Z
-DTEND:20240324T033000Z
+DTEND:20240324T030000Z
 SUMMARY:Vic MTBO 1 - Creswick Forest, Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20074
 GEO:-37.4632913672962;143.87319475381
@@ -1271,13 +1295,13 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20356
 GEO:-37.7343779695293;144.849474659351
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20075@eventor.orienteering.asn.au
-DTSTAMP:20231219T233538Z
-DTSTART:20240420T140000Z
-DTEND:20240421T140000Z
-SUMMARY:Vic MTBO 2 - Lal Lal, Dandenong Ranges Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20075
-GEO:-37.710338218982;144.040998007801
+UID:Event_20077@eventor.orienteering.asn.au
+DTSTAMP:20240217T011904Z
+DTSTART:20240421T000000Z
+DTEND:20240421T040000Z
+SUMMARY:Vic MTBO 2 - Bostock Reservoir (tbc), Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20077
+GEO:-37.6050723706506;144.18712179318
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20200@eventor.orienteering.asn.au
@@ -1340,7 +1364,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20287
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20348@eventor.orienteering.asn.au
-DTSTAMP:20240216T060327Z
+DTSTAMP:20240217T002057Z
 DTSTART:20240505T000000Z
 DTEND:20240505T020000Z
 SUMMARY:Vic Series 1 - Eppalock, Yarra Valley Orienteering Club
@@ -1458,9 +1482,9 @@ GEO:-34.839728297617;135.866970368589
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20076@eventor.orienteering.asn.au
-DTSTAMP:20231219T013714Z
-DTSTART:20240531T140000Z
-DTEND:20240601T140000Z
+DTSTAMP:20240217T012202Z
+DTSTART:20240601T000000Z
+DTEND:20240601T040000Z
 SUMMARY:Vic MTBO 3 - Walmer Forest, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20076
 GEO:-37.0427307018773;144.196923008312
@@ -1474,21 +1498,21 @@ SUMMARY:ACT Metro Series: incl. Junior League #3, Oakey Hill, Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/19556
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20349@eventor.orienteering.asn.au
-DTSTAMP:20240207T222015Z
-DTSTART:20240601T140000Z
-DTEND:20240602T140000Z
-SUMMARY:Vic Series 2 - Irishtown, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20349
-GEO:-37.170258598086;144.237870649439
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19547@eventor.orienteering.asn.au
 DTSTAMP:20231102T020357Z
 DTSTART:20240602T000000Z
 DTEND:20240602T040000Z
 SUMMARY:ACT Classic Series: Hermann Wehner Tribute Event, Stromlo, Weston Emus
 URL:https://eventor.orienteering.asn.au/Events/Show/19547
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20349@eventor.orienteering.asn.au
+DTSTAMP:20240217T010520Z
+DTSTART:20240602T000000Z
+DTEND:20240602T040000Z
+SUMMARY:Vic Series 2 - Irishtown, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20349
+GEO:-37.170258598086;144.237870649439
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20115@eventor.orienteering.asn.au
@@ -1570,9 +1594,9 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19684
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20350@eventor.orienteering.asn.au
-DTSTAMP:20240128T084231Z
-DTSTART:20240621T140000Z
-DTEND:20240622T140000Z
+DTSTAMP:20240217T010707Z
+DTSTART:20240622T000000Z
+DTEND:20240622T040000Z
 SUMMARY:Vic Series 3 - Racecourse Creek, Beechworth, Albury-Wodonga Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20350
 END:VEVENT
@@ -1585,21 +1609,21 @@ SUMMARY:ACT Metro Series: incl. Junior League #5, The Pinnacle, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19558
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20351@eventor.orienteering.asn.au
-DTSTAMP:20240128T084231Z
-DTSTART:20240622T140000Z
-DTEND:20240623T140000Z
-SUMMARY:Vic Series 4 - Beechworth Gorge, Albury-Wodonga Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20351
-GEO:-36.3512129196015;146.681499619802
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20288@eventor.orienteering.asn.au
 DTSTAMP:20240125T015055Z
 DTSTART:20240622T233000Z
 DTEND:20240622T233000Z
 SUMMARY:2024 Metro League #3 - Pennant Hills, Bennelong Northside Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20288
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20351@eventor.orienteering.asn.au
+DTSTAMP:20240217T010827Z
+DTSTART:20240623T000000Z
+DTEND:20240623T040000Z
+SUMMARY:Vic Series 4 - Beechworth Gorge, Albury-Wodonga Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20351
+GEO:-36.3512129196015;146.681499619802
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20281@eventor.orienteering.asn.au
@@ -1660,6 +1684,15 @@ SUMMARY:Junior Camp, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19862
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20047@eventor.orienteering.asn.au
+DTSTAMP:20240217T012243Z
+DTSTART:20240707T000000Z
+DTEND:20240707T040000Z
+SUMMARY:Vic MTBO 4 - Tallarook, Dandenong Ranges Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20047
+GEO:-37.119569514583;145.190768990131
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19449@eventor.orienteering.asn.au
 DTSTAMP:20240123T230538Z
 DTSTART:20240713T230000Z
@@ -1685,9 +1718,9 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19581
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20354@eventor.orienteering.asn.au
-DTSTAMP:20240128T084231Z
-DTSTART:20240720T140000Z
-DTEND:20240721T140000Z
+DTSTAMP:20240217T011009Z
+DTSTART:20240721T000000Z
+DTEND:20240721T040000Z
 SUMMARY:Vic Series 5 - Tarrengower, Maldon, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20354
 END:VEVENT
@@ -1764,15 +1797,6 @@ DTSTART:20240803T140000Z
 DTEND:20240804T140000Z
 SUMMARY:OY8 Kings State Forest, Gympie (location tbc), Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19863
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20077@eventor.orienteering.asn.au
-DTSTAMP:20231219T013714Z
-DTSTART:20240803T140000Z
-DTEND:20240804T140000Z
-SUMMARY:Vic MTBO 4 - Bostock Reservoir, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20077
-GEO:-37.6050723706506;144.18712179318
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19561@eventor.orienteering.asn.au
@@ -1875,9 +1899,9 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19550
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20355@eventor.orienteering.asn.au
-DTSTAMP:20240128T084231Z
-DTSTART:20240824T140000Z
-DTEND:20240825T140000Z
+DTSTAMP:20240217T011114Z
+DTSTART:20240825T000000Z
+DTEND:20240825T040000Z
 SUMMARY:Vic Series 6 - Chewton Challenge, Melbourne Forest Racers
 URL:https://eventor.orienteering.asn.au/Events/Show/20355
 END:VEVENT
@@ -2014,19 +2038,19 @@ SUMMARY:Australian MTBO Carnival & Championships: Presentation Dinner, Orienteer
 URL:https://eventor.orienteering.asn.au/Events/Show/19687
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20047@eventor.orienteering.asn.au
-DTSTAMP:20231219T013714Z
-DTSTART:20241026T130000Z
-DTEND:20241027T130000Z
-SUMMARY:Vic MTBO 5 - Tallarook, Dandenong Ranges Orienteering Club / Yarra Valley Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20047
-GEO:-37.119569514583;145.190768990131
+UID:Event_20075@eventor.orienteering.asn.au
+DTSTAMP:20240217T012320Z
+DTSTART:20241026T230000Z
+DTEND:20241027T030000Z
+SUMMARY:Vic MTBO 5 - Lal Lal, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20075
+GEO:-37.710338218982;144.040998007801
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20081@eventor.orienteering.asn.au
-DTSTAMP:20231219T015128Z
-DTSTART:20241123T130000Z
-DTEND:20241124T130000Z
+DTSTAMP:20240217T012400Z
+DTSTART:20241123T230000Z
+DTEND:20241124T030000Z
 SUMMARY:Vic MTBO 6 - Eumerella, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20081
 GEO:-38.4033885161107;144.196873740301

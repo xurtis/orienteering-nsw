@@ -283,7 +283,7 @@ GEO:-32.9033639542;151.745901544013
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20296@eventor.orienteering.asn.au
-DTSTAMP:20240210T211658Z
+DTSTAMP:20240217T011815Z
 DTSTART:20240216T220000Z
 DTEND:20240216T220000Z
 SUMMARY:SOS 3D - Killarney Heights, Bold Horizons Event Organiser
@@ -292,7 +292,7 @@ GEO:-33.7718603548566;151.21522294117
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20295@eventor.orienteering.asn.au
-DTSTAMP:20240210T214105Z
+DTSTAMP:20240217T005410Z
 DTSTART:20240216T223000Z
 DTEND:20240217T010000Z
 SUMMARY:SOS Macarthur - Spring Farm, Bold Horizons Event Organiser / Southern Highlands Orienteers
@@ -319,7 +319,7 @@ GEO:-34.3190977116815;150.919013793464
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19379@eventor.orienteering.asn.au
-DTSTAMP:20240203T082137Z
+DTSTAMP:20240217T043804Z
 DTSTART:20240221T053000Z
 DTEND:20240221T083000Z
 SUMMARY:2023/24 Sydney Summer Series #21 - Castlewood, Western and Hills Orienteers
@@ -389,6 +389,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20299
 GEO:-33.9966089779971;150.885030996843
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20419@eventor.orienteering.asn.au
+DTSTAMP:20240217T051002Z
+DTSTART:20240302T020000Z
+DTEND:20240302T024500Z
+SUMMARY:O'Shea Saturday afternnon event - Rumbalara - individual entry, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20419
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20267@eventor.orienteering.asn.au
 DTSTAMP:20240130T094232Z
 DTSTART:20240302T020000Z
@@ -398,6 +406,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20267
 GEO:-33.4231333396747;151.34879255558
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20421@eventor.orienteering.asn.au
+DTSTAMP:20240217T053006Z
+DTSTART:20240302T084500Z
+DTEND:20240302T084500Z
+SUMMARY:O'Shea Night leg - East Gosford - individual entry, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20421
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20141@eventor.orienteering.asn.au
 DTSTAMP:20240105T022050Z
 DTSTART:20240302T130000Z
@@ -405,6 +421,14 @@ DTEND:20240303T130000Z
 SUMMARY:Women in Sport Expo - Speers Point Park, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20141
 GEO:-32.9615754787454;151.617076782514
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20420@eventor.orienteering.asn.au
+DTSTAMP:20240217T053221Z
+DTSTART:20240302T230000Z
+DTEND:20240302T230000Z
+SUMMARY:O'Shea Sunday morning Score event - Rumbalara - individual entry, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20420
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19915@eventor.orienteering.asn.au
@@ -506,7 +530,7 @@ GEO:-30.5166445306551;151.663850577199
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19383@eventor.orienteering.asn.au
-DTSTAMP:20231219T213427Z
+DTSTAMP:20240217T050109Z
 DTSTART:20240320T053000Z
 DTEND:20240320T083000Z
 SUMMARY:2023/24 Sydney Summer Series #25 - North Rocks, Western and Hills Orienteers
