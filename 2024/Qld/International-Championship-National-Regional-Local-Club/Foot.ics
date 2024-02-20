@@ -199,6 +199,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20159
 GEO:-27.5809009864829;151.987135688915
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20376@eventor.orienteering.asn.au
+DTSTAMP:20240220T044915Z
+DTSTART:20240205T140000Z
+DTEND:20240206T140000Z
+SUMMARY:Night Nav - Bli Bli Parklands, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20376
+GEO:-26.5997470175708;153.018162417275
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18738@eventor.orienteering.asn.au
 DTSTAMP:20240206T110252Z
 DTSTART:20240205T140000Z
@@ -206,15 +215,6 @@ DTEND:20240206T140000Z
 SUMMARY:Night Nav - Toowong- BCC - Term 1 Series - Event #1, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18738
 GEO:-27.4867902242975;152.977181006545
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20376@eventor.orienteering.asn.au
-DTSTAMP:20240129T102247Z
-DTSTART:20240206T080000Z
-DTEND:20240206T080000Z
-SUMMARY:Night Nav - Bli Bli Parklands, Sunshine Orienteers Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20376
-GEO:-26.5997470175708;153.018162417275
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20164@eventor.orienteering.asn.au
@@ -298,9 +298,9 @@ GEO:-27.4975261886443;152.998798224762
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20378@eventor.orienteering.asn.au
-DTSTAMP:20240129T104617Z
-DTSTART:20240213T080000Z
-DTEND:20240213T080000Z
+DTSTAMP:20240220T050540Z
+DTSTART:20240212T140000Z
+DTEND:20240213T140000Z
 SUMMARY:Night Nav - Sunshine Beach, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20378
 GEO:-26.410165424472;153.100844940107
@@ -352,9 +352,9 @@ GEO:-27.5524135324056;151.933815793145
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20220@eventor.orienteering.asn.au
-DTSTAMP:20240211T051901Z
-DTSTART:20240220T073000Z
-DTEND:20240220T073000Z
+DTSTAMP:20240220T122309Z
+DTSTART:20240219T140000Z
+DTEND:20240220T140000Z
 SUMMARY:Night Nav - Chelmer - Term 1 Series - Event #3, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20220
 GEO:-27.5183721634103;152.985483711042
@@ -442,11 +442,12 @@ GEO:-27.4056944736787;152.978309732186
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20153@eventor.orienteering.asn.au
-DTSTAMP:20240127T050246Z
+DTSTAMP:20240220T100238Z
 DTSTART:20240302T053000Z
 DTEND:20240302T053000Z
 SUMMARY:Sprint Series - EN - Event 4 - Oakleigh SS, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20153
+GEO:-27.4366058691192;152.985805144356
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19858@eventor.orienteering.asn.au
@@ -492,6 +493,14 @@ DTEND:20240305T080000Z
 SUMMARY:Night Nav - Marcoola, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20379
 GEO:-26.5748396698239;153.095064420625
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20427@eventor.orienteering.asn.au
+DTSTAMP:20240220T113045Z
+DTSTART:20240306T224500Z
+DTEND:20240306T224500Z
+SUMMARY:Darling Downs School Trials, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20427
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18754@eventor.orienteering.asn.au
@@ -1088,18 +1097,18 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20230
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19736@eventor.orienteering.asn.au
-DTSTAMP:20231104T083512Z
+DTSTAMP:20240220T030851Z
 DTSTART:20240719T140000Z
 DTEND:20240720T140000Z
-SUMMARY:QSOC - Brisbane area, Orienteering Queensland
+SUMMARY:QSOC - Tingalpa, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19736
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19737@eventor.orienteering.asn.au
-DTSTAMP:20231104T083558Z
+DTSTAMP:20240220T030943Z
 DTSTART:20240720T140000Z
 DTEND:20240721T140000Z
-SUMMARY:QSOC - Brisbane area, Orienteering Queensland
+SUMMARY:QSOC - Tingalpa, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19737
 END:VEVENT
 BEGIN:VEVENT

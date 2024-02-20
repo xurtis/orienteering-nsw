@@ -710,6 +710,15 @@ SUMMARY:Orienteering ACT February Board Meeting, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19729
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20376@eventor.orienteering.asn.au
+DTSTAMP:20240220T044915Z
+DTSTART:20240205T140000Z
+DTEND:20240206T140000Z
+SUMMARY:Night Nav - Bli Bli Parklands, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20376
+GEO:-26.5997470175708;153.018162417275
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18738@eventor.orienteering.asn.au
 DTSTAMP:20240206T110252Z
 DTSTART:20240205T140000Z
@@ -717,15 +726,6 @@ DTEND:20240206T140000Z
 SUMMARY:Night Nav - Toowong- BCC - Term 1 Series - Event #1, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18738
 GEO:-27.4867902242975;152.977181006545
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20376@eventor.orienteering.asn.au
-DTSTAMP:20240129T102247Z
-DTSTART:20240206T080000Z
-DTEND:20240206T080000Z
-SUMMARY:Night Nav - Bli Bli Parklands, Sunshine Orienteers Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20376
-GEO:-26.5997470175708;153.018162417275
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20093@eventor.orienteering.asn.au
@@ -980,21 +980,12 @@ GEO:-27.4975261886443;152.998798224762
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20378@eventor.orienteering.asn.au
-DTSTAMP:20240129T104617Z
-DTSTART:20240213T080000Z
-DTEND:20240213T080000Z
+DTSTAMP:20240220T050540Z
+DTSTART:20240212T140000Z
+DTEND:20240213T140000Z
 SUMMARY:Night Nav - Sunshine Beach, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20378
 GEO:-26.410165424472;153.100844940107
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20268@eventor.orienteering.asn.au
-DTSTAMP:20240130T051518Z
-DTSTART:20240213T130000Z
-DTEND:20240214T130000Z
-SUMMARY:Enter All Northern Autumn Twilights at Discounted Rate, Esk Valley
-URL:https://eventor.orienteering.asn.au/Events/Show/20268
-GEO:-41.4421392111804;147.137096217714
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19996@eventor.orienteering.asn.au
@@ -1275,9 +1266,9 @@ GEO:-33.3431730036582;115.632921471803
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20220@eventor.orienteering.asn.au
-DTSTAMP:20240211T051901Z
-DTSTART:20240220T073000Z
-DTEND:20240220T073000Z
+DTSTAMP:20240220T122309Z
+DTSTART:20240219T140000Z
+DTEND:20240220T140000Z
 SUMMARY:Night Nav - Chelmer - Term 1 Series - Event #3, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20220
 GEO:-27.5183721634103;152.985483711042
@@ -1431,6 +1422,7 @@ DTSTART:20240224T220000Z
 DTEND:20240224T233000Z
 SUMMARY:ACT Sprint Series #10, Orana School, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19651
+GEO:-35.3258201505318;149.057798312695
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19641@eventor.orienteering.asn.au
@@ -1519,6 +1511,15 @@ DTSTART:20240227T083000Z
 DTEND:20240227T083000Z
 SUMMARY:Orienteering NSW February Board Meeting, Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/20026
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20268@eventor.orienteering.asn.au
+DTSTAMP:20240219T233608Z
+DTSTART:20240227T130000Z
+DTEND:20240228T130000Z
+SUMMARY:Enter All Northern Autumn Twilights at Discounted Rate, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/20268
+GEO:-41.4421392111804;147.137096217714
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19998@eventor.orienteering.asn.au
@@ -1630,10 +1631,10 @@ GEO:-27.4056944736787;152.978309732186
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20419@eventor.orienteering.asn.au
-DTSTAMP:20240217T051002Z
+DTSTAMP:20240219T224147Z
 DTSTART:20240302T020000Z
 DTEND:20240302T024500Z
-SUMMARY:O'Shea Saturday afternnon event - Rumbalara - individual entry, Central Coast Orienteers
+SUMMARY:O'Shea Saturday afternoon event - Rumbalara - individual entry, Central Coast Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20419
 END:VEVENT
 BEGIN:VEVENT
@@ -1647,11 +1648,12 @@ GEO:-33.4231333396747;151.34879255558
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20153@eventor.orienteering.asn.au
-DTSTAMP:20240127T050246Z
+DTSTAMP:20240220T100238Z
 DTSTART:20240302T053000Z
 DTEND:20240302T053000Z
 SUMMARY:Sprint Series - EN - Event 4 - Oakleigh SS, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20153
+GEO:-27.4366058691192;152.985805144356
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20197@eventor.orienteering.asn.au
@@ -1664,7 +1666,7 @@ GEO:-34.9782704893331;117.930027119365
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20421@eventor.orienteering.asn.au
-DTSTAMP:20240217T053006Z
+DTSTAMP:20240219T230104Z
 DTSTART:20240302T084500Z
 DTEND:20240302T084500Z
 SUMMARY:O'Shea Night leg - East Gosford - individual entry, Central Coast Orienteers
@@ -1707,7 +1709,7 @@ GEO:-28.4336545137;152.033171580824
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20420@eventor.orienteering.asn.au
-DTSTAMP:20240217T053221Z
+DTSTAMP:20240219T230525Z
 DTSTART:20240302T230000Z
 DTEND:20240302T230000Z
 SUMMARY:O'Shea Sunday morning Score event - Rumbalara - individual entry, Central Coast Orienteers
@@ -1751,7 +1753,7 @@ GEO:-37.7959842467356;144.961739773372
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19541@eventor.orienteering.asn.au
-DTSTAMP:20240219T060551Z
+DTSTAMP:20240220T084342Z
 DTSTART:20240303T010000Z
 DTEND:20240303T030000Z
 SUMMARY:ACT Sprint Championships: ACT League #1, Amaroo Schools, Abominable O-Men
@@ -1805,12 +1807,12 @@ GEO:-42.8671184955002;147.323912135867
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19381@eventor.orienteering.asn.au
-DTSTAMP:20240128T233935Z
+DTSTAMP:20240220T060314Z
 DTSTART:20240306T053000Z
 DTEND:20240306T083000Z
 SUMMARY:2023/24 Sydney Summer Series #23 - Lilyfield, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19381
-GEO:-33.8620489712594;151.162949859407
+GEO:-33.8631137917003;151.163550184982
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20254@eventor.orienteering.asn.au
@@ -1837,6 +1839,14 @@ DTSTART:20240306T204000Z
 DTEND:20240306T214500Z
 SUMMARY:SC-ORE #1: Hughes Primary School, Hughes, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/20009
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20427@eventor.orienteering.asn.au
+DTSTAMP:20240220T113045Z
+DTSTART:20240306T224500Z
+DTEND:20240306T224500Z
+SUMMARY:Darling Downs School Trials, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20427
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18754@eventor.orienteering.asn.au
@@ -1936,7 +1946,7 @@ GEO:-32.9731962685724;151.616255555445
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20252@eventor.orienteering.asn.au
-DTSTAMP:20240212T052927Z
+DTSTAMP:20240219T235953Z
 DTSTART:20240309T223000Z
 DTEND:20240310T050000Z
 SUMMARY:Ballarat Sprints Day 2, Eureka Orienteers
@@ -1978,7 +1988,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19965
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20410@eventor.orienteering.asn.au
-DTSTAMP:20240217T014949Z
+DTSTAMP:20240220T073106Z
 DTSTART:20240310T010000Z
 DTEND:20240310T033000Z
 SUMMARY:NavDash 2 Claisebrook, LOST / Orienteering WA
@@ -2527,6 +2537,15 @@ SUMMARY:SC-ORE #4: Forrest Primary School, Forrest, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/20012
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20426@eventor.orienteering.asn.au
+DTSTAMP:20240220T030112Z
+DTSTART:20240403T220000Z
+DTEND:20240404T040000Z
+SUMMARY:Bush Training Day, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20426
+GEO:-34.065089193675;150.835180690856
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18751@eventor.orienteering.asn.au
 DTSTAMP:20240103T094310Z
 DTSTART:20240404T003000Z
@@ -2639,7 +2658,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19574
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20382@eventor.orienteering.asn.au
-DTSTAMP:20240201T040022Z
+DTSTAMP:20240220T004200Z
 DTSTART:20240413T030000Z
 DTEND:20240413T030000Z
 SUMMARY:Highlands Forest Series #1 - Penrose State Forest, Southern Highlands Orienteers
@@ -2656,7 +2675,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20157
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19575@eventor.orienteering.asn.au
-DTSTAMP:20240212T031619Z
+DTSTAMP:20240220T034926Z
 DTSTART:20240413T140000Z
 DTEND:20240414T140000Z
 SUMMARY:2024 NSW State League #4 - Snow Hills (ACT Classic Series; ACT League #3), Big Foot Orienteers / Orienteering ACT
@@ -4063,10 +4082,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19580
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19736@eventor.orienteering.asn.au
-DTSTAMP:20231104T083512Z
+DTSTAMP:20240220T030851Z
 DTSTART:20240719T140000Z
 DTEND:20240720T140000Z
-SUMMARY:QSOC - Brisbane area, Orienteering Queensland
+SUMMARY:QSOC - Tingalpa, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19736
 END:VEVENT
 BEGIN:VEVENT
@@ -4088,10 +4107,10 @@ GEO:-43.0798372000662;147.28589530953
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19737@eventor.orienteering.asn.au
-DTSTAMP:20231104T083558Z
+DTSTAMP:20240220T030943Z
 DTSTART:20240720T140000Z
 DTEND:20240721T140000Z
-SUMMARY:QSOC - Brisbane area, Orienteering Queensland
+SUMMARY:QSOC - Tingalpa, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19737
 END:VEVENT
 BEGIN:VEVENT

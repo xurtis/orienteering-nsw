@@ -30,15 +30,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20149
 GEO:-42.9441502767215;147.353635475261
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20268@eventor.orienteering.asn.au
-DTSTAMP:20240130T051518Z
-DTSTART:20240213T130000Z
-DTEND:20240214T130000Z
-SUMMARY:Enter All Northern Autumn Twilights at Discounted Rate, Esk Valley
-URL:https://eventor.orienteering.asn.au/Events/Show/20268
-GEO:-41.4421392111804;147.137096217714
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19996@eventor.orienteering.asn.au
 DTSTAMP:20240214T083903Z
 DTSTART:20240214T040000Z
@@ -118,6 +109,15 @@ DTEND:20240225T030000Z
 SUMMARY:Tiagarra - Northwest Local Series #1 , Pathfinders
 URL:https://eventor.orienteering.asn.au/Events/Show/20082
 GEO:-41.1631060101621;146.35581049676
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20268@eventor.orienteering.asn.au
+DTSTAMP:20240219T233608Z
+DTSTART:20240227T130000Z
+DTEND:20240228T130000Z
+SUMMARY:Enter All Northern Autumn Twilights at Discounted Rate, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/20268
+GEO:-41.4421392111804;147.137096217714
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19998@eventor.orienteering.asn.au

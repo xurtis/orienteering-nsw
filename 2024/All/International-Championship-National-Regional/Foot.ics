@@ -67,7 +67,7 @@ GEO:-42.4531967341763;147.24022932572
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19541@eventor.orienteering.asn.au
-DTSTAMP:20240219T060551Z
+DTSTAMP:20240220T084342Z
 DTSTART:20240303T010000Z
 DTEND:20240303T030000Z
 SUMMARY:ACT Sprint Championships: ACT League #1, Amaroo Schools, Abominable O-Men
@@ -199,7 +199,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19574
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19575@eventor.orienteering.asn.au
-DTSTAMP:20240212T031619Z
+DTSTAMP:20240220T034926Z
 DTSTART:20240413T140000Z
 DTEND:20240414T140000Z
 SUMMARY:2024 NSW State League #4 - Snow Hills (ACT Classic Series; ACT League #3), Big Foot Orienteers / Orienteering ACT
@@ -684,10 +684,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20249
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19307@eventor.orienteering.asn.au
-DTSTAMP:20230911T183730Z
+DTSTAMP:20240219T233642Z
 DTSTART:20241002T140000Z
 DTEND:20241003T140000Z
-SUMMARY:5A- ASOC Relay Championship- 	Australian Schools Sprint Championships - ENTRY BY STATE TEAM MANAGERS ONLY, Orienteering NSW
+SUMMARY:5A- ASOC Relay Championship- 	Australian Schools Relay Championships - ENTRY BY STATE TEAM MANAGERS ONLY, Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/19307
 GEO:-30.4771169611597;151.682679318196
 END:VEVENT
@@ -701,20 +701,20 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20250
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19309@eventor.orienteering.asn.au
-DTSTAMP:20240112T044211Z
+DTSTAMP:20240219T200219Z
 DTSTART:20241004T140000Z
 DTEND:20241005T140000Z
-SUMMARY:6- Australian Long Championship, Orienteering NSW
+SUMMARY:6- Australian Long Distance Championship, Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/19309
 GEO:-30.4413898023112;151.691731937862
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19310@eventor.orienteering.asn.au
-DTSTAMP:20240115T211207Z
+UID:Event_20425@eventor.orienteering.asn.au
+DTSTAMP:20240219T200133Z
 DTSTART:20241005T140000Z
 DTEND:20241006T130000Z
-SUMMARY:7- Australian Sprint Championship, Orienteering NSW
-URL:https://eventor.orienteering.asn.au/Events/Show/19310
-GEO:-30.4561106276303;151.671137718426
+SUMMARY:7 - Australian Sprint Distance Championship, Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/20425
+GEO:-30.4889553555671;151.637621561402
 END:VEVENT
 END:VCALENDAR
