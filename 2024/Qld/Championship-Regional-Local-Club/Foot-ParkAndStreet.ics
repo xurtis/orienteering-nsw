@@ -333,6 +333,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20151
 GEO:-27.3936138501994;152.933751064678
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20359@eventor.orienteering.asn.au
+DTSTAMP:20240221T012948Z
+DTSTART:20240217T140000Z
+DTEND:20240218T140000Z
+SUMMARY:MapRun Parks 2024 - Kalinga Park, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20359
+GEO:-27.406177;153.0518778
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20241@eventor.orienteering.asn.au
 DTSTAMP:20240213T010440Z
 DTSTART:20240218T050000Z
@@ -349,15 +358,6 @@ DTEND:20240218T070000Z
 SUMMARY:Stanthorpe High School sprint, Bullecourt Boulder Bounders
 URL:https://eventor.orienteering.asn.au/Events/Show/20221
 GEO:-28.6470033077443;151.929657837335
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20359@eventor.orienteering.asn.au
-DTSTAMP:20240211T051810Z
-DTSTART:20240218T060000Z
-DTEND:20240218T060000Z
-SUMMARY:MapRun Parks 2024 - Kalinga Park, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20359
-GEO:-27.406177;153.0518778
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20165@eventor.orienteering.asn.au
@@ -468,15 +468,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20153
 GEO:-27.4366058691192;152.985805144356
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19858@eventor.orienteering.asn.au
-DTSTAMP:20240117T063939Z
-DTSTART:20240302T140000Z
-DTEND:20240303T140000Z
-SUMMARY:OY1 Sprints - Gold Coast, QLD Cyclones
-URL:https://eventor.orienteering.asn.au/Events/Show/19858
-GEO:-27.9430844295674;153.320875970916
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20411@eventor.orienteering.asn.au
 DTSTAMP:20240212T235942Z
 DTSTART:20240302T224500Z
@@ -484,6 +475,15 @@ DTEND:20240303T003000Z
 SUMMARY:Charlies Paddock coaching for beginners, Bullecourt Boulder Bounders
 URL:https://eventor.orienteering.asn.au/Events/Show/20411
 GEO:-28.4336545137;152.033171580824
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19858@eventor.orienteering.asn.au
+DTSTAMP:20240221T110240Z
+DTSTART:20240303T000000Z
+DTEND:20240303T000000Z
+SUMMARY:OY1 Sprint - Pacific Pines SHS, QLD Cyclones
+URL:https://eventor.orienteering.asn.au/Events/Show/19858
+GEO:-27.9430844295674;153.320875970916
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20361@eventor.orienteering.asn.au
@@ -847,10 +847,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20316
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19860@eventor.orienteering.asn.au
-DTSTAMP:20240122T221455Z
+DTSTAMP:20240220T230010Z
 DTSTART:20240511T140000Z
 DTEND:20240512T140000Z
-SUMMARY:OY4 Belmont Hills, Toohey Forest Orienteers
+SUMMARY:OY4 - Belmont Hills, Toohey Forest Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19860
 GEO:-27.5172801876494;153.122054396254
 END:VEVENT
@@ -924,10 +924,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19450
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19451@eventor.orienteering.asn.au
-DTSTAMP:20240123T230048Z
+DTSTAMP:20240220T225938Z
 DTSTART:20240525T230000Z
 DTEND:20240525T230000Z
-SUMMARY:OY - EN - Reedy Creek, Enoggeroos
+SUMMARY:OY6 - EN - Reedy Creek, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/19451
 END:VEVENT
 BEGIN:VEVENT
