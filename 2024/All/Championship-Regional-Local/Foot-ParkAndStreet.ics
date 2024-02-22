@@ -642,7 +642,7 @@ GEO:-33.7471801726549;151.027471993127
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19539@eventor.orienteering.asn.au
-DTSTAMP:20240221T101035Z
+DTSTAMP:20240221T234642Z
 DTSTART:20240221T060000Z
 DTEND:20240221T060000Z
 SUMMARY:Newcastle 2023-24 Summer Street Series Presentation , Newcastle Orienteering Club
@@ -668,7 +668,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20387
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20298@eventor.orienteering.asn.au
-DTSTAMP:20240212T052809Z
+DTSTAMP:20240222T070148Z
 DTSTART:20240223T220000Z
 DTEND:20240224T010000Z
 SUMMARY:SOS 3D - Cherrybrook, Bold Horizons Event Organiser
@@ -677,7 +677,7 @@ GEO:-33.7197810590535;151.037864476245
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20297@eventor.orienteering.asn.au
-DTSTAMP:20240212T051654Z
+DTSTAMP:20240222T064445Z
 DTSTART:20240223T220000Z
 DTEND:20240224T010000Z
 SUMMARY:SOS Macarthur - Rosemeadow, Bold Horizons Event Organiser / Southern Highlands Orienteers
@@ -894,6 +894,7 @@ DTSTART:20240307T051500Z
 DTEND:20240307T063000Z
 SUMMARY:Central Adelaide Schools Zone Event 1 Burnside PS, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/20401
+GEO:-34.9358440467645;138.662316312088
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19973@eventor.orienteering.asn.au
@@ -1006,6 +1007,7 @@ DTSTART:20240314T051500Z
 DTEND:20240314T063000Z
 SUMMARY:Central Adelaide Schools Zone Event 2 Black Forest PS, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/20399
+GEO:-34.9608474530336;138.574749901113
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20273@eventor.orienteering.asn.au
@@ -1026,14 +1028,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19572
 GEO:-33.8019821072878;149.041077535894
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19859@eventor.orienteering.asn.au
-DTSTAMP:20240218T234010Z
-DTSTART:20240316T140000Z
-DTEND:20240317T140000Z
-SUMMARY:OY2 - Leyburn South, Range Runners Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19859
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19573@eventor.orienteering.asn.au
 DTSTAMP:20240219T010424Z
 DTSTART:20240316T223000Z
@@ -1041,6 +1035,15 @@ DTEND:20240317T023000Z
 SUMMARY:2024 NSW State League #2 - Ophir, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19573
 GEO:-33.185224;149.238215
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19859@eventor.orienteering.asn.au
+DTSTAMP:20240222T041933Z
+DTSTART:20240316T230000Z
+DTEND:20240317T030000Z
+SUMMARY:OY2 - Leyburn South, Orienteering Queensland / Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19859
+GEO:-28.0575275734437;151.651585023453
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19713@eventor.orienteering.asn.au
@@ -1111,7 +1114,7 @@ DTSTART:20240321T051500Z
 DTEND:20240321T063000Z
 SUMMARY:Central Adelaide Schools Zone Event 3 Linden Park PS, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/20400
-GEO:-34.9480095019227;138.644737009755
+GEO:-34.9474391367716;138.644609606036
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20304@eventor.orienteering.asn.au
@@ -1245,9 +1248,9 @@ GEO:-34.621273291048;150.213279576268
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19575@eventor.orienteering.asn.au
-DTSTAMP:20240220T034926Z
-DTSTART:20240413T140000Z
-DTEND:20240414T140000Z
+DTSTAMP:20240221T214645Z
+DTSTART:20240413T233000Z
+DTEND:20240414T030000Z
 SUMMARY:2024 NSW State League #4 - Snow Hills (ACT Classic Series; ACT League #3), Big Foot Orienteers / Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19575
 GEO:-35.2168938292715;149.800109063075
@@ -1306,10 +1309,10 @@ GEO:-28.6445734021208;151.947234145067
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19544@eventor.orienteering.asn.au
-DTSTAMP:20230921T023011Z
+DTSTAMP:20240221T222741Z
 DTSTART:20240504T140000Z
 DTEND:20240505T140000Z
-SUMMARY:ACT Classic Series: ACT League #6, Broulee, Red Roos
+SUMMARY:ACT Classic Series: ACT League #6, Broulee Dunes, Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/19544
 END:VEVENT
 BEGIN:VEVENT
@@ -1592,20 +1595,21 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19554
 GEO:-35.3875155005967;149.208288059862
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19579@eventor.orienteering.asn.au
-DTSTAMP:20231113T034344Z
-DTSTART:20240629T140000Z
-DTEND:20240630T140000Z
-SUMMARY:2024 NSW State League #9 - Kentlyn, Southern Highlands Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19579
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20111@eventor.orienteering.asn.au
 DTSTAMP:20231229T234509Z
 DTSTART:20240629T140000Z
 DTEND:20240630T140000Z
 SUMMARY:Brookstead - Long Distance - OST 9, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/20111
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19579@eventor.orienteering.asn.au
+DTSTAMP:20240222T051144Z
+DTSTART:20240629T233000Z
+DTEND:20240629T233000Z
+SUMMARY:2024 NSW State League #9 Middle Distance - Kentlyn, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19579
+GEO:-34.0682419603806;150.85135344209
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19685@eventor.orienteering.asn.au

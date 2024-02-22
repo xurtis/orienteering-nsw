@@ -1854,7 +1854,7 @@ GEO:-33.7471801726549;151.027471993127
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19539@eventor.orienteering.asn.au
-DTSTAMP:20240221T101035Z
+DTSTAMP:20240221T234642Z
 DTSTART:20240221T060000Z
 DTEND:20240221T060000Z
 SUMMARY:Newcastle 2023-24 Summer Street Series Presentation , Newcastle Orienteering Club
@@ -1923,7 +1923,7 @@ GEO:-12.4489806945403;130.846983867889
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20033@eventor.orienteering.asn.au
-DTSTAMP:20240207T221704Z
+DTSTAMP:20240222T081824Z
 DTSTART:20240223T070000Z
 DTEND:20240223T083000Z
 SUMMARY:Goldseekers Summer Series #4 2024, Goldseekers Orienteers
@@ -1948,7 +1948,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20387
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20298@eventor.orienteering.asn.au
-DTSTAMP:20240212T052809Z
+DTSTAMP:20240222T070148Z
 DTSTART:20240223T220000Z
 DTEND:20240224T010000Z
 SUMMARY:SOS 3D - Cherrybrook, Bold Horizons Event Organiser
@@ -1957,7 +1957,7 @@ GEO:-33.7197810590535;151.037864476245
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20297@eventor.orienteering.asn.au
-DTSTAMP:20240212T051654Z
+DTSTAMP:20240222T064445Z
 DTSTART:20240223T220000Z
 DTEND:20240224T010000Z
 SUMMARY:SOS Macarthur - Rosemeadow, Bold Horizons Event Organiser / Southern Highlands Orienteers
@@ -2376,7 +2376,7 @@ GEO:-35.074041069437;138.595233012356
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19858@eventor.orienteering.asn.au
-DTSTAMP:20240221T110240Z
+DTSTAMP:20240222T124109Z
 DTSTART:20240303T000000Z
 DTEND:20240303T000000Z
 SUMMARY:OY1 Sprint - Pacific Pines SHS, QLD Cyclones
@@ -2555,6 +2555,7 @@ DTSTART:20240307T051500Z
 DTEND:20240307T063000Z
 SUMMARY:Central Adelaide Schools Zone Event 1 Burnside PS, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/20401
+GEO:-34.9358440467645;138.662316312088
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19949@eventor.orienteering.asn.au
@@ -2722,9 +2723,9 @@ GEO:-27.6015484743879;153.146459185404
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20189@eventor.orienteering.asn.au
-DTSTAMP:20240113T035635Z
+DTSTAMP:20240222T080548Z
 DTSTART:20240310T073000Z
-DTEND:20240310T093000Z
+DTEND:20240310T090000Z
 SUMMARY:Australind (SWOT Urban Series 4), South-West Orienteering Trekkers
 URL:https://eventor.orienteering.asn.au/Events/Show/20189
 END:VEVENT
@@ -2897,6 +2898,7 @@ DTSTART:20240314T051500Z
 DTEND:20240314T063000Z
 SUMMARY:Central Adelaide Schools Zone Event 2 Black Forest PS, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/20399
+GEO:-34.9608474530336;138.574749901113
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19957@eventor.orienteering.asn.au
@@ -2985,14 +2987,6 @@ SUMMARY:Romaine Reserve - Northwest Local Series #2, Pathfinders
 URL:https://eventor.orienteering.asn.au/Events/Show/20083
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19859@eventor.orienteering.asn.au
-DTSTAMP:20240218T234010Z
-DTSTART:20240316T140000Z
-DTEND:20240317T140000Z
-SUMMARY:OY2 - Leyburn South, Range Runners Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19859
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19573@eventor.orienteering.asn.au
 DTSTAMP:20240219T010424Z
 DTSTART:20240316T223000Z
@@ -3000,6 +2994,15 @@ DTEND:20240317T023000Z
 SUMMARY:2024 NSW State League #2 - Ophir, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19573
 GEO:-33.185224;149.238215
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19859@eventor.orienteering.asn.au
+DTSTAMP:20240222T041933Z
+DTSTART:20240316T230000Z
+DTEND:20240317T030000Z
+SUMMARY:OY2 - Leyburn South, Orienteering Queensland / Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19859
+GEO:-28.0575275734437;151.651585023453
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19713@eventor.orienteering.asn.au
@@ -3198,7 +3201,7 @@ DTSTART:20240321T051500Z
 DTEND:20240321T063000Z
 SUMMARY:Central Adelaide Schools Zone Event 3 Linden Park PS, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/20400
-GEO:-34.9480095019227;138.644737009755
+GEO:-34.9474391367716;138.644609606036
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20207@eventor.orienteering.asn.au
@@ -3599,15 +3602,6 @@ SUMMARY:Sprint Series - EN - Event 8, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20157
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19575@eventor.orienteering.asn.au
-DTSTAMP:20240220T034926Z
-DTSTART:20240413T140000Z
-DTEND:20240414T140000Z
-SUMMARY:2024 NSW State League #4 - Snow Hills (ACT Classic Series; ACT League #3), Big Foot Orienteers / Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/19575
-GEO:-35.2168938292715;149.800109063075
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20084@eventor.orienteering.asn.au
 DTSTAMP:20231220T013510Z
 DTSTART:20240413T140000Z
@@ -3632,6 +3626,15 @@ DTEND:20240414T010000Z
 SUMMARY:Bush Trail orienteering at Coombabah Lakelands, Paradise Lost Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20389
 GEO:-27.9198521597297;153.377034678758
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19575@eventor.orienteering.asn.au
+DTSTAMP:20240221T214645Z
+DTSTART:20240413T233000Z
+DTEND:20240414T030000Z
+SUMMARY:2024 NSW State League #4 - Snow Hills (ACT Classic Series; ACT League #3), Big Foot Orienteers / Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19575
+GEO:-35.2168938292715;149.800109063075
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20356@eventor.orienteering.asn.au
@@ -3900,6 +3903,15 @@ SUMMARY:False Bay, Saltbush Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20307
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20430@eventor.orienteering.asn.au
+DTSTAMP:20240222T050613Z
+DTSTART:20240428T010000Z
+DTEND:20240428T010000Z
+SUMMARY:Activity Day, Abbey Walk, Dandenong Ranges Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20430
+GEO:-37.8423219451486;145.211414130977
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20330@eventor.orienteering.asn.au
 DTSTAMP:20240126T055415Z
 DTSTART:20240430T073000Z
@@ -3953,10 +3965,10 @@ GEO:-28.6445734021208;151.947234145067
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19544@eventor.orienteering.asn.au
-DTSTAMP:20230921T023011Z
+DTSTAMP:20240221T222741Z
 DTSTART:20240504T140000Z
 DTEND:20240505T140000Z
-SUMMARY:ACT Classic Series: ACT League #6, Broulee, Red Roos
+SUMMARY:ACT Classic Series: ACT League #6, Broulee Dunes, Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/19544
 END:VEVENT
 BEGIN:VEVENT
@@ -4855,20 +4867,21 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20217
 GEO:-35.2568979261021;138.891149269729
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19579@eventor.orienteering.asn.au
-DTSTAMP:20231113T034344Z
-DTSTART:20240629T140000Z
-DTEND:20240630T140000Z
-SUMMARY:2024 NSW State League #9 - Kentlyn, Southern Highlands Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19579
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20111@eventor.orienteering.asn.au
 DTSTAMP:20231229T234509Z
 DTSTART:20240629T140000Z
 DTEND:20240630T140000Z
 SUMMARY:Brookstead - Long Distance - OST 9, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/20111
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19579@eventor.orienteering.asn.au
+DTSTAMP:20240222T051144Z
+DTSTART:20240629T233000Z
+DTEND:20240629T233000Z
+SUMMARY:2024 NSW State League #9 Middle Distance - Kentlyn, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19579
+GEO:-34.0682419603806;150.85135344209
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20367@eventor.orienteering.asn.au
@@ -5871,19 +5884,19 @@ GEO:-30.6609913675449;151.485387844755
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19312@eventor.orienteering.asn.au
-DTSTAMP:20230911T182757Z
+DTSTAMP:20240221T204407Z
 DTSTART:20240928T140000Z
 DTEND:20240929T140000Z
-SUMMARY:2B  Australian Relay Championship- State Selectors only, Orienteering NSW
+SUMMARY:2B  Australian Relay Championship- State & Team Selectors only, Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/19312
 GEO:-30.4649152733972;151.718274808253
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19303@eventor.orienteering.asn.au
-DTSTAMP:20230911T183331Z
+DTSTAMP:20240221T204541Z
 DTSTART:20240930T140000Z
 DTEND:20241001T140000Z
-SUMMARY:3A- ASOC Sprint Championship- 	Australian Schools Sprint Championships - ENTRY BY STATE TEAM MANAGERS ONLY, Orienteering NSW
+SUMMARY:3A- Australian Schools Sprint Championships - ENTRY BY STATE TEAM MANAGERS ONLY, Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/19303
 GEO:-30.5050010642412;151.686031413461
 END:VEVENT
@@ -5906,10 +5919,10 @@ GEO:-30.5216309515829;151.67355221485
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19305@eventor.orienteering.asn.au
-DTSTAMP:20240121T205637Z
+DTSTAMP:20240221T204633Z
 DTSTART:20241001T140000Z
 DTEND:20241002T140000Z
-SUMMARY:4A- ASOC Long Championship- 	Australian Schools Long Championships - ENTRY BY STATE TEAM MANAGERS ONLY, Orienteering NSW
+SUMMARY:4A- Australian Schools Long Distance Championships - ENTRY BY STATE TEAM MANAGERS ONLY, Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/19305
 GEO:-30.4566250031145;151.696880474483
 END:VEVENT
@@ -5923,10 +5936,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20249
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19307@eventor.orienteering.asn.au
-DTSTAMP:20240219T233642Z
+DTSTAMP:20240221T204717Z
 DTSTART:20241002T140000Z
 DTEND:20241003T140000Z
-SUMMARY:5A- ASOC Relay Championship- 	Australian Schools Relay Championships - ENTRY BY STATE TEAM MANAGERS ONLY, Orienteering NSW
+SUMMARY:5A- Australian Schools Relay Championships - ENTRY BY STATE TEAM MANAGERS ONLY, Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/19307
 GEO:-30.4771169611597;151.682679318196
 END:VEVENT
@@ -6302,6 +6315,14 @@ DTSTART:20241218T000000Z
 DTEND:20241218T023000Z
 SUMMARY:Midweek Training at TBA, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/20104
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20429@eventor.orienteering.asn.au
+DTSTAMP:20240222T041114Z
+DTSTART:20241230T130000Z
+DTEND:20241231T130000Z
+SUMMARY:Bennelong Northside Club Communication, Bennelong Northside Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20429
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20388@eventor.orienteering.asn.au

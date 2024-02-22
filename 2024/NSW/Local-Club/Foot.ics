@@ -407,7 +407,7 @@ GEO:-30.4906283315646;151.639982583855
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20033@eventor.orienteering.asn.au
-DTSTAMP:20240207T221704Z
+DTSTAMP:20240222T081824Z
 DTSTART:20240223T070000Z
 DTEND:20240223T083000Z
 SUMMARY:Goldseekers Summer Series #4 2024, Goldseekers Orienteers
@@ -415,7 +415,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20033
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20298@eventor.orienteering.asn.au
-DTSTAMP:20240212T052809Z
+DTSTAMP:20240222T070148Z
 DTSTART:20240223T220000Z
 DTEND:20240224T010000Z
 SUMMARY:SOS 3D - Cherrybrook, Bold Horizons Event Organiser
@@ -424,7 +424,7 @@ GEO:-33.7197810590535;151.037864476245
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20297@eventor.orienteering.asn.au
-DTSTAMP:20240212T051654Z
+DTSTAMP:20240222T064445Z
 DTSTART:20240223T220000Z
 DTEND:20240224T010000Z
 SUMMARY:SOS Macarthur - Rosemeadow, Bold Horizons Event Organiser / Southern Highlands Orienteers
@@ -1249,6 +1249,14 @@ DTSTART:20241214T130000Z
 DTEND:20241215T130000Z
 SUMMARY:Waggaroos Summer Series 2024-25 #3. Location TBA., Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19819
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20429@eventor.orienteering.asn.au
+DTSTAMP:20240222T041114Z
+DTSTART:20241230T130000Z
+DTEND:20241231T130000Z
+SUMMARY:Bennelong Northside Club Communication, Bennelong Northside Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20429
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20388@eventor.orienteering.asn.au

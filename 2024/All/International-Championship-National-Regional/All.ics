@@ -110,14 +110,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19572
 GEO:-33.8019821072878;149.041077535894
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19859@eventor.orienteering.asn.au
-DTSTAMP:20240218T234010Z
-DTSTART:20240316T140000Z
-DTEND:20240317T140000Z
-SUMMARY:OY2 - Leyburn South, Range Runners Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19859
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19573@eventor.orienteering.asn.au
 DTSTAMP:20240219T010424Z
 DTSTART:20240316T223000Z
@@ -125,6 +117,15 @@ DTEND:20240317T023000Z
 SUMMARY:2024 NSW State League #2 - Ophir, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19573
 GEO:-33.185224;149.238215
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19859@eventor.orienteering.asn.au
+DTSTAMP:20240222T041933Z
+DTSTART:20240316T230000Z
+DTEND:20240317T030000Z
+SUMMARY:OY2 - Leyburn South, Orienteering Queensland / Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19859
+GEO:-28.0575275734437;151.651585023453
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19713@eventor.orienteering.asn.au
@@ -217,9 +218,9 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19574
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19575@eventor.orienteering.asn.au
-DTSTAMP:20240220T034926Z
-DTSTART:20240413T140000Z
-DTEND:20240414T140000Z
+DTSTAMP:20240221T214645Z
+DTSTART:20240413T233000Z
+DTEND:20240414T030000Z
 SUMMARY:2024 NSW State League #4 - Snow Hills (ACT Classic Series; ACT League #3), Big Foot Orienteers / Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19575
 GEO:-35.2168938292715;149.800109063075
@@ -304,10 +305,10 @@ GEO:-28.6445734021208;151.947234145067
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19544@eventor.orienteering.asn.au
-DTSTAMP:20230921T023011Z
+DTSTAMP:20240221T222741Z
 DTSTART:20240504T140000Z
 DTEND:20240505T140000Z
-SUMMARY:ACT Classic Series: ACT League #6, Broulee, Red Roos
+SUMMARY:ACT Classic Series: ACT League #6, Broulee Dunes, Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/19544
 END:VEVENT
 BEGIN:VEVENT
@@ -465,20 +466,21 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19554
 GEO:-35.3875155005967;149.208288059862
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19579@eventor.orienteering.asn.au
-DTSTAMP:20231113T034344Z
-DTSTART:20240629T140000Z
-DTEND:20240630T140000Z
-SUMMARY:2024 NSW State League #9 - Kentlyn, Southern Highlands Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19579
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20111@eventor.orienteering.asn.au
 DTSTAMP:20231229T234509Z
 DTSTART:20240629T140000Z
 DTEND:20240630T140000Z
 SUMMARY:Brookstead - Long Distance - OST 9, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/20111
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19579@eventor.orienteering.asn.au
+DTSTAMP:20240222T051144Z
+DTSTART:20240629T233000Z
+DTEND:20240629T233000Z
+SUMMARY:2024 NSW State League #9 Middle Distance - Kentlyn, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19579
+GEO:-34.0682419603806;150.85135344209
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19862@eventor.orienteering.asn.au
@@ -747,19 +749,19 @@ GEO:-30.6609913675449;151.485387844755
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19312@eventor.orienteering.asn.au
-DTSTAMP:20230911T182757Z
+DTSTAMP:20240221T204407Z
 DTSTART:20240928T140000Z
 DTEND:20240929T140000Z
-SUMMARY:2B  Australian Relay Championship- State Selectors only, Orienteering NSW
+SUMMARY:2B  Australian Relay Championship- State & Team Selectors only, Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/19312
 GEO:-30.4649152733972;151.718274808253
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19303@eventor.orienteering.asn.au
-DTSTAMP:20230911T183331Z
+DTSTAMP:20240221T204541Z
 DTSTART:20240930T140000Z
 DTEND:20241001T140000Z
-SUMMARY:3A- ASOC Sprint Championship- 	Australian Schools Sprint Championships - ENTRY BY STATE TEAM MANAGERS ONLY, Orienteering NSW
+SUMMARY:3A- Australian Schools Sprint Championships - ENTRY BY STATE TEAM MANAGERS ONLY, Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/19303
 GEO:-30.5050010642412;151.686031413461
 END:VEVENT
@@ -773,10 +775,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20248
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19305@eventor.orienteering.asn.au
-DTSTAMP:20240121T205637Z
+DTSTAMP:20240221T204633Z
 DTSTART:20241001T140000Z
 DTEND:20241002T140000Z
-SUMMARY:4A- ASOC Long Championship- 	Australian Schools Long Championships - ENTRY BY STATE TEAM MANAGERS ONLY, Orienteering NSW
+SUMMARY:4A- Australian Schools Long Distance Championships - ENTRY BY STATE TEAM MANAGERS ONLY, Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/19305
 GEO:-30.4566250031145;151.696880474483
 END:VEVENT
@@ -790,10 +792,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20249
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19307@eventor.orienteering.asn.au
-DTSTAMP:20240219T233642Z
+DTSTAMP:20240221T204717Z
 DTSTART:20241002T140000Z
 DTEND:20241003T140000Z
-SUMMARY:5A- ASOC Relay Championship- 	Australian Schools Relay Championships - ENTRY BY STATE TEAM MANAGERS ONLY, Orienteering NSW
+SUMMARY:5A- Australian Schools Relay Championships - ENTRY BY STATE TEAM MANAGERS ONLY, Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/19307
 GEO:-30.4771169611597;151.682679318196
 END:VEVENT
