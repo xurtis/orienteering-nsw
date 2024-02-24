@@ -686,7 +686,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20387
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20298@eventor.orienteering.asn.au
-DTSTAMP:20240222T070148Z
+DTSTAMP:20240224T012127Z
 DTSTART:20240223T220000Z
 DTEND:20240224T010000Z
 SUMMARY:SOS 3D - Cherrybrook, Bold Horizons Event Organiser
@@ -695,7 +695,7 @@ GEO:-33.7197810590535;151.037864476245
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20297@eventor.orienteering.asn.au
-DTSTAMP:20240222T064445Z
+DTSTAMP:20240224T012833Z
 DTSTART:20240223T220000Z
 DTEND:20240224T010000Z
 SUMMARY:SOS Macarthur - Rosemeadow, Bold Horizons Event Organiser / Southern Highlands Orienteers
@@ -704,7 +704,7 @@ GEO:-34.1000001281475;150.801579531026
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19568@eventor.orienteering.asn.au
-DTSTAMP:20240126T132155Z
+DTSTAMP:20240224T015524Z
 DTSTART:20240223T220000Z
 DTEND:20240224T020000Z
 SUMMARY:ACT MTBO Series #1: Majura Pines + Come & Try MTBO, Orienteering ACT / Red Roos
@@ -736,6 +736,15 @@ DTEND:20240226T090000Z
 SUMMARY:ACT MapRun Street Series: McKellar, 22-26 Feb, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19986
 GEO:-35.216627888784;149.075786770683
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20432@eventor.orienteering.asn.au
+DTSTAMP:20240224T063228Z
+DTSTART:20240226T083000Z
+DTEND:20240226T083000Z
+SUMMARY:Learn to Orienteer Virtual Launch, Orienteering Australia
+URL:https://eventor.orienteering.asn.au/Events/Show/20432
+GEO:-38.007625482671;144.848835091797
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20176@eventor.orienteering.asn.au
@@ -835,21 +844,21 @@ SUMMARY:O'Shea Night leg - East Gosford - individual entry, Central Coast Orient
 URL:https://eventor.orienteering.asn.au/Events/Show/20421
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20141@eventor.orienteering.asn.au
-DTSTAMP:20240105T022050Z
-DTSTART:20240302T130000Z
-DTEND:20240303T130000Z
-SUMMARY:Women in Sport Expo - Speers Point Park, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20141
-GEO:-32.9615754787454;151.617076782514
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20420@eventor.orienteering.asn.au
 DTSTAMP:20240219T230525Z
 DTSTART:20240302T230000Z
 DTEND:20240302T230000Z
 SUMMARY:O'Shea Sunday morning Score event - Rumbalara - individual entry, Central Coast Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20420
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20141@eventor.orienteering.asn.au
+DTSTAMP:20240224T034155Z
+DTSTART:20240302T230000Z
+DTEND:20240302T230000Z
+SUMMARY:Women in Sport Expo - Speers Point Park, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20141
+GEO:-32.9615754787454;151.617076782514
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19915@eventor.orienteering.asn.au
@@ -889,7 +898,7 @@ GEO:-37.5519788801262;143.873493740234
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19381@eventor.orienteering.asn.au
-DTSTAMP:20240220T060314Z
+DTSTAMP:20240223T230151Z
 DTSTART:20240306T053000Z
 DTEND:20240306T083000Z
 SUMMARY:2023/24 Sydney Summer Series #23 - Lilyfield, Uringa Orienteers
@@ -1064,22 +1073,22 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19573
 GEO:-33.185224;149.238215
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19713@eventor.orienteering.asn.au
+DTSTAMP:20240224T072604Z
+DTSTART:20240316T230000Z
+DTEND:20240317T013000Z
+SUMMARY:Victorian Club Relays - Royal Park, Parkville, Melbourne Forest Racers
+URL:https://eventor.orienteering.asn.au/Events/Show/19713
+GEO:-37.7874063845404;144.95011889766
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19859@eventor.orienteering.asn.au
-DTSTAMP:20240222T041933Z
+DTSTAMP:20240224T054104Z
 DTSTART:20240316T230000Z
 DTEND:20240317T030000Z
 SUMMARY:OY2 - Leyburn South, Orienteering Queensland / Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19859
 GEO:-28.0575275734437;151.651585023453
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19713@eventor.orienteering.asn.au
-DTSTAMP:20240219T085127Z
-DTSTART:20240317T000000Z
-DTEND:20240317T023000Z
-SUMMARY:Victorian Club Relays - Royal Park, Parkville, Melbourne Forest Racers
-URL:https://eventor.orienteering.asn.au/Events/Show/19713
-GEO:-37.7874063845404;144.95011889766
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20375@eventor.orienteering.asn.au

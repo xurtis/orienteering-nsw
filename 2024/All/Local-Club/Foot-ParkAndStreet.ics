@@ -1868,7 +1868,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20033
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20045@eventor.orienteering.asn.au
-DTSTAMP:20240219T052112Z
+DTSTAMP:20240223T223029Z
 DTSTART:20240223T080000Z
 DTEND:20240223T093000Z
 SUMMARY:Snap Sprint Series Race 4 - Glenelg, SA Arrows
@@ -1885,7 +1885,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20387
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20298@eventor.orienteering.asn.au
-DTSTAMP:20240222T070148Z
+DTSTAMP:20240224T012127Z
 DTSTART:20240223T220000Z
 DTEND:20240224T010000Z
 SUMMARY:SOS 3D - Cherrybrook, Bold Horizons Event Organiser
@@ -1894,7 +1894,7 @@ GEO:-33.7197810590535;151.037864476245
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20297@eventor.orienteering.asn.au
-DTSTAMP:20240222T064445Z
+DTSTAMP:20240224T012833Z
 DTSTART:20240223T220000Z
 DTEND:20240224T010000Z
 SUMMARY:SOS Macarthur - Rosemeadow, Bold Horizons Event Organiser / Southern Highlands Orienteers
@@ -1903,7 +1903,7 @@ GEO:-34.1000001281475;150.801579531026
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20152@eventor.orienteering.asn.au
-DTSTAMP:20240218T051625Z
+DTSTAMP:20240224T065446Z
 DTSTART:20240224T053000Z
 DTEND:20240224T053000Z
 SUMMARY:Sprint Series - EN - Event 3 - Ferny Grove SHS, Enoggeroos
@@ -1912,7 +1912,7 @@ GEO:-27.406249670657;152.936323544748
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20090@eventor.orienteering.asn.au
-DTSTAMP:20240219T030803Z
+DTSTAMP:20240224T093301Z
 DTSTART:20240224T073000Z
 DTEND:20240225T010000Z
 SUMMARY:BendiGo ToDay, Bendigo Orienteers
@@ -1947,10 +1947,10 @@ GEO:-26.7189383117615;153.061558060284
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20082@eventor.orienteering.asn.au
-DTSTAMP:20240215T084059Z
+DTSTAMP:20240223T232803Z
 DTSTART:20240225T000000Z
 DTEND:20240225T030000Z
-SUMMARY:Tiagarra - Northwest Local Series #1 , Pathfinders
+SUMMARY:Tiagarra - Northwest Local Series  *** CANCELLED, Pathfinders
 URL:https://eventor.orienteering.asn.au/Events/Show/20082
 GEO:-41.1631060101621;146.35581049676
 END:VEVENT
@@ -2015,6 +2015,15 @@ DTSTART:20240226T073000Z
 DTEND:20240226T091500Z
 SUMMARY:Melbourne Park Street Monday Summer Series - HIgh Hampton - PARK STREET CHAMPIONSHIP, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19917
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20432@eventor.orienteering.asn.au
+DTSTAMP:20240224T063228Z
+DTSTART:20240226T083000Z
+DTEND:20240226T083000Z
+SUMMARY:Learn to Orienteer Virtual Launch, Orienteering Australia
+URL:https://eventor.orienteering.asn.au/Events/Show/20432
+GEO:-38.007625482671;144.848835091797
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20176@eventor.orienteering.asn.au
@@ -2156,7 +2165,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19948
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20263@eventor.orienteering.asn.au
-DTSTAMP:20240123T140826Z
+DTSTAMP:20240223T143245Z
 DTSTART:20240229T143000Z
 DTEND:20240301T143000Z
 SUMMARY:NT: 2024 Wet Season Series Event 5 - Parap/Ludmilla, Top End Orienteers
@@ -2243,17 +2252,8 @@ SUMMARY:O'Shea Night leg - East Gosford - individual entry, Central Coast Orient
 URL:https://eventor.orienteering.asn.au/Events/Show/20421
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20141@eventor.orienteering.asn.au
-DTSTAMP:20240105T022050Z
-DTSTART:20240302T130000Z
-DTEND:20240303T130000Z
-SUMMARY:Women in Sport Expo - Speers Point Park, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20141
-GEO:-32.9615754787454;151.617076782514
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19769@eventor.orienteering.asn.au
-DTSTAMP:20231116T062945Z
+DTSTAMP:20240224T034626Z
 DTSTART:20240302T220000Z
 DTEND:20240303T000000Z
 SUMMARY:Waggaroos Summer Series 2023-24 #6, Wagga and Riverina Occasional Orienteers
@@ -2275,6 +2275,15 @@ DTSTART:20240302T230000Z
 DTEND:20240302T230000Z
 SUMMARY:O'Shea Sunday morning Score event - Rumbalara - individual entry, Central Coast Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20420
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20141@eventor.orienteering.asn.au
+DTSTAMP:20240224T034155Z
+DTSTART:20240302T230000Z
+DTEND:20240302T230000Z
+SUMMARY:Women in Sport Expo - Speers Point Park, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20141
+GEO:-32.9615754787454;151.617076782514
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19935@eventor.orienteering.asn.au
@@ -2410,7 +2419,7 @@ GEO:-42.8671184955002;147.323912135867
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19381@eventor.orienteering.asn.au
-DTSTAMP:20240220T060314Z
+DTSTAMP:20240223T230151Z
 DTSTART:20240306T053000Z
 DTEND:20240306T083000Z
 SUMMARY:2023/24 Sydney Summer Series #23 - Lilyfield, Uringa Orienteers

@@ -505,7 +505,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20033
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20298@eventor.orienteering.asn.au
-DTSTAMP:20240222T070148Z
+DTSTAMP:20240224T012127Z
 DTSTART:20240223T220000Z
 DTEND:20240224T010000Z
 SUMMARY:SOS 3D - Cherrybrook, Bold Horizons Event Organiser
@@ -514,7 +514,7 @@ GEO:-33.7197810590535;151.037864476245
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20297@eventor.orienteering.asn.au
-DTSTAMP:20240222T064445Z
+DTSTAMP:20240224T012833Z
 DTSTART:20240223T220000Z
 DTEND:20240224T010000Z
 SUMMARY:SOS Macarthur - Rosemeadow, Bold Horizons Event Organiser / Southern Highlands Orienteers
@@ -600,17 +600,8 @@ SUMMARY:O'Shea Night leg - East Gosford - individual entry, Central Coast Orient
 URL:https://eventor.orienteering.asn.au/Events/Show/20421
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20141@eventor.orienteering.asn.au
-DTSTAMP:20240105T022050Z
-DTSTART:20240302T130000Z
-DTEND:20240303T130000Z
-SUMMARY:Women in Sport Expo - Speers Point Park, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20141
-GEO:-32.9615754787454;151.617076782514
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19769@eventor.orienteering.asn.au
-DTSTAMP:20231116T062945Z
+DTSTAMP:20240224T034626Z
 DTSTART:20240302T220000Z
 DTEND:20240303T000000Z
 SUMMARY:Waggaroos Summer Series 2023-24 #6, Wagga and Riverina Occasional Orienteers
@@ -623,6 +614,15 @@ DTSTART:20240302T230000Z
 DTEND:20240302T230000Z
 SUMMARY:O'Shea Sunday morning Score event - Rumbalara - individual entry, Central Coast Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20420
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20141@eventor.orienteering.asn.au
+DTSTAMP:20240224T034155Z
+DTSTART:20240302T230000Z
+DTEND:20240302T230000Z
+SUMMARY:Women in Sport Expo - Speers Point Park, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20141
+GEO:-32.9615754787454;151.617076782514
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20403@eventor.orienteering.asn.au
@@ -644,7 +644,7 @@ GEO:-34.5901434935816;150.863934105374
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19381@eventor.orienteering.asn.au
-DTSTAMP:20240220T060314Z
+DTSTAMP:20240223T230151Z
 DTSTART:20240306T053000Z
 DTEND:20240306T083000Z
 SUMMARY:2023/24 Sydney Summer Series #23 - Lilyfield, Uringa Orienteers
