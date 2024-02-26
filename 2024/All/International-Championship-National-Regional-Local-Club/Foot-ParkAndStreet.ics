@@ -1889,7 +1889,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19938
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19829@eventor.orienteering.asn.au
-DTSTAMP:20240113T032619Z
+DTSTAMP:20240226T054152Z
 DTSTART:20240222T060000Z
 DTEND:20240222T080000Z
 SUMMARY:Twilight #9, Northern Tablelands Orienteering Club
@@ -1975,7 +1975,7 @@ GEO:-27.406249670657;152.936323544748
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20090@eventor.orienteering.asn.au
-DTSTAMP:20240224T093301Z
+DTSTAMP:20240226T011948Z
 DTSTART:20240224T073000Z
 DTEND:20240225T010000Z
 SUMMARY:BendiGo ToDay, Bendigo Orienteers
@@ -2001,7 +2001,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19641
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19700@eventor.orienteering.asn.au
-DTSTAMP:20240225T072516Z
+DTSTAMP:20240226T014603Z
 DTSTART:20240224T223000Z
 DTEND:20240224T223000Z
 SUMMARY:MTBO SS1 and Foot-O USC Sippy Downs, Sunshine Orienteers Club
@@ -2689,6 +2689,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20222
 GEO:-28.4481989205676;152.02417888302
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20437@eventor.orienteering.asn.au
+DTSTAMP:20240226T103246Z
+DTSTART:20240309T230000Z
+DTEND:20240310T010000Z
+SUMMARY:Street Score Orienteering at Banora Point, Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20437
+GEO:-28.0350297078723;151.641984891797
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19770@eventor.orienteering.asn.au
 DTSTAMP:20240218T021558Z
 DTSTART:20240309T230000Z
@@ -2822,7 +2831,7 @@ DTSTART:20240312T130000Z
 DTEND:20240313T130000Z
 SUMMARY:Trevallyn - Northern Autumn Twilight Series #5, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/20000
-GEO:-41.4585069546035;147.10341146286
+GEO:-41.458422913111;147.103742748242
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20094@eventor.orienteering.asn.au
@@ -3086,6 +3095,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20375
 GEO:-30.5166445306551;151.663850577199
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20436@eventor.orienteering.asn.au
+DTSTAMP:20240226T075427Z
+DTSTART:20240317T230000Z
+DTEND:20240318T013000Z
+SUMMARY:NSW Seniors Festival: Camperdown, Garingal Orienteers / Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20436
+GEO:-33.894829523379;151.178134126338
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19989@eventor.orienteering.asn.au
 DTSTAMP:20231212T212819Z
 DTSTART:20240318T060000Z
@@ -3268,10 +3286,10 @@ GEO:-35.1320168742864;147.369242876575
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20156@eventor.orienteering.asn.au
-DTSTAMP:20240110T031556Z
+DTSTAMP:20240226T042616Z
 DTSTART:20240323T053000Z
 DTEND:20240323T053000Z
-SUMMARY:Sprint Series - EN - Event 7, Enoggeroos
+SUMMARY:Sprint Series - EN - Event 7 - Albany Creek SHS, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20156
 END:VEVENT
 BEGIN:VEVENT
@@ -3299,6 +3317,15 @@ DTEND:20240323T230000Z
 SUMMARY:Coffin Bay Street/Park, Lincoln Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20274
 GEO:-34.6212006564639;135.467050472877
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20438@eventor.orienteering.asn.au
+DTSTAMP:20240226T112815Z
+DTSTART:20240323T230000Z
+DTEND:20240324T010000Z
+SUMMARY:Park Orienteering at Mt Tamborine, Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20438
+GEO:-27.9418231267512;153.19286526913
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19542@eventor.orienteering.asn.au
@@ -3699,7 +3726,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19868
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19850@eventor.orienteering.asn.au
-DTSTAMP:20231123T040710Z
+DTSTAMP:20240226T091208Z
 DTSTART:20240414T040000Z
 DTEND:20240417T030000Z
 SUMMARY:Bluebottles April Camp at Belanglo, Orienteering NSW
@@ -3982,10 +4009,10 @@ GEO:-41.4585875420014;147.10323417452
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19861@eventor.orienteering.asn.au
-DTSTAMP:20240219T104032Z
+DTSTAMP:20240226T042652Z
 DTSTART:20240503T140000Z
 DTEND:20240506T140000Z
-SUMMARY:Mini-Cyclones Camp, Orienteering Queensland
+SUMMARY:Mini-Cyclones Camp - Stanthorpe, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19861
 GEO:-28.6445734021208;151.947234145067
 END:VEVENT
@@ -4978,6 +5005,14 @@ DTEND:20240706T040000Z
 SUMMARY:Bendigo Series 5 - Mosquito Creek, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20063
 GEO:-36.7475363475158;144.296062499848
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20435@eventor.orienteering.asn.au
+DTSTAMP:20240226T032733Z
+DTSTART:20240706T230000Z
+DTEND:20240706T230000Z
+SUMMARY:Junior Camp Champs Open Event, Bullecourt Boulder Bounders
+URL:https://eventor.orienteering.asn.au/Events/Show/20435
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20392@eventor.orienteering.asn.au

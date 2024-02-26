@@ -1274,7 +1274,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19938
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19829@eventor.orienteering.asn.au
-DTSTAMP:20240113T032619Z
+DTSTAMP:20240226T054152Z
 DTSTART:20240222T060000Z
 DTEND:20240222T080000Z
 SUMMARY:Twilight #9, Northern Tablelands Orienteering Club
@@ -1650,6 +1650,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20302
 GEO:-33.9877345218926;150.892355491986
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20437@eventor.orienteering.asn.au
+DTSTAMP:20240226T103246Z
+DTSTART:20240309T230000Z
+DTEND:20240310T010000Z
+SUMMARY:Street Score Orienteering at Banora Point, Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20437
+GEO:-28.0350297078723;151.641984891797
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18672@eventor.orienteering.asn.au
 DTSTAMP:20230424T120653Z
 DTSTART:20240310T060000Z
@@ -1907,6 +1916,15 @@ DTEND:20240323T230000Z
 SUMMARY:Coffin Bay Street/Park, Lincoln Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20274
 GEO:-34.6212006564639;135.467050472877
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20438@eventor.orienteering.asn.au
+DTSTAMP:20240226T112815Z
+DTSTART:20240323T230000Z
+DTEND:20240324T010000Z
+SUMMARY:Park Orienteering at Mt Tamborine, Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20438
+GEO:-27.9418231267512;153.19286526913
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18734@eventor.orienteering.asn.au
