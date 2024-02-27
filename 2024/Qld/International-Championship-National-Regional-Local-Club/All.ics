@@ -522,7 +522,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20427
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18754@eventor.orienteering.asn.au
-DTSTAMP:20240216T082754Z
+DTSTAMP:20240226T232018Z
 DTSTART:20240307T003000Z
 DTEND:20240307T010000Z
 SUMMARY:Seven Hills. Bush., Orienteering Queensland
@@ -556,12 +556,12 @@ GEO:-28.4481989205676;152.02417888302
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20437@eventor.orienteering.asn.au
-DTSTAMP:20240226T103246Z
+DTSTAMP:20240227T005501Z
 DTSTART:20240309T230000Z
 DTEND:20240310T010000Z
-SUMMARY:Street Score Orienteering at Banora Point, Paradise Lost Orienteers
+SUMMARY:Street Score Orienteering at Banora Point, Tweed Heads, Paradise Lost Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20437
-GEO:-28.0350297078723;151.641984891797
+GEO:-28.2122151037877;153.523110638953
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20362@eventor.orienteering.asn.au
@@ -598,6 +598,15 @@ DTEND:20240312T080000Z
 SUMMARY:Night Nav - Old Tewantin, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20398
 GEO:-26.3908519117398;153.037171781829
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20439@eventor.orienteering.asn.au
+DTSTAMP:20240227T013213Z
+DTSTART:20240314T003000Z
+DTEND:20240314T010000Z
+SUMMARY:Wellers Hill, Tarragindi - new Bush map, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/20439
+GEO:-27.5243121527732;153.047835227645
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20206@eventor.orienteering.asn.au
@@ -644,6 +653,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20236
 GEO:-27.4623763817589;153.010132514603
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20440@eventor.orienteering.asn.au
+DTSTAMP:20240227T101529Z
+DTSTART:20240321T003000Z
+DTEND:20240321T010000Z
+SUMMARY:Cameron Creek, Kholo Bushland (MapRun), Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/20440
+GEO:-27.5037133922639;152.803926324659
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20207@eventor.orienteering.asn.au
 DTSTAMP:20240119T235954Z
 DTSTART:20240322T030000Z
@@ -670,10 +688,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19696
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20438@eventor.orienteering.asn.au
-DTSTAMP:20240226T112815Z
+DTSTAMP:20240227T033127Z
 DTSTART:20240323T230000Z
 DTEND:20240324T010000Z
-SUMMARY:Park Orienteering at Mt Tamborine, Paradise Lost Orienteers
+SUMMARY:Park Orienteering at Mt Tamborine TBC, Paradise Lost Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20438
 GEO:-27.9418231267512;153.19286526913
 END:VEVENT
@@ -694,6 +712,15 @@ DTEND:20240326T073000Z
 SUMMARY:NightNav - WestEnd - Term 1 Series - Event #8, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20237
 GEO:-27.4890278924619;153.012869870548
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20442@eventor.orienteering.asn.au
+DTSTAMP:20240227T024647Z
+DTSTART:20240328T003000Z
+DTEND:20240328T010000Z
+SUMMARY:Norman Creek Park and Street, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/20442
+GEO:-27.4792273544345;153.05147834461
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18751@eventor.orienteering.asn.au
@@ -722,10 +749,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20157
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20389@eventor.orienteering.asn.au
-DTSTAMP:20240204T051044Z
+DTSTAMP:20240227T033149Z
 DTSTART:20240413T230000Z
 DTEND:20240414T010000Z
-SUMMARY:Bush Trail orienteering at Coombabah Lakelands, Paradise Lost Orienteers
+SUMMARY:Bush Trail orienteering at Coombabah Lakelands TBC, Paradise Lost Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20389
 GEO:-27.9198521597297;153.377034678758
 END:VEVENT
@@ -952,18 +979,19 @@ GEO:-27.4497629514946;153.023026386448
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19697@eventor.orienteering.asn.au
-DTSTAMP:20231026T013825Z
-DTSTART:20240518T140000Z
-DTEND:20240519T140000Z
-SUMMARY:MTBO - State Series #4, Multi Terrain Bike Orienteers
+DTSTAMP:20240226T232702Z
+DTSTART:20240518T230000Z
+DTEND:20240518T230000Z
+SUMMARY:Woodford MTBO, Multi Terrain Bike Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19697
+GEO:-26.9581240466885;152.780252261748
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20390@eventor.orienteering.asn.au
-DTSTAMP:20240204T064158Z
+DTSTAMP:20240227T033316Z
 DTSTART:20240518T230000Z
 DTEND:20240519T010000Z
-SUMMARY:Score Orienteering at Hinze Dam, Paradise Lost Orienteers
+SUMMARY:Score Orienteering at Hinze Dam, Gold Coast TBC, Paradise Lost Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20390
 GEO:-28.0504896245519;153.279283956862
 END:VEVENT
@@ -1069,10 +1097,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20324
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20391@eventor.orienteering.asn.au
-DTSTAMP:20240204T064330Z
+DTSTAMP:20240227T033306Z
 DTSTART:20240608T230000Z
 DTEND:20240609T010000Z
-SUMMARY:Bush Orienteering at Nerang NP, Paradise Lost Orienteers
+SUMMARY:Bush Orienteering at Nerang NP, Gold Coast TBC, Paradise Lost Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20391
 END:VEVENT
 BEGIN:VEVENT
@@ -1098,6 +1126,14 @@ DTSTART:20240616T050000Z
 DTEND:20240616T050000Z
 SUMMARY:Club Event - Haig Street - TBC, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20317
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20336@eventor.orienteering.asn.au
+DTSTAMP:20240227T032956Z
+DTSTART:20240618T073000Z
+DTEND:20240618T073000Z
+SUMMARY:Night Nav - Term 2 Series Event #9, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20336
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20326@eventor.orienteering.asn.au
@@ -1150,10 +1186,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20435
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20392@eventor.orienteering.asn.au
-DTSTAMP:20240204T064733Z
+DTSTAMP:20240227T033252Z
 DTSTART:20240706T230000Z
 DTEND:20240707T010000Z
-SUMMARY:Bush Orienteering at Shelter Road, Arundel, Paradise Lost Orienteers
+SUMMARY:Bush Orienteering at Shelter Road, Arundel, Gold Coast TBC, Paradise Lost Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20392
 GEO:-27.9174938050246;153.358754674151
 END:VEVENT
@@ -1207,11 +1243,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20329
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19698@eventor.orienteering.asn.au
-DTSTAMP:20231026T013904Z
-DTSTART:20240727T140000Z
-DTEND:20240728T140000Z
-SUMMARY:MTBO - State Series #6, Multi Terrain Bike Orienteers
+DTSTAMP:20240227T011501Z
+DTSTART:20240727T230000Z
+DTEND:20240727T230000Z
+SUMMARY:Ivory's Rock MTBO - Peak Crossing, Multi Terrain Bike Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19698
+GEO:-27.7730652508363;152.763173638778
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20201@eventor.orienteering.asn.au
@@ -1256,10 +1293,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20223
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20393@eventor.orienteering.asn.au
-DTSTAMP:20240204T065105Z
+DTSTAMP:20240227T033242Z
 DTSTART:20240810T230000Z
 DTEND:20240811T010000Z
-SUMMARY:Orienteering at Griffith University, Gold Coast, Paradise Lost Orienteers
+SUMMARY:Orienteering at Griffith University, Gold Coast TBC, Paradise Lost Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20393
 END:VEVENT
 BEGIN:VEVENT
@@ -1344,10 +1381,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20404
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20394@eventor.orienteering.asn.au
-DTSTAMP:20240204T065326Z
+DTSTAMP:20240227T033337Z
 DTSTART:20240914T230000Z
 DTEND:20240915T010000Z
-SUMMARY:Bush Orienteering at Highvale Hill, Helensvale, Paradise Lost Orienteers
+SUMMARY:Bush Orienteering at Highvale Hill, Helensvale, Gold Coast TBC, Paradise Lost Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20394
 GEO:-27.909065582337;153.319301312087
 END:VEVENT
@@ -1367,6 +1404,15 @@ DTSTART:20240920T140000Z
 DTEND:20240922T140000Z
 SUMMARY:OY10 + OY11 Qld Long Distance Champs - Stanthorpe, Bullecourt Boulder Bounders / Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19865
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19691@eventor.orienteering.asn.au
+DTSTAMP:20240227T033231Z
+DTSTART:20240926T003000Z
+DTEND:20240926T013000Z
+SUMMARY:Edwards Park, Carindale, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19691
+GEO:-27.5270987187772;153.107466213473
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19699@eventor.orienteering.asn.au
@@ -1394,10 +1440,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20344
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20395@eventor.orienteering.asn.au
-DTSTAMP:20240204T065545Z
+DTSTAMP:20240227T033344Z
 DTSTART:20241012T230000Z
 DTEND:20241013T010000Z
-SUMMARY:Park Orienteering at Schuster Park, Elanora, Paradise Lost Orienteers
+SUMMARY:Park Orienteering at Schuster Park, Elanora, Gold Coast TBC, Paradise Lost Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20395
 GEO:-28.1250480177146;153.443186619489
 END:VEVENT
@@ -1476,10 +1522,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19869
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20396@eventor.orienteering.asn.au
-DTSTAMP:20240204T065816Z
+DTSTAMP:20240227T033351Z
 DTSTART:20241109T230000Z
 DTEND:20241110T010000Z
-SUMMARY:Park Orienteering at Musgrave Park, Southport, Paradise Lost Orienteers
+SUMMARY:Park Orienteering at Musgrave Park, Southport, Gold Coast TBC, Paradise Lost Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20396
 GEO:-27.9555767851769;153.393376807799
 END:VEVENT
