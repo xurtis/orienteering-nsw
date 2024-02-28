@@ -1719,6 +1719,15 @@ SUMMARY:Melbourne Park Street Monday Summer Series - Tirhatuan Park, Bayside Kan
 URL:https://eventor.orienteering.asn.au/Events/Show/19914
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20377@eventor.orienteering.asn.au
+DTSTAMP:20240227T233136Z
+DTSTART:20240219T140000Z
+DTEND:20240220T140000Z
+SUMMARY:Night Nav - Bok Beach, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20377
+GEO:-26.752214051435;153.131047288939
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20220@eventor.orienteering.asn.au
 DTSTAMP:20240220T122309Z
 DTSTART:20240219T140000Z
@@ -1743,15 +1752,6 @@ DTSTART:20240220T073000Z
 DTEND:20240220T091500Z
 SUMMARY:Melbourne Park Street Tuesday Summer Series - Kensington, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19928
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20377@eventor.orienteering.asn.au
-DTSTAMP:20240129T103804Z
-DTSTART:20240220T080000Z
-DTEND:20240220T080000Z
-SUMMARY:Night Nav - Bok Beach, Sunshine Orienteers Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20377
-GEO:-26.752214051435;153.131047288939
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20110@eventor.orienteering.asn.au
@@ -1920,6 +1920,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20090
 GEO:-36.5990755183265;143.613048847191
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20360@eventor.orienteering.asn.au
+DTSTAMP:20240227T233411Z
+DTSTART:20240224T140000Z
+DTEND:20240225T140000Z
+SUMMARY:MapRun Parks 2024 - Rafting Grounds (Kenmore), Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20360
+GEO:-27.52018;152.923363
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19651@eventor.orienteering.asn.au
 DTSTAMP:20240224T235340Z
 DTSTART:20240224T220000Z
@@ -1982,15 +1991,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/16996
 GEO:-28.226746528145;152.031872814038
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20360@eventor.orienteering.asn.au
-DTSTAMP:20240211T052004Z
-DTSTART:20240225T060000Z
-DTEND:20240225T060000Z
-SUMMARY:MapRun Parks 2024 - Rafting Grounds (Kenmore), Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20360
-GEO:-27.52018;152.923363
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20242@eventor.orienteering.asn.au
 DTSTAMP:20240225T112652Z
 DTSTART:20240225T060000Z
@@ -2027,9 +2027,9 @@ GEO:-38.007625482671;144.848835091797
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20227@eventor.orienteering.asn.au
-DTSTAMP:20240211T052040Z
-DTSTART:20240227T073000Z
-DTEND:20240227T073000Z
+DTSTAMP:20240227T235021Z
+DTSTART:20240226T140000Z
+DTEND:20240227T140000Z
 SUMMARY:Night Nav - Red Hill - Term 1 Series - Event #4, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20227
 GEO:-27.4493343157243;152.997318645431
@@ -2061,7 +2061,7 @@ GEO:-41.4421392111804;147.137096217714
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19998@eventor.orienteering.asn.au
-DTSTAMP:20240130T062405Z
+DTSTAMP:20240228T101003Z
 DTSTART:20240227T130000Z
 DTEND:20240228T130000Z
 SUMMARY:West Launceston Community Park - Northern Autumn Twilight Series #3, Esk Valley
@@ -2070,7 +2070,7 @@ GEO:-41.4659741449876;147.126670230599
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19992@eventor.orienteering.asn.au
-DTSTAMP:20240215T044412Z
+DTSTAMP:20240228T094507Z
 DTSTART:20240228T043000Z
 DTEND:20240228T073000Z
 SUMMARY:Kingston High - Southern Autumn Twilight Series #3, Australopers
@@ -2079,7 +2079,7 @@ GEO:-42.9714365032408;147.285495812627
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19380@eventor.orienteering.asn.au
-DTSTAMP:20240227T082734Z
+DTSTAMP:20240228T083842Z
 DTSTART:20240228T053000Z
 DTEND:20240228T083000Z
 SUMMARY:2023/24 Sydney Summer Series #22 - Roseville Chase, Big Foot Orienteers
@@ -2088,7 +2088,7 @@ GEO:-33.7764357617742;151.206819435696
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20253@eventor.orienteering.asn.au
-DTSTAMP:20240226T193748Z
+DTSTAMP:20240228T082210Z
 DTSTART:20240228T054500Z
 DTEND:20240228T080000Z
 SUMMARY:2024 Newcastle Urban Orienteering Series1 - Elermore Vale, Newcastle Orienteering Club
@@ -2097,7 +2097,7 @@ GEO:-32.9172964348222;151.67413452565
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19205@eventor.orienteering.asn.au
-DTSTAMP:20240221T062811Z
+DTSTAMP:20240228T071101Z
 DTSTART:20240228T060000Z
 DTEND:20240228T100000Z
 SUMMARY:ACT Runners Shop Twilight Series #10 and Mass-Start Night Race: Fadden Pines, Weston Emus
@@ -2300,11 +2300,11 @@ DTSTART:20240302T230000Z
 DTEND:20240303T010000Z
 SUMMARY:Goldseekers Bush Series # 1 - Lake Canobolas + AGM, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20403
-GEO:-33.3012292294971;149.027193102631
+GEO:-33.3011909756127;149.027947103104
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19915@eventor.orienteering.asn.au
-DTSTAMP:20240130T115752Z
+DTSTAMP:20240228T074709Z
 DTSTART:20240302T230000Z
 DTEND:20240303T010000Z
 SUMMARY:Illawarra Map Running #4 & Final - Shell Cove, Illawarra Kareelah Orienteers
@@ -2673,6 +2673,7 @@ DTSTART:20240311T060000Z
 DTEND:20240311T090000Z
 SUMMARY:ACT MapRun Street Series: Ngunnawal, 7-11 Mar, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19988
+GEO:-35.173530061663;149.108447313593
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19919@eventor.orienteering.asn.au
@@ -2831,7 +2832,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20010
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20439@eventor.orienteering.asn.au
-DTSTAMP:20240227T013213Z
+DTSTAMP:20240228T054725Z
 DTSTART:20240314T003000Z
 DTEND:20240314T010000Z
 SUMMARY:Wellers Hill, Tarragindi - new Bush map, Orienteering Queensland
@@ -3116,7 +3117,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20011
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20440@eventor.orienteering.asn.au
-DTSTAMP:20240227T101529Z
+DTSTAMP:20240228T115825Z
 DTSTART:20240321T003000Z
 DTEND:20240321T010000Z
 SUMMARY:Cameron Creek, Kholo Bushland (MapRun), Orienteering Queensland
@@ -3350,15 +3351,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20442
 GEO:-27.4792273544345;153.05147834461
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20181@eventor.orienteering.asn.au
-DTSTAMP:20240209T003645Z
-DTSTART:20240402T064500Z
-DTEND:20240402T084500Z
-SUMMARY:Ballarat Park & Street Summer Series ’24 – #12 Lake Gardens, Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20181
-GEO:-37.5453059736572;143.823061482585
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20012@eventor.orienteering.asn.au
 DTSTAMP:20231212T055021Z
 DTSTART:20240403T204500Z
@@ -3374,6 +3366,15 @@ DTEND:20240404T010000Z
 SUMMARY:Bardon Forest Park. Bardon. Bush. (BCC Sponsored) (MAPRUN EVENT), Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18751
 GEO:-27.4591639178209;152.978139654517
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20181@eventor.orienteering.asn.au
+DTSTAMP:20240228T070527Z
+DTSTART:20240404T064500Z
+DTEND:20240404T084500Z
+SUMMARY:Ballarat Park & Street Summer Series ’24 – #12 Lake Gardens, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20181
+GEO:-37.5453059736572;143.823061482585
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20426@eventor.orienteering.asn.au
@@ -4040,6 +4041,14 @@ SUMMARY:Moonabie Range, Saltbush Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20308
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20444@eventor.orienteering.asn.au
+DTSTAMP:20240228T102859Z
+DTSTART:20240519T030000Z
+DTEND:20240519T030000Z
+SUMMARY:Perseverance Dam Coaching, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20444
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20333@eventor.orienteering.asn.au
 DTSTAMP:20240126T055508Z
 DTSTART:20240521T073000Z
@@ -4605,6 +4614,14 @@ DTSTART:20240706T230000Z
 DTEND:20240706T230000Z
 SUMMARY:Junior Camp Champs Open Event, Bullecourt Boulder Bounders
 URL:https://eventor.orienteering.asn.au/Events/Show/20435
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20443@eventor.orienteering.asn.au
+DTSTAMP:20240228T102704Z
+DTSTART:20240706T230000Z
+DTEND:20240706T230000Z
+SUMMARY:South West School Sport Regional Trials, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20443
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20392@eventor.orienteering.asn.au

@@ -1212,6 +1212,15 @@ SUMMARY:Melbourne Park Street Monday Summer Series - Tirhatuan Park, Bayside Kan
 URL:https://eventor.orienteering.asn.au/Events/Show/19914
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20377@eventor.orienteering.asn.au
+DTSTAMP:20240227T233136Z
+DTSTART:20240219T140000Z
+DTEND:20240220T140000Z
+SUMMARY:Night Nav - Bok Beach, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20377
+GEO:-26.752214051435;153.131047288939
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20220@eventor.orienteering.asn.au
 DTSTAMP:20240220T122309Z
 DTSTART:20240219T140000Z
@@ -1236,15 +1245,6 @@ DTSTART:20240220T073000Z
 DTEND:20240220T091500Z
 SUMMARY:Melbourne Park Street Tuesday Summer Series - Kensington, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19928
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20377@eventor.orienteering.asn.au
-DTSTAMP:20240129T103804Z
-DTSTART:20240220T080000Z
-DTEND:20240220T080000Z
-SUMMARY:Night Nav - Bok Beach, Sunshine Orienteers Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20377
-GEO:-26.752214051435;153.131047288939
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19379@eventor.orienteering.asn.au
@@ -1324,6 +1324,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20297
 GEO:-34.1000001281475;150.801579531026
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20360@eventor.orienteering.asn.au
+DTSTAMP:20240227T233411Z
+DTSTART:20240224T140000Z
+DTEND:20240225T140000Z
+SUMMARY:MapRun Parks 2024 - Rafting Grounds (Kenmore), Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20360
+GEO:-27.52018;152.923363
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_16996@eventor.orienteering.asn.au
 DTSTAMP:20240225T124926Z
 DTSTART:20240225T053000Z
@@ -1350,6 +1359,15 @@ SUMMARY:Melbourne Park Street Monday Summer Series - HIgh Hampton - PARK STREET 
 URL:https://eventor.orienteering.asn.au/Events/Show/19917
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20227@eventor.orienteering.asn.au
+DTSTAMP:20240227T235021Z
+DTSTART:20240226T140000Z
+DTEND:20240227T140000Z
+SUMMARY:Night Nav - Red Hill - Term 1 Series - Event #4, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20227
+GEO:-27.4493343157243;152.997318645431
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19929@eventor.orienteering.asn.au
 DTSTAMP:20231206T033503Z
 DTSTART:20240227T073000Z
@@ -1368,7 +1386,7 @@ GEO:-41.4421392111804;147.137096217714
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19380@eventor.orienteering.asn.au
-DTSTAMP:20240227T082734Z
+DTSTAMP:20240228T083842Z
 DTSTART:20240228T053000Z
 DTEND:20240228T083000Z
 SUMMARY:2023/24 Sydney Summer Series #22 - Roseville Chase, Big Foot Orienteers
@@ -1377,7 +1395,7 @@ GEO:-33.7764357617742;151.206819435696
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20253@eventor.orienteering.asn.au
-DTSTAMP:20240226T193748Z
+DTSTAMP:20240228T082210Z
 DTSTART:20240228T054500Z
 DTEND:20240228T080000Z
 SUMMARY:2024 Newcastle Urban Orienteering Series1 - Elermore Vale, Newcastle Orienteering Club
@@ -1523,7 +1541,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19935
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19915@eventor.orienteering.asn.au
-DTSTAMP:20240130T115752Z
+DTSTAMP:20240228T074709Z
 DTSTART:20240302T230000Z
 DTEND:20240303T010000Z
 SUMMARY:Illawarra Map Running #4 & Final - Shell Cove, Illawarra Kareelah Orienteers
@@ -1674,6 +1692,7 @@ DTSTART:20240311T060000Z
 DTEND:20240311T090000Z
 SUMMARY:ACT MapRun Street Series: Ngunnawal, 7-11 Mar, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19988
+GEO:-35.173530061663;149.108447313593
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19919@eventor.orienteering.asn.au
@@ -2004,9 +2023,9 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19943
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20181@eventor.orienteering.asn.au
-DTSTAMP:20240209T003645Z
-DTSTART:20240402T064500Z
-DTEND:20240402T084500Z
+DTSTAMP:20240228T070527Z
+DTSTART:20240404T064500Z
+DTEND:20240404T084500Z
 SUMMARY:Ballarat Park & Street Summer Series ’24 – #12 Lake Gardens, Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20181
 GEO:-37.5453059736572;143.823061482585

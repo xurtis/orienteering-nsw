@@ -210,6 +210,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20221
 GEO:-28.6470033077443;151.929657837335
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20377@eventor.orienteering.asn.au
+DTSTAMP:20240227T233136Z
+DTSTART:20240219T140000Z
+DTEND:20240220T140000Z
+SUMMARY:Night Nav - Bok Beach, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20377
+GEO:-26.752214051435;153.131047288939
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20220@eventor.orienteering.asn.au
 DTSTAMP:20240220T122309Z
 DTSTART:20240219T140000Z
@@ -219,13 +228,13 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20220
 GEO:-27.5183721634103;152.985483711042
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20377@eventor.orienteering.asn.au
-DTSTAMP:20240129T103804Z
-DTSTART:20240220T080000Z
-DTEND:20240220T080000Z
-SUMMARY:Night Nav - Bok Beach, Sunshine Orienteers Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20377
-GEO:-26.752214051435;153.131047288939
+UID:Event_20360@eventor.orienteering.asn.au
+DTSTAMP:20240227T233411Z
+DTSTART:20240224T140000Z
+DTEND:20240225T140000Z
+SUMMARY:MapRun Parks 2024 - Rafting Grounds (Kenmore), Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20360
+GEO:-27.52018;152.923363
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_16996@eventor.orienteering.asn.au
@@ -235,6 +244,15 @@ DTEND:20240225T070000Z
 SUMMARY:Warwick Showgrounds sprint, Bullecourt Boulder Bounders
 URL:https://eventor.orienteering.asn.au/Events/Show/16996
 GEO:-28.226746528145;152.031872814038
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20227@eventor.orienteering.asn.au
+DTSTAMP:20240227T235021Z
+DTSTART:20240226T140000Z
+DTEND:20240227T140000Z
+SUMMARY:Night Nav - Red Hill - Term 1 Series - Event #4, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20227
+GEO:-27.4493343157243;152.997318645431
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20199@eventor.orienteering.asn.au

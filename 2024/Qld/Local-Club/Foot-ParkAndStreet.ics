@@ -369,6 +369,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20165
 GEO:-27.5524135324056;151.933815793145
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20377@eventor.orienteering.asn.au
+DTSTAMP:20240227T233136Z
+DTSTART:20240219T140000Z
+DTEND:20240220T140000Z
+SUMMARY:Night Nav - Bok Beach, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20377
+GEO:-26.752214051435;153.131047288939
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20220@eventor.orienteering.asn.au
 DTSTAMP:20240220T122309Z
 DTSTART:20240219T140000Z
@@ -378,15 +387,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20220
 GEO:-27.5183721634103;152.985483711042
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20377@eventor.orienteering.asn.au
-DTSTAMP:20240129T103804Z
-DTSTART:20240220T080000Z
-DTEND:20240220T080000Z
-SUMMARY:Night Nav - Bok Beach, Sunshine Orienteers Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20377
-GEO:-26.752214051435;153.131047288939
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20152@eventor.orienteering.asn.au
 DTSTAMP:20240224T065446Z
 DTSTART:20240224T053000Z
@@ -394,6 +394,15 @@ DTEND:20240224T053000Z
 SUMMARY:Sprint Series - EN - Event 3 - Ferny Grove SHS, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20152
 GEO:-27.406249670657;152.936323544748
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20360@eventor.orienteering.asn.au
+DTSTAMP:20240227T233411Z
+DTSTART:20240224T140000Z
+DTEND:20240225T140000Z
+SUMMARY:MapRun Parks 2024 - Rafting Grounds (Kenmore), Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20360
+GEO:-27.52018;152.923363
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19700@eventor.orienteering.asn.au
@@ -423,15 +432,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/16996
 GEO:-28.226746528145;152.031872814038
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20360@eventor.orienteering.asn.au
-DTSTAMP:20240211T052004Z
-DTSTART:20240225T060000Z
-DTEND:20240225T060000Z
-SUMMARY:MapRun Parks 2024 - Rafting Grounds (Kenmore), Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20360
-GEO:-27.52018;152.923363
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20242@eventor.orienteering.asn.au
 DTSTAMP:20240225T112652Z
 DTSTART:20240225T060000Z
@@ -442,9 +442,9 @@ GEO:-27.5961359463981;151.900239555419
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20227@eventor.orienteering.asn.au
-DTSTAMP:20240211T052040Z
-DTSTART:20240227T073000Z
-DTEND:20240227T073000Z
+DTSTAMP:20240227T235021Z
+DTSTART:20240226T140000Z
+DTEND:20240227T140000Z
 SUMMARY:Night Nav - Red Hill - Term 1 Series - Event #4, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20227
 GEO:-27.4493343157243;152.997318645431
@@ -601,7 +601,7 @@ GEO:-26.3908519117398;153.037171781829
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20439@eventor.orienteering.asn.au
-DTSTAMP:20240227T013213Z
+DTSTAMP:20240228T054725Z
 DTSTART:20240314T003000Z
 DTEND:20240314T010000Z
 SUMMARY:Wellers Hill, Tarragindi - new Bush map, Orienteering Queensland
@@ -645,7 +645,7 @@ GEO:-27.4623763817589;153.010132514603
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20440@eventor.orienteering.asn.au
-DTSTAMP:20240227T101529Z
+DTSTAMP:20240228T115825Z
 DTSTART:20240321T003000Z
 DTEND:20240321T010000Z
 SUMMARY:Cameron Creek, Kholo Bushland (MapRun), Orienteering Queensland
@@ -909,6 +909,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20390
 GEO:-28.0504896245519;153.279283956862
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20444@eventor.orienteering.asn.au
+DTSTAMP:20240228T102859Z
+DTSTART:20240519T030000Z
+DTEND:20240519T030000Z
+SUMMARY:Perseverance Dam Coaching, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20444
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20333@eventor.orienteering.asn.au
 DTSTAMP:20240126T055508Z
 DTSTART:20240521T073000Z
@@ -1064,6 +1072,14 @@ DTSTART:20240706T230000Z
 DTEND:20240706T230000Z
 SUMMARY:Junior Camp Champs Open Event, Bullecourt Boulder Bounders
 URL:https://eventor.orienteering.asn.au/Events/Show/20435
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20443@eventor.orienteering.asn.au
+DTSTAMP:20240228T102704Z
+DTSTART:20240706T230000Z
+DTEND:20240706T230000Z
+SUMMARY:South West School Sport Regional Trials, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20443
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20392@eventor.orienteering.asn.au
