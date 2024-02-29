@@ -574,15 +574,6 @@ SUMMARY:Albury-Wodonga Park & Street (location tba), Albury-Wodonga Orienteering
 URL:https://eventor.orienteering.asn.au/Events/Show/19785
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20185@eventor.orienteering.asn.au
-DTSTAMP:20240226T201129Z
-DTSTART:20240228T073000Z
-DTEND:20240228T084500Z
-SUMMARY:POSTPONED  Malmsbury Botanical Gardens, Central Highlands Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20185
-GEO:-37.1891251714827;144.382253733585
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19939@eventor.orienteering.asn.au
 DTSTAMP:20231206T043116Z
 DTSTART:20240228T073000Z
@@ -666,6 +657,15 @@ SUMMARY:Albury-Wodonga Park & Street (location tba), Albury-Wodonga Orienteering
 URL:https://eventor.orienteering.asn.au/Events/Show/19786
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20185@eventor.orienteering.asn.au
+DTSTAMP:20240229T052012Z
+DTSTART:20240306T073000Z
+DTEND:20240306T084500Z
+SUMMARY:RESCHEDULED  #3 Twilight Sprint Malmsbury Botanical Gardens, Central Highlands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20185
+GEO:-37.1891251714827;144.382253733585
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19940@eventor.orienteering.asn.au
 DTSTAMP:20231206T043300Z
 DTSTART:20240306T073000Z
@@ -700,7 +700,7 @@ GEO:-37.5508702239231;143.817528166934
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20252@eventor.orienteering.asn.au
-DTSTAMP:20240219T235953Z
+DTSTAMP:20240228T232555Z
 DTSTART:20240309T223000Z
 DTEND:20240310T050000Z
 SUMMARY:Ballarat Sprints Day 2, Eureka Orienteers

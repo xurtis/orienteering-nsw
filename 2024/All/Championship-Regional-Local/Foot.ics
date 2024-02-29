@@ -577,7 +577,7 @@ GEO:-34.7094765651626;135.851623690803
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20300@eventor.orienteering.asn.au
-DTSTAMP:20240212T054935Z
+DTSTAMP:20240229T063002Z
 DTSTART:20240301T220000Z
 DTEND:20240302T010000Z
 SUMMARY:SOS 3D - Killara, Bold Horizons Event Organiser
@@ -586,7 +586,7 @@ GEO:-33.7559087755205;151.17404238879
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20299@eventor.orienteering.asn.au
-DTSTAMP:20240212T054201Z
+DTSTAMP:20240228T232040Z
 DTSTART:20240301T220000Z
 DTEND:20240302T010000Z
 SUMMARY:SOS Macarthur - Macquarie Fields, Bold Horizons Event Organiser / Southern Highlands Orienteers
@@ -655,7 +655,7 @@ GEO:-34.5901434935816;150.863934105374
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19541@eventor.orienteering.asn.au
-DTSTAMP:20240221T003739Z
+DTSTAMP:20240229T045732Z
 DTSTART:20240303T010000Z
 DTEND:20240303T030000Z
 SUMMARY:ACT Sprint Championships: ACT League #1, Amaroo Schools, Abominable O-Men
@@ -687,7 +687,7 @@ DTSTART:20240306T060000Z
 DTEND:20240306T083000Z
 SUMMARY:ACT Runners Shop Twilight Series #11: Black Mountain Peninsula, Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/19206
-GEO:-35.2864701558871;149.101662552666
+GEO:-35.2931589417041;149.100793329416
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20401@eventor.orienteering.asn.au
@@ -974,7 +974,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19574
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20382@eventor.orienteering.asn.au
-DTSTAMP:20240220T004200Z
+DTSTAMP:20240228T234929Z
 DTSTART:20240413T030000Z
 DTEND:20240413T030000Z
 SUMMARY:Highlands Forest Series #1 - Penrose State Forest, Southern Highlands Orienteers
@@ -998,6 +998,15 @@ DTEND:20240414T000000Z
 SUMMARY:MelBushO 1 - Brimbank Park, Keilor, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20356
 GEO:-37.7343779695293;144.849474659351
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20451@eventor.orienteering.asn.au
+DTSTAMP:20240229T061411Z
+DTSTART:20240424T230000Z
+DTEND:20240426T020000Z
+SUMMARY:NOL Sprint Training Camp, Orienteering Australia
+URL:https://eventor.orienteering.asn.au/Events/Show/20451
+GEO:-27.4628062697273;153.019191755225
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20200@eventor.orienteering.asn.au
@@ -1116,6 +1125,15 @@ DTEND:20240512T140000Z
 SUMMARY:OY4 - Belmont Hills, Toohey Forest Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19860
 GEO:-27.5172801876494;153.122054396254
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20450@eventor.orienteering.asn.au
+DTSTAMP:20240229T060021Z
+DTSTART:20240517T140000Z
+DTEND:20240518T140000Z
+SUMMARY:NOL Presentation Dinner, Orienteering Australia
+URL:https://eventor.orienteering.asn.au/Events/Show/20450
+GEO:-35.2614769758511;149.138627204404
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19555@eventor.orienteering.asn.au
@@ -1371,6 +1389,15 @@ SUMMARY:OY7 - EN - Woodlands, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/19449
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20448@eventor.orienteering.asn.au
+DTSTAMP:20240229T000537Z
+DTSTART:20240714T003000Z
+DTEND:20240714T030000Z
+SUMMARY:Highlands Forest Series #3, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20448
+GEO:-34.4293649884581;150.420483385938
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19580@eventor.orienteering.asn.au
 DTSTAMP:20231113T034407Z
 DTSTART:20240719T140000Z
@@ -1475,6 +1502,15 @@ DTSTART:20240810T003000Z
 DTEND:20240810T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #9, McQuoids Hill, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19561
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20449@eventor.orienteering.asn.au
+DTSTAMP:20240229T000842Z
+DTSTART:20240811T093000Z
+DTEND:20240811T093000Z
+SUMMARY:Highlands Forest Series #4, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20449
+GEO:-34.4324091265227;150.416363512891
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19721@eventor.orienteering.asn.au
