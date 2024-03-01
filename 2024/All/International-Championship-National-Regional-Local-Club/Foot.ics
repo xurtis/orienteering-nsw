@@ -1744,10 +1744,10 @@ GEO:-33.3011909756127;149.027947103104
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19915@eventor.orienteering.asn.au
-DTSTAMP:20240228T074709Z
+DTSTAMP:20240301T072222Z
 DTSTART:20240302T230000Z
 DTEND:20240303T010000Z
-SUMMARY:Illawarra Map Running #4 & Final - Shell Cove, Illawarra Kareelah Orienteers
+SUMMARY:Illawarra Map Running #4 - Shell Cove, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19915
 GEO:-34.5901434935816;150.863934105374
 END:VEVENT
@@ -1758,7 +1758,7 @@ DTSTART:20240302T230000Z
 DTEND:20240303T010000Z
 SUMMARY:SA Sprint Distance Championships - Aberfoyle Park HS, Onkaparinga Hills Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19505
-GEO:-35.074041069437;138.595233012356
+GEO:-35.0731696814951;138.594728133068
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20434@eventor.orienteering.asn.au
@@ -1794,7 +1794,7 @@ DTSTART:20240303T010000Z
 DTEND:20240303T030000Z
 SUMMARY:ACT Sprint Championships: ACT League #1, Amaroo Schools, Abominable O-Men
 URL:https://eventor.orienteering.asn.au/Events/Show/19541
-GEO:-35.1652710078909;149.128698496373
+GEO:-35.1651030322441;149.125904371779
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20361@eventor.orienteering.asn.au
@@ -2272,12 +2272,30 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19572
 GEO:-33.8019821072878;149.041077535894
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20452@eventor.orienteering.asn.au
+DTSTAMP:20240301T070634Z
+DTSTART:20240316T050000Z
+DTEND:20240316T080000Z
+SUMMARY:Evedon Training Day 1, Bibbulmun Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20452
+GEO:-33.3451771822631;115.868072559644
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20155@eventor.orienteering.asn.au
 DTSTAMP:20240208T031920Z
 DTSTART:20240316T053000Z
 DTEND:20240316T053000Z
 SUMMARY:Sprint Series - EN - Event 6 - Samford Valley Steiner School, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20155
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20305@eventor.orienteering.asn.au
+DTSTAMP:20240301T051521Z
+DTSTART:20240316T063000Z
+DTEND:20240316T093000Z
+SUMMARY:Whyalla Golf Course, Saltbush Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20305
+GEO:-33.020537678017;137.564879812953
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20198@eventor.orienteering.asn.au
@@ -2332,6 +2350,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19859
 GEO:-28.0575275734437;151.651585023453
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20454@eventor.orienteering.asn.au
+DTSTAMP:20240301T070449Z
+DTSTART:20240317T010000Z
+DTEND:20240317T040000Z
+SUMMARY:Evedon Training Day 2, Bibbulmun Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20454
+GEO:-33.3450744021238;115.86819499513
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20050@eventor.orienteering.asn.au
 DTSTAMP:20231216T061643Z
 DTSTART:20240317T040000Z
@@ -2357,15 +2384,6 @@ DTEND:20240317T060000Z
 SUMMARY:MapRun Parks 2024 - Roma St Parklands, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20363
 GEO:-27.4630472152421;153.018033239785
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20305@eventor.orienteering.asn.au
-DTSTAMP:20240125T062212Z
-DTSTART:20240317T063000Z
-DTEND:20240317T093000Z
-SUMMARY:Whyalla Golf Course, Saltbush Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20305
-GEO:-33.0195340554583;137.564355029053
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20190@eventor.orienteering.asn.au
@@ -2669,7 +2687,7 @@ GEO:-27.4792273544345;153.05147834461
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19671@eventor.orienteering.asn.au
-DTSTAMP:20231209T030310Z
+DTSTAMP:20240229T224545Z
 DTSTART:20240328T130000Z
 DTEND:20240328T130000Z
 SUMMARY:Australian 3 days 2024 Camping, Orienteering SA
@@ -2841,6 +2859,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20275
 GEO:-34.7000759545791;135.92545740367
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20453@eventor.orienteering.asn.au
+DTSTAMP:20240301T065505Z
+DTSTART:20240407T010000Z
+DTEND:20240407T033000Z
+SUMMARY:NavDash 4 Carine SHS, LOST / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/20453
+GEO:-31.8512980718778;115.775640011491
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19574@eventor.orienteering.asn.au
 DTSTAMP:20240206T071058Z
 DTSTART:20240412T140000Z
@@ -3004,6 +3031,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20004
 GEO:-42.919994096859;147.316147747177
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20455@eventor.orienteering.asn.au
+DTSTAMP:20240301T070756Z
+DTSTART:20240421T010000Z
+DTEND:20240421T033000Z
+SUMMARY:NavDash 5 Murdoch/Curtin, Bibbulmun Orienteers / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/20455
+GEO:-32.0667901500283;115.835127505827
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18739@eventor.orienteering.asn.au
 DTSTAMP:20240126T055357Z
 DTSTART:20240423T073000Z
@@ -3159,14 +3195,6 @@ SUMMARY:Ballarat Classics Series #2 - Petticoat Gully, Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20020
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20307@eventor.orienteering.asn.au
-DTSTAMP:20240125T062710Z
-DTSTART:20240428T003000Z
-DTEND:20240428T033000Z
-SUMMARY:False Bay, Saltbush Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20307
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20430@eventor.orienteering.asn.au
 DTSTAMP:20240222T050613Z
 DTSTART:20240428T010000Z
@@ -3174,6 +3202,15 @@ DTEND:20240428T010000Z
 SUMMARY:Activity Day, Abbey Walk, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20430
 GEO:-37.8423219451486;145.211414130977
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20456@eventor.orienteering.asn.au
+DTSTAMP:20240301T071710Z
+DTSTART:20240428T013000Z
+DTEND:20240428T050000Z
+SUMMARY:Bush 1 Red Hill, Orienteering WA / Wullundigong Orienteers of the West
+URL:https://eventor.orienteering.asn.au/Events/Show/20456
+GEO:-31.8486589624406;116.067789916997
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20330@eventor.orienteering.asn.au
@@ -3251,6 +3288,14 @@ DTEND:20240505T020000Z
 SUMMARY:Vic Series 1 - Eppalock, Yarra Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20348
 GEO:-36.8861625737612;144.481155811671
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20307@eventor.orienteering.asn.au
+DTSTAMP:20240301T052153Z
+DTSTART:20240505T003000Z
+DTEND:20240505T033000Z
+SUMMARY:False Bay, Saltbush Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20307
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20257@eventor.orienteering.asn.au
@@ -3822,7 +3867,7 @@ GEO:-34.5416430170873;135.933364312535
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19577@eventor.orienteering.asn.au
-DTSTAMP:20240227T063135Z
+DTSTAMP:20240301T083926Z
 DTSTART:20240608T040000Z
 DTEND:20240610T040000Z
 SUMMARY:2024 KB3 3-Days (NSW State Leagues) - Rylstone Area, Garingal Orienteers
@@ -5024,7 +5069,7 @@ GEO:-36.5992181281327;143.69622995524
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19520@eventor.orienteering.asn.au
-DTSTAMP:20240116T062217Z
+DTSTAMP:20240229T181045Z
 DTSTART:20240907T140000Z
 DTEND:20240908T140000Z
 SUMMARY:2024 NSW Long Distance Championships (SL #17), Bennelong Northside Orienteers / Orienteering NSW / Uringa Orienteers

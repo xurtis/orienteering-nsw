@@ -173,6 +173,15 @@ SUMMARY:Australind (SWOT Urban Series 4), South-West Orienteering Trekkers
 URL:https://eventor.orienteering.asn.au/Events/Show/20189
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20452@eventor.orienteering.asn.au
+DTSTAMP:20240301T070634Z
+DTSTART:20240316T050000Z
+DTEND:20240316T080000Z
+SUMMARY:Evedon Training Day 1, Bibbulmun Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20452
+GEO:-33.3451771822631;115.868072559644
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20198@eventor.orienteering.asn.au
 DTSTAMP:20240217T112651Z
 DTSTART:20240316T070000Z
@@ -180,6 +189,15 @@ DTEND:20240316T070000Z
 SUMMARY:Albany - Mount Manypeaks Primary, Albany & Denmark Hinterland Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20198
 GEO:-34.8392474049765;118.171741515757
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20454@eventor.orienteering.asn.au
+DTSTAMP:20240301T070449Z
+DTSTART:20240317T010000Z
+DTEND:20240317T040000Z
+SUMMARY:Evedon Training Day 2, Bibbulmun Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20454
+GEO:-33.3450744021238;115.86819499513
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20190@eventor.orienteering.asn.au
@@ -227,6 +245,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20191
 GEO:-33.3431730036582;115.632921471803
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20453@eventor.orienteering.asn.au
+DTSTAMP:20240301T065505Z
+DTSTART:20240407T010000Z
+DTEND:20240407T033000Z
+SUMMARY:NavDash 4 Carine SHS, LOST / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/20453
+GEO:-31.8512980718778;115.775640011491
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20192@eventor.orienteering.asn.au
 DTSTAMP:20240113T035452Z
 DTSTART:20240414T073000Z
@@ -234,6 +261,24 @@ DTEND:20240414T093000Z
 SUMMARY:Bunbury CBD Score event (SWOT Urban Series 7), South-West Orienteering Trekkers
 URL:https://eventor.orienteering.asn.au/Events/Show/20192
 GEO:-33.3431730036582;115.632921471803
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20455@eventor.orienteering.asn.au
+DTSTAMP:20240301T070756Z
+DTSTART:20240421T010000Z
+DTEND:20240421T033000Z
+SUMMARY:NavDash 5 Murdoch/Curtin, Bibbulmun Orienteers / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/20455
+GEO:-32.0667901500283;115.835127505827
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20456@eventor.orienteering.asn.au
+DTSTAMP:20240301T071710Z
+DTSTART:20240428T013000Z
+DTEND:20240428T050000Z
+SUMMARY:Bush 1 Red Hill, Orienteering WA / Wullundigong Orienteers of the West
+URL:https://eventor.orienteering.asn.au/Events/Show/20456
+GEO:-31.8486589624406;116.067789916997
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18628@eventor.orienteering.asn.au
