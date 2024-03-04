@@ -522,7 +522,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20427
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18754@eventor.orienteering.asn.au
-DTSTAMP:20240226T232018Z
+DTSTAMP:20240304T055630Z
 DTSTART:20240307T003000Z
 DTEND:20240307T010000Z
 SUMMARY:Seven Hills. Bush., Orienteering Queensland
@@ -539,11 +539,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20205
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20154@eventor.orienteering.asn.au
-DTSTAMP:20240119T044129Z
+DTSTAMP:20240304T030333Z
 DTSTART:20240309T053000Z
 DTEND:20240309T053000Z
 SUMMARY:Sprint Series - EN - Event 5 - Ferny Grove SS, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20154
+GEO:-27.4050165931917;152.928969172221
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20222@eventor.orienteering.asn.au
@@ -556,21 +557,12 @@ GEO:-28.4481989205676;152.02417888302
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20437@eventor.orienteering.asn.au
-DTSTAMP:20240227T005501Z
+DTSTAMP:20240304T092643Z
 DTSTART:20240309T230000Z
 DTEND:20240310T010000Z
 SUMMARY:Street Score Orienteering at Banora Point, Tweed Heads, Paradise Lost Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20437
 GEO:-28.2122151037877;153.523110638953
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20362@eventor.orienteering.asn.au
-DTSTAMP:20240127T220747Z
-DTSTART:20240310T060000Z
-DTEND:20240310T060000Z
-SUMMARY:MapRun Parks 2024 - Underwood, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20362
-GEO:-27.6004890783354;153.148429913698
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18672@eventor.orienteering.asn.au
@@ -653,6 +645,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20236
 GEO:-27.4623763817589;153.010132514603
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20486@eventor.orienteering.asn.au
+DTSTAMP:20240304T035714Z
+DTSTART:20240319T080000Z
+DTEND:20240319T080000Z
+SUMMARY:Night Nav - West Caloundra, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20486
+GEO:-26.7992410549119;153.090901839086
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20440@eventor.orienteering.asn.au
 DTSTAMP:20240228T115825Z
 DTSTART:20240321T003000Z
@@ -714,6 +715,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20237
 GEO:-27.4890278924619;153.012869870548
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20487@eventor.orienteering.asn.au
+DTSTAMP:20240304T043937Z
+DTSTART:20240326T080000Z
+DTEND:20240326T080000Z
+SUMMARY:Night Nav - Woombye, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20487
+GEO:-26.661160206759;152.963643974939
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20442@eventor.orienteering.asn.au
 DTSTAMP:20240227T024647Z
 DTSTART:20240328T003000Z
@@ -721,6 +731,15 @@ DTEND:20240328T010000Z
 SUMMARY:Norman Creek Park and Street, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/20442
 GEO:-27.4792273544345;153.05147834461
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20362@eventor.orienteering.asn.au
+DTSTAMP:20240304T031631Z
+DTSTART:20240331T060000Z
+DTEND:20240331T060000Z
+SUMMARY:MapRun Parks 2024 ? - tbc, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20362
+GEO:-27.4731715146921;153.020966884478
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18751@eventor.orienteering.asn.au
@@ -1153,10 +1172,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20326
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19702@eventor.orienteering.asn.au
-DTSTAMP:20240229T093010Z
+DTSTAMP:20240304T025114Z
 DTSTART:20240622T223000Z
 DTEND:20240622T223000Z
-SUMMARY:MTBO SS5 - Pechey SF, Sunshine Orienteers Club
+SUMMARY:MTBO SS5 - Pechey SF, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19702
 END:VEVENT
 BEGIN:VEVENT

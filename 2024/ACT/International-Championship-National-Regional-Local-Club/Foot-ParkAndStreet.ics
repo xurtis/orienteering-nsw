@@ -269,11 +269,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20010
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19989@eventor.orienteering.asn.au
-DTSTAMP:20231212T212819Z
+DTSTAMP:20240303T224200Z
 DTSTART:20240318T060000Z
 DTEND:20240318T090000Z
-SUMMARY:ACT MapRun Street Series: Denman Prospect, 14-18 Mar, Orienteering ACT
+SUMMARY:ACT MapRun Street Series: Mawson, 14-18 Mar, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19989
+GEO:-35.3610222844082;149.100576106517
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19730@eventor.orienteering.asn.au
@@ -317,6 +318,14 @@ SUMMARY:ACT MapRun Street Series January-March Season Pass, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19978
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20459@eventor.orienteering.asn.au
+DTSTAMP:20240303T231910Z
+DTSTART:20240401T060000Z
+DTEND:20240401T090000Z
+SUMMARY:ACT MapRun Street Series: TBA, 28 Mar-1 Apr, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20459
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20012@eventor.orienteering.asn.au
 DTSTAMP:20231212T055021Z
 DTSTART:20240403T204500Z
@@ -334,6 +343,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/17892
 GEO:-35.6807591475124;149.460271355306
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20460@eventor.orienteering.asn.au
+DTSTAMP:20240303T231932Z
+DTSTART:20240408T070000Z
+DTEND:20240408T100000Z
+SUMMARY:ACT MapRun Street Series: TBA, 4-8 Apr, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20460
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19575@eventor.orienteering.asn.au
 DTSTAMP:20240223T082926Z
 DTSTART:20240413T233000Z
@@ -341,6 +358,14 @@ DTEND:20240414T030000Z
 SUMMARY:2024 NSW State League #4 - Snow Hills (ACT Classic Series; ACT League #3), Big Foot Orienteers / Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19575
 GEO:-35.2168938292715;149.800109063075
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20461@eventor.orienteering.asn.au
+DTSTAMP:20240303T231948Z
+DTSTART:20240415T070000Z
+DTEND:20240415T100000Z
+SUMMARY:ACT MapRun Street Series: TBA, 11-15 Apr, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20461
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19731@eventor.orienteering.asn.au
@@ -351,12 +376,28 @@ SUMMARY:Orienteering ACT Annual General Meeting, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19731
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20462@eventor.orienteering.asn.au
+DTSTAMP:20240303T232001Z
+DTSTART:20240422T070000Z
+DTEND:20240422T100000Z
+SUMMARY:ACT MapRun Street Series: TBA, 18-22 Apr, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20462
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19567@eventor.orienteering.asn.au
 DTSTAMP:20240210T060807Z
 DTSTART:20240428T000000Z
 DTEND:20240428T040000Z
 SUMMARY:ACT Classic Series: ACT League #4, TBA, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19567
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20463@eventor.orienteering.asn.au
+DTSTAMP:20240303T232015Z
+DTSTART:20240429T070000Z
+DTEND:20240429T100000Z
+SUMMARY:ACT MapRun Street Series: TBA, 25-29 Apr, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20463
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19543@eventor.orienteering.asn.au
@@ -375,12 +416,28 @@ SUMMARY:ACT Classic Series: ACT League #6, Broulee Dunes, Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/19544
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20464@eventor.orienteering.asn.au
+DTSTAMP:20240303T232025Z
+DTSTART:20240506T070000Z
+DTEND:20240506T100000Z
+SUMMARY:ACT MapRun Street Series: TBA, 2-6 May, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20464
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19553@eventor.orienteering.asn.au
 DTSTAMP:20240131T233026Z
 DTSTART:20240511T003000Z
 DTEND:20240511T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #1, Weston Park, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19553
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20465@eventor.orienteering.asn.au
+DTSTAMP:20240303T232046Z
+DTSTART:20240513T070000Z
+DTEND:20240513T100000Z
+SUMMARY:ACT MapRun Street Series: TBA. 9-13 May, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20465
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19545@eventor.orienteering.asn.au
@@ -399,12 +456,28 @@ SUMMARY:NOL Round 4, ACT League #8: Awoonga, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19546
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20466@eventor.orienteering.asn.au
+DTSTAMP:20240303T232054Z
+DTSTART:20240520T070000Z
+DTEND:20240520T100000Z
+SUMMARY:ACT MapRun Street Series: TBA, 16-20 May, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20466
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19555@eventor.orienteering.asn.au
 DTSTAMP:20240131T233028Z
 DTSTART:20240525T003000Z
 DTEND:20240525T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #2, Bruce Ridge, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19555
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20467@eventor.orienteering.asn.au
+DTSTAMP:20240303T232106Z
+DTSTART:20240527T070000Z
+DTEND:20240527T100000Z
+SUMMARY:ACT MapRun Street Series: TBA, 23-27 May, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20467
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19556@eventor.orienteering.asn.au
@@ -423,6 +496,22 @@ SUMMARY:ACT Classic Series: Hermann Wehner Tribute Event, Stromlo, Weston Emus
 URL:https://eventor.orienteering.asn.au/Events/Show/19547
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20468@eventor.orienteering.asn.au
+DTSTAMP:20240303T232128Z
+DTSTART:20240603T070000Z
+DTEND:20240603T100000Z
+SUMMARY:ACT MapRun Street Series: TBA, 30 May-3 Jun, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20468
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20469@eventor.orienteering.asn.au
+DTSTAMP:20240303T232147Z
+DTSTART:20240610T070000Z
+DTEND:20240610T100000Z
+SUMMARY:ACT MapRun Street Series: TBA, 6-10 Jun, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20469
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19557@eventor.orienteering.asn.au
 DTSTAMP:20240131T233032Z
 DTSTART:20240615T003000Z
@@ -439,12 +528,28 @@ SUMMARY:ACT Classic Series: ACT League #9, Orroral, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19548
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20470@eventor.orienteering.asn.au
+DTSTAMP:20240303T232156Z
+DTSTART:20240617T070000Z
+DTEND:20240617T100000Z
+SUMMARY:ACT MapRun Street Series: TBA, 13-17 Jun, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20470
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19558@eventor.orienteering.asn.au
 DTSTAMP:20240131T233034Z
 DTSTART:20240622T003000Z
 DTEND:20240622T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #5, The Pinnacle, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19558
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20471@eventor.orienteering.asn.au
+DTSTAMP:20240303T232210Z
+DTSTART:20240624T070000Z
+DTEND:20240624T100000Z
+SUMMARY:ACT MapRun Street Series: TBA, 20-24 Jun, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20471
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19554@eventor.orienteering.asn.au
@@ -456,12 +561,53 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19554
 GEO:-35.3875155005967;149.208288059862
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20472@eventor.orienteering.asn.au
+DTSTAMP:20240303T232250Z
+DTSTART:20240701T070000Z
+DTEND:20240701T100000Z
+SUMMARY:ACT MapRun Street Series: TBA, 27 Jun-1 Jul, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20472
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20473@eventor.orienteering.asn.au
+DTSTAMP:20240303T232335Z
+DTSTART:20240708T070000Z
+DTEND:20240708T100000Z
+SUMMARY:ACT MapRun Street Series: TBA, 4-8 Jul, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20473
+GEO:-35.2954366401089;149.137086140199
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20474@eventor.orienteering.asn.au
+DTSTAMP:20240303T232404Z
+DTSTART:20240715T070000Z
+DTEND:20240715T100000Z
+SUMMARY:ACT MapRun Street Series: TBA, 11-15 Jul, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20474
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20475@eventor.orienteering.asn.au
+DTSTAMP:20240303T232439Z
+DTSTART:20240722T070000Z
+DTEND:20240722T100000Z
+SUMMARY:ACT MapRun Street Series: TBA, 18-22 Jul, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20475
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19559@eventor.orienteering.asn.au
 DTSTAMP:20240131T233037Z
 DTSTART:20240727T003000Z
 DTEND:20240727T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #7, Cooleman Ridge, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19559
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20476@eventor.orienteering.asn.au
+DTSTAMP:20240303T232519Z
+DTSTART:20240729T070000Z
+DTEND:20240729T100000Z
+SUMMARY:ACT MapRun Street Series: TBA, 25-29 Jul, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20476
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19560@eventor.orienteering.asn.au
@@ -472,6 +618,14 @@ SUMMARY:ACT Metro Series: incl. Junior League #8, Remembrance Park, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19560
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20477@eventor.orienteering.asn.au
+DTSTAMP:20240304T001331Z
+DTSTART:20240805T070000Z
+DTEND:20240805T100000Z
+SUMMARY:ACT MapRun Street Series: TBA, 1-5 Aug, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20477
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19561@eventor.orienteering.asn.au
 DTSTAMP:20240131T233042Z
 DTSTART:20240810T003000Z
@@ -480,12 +634,28 @@ SUMMARY:ACT Metro Series: incl. Junior League #9, McQuoids Hill, Parawanga Orien
 URL:https://eventor.orienteering.asn.au/Events/Show/19561
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20478@eventor.orienteering.asn.au
+DTSTAMP:20240303T232634Z
+DTSTART:20240812T070000Z
+DTEND:20240812T100000Z
+SUMMARY:ACT MapRun Street Series: TBA, 8-12 Aug, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20478
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19562@eventor.orienteering.asn.au
 DTSTAMP:20240131T233044Z
 DTSTART:20240817T003000Z
 DTEND:20240817T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #10, Mt Jerrabomberra, Weston Emus
 URL:https://eventor.orienteering.asn.au/Events/Show/19562
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20479@eventor.orienteering.asn.au
+DTSTAMP:20240303T232703Z
+DTSTART:20240819T070000Z
+DTEND:20240819T100000Z
+SUMMARY:ACT MapRun Street Series: TBA, 15-19 Aug, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20479
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19549@eventor.orienteering.asn.au
@@ -504,6 +674,14 @@ SUMMARY:ACT Long Championships: ACT League #12, NSW SL #15, Birkenburn, Orientee
 URL:https://eventor.orienteering.asn.au/Events/Show/19550
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20480@eventor.orienteering.asn.au
+DTSTAMP:20240303T232731Z
+DTSTART:20240826T070000Z
+DTEND:20240826T100000Z
+SUMMARY:ACT MapRun Street Series: TBA, 22-26 Aug, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20480
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19563@eventor.orienteering.asn.au
 DTSTAMP:20240131T233046Z
 DTSTART:20240831T003000Z
@@ -520,6 +698,22 @@ SUMMARY:ACT Metro Series Season Pass, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19566
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20481@eventor.orienteering.asn.au
+DTSTAMP:20240303T232808Z
+DTSTART:20240902T070000Z
+DTEND:20240902T100000Z
+SUMMARY:ACT MapRun Street Series: TBA, 29 Aug-2 Sep, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20481
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20482@eventor.orienteering.asn.au
+DTSTAMP:20240303T232849Z
+DTSTART:20240909T070000Z
+DTEND:20240909T100000Z
+SUMMARY:ACT MapRun Street Series: TBA, 5-9 Sep, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20482
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19564@eventor.orienteering.asn.au
 DTSTAMP:20240117T093339Z
 DTSTART:20240914T003000Z
@@ -528,11 +722,43 @@ SUMMARY:ACT Schools Championships and Public Event, Isaacs Ridge, Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/19564
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20483@eventor.orienteering.asn.au
+DTSTAMP:20240303T232920Z
+DTSTART:20240916T070000Z
+DTEND:20240916T100000Z
+SUMMARY:ACT MapRun Street Series: TBA, 12-16 Sep, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20483
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19565@eventor.orienteering.asn.au
 DTSTAMP:20240117T093411Z
 DTSTART:20240921T003000Z
 DTEND:20240921T033000Z
 SUMMARY:ACT Blue Lightning Super Sprints, Mt Taylor, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19565
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20484@eventor.orienteering.asn.au
+DTSTAMP:20240303T232949Z
+DTSTART:20240923T070000Z
+DTEND:20240923T100000Z
+SUMMARY:ACT MapRun Street Series: TBA, 19-23 Sep, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20484
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20485@eventor.orienteering.asn.au
+DTSTAMP:20240303T233018Z
+DTSTART:20240930T070000Z
+DTEND:20240930T100000Z
+SUMMARY:ACT MapRun Street Series: TBA, 26-30 Sep, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20485
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20458@eventor.orienteering.asn.au
+DTSTAMP:20240303T225538Z
+DTSTART:20240930T070100Z
+DTEND:20240930T070200Z
+SUMMARY:ACT MapRun Street Series April-September Season Pass, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20458
 END:VEVENT
 END:VCALENDAR
