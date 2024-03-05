@@ -671,19 +671,21 @@ GEO:-32.9731962685724;151.616255555445
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19770@eventor.orienteering.asn.au
-DTSTAMP:20240218T021558Z
+DTSTAMP:20240305T111403Z
 DTSTART:20240309T230000Z
 DTEND:20240310T023000Z
 SUMMARY:Waggaroos Introduction to Orienteering, Pomingalarna, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19770
+GEO:-35.1225613938807;147.311072760387
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19831@eventor.orienteering.asn.au
-DTSTAMP:20231119T031628Z
+DTSTAMP:20240305T035947Z
 DTSTART:20240309T230000Z
 DTEND:20240310T030000Z
-SUMMARY:Bush, Northern Tablelands Orienteering Club
+SUMMARY:Blue Hole, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19831
+GEO:-30.6006006362542;151.798718634663
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19965@eventor.orienteering.asn.au
@@ -728,6 +730,15 @@ DTEND:20240316T050000Z
 SUMMARY:2024 NSW State League #1 - Roseberg SF, Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19572
 GEO:-33.8019821072878;149.041077535894
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20489@eventor.orienteering.asn.au
+DTSTAMP:20240305T113140Z
+DTSTART:20240316T020000Z
+DTEND:20240316T050000Z
+SUMMARY:Botanic Gardens Orienteering, Bush n Beach Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20489
+GEO:-30.2974836154236;153.125397261258
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19573@eventor.orienteering.asn.au
@@ -895,9 +906,9 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19574
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20382@eventor.orienteering.asn.au
-DTSTAMP:20240228T234929Z
+DTSTAMP:20240305T054456Z
 DTSTART:20240413T030000Z
-DTEND:20240413T030000Z
+DTEND:20240413T053000Z
 SUMMARY:Highlands Forest Series #1 - Penrose State Forest, Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20382
 GEO:-34.621273291048;150.213279576268
