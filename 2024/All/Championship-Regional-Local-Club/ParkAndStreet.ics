@@ -1429,10 +1429,10 @@ GEO:-30.4300313136254;151.595768125608
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20176@eventor.orienteering.asn.au
-DTSTAMP:20240227T002720Z
+DTSTAMP:20240306T050954Z
 DTSTART:20240229T064500Z
 DTEND:20240229T084500Z
-SUMMARY:RESCHEDULED FROM 27TH - Ballarat Park & Street Summer Series ’24 – #7 Yuille Wetlands, Eureka Orienteers
+SUMMARY:Ballarat Park & Street Summer Series ’24 – #7 Yuille Wetlands, Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20176
 GEO:-37.5911296636486;143.846166755456
 END:VEVENT
@@ -1566,8 +1566,17 @@ SUMMARY:Melbourne Park Street Monday Summer Series - Oakleigh, Dandenong Ranges 
 URL:https://eventor.orienteering.asn.au/Events/Show/19918
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20379@eventor.orienteering.asn.au
+DTSTAMP:20240305T235504Z
+DTSTART:20240304T140000Z
+DTEND:20240305T140000Z
+SUMMARY:Night Nav - Marcoola, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20379
+GEO:-26.5748396698239;153.095064420625
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20177@eventor.orienteering.asn.au
-DTSTAMP:20240220T103700Z
+DTSTAMP:20240306T053931Z
 DTSTART:20240305T064500Z
 DTEND:20240305T084500Z
 SUMMARY:Ballarat Park & Street Summer Series ’24 – #8 Black Hill, Eureka Orienteers
@@ -1583,17 +1592,8 @@ SUMMARY:Melbourne Park Street Tuesday Autumn Series - Yarraville, Bayside Kangar
 URL:https://eventor.orienteering.asn.au/Events/Show/19930
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20379@eventor.orienteering.asn.au
-DTSTAMP:20240129T110013Z
-DTSTART:20240305T080000Z
-DTEND:20240305T080000Z
-SUMMARY:Night Nav - Marcoola, Sunshine Orienteers Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20379
-GEO:-26.5748396698239;153.095064420625
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19381@eventor.orienteering.asn.au
-DTSTAMP:20240223T230151Z
+DTSTAMP:20240306T104532Z
 DTSTART:20240306T053000Z
 DTEND:20240306T083000Z
 SUMMARY:2023/24 Sydney Summer Series #23 - Lilyfield, Uringa Orienteers
@@ -1602,7 +1602,7 @@ GEO:-33.8631137917003;151.163550184982
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20254@eventor.orienteering.asn.au
-DTSTAMP:20240303T224406Z
+DTSTAMP:20240306T075952Z
 DTSTART:20240306T060000Z
 DTEND:20240306T060000Z
 SUMMARY:2024 Newcastle Urban Orienteering 2 - Hunter Wetlands, Newcastle Orienteering Club
@@ -2185,10 +2185,10 @@ GEO:-27.4381606293001;152.934696566004
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18097@eventor.orienteering.asn.au
-DTSTAMP:20240126T034827Z
+DTSTAMP:20240306T015836Z
 DTSTART:20240518T040000Z
 DTEND:20240518T053000Z
-SUMMARY:Forest Series - EN - Event 2 - Victoria Park - BCC , Enoggeroos
+SUMMARY:L2O Series - EN - Event 2 - Victoria Park - BCC , Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/18097
 GEO:-27.4497629514946;153.023026386448
 END:VEVENT
