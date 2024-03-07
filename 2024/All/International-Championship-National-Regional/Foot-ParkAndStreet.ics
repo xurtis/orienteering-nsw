@@ -130,10 +130,10 @@ GEO:-37.7874063845404;144.95011889766
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19859@eventor.orienteering.asn.au
-DTSTAMP:20240224T054104Z
+DTSTAMP:20240307T045500Z
 DTSTART:20240316T230000Z
 DTEND:20240317T030000Z
-SUMMARY:OY2 - Leyburn South, Orienteering Queensland / Range Runners Orienteering Club
+SUMMARY:POSTPONED - OY2 - Leyburn South, Orienteering Queensland / Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19859
 GEO:-28.0575275734437;151.651585023453
 END:VEVENT
@@ -313,11 +313,29 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19545
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19546@eventor.orienteering.asn.au
-DTSTAMP:20240219T064527Z
+DTSTAMP:20240306T224921Z
 DTSTART:20240518T140000Z
 DTEND:20240519T140000Z
-SUMMARY:NOL Round 4, ACT League #8: Awoonga, Bushflyers
+SUMMARY:ACT League #8: Awoonga, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19546
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20491@eventor.orienteering.asn.au
+DTSTAMP:20240306T225551Z
+DTSTART:20240518T140000Z
+DTEND:20240519T140000Z
+SUMMARY:NOL Round 4, Relay: Awoonga (individual entry), Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20491
+GEO:-35.0961809510283;149.373400114909
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20492@eventor.orienteering.asn.au
+DTSTAMP:20240306T231721Z
+DTSTART:20240518T140000Z
+DTEND:20240519T140000Z
+SUMMARY:NOL Round 4, Relay: Awoonga (team nominations), Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20492
+GEO:-35.0961397882628;149.373392333373
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19450@eventor.orienteering.asn.au

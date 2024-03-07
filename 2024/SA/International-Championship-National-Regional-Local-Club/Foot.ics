@@ -363,11 +363,12 @@ GEO:-33.0379558692311;137.562552584595
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19868@eventor.orienteering.asn.au
-DTSTAMP:20231128T104525Z
+DTSTAMP:20240307T071347Z
 DTSTART:20240414T003000Z
 DTEND:20240414T040000Z
 SUMMARY:Gawler, Tintookies Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19868
+GEO:-34.6078088665157;138.750189052045
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20096@eventor.orienteering.asn.au
@@ -667,6 +668,14 @@ DTSTART:20240825T003000Z
 DTEND:20240825T033000Z
 SUMMARY:Whyalla Hills, Saltbush Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20313
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20493@eventor.orienteering.asn.au
+DTSTAMP:20240307T031909Z
+DTSTART:20240901T003000Z
+DTEND:20240901T003000Z
+SUMMARY:Mt Crawford Forest, Onkaparinga Hills Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20493
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19506@eventor.orienteering.asn.au
