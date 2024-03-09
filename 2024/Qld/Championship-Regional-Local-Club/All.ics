@@ -539,7 +539,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20205
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20154@eventor.orienteering.asn.au
-DTSTAMP:20240307T234111Z
+DTSTAMP:20240309T065930Z
 DTSTART:20240309T053000Z
 DTEND:20240309T053000Z
 SUMMARY:Sprint Series - EN - Event 5 - Ferny Grove SS, Enoggeroos
@@ -672,20 +672,21 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20207
 GEO:-27.409952352964;152.923174055076
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19696@eventor.orienteering.asn.au
+DTSTAMP:20240309T070142Z
+DTSTART:20240322T223000Z
+DTEND:20240322T223000Z
+SUMMARY:Boondall MTBO, Multi Terrain Bike Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19696
+GEO:-27.346619425644;153.071035502867
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20156@eventor.orienteering.asn.au
 DTSTAMP:20240226T042616Z
 DTSTART:20240323T053000Z
 DTEND:20240323T053000Z
 SUMMARY:Sprint Series - EN - Event 7 - Albany Creek SHS, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20156
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19696@eventor.orienteering.asn.au
-DTSTAMP:20231026T013749Z
-DTSTART:20240323T140000Z
-DTEND:20240324T140000Z
-SUMMARY:MTBO - State Series #2, Multi Terrain Bike Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19696
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20438@eventor.orienteering.asn.au
@@ -810,14 +811,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18739
 GEO:-27.4652810565561;152.98912950848
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19738@eventor.orienteering.asn.au
-DTSTAMP:20231205T173744Z
-DTSTART:20240424T140000Z
-DTEND:20240426T140000Z
-SUMMARY:OA HP Training - Brisbane Thurs (am/pm) & Fri (am/pm), Orienteering Australia / Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/19738
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20209@eventor.orienteering.asn.au
 DTSTAMP:20240120T000253Z
 DTSTART:20240426T030000Z
@@ -879,7 +872,7 @@ GEO:-27.4178858129935;153.000302235125
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19861@eventor.orienteering.asn.au
-DTSTAMP:20240226T042652Z
+DTSTAMP:20240308T202847Z
 DTSTART:20240503T140000Z
 DTEND:20240506T140000Z
 SUMMARY:Mini-Cyclones Camp - Stanthorpe, Orienteering Queensland
