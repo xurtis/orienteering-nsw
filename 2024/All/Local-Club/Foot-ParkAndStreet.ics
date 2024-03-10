@@ -2592,7 +2592,7 @@ GEO:-32.9731962685724;151.616255555445
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20252@eventor.orienteering.asn.au
-DTSTAMP:20240309T065358Z
+DTSTAMP:20240310T082306Z
 DTSTART:20240309T223000Z
 DTEND:20240310T050000Z
 SUMMARY:Eureka Challenge Knock Out Sprint, Eureka Orienteers
@@ -2601,7 +2601,7 @@ GEO:-37.6279717092264;143.893440710146
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20222@eventor.orienteering.asn.au
-DTSTAMP:20240229T101147Z
+DTSTAMP:20240310T075156Z
 DTSTART:20240309T230000Z
 DTEND:20240310T010000Z
 SUMMARY:Rosenthal Creek, Dalveen, Bullecourt Boulder Bounders
@@ -2645,7 +2645,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19965
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20410@eventor.orienteering.asn.au
-DTSTAMP:20240220T073106Z
+DTSTAMP:20240310T091521Z
 DTSTART:20240310T010000Z
 DTEND:20240310T033000Z
 SUMMARY:NavDash 2 Claisebrook, LOST / Orienteering WA
@@ -2663,7 +2663,7 @@ GEO:-27.6015484743879;153.146459185404
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20189@eventor.orienteering.asn.au
-DTSTAMP:20240305T222421Z
+DTSTAMP:20240310T125510Z
 DTSTART:20240310T073000Z
 DTEND:20240310T090000Z
 SUMMARY:Australind Primary School (SWOT Urban Series 4), South-West Orienteering Trekkers
@@ -2862,10 +2862,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19957
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20265@eventor.orienteering.asn.au
-DTSTAMP:20240123T141626Z
+DTSTAMP:20240310T024924Z
 DTSTART:20240314T143000Z
 DTEND:20240315T143000Z
-SUMMARY:NT: 2024 Wet Season Series Event 7 - Cullen Bay, Top End Orienteers
+SUMMARY:NT: 2024 Wet Season Series Event 7 - Larrakeyah/Cullen Bay, Top End Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20265
 GEO:-12.4495715713392;130.822624899014
 END:VEVENT
@@ -2916,11 +2916,12 @@ GEO:-33.3451771822631;115.868072559644
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20155@eventor.orienteering.asn.au
-DTSTAMP:20240208T031920Z
+DTSTAMP:20240310T050745Z
 DTSTART:20240316T053000Z
 DTEND:20240316T053000Z
 SUMMARY:Sprint Series - EN - Event 6 - Samford Valley Steiner School, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20155
+GEO:-27.3917620618207;152.858636351296
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20305@eventor.orienteering.asn.au
@@ -3089,7 +3090,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20028
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20415@eventor.orienteering.asn.au
-DTSTAMP:20240225T011734Z
+DTSTAMP:20240310T104557Z
 DTSTART:20240319T100000Z
 DTEND:20240319T130000Z
 SUMMARY:Course Planning Workshop, Orienteering WA
@@ -3203,10 +3204,10 @@ GEO:-34.0803673569086;150.676331965617
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20058@eventor.orienteering.asn.au
-DTSTAMP:20231218T111436Z
+DTSTAMP:20240310T025717Z
 DTSTART:20240323T013000Z
 DTEND:20240323T030000Z
-SUMMARY:Bendigo Series 1 - Lightning Hill, Bendigo Orienteers
+SUMMARY:Bendigo Bush  - Lightning Hill, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20058
 GEO:-36.7178445326267;144.252019471283
 END:VEVENT
@@ -3464,10 +3465,10 @@ GEO:-34.065089193675;150.835180690856
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20068@eventor.orienteering.asn.au
-DTSTAMP:20231218T130203Z
+DTSTAMP:20240310T030446Z
 DTSTART:20240406T013000Z
 DTEND:20240406T030000Z
-SUMMARY:Bendigo Basic 1 - Dead Bullock Gully, Bendigo Orienteers
+SUMMARY:Bendigo Bush - Dead Bullock Gully, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20068
 GEO:-36.7545361398726;144.306889133096
 END:VEVENT
@@ -3712,10 +3713,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20208
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20059@eventor.orienteering.asn.au
-DTSTAMP:20231218T123521Z
+DTSTAMP:20240310T030806Z
 DTSTART:20240420T023000Z
 DTEND:20240420T040000Z
-SUMMARY:Bendigo Series 2 - One Tree Hill, Bendigo Orienteers
+SUMMARY:Bendigo Bush - One Tree Hill, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20059
 GEO:-36.7594473081197;144.278470725581
 END:VEVENT
@@ -4010,10 +4011,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19553
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20061@eventor.orienteering.asn.au
-DTSTAMP:20231218T115846Z
+DTSTAMP:20240310T030957Z
 DTSTART:20240511T023000Z
 DTEND:20240511T040000Z
-SUMMARY:Bendigo Series 3 - Sedgwick North, Bendigo Orienteers
+SUMMARY:Bendigo Bush - Sedgwick North, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20061
 GEO:-36.7532798909974;144.299471613962
 END:VEVENT
@@ -4255,10 +4256,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19555
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20062@eventor.orienteering.asn.au
-DTSTAMP:20231218T120646Z
+DTSTAMP:20240310T031229Z
 DTSTART:20240525T023000Z
 DTEND:20240525T040000Z
-SUMMARY:Bendigo Series 4 - Pilchers Bridge Central, Bendigo Orienteers
+SUMMARY:Bendigo Bush - Pilchers Bridge Central, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20062
 GEO:-36.7482632294784;144.302853643105
 END:VEVENT
@@ -4741,10 +4742,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20327
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20069@eventor.orienteering.asn.au
-DTSTAMP:20231218T130355Z
+DTSTAMP:20240310T031558Z
 DTSTART:20240629T023000Z
 DTEND:20240629T040000Z
-SUMMARY:Bendigo Basic 2 - Mandurang Sheepwash, Bendigo Orienteers
+SUMMARY:Bendigo event - Mandurang Sheepwash, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20069
 GEO:-36.7313375526898;144.291605319963
 END:VEVENT
@@ -4819,10 +4820,10 @@ GEO:-41.4456424272338;147.09336146624
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20063@eventor.orienteering.asn.au
-DTSTAMP:20231218T122026Z
+DTSTAMP:20240310T031409Z
 DTSTART:20240706T023000Z
 DTEND:20240706T040000Z
-SUMMARY:Bendigo Series 5 - Mosquito Creek, Bendigo Orienteers
+SUMMARY:Bendigo Bush - Mosquito Creek, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20063
 GEO:-36.7475363475158;144.296062499848
 END:VEVENT
@@ -5065,10 +5066,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19559
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20064@eventor.orienteering.asn.au
-DTSTAMP:20231218T122608Z
+DTSTAMP:20240310T031904Z
 DTSTART:20240727T023000Z
 DTEND:20240727T040000Z
-SUMMARY:Bendigo Series 6 - Kangaroo Gully, Bendigo Orienteers
+SUMMARY:Bendigo Bush - Kangaroo Gully, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20064
 GEO:-36.742849688533;144.305740762212
 END:VEVENT
@@ -5182,10 +5183,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19560
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20065@eventor.orienteering.asn.au
-DTSTAMP:20231218T123025Z
+DTSTAMP:20240310T032107Z
 DTSTART:20240803T023000Z
 DTEND:20240803T040000Z
-SUMMARY:Bendigo Series 7 - Napoleon Gully, Bendigo Orienteers
+SUMMARY:Bendigo Bush - Napoleon Gully, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20065
 GEO:-36.7606766992649;144.307938454065
 END:VEVENT
@@ -5241,10 +5242,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19561
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20070@eventor.orienteering.asn.au
-DTSTAMP:20231218T130555Z
+DTSTAMP:20240310T032007Z
 DTSTART:20240810T023000Z
 DTEND:20240810T040000Z
-SUMMARY:Bendigo Basic 3 - Adelaide & Apollo Hills, Bendigo Orienteers
+SUMMARY:Bendigo event - Adelaide & Apollo Hills, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20070
 GEO:-36.7525968047594;144.27362068239
 END:VEVENT
@@ -5366,10 +5367,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19562
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20066@eventor.orienteering.asn.au
-DTSTAMP:20231218T124010Z
+DTSTAMP:20240310T032350Z
 DTSTART:20240817T023000Z
 DTEND:20240817T040000Z
-SUMMARY:Bendigo Series 8 - Argyle, Bendigo Orienteers
+SUMMARY:Bendigo Bush - Argyle, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20066
 GEO:-36.9061718353659;144.695868936257
 END:VEVENT
@@ -5491,10 +5492,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19566
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20071@eventor.orienteering.asn.au
-DTSTAMP:20231218T130712Z
+DTSTAMP:20240310T032451Z
 DTSTART:20240831T023000Z
 DTEND:20240831T040000Z
-SUMMARY:Bendigo Basic 4 - Wildflower Drive, Bendigo Orienteers
+SUMMARY:Bendigo event - Wildflower Drive, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20071
 GEO:-36.7848452250391;144.281337595244
 END:VEVENT
@@ -5550,10 +5551,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20343
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20067@eventor.orienteering.asn.au
-DTSTAMP:20240214T085626Z
+DTSTAMP:20240310T032839Z
 DTSTART:20240907T023000Z
 DTEND:20240907T040000Z
-SUMMARY:Bendigo Series 9 - Kooyoora North, Bendigo Orienteers
+SUMMARY:Bendigo Bush - Kooyoora North, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20067
 GEO:-36.5992181281327;143.69622995524
 END:VEVENT
