@@ -751,7 +751,7 @@ GEO:-33.0240279659709;151.640298170835
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19572@eventor.orienteering.asn.au
-DTSTAMP:20240303T225515Z
+DTSTAMP:20240311T082747Z
 DTSTART:20240316T020000Z
 DTEND:20240316T050000Z
 SUMMARY:2024 NSW State League #1 - Roseberg SF, Western and Hills Orienteers
@@ -769,7 +769,7 @@ GEO:-30.2974836154236;153.125397261258
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19573@eventor.orienteering.asn.au
-DTSTAMP:20240310T042020Z
+DTSTAMP:20240310T210437Z
 DTSTART:20240316T223000Z
 DTEND:20240317T023000Z
 SUMMARY:2024 NSW State League #2 - Ophir, Goldseekers Orienteers
@@ -778,7 +778,7 @@ GEO:-33.185224;149.238215
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20050@eventor.orienteering.asn.au
-DTSTAMP:20231216T061643Z
+DTSTAMP:20240310T225941Z
 DTSTART:20240317T040000Z
 DTEND:20240317T060000Z
 SUMMARY:HOG SCAS Sprint orienteering, Hastings Orienteering Group
@@ -865,6 +865,15 @@ SUMMARY:Waggaroos Training Weekend Day 2, Charles Sturt Uni, Wagga and Riverina 
 URL:https://eventor.orienteering.asn.au/Events/Show/19800
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20495@eventor.orienteering.asn.au
+DTSTAMP:20240310T233101Z
+DTSTART:20240323T223900Z
+DTEND:20240324T023000Z
+SUMMARY:Bush Season Warmup - Stanford Merthyr, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20495
+GEO:-32.8283373411722;151.490988544465
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19384@eventor.orienteering.asn.au
 DTSTAMP:20230821T045401Z
 DTSTART:20240326T053000Z
@@ -893,11 +902,12 @@ GEO:-35.1344185165987;147.369435961558
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20286@eventor.orienteering.asn.au
-DTSTAMP:20240125T014743Z
+DTSTAMP:20240311T105004Z
 DTSTART:20240406T233000Z
-DTEND:20240406T233000Z
+DTEND:20240407T020000Z
 SUMMARY:2024 Metro League #1 - Appin, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20286
+GEO:-34.2006160582367;150.792500173952
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20433@eventor.orienteering.asn.au
@@ -984,6 +994,22 @@ SUMMARY:Waggaroos - AWOC Interclub #1, Mt Terrible, Albury-Wodonga Orienteering 
 URL:https://eventor.orienteering.asn.au/Events/Show/19805
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20502@eventor.orienteering.asn.au
+DTSTAMP:20240311T070113Z
+DTSTART:20240503T233000Z
+DTEND:20240504T020000Z
+SUMMARY:SOS Hawkesbury, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20502
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20496@eventor.orienteering.asn.au
+DTSTAMP:20240311T065319Z
+DTSTART:20240503T233000Z
+DTEND:20240504T020000Z
+SUMMARY:SOS North, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20496
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20287@eventor.orienteering.asn.au
 DTSTAMP:20240130T000432Z
 DTSTART:20240504T233000Z
@@ -1006,6 +1032,22 @@ DTSTART:20240507T000000Z
 DTEND:20240507T040000Z
 SUMMARY:Riverina Schools Relays, Willan's Hill, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19804
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20503@eventor.orienteering.asn.au
+DTSTAMP:20240311T070231Z
+DTSTART:20240510T233000Z
+DTEND:20240511T020000Z
+SUMMARY:SOS Hawkesbury, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20503
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20497@eventor.orienteering.asn.au
+DTSTAMP:20240311T065230Z
+DTSTART:20240510T233000Z
+DTEND:20240511T020000Z
+SUMMARY:SOS North, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20497
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19925@eventor.orienteering.asn.au
@@ -1033,6 +1075,22 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20034
 GEO:-33.8460034291842;151.074483418337
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20504@eventor.orienteering.asn.au
+DTSTAMP:20240311T070346Z
+DTSTART:20240517T233000Z
+DTEND:20240518T020000Z
+SUMMARY:SOS Hawkesbury, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20504
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20498@eventor.orienteering.asn.au
+DTSTAMP:20240311T064654Z
+DTSTART:20240517T233000Z
+DTEND:20240518T020000Z
+SUMMARY:SOS North, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20498
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19845@eventor.orienteering.asn.au
 DTSTAMP:20231122T234859Z
 DTSTART:20240519T000000Z
@@ -1047,6 +1105,22 @@ DTSTART:20240519T000000Z
 DTEND:20240519T040000Z
 SUMMARY:Bush event, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19967
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20505@eventor.orienteering.asn.au
+DTSTAMP:20240311T070607Z
+DTSTART:20240524T233000Z
+DTEND:20240525T020000Z
+SUMMARY:SOS Hawkesbury (MAZE), Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20505
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20499@eventor.orienteering.asn.au
+DTSTAMP:20240311T070831Z
+DTSTART:20240524T233000Z
+DTEND:20240525T020000Z
+SUMMARY:SOS North (MAZE), Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20499
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19807@eventor.orienteering.asn.au
@@ -1075,6 +1149,22 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20035
 GEO:-33.8460034291842;151.074483418337
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20506@eventor.orienteering.asn.au
+DTSTAMP:20240311T070958Z
+DTSTART:20240531T233000Z
+DTEND:20240601T020000Z
+SUMMARY:SOS Hawkesbury, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20506
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20500@eventor.orienteering.asn.au
+DTSTAMP:20240311T064919Z
+DTSTART:20240531T233000Z
+DTEND:20240601T020000Z
+SUMMARY:SOS North, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20500
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19806@eventor.orienteering.asn.au
 DTSTAMP:20231117T060304Z
 DTSTART:20240601T230000Z
@@ -1099,6 +1189,22 @@ DTEND:20240612T073000Z
 SUMMARY:Moonlight Madness - VIVID (venue TBD), Bennelong Northside Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20384
 GEO:-33.8044701679092;151.297791262999
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20507@eventor.orienteering.asn.au
+DTSTAMP:20240311T071107Z
+DTSTART:20240614T233000Z
+DTEND:20240615T020000Z
+SUMMARY:SOS Hawkesbury, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20507
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20501@eventor.orienteering.asn.au
+DTSTAMP:20240311T065017Z
+DTSTART:20240614T233000Z
+DTEND:20240615T020000Z
+SUMMARY:SOS North, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20501
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19808@eventor.orienteering.asn.au

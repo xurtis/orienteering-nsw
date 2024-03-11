@@ -557,7 +557,7 @@ GEO:-28.4481989205676;152.02417888302
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20437@eventor.orienteering.asn.au
-DTSTAMP:20240304T092643Z
+DTSTAMP:20240310T214908Z
 DTSTART:20240309T230000Z
 DTEND:20240310T010000Z
 SUMMARY:Street Score Orienteering at Banora Point, Tweed Heads, Paradise Lost Orienteers
@@ -593,7 +593,7 @@ GEO:-26.3908519117398;153.037171781829
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20439@eventor.orienteering.asn.au
-DTSTAMP:20240228T054725Z
+DTSTAMP:20240311T045944Z
 DTSTART:20240314T003000Z
 DTEND:20240314T010000Z
 SUMMARY:Wellers Hill, Tarragindi - new Bush map, Orienteering Queensland
@@ -688,6 +688,15 @@ DTEND:20240324T010000Z
 SUMMARY:Park Orienteering at Mt Tamborine TBC, Paradise Lost Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20438
 GEO:-27.9418231267512;153.19286526913
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20508@eventor.orienteering.asn.au
+DTSTAMP:20240311T105454Z
+DTSTART:20240324T050000Z
+DTEND:20240324T050000Z
+SUMMARY:Queens Park, Maryborough , Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20508
+GEO:-25.5374908754961;152.705411371899
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18734@eventor.orienteering.asn.au
@@ -830,7 +839,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19701
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20413@eventor.orienteering.asn.au
-DTSTAMP:20240306T121856Z
+DTSTAMP:20240310T231015Z
 DTSTART:20240427T140000Z
 DTEND:20240428T140000Z
 SUMMARY:NOL - Public Race (pm only), Orienteering Queensland
@@ -972,14 +981,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20213
 GEO:-27.38124152285;152.975348414287
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20322@eventor.orienteering.asn.au
-DTSTAMP:20240306T015926Z
-DTSTART:20240525T040000Z
-DTEND:20240525T040000Z
-SUMMARY:L2O Series - EN - Event 3 - tbc, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/20322
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18735@eventor.orienteering.asn.au
 DTSTAMP:20230223T085337Z
 DTSTART:20240526T060000Z
@@ -1007,10 +1008,10 @@ GEO:-27.4179991938041;153.000158694982
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20323@eventor.orienteering.asn.au
-DTSTAMP:20240306T020002Z
+DTSTAMP:20240311T031959Z
 DTSTART:20240601T040000Z
 DTEND:20240601T040000Z
-SUMMARY:L2O Series - EN - Event 4 - Bunyaville W tbc, Enoggeroos
+SUMMARY:L2O Series - EN - Event 3 - Bunyaville W tbc, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20323
 END:VEVENT
 BEGIN:VEVENT
@@ -1032,10 +1033,10 @@ GEO:-27.40995383202;152.923154394207
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20324@eventor.orienteering.asn.au
-DTSTAMP:20240306T020017Z
+DTSTAMP:20240311T031921Z
 DTSTART:20240608T040000Z
 DTEND:20240608T040000Z
-SUMMARY:L2O Series - EN - Event 5 - Bellbird Grove tbc, Enoggeroos
+SUMMARY:L2O Series - EN - Event 4 - Bellbird Grove tbc, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20324
 END:VEVENT
 BEGIN:VEVENT
@@ -1056,10 +1057,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20338
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20325@eventor.orienteering.asn.au
-DTSTAMP:20240306T020033Z
+DTSTAMP:20240311T031905Z
 DTSTART:20240615T040000Z
 DTEND:20240615T040000Z
-SUMMARY:L2O Series - EN - Event 6 - Clear Mountian tbc, Enoggeroos
+SUMMARY:L2O Series - EN - Event 5 - Clear Mountian tbc, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20325
 END:VEVENT
 BEGIN:VEVENT
@@ -1080,10 +1081,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20336
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20326@eventor.orienteering.asn.au
-DTSTAMP:20240306T020049Z
+DTSTAMP:20240311T031847Z
 DTSTART:20240622T040000Z
 DTEND:20240622T040000Z
-SUMMARY:L2O Series - EN - Event 7 - WMAC tbc, Enoggeroos
+SUMMARY:L2O Series - EN - Event 6 - WMAC road trip, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20326
 END:VEVENT
 BEGIN:VEVENT
@@ -1096,10 +1097,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19702
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20327@eventor.orienteering.asn.au
-DTSTAMP:20240306T020106Z
+DTSTAMP:20240311T031819Z
 DTSTART:20240628T140000Z
 DTEND:20240629T140000Z
-SUMMARY:L2O Series - EN - Event 8 - Samford W tbc, Enoggeroos
+SUMMARY:L2O Series - EN - Event 7 - Samford W tbc, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20327
 END:VEVENT
 BEGIN:VEVENT
@@ -1138,10 +1139,10 @@ GEO:-27.9174938050246;153.358754674151
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20328@eventor.orienteering.asn.au
-DTSTAMP:20240306T020151Z
+DTSTAMP:20240311T031803Z
 DTSTART:20240713T040000Z
 DTEND:20240713T040000Z
-SUMMARY:L2O Series - EN - Event 9 goes urban, Enoggeroos
+SUMMARY:L2O Series - EN - Event 8 goes urban, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20328
 END:VEVENT
 BEGIN:VEVENT
