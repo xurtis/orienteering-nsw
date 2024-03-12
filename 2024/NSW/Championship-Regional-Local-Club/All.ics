@@ -707,7 +707,7 @@ GEO:-35.1225613938807;147.311072760387
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19831@eventor.orienteering.asn.au
-DTSTAMP:20240307T005926Z
+DTSTAMP:20240312T103826Z
 DTSTART:20240309T230000Z
 DTEND:20240310T030000Z
 SUMMARY:Blue Hole, Northern Tablelands Orienteering Club
@@ -716,10 +716,10 @@ GEO:-30.6006006362542;151.798718634663
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19965@eventor.orienteering.asn.au
-DTSTAMP:20231210T033414Z
+DTSTAMP:20240312T103612Z
 DTSTART:20240309T230000Z
 DTEND:20240310T030000Z
-SUMMARY:Bush event, Northern Tablelands Orienteering Club
+SUMMARY:Cancelled, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19965
 END:VEVENT
 BEGIN:VEVENT
@@ -742,7 +742,7 @@ GEO:-33.8142795559185;151.172201917723
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20255@eventor.orienteering.asn.au
-DTSTAMP:20240306T234230Z
+DTSTAMP:20240312T014752Z
 DTSTART:20240313T060000Z
 DTEND:20240313T060000Z
 SUMMARY:2024 Newcastle Urban Orienteering 3 - Belmont, Newcastle Orienteering Club
@@ -902,7 +902,7 @@ GEO:-35.1344185165987;147.369435961558
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20286@eventor.orienteering.asn.au
-DTSTAMP:20240311T105004Z
+DTSTAMP:20240312T041938Z
 DTSTART:20240406T233000Z
 DTEND:20240407T020000Z
 SUMMARY:2024 Metro League #1 - Appin, Illawarra Kareelah Orienteers
@@ -1003,10 +1003,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20502
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20496@eventor.orienteering.asn.au
-DTSTAMP:20240311T065319Z
+DTSTAMP:20240311T232152Z
 DTSTART:20240503T233000Z
 DTEND:20240504T020000Z
-SUMMARY:SOS North, Bold Horizons Event Organiser
+SUMMARY:SOS Northside, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/20496
 END:VEVENT
 BEGIN:VEVENT
@@ -1043,10 +1043,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20503
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20497@eventor.orienteering.asn.au
-DTSTAMP:20240311T065230Z
+DTSTAMP:20240311T232157Z
 DTSTART:20240510T233000Z
 DTEND:20240511T020000Z
-SUMMARY:SOS North, Bold Horizons Event Organiser
+SUMMARY:SOS Northside, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/20497
 END:VEVENT
 BEGIN:VEVENT
@@ -1084,10 +1084,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20504
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20498@eventor.orienteering.asn.au
-DTSTAMP:20240311T064654Z
+DTSTAMP:20240311T232203Z
 DTSTART:20240517T233000Z
 DTEND:20240518T020000Z
-SUMMARY:SOS North, Bold Horizons Event Organiser
+SUMMARY:SOS Northside, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/20498
 END:VEVENT
 BEGIN:VEVENT
@@ -1116,10 +1116,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20505
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20499@eventor.orienteering.asn.au
-DTSTAMP:20240311T070831Z
+DTSTAMP:20240311T232213Z
 DTSTART:20240524T233000Z
 DTEND:20240525T020000Z
-SUMMARY:SOS North (MAZE), Bold Horizons Event Organiser
+SUMMARY:SOS Northside (MAZE), Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/20499
 END:VEVENT
 BEGIN:VEVENT
@@ -1158,10 +1158,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20506
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20500@eventor.orienteering.asn.au
-DTSTAMP:20240311T064919Z
+DTSTAMP:20240311T232218Z
 DTSTART:20240531T233000Z
 DTEND:20240601T020000Z
-SUMMARY:SOS North, Bold Horizons Event Organiser
+SUMMARY:SOS Northside, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/20500
 END:VEVENT
 BEGIN:VEVENT
@@ -1200,10 +1200,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20507
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20501@eventor.orienteering.asn.au
-DTSTAMP:20240311T065017Z
+DTSTAMP:20240311T232223Z
 DTSTART:20240614T233000Z
 DTEND:20240615T020000Z
-SUMMARY:SOS North, Bold Horizons Event Organiser
+SUMMARY:SOS Northside, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/20501
 END:VEVENT
 BEGIN:VEVENT
@@ -1351,6 +1351,22 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20037
 GEO:-33.8460034291842;151.074483418337
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20516@eventor.orienteering.asn.au
+DTSTAMP:20240311T232325Z
+DTSTART:20240726T233000Z
+DTEND:20240727T020000Z
+SUMMARY:SOS Hills District, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20516
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20509@eventor.orienteering.asn.au
+DTSTAMP:20240311T225627Z
+DTSTART:20240726T233000Z
+DTEND:20240727T020000Z
+SUMMARY:SOS Northside, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20509
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20289@eventor.orienteering.asn.au
 DTSTAMP:20240125T015218Z
 DTSTART:20240727T233000Z
@@ -1392,12 +1408,44 @@ SUMMARY:Newcastle Shorts, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19960
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20517@eventor.orienteering.asn.au
+DTSTAMP:20240311T232445Z
+DTSTART:20240802T233000Z
+DTEND:20240803T020000Z
+SUMMARY:SOS Hills District, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20517
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20510@eventor.orienteering.asn.au
+DTSTAMP:20240311T225622Z
+DTSTART:20240802T233000Z
+DTEND:20240803T020000Z
+SUMMARY:SOS Northside, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20510
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19961@eventor.orienteering.asn.au
 DTSTAMP:20231210T031240Z
 DTSTART:20240803T140000Z
 DTEND:20240804T140000Z
 SUMMARY:Newcastle Shorts, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19961
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20518@eventor.orienteering.asn.au
+DTSTAMP:20240311T232543Z
+DTSTART:20240809T233000Z
+DTEND:20240810T020000Z
+SUMMARY:SOS Hills District, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20518
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20511@eventor.orienteering.asn.au
+DTSTAMP:20240311T225533Z
+DTSTART:20240809T233000Z
+DTEND:20240810T020000Z
+SUMMARY:SOS Northside, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20511
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19571@eventor.orienteering.asn.au
@@ -1494,12 +1542,36 @@ SUMMARY:ACT Middle Championships: ACT League #11, NSW SL #14, Wild Deer Sands, B
 URL:https://eventor.orienteering.asn.au/Events/Show/19549
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20519@eventor.orienteering.asn.au
+DTSTAMP:20240311T232708Z
+DTSTART:20240823T233000Z
+DTEND:20240824T020000Z
+SUMMARY:SOS Hills District, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20519
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20512@eventor.orienteering.asn.au
+DTSTAMP:20240311T225824Z
+DTSTART:20240823T233000Z
+DTEND:20240824T020000Z
+SUMMARY:SOS Northside, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20512
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19550@eventor.orienteering.asn.au
 DTSTAMP:20240213T021000Z
 DTSTART:20240824T140000Z
 DTEND:20240825T140000Z
 SUMMARY:ACT Long Championships: ACT League #12, NSW SL #15, Birkenburn, Orienteering ACT / Orienteering NSW / Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19550
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20513@eventor.orienteering.asn.au
+DTSTAMP:20240311T231718Z
+DTSTART:20240830T233000Z
+DTEND:20240831T020000Z
+SUMMARY:SOS Northside and Hills District, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20513
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20290@eventor.orienteering.asn.au
@@ -1537,6 +1609,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19520
 GEO:-32.9012458742003;149.934339258176
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20514@eventor.orienteering.asn.au
+DTSTAMP:20240311T231930Z
+DTSTART:20240913T233000Z
+DTEND:20240914T020000Z
+SUMMARY:SOS Northside, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20514
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20291@eventor.orienteering.asn.au
 DTSTAMP:20240125T015504Z
 DTSTART:20240914T233000Z
@@ -1560,6 +1640,14 @@ DTEND:20240917T093000Z
 SUMMARY:Orienteering NSW September Board Meeting, Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/20039
 GEO:-33.8460034291842;151.074483418337
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20515@eventor.orienteering.asn.au
+DTSTAMP:20240311T232056Z
+DTSTART:20240920T233000Z
+DTEND:20240921T020000Z
+SUMMARY:SOS Northside, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20515
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20269@eventor.orienteering.asn.au

@@ -226,7 +226,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20009
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19988@eventor.orienteering.asn.au
-DTSTAMP:20231212T212818Z
+DTSTAMP:20240311T233530Z
 DTSTART:20240311T060000Z
 DTEND:20240311T090000Z
 SUMMARY:ACT MapRun Street Series: Ngunnawal, 7-11 Mar, Orienteering ACT
@@ -442,35 +442,43 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20465
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19545@eventor.orienteering.asn.au
-DTSTAMP:20240311T062544Z
+DTSTAMP:20240312T015311Z
 DTSTART:20240517T140000Z
 DTEND:20240518T140000Z
-SUMMARY:NOL Round 4, ACT League #7: Wee Jasper, Abominable O-Men
+SUMMARY:ACT Classic Series: ACT League #7, Wee Jasper, Abominable O-Men
 URL:https://eventor.orienteering.asn.au/Events/Show/19545
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20520@eventor.orienteering.asn.au
+DTSTAMP:20240312T020906Z
+DTSTART:20240517T140000Z
+DTEND:20240518T140000Z
+SUMMARY:NOL Round 4: Middle, Wee Jasper, Abominable O-Men
+URL:https://eventor.orienteering.asn.au/Events/Show/20520
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19546@eventor.orienteering.asn.au
-DTSTAMP:20240306T224921Z
+DTSTAMP:20240312T015330Z
 DTSTART:20240518T140000Z
 DTEND:20240519T140000Z
-SUMMARY:ACT League #8: Awoonga, Bushflyers
+SUMMARY:ACT Classic Series: ACT League #8, Awoonga, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19546
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20491@eventor.orienteering.asn.au
-DTSTAMP:20240306T225551Z
+DTSTAMP:20240312T020845Z
 DTSTART:20240518T140000Z
 DTEND:20240519T140000Z
-SUMMARY:NOL Round 4, Relay: Awoonga (individual entry), Orienteering ACT
+SUMMARY:NOL Round 4: Relay, Awoonga (individual entry), Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/20491
 GEO:-35.0961809510283;149.373400114909
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20492@eventor.orienteering.asn.au
-DTSTAMP:20240306T231721Z
+DTSTAMP:20240312T020832Z
 DTSTART:20240518T140000Z
 DTEND:20240519T140000Z
-SUMMARY:NOL Round 4, Relay: Awoonga (team nominations), Orienteering ACT
+SUMMARY:NOL Round 4: Relay, Awoonga (team nominations), Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/20492
 GEO:-35.0961397882628;149.373392333373
 END:VEVENT

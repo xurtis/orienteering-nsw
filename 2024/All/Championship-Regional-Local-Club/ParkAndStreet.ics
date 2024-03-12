@@ -1029,10 +1029,10 @@ GEO:-32.9033639542;151.745901544013
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20174@eventor.orienteering.asn.au
-DTSTAMP:20240215T103125Z
+DTSTAMP:20240312T112246Z
 DTSTART:20240214T064500Z
 DTEND:20240214T084500Z
-SUMMARY:RESCHEDULED from 13/02 to 14/02 - Ballarat Park & Street Summer Series ’24 – #5 Lake Calembeen, Creswick, Eureka Orienteers
+SUMMARY:Ballarat Park & Street Summer Series ’24 – #5 Lake Calembeen, Creswick, Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20174
 GEO:-37.4194132369114;143.890469116603
 END:VEVENT
@@ -1687,16 +1687,16 @@ GEO:-28.2122151037877;153.523110638953
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18672@eventor.orienteering.asn.au
-DTSTAMP:20230424T120653Z
+DTSTAMP:20240312T031355Z
 DTSTART:20240310T060000Z
-DTEND:20240310T063000Z
+DTEND:20240310T060000Z
 SUMMARY:Maprun Parks 2024 - Underwood Park, Rochedale South - LCC, Toohey Forest Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18672
 GEO:-27.6015484743879;153.146459185404
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19988@eventor.orienteering.asn.au
-DTSTAMP:20231212T212818Z
+DTSTAMP:20240311T233530Z
 DTSTART:20240311T060000Z
 DTEND:20240311T090000Z
 SUMMARY:ACT MapRun Street Series: Ngunnawal, 7-11 Mar, Orienteering ACT
@@ -1712,6 +1712,15 @@ SUMMARY:Melbourne Park Street Monday Summer Series - Ashwood South, Bayside Kang
 URL:https://eventor.orienteering.asn.au/Events/Show/19919
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20229@eventor.orienteering.asn.au
+DTSTAMP:20240312T112024Z
+DTSTART:20240311T140000Z
+DTEND:20240312T140000Z
+SUMMARY:Night Nav - Chapel Hill (Cubberla Creek) - Term 1 Series - Event #6, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20229
+GEO:-27.511204120327;152.951764951005
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20178@eventor.orienteering.asn.au
 DTSTAMP:20240209T003539Z
 DTSTART:20240312T064500Z
@@ -1719,15 +1728,6 @@ DTEND:20240312T084500Z
 SUMMARY:Ballarat Park & Street Summer Series ’24 – #9 Ballarat East, Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20178
 GEO:-37.5649186744627;143.885979757576
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20229@eventor.orienteering.asn.au
-DTSTAMP:20240204T122742Z
-DTSTART:20240312T073000Z
-DTEND:20240312T073000Z
-SUMMARY:Night Nav - Chapel Hill (Cubberla Creek) - Term 1 Series - Event #6, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20229
-GEO:-27.511204120327;152.951764951005
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19931@eventor.orienteering.asn.au
@@ -1757,7 +1757,7 @@ GEO:-33.8142795559185;151.172201917723
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20255@eventor.orienteering.asn.au
-DTSTAMP:20240306T234230Z
+DTSTAMP:20240312T014752Z
 DTSTART:20240313T060000Z
 DTEND:20240313T060000Z
 SUMMARY:2024 Newcastle Urban Orienteering 3 - Belmont, Newcastle Orienteering Club
