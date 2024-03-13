@@ -566,7 +566,7 @@ GEO:-27.511204120327;152.951764951005
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20398@eventor.orienteering.asn.au
-DTSTAMP:20240205T043613Z
+DTSTAMP:20240313T001617Z
 DTSTART:20240312T080000Z
 DTEND:20240312T080000Z
 SUMMARY:Night Nav - Old Tewantin, Sunshine Orienteers Club
@@ -608,6 +608,15 @@ DTEND:20240317T030000Z
 SUMMARY:POSTPONED - OY2 - Leyburn South, Orienteering Queensland / Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19859
 GEO:-28.0575275734437;151.651585023453
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20529@eventor.orienteering.asn.au
+DTSTAMP:20240313T035334Z
+DTSTART:20240316T233000Z
+DTEND:20240316T233000Z
+SUMMARY:Training - Marstaellar Road, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/20529
+GEO:-27.5467202995174;152.79852526763
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20363@eventor.orienteering.asn.au
@@ -774,6 +783,15 @@ DTSTART:20240420T053000Z
 DTEND:20240420T053000Z
 SUMMARY:Sprint Series - EN - Event 9 incl SEQ All Schools Sprint - Craigslea SHS, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20158
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20521@eventor.orienteering.asn.au
+DTSTAMP:20240312T214650Z
+DTSTART:20240421T040000Z
+DTEND:20240421T040000Z
+SUMMARY:Mt Peel, Toowoomba, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20521
+GEO:-27.593985115998;151.903865524642
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18739@eventor.orienteering.asn.au
@@ -1271,6 +1289,15 @@ DTSTART:20240903T073000Z
 DTEND:20240903T073000Z
 SUMMARY:Night Nav - Term 3 Series Event #8, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20343
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20541@eventor.orienteering.asn.au
+DTSTAMP:20240313T042937Z
+DTSTART:20240907T230000Z
+DTEND:20240908T030000Z
+SUMMARY:OY2 - Leyburn South, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20541
+GEO:-28.0573518333411;151.651185995848
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20404@eventor.orienteering.asn.au

@@ -825,10 +825,10 @@ GEO:-36.7178445326267;144.252019471283
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20238@eventor.orienteering.asn.au
-DTSTAMP:20240304T012422Z
-DTSTART:20240324T000000Z
-DTEND:20240324T020000Z
-SUMMARY:Sunday Morning Sprint, Mt Lilydale, Dandenong Ranges Orienteering Club
+DTSTAMP:20240312T231557Z
+DTSTART:20240323T030000Z
+DTEND:20240323T050000Z
+SUMMARY:Saturday Afternoon Sprint, Mt Lilydale, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20238
 GEO:-37.7483044792445;145.360221536485
 END:VEVENT
@@ -866,6 +866,22 @@ SUMMARY:Melbourne Park Street Wednesday Summer Series and Awards Night - Tally H
 URL:https://eventor.orienteering.asn.au/Events/Show/19943
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20522@eventor.orienteering.asn.au
+DTSTAMP:20240313T032048Z
+DTSTART:20240401T073000Z
+DTEND:20240401T091000Z
+SUMMARY:Melbourne Park Street Monday Night Series - Waterford Valley, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/20522
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20532@eventor.orienteering.asn.au
+DTSTAMP:20240313T035925Z
+DTSTART:20240403T073000Z
+DTEND:20240403T091000Z
+SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - Beverley Hills, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20532
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20181@eventor.orienteering.asn.au
 DTSTAMP:20240228T070527Z
 DTSTART:20240404T064500Z
@@ -882,6 +898,22 @@ DTEND:20240406T030000Z
 SUMMARY:Bendigo Bush - Dead Bullock Gully, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20068
 GEO:-36.7545361398726;144.306889133096
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20536@eventor.orienteering.asn.au
+DTSTAMP:20240313T040750Z
+DTSTART:20240406T030000Z
+DTEND:20240406T041000Z
+SUMMARY:Melbourne Park Street Saturday Series - Abbey Walk, Dandenong Ranges Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20536
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20540@eventor.orienteering.asn.au
+DTSTAMP:20240313T041528Z
+DTSTART:20240407T000000Z
+DTEND:20240407T011500Z
+SUMMARY:Mornington Peninsula Sunday MapRun - St Andrews Beach, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20540
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19790@eventor.orienteering.asn.au
@@ -901,6 +933,38 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20019
 GEO:-37.5428579433382;143.895143137392
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20523@eventor.orienteering.asn.au
+DTSTAMP:20240313T032448Z
+DTSTART:20240408T083000Z
+DTEND:20240408T101000Z
+SUMMARY:Melbourne Park Street Monday Night Series - Templestowe Heights, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/20523
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20527@eventor.orienteering.asn.au
+DTSTAMP:20240313T034231Z
+DTSTART:20240409T083000Z
+DTEND:20240409T101000Z
+SUMMARY:Melbourne Park Street Tuesday Night Series - Whitten Oval, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20527
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20533@eventor.orienteering.asn.au
+DTSTAMP:20240313T040040Z
+DTSTART:20240410T083000Z
+DTEND:20240410T101000Z
+SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - Camelot Rise, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20533
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20537@eventor.orienteering.asn.au
+DTSTAMP:20240313T040915Z
+DTSTART:20240413T040000Z
+DTEND:20240413T051000Z
+SUMMARY:Melbourne Park Street Saturday Series - Darebin Parklands, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20537
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20356@eventor.orienteering.asn.au
 DTSTAMP:20240308T070026Z
 DTSTART:20240414T000000Z
@@ -908,6 +972,30 @@ DTEND:20240414T000000Z
 SUMMARY:MelBushO 1 - Brimbank Park, Keilor, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20356
 GEO:-37.7308936428885;144.832378611501
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20524@eventor.orienteering.asn.au
+DTSTAMP:20240313T032657Z
+DTSTART:20240415T083000Z
+DTEND:20240415T101000Z
+SUMMARY:Melbourne Park Street Monday Night Series - Rooks Run, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/20524
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20528@eventor.orienteering.asn.au
+DTSTAMP:20240313T034416Z
+DTSTART:20240416T083000Z
+DTEND:20240416T101000Z
+SUMMARY:Melbourne Park Street Tuesday Night Series - Keilor East, Tuckonie Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20528
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20534@eventor.orienteering.asn.au
+DTSTAMP:20240313T040218Z
+DTSTART:20240417T083000Z
+DTEND:20240417T101000Z
+SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - Cathies Creek, Dandenong Ranges Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20534
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20059@eventor.orienteering.asn.au
@@ -919,6 +1007,38 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20059
 GEO:-36.7594473081197;144.278470725581
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20538@eventor.orienteering.asn.au
+DTSTAMP:20240313T041044Z
+DTSTART:20240420T040000Z
+DTEND:20240420T051000Z
+SUMMARY:Melbourne Park Street Saturday Series - Karkarook Park, Victorian ARDF Group
+URL:https://eventor.orienteering.asn.au/Events/Show/20538
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20525@eventor.orienteering.asn.au
+DTSTAMP:20240313T033512Z
+DTSTART:20240422T083000Z
+DTEND:20240422T101000Z
+SUMMARY:Melbourne Park Street Monday Summer Series - Ringwood Wilds, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/20525
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20530@eventor.orienteering.asn.au
+DTSTAMP:20240313T035626Z
+DTSTART:20240423T083000Z
+DTEND:20240423T101000Z
+SUMMARY:Melbourne Park Street Tuesday Night Series - Altona Central, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20530
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20535@eventor.orienteering.asn.au
+DTSTAMP:20240313T040405Z
+DTSTART:20240424T083000Z
+DTEND:20240424T101000Z
+SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - Camberwell, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20535
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20060@eventor.orienteering.asn.au
 DTSTAMP:20231218T123459Z
 DTSTART:20240425T030000Z
@@ -926,6 +1046,14 @@ DTEND:20240425T040000Z
 SUMMARY:Come And Try It - St Just's Point, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20060
 GEO:-36.7556195407795;144.284604076145
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20539@eventor.orienteering.asn.au
+DTSTAMP:20240313T041236Z
+DTSTART:20240427T040000Z
+DTEND:20240427T051000Z
+SUMMARY:Melbourne Park Street Saturday Series - Blackburn Creeklands, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20539
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19792@eventor.orienteering.asn.au
@@ -960,6 +1088,22 @@ DTEND:20240428T010000Z
 SUMMARY:Fun With Maps! Free Family Day, Campbells Croft, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20430
 GEO:-37.8423219451486;145.211414130977
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20526@eventor.orienteering.asn.au
+DTSTAMP:20240313T033642Z
+DTSTART:20240429T083000Z
+DTEND:20240429T101000Z
+SUMMARY:Melbourne Park Street Monday Night Series - Mulgrave, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/20526
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20531@eventor.orienteering.asn.au
+DTSTAMP:20240313T035753Z
+DTSTART:20240430T083000Z
+DTEND:20240430T101000Z
+SUMMARY:Melbourne Park Street Tuesday Night Series - Old Williamstown, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20531
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20061@eventor.orienteering.asn.au
@@ -1059,10 +1203,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19794
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19797@eventor.orienteering.asn.au
-DTSTAMP:20231117T042956Z
+DTSTAMP:20240313T045012Z
 DTSTART:20240623T000000Z
 DTEND:20240623T030000Z
-SUMMARY:AWOC-Waggaroos Interclub #3 Beechworth Gorge (Vic Series 3), Albury-Wodonga Orienteering Club
+SUMMARY:AWOC-Waggaroos Interclub #3 - Beechworth Gorge, Albury-Wodonga Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19797
 END:VEVENT
 BEGIN:VEVENT

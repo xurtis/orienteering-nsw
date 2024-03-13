@@ -584,7 +584,7 @@ GEO:-27.511204120327;152.951764951005
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20398@eventor.orienteering.asn.au
-DTSTAMP:20240205T043613Z
+DTSTAMP:20240313T001617Z
 DTSTART:20240312T080000Z
 DTEND:20240312T080000Z
 SUMMARY:Night Nav - Old Tewantin, Sunshine Orienteers Club
@@ -617,6 +617,15 @@ DTEND:20240316T053000Z
 SUMMARY:Sprint Series - EN - Event 6 - Samford Valley Steiner School, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20155
 GEO:-27.3917620618207;152.858636351296
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20529@eventor.orienteering.asn.au
+DTSTAMP:20240313T035334Z
+DTSTART:20240316T233000Z
+DTEND:20240316T233000Z
+SUMMARY:Training - Marstaellar Road, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/20529
+GEO:-27.5467202995174;152.79852526763
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20363@eventor.orienteering.asn.au
@@ -792,6 +801,15 @@ DTSTART:20240420T053000Z
 DTEND:20240420T053000Z
 SUMMARY:Sprint Series - EN - Event 9 incl SEQ All Schools Sprint - Craigslea SHS, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20158
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20521@eventor.orienteering.asn.au
+DTSTAMP:20240312T214650Z
+DTSTART:20240421T040000Z
+DTEND:20240421T040000Z
+SUMMARY:Mt Peel, Toowoomba, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20521
+GEO:-27.593985115998;151.903865524642
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18739@eventor.orienteering.asn.au

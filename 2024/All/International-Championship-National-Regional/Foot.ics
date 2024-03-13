@@ -76,7 +76,7 @@ GEO:-35.1651030322441;149.125904371779
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19973@eventor.orienteering.asn.au
-DTSTAMP:20240309T063857Z
+DTSTAMP:20240313T021832Z
 DTSTART:20240309T030000Z
 DTEND:20240309T030000Z
 SUMMARY:Bicheno - EC3Days Day 1 - OST 3 Sprint, Esk Valley
@@ -184,7 +184,7 @@ GEO:-34.9401084;139.0752816
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17892@eventor.orienteering.asn.au
-DTSTAMP:20230921T023044Z
+DTSTAMP:20240312T223444Z
 DTSTART:20240407T000000Z
 DTEND:20240407T040000Z
 SUMMARY:ACT Classic Series: ACT League #2, Ballinafad Creek, Parawanga Orienteers
@@ -371,12 +371,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19451
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20349@eventor.orienteering.asn.au
-DTSTAMP:20240217T010520Z
+DTSTAMP:20240313T042528Z
 DTSTART:20240602T000000Z
 DTEND:20240602T040000Z
-SUMMARY:Vic Series 2 - Irishtown, Bayside Kangaroos Orienteers
+SUMMARY:Vic Series 2 - Glenluce North, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20349
-GEO:-37.170258598086;144.237870649439
+GEO:-37.1671642175517;144.208985052457
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20115@eventor.orienteering.asn.au
@@ -619,6 +619,15 @@ DTEND:20240908T140000Z
 SUMMARY:2024 NSW Long Distance Championships (SL #17), Bennelong Northside Orienteers / Orienteering NSW / Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19520
 GEO:-32.9012458742003;149.934339258176
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20541@eventor.orienteering.asn.au
+DTSTAMP:20240313T042937Z
+DTSTART:20240907T230000Z
+DTEND:20240908T030000Z
+SUMMARY:OY2 - Leyburn South, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20541
+GEO:-28.0573518333411;151.651185995848
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20113@eventor.orienteering.asn.au
