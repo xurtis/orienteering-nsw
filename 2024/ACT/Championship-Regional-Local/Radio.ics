@@ -3,23 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_20264@eventor.orienteering.asn.au
-DTSTAMP:20240302T142133Z
-DTSTART:20240307T143000Z
-DTEND:20240308T143000Z
-SUMMARY:NT: 2024 Wet Season Series Event 6 - Rapid Creek, Top End Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20264
-GEO:-12.4313944550495;130.844391179261
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20205@eventor.orienteering.asn.au
-DTSTAMP:20240119T235639Z
-DTSTART:20240308T030000Z
-DTEND:20240308T030000Z
-SUMMARY:NWD Interschool Sport, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/20205
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20301@eventor.orienteering.asn.au
 DTSTAMP:20240309T012559Z
 DTSTART:20240308T220000Z
@@ -226,7 +209,7 @@ GEO:-27.511204120327;152.951764951005
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20178@eventor.orienteering.asn.au
-DTSTAMP:20240209T003539Z
+DTSTAMP:20240315T071914Z
 DTSTART:20240312T064500Z
 DTEND:20240312T084500Z
 SUMMARY:Ballarat Park & Street Summer Series ’24 – #9 Ballarat East, Eureka Orienteers
@@ -434,15 +417,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20489
 GEO:-30.2974836154236;153.125397261258
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20452@eventor.orienteering.asn.au
-DTSTAMP:20240305T230005Z
-DTSTART:20240316T050000Z
-DTEND:20240316T080000Z
-SUMMARY:Evedon Training Day 1, Bibbulmun Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20452
-GEO:-33.3451771822631;115.868072559644
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20155@eventor.orienteering.asn.au
 DTSTAMP:20240310T050745Z
 DTSTART:20240316T053000Z
@@ -452,13 +426,13 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20155
 GEO:-27.3917620618207;152.858636351296
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20305@eventor.orienteering.asn.au
-DTSTAMP:20240301T051521Z
+UID:Event_20452@eventor.orienteering.asn.au
+DTSTAMP:20240315T044958Z
 DTSTART:20240316T063000Z
-DTEND:20240316T093000Z
-SUMMARY:Whyalla Golf Course, Saltbush Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20305
-GEO:-33.020537678017;137.564879812953
+DTEND:20240316T080000Z
+SUMMARY:Evedon Training Day 1, Bibbulmun Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20452
+GEO:-33.3451771822631;115.868072559644
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20198@eventor.orienteering.asn.au
@@ -496,7 +470,7 @@ GEO:-33.185224;149.238215
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19713@eventor.orienteering.asn.au
-DTSTAMP:20240310T023008Z
+DTSTAMP:20240315T103231Z
 DTSTART:20240316T230000Z
 DTEND:20240317T013000Z
 SUMMARY:Victorian Club Relays - Royal Park, Parkville, Melbourne Forest Racers
@@ -531,6 +505,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20050
 GEO:-31.4625918232531;152.876274983062
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20454@eventor.orienteering.asn.au
+DTSTAMP:20240315T045035Z
+DTSTART:20240317T003000Z
+DTEND:20240317T040000Z
+SUMMARY:Evedon Training Day 2, Bibbulmun Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20454
+GEO:-33.3450744021238;115.86819499513
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20488@eventor.orienteering.asn.au
 DTSTAMP:20240304T042936Z
 DTSTART:20240317T010000Z
@@ -538,15 +521,6 @@ DTEND:20240317T030000Z
 SUMMARY:MTBO 1 Bibra Lake, Bibbulmun Orienteers / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/20488
 GEO:-32.0945185075454;115.837905122612
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20454@eventor.orienteering.asn.au
-DTSTAMP:20240305T230042Z
-DTSTART:20240317T010000Z
-DTEND:20240317T040000Z
-SUMMARY:Evedon Training Day 2, Bibbulmun Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20454
-GEO:-33.3450744021238;115.86819499513
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20285@eventor.orienteering.asn.au
@@ -583,6 +557,14 @@ DTEND:20240318T130000Z
 SUMMARY:2024 NSW Schools Team Nominations, NSW Stingers / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/20375
 GEO:-30.5166445306551;151.663850577199
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20542@eventor.orienteering.asn.au
+DTSTAMP:20240315T130826Z
+DTSTART:20240317T130000Z
+DTEND:20240318T130000Z
+SUMMARY:OA Pre-AGM Presidents’ Meeting, Orienteering Australia
+URL:https://eventor.orienteering.asn.au/Events/Show/20542
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20436@eventor.orienteering.asn.au
@@ -820,6 +802,15 @@ SUMMARY:Sprint Series - EN - Event 7 - Albany Creek SHS, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20156
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20305@eventor.orienteering.asn.au
+DTSTAMP:20240315T082650Z
+DTSTART:20240323T063000Z
+DTEND:20240323T093000Z
+SUMMARY:Whyalla Golf Course, Saltbush Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20305
+GEO:-33.020537678017;137.564879812953
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20447@eventor.orienteering.asn.au
 DTSTAMP:20240228T150422Z
 DTSTART:20240323T080000Z
@@ -847,7 +838,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19800
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20495@eventor.orienteering.asn.au
-DTSTAMP:20240310T233101Z
+DTSTAMP:20240315T012532Z
 DTSTART:20240323T223900Z
 DTEND:20240324T023000Z
 SUMMARY:Bush Season Warmup - Stanford Merthyr, Newcastle Orienteering Club
@@ -865,10 +856,10 @@ GEO:-34.6212006564639;135.467050472877
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20438@eventor.orienteering.asn.au
-DTSTAMP:20240227T033127Z
+DTSTAMP:20240315T072650Z
 DTSTART:20240323T230000Z
 DTEND:20240324T010000Z
-SUMMARY:Park Orienteering at Mt Tamborine TBC, Paradise Lost Orienteers
+SUMMARY:Park Orienteering at Mt Tamborine - EVENT CANCELLED, Paradise Lost Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20438
 GEO:-27.9418231267512;153.19286526913
 END:VEVENT
@@ -962,12 +953,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19921
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19384@eventor.orienteering.asn.au
-DTSTAMP:20230821T045401Z
+DTSTAMP:20240314T234232Z
 DTSTART:20240326T053000Z
 DTEND:20240326T083000Z
 SUMMARY:2023/24 Sydney Summer Series #26 - Ryde, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19384
-GEO:-33.804562854502;151.138647460782
+GEO:-33.8039833644475;151.139607726931
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20180@eventor.orienteering.asn.au
@@ -1013,6 +1004,15 @@ SUMMARY:Melbourne Park Street Wednesday Summer Series and Awards Night - Tally H
 URL:https://eventor.orienteering.asn.au/Events/Show/19943
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19671@eventor.orienteering.asn.au
+DTSTAMP:20240315T130826Z
+DTSTART:20240327T130000Z
+DTEND:20240327T130000Z
+SUMMARY:Australian 3 days 2024 Camping, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/19671
+GEO:-35.1045136760045;139.131372724979
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20442@eventor.orienteering.asn.au
 DTSTAMP:20240227T024647Z
 DTSTART:20240328T003000Z
@@ -1022,13 +1022,13 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20442
 GEO:-27.4792273544345;153.05147834461
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19671@eventor.orienteering.asn.au
-DTSTAMP:20240305T075733Z
+UID:Event_19672@eventor.orienteering.asn.au
+DTSTAMP:20240315T130826Z
 DTSTART:20240328T130000Z
 DTEND:20240328T130000Z
-SUMMARY:Australian 3 days 2024 Camping, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/19671
-GEO:-35.1045136760045;139.131372724979
+SUMMARY:Australian 3 Days 2024 Merchandise, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/19672
+GEO:-34.9389239298646;139.068478963944
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19480@eventor.orienteering.asn.au
@@ -1047,15 +1047,6 @@ DTEND:20240329T063000Z
 SUMMARY:Australian 3 Days 2024 - Family Teams Event, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/19481
 GEO:-35.0213181436702;138.714402699215
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19672@eventor.orienteering.asn.au
-DTSTAMP:20240129T202630Z
-DTSTART:20240329T130000Z
-DTEND:20240329T130000Z
-SUMMARY:Australian 3 Days 2024 Merchandise, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/19672
-GEO:-34.9389239298646;139.068478963944
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19482@eventor.orienteering.asn.au
@@ -1433,5 +1424,21 @@ DTEND:20240414T093000Z
 SUMMARY:Bunbury CBD Score event (SWOT Urban Series 7), South-West Orienteering Trekkers
 URL:https://eventor.orienteering.asn.au/Events/Show/20192
 GEO:-33.3431730036582;115.632921471803
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20461@eventor.orienteering.asn.au
+DTSTAMP:20240303T231948Z
+DTSTART:20240415T070000Z
+DTEND:20240415T100000Z
+SUMMARY:ACT MapRun Street Series: TBA, 11-15 Apr, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20461
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20524@eventor.orienteering.asn.au
+DTSTAMP:20240313T032657Z
+DTSTART:20240415T083000Z
+DTEND:20240415T101000Z
+SUMMARY:Melbourne Park Street Monday Night Series - Rooks Run, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/20524
 END:VEVENT
 END:VCALENDAR
