@@ -3,60 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_20301@eventor.orienteering.asn.au
-DTSTAMP:20240309T012559Z
-DTSTART:20240308T220000Z
-DTEND:20240309T010000Z
-SUMMARY:SOS 3D - Ryde, Bold Horizons Event Organiser
-URL:https://eventor.orienteering.asn.au/Events/Show/20301
-GEO:-33.8130352395136;151.118267847372
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20302@eventor.orienteering.asn.au
-DTSTAMP:20240309T062549Z
-DTSTART:20240308T220000Z
-DTEND:20240309T010000Z
-SUMMARY:SOS Macarthur - Macquarie Fields, Bold Horizons Event Organiser / Southern Highlands Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20302
-GEO:-33.9877345218926;150.892355491986
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20140@eventor.orienteering.asn.au
-DTSTAMP:20240309T002500Z
-DTSTART:20240308T230000Z
-DTEND:20240309T050000Z
-SUMMARY:Ballarat Sprint Weekend, Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20140
-GEO:-37.5508702239231;143.817528166934
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19973@eventor.orienteering.asn.au
-DTSTAMP:20240313T234954Z
-DTSTART:20240309T030000Z
-DTEND:20240309T030000Z
-SUMMARY:Bicheno - EC3Days Day 1 - OST 3 Sprint, Esk Valley
-URL:https://eventor.orienteering.asn.au/Events/Show/19973
-GEO:-41.87198;148.304582
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20154@eventor.orienteering.asn.au
-DTSTAMP:20240309T065930Z
-DTSTART:20240309T053000Z
-DTEND:20240309T053000Z
-SUMMARY:Sprint Series - EN - Event 5 - Ferny Grove SS, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/20154
-GEO:-27.4050032305326;152.92935819922
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20446@eventor.orienteering.asn.au
-DTSTAMP:20240228T145938Z
-DTSTART:20240309T080000Z
-DTEND:20240309T100000Z
-SUMMARY:Learn to Orienteer, Orienteering WA
-URL:https://eventor.orienteering.asn.au/Events/Show/20446
-GEO:-31.845153018889;115.948746561904
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18416@eventor.orienteering.asn.au
 DTSTAMP:20240310T041958Z
 DTSTART:20240309T210000Z
@@ -400,7 +346,7 @@ GEO:-36.7884688726424;144.223617892538
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19572@eventor.orienteering.asn.au
-DTSTAMP:20240311T082747Z
+DTSTAMP:20240316T053314Z
 DTSTART:20240316T020000Z
 DTEND:20240316T050000Z
 SUMMARY:2024 NSW State League #1 - Roseberg SF, Western and Hills Orienteers
@@ -418,7 +364,7 @@ GEO:-30.2974836154236;153.125397261258
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20155@eventor.orienteering.asn.au
-DTSTAMP:20240310T050745Z
+DTSTAMP:20240316T070257Z
 DTSTART:20240316T053000Z
 DTEND:20240316T053000Z
 SUMMARY:Sprint Series - EN - Event 6 - Samford Valley Steiner School, Enoggeroos
@@ -436,7 +382,7 @@ GEO:-33.3451771822631;115.868072559644
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20198@eventor.orienteering.asn.au
-DTSTAMP:20240217T112651Z
+DTSTAMP:20240316T100439Z
 DTSTART:20240316T070000Z
 DTEND:20240316T070000Z
 SUMMARY:Albany - Mount Manypeaks Primary, Albany & Denmark Hinterland Orienteering Club
@@ -452,14 +398,6 @@ SUMMARY:AWOC training #1 Chiltern Forest, Albury-Wodonga Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19789
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20083@eventor.orienteering.asn.au
-DTSTAMP:20231220T013338Z
-DTSTART:20240316T130000Z
-DTEND:20240317T130000Z
-SUMMARY:Romaine Reserve - Northwest Local Series #2, Pathfinders
-URL:https://eventor.orienteering.asn.au/Events/Show/20083
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19573@eventor.orienteering.asn.au
 DTSTAMP:20240310T210437Z
 DTSTART:20240316T223000Z
@@ -470,7 +408,7 @@ GEO:-33.185224;149.238215
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19713@eventor.orienteering.asn.au
-DTSTAMP:20240315T103231Z
+DTSTAMP:20240315T231358Z
 DTSTART:20240316T230000Z
 DTEND:20240317T013000Z
 SUMMARY:Victorian Club Relays - Royal Park, Parkville, Melbourne Forest Racers
@@ -488,10 +426,10 @@ GEO:-28.0575275734437;151.651585023453
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20529@eventor.orienteering.asn.au
-DTSTAMP:20240313T035334Z
+DTSTAMP:20240316T095014Z
 DTSTART:20240316T233000Z
 DTEND:20240316T233000Z
-SUMMARY:Training - Marstaellar Road, Orienteering Queensland
+SUMMARY:Training - Marstaeller Road, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/20529
 GEO:-27.5467202995174;152.79852526763
 END:VEVENT
@@ -559,14 +497,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20375
 GEO:-30.5166445306551;151.663850577199
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20542@eventor.orienteering.asn.au
-DTSTAMP:20240315T130826Z
-DTSTART:20240317T130000Z
-DTEND:20240318T130000Z
-SUMMARY:OA Pre-AGM Presidents’ Meeting, Orienteering Australia
-URL:https://eventor.orienteering.asn.au/Events/Show/20542
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20436@eventor.orienteering.asn.au
 DTSTAMP:20240226T075427Z
 DTSTART:20240317T230000Z
@@ -593,6 +523,14 @@ SUMMARY:Melbourne Park Street Monday Summer Series - MitchelHill, Dandenong Rang
 URL:https://eventor.orienteering.asn.au/Events/Show/19920
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20542@eventor.orienteering.asn.au
+DTSTAMP:20240316T063609Z
+DTSTART:20240318T080000Z
+DTEND:20240318T080000Z
+SUMMARY:OA Pre-AGM Presidents’ Meeting, Orienteering Australia
+URL:https://eventor.orienteering.asn.au/Events/Show/20542
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19730@eventor.orienteering.asn.au
 DTSTAMP:20231102T015357Z
 DTSTART:20240318T090000Z
@@ -602,7 +540,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19730
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20179@eventor.orienteering.asn.au
-DTSTAMP:20240209T003558Z
+DTSTAMP:20240316T104046Z
 DTSTART:20240319T064500Z
 DTEND:20240319T084500Z
 SUMMARY:Ballarat Park & Street Summer Series ’24 – #10 Victoria Park, Eureka Orienteers
@@ -889,6 +827,14 @@ DTEND:20240323T233000Z
 SUMMARY:Belair NP, Onkaparinga Hills Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20215
 GEO:-35.0102958614921;138.635895697135
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20083@eventor.orienteering.asn.au
+DTSTAMP:20240316T035153Z
+DTSTART:20240323T233000Z
+DTEND:20240324T033000Z
+SUMMARY:Tiagarra - Northwest Local Series #2, Pathfinders
+URL:https://eventor.orienteering.asn.au/Events/Show/20083
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20428@eventor.orienteering.asn.au
@@ -1440,5 +1386,13 @@ DTSTART:20240415T083000Z
 DTEND:20240415T101000Z
 SUMMARY:Melbourne Park Street Monday Night Series - Rooks Run, Orienteering Victoria
 URL:https://eventor.orienteering.asn.au/Events/Show/20524
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20528@eventor.orienteering.asn.au
+DTSTAMP:20240313T034416Z
+DTSTART:20240416T083000Z
+DTEND:20240416T101000Z
+SUMMARY:Melbourne Park Street Tuesday Night Series - Keilor East, Tuckonie Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20528
 END:VEVENT
 END:VCALENDAR
