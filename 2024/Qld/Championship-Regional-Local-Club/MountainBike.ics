@@ -3,32 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_20011@eventor.orienteering.asn.au
-DTSTAMP:20240321T001653Z
-DTSTART:20240320T204500Z
-DTEND:20240320T214500Z
-SUMMARY:SC-ORE #3: Eddison Park, Woden, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/20011
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20440@eventor.orienteering.asn.au
-DTSTAMP:20240322T014131Z
-DTSTART:20240321T003000Z
-DTEND:20240321T010000Z
-SUMMARY:Cameron Creek, Kholo Bushland (MapRun), Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/20440
-GEO:-27.5037133922639;152.803926324659
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20400@eventor.orienteering.asn.au
-DTSTAMP:20240205T071435Z
-DTSTART:20240321T051500Z
-DTEND:20240321T063000Z
-SUMMARY:Central Adelaide Schools Zone Event 3 Linden Park PS, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/20400
-GEO:-34.9473684108661;138.646585690244
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20207@eventor.orienteering.asn.au
 DTSTAMP:20240119T235954Z
 DTSTART:20240322T030000Z
@@ -279,6 +253,15 @@ SUMMARY:Melbourne Park Street Monday Summer Series - Wantirna South, Bayside Kan
 URL:https://eventor.orienteering.asn.au/Events/Show/19921
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20487@eventor.orienteering.asn.au
+DTSTAMP:20240328T110355Z
+DTSTART:20240325T140000Z
+DTEND:20240326T140000Z
+SUMMARY:Night Nav - Woombye, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20487
+GEO:-26.661160206759;152.963643974939
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20237@eventor.orienteering.asn.au
 DTSTAMP:20240326T105517Z
 DTSTART:20240325T140000Z
@@ -314,15 +297,6 @@ SUMMARY:Melbourne Park Street Tuesday Autumn Series - Newport, Bayside Kangaroos
 URL:https://eventor.orienteering.asn.au/Events/Show/19933
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20487@eventor.orienteering.asn.au
-DTSTAMP:20240304T043937Z
-DTSTART:20240326T080000Z
-DTEND:20240326T080000Z
-SUMMARY:Night Nav - Woombye, Sunshine Orienteers Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20487
-GEO:-26.661160206759;152.963643974939
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19943@eventor.orienteering.asn.au
 DTSTAMP:20231206T044003Z
 DTSTART:20240327T073000Z
@@ -341,7 +315,7 @@ GEO:-35.1045136760045;139.131372724979
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20442@eventor.orienteering.asn.au
-DTSTAMP:20240227T024647Z
+DTSTAMP:20240328T034214Z
 DTSTART:20240328T003000Z
 DTEND:20240328T010000Z
 SUMMARY:Norman Creek Park and Street, Orienteering Queensland
@@ -446,10 +420,10 @@ GEO:-27.4591639178209;152.978139654517
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20181@eventor.orienteering.asn.au
-DTSTAMP:20240228T070527Z
+DTSTAMP:20240328T072553Z
 DTSTART:20240404T064500Z
 DTEND:20240404T084500Z
-SUMMARY:Ballarat Park & Street Summer Series ’24 – #12 Lake Gardens, Eureka Orienteers
+SUMMARY:Ballarat Park & Street Summer Series ’24 – #12 Lake Gardens - Foot & MTBO, Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20181
 GEO:-37.544892871974;143.818196851793
 END:VEVENT
@@ -507,7 +481,7 @@ GEO:-41.5710318034223;147.253413889498
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19801@eventor.orienteering.asn.au
-DTSTAMP:20231117T053946Z
+DTSTAMP:20240328T023708Z
 DTSTART:20240406T230000Z
 DTEND:20240407T033000Z
 SUMMARY:Waggaroos Local event, Willan's Hill plus LTO Training session, Wagga and Riverina Occasional Orienteers
@@ -550,11 +524,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19790
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20433@eventor.orienteering.asn.au
-DTSTAMP:20240225T054005Z
+DTSTAMP:20240328T023242Z
 DTSTART:20240407T000000Z
 DTEND:20240407T020000Z
 SUMMARY:Goldseekers Bush Series #2 - Bridal Track Reserve, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20433
+GEO:-33.2462261228413;149.161219172061
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17892@eventor.orienteering.asn.au
@@ -783,7 +758,7 @@ GEO:-34.5996156796607;138.747546488866
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19850@eventor.orienteering.asn.au
-DTSTAMP:20240226T091208Z
+DTSTAMP:20240328T022941Z
 DTSTART:20240414T040000Z
 DTEND:20240417T030000Z
 SUMMARY:Bluebottles April Camp at Belanglo, Orienteering NSW
@@ -902,7 +877,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20158
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20582@eventor.orienteering.asn.au
-DTSTAMP:20240326T232551Z
+DTSTAMP:20240328T023039Z
 DTSTART:20240420T233000Z
 DTEND:20240421T030000Z
 SUMMARY:NOY2 - Redgum Ridges (Freemans Waterhole), Newcastle Orienteering Club
@@ -1050,7 +1025,7 @@ GEO:-27.6325109635659;153.132395909351
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19733@eventor.orienteering.asn.au
-DTSTAMP:20240310T023630Z
+DTSTAMP:20240328T001223Z
 DTSTART:20240426T223000Z
 DTEND:20240426T223000Z
 SUMMARY:NOL3a - WRE Elite & Qld Sprint Champs (am) - OY3, Orienteering Queensland
@@ -1082,5 +1057,109 @@ DTSTART:20240427T040000Z
 DTEND:20240427T051000Z
 SUMMARY:Melbourne Park Street Saturday Series - Blackburn Creeklands, Yarra Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20539
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19974@eventor.orienteering.asn.au
+DTSTAMP:20231211T043330Z
+DTSTART:20240427T140000Z
+DTEND:20240428T140000Z
+SUMMARY:Lovely Banks - OST 5 - Long, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/19974
+GEO:-42.4531559089982;147.237369899144
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19735@eventor.orienteering.asn.au
+DTSTAMP:20240310T230751Z
+DTSTART:20240427T140000Z
+DTEND:20240428T140000Z
+SUMMARY:NOL - Elite Knockout Sprint (am & pm), Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19735
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20413@eventor.orienteering.asn.au
+DTSTAMP:20240327T134444Z
+DTSTART:20240427T140000Z
+DTEND:20240428T140000Z
+SUMMARY:NOL - Public Race (pm only), Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/20413
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20423@eventor.orienteering.asn.au
+DTSTAMP:20240219T131425Z
+DTSTART:20240427T143000Z
+DTEND:20240428T143000Z
+SUMMARY:NT: 2024 Territory Wildlife Park, Top End Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20423
+GEO:-12.7099605462016;130.989732967594
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19701@eventor.orienteering.asn.au
+DTSTAMP:20240323T002211Z
+DTSTART:20240427T220000Z
+DTEND:20240427T220000Z
+SUMMARY:MTBO - SS3 -  Beerburrum West SF, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19701
+GEO:-26.9527993180065;152.922304346195
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19792@eventor.orienteering.asn.au
+DTSTAMP:20231117T034957Z
+DTSTART:20240428T000000Z
+DTEND:20240428T030000Z
+SUMMARY:AWOC-Waggaroos Interclub #1 Mt Terrible, Albury-Wodonga Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19792
+GEO:-36.0054300614845;146.922542058495
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19805@eventor.orienteering.asn.au
+DTSTAMP:20231117T055727Z
+DTSTART:20240428T000000Z
+DTEND:20240428T033000Z
+SUMMARY:Waggaroos - AWOC Interclub #1, Mt Terrible, Albury-Wodonga Orienteering Club / Wagga and Riverina Occasional Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19805
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19567@eventor.orienteering.asn.au
+DTSTAMP:20240327T224053Z
+DTSTART:20240428T000000Z
+DTEND:20240428T040000Z
+SUMMARY:ACT Classic Series: ACT League #4, Mt Taylor, Bushflyers
+URL:https://eventor.orienteering.asn.au/Events/Show/19567
+GEO:-35.3651209992582;149.072171197023
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20020@eventor.orienteering.asn.au
+DTSTAMP:20240116T110948Z
+DTSTART:20240428T000000Z
+DTEND:20240428T043000Z
+SUMMARY:Ballarat Classics Series #2 - Petticoat Gully, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20020
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20430@eventor.orienteering.asn.au
+DTSTAMP:20240312T010438Z
+DTSTART:20240428T010000Z
+DTEND:20240428T010000Z
+SUMMARY:Fun With Maps! Free Family Day, Campbells Croft, Dandenong Ranges Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20430
+GEO:-37.8423219451486;145.211414130977
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20456@eventor.orienteering.asn.au
+DTSTAMP:20240327T061331Z
+DTSTART:20240428T013000Z
+DTEND:20240428T050000Z
+SUMMARY:Bush 1 Jorgensen Park, Orienteering WA / Wullundigong Orienteers of the West
+URL:https://eventor.orienteering.asn.au/Events/Show/20456
+GEO:-31.9723491912614;116.065470165763
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20572@eventor.orienteering.asn.au
+DTSTAMP:20240319T073725Z
+DTSTART:20240428T060000Z
+DTEND:20240428T060000Z
+SUMMARY:MapRun Parks 2024 - Kenmore Hills, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20572
+GEO:-27.5112372022606;152.927903375726
 END:VEVENT
 END:VCALENDAR
