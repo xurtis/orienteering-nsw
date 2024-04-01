@@ -3,31 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_19990@eventor.orienteering.asn.au
-DTSTAMP:20240325T230833Z
-DTSTART:20240325T060000Z
-DTEND:20240325T090000Z
-SUMMARY:ACT MapRun Street Series: Lyons, 21-25 Mar, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/19990
-GEO:-35.3394771343478;149.076393481558
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19978@eventor.orienteering.asn.au
-DTSTAMP:20231211T234207Z
-DTSTART:20240325T060100Z
-DTEND:20240325T060200Z
-SUMMARY:ACT MapRun Street Series January-March Season Pass, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/19978
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19921@eventor.orienteering.asn.au
-DTSTAMP:20231206T025230Z
-DTSTART:20240325T073000Z
-DTEND:20240325T091500Z
-SUMMARY:Melbourne Park Street Monday Summer Series - Wantirna South, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19921
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20487@eventor.orienteering.asn.au
 DTSTAMP:20240328T110355Z
 DTSTART:20240325T140000Z
@@ -47,7 +22,7 @@ GEO:-27.4890278924619;153.012869870548
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19384@eventor.orienteering.asn.au
-DTSTAMP:20240326T085751Z
+DTSTAMP:20240401T045248Z
 DTSTART:20240326T053000Z
 DTEND:20240326T083000Z
 SUMMARY:2023/24 Sydney Summer Series #26 - Ryde, Garingal Orienteers
@@ -274,7 +249,7 @@ GEO:-34.2006160582367;150.792500173952
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20581@eventor.orienteering.asn.au
-DTSTAMP:20240330T215411Z
+DTSTAMP:20240401T002614Z
 DTSTART:20240406T233000Z
 DTEND:20240407T030000Z
 SUMMARY:NOY1 - Archery Ridge (Elrington), Newcastle Orienteering Club
@@ -652,7 +627,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20158
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20582@eventor.orienteering.asn.au
-DTSTAMP:20240328T023039Z
+DTSTAMP:20240401T060354Z
 DTSTART:20240420T233000Z
 DTEND:20240421T030000Z
 SUMMARY:NOY2 - Redgum Ridges (Freemans Waterhole), Newcastle Orienteering Club
@@ -688,12 +663,12 @@ GEO:-31.4695057578831;152.730763429756
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20455@eventor.orienteering.asn.au
-DTSTAMP:20240331T081601Z
+DTSTAMP:20240331T142923Z
 DTSTART:20240421T010000Z
 DTEND:20240421T033000Z
 SUMMARY:NavDash 5 Swan Valley Adventure Centre, Bibbulmun Orienteers / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/20455
-GEO:-31.8641639567377;116.010888365396
+GEO:-31.861378814663;116.006467148715
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20521@eventor.orienteering.asn.au
@@ -976,5 +951,22 @@ DTSTART:20240430T083000Z
 DTEND:20240430T101000Z
 SUMMARY:Melbourne Park Street Tuesday Night Series - Old Williamstown, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20531
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20490@eventor.orienteering.asn.au
+DTSTAMP:20240306T062016Z
+DTSTART:20240430T140000Z
+DTEND:20240501T140000Z
+SUMMARY:MTBO Jersey Order, Orienteering Australia
+URL:https://eventor.orienteering.asn.au/Events/Show/20490
+GEO:-27.6477619844233;154.8976631875
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20604@eventor.orienteering.asn.au
+DTSTAMP:20240325T012636Z
+DTSTART:20240501T083000Z
+DTEND:20240501T101000Z
+SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - The Glen, Victorian ARDF Group
+URL:https://eventor.orienteering.asn.au/Events/Show/20604
 END:VEVENT
 END:VCALENDAR
