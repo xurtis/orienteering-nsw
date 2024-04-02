@@ -3,50 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_20487@eventor.orienteering.asn.au
-DTSTAMP:20240328T110355Z
-DTSTART:20240325T140000Z
-DTEND:20240326T140000Z
-SUMMARY:Night Nav - Woombye, Sunshine Orienteers Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20487
-GEO:-26.661160206759;152.963643974939
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20237@eventor.orienteering.asn.au
-DTSTAMP:20240326T105517Z
-DTSTART:20240325T140000Z
-DTEND:20240326T140000Z
-SUMMARY:NightNav - WestEnd - Term 1 Series - Event #8, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20237
-GEO:-27.4890278924619;153.012869870548
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19384@eventor.orienteering.asn.au
-DTSTAMP:20240401T045248Z
-DTSTART:20240326T053000Z
-DTEND:20240326T083000Z
-SUMMARY:2023/24 Sydney Summer Series #26 - Ryde, Garingal Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19384
-GEO:-33.8039833644475;151.139607726931
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20180@eventor.orienteering.asn.au
-DTSTAMP:20240326T100231Z
-DTSTART:20240326T064500Z
-DTEND:20240326T084500Z
-SUMMARY:Ballarat Park & Street Summer Series ’24 – #11 Golden Point, Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20180
-GEO:-37.5774678517803;143.864158081469
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19933@eventor.orienteering.asn.au
-DTSTAMP:20231206T034228Z
-DTSTART:20240326T073000Z
-DTEND:20240326T091500Z
-SUMMARY:Melbourne Park Street Tuesday Autumn Series - Newport, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19933
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19943@eventor.orienteering.asn.au
 DTSTAMP:20231206T044003Z
 DTSTART:20240327T073000Z
@@ -127,9 +83,9 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20522
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20579@eventor.orienteering.asn.au
-DTSTAMP:20240321T065509Z
-DTSTART:20240402T073000Z
-DTEND:20240402T073000Z
+DTSTAMP:20240402T104120Z
+DTSTART:20240401T140000Z
+DTEND:20240402T140000Z
 SUMMARY:Night Nav - Ithaca - Term 1 Series - Event #7, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20579
 GEO:-27.4619476965753;153.010239837213
@@ -205,7 +161,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20536
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20315@eventor.orienteering.asn.au
-DTSTAMP:20240318T082444Z
+DTSTAMP:20240402T064238Z
 DTSTART:20240406T050000Z
 DTEND:20240406T063000Z
 SUMMARY:Club Event - Limestone Park - Ipswich City Council Sponsored, Ugly Gully Orienteers
@@ -315,6 +271,15 @@ DTEND:20240407T043000Z
 SUMMARY:Ballarat Classics Series #1 - Nerrina, Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20019
 GEO:-37.5429412187487;143.895676165979
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20624@eventor.orienteering.asn.au
+DTSTAMP:20240402T083124Z
+DTSTART:20240407T003000Z
+DTEND:20240407T003000Z
+SUMMARY:Old Maryborough Town, Maryborough, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20624
+GEO:-25.52499697531;152.672477020271
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20275@eventor.orienteering.asn.au
@@ -464,12 +429,12 @@ GEO:-37.7308936428885;144.832378611501
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20003@eventor.orienteering.asn.au
-DTSTAMP:20231211T223254Z
+DTSTAMP:20240401T234313Z
 DTSTART:20240414T000000Z
 DTEND:20240414T000000Z
 SUMMARY:Risdon Brook - Southern Local #1, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/20003
-GEO:-42.8046743838555;147.338262593291
+GEO:-42.8046876476726;147.338732542325
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19791@eventor.orienteering.asn.au
@@ -654,7 +619,7 @@ GEO:-37.6050723706506;144.18712179318
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20457@eventor.orienteering.asn.au
-DTSTAMP:20240302T043207Z
+DTSTAMP:20240402T095259Z
 DTSTART:20240421T010000Z
 DTEND:20240421T030000Z
 SUMMARY:Broken Bago Orienteering, Hastings Orienteering Group
@@ -870,7 +835,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19805
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19567@eventor.orienteering.asn.au
-DTSTAMP:20240327T224053Z
+DTSTAMP:20240402T020602Z
 DTSTART:20240428T000000Z
 DTEND:20240428T040000Z
 SUMMARY:ACT Classic Series: ACT League #4, Mt Taylor, Bushflyers
@@ -968,5 +933,14 @@ DTSTART:20240501T083000Z
 DTEND:20240501T101000Z
 SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - The Glen, Victorian ARDF Group
 URL:https://eventor.orienteering.asn.au/Events/Show/20604
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18758@eventor.orienteering.asn.au
+DTSTAMP:20240103T094353Z
+DTSTART:20240502T003000Z
+DTEND:20240502T010000Z
+SUMMARY:Mercer Park, Kedron. (BCC Sponsored) (MAPRUN EVENT), Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/18758
+GEO:-27.405614;153.041297
 END:VEVENT
 END:VCALENDAR
