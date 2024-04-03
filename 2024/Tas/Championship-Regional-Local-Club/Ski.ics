@@ -3,23 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_19943@eventor.orienteering.asn.au
-DTSTAMP:20231206T044003Z
-DTSTART:20240327T073000Z
-DTEND:20240327T091500Z
-SUMMARY:Melbourne Park Street Wednesday Summer Series and Awards Night - Tally Ho, Dandenong Ranges Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19943
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19671@eventor.orienteering.asn.au
-DTSTAMP:20240322T065151Z
-DTSTART:20240327T130000Z
-DTEND:20240327T130000Z
-SUMMARY:Australian 3 days 2024 Camping, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/19671
-GEO:-35.1045136760045;139.131372724979
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20442@eventor.orienteering.asn.au
 DTSTAMP:20240328T034214Z
 DTSTART:20240328T003000Z
@@ -116,6 +99,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20046
 GEO:-37.5500434942304;143.832306241163
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20630@eventor.orienteering.asn.au
+DTSTAMP:20240403T090559Z
+DTSTART:20240403T230000Z
+DTEND:20240403T230000Z
+SUMMARY:Riddells Creek School Holiday program , Central Highlands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20630
+GEO:-37.460924668271;144.680710194346
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18751@eventor.orienteering.asn.au
 DTSTAMP:20240320T035248Z
 DTSTART:20240404T003000Z
@@ -125,13 +117,13 @@ URL:https://eventor.orienteering.asn.au/Events/Show/18751
 GEO:-27.4591639178209;152.978139654517
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20181@eventor.orienteering.asn.au
-DTSTAMP:20240328T072553Z
-DTSTART:20240404T064500Z
-DTEND:20240404T084500Z
-SUMMARY:Ballarat Park & Street Summer Series ’24 – #12 Lake Gardens - Foot & MTBO, Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20181
-GEO:-37.544892871974;143.818196851793
+UID:Event_20629@eventor.orienteering.asn.au
+DTSTAMP:20240403T063254Z
+DTSTART:20240404T060000Z
+DTEND:20240404T060000Z
+SUMMARY:Ballarat Park & Street Summer Series '24  & MTBO - #12 Lake Gardens , Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20629
+GEO:-37.5450310914518;143.817771830882
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20426@eventor.orienteering.asn.au
@@ -144,7 +136,7 @@ GEO:-34.065089193675;150.835180690856
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20068@eventor.orienteering.asn.au
-DTSTAMP:20240314T022359Z
+DTSTAMP:20240403T010534Z
 DTSTART:20240406T013000Z
 DTEND:20240406T030000Z
 SUMMARY:Bendigo Bush - Dead Bullock Gully, Bendigo Orienteers
@@ -196,7 +188,7 @@ GEO:-35.1344185165987;147.369435961558
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20286@eventor.orienteering.asn.au
-DTSTAMP:20240319T034647Z
+DTSTAMP:20240403T065228Z
 DTSTART:20240406T233000Z
 DTEND:20240407T020000Z
 SUMMARY:2024 Metro League #1 - Appin, Illawarra Kareelah Orienteers
@@ -230,10 +222,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19790
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20433@eventor.orienteering.asn.au
-DTSTAMP:20240328T023242Z
+DTSTAMP:20240402T230149Z
 DTSTART:20240407T000000Z
 DTEND:20240407T020000Z
-SUMMARY:Goldseekers Bush Series #2 - Bridal Track Reserve, Goldseekers Orienteers
+SUMMARY:Goldseekers Bush Series #2 - BridleTrack Reserve, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20433
 GEO:-33.2462261228413;149.161219172061
 END:VEVENT
@@ -265,10 +257,10 @@ GEO:-30.4650591683893;151.313935371878
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20019@eventor.orienteering.asn.au
-DTSTAMP:20240325T132131Z
+DTSTAMP:20240403T073155Z
 DTSTART:20240407T000000Z
 DTEND:20240407T043000Z
-SUMMARY:Ballarat Classics Series #1 - Nerrina, Eureka Orienteers
+SUMMARY:Ballarat Classics Series #1 - Nerrina ***POSTPONED***, Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20019
 GEO:-37.5429412187487;143.895676165979
 END:VEVENT
@@ -351,12 +343,21 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19574
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20382@eventor.orienteering.asn.au
-DTSTAMP:20240307T034828Z
+DTSTAMP:20240403T035919Z
 DTSTART:20240413T030000Z
-DTEND:20240413T053000Z
+DTEND:20240413T050000Z
 SUMMARY:Highlands Forest Series #1 - Penrose State Forest, Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20382
 GEO:-34.621273291048;150.213279576268
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20631@eventor.orienteering.asn.au
+DTSTAMP:20240403T103656Z
+DTSTART:20240413T033000Z
+DTEND:20240413T050000Z
+SUMMARY:Bayside Kangaroos "Jump Off" Come and Try Orienteering Kids - Darebin Parklands, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20631
+GEO:-37.772935;145.032599
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20537@eventor.orienteering.asn.au
@@ -473,7 +474,7 @@ GEO:-34.5996156796607;138.747546488866
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19850@eventor.orienteering.asn.au
-DTSTAMP:20240328T022941Z
+DTSTAMP:20240403T004644Z
 DTSTART:20240414T040000Z
 DTEND:20240417T030000Z
 SUMMARY:Bluebottles April Camp at Belanglo, Orienteering NSW
@@ -567,7 +568,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20208
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20059@eventor.orienteering.asn.au
-DTSTAMP:20240316T035034Z
+DTSTAMP:20240403T021724Z
 DTSTART:20240420T023000Z
 DTEND:20240420T040000Z
 SUMMARY:Bendigo Bush - One Tree Hill, Bendigo Orienteers
@@ -942,5 +943,14 @@ DTEND:20240502T010000Z
 SUMMARY:Mercer Park, Kedron. (BCC Sponsored) (MAPRUN EVENT), Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/18758
 GEO:-27.405614;153.041297
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20210@eventor.orienteering.asn.au
+DTSTAMP:20240120T000424Z
+DTSTART:20240503T030000Z
+DTEND:20240503T030000Z
+SUMMARY:NWD Interschool Sport, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/20210
+GEO:-27.4178858129935;153.000302235125
 END:VEVENT
 END:VCALENDAR
