@@ -3,15 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_20634@eventor.orienteering.asn.au
-DTSTAMP:20240404T111628Z
-DTSTART:20240329T200000Z
-DTEND:20240329T230000Z
-SUMMARY:TTOC Easter-O with Townsville Road Runners, Totally Tropical Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20634
-GEO:-19.3008294796224;146.761776654217
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19482@eventor.orienteering.asn.au
 DTSTAMP:20240330T102810Z
 DTSTART:20240329T233000Z
@@ -108,8 +99,17 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20629
 GEO:-37.5450310914518;143.817771830882
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20644@eventor.orienteering.asn.au
+DTSTAMP:20240406T082246Z
+DTSTART:20240405T140000Z
+DTEND:20240406T140000Z
+SUMMARY:QOTS mini Passchedaele, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/20644
+GEO:-28.5386788616574;151.85392804585
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20068@eventor.orienteering.asn.au
-DTSTAMP:20240404T235109Z
+DTSTAMP:20240406T064926Z
 DTSTART:20240406T013000Z
 DTEND:20240406T030000Z
 SUMMARY:Bendigo Bush - Dead Bullock Gully, Bendigo Orienteers
@@ -126,7 +126,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20536
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20315@eventor.orienteering.asn.au
-DTSTAMP:20240402T064238Z
+DTSTAMP:20240406T081134Z
 DTSTART:20240406T050000Z
 DTEND:20240406T063000Z
 SUMMARY:Club Event - Limestone Park - Ipswich City Council Sponsored, Ugly Gully Orienteers
@@ -161,10 +161,10 @@ GEO:-35.1344185165987;147.369435961558
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20286@eventor.orienteering.asn.au
-DTSTAMP:20240403T065228Z
+DTSTAMP:20240405T232838Z
 DTSTART:20240406T233000Z
 DTEND:20240407T020000Z
-SUMMARY:2024 Metro League #1 - Appin, Illawarra Kareelah Orienteers
+SUMMARY:2024 Metro League #1 - Appin  *** POSTPONED ***, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20286
 GEO:-34.2006160582367;150.792500173952
 END:VEVENT
@@ -195,7 +195,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19790
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20433@eventor.orienteering.asn.au
-DTSTAMP:20240402T230149Z
+DTSTAMP:20240406T004748Z
 DTSTART:20240407T000000Z
 DTEND:20240407T020000Z
 SUMMARY:Goldseekers Bush Series #2 - BridleTrack Reserve, Goldseekers Orienteers
@@ -204,10 +204,10 @@ GEO:-33.2462261228413;149.161219172061
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19966@eventor.orienteering.asn.au
-DTSTAMP:20231210T033514Z
+DTSTAMP:20240406T031939Z
 DTSTART:20240407T000000Z
 DTEND:20240407T040000Z
-SUMMARY:Bush event, Northern Tablelands Orienteering Club
+SUMMARY:Cancelled, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19966
 END:VEVENT
 BEGIN:VEVENT
@@ -315,7 +315,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19574
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20382@eventor.orienteering.asn.au
-DTSTAMP:20240403T035919Z
+DTSTAMP:20240406T085004Z
 DTSTART:20240413T030000Z
 DTEND:20240413T050000Z
 SUMMARY:Highlands Forest Series #1 - Penrose State Forest, Southern Highlands Orienteers
@@ -1097,5 +1097,29 @@ DTEND:20240505T060000Z
 SUMMARY:MapRun Parks 2024 - Edwards Park Carindale, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20573
 GEO:-27.5271574009248;153.107289040332
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19901@eventor.orienteering.asn.au
+DTSTAMP:20231202T025953Z
+DTSTART:20240505T140000Z
+DTEND:20240506T140000Z
+SUMMARY:Mini-Cyclones Camp Champs + public event, Bullecourt Boulder Bounders
+URL:https://eventor.orienteering.asn.au/Events/Show/19901
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20464@eventor.orienteering.asn.au
+DTSTAMP:20240303T232025Z
+DTSTART:20240506T070000Z
+DTEND:20240506T100000Z
+SUMMARY:ACT MapRun Street Series: TBA, 2-6 May, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20464
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20597@eventor.orienteering.asn.au
+DTSTAMP:20240325T010853Z
+DTSTART:20240506T083000Z
+DTEND:20240506T101000Z
+SUMMARY:Melbourne Park Street Monday Night Series - Malvern Star, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/20597
 END:VEVENT
 END:VCALENDAR
