@@ -3,15 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_20579@eventor.orienteering.asn.au
-DTSTAMP:20240402T104120Z
-DTSTART:20240401T140000Z
-DTEND:20240402T140000Z
-SUMMARY:Night Nav - Ithaca - Term 1 Series - Event #7, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20579
-GEO:-27.4619476965753;153.010239837213
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20532@eventor.orienteering.asn.au
 DTSTAMP:20240313T035925Z
 DTSTART:20240403T073000Z
@@ -369,7 +360,7 @@ GEO:-28.596507032362;151.775699039881
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19575@eventor.orienteering.asn.au
-DTSTAMP:20240409T060510Z
+DTSTAMP:20240409T233037Z
 DTSTART:20240413T233000Z
 DTEND:20240414T030000Z
 SUMMARY:2024 NSW State League #4 - Snow Hills (ACT Classic Series; ACT League #3), Big Foot Orienteers / Orienteering ACT
@@ -578,7 +569,7 @@ GEO:-27.3801508176519;153.018215168594
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20582@eventor.orienteering.asn.au
-DTSTAMP:20240409T065117Z
+DTSTAMP:20240410T002547Z
 DTSTART:20240420T233000Z
 DTEND:20240421T030000Z
 SUMMARY:NOY2 - Redgum Ridges (Freemans Waterhole), Newcastle Orienteering Club
@@ -666,8 +657,16 @@ SUMMARY:Melbourne Park Street Monday Summer Series - Ringwood Wilds, Orienteerin
 URL:https://eventor.orienteering.asn.au/Events/Show/20525
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20658@eventor.orienteering.asn.au
+DTSTAMP:20240410T045836Z
+DTSTART:20240422T093000Z
+DTEND:20240422T093000Z
+SUMMARY:Orienteering Australia 2024 AGM, Orienteering ACT / Orienteering Australia / Orienteering NSW / Orienteering Queensland / Orienteering SA / Orienteering Tasmania / Orienteering Victoria / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/20658
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_18739@eventor.orienteering.asn.au
-DTSTAMP:20240326T071927Z
+DTSTAMP:20240410T090700Z
 DTSTART:20240423T073000Z
 DTEND:20240423T093000Z
 SUMMARY:Night Nav - Torwood/Rainworth - BCC - Term 2 Series Event #1, Ugly Gully Orienteers
@@ -919,11 +918,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20526
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20330@eventor.orienteering.asn.au
-DTSTAMP:20240126T055415Z
+DTSTAMP:20240410T091644Z
 DTSTART:20240430T073000Z
 DTEND:20240430T073000Z
-SUMMARY:Night Nav - Term 2 Series Event #2, Ugly Gully Orienteers
+SUMMARY:Night Nav - Chapel Hill - Term 2 Series Event #2, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20330
+GEO:-27.4956750235821;152.942294084392
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20531@eventor.orienteering.asn.au
@@ -988,12 +988,12 @@ GEO:-28.6445734021208;151.947234145067
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20007@eventor.orienteering.asn.au
-DTSTAMP:20231211T224325Z
+DTSTAMP:20240410T043454Z
 DTSTART:20240503T140000Z
 DTEND:20240504T140000Z
 SUMMARY:Trevallyn - Northern Local #1, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/20007
-GEO:-41.4585875420014;147.10323417452
+GEO:-41.4390426526161;147.102482796475
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20651@eventor.orienteering.asn.au
@@ -1063,8 +1063,17 @@ SUMMARY:ACT Classic Series: ACT League #6, Broulee Dunes, Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/19544
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20656@eventor.orienteering.asn.au
+DTSTAMP:20240410T050900Z
+DTSTART:20240504T233000Z
+DTEND:20240505T030000Z
+SUMMARY:NOY3 - Missing Link [Elrington), Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20656
+GEO:-32.8818233425363;151.441016608861
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20348@eventor.orienteering.asn.au
-DTSTAMP:20240217T002057Z
+DTSTAMP:20240409T230429Z
 DTSTART:20240505T000000Z
 DTEND:20240505T020000Z
 SUMMARY:Vic Series 1 - Eppalock, Yarra Valley Orienteering Club
@@ -1166,11 +1175,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19804
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20331@eventor.orienteering.asn.au
-DTSTAMP:20240126T055433Z
+DTSTAMP:20240410T092630Z
 DTSTART:20240507T073000Z
 DTEND:20240507T073000Z
-SUMMARY:Night Nav - Term 2 Series Event #3, Ugly Gully Orienteers
+SUMMARY:Night Nav - Taringa - Term 2 Series Event #3, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20331
+GEO:-27.4914412;152.991838
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20632@eventor.orienteering.asn.au
