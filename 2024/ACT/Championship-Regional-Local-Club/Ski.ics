@@ -3,14 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_20532@eventor.orienteering.asn.au
-DTSTAMP:20240313T035925Z
-DTSTART:20240403T073000Z
-DTEND:20240403T091000Z
-SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - Beverley Hills, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20532
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20633@eventor.orienteering.asn.au
 DTSTAMP:20240407T090341Z
 DTSTART:20240403T073000Z
@@ -47,7 +39,7 @@ GEO:-37.460924668271;144.680710194346
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18751@eventor.orienteering.asn.au
-DTSTAMP:20240404T101514Z
+DTSTAMP:20240411T005150Z
 DTSTART:20240404T003000Z
 DTEND:20240404T010000Z
 SUMMARY:Bardon Forest Park. Bardon. Bush. (BCC Sponsored) (MAPRUN EVENT), Orienteering Queensland
@@ -281,7 +273,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20533
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20649@eventor.orienteering.asn.au
-DTSTAMP:20240409T103100Z
+DTSTAMP:20240411T063712Z
 DTSTART:20240411T003000Z
 DTEND:20240411T013000Z
 SUMMARY:Mercer Park (MapRun event), Orienteering Queensland
@@ -307,9 +299,9 @@ GEO:-27.4000684811483;152.960600358132
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20382@eventor.orienteering.asn.au
-DTSTAMP:20240406T233944Z
+DTSTAMP:20240411T104400Z
 DTSTART:20240413T030000Z
-DTEND:20240413T050000Z
+DTEND:20240413T053000Z
 SUMMARY:Highlands Forest Series #1 - Penrose State Forest, Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20382
 GEO:-34.621273291048;150.213279576268
@@ -333,7 +325,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20537
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20422@eventor.orienteering.asn.au
-DTSTAMP:20240219T130851Z
+DTSTAMP:20240411T011044Z
 DTSTART:20240413T143000Z
 DTEND:20240414T143000Z
 SUMMARY:NT: 2024 Holmes Jungle, Top End Orienteers
@@ -351,7 +343,7 @@ GEO:-27.9179830994338;153.373157041707
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20616@eventor.orienteering.asn.au
-DTSTAMP:20240409T112812Z
+DTSTAMP:20240410T220358Z
 DTSTART:20240413T230000Z
 DTEND:20240414T030000Z
 SUMMARY:Amiens, west of Stanthorpe, Bullecourt Boulder Bounders
@@ -439,10 +431,10 @@ GEO:-34.5996156796607;138.747546488866
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19850@eventor.orienteering.asn.au
-DTSTAMP:20240403T004644Z
+DTSTAMP:20240411T024959Z
 DTSTART:20240414T040000Z
 DTEND:20240417T030000Z
-SUMMARY:Bluebottles April Camp at Belanglo, Orienteering NSW
+SUMMARY:Bluebottles April Camp at Belanglo, Orienteering NSW / Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19850
 GEO:-34.5321344036564;150.259078317363
 END:VEVENT
@@ -508,7 +500,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20534
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20412@eventor.orienteering.asn.au
-DTSTAMP:20240213T004559Z
+DTSTAMP:20240411T005551Z
 DTSTART:20240418T003000Z
 DTEND:20240418T020000Z
 SUMMARY:Midweek - Bulimba Creek Parklands, Mansfield, Orienteering Queensland
@@ -543,7 +535,7 @@ GEO:-34.065089193675;150.835180690856
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20059@eventor.orienteering.asn.au
-DTSTAMP:20240406T233546Z
+DTSTAMP:20240411T061147Z
 DTSTART:20240420T023000Z
 DTEND:20240420T040000Z
 SUMMARY:Bendigo Bush - One Tree Hill, Bendigo Orienteers
@@ -700,12 +692,12 @@ GEO:-19.3287623481891;146.757144662838
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20642@eventor.orienteering.asn.au
-DTSTAMP:20240407T112947Z
+DTSTAMP:20240411T101357Z
 DTSTART:20240424T073000Z
 DTEND:20240424T094500Z
 SUMMARY:Moonlight Madness #1 Northbridge, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20642
-GEO:-33.8174406918042;151.218027752348
+GEO:-33.8104939302148;151.222144435734
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20535@eventor.orienteering.asn.au
@@ -803,13 +795,13 @@ SUMMARY:NOL - Public Race (pm only), Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/20413
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20423@eventor.orienteering.asn.au
-DTSTAMP:20240219T131425Z
+UID:Event_20424@eventor.orienteering.asn.au
+DTSTAMP:20240411T011018Z
 DTSTART:20240427T143000Z
 DTEND:20240428T143000Z
-SUMMARY:NT: 2024 Territory Wildlife Park, Top End Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20423
-GEO:-12.7099605462016;130.989732967594
+SUMMARY:NT: 2024 Gunn Escarpment, Top End Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20424
+GEO:-12.4874057541848;130.991983829378
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19701@eventor.orienteering.asn.au
@@ -944,7 +936,7 @@ GEO:-27.6477619844233;154.8976631875
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20650@eventor.orienteering.asn.au
-DTSTAMP:20240408T225525Z
+DTSTAMP:20240411T035801Z
 DTSTART:20240501T083000Z
 DTEND:20240501T083000Z
 SUMMARY:Newcastle Night Champs - Eleebana, Newcastle Orienteering Club
@@ -1064,7 +1056,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19544
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20656@eventor.orienteering.asn.au
-DTSTAMP:20240410T050900Z
+DTSTAMP:20240411T043403Z
 DTSTART:20240504T233000Z
 DTEND:20240505T030000Z
 SUMMARY:NOY3 - Missing Link [Elrington), Newcastle Orienteering Club
@@ -1206,5 +1198,13 @@ DTSTART:20240508T083000Z
 DTEND:20240508T101000Z
 SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - Wheelers Hill, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20605
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20211@eventor.orienteering.asn.au
+DTSTAMP:20240120T000528Z
+DTSTART:20240510T030000Z
+DTEND:20240510T030000Z
+SUMMARY:NWD Interschool Sport, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/20211
 END:VEVENT
 END:VCALENDAR
