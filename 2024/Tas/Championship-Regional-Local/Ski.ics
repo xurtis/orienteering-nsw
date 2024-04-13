@@ -255,16 +255,16 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19574
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20157@eventor.orienteering.asn.au
-DTSTAMP:20240408T103113Z
+DTSTAMP:20240413T065748Z
 DTSTART:20240413T003000Z
 DTEND:20240413T070000Z
-SUMMARY:Sprint Series - EN - Event 8 - Grovely SS & Eatons Hill SS, Enoggeroos
+SUMMARY:Sprint Series - EN - Event 8 - Grovely SS Eatons Hill SS, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20157
-GEO:-27.4000684811483;152.960600358132
+GEO:-27.3365638192501;152.959641952343
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20382@eventor.orienteering.asn.au
-DTSTAMP:20240411T104400Z
+DTSTAMP:20240413T060304Z
 DTSTART:20240413T030000Z
 DTEND:20240413T053000Z
 SUMMARY:Highlands Forest Series #1 - Penrose State Forest, Southern Highlands Orienteers
@@ -361,10 +361,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19791
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20592@eventor.orienteering.asn.au
-DTSTAMP:20240322T235035Z
+DTSTAMP:20240413T064005Z
 DTSTART:20240414T003000Z
 DTEND:20240414T033000Z
-SUMMARY:Hale Knockout Sprint training, Bibbulmun Orienteers
+SUMMARY:Hale School Knockout Sprint training, Bibbulmun Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20592
 GEO:-31.9149682594903;115.783167232491
 END:VEVENT
@@ -623,10 +623,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20658
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18739@eventor.orienteering.asn.au
-DTSTAMP:20240410T090700Z
+DTSTAMP:20240413T101015Z
 DTSTART:20240423T073000Z
 DTEND:20240423T093000Z
-SUMMARY:Night Nav - Torwood/Rainworth - BCC - Term 2 Series Event #1, Ugly Gully Orienteers
+SUMMARY:Night Nav - Torwood - BCC - Term 2 Series Event #1, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18739
 GEO:-27.4652810565561;152.98912950848
 END:VEVENT
@@ -710,12 +710,12 @@ GEO:-27.6325109635659;153.132395909351
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19733@eventor.orienteering.asn.au
-DTSTAMP:20240328T001223Z
+DTSTAMP:20240413T115835Z
 DTSTART:20240426T223000Z
 DTEND:20240426T223000Z
 SUMMARY:NOL3a - WRE Elite & Qld Sprint Champs (am) - OY3, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19733
-GEO:-27.5505763017705;153.058233603838
+GEO:-27.5500049941661;153.05499006366
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19734@eventor.orienteering.asn.au
@@ -724,7 +724,7 @@ DTSTART:20240427T040000Z
 DTEND:20240427T040000Z
 SUMMARY:NOL3b - Elite Relay & Public Sprint (pm), Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19734
-GEO:-27.6356965562341;153.135875975642
+GEO:-27.6351404788866;153.151047685363
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20539@eventor.orienteering.asn.au
@@ -1038,12 +1038,12 @@ GEO:-32.8818233425363;151.441016608861
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20348@eventor.orienteering.asn.au
-DTSTAMP:20240409T230429Z
+DTSTAMP:20240412T230731Z
 DTSTART:20240505T000000Z
 DTEND:20240505T020000Z
 SUMMARY:Vic Series 1 - Eppalock, Yarra Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20348
-GEO:-36.8861625737612;144.481155811671
+GEO:-36.8860920595735;144.482880750132
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20627@eventor.orienteering.asn.au
@@ -1274,5 +1274,66 @@ DTEND:20240511T073000Z
 SUMMARY:Albany - Mt Clarence (west), Albany & Denmark Hinterland Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20544
 GEO:-35.0198439754502;117.890297371866
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19860@eventor.orienteering.asn.au
+DTSTAMP:20240409T001823Z
+DTSTART:20240511T140000Z
+DTEND:20240512T140000Z
+SUMMARY:OY4 - Belmont Hills, Orienteering Queensland / Paradise Lost Orienteers / Toohey Forest Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19860
+GEO:-27.5172801876494;153.122054396254
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20085@eventor.orienteering.asn.au
+DTSTAMP:20231220T013627Z
+DTSTART:20240511T140000Z
+DTEND:20240512T140000Z
+SUMMARY:TBA - Northwest Local Series #4, Pathfinders
+URL:https://eventor.orienteering.asn.au/Events/Show/20085
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19802@eventor.orienteering.asn.au
+DTSTAMP:20231117T060217Z
+DTSTART:20240511T230000Z
+DTEND:20240512T033000Z
+SUMMARY:Waggaroos Local event, Rawlings Park plus LTO training session., Wagga and Riverina Occasional Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19802
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20368@eventor.orienteering.asn.au
+DTSTAMP:20240407T211327Z
+DTSTART:20240512T000000Z
+DTEND:20240512T000000Z
+SUMMARY:MelBushO 2 - Banksia Park, Bulleen, Melbourne Forest Racers
+URL:https://eventor.orienteering.asn.au/Events/Show/20368
+GEO:-37.759784889041;145.083915327828
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19793@eventor.orienteering.asn.au
+DTSTAMP:20231117T040758Z
+DTSTART:20240512T000000Z
+DTEND:20240512T020000Z
+SUMMARY:AWOC training #3 Nine Mile Hill , Albury-Wodonga Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19793
+GEO:-35.9807888328985;146.978230010287
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20669@eventor.orienteering.asn.au
+DTSTAMP:20240412T040041Z
+DTSTART:20240512T003000Z
+DTEND:20240512T003000Z
+SUMMARY:Pioneer Park, Maryborough, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20669
+GEO:-25.5487057117625;152.679854318756
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20546@eventor.orienteering.asn.au
+DTSTAMP:20240317T083210Z
+DTSTART:20240512T013000Z
+DTEND:20240512T050000Z
+SUMMARY:MTBO 2 Bayswater, Orienteering WA / Wullundigong Orienteers of the West
+URL:https://eventor.orienteering.asn.au/Events/Show/20546
+GEO:-31.9299059438599;115.921257992016
 END:VEVENT
 END:VCALENDAR
