@@ -97,6 +97,15 @@ SUMMARY:Melbourne Park Street Saturday Series - Darebin Parklands, Bayside Kanga
 URL:https://eventor.orienteering.asn.au/Events/Show/20537
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20570@eventor.orienteering.asn.au
+DTSTAMP:20240415T042315Z
+DTSTART:20240413T140000Z
+DTEND:20240414T140000Z
+SUMMARY:MapRun Parks 2024 - City Botanic Gardens, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20570
+GEO:-27.4740905021397;153.029923393259
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20422@eventor.orienteering.asn.au
 DTSTAMP:20240411T011044Z
 DTSTART:20240413T143000Z
@@ -210,15 +219,6 @@ DTEND:20240417T030000Z
 SUMMARY:Bluebottles April Camp at Belanglo, Orienteering NSW / Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19850
 GEO:-34.5321344036564;150.259078317363
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20570@eventor.orienteering.asn.au
-DTSTAMP:20240319T072523Z
-DTSTART:20240414T060000Z
-DTEND:20240414T060000Z
-SUMMARY:MapRun Parks 2024 - City Botanic Gardens, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20570
-GEO:-27.4740905021397;153.029923393259
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20192@eventor.orienteering.asn.au
@@ -388,7 +388,7 @@ GEO:-31.861378814663;116.006467148715
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20521@eventor.orienteering.asn.au
-DTSTAMP:20240404T085451Z
+DTSTAMP:20240415T005027Z
 DTSTART:20240421T040000Z
 DTEND:20240421T040000Z
 SUMMARY:Mt Peel, Toowoomba, Range Runners Orienteering Club
@@ -612,6 +612,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19974
 GEO:-42.4538719176887;147.243264620545
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20430@eventor.orienteering.asn.au
+DTSTAMP:20240415T015000Z
+DTSTART:20240428T000000Z
+DTEND:20240428T033000Z
+SUMMARY:Fun With Maps! Free Family Day, Abbey Walk, Dandenong Ranges Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20430
+GEO:-37.8423219451486;145.211414130977
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19805@eventor.orienteering.asn.au
 DTSTAMP:20240408T120505Z
 DTSTART:20240428T000000Z
@@ -630,21 +639,12 @@ GEO:-35.3651209992582;149.072171197023
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20020@eventor.orienteering.asn.au
-DTSTAMP:20240408T045242Z
+DTSTAMP:20240415T045558Z
 DTSTART:20240428T000000Z
 DTEND:20240428T043000Z
-SUMMARY:Ballarat Classics Series #2 - Petticoat Gully, Eureka Orienteers
+SUMMARY:Ballarat Classics Series #1 - Petticoat Gully, Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20020
 GEO:-37.4790747059319;143.91167484409
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20430@eventor.orienteering.asn.au
-DTSTAMP:20240312T010438Z
-DTSTART:20240428T010000Z
-DTEND:20240428T010000Z
-SUMMARY:Fun With Maps! Free Family Day, Campbells Croft, Dandenong Ranges Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20430
-GEO:-37.8423219451486;145.211414130977
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20456@eventor.orienteering.asn.au
@@ -770,7 +770,7 @@ GEO:-41.4390426526161;147.102482796475
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20651@eventor.orienteering.asn.au
-DTSTAMP:20240408T204853Z
+DTSTAMP:20240415T073535Z
 DTSTART:20240503T140000Z
 DTEND:20240506T140000Z
 SUMMARY:Mini-Cyclones Camp - Stanthorpe_updated, Orienteering Queensland
@@ -820,7 +820,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20609
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20287@eventor.orienteering.asn.au
-DTSTAMP:20240317T205711Z
+DTSTAMP:20240414T222352Z
 DTSTART:20240504T233000Z
 DTEND:20240504T233000Z
 SUMMARY:2024 Metro League #2 - Sydney Park, St Peters, Uringa Orienteers
@@ -846,7 +846,7 @@ GEO:-32.8818233425363;151.441016608861
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20348@eventor.orienteering.asn.au
-DTSTAMP:20240412T230731Z
+DTSTAMP:20240414T213441Z
 DTSTART:20240505T000000Z
 DTEND:20240505T020000Z
 SUMMARY:Vic Series 1 - Eppalock, Yarra Valley Orienteering Club
@@ -908,10 +908,10 @@ GEO:-27.5271574009248;153.107289040332
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19901@eventor.orienteering.asn.au
-DTSTAMP:20231202T025953Z
+DTSTAMP:20240414T231348Z
 DTSTART:20240505T140000Z
 DTEND:20240506T140000Z
-SUMMARY:Mini-Cyclones Camp Champs + public event, Bullecourt Boulder Bounders
+SUMMARY:Mini-Cyclones Camp Champs + BBB event - Charlies Paddock, 12km north of Dalveen, Bullecourt Boulder Bounders
 URL:https://eventor.orienteering.asn.au/Events/Show/19901
 END:VEVENT
 BEGIN:VEVENT
@@ -1024,12 +1024,12 @@ GEO:-35.292365589244;149.089917087393
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20061@eventor.orienteering.asn.au
-DTSTAMP:20240406T233635Z
+DTSTAMP:20240415T042108Z
 DTSTART:20240511T023000Z
 DTEND:20240511T040000Z
 SUMMARY:Bendigo Bush - Sedgwick North, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20061
-GEO:-36.7532798909974;144.299471613962
+GEO:-36.8533624893097;144.350210078747
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20610@eventor.orienteering.asn.au
@@ -1109,15 +1109,6 @@ SUMMARY:Waggaroos Local event, Rawlings Park plus LTO training session., Wagga a
 URL:https://eventor.orienteering.asn.au/Events/Show/19802
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20368@eventor.orienteering.asn.au
-DTSTAMP:20240407T211327Z
-DTSTART:20240512T000000Z
-DTEND:20240512T000000Z
-SUMMARY:MelBushO 2 - Banksia Park, Bulleen, Melbourne Forest Racers
-URL:https://eventor.orienteering.asn.au/Events/Show/20368
-GEO:-37.759784889041;145.083915327828
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19793@eventor.orienteering.asn.au
 DTSTAMP:20231117T040758Z
 DTSTART:20240512T000000Z
@@ -1125,6 +1116,15 @@ DTEND:20240512T020000Z
 SUMMARY:AWOC training #3 Nine Mile Hill , Albury-Wodonga Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19793
 GEO:-35.9807888328985;146.978230010287
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20368@eventor.orienteering.asn.au
+DTSTAMP:20240415T020717Z
+DTSTART:20240512T000000Z
+DTEND:20240512T030000Z
+SUMMARY:MelBushO 2 - Banksia Park, Bulleen, Melbourne Forest Racers
+URL:https://eventor.orienteering.asn.au/Events/Show/20368
+GEO:-37.759784889041;145.083915327828
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20669@eventor.orienteering.asn.au
