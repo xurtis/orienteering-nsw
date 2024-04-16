@@ -12,14 +12,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20633
 GEO:-19.2406169246809;146.802721549461
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20523@eventor.orienteering.asn.au
-DTSTAMP:20240313T032448Z
-DTSTART:20240408T083000Z
-DTEND:20240408T101000Z
-SUMMARY:Melbourne Park Street Monday Night Series - Templestowe Heights, Orienteering Victoria
-URL:https://eventor.orienteering.asn.au/Events/Show/20523
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20527@eventor.orienteering.asn.au
 DTSTAMP:20240313T034231Z
 DTSTART:20240409T083000Z
@@ -60,6 +52,14 @@ DTSTART:20240412T140000Z
 DTEND:20240413T140000Z
 SUMMARY:2024 NSW State League #3, NSW Stingers / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/19574
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20673@eventor.orienteering.asn.au
+DTSTAMP:20240416T035934Z
+DTSTART:20240412T230000Z
+DTEND:20240414T060000Z
+SUMMARY:Whos Grandma, Tuckonie Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20673
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20157@eventor.orienteering.asn.au
@@ -231,7 +231,7 @@ GEO:-33.325515059997;115.635781852686
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20461@eventor.orienteering.asn.au
-DTSTAMP:20240325T005048Z
+DTSTAMP:20240415T195040Z
 DTSTART:20240415T070000Z
 DTEND:20240415T100000Z
 SUMMARY:ACT MapRun Street Series: North Lyneham, 11-15 Apr, Orienteering ACT
@@ -245,6 +245,14 @@ DTSTART:20240415T083000Z
 DTEND:20240415T101000Z
 SUMMARY:Melbourne Park Street Monday Night Series - Rooks Run, Orienteering Victoria
 URL:https://eventor.orienteering.asn.au/Events/Show/20524
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20707@eventor.orienteering.asn.au
+DTSTAMP:20240416T105744Z
+DTSTART:20240415T140000Z
+DTEND:20240416T140000Z
+SUMMARY:Bluebottles Night Relay, Goldseekers Orienteers / Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/20707
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20528@eventor.orienteering.asn.au
@@ -499,6 +507,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20060
 GEO:-36.7392366787449;144.251955335599
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20678@eventor.orienteering.asn.au
+DTSTAMP:20240416T072914Z
+DTSTART:20240425T040000Z
+DTEND:20240425T051000Z
+SUMMARY:Melbourne Park Street Monday Night Series - Waterford Valley Re-Run, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/20678
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20209@eventor.orienteering.asn.au
 DTSTAMP:20240120T000253Z
 DTSTART:20240426T030000Z
@@ -587,11 +603,12 @@ GEO:-27.2319188118193;152.946845501887
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20667@eventor.orienteering.asn.au
-DTSTAMP:20240412T024547Z
+DTSTAMP:20240416T051711Z
 DTSTART:20240427T233000Z
 DTEND:20240428T023000Z
 SUMMARY:Newcastle Pairs Relay Champs & Minor Event, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20667
+GEO:-32.9285787678479;151.558109142292
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19792@eventor.orienteering.asn.au
@@ -639,7 +656,7 @@ GEO:-35.3651209992582;149.072171197023
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20020@eventor.orienteering.asn.au
-DTSTAMP:20240415T045558Z
+DTSTAMP:20240416T061331Z
 DTSTART:20240428T000000Z
 DTEND:20240428T043000Z
 SUMMARY:Ballarat Classics Series #1 - Petticoat Gully, Eureka Orienteers
@@ -820,12 +837,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20609
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20287@eventor.orienteering.asn.au
-DTSTAMP:20240414T222352Z
+DTSTAMP:20240415T190448Z
 DTSTART:20240504T233000Z
 DTEND:20240504T233000Z
 SUMMARY:2024 Metro League #2 - Sydney Park, St Peters, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20287
-GEO:-33.9094534629906;151.183332327549
+GEO:-33.9083878685918;151.182577066635
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19544@eventor.orienteering.asn.au
@@ -1185,5 +1202,21 @@ DTSTART:20240514T083000Z
 DTEND:20240514T101000Z
 SUMMARY:Melbourne Park Street Tuesday Autumn Series - Maidstone, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20602
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20097@eventor.orienteering.asn.au
+DTSTAMP:20231228T104754Z
+DTSTART:20240515T010000Z
+DTEND:20240515T033000Z
+SUMMARY:Midweek Training at Kuitpo, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/20097
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20606@eventor.orienteering.asn.au
+DTSTAMP:20240325T012914Z
+DTSTART:20240515T083000Z
+DTEND:20240515T101000Z
+SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - Glen Iris, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20606
 END:VEVENT
 END:VCALENDAR
