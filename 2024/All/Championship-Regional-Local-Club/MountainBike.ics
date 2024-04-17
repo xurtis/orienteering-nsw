@@ -12,23 +12,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20633
 GEO:-19.2406169246809;146.802721549461
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20527@eventor.orienteering.asn.au
-DTSTAMP:20240313T034231Z
-DTSTART:20240409T083000Z
-DTEND:20240409T101000Z
-SUMMARY:Melbourne Park Street Tuesday Night Series - Whitten Oval, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20527
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20613@eventor.orienteering.asn.au
-DTSTAMP:20240327T015755Z
-DTSTART:20240409T093000Z
-DTEND:20240409T093000Z
-SUMMARY:Orienteering Participation and Engagement Network meeting, Orienteering Australia
-URL:https://eventor.orienteering.asn.au/Events/Show/20613
-GEO:-37.8159227275784;144.96218287421
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20533@eventor.orienteering.asn.au
 DTSTAMP:20240313T040040Z
 DTSTART:20240410T083000Z
@@ -333,16 +316,16 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20538
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20158@eventor.orienteering.asn.au
-DTSTAMP:20240414T055413Z
+DTSTAMP:20240416T221127Z
 DTSTART:20240420T053000Z
-DTEND:20240420T053000Z
+DTEND:20240420T063000Z
 SUMMARY:Sprint Series - EN - Event 9 Finale Schools Sprint - Craigslea SHS & SS, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20158
 GEO:-27.3817951160558;153.017739588842
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20582@eventor.orienteering.asn.au
-DTSTAMP:20240410T002547Z
+DTSTAMP:20240417T015816Z
 DTSTART:20240420T233000Z
 DTEND:20240421T030000Z
 SUMMARY:NOY2 - Redgum Ridges (Freemans Waterhole), Newcastle Orienteering Club
@@ -560,7 +543,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20539
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19735@eventor.orienteering.asn.au
-DTSTAMP:20240310T230751Z
+DTSTAMP:20240417T092024Z
 DTSTART:20240427T140000Z
 DTEND:20240428T140000Z
 SUMMARY:NOL - Elite Knockout Sprint (am & pm), Orienteering Queensland
@@ -661,7 +644,7 @@ DTSTART:20240428T000000Z
 DTEND:20240428T043000Z
 SUMMARY:Ballarat Classics Series #1 - Petticoat Gully, Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20020
-GEO:-37.4790747059319;143.91167484409
+GEO:-37.4787275362481;143.911594284946
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20456@eventor.orienteering.asn.au
@@ -1101,21 +1084,21 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20544
 GEO:-35.0198439754502;117.890297371866
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19860@eventor.orienteering.asn.au
-DTSTAMP:20240409T001823Z
-DTSTART:20240511T140000Z
-DTEND:20240512T140000Z
-SUMMARY:OY4 - Belmont Hills, Orienteering Queensland / Paradise Lost Orienteers / Toohey Forest Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19860
-GEO:-27.5172801876494;153.122054396254
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20085@eventor.orienteering.asn.au
 DTSTAMP:20231220T013627Z
 DTSTART:20240511T140000Z
 DTEND:20240512T140000Z
 SUMMARY:TBA - Northwest Local Series #4, Pathfinders
 URL:https://eventor.orienteering.asn.au/Events/Show/20085
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19860@eventor.orienteering.asn.au
+DTSTAMP:20240417T062319Z
+DTSTART:20240511T230000Z
+DTEND:20240512T023000Z
+SUMMARY:OY4 - Belmont Hills, Orienteering Queensland / Paradise Lost Orienteers / Toohey Forest Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19860
+GEO:-27.5172801876494;153.122054396254
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19802@eventor.orienteering.asn.au
@@ -1136,7 +1119,7 @@ GEO:-35.9807888328985;146.978230010287
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20368@eventor.orienteering.asn.au
-DTSTAMP:20240415T020717Z
+DTSTAMP:20240417T080719Z
 DTSTART:20240512T000000Z
 DTEND:20240512T030000Z
 SUMMARY:MelBushO 2 - Banksia Park, Bulleen, Melbourne Forest Racers
