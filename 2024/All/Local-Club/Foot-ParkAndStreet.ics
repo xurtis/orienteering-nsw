@@ -12,14 +12,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20633
 GEO:-19.2406169246809;146.802721549461
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20533@eventor.orienteering.asn.au
-DTSTAMP:20240313T040040Z
-DTSTART:20240410T083000Z
-DTEND:20240410T101000Z
-SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - Camelot Rise, Nillumbik Emus Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20533
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20649@eventor.orienteering.asn.au
 DTSTAMP:20240411T063712Z
 DTSTART:20240411T003000Z
@@ -99,7 +91,7 @@ GEO:-12.396404725565;130.928156068095
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20389@eventor.orienteering.asn.au
-DTSTAMP:20240408T230449Z
+DTSTAMP:20240418T000723Z
 DTSTART:20240413T230000Z
 DTEND:20240414T010000Z
 SUMMARY:Bush Trail Orienteering at Coombabah Lakelands, Gold Coast, Paradise Lost Orienteers
@@ -264,7 +256,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20534
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20412@eventor.orienteering.asn.au
-DTSTAMP:20240411T005551Z
+DTSTAMP:20240418T072249Z
 DTSTART:20240418T003000Z
 DTEND:20240418T020000Z
 SUMMARY:Midweek - Bulimba Creek Parklands, Mansfield, Orienteering Queensland
@@ -508,7 +500,7 @@ GEO:-27.3811503713007;152.975289351301
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20409@eventor.orienteering.asn.au
-DTSTAMP:20240319T053855Z
+DTSTAMP:20240417T231044Z
 DTSTART:20240426T140000Z
 DTEND:20240427T140000Z
 SUMMARY:NOL3b - Sprint Relay Teams & Results, Orienteering Queensland
@@ -962,7 +954,7 @@ DTSTART:20240507T080000Z
 DTEND:20240507T080000Z
 SUMMARY:Night Nav - Point Cartwright, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20632
-GEO:-26.6853467168706;153.135487206826
+GEO:-26.6999763980165;153.133142243659
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20601@eventor.orienteering.asn.au
@@ -1179,6 +1171,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20332
 GEO:-27.5327712580353;152.974281675756
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20708@eventor.orienteering.asn.au
+DTSTAMP:20240418T015233Z
+DTSTART:20240514T080000Z
+DTEND:20240514T080000Z
+SUMMARY:Night Nav - Heritage Park, Tewantin, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20708
+GEO:-26.3923767353908;153.010938001292
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20602@eventor.orienteering.asn.au
 DTSTAMP:20240325T012429Z
 DTSTART:20240514T083000Z
@@ -1201,5 +1202,23 @@ DTSTART:20240515T083000Z
 DTEND:20240515T101000Z
 SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - Glen Iris, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20606
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20714@eventor.orienteering.asn.au
+DTSTAMP:20240418T084427Z
+DTSTART:20240516T003000Z
+DTEND:20240516T013000Z
+SUMMARY:MidWeek Orienteering at Blunder Creek Reserve, Doolandella/Pallara, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/20714
+GEO:-27.6133736682981;152.989442813464
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20212@eventor.orienteering.asn.au
+DTSTAMP:20240120T000654Z
+DTSTART:20240517T030000Z
+DTEND:20240517T030000Z
+SUMMARY:NWD Interschool Sport, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/20212
+GEO:-27.4381606293001;152.934696566004
 END:VEVENT
 END:VCALENDAR
