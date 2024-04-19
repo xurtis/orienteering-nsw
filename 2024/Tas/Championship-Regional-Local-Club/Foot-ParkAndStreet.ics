@@ -12,15 +12,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20633
 GEO:-19.2406169246809;146.802721549461
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20649@eventor.orienteering.asn.au
-DTSTAMP:20240411T063712Z
-DTSTART:20240411T003000Z
-DTEND:20240411T013000Z
-SUMMARY:Mercer Park (MapRun event), Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/20649
-GEO:-27.4031582956174;153.047700600984
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19574@eventor.orienteering.asn.au
 DTSTAMP:20240206T071058Z
 DTSTART:20240412T140000Z
@@ -631,7 +622,7 @@ GEO:-35.3651209992582;149.072171197023
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20020@eventor.orienteering.asn.au
-DTSTAMP:20240416T061331Z
+DTSTAMP:20240419T035035Z
 DTSTART:20240428T000000Z
 DTEND:20240428T043000Z
 SUMMARY:Ballarat Classics Series #1 - Petticoat Gully, Eureka Orienteers
@@ -1015,6 +1006,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19553
 GEO:-35.292365589244;149.089917087393
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20715@eventor.orienteering.asn.au
+DTSTAMP:20240418T220727Z
+DTSTART:20240511T010000Z
+DTEND:20240511T033000Z
+SUMMARY:Launch -Permanent Course- Randwick Sustainability Hub, Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20715
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20061@eventor.orienteering.asn.au
 DTSTAMP:20240415T042108Z
 DTSTART:20240511T023000Z
@@ -1220,5 +1219,74 @@ DTEND:20240517T030000Z
 SUMMARY:NWD Interschool Sport, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20212
 GEO:-27.4381606293001;152.934696566004
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19545@eventor.orienteering.asn.au
+DTSTAMP:20240415T095914Z
+DTSTART:20240517T140000Z
+DTEND:20240518T140000Z
+SUMMARY:ACT Classic Series: ACT League #7, Wee Jasper, Abominable O-Men
+URL:https://eventor.orienteering.asn.au/Events/Show/19545
+GEO:-35.0693094223753;148.661006113032
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20450@eventor.orienteering.asn.au
+DTSTAMP:20240229T060021Z
+DTSTART:20240517T140000Z
+DTEND:20240518T140000Z
+SUMMARY:NOL Presentation Dinner, Orienteering Australia
+URL:https://eventor.orienteering.asn.au/Events/Show/20450
+GEO:-35.2614769758511;149.138627204404
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20520@eventor.orienteering.asn.au
+DTSTAMP:20240415T095949Z
+DTSTART:20240517T140000Z
+DTEND:20240518T140000Z
+SUMMARY:NOL Round 4: Middle, Wee Jasper, Abominable O-Men
+URL:https://eventor.orienteering.asn.au/Events/Show/20520
+GEO:-35.0693317414392;148.66102842511
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20504@eventor.orienteering.asn.au
+DTSTAMP:20240311T070346Z
+DTSTART:20240517T233000Z
+DTEND:20240518T020000Z
+SUMMARY:SOS Hawkesbury, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20504
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20498@eventor.orienteering.asn.au
+DTSTAMP:20240311T232203Z
+DTSTART:20240517T233000Z
+DTEND:20240518T020000Z
+SUMMARY:SOS Northside, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20498
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20564@eventor.orienteering.asn.au
+DTSTAMP:20240319T020202Z
+DTSTART:20240518T000000Z
+DTEND:20240518T010000Z
+SUMMARY:ACT Learn to Orienteer, Week 3, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20564
+GEO:-35.2923619396789;149.090029810726
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20611@eventor.orienteering.asn.au
+DTSTAMP:20240325T014640Z
+DTSTART:20240518T040000Z
+DTEND:20240518T051000Z
+SUMMARY:Melbourne Park Street Saturday Series - St Helena, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20611
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_18097@eventor.orienteering.asn.au
+DTSTAMP:20240306T015836Z
+DTSTART:20240518T040000Z
+DTEND:20240518T053000Z
+SUMMARY:L2O Series - EN - Event 2 - Victoria Park - BCC , Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/18097
+GEO:-27.4497629514946;153.023026386448
 END:VEVENT
 END:VCALENDAR
