@@ -21,23 +21,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19850
 GEO:-34.5321344036564;150.259078317363
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20461@eventor.orienteering.asn.au
-DTSTAMP:20240415T195040Z
-DTSTART:20240415T070000Z
-DTEND:20240415T100000Z
-SUMMARY:ACT MapRun Street Series: North Lyneham, 11-15 Apr, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/20461
-GEO:-35.2403924973908;149.124399839153
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20524@eventor.orienteering.asn.au
-DTSTAMP:20240313T032657Z
-DTSTART:20240415T083000Z
-DTEND:20240415T101000Z
-SUMMARY:Melbourne Park Street Monday Night Series - Rooks Run, Orienteering Victoria
-URL:https://eventor.orienteering.asn.au/Events/Show/20524
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20707@eventor.orienteering.asn.au
 DTSTAMP:20240416T105744Z
 DTSTART:20240415T140000Z
@@ -132,6 +115,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20158
 GEO:-27.3817951160558;153.017739588842
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20571@eventor.orienteering.asn.au
+DTSTAMP:20240423T111605Z
+DTSTART:20240420T140000Z
+DTEND:20240421T140000Z
+SUMMARY:MapRun Parks 2024 - Moore Park, Indooroopilly, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20571
+GEO:-27.4967674411118;152.964395899945
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20582@eventor.orienteering.asn.au
 DTSTAMP:20240421T030545Z
 DTSTART:20240420T233000Z
@@ -195,17 +187,8 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20521
 GEO:-27.593985115998;151.903865524642
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20571@eventor.orienteering.asn.au
-DTSTAMP:20240319T072911Z
-DTSTART:20240421T060000Z
-DTEND:20240421T060000Z
-SUMMARY:MapRun Parks 2024 - Moore Park, Indooroopilly, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20571
-GEO:-27.4967674411118;152.964395899945
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20462@eventor.orienteering.asn.au
-DTSTAMP:20240409T025227Z
+DTSTAMP:20240422T213125Z
 DTSTART:20240422T070000Z
 DTEND:20240422T100000Z
 SUMMARY:ACT MapRun Street Series: Rivett, 18-22 Apr, Orienteering ACT
@@ -230,9 +213,9 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20658
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18739@eventor.orienteering.asn.au
-DTSTAMP:20240413T101015Z
-DTSTART:20240423T073000Z
-DTEND:20240423T093000Z
+DTSTAMP:20240423T112900Z
+DTSTART:20240422T140000Z
+DTEND:20240423T140000Z
 SUMMARY:Night Nav - Torwood - BCC - Term 2 Series Event #1, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18739
 GEO:-27.4652810565561;152.98912950848
@@ -501,10 +484,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20526
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20330@eventor.orienteering.asn.au
-DTSTAMP:20240422T032717Z
+DTSTAMP:20240423T104240Z
 DTSTART:20240430T073000Z
 DTEND:20240430T073000Z
-SUMMARY:Night Nav - Chapel Hill (CIcada Park) - Term 2 Series Event #2, Ugly Gully Orienteers
+SUMMARY:Night Nav - Chapel Hill (Cicada Park) - Term 2 Series Event #2, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20330
 GEO:-27.4956750235821;152.942294084392
 END:VEVENT
@@ -589,20 +572,29 @@ GEO:-28.6446675440791;151.947666112793
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20502@eventor.orienteering.asn.au
-DTSTAMP:20240422T000451Z
+DTSTAMP:20240423T121719Z
 DTSTART:20240503T233000Z
 DTEND:20240504T020000Z
-SUMMARY:SOS Hawkesbury, Bold Horizons Event Organiser
+SUMMARY:SOS Hawkesbury - Penrith, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/20502
-GEO:-33.756857516488;150.706803339912
+GEO:-33.7571798407405;150.707676205889
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20496@eventor.orienteering.asn.au
-DTSTAMP:20240311T232152Z
+DTSTAMP:20240423T121652Z
 DTSTART:20240503T233000Z
 DTEND:20240504T020000Z
-SUMMARY:SOS Northside, Bold Horizons Event Organiser
+SUMMARY:SOS Northside - Warriewood, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/20496
+GEO:-33.7000943097075;151.30821072998
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20729@eventor.orienteering.asn.au
+DTSTAMP:20240423T123144Z
+DTSTART:20240503T233000Z
+DTEND:20240504T020000Z
+SUMMARY:SOS Term 2 Season Pass, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20729
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20562@eventor.orienteering.asn.au
@@ -701,12 +693,12 @@ GEO:-34.645583336445;135.743723466999
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20545@eventor.orienteering.asn.au
-DTSTAMP:20240407T102732Z
+DTSTAMP:20240423T101723Z
 DTSTART:20240505T013000Z
 DTEND:20240505T050000Z
 SUMMARY:Bush 2 Wundabiniring, LOST / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/20545
-GEO:-31.8822915790307;116.456731865632
+GEO:-31.9463306471326;116.495952110787
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20573@eventor.orienteering.asn.au
@@ -719,7 +711,7 @@ GEO:-27.5271574009248;153.107289040332
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19901@eventor.orienteering.asn.au
-DTSTAMP:20240414T231348Z
+DTSTAMP:20240422T214851Z
 DTSTART:20240505T140000Z
 DTEND:20240506T140000Z
 SUMMARY:Mini-Cyclones Camp Champs + BBB event - Charlies Paddock, 12km north of Dalveen, Bullecourt Boulder Bounders
@@ -877,10 +869,10 @@ GEO:-34.0395563490496;151.065869320404
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20216@eventor.orienteering.asn.au
-DTSTAMP:20240120T041504Z
+DTSTAMP:20240423T101911Z
 DTSTART:20240511T040000Z
 DTEND:20240511T063000Z
-SUMMARY:Craigburn Farm, Onkaparinga Hills Orienteering Club
+SUMMARY:Craigburn Farm - Blackwood Hills, Onkaparinga Hills Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20216
 GEO:-35.0333294805807;138.604795536715
 END:VEVENT
@@ -1280,5 +1272,21 @@ DTSTART:20240521T083000Z
 DTEND:20240521T101000Z
 SUMMARY:Melbourne Park Street Tuesday Autumn Series - Windy Hill, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20603
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20653@eventor.orienteering.asn.au
+DTSTAMP:20240412T050352Z
+DTSTART:20240522T073000Z
+DTEND:20240522T094500Z
+SUMMARY:Moonlight Madness #2 World Orienteering Week, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20653
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20607@eventor.orienteering.asn.au
+DTSTAMP:20240325T013050Z
+DTSTART:20240522T083000Z
+DTEND:20240522T101000Z
+SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - Westgarth, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20607
 END:VEVENT
 END:VCALENDAR
