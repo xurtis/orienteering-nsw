@@ -21,22 +21,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19850
 GEO:-34.5321344036564;150.259078317363
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20707@eventor.orienteering.asn.au
-DTSTAMP:20240416T105744Z
-DTSTART:20240415T140000Z
-DTEND:20240416T140000Z
-SUMMARY:Bluebottles Night Relay, Goldseekers Orienteers / Orienteering NSW
-URL:https://eventor.orienteering.asn.au/Events/Show/20707
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20528@eventor.orienteering.asn.au
-DTSTAMP:20240313T034416Z
-DTSTART:20240416T083000Z
-DTEND:20240416T101000Z
-SUMMARY:Melbourne Park Street Tuesday Night Series - Keilor East, Tuckonie Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20528
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20096@eventor.orienteering.asn.au
 DTSTAMP:20240408T062931Z
 DTSTART:20240417T010000Z
@@ -247,7 +231,7 @@ GEO:-19.3287623481891;146.757144662838
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20642@eventor.orienteering.asn.au
-DTSTAMP:20240411T101357Z
+DTSTAMP:20240424T100858Z
 DTSTART:20240424T073000Z
 DTEND:20240424T094500Z
 SUMMARY:Moonlight Madness #1 Northbridge, Garingal Orienteers
@@ -304,7 +288,7 @@ DTSTART:20240426T140000Z
 DTEND:20240427T140000Z
 SUMMARY:NOL3b - Sprint Relay Teams & Results, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/20409
-GEO:-27.6325109635659;153.132395909351
+GEO:-27.6354913818186;153.150941369042
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19733@eventor.orienteering.asn.au
@@ -379,7 +363,7 @@ GEO:-27.2319188118193;152.946845501887
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20667@eventor.orienteering.asn.au
-DTSTAMP:20240422T114839Z
+DTSTAMP:20240423T224511Z
 DTSTART:20240427T233000Z
 DTEND:20240428T023000Z
 SUMMARY:Newcastle Pairs Relay Champs & Minor Event, Newcastle Orienteering Club
@@ -711,11 +695,12 @@ GEO:-27.5271574009248;153.107289040332
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19901@eventor.orienteering.asn.au
-DTSTAMP:20240422T214851Z
+DTSTAMP:20240423T211906Z
 DTSTART:20240505T140000Z
 DTEND:20240506T140000Z
 SUMMARY:Mini-Cyclones Camp Champs + BBB event - Charlies Paddock, 12km north of Dalveen, Bullecourt Boulder Bounders
 URL:https://eventor.orienteering.asn.au/Events/Show/19901
+GEO:-28.4250853389535;152.038706396619
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20464@eventor.orienteering.asn.au
@@ -801,19 +786,21 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20211
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20503@eventor.orienteering.asn.au
-DTSTAMP:20240311T070231Z
+DTSTAMP:20240424T102814Z
 DTSTART:20240510T233000Z
 DTEND:20240511T020000Z
-SUMMARY:SOS Hawkesbury, Bold Horizons Event Organiser
+SUMMARY:SOS Hawkesbury - Richmond, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/20503
+GEO:-33.5996614999337;150.747104861321
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20497@eventor.orienteering.asn.au
-DTSTAMP:20240311T232157Z
+DTSTAMP:20240424T103639Z
 DTSTART:20240510T233000Z
 DTEND:20240511T020000Z
-SUMMARY:SOS Northside, Bold Horizons Event Organiser
+SUMMARY:SOS Northside - Killara, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/20497
+GEO:-33.7673222519522;151.171968296421
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20563@eventor.orienteering.asn.au
@@ -1069,19 +1056,21 @@ GEO:-35.0693317414392;148.66102842511
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20504@eventor.orienteering.asn.au
-DTSTAMP:20240311T070346Z
+DTSTAMP:20240424T104653Z
 DTSTART:20240517T233000Z
 DTEND:20240518T020000Z
-SUMMARY:SOS Hawkesbury, Bold Horizons Event Organiser
+SUMMARY:SOS Hawkesbury - North Richmond, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/20504
+GEO:-33.568942;150.707933
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20498@eventor.orienteering.asn.au
-DTSTAMP:20240311T232203Z
+DTSTAMP:20240424T105309Z
 DTSTART:20240517T233000Z
 DTEND:20240518T020000Z
-SUMMARY:SOS Northside, Bold Horizons Event Organiser
+SUMMARY:SOS Northside - Collaroy, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/20498
+GEO:-33.7345299267362;151.298177494434
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20564@eventor.orienteering.asn.au
@@ -1171,6 +1160,14 @@ DTEND:20240519T010000Z
 SUMMARY:Orienteering at Hinze Dam, Gold Coast , Paradise Lost Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20390
 GEO:-28.0504896245519;153.279283956862
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20753@eventor.orienteering.asn.au
+DTSTAMP:20240424T044131Z
+DTSTART:20240519T000000Z
+DTEND:20240519T011500Z
+SUMMARY:Mornington Peninsula Sunday MapRun - Rosebud, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20753
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19967@eventor.orienteering.asn.au
