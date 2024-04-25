@@ -12,32 +12,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20633
 GEO:-19.2406169246809;146.802721549461
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19850@eventor.orienteering.asn.au
-DTSTAMP:20240412T010821Z
-DTSTART:20240414T040000Z
-DTEND:20240417T030000Z
-SUMMARY:Bluebottles April Camp at Belanglo, Orienteering NSW / Western and Hills Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19850
-GEO:-34.5321344036564;150.259078317363
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20096@eventor.orienteering.asn.au
-DTSTAMP:20240408T062931Z
-DTSTART:20240417T010000Z
-DTEND:20240417T033000Z
-SUMMARY:Midweek Training at Para Wirra, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/20096
-GEO:-34.6944157312552;138.827629660735
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20534@eventor.orienteering.asn.au
-DTSTAMP:20240313T040218Z
-DTSTART:20240417T083000Z
-DTEND:20240417T101000Z
-SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - Cathies Creek, Dandenong Ranges Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20534
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20412@eventor.orienteering.asn.au
 DTSTAMP:20240418T072249Z
 DTSTART:20240418T003000Z
@@ -292,7 +266,7 @@ GEO:-27.6354913818186;153.150941369042
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19733@eventor.orienteering.asn.au
-DTSTAMP:20240421T000000Z
+DTSTAMP:20240425T091312Z
 DTSTART:20240426T223000Z
 DTEND:20240426T223000Z
 SUMMARY:NOL3a - WRE Elite Qld Sprint Champs am - OY3, Orienteering Queensland
@@ -301,7 +275,7 @@ GEO:-27.5500049941661;153.05499006366
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19734@eventor.orienteering.asn.au
-DTSTAMP:20240421T015340Z
+DTSTAMP:20240425T092114Z
 DTSTART:20240427T040000Z
 DTEND:20240427T040000Z
 SUMMARY:NOL3b - Elite Relay Public Sprint pm, Orienteering Queensland
@@ -528,6 +502,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20210
 GEO:-27.4178858129935;153.000302235125
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20756@eventor.orienteering.asn.au
+DTSTAMP:20240425T045508Z
+DTSTART:20240503T060000Z
+DTEND:20240503T071500Z
+SUMMARY:Stirling and Mitcham Hills After School Zone Event - Woorabinda, Heathfield, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/20756
+GEO:-35.0176619699087;138.711852758962
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19861@eventor.orienteering.asn.au
 DTSTAMP:20240408T024205Z
 DTSTART:20240503T140000Z
@@ -695,9 +678,9 @@ GEO:-27.5271574009248;153.107289040332
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19901@eventor.orienteering.asn.au
-DTSTAMP:20240423T211906Z
-DTSTART:20240505T140000Z
-DTEND:20240506T140000Z
+DTSTAMP:20240425T041059Z
+DTSTART:20240505T230000Z
+DTEND:20240506T030000Z
 SUMMARY:Mini-Cyclones Camp Champs + BBB event - Charlies Paddock, 12km north of Dalveen, Bullecourt Boulder Bounders
 URL:https://eventor.orienteering.asn.au/Events/Show/19901
 GEO:-28.4250853389535;152.038706396619
@@ -728,11 +711,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20720
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19803@eventor.orienteering.asn.au
-DTSTAMP:20231117T054515Z
+DTSTAMP:20240425T004535Z
 DTSTART:20240506T230000Z
 DTEND:20240507T040000Z
 SUMMARY:Riverina Schools Day Individual, Willan's Hill, Wagga and Riverina Occasional Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19803
+GEO:-35.1310247183072;147.367395590844
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19804@eventor.orienteering.asn.au
@@ -785,6 +769,14 @@ SUMMARY:NWD Interschool Sport, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20211
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20757@eventor.orienteering.asn.au
+DTSTAMP:20240425T044717Z
+DTSTART:20240510T060000Z
+DTEND:20240510T071500Z
+SUMMARY:Mitcham Hills and Stirling After School Zone Event - Hawthorndene Reserve, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/20757
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20503@eventor.orienteering.asn.au
 DTSTAMP:20240424T102814Z
 DTSTART:20240510T233000Z
@@ -822,7 +814,7 @@ GEO:-35.292365589244;149.089917087393
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20715@eventor.orienteering.asn.au
-DTSTAMP:20240419T234235Z
+DTSTAMP:20240425T065117Z
 DTSTART:20240511T010000Z
 DTEND:20240511T033000Z
 SUMMARY:Launch - Permanent Course- Randwick Sustainability Hub, Uringa Orienteers
@@ -847,7 +839,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20610
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19925@eventor.orienteering.asn.au
-DTSTAMP:20240411T114042Z
+DTSTAMP:20240425T035449Z
 DTSTART:20240511T040000Z
 DTEND:20240511T060000Z
 SUMMARY:Kirrawee South, Illawarra Kareelah Orienteers
@@ -1026,6 +1018,14 @@ DTEND:20240517T030000Z
 SUMMARY:NWD Interschool Sport, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/20212
 GEO:-27.4381606293001;152.934696566004
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20758@eventor.orienteering.asn.au
+DTSTAMP:20240425T045121Z
+DTSTART:20240517T060000Z
+DTEND:20240517T071500Z
+SUMMARY:Mitcham Hills After School Zone Event - venue TBC, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/20758
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19545@eventor.orienteering.asn.au
@@ -1272,10 +1272,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20603
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20653@eventor.orienteering.asn.au
-DTSTAMP:20240412T050352Z
+DTSTAMP:20240425T070628Z
 DTSTART:20240522T073000Z
 DTEND:20240522T094500Z
-SUMMARY:Moonlight Madness #2 World Orienteering Week, Garingal Orienteers
+SUMMARY:Moonlight Madness #2 Kirribilli (World Orienteering Week), Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20653
 END:VEVENT
 BEGIN:VEVENT
@@ -1285,5 +1285,31 @@ DTSTART:20240522T083000Z
 DTEND:20240522T101000Z
 SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - Westgarth, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20607
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20672@eventor.orienteering.asn.au
+DTSTAMP:20240424T042943Z
+DTSTART:20240524T003000Z
+DTEND:20240524T003000Z
+SUMMARY:Victorian Secondary Schools Orienteering Championships, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/20672
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20213@eventor.orienteering.asn.au
+DTSTAMP:20240120T000802Z
+DTSTART:20240524T030000Z
+DTEND:20240524T030000Z
+SUMMARY:NWD Interschool Sport, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/20213
+GEO:-27.38124152285;152.975348414287
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20759@eventor.orienteering.asn.au
+DTSTAMP:20240425T045433Z
+DTSTART:20240524T060000Z
+DTEND:20240524T071500Z
+SUMMARY:Mitcham Hills and Stirling After School Zone Event - Belair NP, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/20759
+GEO:-35.0102273475836;138.63656011895
 END:VEVENT
 END:VCALENDAR
