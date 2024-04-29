@@ -12,78 +12,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20633
 GEO:-19.2406169246809;146.802721549461
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20571@eventor.orienteering.asn.au
-DTSTAMP:20240423T111605Z
-DTSTART:20240420T140000Z
-DTEND:20240421T140000Z
-SUMMARY:MapRun Parks 2024 - Moore Park, Indooroopilly, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20571
-GEO:-27.4967674411118;152.964395899945
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20582@eventor.orienteering.asn.au
-DTSTAMP:20240421T030545Z
-DTSTART:20240420T233000Z
-DTEND:20240421T030000Z
-SUMMARY:NOY2 - Redgum Ridges (Freemans Waterhole), Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20582
-GEO:-32.9875523957574;151.50894788717
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20004@eventor.orienteering.asn.au
-DTSTAMP:20240421T072926Z
-DTSTART:20240421T000000Z
-DTEND:20240421T000000Z
-SUMMARY:Mt Nelson - Southern Local #2, Australopers
-URL:https://eventor.orienteering.asn.au/Events/Show/20004
-GEO:-42.919994096859;147.316147747177
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_17892@eventor.orienteering.asn.au
-DTSTAMP:20240422T025254Z
-DTSTART:20240421T000000Z
-DTEND:20240421T040000Z
-SUMMARY:ACT Classic Series: ACT League #2, Ballinafad Creek, Parawanga Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/17892
-GEO:-35.6807591475124;149.460271355306
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20077@eventor.orienteering.asn.au
-DTSTAMP:20240421T081855Z
-DTSTART:20240421T000000Z
-DTEND:20240421T040000Z
-SUMMARY:Vic MTBO 2 - Bostock Reservoir, Ballan, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20077
-GEO:-37.6050723706506;144.18712179318
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20457@eventor.orienteering.asn.au
-DTSTAMP:20240421T034624Z
-DTSTART:20240421T010000Z
-DTEND:20240421T030000Z
-SUMMARY:Broken Bago Orienteering, Hastings Orienteering Group
-URL:https://eventor.orienteering.asn.au/Events/Show/20457
-GEO:-31.4695057578831;152.730763429756
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20455@eventor.orienteering.asn.au
-DTSTAMP:20240421T032648Z
-DTSTART:20240421T010000Z
-DTEND:20240421T034500Z
-SUMMARY:NavDash 5 Swan Valley Adventure Centre, Bibbulmun Orienteers / Orienteering WA
-URL:https://eventor.orienteering.asn.au/Events/Show/20455
-GEO:-31.861378814663;116.006467148715
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20521@eventor.orienteering.asn.au
-DTSTAMP:20240421T095843Z
-DTSTART:20240421T040000Z
-DTEND:20240421T040000Z
-SUMMARY:Mt Peel, Toowoomba, Range Runners Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20521
-GEO:-27.593985115998;151.903865524642
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20462@eventor.orienteering.asn.au
 DTSTAMP:20240422T213125Z
 DTSTART:20240422T070000Z
@@ -276,7 +204,7 @@ GEO:-27.2319188118193;152.946845501887
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20667@eventor.orienteering.asn.au
-DTSTAMP:20240428T080021Z
+DTSTAMP:20240429T080937Z
 DTSTART:20240427T233000Z
 DTEND:20240428T023000Z
 SUMMARY:Newcastle Pairs Relay Champs & Minor Event, Newcastle Orienteering Club
@@ -413,6 +341,15 @@ DTEND:20240501T140000Z
 SUMMARY:MTBO Jersey Order, Orienteering Australia
 URL:https://eventor.orienteering.asn.au/Events/Show/20490
 GEO:-27.6477619844233;154.8976631875
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20786@eventor.orienteering.asn.au
+DTSTAMP:20240429T105701Z
+DTSTART:20240501T080000Z
+DTEND:20240501T100000Z
+SUMMARY:Claisebrook Cove Training, Bibbulmun Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20786
+GEO:-31.9530729328216;115.880472343073
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20650@eventor.orienteering.asn.au
@@ -583,12 +520,12 @@ GEO:-36.8860920595735;144.482880750132
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20627@eventor.orienteering.asn.au
-DTSTAMP:20240426T003123Z
+DTSTAMP:20240429T044356Z
 DTSTART:20240505T000000Z
 DTEND:20240505T033000Z
-SUMMARY:Goldseekers Bush Series #3 Ophir South, Goldseekers Orienteers
+SUMMARY:Goldseekers Bush Series #3 -Ophir South, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20627
-GEO:-33.1834319692493;149.238523620865
+GEO:-33.1784825516962;149.239451246343
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20307@eventor.orienteering.asn.au
@@ -645,7 +582,7 @@ GEO:-28.4250853389535;152.038706396619
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20464@eventor.orienteering.asn.au
-DTSTAMP:20240426T114210Z
+DTSTAMP:20240429T033603Z
 DTSTART:20240506T070000Z
 DTEND:20240506T100000Z
 SUMMARY:ACT MapRun Street Series: Watson, 2-6 May, Orienteering ACT
@@ -814,10 +751,10 @@ GEO:-34.0395563490496;151.065869320404
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20216@eventor.orienteering.asn.au
-DTSTAMP:20240423T101911Z
+DTSTAMP:20240429T015327Z
 DTSTART:20240511T040000Z
 DTEND:20240511T063000Z
-SUMMARY:Craigburn Farm - Blackwood Hills, Onkaparinga Hills Orienteering Club
+SUMMARY:Craigburn Farm - Blackwood Hills - Foot and MTBO event, Onkaparinga Hills Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20216
 GEO:-35.0333294805807;138.604795536715
 END:VEVENT
@@ -884,16 +821,16 @@ GEO:-37.759784889041;145.083915327828
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20669@eventor.orienteering.asn.au
-DTSTAMP:20240412T040041Z
+DTSTAMP:20240429T064504Z
 DTSTART:20240512T003000Z
 DTEND:20240512T003000Z
-SUMMARY:Pioneer Park, Maryborough, Range Runners Orienteering Club
+SUMMARY:Pioneer Park, Maryborough, training day, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20669
 GEO:-25.5487057117625;152.679854318756
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20546@eventor.orienteering.asn.au
-DTSTAMP:20240426T065029Z
+DTSTAMP:20240429T075750Z
 DTSTART:20240512T010000Z
 DTEND:20240512T030000Z
 SUMMARY:MTBO 2 Bayswater, Orienteering WA / Wullundigong Orienteers of the West
@@ -902,11 +839,12 @@ GEO:-31.9299059438599;115.921257992016
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20465@eventor.orienteering.asn.au
-DTSTAMP:20240426T114255Z
+DTSTAMP:20240429T033605Z
 DTSTART:20240513T070000Z
 DTEND:20240513T100000Z
-SUMMARY:ACT MapRun Street Series: Kambah, 9-13 May, Orienteering ACT
+SUMMARY:ACT MapRun Street Series: Kambah West, 9-13 May, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/20465
+GEO:-35.3918228907983;149.061846600887
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20598@eventor.orienteering.asn.au
@@ -1204,11 +1142,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20444
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20466@eventor.orienteering.asn.au
-DTSTAMP:20240303T232054Z
+DTSTAMP:20240429T033607Z
 DTSTART:20240520T070000Z
 DTEND:20240520T100000Z
-SUMMARY:ACT MapRun Street Series: TBA, 16-20 May, Orienteering ACT
+SUMMARY:ACT MapRun Street Series: Melba, 16-20 May, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/20466
+GEO:-35.2083151543028;149.048879569264
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20599@eventor.orienteering.asn.au
@@ -1481,10 +1420,10 @@ GEO:-34.8813996330751;138.701239938992
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20467@eventor.orienteering.asn.au
-DTSTAMP:20240303T232106Z
+DTSTAMP:20240429T033610Z
 DTSTART:20240527T070000Z
 DTEND:20240527T100000Z
-SUMMARY:ACT MapRun Street Series: TBA, 23-27 May, Orienteering ACT
+SUMMARY:ACT MapRun Street Series, World Orienteering Week Special: Weetangera, 22-27 May, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/20467
 END:VEVENT
 BEGIN:VEVENT
@@ -1494,5 +1433,32 @@ DTSTART:20240527T083000Z
 DTEND:20240527T101000Z
 SUMMARY:Melbourne Park Street Monday Night Series - Forest Chase, Orienteering Victoria
 URL:https://eventor.orienteering.asn.au/Events/Show/20600
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20334@eventor.orienteering.asn.au
+DTSTAMP:20240414T044544Z
+DTSTART:20240528T073000Z
+DTEND:20240528T073000Z
+SUMMARY:Night Nav - Yeronga - Term 2 Series Event #6, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20334
+GEO:-27.5123320446731;153.016495741809
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20710@eventor.orienteering.asn.au
+DTSTAMP:20240418T022511Z
+DTSTART:20240528T080000Z
+DTEND:20240528T080000Z
+SUMMARY:Night Nav - Palmwoods, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20710
+GEO:-26.6951094506767;152.945176557473
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20035@eventor.orienteering.asn.au
+DTSTAMP:20231213T035339Z
+DTSTART:20240528T093000Z
+DTEND:20240528T093000Z
+SUMMARY:Orienteering NSW May Board Meeting, Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/20035
+GEO:-33.8460034291842;151.074483418337
 END:VEVENT
 END:VCALENDAR
