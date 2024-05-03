@@ -12,23 +12,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20451
 GEO:-27.4628062697273;153.019191755225
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20060@eventor.orienteering.asn.au
-DTSTAMP:20240319T084747Z
-DTSTART:20240425T023000Z
-DTEND:20240425T040000Z
-SUMMARY:Come And Try It - St Just's Point, Bendigo Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20060
-GEO:-36.7392366787449;144.251955335599
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20678@eventor.orienteering.asn.au
-DTSTAMP:20240416T072914Z
-DTSTART:20240425T040000Z
-DTEND:20240425T051000Z
-SUMMARY:Melbourne Park Street Monday Night Series - Waterford Valley Re-Run, Orienteering Victoria
-URL:https://eventor.orienteering.asn.au/Events/Show/20678
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20209@eventor.orienteering.asn.au
 DTSTAMP:20240120T000253Z
 DTSTART:20240426T030000Z
@@ -299,6 +282,24 @@ DTSTART:20240502T061500Z
 DTEND:20240502T073000Z
 SUMMARY:Central Adelaide Schools Zone Event 4 - Black Forest PS (Kerta Weeta Road), Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/20763
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20795@eventor.orienteering.asn.au
+DTSTAMP:20240503T090106Z
+DTSTART:20240502T231500Z
+DTEND:20240502T231500Z
+SUMMARY:Koolamurt - Girton 7H, Bendigo Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20795
+GEO:-36.8052459198432;144.287882409086
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20796@eventor.orienteering.asn.au
+DTSTAMP:20240503T090515Z
+DTSTART:20240503T013000Z
+DTEND:20240503T013000Z
+SUMMARY:Koolamurt - Girton 7C, Bendigo Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20796
+GEO:-36.8052410769685;144.287840437781
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20210@eventor.orienteering.asn.au
@@ -632,10 +633,10 @@ GEO:-33.7673222519522;151.171968296421
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20563@eventor.orienteering.asn.au
-DTSTAMP:20240319T020048Z
+DTSTAMP:20240503T094818Z
 DTSTART:20240511T000000Z
 DTEND:20240511T010000Z
-SUMMARY:ACT Learn to Orienteer, Week 2, Orienteering ACT
+SUMMARY:ACT Learn to Orienteer, Week 2 and Late Registration, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/20563
 GEO:-35.2923608914123;149.090004539304
 END:VEVENT
@@ -1060,7 +1061,7 @@ GEO:-37.3381361934243;144.107131962973
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20244@eventor.orienteering.asn.au
-DTSTAMP:20240419T134547Z
+DTSTAMP:20240503T000037Z
 DTSTART:20240519T003000Z
 DTEND:20240519T030000Z
 SUMMARY:Seymour College (Adelaide), Tjuringa Orienteers
@@ -1318,12 +1319,12 @@ GEO:-34.436546851823;150.429710185145
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20319@eventor.orienteering.asn.au
-DTSTAMP:20240126T033204Z
+DTSTAMP:20240503T122717Z
 DTSTART:20240526T003000Z
 DTEND:20240526T040000Z
 SUMMARY:Para Wirra/Lady Alice Goldfields OY, Tintookies Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20319
-GEO:-34.7024343390514;138.837987291458
+GEO:-34.6959824666592;138.840128510328
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20277@eventor.orienteering.asn.au
@@ -1533,5 +1534,91 @@ DTEND:20240603T020000Z
 SUMMARY:WA Winter Classic Accommodation, Bibbulmun Orienteers / Orienteering WA / Wullundigong Orienteers of the West
 URL:https://eventor.orienteering.asn.au/Events/Show/20623
 GEO:-32.7784113528488;117.000654753165
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20118@eventor.orienteering.asn.au
+DTSTAMP:20240502T043725Z
+DTSTART:20240601T140000Z
+DTEND:20240602T140000Z
+SUMMARY:Woodbridge - Southern Local #4, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/20118
+GEO:-43.1618934001494;147.238691501427
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20443@eventor.orienteering.asn.au
+DTSTAMP:20240328T090449Z
+DTSTART:20240601T230000Z
+DTEND:20240601T230000Z
+SUMMARY:South West School Sport Regional Trials, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20443
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19806@eventor.orienteering.asn.au
+DTSTAMP:20240408T121220Z
+DTSTART:20240601T230000Z
+DTEND:20240602T033000Z
+SUMMARY:Waggaroos Local event, Rocky Hill plus LTO training session., Wagga and Riverina Occasional Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19806
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20762@eventor.orienteering.asn.au
+DTSTAMP:20240426T053811Z
+DTSTART:20240601T233000Z
+DTEND:20240602T033000Z
+SUMMARY:The 49th Great NOSH Footrace, Bold Horizons Event Organiser / Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/20762
+GEO:-33.7686208669192;151.180106521954
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20791@eventor.orienteering.asn.au
+DTSTAMP:20240502T051905Z
+DTSTART:20240602T000000Z
+DTEND:20240602T040000Z
+SUMMARY:ACT Classic Series: Hermann Wehner Tribute Event, Stromlo, Weston Emus
+URL:https://eventor.orienteering.asn.au/Events/Show/20791
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20349@eventor.orienteering.asn.au
+DTSTAMP:20240430T033505Z
+DTSTART:20240602T000000Z
+DTEND:20240602T040000Z
+SUMMARY:Vic Series 2 - Glenluce North, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20349
+GEO:-37.1668272561146;144.209162271676
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20309@eventor.orienteering.asn.au
+DTSTAMP:20240125T062959Z
+DTSTART:20240602T003000Z
+DTEND:20240602T033000Z
+SUMMARY:Cooyerdoo Hill, Saltbush Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20309
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20258@eventor.orienteering.asn.au
+DTSTAMP:20240122T085847Z
+DTSTART:20240602T003000Z
+DTEND:20240602T033000Z
+SUMMARY:Woodhouse (Activity Centre) Sprint Orienteer of the Year event, Wallaringa Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20258
+GEO:-34.9869775824457;138.73680153094
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20574@eventor.orienteering.asn.au
+DTSTAMP:20240422T044914Z
+DTSTART:20240602T043000Z
+DTEND:20240602T073000Z
+SUMMARY:Bush 4 Winter Classic Dryandra Day 1, Bibbulmun Orienteers / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/20574
+GEO:-32.778240187522;117.000481840571
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20785@eventor.orienteering.asn.au
+DTSTAMP:20240429T063214Z
+DTSTART:20240602T073000Z
+DTEND:20240602T073000Z
+SUMMARY:OWA 50th Anniversary Afternoon Tea, Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/20785
+GEO:-32.7790019399052;117.000611173164
 END:VEVENT
 END:VCALENDAR
