@@ -3,23 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_20330@eventor.orienteering.asn.au
-DTSTAMP:20240430T110102Z
-DTSTART:20240429T140000Z
-DTEND:20240430T140000Z
-SUMMARY:Night Nav - Chapel Hill (Cicada Park) - Term 2 Series Event #2, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20330
-GEO:-27.4956750235821;152.942294084392
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20531@eventor.orienteering.asn.au
-DTSTAMP:20240313T035753Z
-DTSTART:20240430T083000Z
-DTEND:20240430T101000Z
-SUMMARY:Melbourne Park Street Tuesday Night Series - Old Williamstown, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20531
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20490@eventor.orienteering.asn.au
 DTSTAMP:20240306T062016Z
 DTSTART:20240430T140000Z
@@ -337,7 +320,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19804
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20632@eventor.orienteering.asn.au
-DTSTAMP:20240404T014144Z
+DTSTAMP:20240508T001659Z
 DTSTART:20240507T080000Z
 DTEND:20240507T080000Z
 SUMMARY:Night Nav - Point Cartwright, Sunshine Orienteers Club
@@ -351,6 +334,15 @@ DTSTART:20240507T083000Z
 DTEND:20240507T101000Z
 SUMMARY:Melbourne Park Street Tuesday Autumn Series - North Melbourne, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20601
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20839@eventor.orienteering.asn.au
+DTSTAMP:20240508T065212Z
+DTSTART:20240508T013000Z
+DTEND:20240508T013000Z
+SUMMARY:Koolamurt - Girton 7V, Bendigo Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20839
+GEO:-36.8052631059849;144.287796167656
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20787@eventor.orienteering.asn.au
@@ -453,6 +445,7 @@ DTSTART:20240511T020000Z
 DTEND:20240511T040000Z
 SUMMARY:Spice Brook Traiining, Bibbulmun Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20788
+GEO:-31.4133679604159;116.17733344202
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20061@eventor.orienteering.asn.au
@@ -580,7 +573,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20598
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20034@eventor.orienteering.asn.au
-DTSTAMP:20240507T055232Z
+DTSTAMP:20240508T064752Z
 DTSTART:20240513T093000Z
 DTEND:20240513T093000Z
 SUMMARY:Orienteering NSW May General Meeting, Orienteering NSW
@@ -972,14 +965,6 @@ SUMMARY:Melbourne Park Street Tuesday Autumn Series - Windy Hill, Bayside Kangar
 URL:https://eventor.orienteering.asn.au/Events/Show/20603
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20833@eventor.orienteering.asn.au
-DTSTAMP:20240506T075632Z
-DTSTART:20240522T060000Z
-DTEND:20240522T071500Z
-SUMMARY:Woodside Afterschool Orienteering Zone - Lobethal Recreation Grounds, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/20833
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20653@eventor.orienteering.asn.au
 DTSTAMP:20240425T070628Z
 DTSTART:20240522T073000Z
@@ -994,6 +979,14 @@ DTSTART:20240522T083000Z
 DTEND:20240522T101000Z
 SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - Westgarth, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20607
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20833@eventor.orienteering.asn.au
+DTSTAMP:20240508T043002Z
+DTSTART:20240523T060000Z
+DTEND:20240523T071500Z
+SUMMARY:Woodside Afterschool Orienteering Zone - Lobethal Recreation Grounds, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/20833
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20766@eventor.orienteering.asn.au
@@ -1066,6 +1059,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19555
 GEO:-35.2508532030112;149.10634411412
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20838@eventor.orienteering.asn.au
+DTSTAMP:20240508T055453Z
+DTSTART:20240525T020000Z
+DTEND:20240525T083000Z
+SUMMARY:MTBO Workshop, Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/20838
+GEO:-31.9649985195041;116.106489049727
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20062@eventor.orienteering.asn.au
 DTSTAMP:20240412T060214Z
 DTSTART:20240525T023000Z
@@ -1111,10 +1113,10 @@ GEO:-26.5461082299809;151.620060628446
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20668@eventor.orienteering.asn.au
-DTSTAMP:20240506T215108Z
+DTSTAMP:20240508T030842Z
 DTSTART:20240525T233000Z
 DTEND:20240526T030000Z
-SUMMARY:Minor event, Newcastle Orienteering Club
+SUMMARY:Newcastle minor event, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20668
 END:VEVENT
 BEGIN:VEVENT
@@ -1134,6 +1136,15 @@ DTEND:20240526T030000Z
 SUMMARY:ACT MTBO Series #2: Cooleman Ridge and Come&Try MTBO, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19569
 GEO:-35.3495970757728;149.024002200421
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20837@eventor.orienteering.asn.au
+DTSTAMP:20240508T025205Z
+DTSTART:20240526T000000Z
+DTEND:20240526T030000Z
+SUMMARY:Bom Bom Forest Orienteering, Bush n Beach Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20837
+GEO:-29.7491417139992;152.966516872172
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20365@eventor.orienteering.asn.au
