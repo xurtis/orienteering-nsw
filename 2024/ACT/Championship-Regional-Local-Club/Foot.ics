@@ -3,23 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_18758@eventor.orienteering.asn.au
-DTSTAMP:20240502T070949Z
-DTSTART:20240502T003000Z
-DTEND:20240502T010000Z
-SUMMARY:Mercer Park, Kedron. (BCC Sponsored) (MAPRUN EVENT), Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/18758
-GEO:-27.405614;153.041297
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20763@eventor.orienteering.asn.au
-DTSTAMP:20240427T072902Z
-DTSTART:20240502T061500Z
-DTEND:20240502T073000Z
-SUMMARY:Central Adelaide Schools Zone Event 4 - Black Forest PS (Kerta Weeta Road), Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/20763
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20795@eventor.orienteering.asn.au
 DTSTAMP:20240503T090106Z
 DTSTART:20240502T231500Z
@@ -359,6 +342,15 @@ SUMMARY:Mitcham Hills and Stirling After School Zone Event - Hawthorndene Reserv
 URL:https://eventor.orienteering.asn.au/Events/Show/20757
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20715@eventor.orienteering.asn.au
+DTSTAMP:20240510T041730Z
+DTSTART:20240510T140000Z
+DTEND:20240511T140000Z
+SUMMARY:CANCELLED- Launch of Randwick Permanent Courses, Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20715
+GEO:-33.9301125645236;151.24656192901
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20503@eventor.orienteering.asn.au
 DTSTAMP:20240424T102814Z
 DTSTART:20240510T233000Z
@@ -393,15 +385,6 @@ DTEND:20240511T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #1, Weston Park, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/19553
 GEO:-35.2935540633168;149.092724830358
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20715@eventor.orienteering.asn.au
-DTSTAMP:20240505T112050Z
-DTSTART:20240511T010000Z
-DTEND:20240511T033000Z
-SUMMARY:Launch - Permanent Course- Randwick Sustainability Hub, Uringa Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20715
-GEO:-33.9301125645236;151.24656192901
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20788@eventor.orienteering.asn.au
@@ -640,15 +623,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20758
 GEO:-35.0208816411322;138.636658849048
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19545@eventor.orienteering.asn.au
-DTSTAMP:20240415T095914Z
-DTSTART:20240517T140000Z
-DTEND:20240518T140000Z
-SUMMARY:ACT Classic Series: ACT League #7, Wee Jasper, Abominable O-Men
-URL:https://eventor.orienteering.asn.au/Events/Show/19545
-GEO:-35.0693094223753;148.661006113032
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20450@eventor.orienteering.asn.au
 DTSTAMP:20240509T064346Z
 DTSTART:20240517T140000Z
@@ -656,15 +630,6 @@ DTEND:20240518T140000Z
 SUMMARY:NOL Presentation Dinner, Orienteering ACT / Orienteering Australia / Orienteering NSW / Orienteering Queensland / Orienteering SA / Orienteering Tasmania / Orienteering Victoria / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/20450
 GEO:-35.2614769758511;149.138627204404
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20520@eventor.orienteering.asn.au
-DTSTAMP:20240415T095949Z
-DTSTART:20240517T140000Z
-DTEND:20240518T140000Z
-SUMMARY:NOL Round 4: Middle, Wee Jasper, Abominable O-Men
-URL:https://eventor.orienteering.asn.au/Events/Show/20520
-GEO:-35.0693317414392;148.66102842511
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20504@eventor.orienteering.asn.au
@@ -694,6 +659,24 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20564
 GEO:-35.2923619396789;149.090029810726
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_19545@eventor.orienteering.asn.au
+DTSTAMP:20240510T084748Z
+DTSTART:20240518T020000Z
+DTEND:20240518T050000Z
+SUMMARY:ACT Classic Series: ACT League #7, Wee Jasper, Abominable O-Men
+URL:https://eventor.orienteering.asn.au/Events/Show/19545
+GEO:-35.0693094223753;148.661006113032
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20520@eventor.orienteering.asn.au
+DTSTAMP:20240510T084734Z
+DTSTART:20240518T023000Z
+DTEND:20240518T050000Z
+SUMMARY:NOL Round 4: Middle, Wee Jasper, Abominable O-Men
+URL:https://eventor.orienteering.asn.au/Events/Show/20520
+GEO:-35.0693317414392;148.66102842511
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20611@eventor.orienteering.asn.au
 DTSTAMP:20240325T014640Z
 DTSTART:20240518T040000Z
@@ -721,7 +704,7 @@ GEO:-42.8419469745802;147.54115861694
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19546@eventor.orienteering.asn.au
-DTSTAMP:20240415T100027Z
+DTSTAMP:20240510T110143Z
 DTSTART:20240518T140000Z
 DTEND:20240519T140000Z
 SUMMARY:ACT Classic Series: ACT League #8, Awoonga, Bushflyers
@@ -730,7 +713,7 @@ GEO:-35.0944103496291;149.363215931497
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20491@eventor.orienteering.asn.au
-DTSTAMP:20240415T100111Z
+DTSTAMP:20240510T110238Z
 DTSTART:20240518T140000Z
 DTEND:20240519T140000Z
 SUMMARY:NOL Round 4: Relay, Awoonga (individual entry), Bushflyers
@@ -1165,7 +1148,7 @@ GEO:-34.839728297617;135.866970368589
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20548@eventor.orienteering.asn.au
-DTSTAMP:20240505T093507Z
+DTSTAMP:20240510T013423Z
 DTSTART:20240526T013000Z
 DTEND:20240526T050000Z
 SUMMARY:MTBO 3 Glen Forrest, LOST / Orienteering WA
@@ -1570,5 +1553,49 @@ DTEND:20240608T053000Z
 SUMMARY:Port Lincoln Day 1 - Louth Bay, Lincoln Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20278
 GEO:-34.5416430170873;135.933364312535
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20116@eventor.orienteering.asn.au
+DTSTAMP:20240215T051551Z
+DTSTART:20240608T140000Z
+DTEND:20240609T140000Z
+SUMMARY:Penguin Sports Complex x 2 - Tas Sprint Champs + long sprint OST 8, Pathfinders
+URL:https://eventor.orienteering.asn.au/Events/Show/20116
+GEO:-41.1283852447705;146.070766413036
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20641@eventor.orienteering.asn.au
+DTSTAMP:20240405T031859Z
+DTSTART:20240608T230000Z
+DTEND:20240608T230000Z
+SUMMARY:Dadirri, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20641
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19504@eventor.orienteering.asn.au
+DTSTAMP:20240427T021903Z
+DTSTART:20240609T003000Z
+DTEND:20240609T040000Z
+SUMMARY:Port Lincoln Day 2 - SA Long Distance Championships, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19504
+GEO:-34.6548853382672;135.53512857099
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20352@eventor.orienteering.asn.au
+DTSTAMP:20240408T080800Z
+DTSTART:20240609T010000Z
+DTEND:20240609T040000Z
+SUMMARY:Maxi (Individual) - Glenlyon Forest, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20352
+GEO:-37.202784092896;144.250165210039
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20646@eventor.orienteering.asn.au
+DTSTAMP:20240408T082250Z
+DTSTART:20240609T010000Z
+DTEND:20240609T040000Z
+SUMMARY:Maxi (Teams) - Glenlyon Forest, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20646
+GEO:-37.2027156990831;144.249669719897
 END:VEVENT
 END:VCALENDAR
