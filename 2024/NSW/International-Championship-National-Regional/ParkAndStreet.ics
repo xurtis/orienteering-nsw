@@ -3,49 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_20331@eventor.orienteering.asn.au
-DTSTAMP:20240507T104907Z
-DTSTART:20240506T140000Z
-DTEND:20240507T140000Z
-SUMMARY:Night Nav - Taringa - Term 2 Series Event #3, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20331
-GEO:-27.4914412;152.991838
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19803@eventor.orienteering.asn.au
-DTSTAMP:20240425T004535Z
-DTSTART:20240506T230000Z
-DTEND:20240507T040000Z
-SUMMARY:Riverina Schools Day Individual, Willan's Hill, Wagga and Riverina Occasional Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19803
-GEO:-35.1310247183072;147.367395590844
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19804@eventor.orienteering.asn.au
-DTSTAMP:20231117T054656Z
-DTSTART:20240507T000000Z
-DTEND:20240507T040000Z
-SUMMARY:Riverina Schools Relays, Willan's Hill, Wagga and Riverina Occasional Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19804
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20632@eventor.orienteering.asn.au
-DTSTAMP:20240508T001659Z
-DTSTART:20240507T080000Z
-DTEND:20240507T080000Z
-SUMMARY:Night Nav - Point Cartwright, Sunshine Orienteers Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20632
-GEO:-26.6999763980165;153.133142243659
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20601@eventor.orienteering.asn.au
-DTSTAMP:20240325T011851Z
-DTSTART:20240507T083000Z
-DTEND:20240507T101000Z
-SUMMARY:Melbourne Park Street Tuesday Autumn Series - North Melbourne, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20601
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20839@eventor.orienteering.asn.au
 DTSTAMP:20240508T065212Z
 DTSTART:20240508T013000Z
@@ -309,7 +266,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20830
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20708@eventor.orienteering.asn.au
-DTSTAMP:20240418T015233Z
+DTSTAMP:20240514T235148Z
 DTSTART:20240514T080000Z
 DTEND:20240514T080000Z
 SUMMARY:Night Nav - Heritage Park, Tewantin, Sunshine Orienteers Club
@@ -851,11 +808,12 @@ GEO:-26.5461082299809;151.620060628446
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20668@eventor.orienteering.asn.au
-DTSTAMP:20240514T064956Z
+DTSTAMP:20240515T052403Z
 DTSTART:20240525T233000Z
 DTEND:20240526T030000Z
-SUMMARY:Newcastle minor event, Newcastle Orienteering Club
+SUMMARY:Newcastle Maze Champs, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20668
+GEO:-32.9072805779781;151.685055310648
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19975@eventor.orienteering.asn.au
