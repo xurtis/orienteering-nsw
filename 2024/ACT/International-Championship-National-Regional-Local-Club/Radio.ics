@@ -3,40 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_20332@eventor.orienteering.asn.au
-DTSTAMP:20240514T111913Z
-DTSTART:20240513T140000Z
-DTEND:20240514T140000Z
-SUMMARY:Night Nav - Graceville - Term 2 Series Event #4, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20332
-GEO:-27.5330185057171;152.973971509687
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20830@eventor.orienteering.asn.au
-DTSTAMP:20240506T075343Z
-DTSTART:20240514T060000Z
-DTEND:20240514T071500Z
-SUMMARY:Heathfield After School Zone Event #1- Crafers Primary School, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/20830
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20708@eventor.orienteering.asn.au
-DTSTAMP:20240514T235148Z
-DTSTART:20240514T080000Z
-DTEND:20240514T080000Z
-SUMMARY:Night Nav - Heritage Park, Tewantin, Sunshine Orienteers Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20708
-GEO:-26.3923767353908;153.010938001292
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20602@eventor.orienteering.asn.au
-DTSTAMP:20240325T012429Z
-DTSTART:20240514T083000Z
-DTEND:20240514T101000Z
-SUMMARY:Melbourne Park Street Tuesday Autumn Series - Maidstone, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20602
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20097@eventor.orienteering.asn.au
 DTSTAMP:20240507T063303Z
 DTSTART:20240515T010000Z
@@ -389,7 +355,7 @@ GEO:-34.9935990858874;138.712326283222
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20709@eventor.orienteering.asn.au
-DTSTAMP:20240418T021208Z
+DTSTAMP:20240522T054656Z
 DTSTART:20240521T080000Z
 DTEND:20240521T080000Z
 SUMMARY:Night Nav - Kings Beach, Sunshine Orienteers Club
@@ -432,10 +398,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20607
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20856@eventor.orienteering.asn.au
-DTSTAMP:20240521T055220Z
+DTSTAMP:20240522T070144Z
 DTSTART:20240523T003000Z
 DTEND:20240523T010000Z
-SUMMARY:MidWeek World Orienteering Week at Opossum Mountain, Brookwater / Springfield, Orienteering Queensland
+SUMMARY:World Orienteering mIDWeek at Opossum Mountain, Brookwater / Springfield, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/20856
 GEO:-27.6682263629847;152.902317582292
 END:VEVENT
@@ -652,7 +618,7 @@ GEO:-34.839728297617;135.866970368589
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20548@eventor.orienteering.asn.au
-DTSTAMP:20240510T013423Z
+DTSTAMP:20240522T020451Z
 DTSTART:20240526T013000Z
 DTEND:20240526T050000Z
 SUMMARY:MTBO 3 Glen Forrest, LOST / Orienteering WA
@@ -679,7 +645,7 @@ GEO:-27.5485784403517;152.949178229048
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20625@eventor.orienteering.asn.au
-DTSTAMP:20240405T063407Z
+DTSTAMP:20240522T004033Z
 DTSTART:20240527T003000Z
 DTEND:20240527T023000Z
 SUMMARY:SA Schools Orienteering Championships Wadmore Park, Yalanga Orienteers
@@ -950,11 +916,12 @@ GEO:-34.986906902612;138.738056634812
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20309@eventor.orienteering.asn.au
-DTSTAMP:20240125T062959Z
+DTSTAMP:20240522T071111Z
 DTSTART:20240602T003000Z
 DTEND:20240602T033000Z
-SUMMARY:Cooyerdoo Hill, Saltbush Orienteers
+SUMMARY:Moonabie West, Saltbush Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20309
+GEO:-33.2631812463424;137.183309687561
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20574@eventor.orienteering.asn.au
@@ -1063,7 +1030,7 @@ GEO:-41.1798888973241;146.357087046488
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19577@eventor.orienteering.asn.au
-DTSTAMP:20240427T113236Z
+DTSTAMP:20240521T234057Z
 DTSTART:20240608T020000Z
 DTEND:20240610T040000Z
 SUMMARY:2024 KB3 3-Days (NSW State Leagues) - Rylstone Area, Garingal Orienteers
