@@ -322,7 +322,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20841
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20507@eventor.orienteering.asn.au
-DTSTAMP:20240424T113048Z
+DTSTAMP:20240615T023556Z
 DTSTART:20240614T233000Z
 DTEND:20240615T020000Z
 SUMMARY:SOS Hawkesbury - Ropes Crossing, Bold Horizons Event Organiser
@@ -331,7 +331,7 @@ GEO:-33.7252868554598;150.776321673431
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20501@eventor.orienteering.asn.au
-DTSTAMP:20240424T113736Z
+DTSTAMP:20240615T025850Z
 DTSTART:20240614T233000Z
 DTEND:20240615T020000Z
 SUMMARY:SOS Northside - Belrose, Bold Horizons Event Organiser
@@ -349,7 +349,7 @@ GEO:-35.3498514358819;149.115777489555
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19557@eventor.orienteering.asn.au
-DTSTAMP:20240530T054909Z
+DTSTAMP:20240615T033726Z
 DTSTART:20240615T003000Z
 DTEND:20240615T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #4, Mt Mugga Mugga, Abominable O-Men
@@ -383,7 +383,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20685
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20549@eventor.orienteering.asn.au
-DTSTAMP:20240525T114038Z
+DTSTAMP:20240615T072418Z
 DTSTART:20240615T053000Z
 DTEND:20240615T073000Z
 SUMMARY:NavDash 6 Wanneroo Secondary College - Sprint SOL, Kulgun 225 Orienteers / Orienteering WA
@@ -561,10 +561,10 @@ GEO:-19.2911875786147;146.785238311102
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20926@eventor.orienteering.asn.au
-DTSTAMP:20240607T005848Z
+DTSTAMP:20240615T003653Z
 DTSTART:20240619T080000Z
 DTEND:20240619T110000Z
-SUMMARY:Mid-week Training, Orienteering WA
+SUMMARY:Claisebrook Cove Mid-week Training, Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/20926
 END:VEVENT
 BEGIN:VEVENT
@@ -612,7 +612,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20326
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20861@eventor.orienteering.asn.au
-DTSTAMP:20240605T115332Z
+DTSTAMP:20240615T075259Z
 DTSTART:20240622T040000Z
 DTEND:20240622T050000Z
 SUMMARY:Highfields MTBO Maprun Score, Range Runners Orienteering Club
@@ -626,15 +626,6 @@ DTSTART:20240622T040000Z
 DTEND:20240622T051000Z
 SUMMARY:Geelong Park Street Saturday Winter Series - Germantown (new map), Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20688
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20119@eventor.orienteering.asn.au
-DTSTAMP:20231230T002609Z
-DTSTART:20240622T140000Z
-DTEND:20240623T140000Z
-SUMMARY:Stringybark Gully - Southern Local #5, Australopers
-URL:https://eventor.orienteering.asn.au/Events/Show/20119
-GEO:-42.843786482089;147.413850271337
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19702@eventor.orienteering.asn.au
@@ -681,6 +672,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20628
 GEO:-33.2467350637091;149.114849883753
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20119@eventor.orienteering.asn.au
+DTSTAMP:20240615T004318Z
+DTSTART:20240623T000000Z
+DTEND:20240623T030000Z
+SUMMARY:Stringybark Gully - Southern Local #5, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/20119
+GEO:-42.843786482089;147.413850271337
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19846@eventor.orienteering.asn.au
 DTSTAMP:20240613T025724Z
 DTSTART:20240623T000000Z
@@ -714,7 +714,7 @@ DTSTART:20240623T003000Z
 DTEND:20240623T003000Z
 SUMMARY:Women's Training Day - Blackwood Hills, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/20883
-GEO:-35.0334568892776;138.607055927176
+GEO:-35.0337548084851;138.605690027869
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20310@eventor.orienteering.asn.au
@@ -814,12 +814,28 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20923
 GEO:-19.2712036438732;146.810846241976
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20945@eventor.orienteering.asn.au
+DTSTAMP:20240615T004405Z
+DTSTART:20240626T080000Z
+DTEND:20240626T110000Z
+SUMMARY:Mid-week Training, Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/20945
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20682@eventor.orienteering.asn.au
 DTSTAMP:20240416T074401Z
 DTSTART:20240626T083000Z
 DTEND:20240626T101500Z
 SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - Cavills Corner, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20682
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20944@eventor.orienteering.asn.au
+DTSTAMP:20240614T225620Z
+DTSTART:20240627T003000Z
+DTEND:20240627T010000Z
+SUMMARY:Griffith University, Nathan, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/20944
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20069@eventor.orienteering.asn.au
@@ -1242,5 +1258,102 @@ DTSTART:20240713T040000Z
 DTEND:20240713T051000Z
 SUMMARY:Melbourne Park Street Saturday Series - Ashwood South, Victorian ARDF Group
 URL:https://eventor.orienteering.asn.au/Events/Show/20694
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20120@eventor.orienteering.asn.au
+DTSTAMP:20231230T003247Z
+DTSTART:20240713T140000Z
+DTEND:20240714T140000Z
+SUMMARY:Waverley Park - Southern Local #6, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/20120
+GEO:-42.8676814337132;147.388026282255
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19449@eventor.orienteering.asn.au
+DTSTAMP:20240529T221347Z
+DTSTART:20240713T230000Z
+DTEND:20240713T230000Z
+SUMMARY:OY7 - EN - Woodlands, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/19449
+GEO:-27.5947428082851;152.298899777467
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19795@eventor.orienteering.asn.au
+DTSTAMP:20231117T041806Z
+DTSTART:20240714T000000Z
+DTEND:20240714T020000Z
+SUMMARY:AWOC training #5 (location tba), Albury-Wodonga Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19795
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20857@eventor.orienteering.asn.au
+DTSTAMP:20240517T074616Z
+DTSTART:20240714T000000Z
+DTEND:20240714T023000Z
+SUMMARY:The GOanna, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20857
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20369@eventor.orienteering.asn.au
+DTSTAMP:20240415T020858Z
+DTSTART:20240714T000000Z
+DTEND:20240714T030000Z
+SUMMARY:MelBushO 6 - Granite Hills, South Morang, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20369
+GEO:-37.6295430141534;145.078305251654
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19847@eventor.orienteering.asn.au
+DTSTAMP:20240517T000602Z
+DTSTART:20240714T000000Z
+DTEND:20240714T040000Z
+SUMMARY:Oakview, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19847
+GEO:-30.4875224478256;151.451978518665
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20448@eventor.orienteering.asn.au
+DTSTAMP:20240326T103333Z
+DTSTART:20240714T003000Z
+DTEND:20240714T030000Z
+SUMMARY:Highlands Forest Series #3 - Soapy Flat, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20448
+GEO:-34.4293649884581;150.420483385938
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20555@eventor.orienteering.asn.au
+DTSTAMP:20240615T083310Z
+DTSTART:20240714T013000Z
+DTEND:20240714T050000Z
+SUMMARY:NavDash 7 Club Relays, Orienteering WA / Wullundigong Orienteers of the West
+URL:https://eventor.orienteering.asn.au/Events/Show/20555
+GEO:-31.9613865813638;115.786201790078
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20556@eventor.orienteering.asn.au
+DTSTAMP:20240615T081136Z
+DTSTART:20240714T013000Z
+DTEND:20240714T050000Z
+SUMMARY:NavDash 7 Club Relays - John XXII College - entries only, Orienteering WA / Wullundigong Orienteers of the West
+URL:https://eventor.orienteering.asn.au/Events/Show/20556
+GEO:-31.9614212849657;115.78618418138
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20946@eventor.orienteering.asn.au
+DTSTAMP:20240615T081947Z
+DTSTART:20240714T020000Z
+DTEND:20240714T050000Z
+SUMMARY:NavDash 7 Club Relays - John XXII College - single entry EOD only, Orienteering WA / Wullundigong Orienteers of the West
+URL:https://eventor.orienteering.asn.au/Events/Show/20946
+GEO:-31.9615663411356;115.786102683784
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20868@eventor.orienteering.asn.au
+DTSTAMP:20240520T074611Z
+DTSTART:20240714T060000Z
+DTEND:20240714T060000Z
+SUMMARY:MapRun Parks 2024 - Kalinga Park, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20868
+GEO:-27.4067264749507;153.051924230647
 END:VEVENT
 END:VCALENDAR
