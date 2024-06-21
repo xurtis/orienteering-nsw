@@ -3,23 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_20927@eventor.orienteering.asn.au
-DTSTAMP:20240615T204428Z
-DTSTART:20240613T003000Z
-DTEND:20240613T010000Z
-SUMMARY:MidWeek Bush Orienteering at a new map: JC Trotter Park, Burbank, Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/20927
-GEO:-27.5503773769715;153.178102093391
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20841@eventor.orienteering.asn.au
-DTSTAMP:20240610T083715Z
-DTSTART:20240613T100000Z
-DTEND:20240613T100000Z
-SUMMARY:Participation and Engagement Network June Meeting, Orienteering Australia
-URL:https://eventor.orienteering.asn.au/Events/Show/20841
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20507@eventor.orienteering.asn.au
 DTSTAMP:20240615T023556Z
 DTSTART:20240614T233000Z
@@ -364,7 +347,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19797
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20628@eventor.orienteering.asn.au
-DTSTAMP:20240616T080317Z
+DTSTAMP:20240621T002324Z
 DTSTART:20240623T000000Z
 DTEND:20240623T030000Z
 SUMMARY:Goldseekers 30th Birthday + Bush Series #4 CSU Orange , Goldseekers Orienteers
@@ -619,7 +602,7 @@ GEO:-35.2568979261021;138.891149269729
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20959@eventor.orienteering.asn.au
-DTSTAMP:20240620T123225Z
+DTSTAMP:20240620T232555Z
 DTSTART:20240629T213000Z
 DTEND:20240629T213000Z
 SUMMARY:NT: 2024 Jingili and surrounds, Top End Orienteers
@@ -863,7 +846,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20311
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18632@eventor.orienteering.asn.au
-DTSTAMP:20240609T135401Z
+DTSTAMP:20240621T125116Z
 DTSTART:20240707T003000Z
 DTEND:20240707T033000Z
 SUMMARY:Simmonds Hill, Tintookies Orienteers
@@ -1170,5 +1153,57 @@ DTEND:20240718T143000Z
 SUMMARY:SA Junior Arrows Camp - Day 4 , Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/20852
 GEO:-34.6476474163178;139.14357483028
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19580@eventor.orienteering.asn.au
+DTSTAMP:20240618T081107Z
+DTSTART:20240719T140000Z
+DTEND:20240720T140000Z
+SUMMARY:2024 NSW State League #10 - Poppethead, Kitchener, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19580
+GEO:-32.87642756091;151.365499439636
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19736@eventor.orienteering.asn.au
+DTSTAMP:20240329T075548Z
+DTSTART:20240720T000000Z
+DTEND:20240720T000000Z
+SUMMARY:Qld Schools Champs - Hagaby - Karingal Scout Camp, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19736
+GEO:-27.6061435420748;153.226789222157
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20692@eventor.orienteering.asn.au
+DTSTAMP:20240416T081446Z
+DTSTART:20240720T040000Z
+DTEND:20240720T051000Z
+SUMMARY:Geelong Park Street Saturday Winter Series - Highview, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20692
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20695@eventor.orienteering.asn.au
+DTSTAMP:20240416T082105Z
+DTSTART:20240720T040000Z
+DTEND:20240720T051000Z
+SUMMARY:Melbourne Park Street Saturday Series - Templestowe Valley, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20695
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20618@eventor.orienteering.asn.au
+DTSTAMP:20240329T075213Z
+DTSTART:20240720T043000Z
+DTEND:20240720T043000Z
+SUMMARY:Qld Schools Champs - Sprint - Sheldon College, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/20618
+GEO:-27.5682553103671;153.235041504002
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20619@eventor.orienteering.asn.au
+DTSTAMP:20240329T075254Z
+DTSTART:20240720T054500Z
+DTEND:20240720T063000Z
+SUMMARY:Public Sprint - Sheldon College, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/20619
+GEO:-27.5682706770505;153.235071511093
 END:VEVENT
 END:VCALENDAR
