@@ -3,51 +3,8 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_20098@eventor.orienteering.asn.au
-DTSTAMP:20240618T105247Z
-DTSTART:20240619T010000Z
-DTEND:20240619T033000Z
-SUMMARY:Midweek Training at Mt Crawford, Wirra Wirra, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/20098
-GEO:-34.6795009778925;138.974168268322
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20771@eventor.orienteering.asn.au
-DTSTAMP:20240619T054101Z
-DTSTART:20240619T020000Z
-DTEND:20240619T040000Z
-SUMMARY:ACT Midweek Series: Mt Rogers, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/20771
-GEO:-35.1950474899434;149.051835852758
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20922@eventor.orienteering.asn.au
-DTSTAMP:20240601T112552Z
-DTSTART:20240619T070000Z
-DTEND:20240619T090000Z
-SUMMARY:TTOC Sportident Park Series: Week 3 Anderson Park / Gardens, Totally Tropical Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20922
-GEO:-19.2911875786147;146.785238311102
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20926@eventor.orienteering.asn.au
-DTSTAMP:20240615T003653Z
-DTSTART:20240619T080000Z
-DTEND:20240619T110000Z
-SUMMARY:Claisebrook Cove Mid-week Training, Orienteering WA
-URL:https://eventor.orienteering.asn.au/Events/Show/20926
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20681@eventor.orienteering.asn.au
-DTSTAMP:20240416T073914Z
-DTSTART:20240619T083000Z
-DTEND:20240619T101500Z
-SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - Dandenong Creek, Nillumbik Emus Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20681
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20861@eventor.orienteering.asn.au
-DTSTAMP:20240623T105118Z
+DTSTAMP:20240627T055302Z
 DTSTART:20240621T140000Z
 DTEND:20240622T140000Z
 SUMMARY:Highfields MTBO Maprun Score, Range Runners Orienteering Club
@@ -303,7 +260,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20682
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20944@eventor.orienteering.asn.au
-DTSTAMP:20240619T000823Z
+DTSTAMP:20240627T072254Z
 DTSTART:20240627T003000Z
 DTEND:20240627T010000Z
 SUMMARY:Griffith University, Nathan, Orienteering Queensland
@@ -694,6 +651,7 @@ DTSTART:20240710T020000Z
 DTEND:20240710T040000Z
 SUMMARY:ACT Midweek Series: Mt Majura West, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/20774
+GEO:-35.2298848728656;149.167200135822
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20703@eventor.orienteering.asn.au
@@ -764,6 +722,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20120
 GEO:-42.8707321243061;147.395667896747
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20966@eventor.orienteering.asn.au
+DTSTAMP:20240626T231432Z
+DTSTART:20240713T213000Z
+DTEND:20240713T233000Z
+SUMMARY:NT: Howard Springs Pine Forest (West) MTB-O, Top End Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20966
+GEO:-12.4780014923915;131.031767100793
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19449@eventor.orienteering.asn.au
 DTSTAMP:20240529T221347Z
 DTSTART:20240713T230000Z
@@ -782,7 +749,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19795
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20857@eventor.orienteering.asn.au
-DTSTAMP:20240625T235734Z
+DTSTAMP:20240627T112906Z
 DTSTART:20240714T000000Z
 DTEND:20240714T023000Z
 SUMMARY:The GOanna, Garingal Orienteers
@@ -827,7 +794,7 @@ GEO:-31.9614212849657;115.78618418138
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20555@eventor.orienteering.asn.au
-DTSTAMP:20240618T043018Z
+DTSTAMP:20240627T085430Z
 DTSTART:20240714T013000Z
 DTEND:20240714T050000Z
 SUMMARY:NavDash 7 Club Relays - teams, Orienteering WA / Wullundigong Orienteers of the West
