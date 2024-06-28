@@ -277,15 +277,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20069
 GEO:-36.867332859514;144.302731122957
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20327@eventor.orienteering.asn.au
-DTSTAMP:20240623T085438Z
-DTSTART:20240628T140000Z
-DTEND:20240629T140000Z
-SUMMARY:L2O Series - EN - Event 7 - Samford West, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/20327
-GEO:-27.3725937240292;152.909959682424
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20670@eventor.orienteering.asn.au
 DTSTAMP:20240623T223640Z
 DTSTART:20240628T230000Z
@@ -347,6 +338,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20217
 GEO:-35.2568979261021;138.891149269729
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20327@eventor.orienteering.asn.au
+DTSTAMP:20240628T060636Z
+DTSTART:20240629T043000Z
+DTEND:20240629T043000Z
+SUMMARY:L2O Series - EN - Event 7 - Samford West, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/20327
+GEO:-27.3725937240292;152.909959682424
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20959@eventor.orienteering.asn.au
 DTSTAMP:20240620T232555Z
 DTSTART:20240629T213000Z
@@ -357,7 +357,7 @@ GEO:-12.3858138168383;130.867798226137
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19579@eventor.orienteering.asn.au
-DTSTAMP:20240522T051850Z
+DTSTAMP:20240628T112230Z
 DTSTART:20240629T233000Z
 DTEND:20240630T020000Z
 SUMMARY:2024 NSW State League #9 Middle Distance - Kentlyn, Southern Highlands Orienteers
@@ -602,7 +602,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20311
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18632@eventor.orienteering.asn.au
-DTSTAMP:20240623T230554Z
+DTSTAMP:20240628T043805Z
 DTSTART:20240707T003000Z
 DTEND:20240707T033000Z
 SUMMARY:Simmonds Hill, Tintookies Orienteers
@@ -749,7 +749,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19795
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20857@eventor.orienteering.asn.au
-DTSTAMP:20240627T112906Z
+DTSTAMP:20240627T200338Z
 DTSTART:20240714T000000Z
 DTEND:20240714T023000Z
 SUMMARY:The GOanna, Garingal Orienteers
@@ -1120,5 +1120,74 @@ DTSTART:20240724T083000Z
 DTEND:20240724T101500Z
 SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Kangaroo Very Flat, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20705
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20108@eventor.orienteering.asn.au
+DTSTAMP:20231228T235330Z
+DTSTART:20240726T140000Z
+DTEND:20240727T140000Z
+SUMMARY:Northern OST Weekend Score + Mini KO Sprint, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/20108
+GEO:-41.4371920776349;147.135195582851
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20516@eventor.orienteering.asn.au
+DTSTAMP:20240311T232325Z
+DTSTART:20240726T233000Z
+DTEND:20240727T020000Z
+SUMMARY:SOS Hills District, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20516
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20509@eventor.orienteering.asn.au
+DTSTAMP:20240311T225627Z
+DTSTART:20240726T233000Z
+DTEND:20240727T020000Z
+SUMMARY:SOS Northside, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20509
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20019@eventor.orienteering.asn.au
+DTSTAMP:20240423T022104Z
+DTSTART:20240727T000000Z
+DTEND:20240727T043000Z
+SUMMARY:Ballarat Classics Series #5 - Nerrina, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20019
+GEO:-37.5429412187487;143.895676165979
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19559@eventor.orienteering.asn.au
+DTSTAMP:20240131T233037Z
+DTSTART:20240727T003000Z
+DTEND:20240727T030000Z
+SUMMARY:ACT Metro Series: incl. Junior League #7, Cooleman Ridge, Parawanga Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19559
+GEO:-35.3724565997379;149.040107214189
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20064@eventor.orienteering.asn.au
+DTSTAMP:20240619T090857Z
+DTSTART:20240727T023000Z
+DTEND:20240727T040000Z
+SUMMARY:Bendigo Bush - Kangaroo Gully, Bendigo Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20064
+GEO:-36.8266498542576;144.248745761342
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20696@eventor.orienteering.asn.au
+DTSTAMP:20240416T082232Z
+DTSTART:20240727T040000Z
+DTEND:20240727T051000Z
+SUMMARY:Melbourne Park Street Saturday Series - Eltham Parklands, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20696
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20963@eventor.orienteering.asn.au
+DTSTAMP:20240625T113524Z
+DTSTART:20240727T040000Z
+DTEND:20240727T060000Z
+SUMMARY:Jetty Foreshores Orienteering, Bush n Beach Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20963
+GEO:-30.3062581933039;153.138983251857
 END:VEVENT
 END:VCALENDAR
