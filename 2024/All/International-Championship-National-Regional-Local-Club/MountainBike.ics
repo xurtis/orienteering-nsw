@@ -3,33 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_20069@eventor.orienteering.asn.au
-DTSTAMP:20240629T104823Z
-DTSTART:20240628T140000Z
-DTEND:20240629T140000Z
-SUMMARY:Bendigo 2-hour Score Event - Mandurang Sheepwash, Bendigo Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20069
-GEO:-36.867332859514;144.302731122957
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20670@eventor.orienteering.asn.au
-DTSTAMP:20240623T223640Z
-DTSTART:20240628T230000Z
-DTEND:20240628T230000Z
-SUMMARY:Level 2 Controllers Workshop (Postponed), Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/20670
-GEO:-27.463082647347;153.009307047564
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20794@eventor.orienteering.asn.au
-DTSTAMP:20240629T035930Z
-DTSTART:20240629T000000Z
-DTEND:20240629T040000Z
-SUMMARY:ACT Metro Series: incl. Junior League #6, ACT League #10, Jim Sawkins Handicap, Stringybark East, Red Roos
-URL:https://eventor.orienteering.asn.au/Events/Show/20794
-GEO:-35.3873136675175;149.208263164556
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20822@eventor.orienteering.asn.au
 DTSTAMP:20240506T102618Z
 DTSTART:20240629T020000Z
@@ -37,49 +10,6 @@ DTEND:20240701T024500Z
 SUMMARY:OWA Junior Camp Swan Valley Adventure Centre, Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/20822
 GEO:-31.8604598656935;116.005675954548
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19578@eventor.orienteering.asn.au
-DTSTAMP:20240629T044852Z
-DTSTART:20240629T023000Z
-DTEND:20240629T031500Z
-SUMMARY:2024 NSW State League #8 - Wollongong University (NSW Sprint Champs), Illawarra Kareelah Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19578
-GEO:-34.4069547946018;150.877559760048
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20689@eventor.orienteering.asn.au
-DTSTAMP:20240416T080404Z
-DTSTART:20240629T040000Z
-DTEND:20240629T051000Z
-SUMMARY:Geelong Park Street Saturday Winter Series - Anglesea (new map), Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20689
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20686@eventor.orienteering.asn.au
-DTSTAMP:20240416T075748Z
-DTSTART:20240629T040000Z
-DTEND:20240629T051000Z
-SUMMARY:Melbourne Park Street Saturday Series - Garden City, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20686
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20217@eventor.orienteering.asn.au
-DTSTAMP:20240629T093557Z
-DTSTART:20240629T040000Z
-DTEND:20240629T053000Z
-SUMMARY:Strathalbyn - Saturday afternoon event, Onkaparinga Hills Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20217
-GEO:-35.2568979261021;138.891149269729
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20327@eventor.orienteering.asn.au
-DTSTAMP:20240629T064612Z
-DTSTART:20240629T043000Z
-DTEND:20240629T043000Z
-SUMMARY:L2O Series - EN - Event 7 - Samford West, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/20327
-GEO:-27.3725937240292;152.909959682424
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20866@eventor.orienteering.asn.au
@@ -291,7 +221,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20693
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20106@eventor.orienteering.asn.au
-DTSTAMP:20240629T012032Z
+DTSTAMP:20240707T054116Z
 DTSTART:20240706T140000Z
 DTEND:20240707T140000Z
 SUMMARY:Trevallyn - Northern Local #3, Esk Valley
@@ -300,7 +230,7 @@ GEO:-41.4579876459443;147.102584038852
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20652@eventor.orienteering.asn.au
-DTSTAMP:20240706T050624Z
+DTSTAMP:20240707T055428Z
 DTSTART:20240706T223000Z
 DTEND:20240707T023000Z
 SUMMARY:2024 Sydney Metropolitan Turkey Trot, Western and Hills Orienteers
@@ -309,7 +239,7 @@ GEO:-33.8346077643902;151.109818370515
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20392@eventor.orienteering.asn.au
-DTSTAMP:20240620T095007Z
+DTSTAMP:20240707T030523Z
 DTSTART:20240706T230000Z
 DTEND:20240707T010000Z
 SUMMARY:Bush Orienteering at Shelter Road, Arundel, Gold Coast, Paradise Lost Orienteers
@@ -318,7 +248,7 @@ GEO:-27.9174938050246;153.358754674151
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20543@eventor.orienteering.asn.au
-DTSTAMP:20240625T001655Z
+DTSTAMP:20240707T062227Z
 DTSTART:20240706T230000Z
 DTEND:20240707T030000Z
 SUMMARY:BBB club event and Junior Camp Champs, McAdams, 12km north of Dalveen, Bullecourt Boulder Bounders
@@ -327,7 +257,7 @@ GEO:-28.4200428402753;152.043210092334
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19810@eventor.orienteering.asn.au
-DTSTAMP:20240623T074033Z
+DTSTAMP:20240707T084823Z
 DTSTART:20240707T000000Z
 DTEND:20240707T033000Z
 SUMMARY:Waggaroos - AWOC Interclub #4, Narrandera, Wagga and Riverina Occasional Orienteers
@@ -336,7 +266,7 @@ GEO:-34.7540010443224;146.592562804123
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20047@eventor.orienteering.asn.au
-DTSTAMP:20240612T042600Z
+DTSTAMP:20240707T035906Z
 DTSTART:20240707T000000Z
 DTEND:20240707T040000Z
 SUMMARY:Vic MTBO 4 - Tallarook, Dandenong Ranges Orienteering Club
@@ -353,7 +283,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20311
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_18632@eventor.orienteering.asn.au
-DTSTAMP:20240628T043805Z
+DTSTAMP:20240707T061913Z
 DTSTART:20240707T003000Z
 DTEND:20240707T033000Z
 SUMMARY:Simmonds Hill, Tintookies Orienteers
@@ -545,7 +475,7 @@ GEO:-37.6295430141534;145.078305251654
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19847@eventor.orienteering.asn.au
-DTSTAMP:20240624T220139Z
+DTSTAMP:20240707T014902Z
 DTSTART:20240714T000000Z
 DTEND:20240714T040000Z
 SUMMARY:Oakview, Northern Tablelands Orienteering Club
@@ -800,12 +730,12 @@ GEO:-35.3982801591812;147.354999492411
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20354@eventor.orienteering.asn.au
-DTSTAMP:20240614T110421Z
+DTSTAMP:20240707T114834Z
 DTSTART:20240721T000000Z
 DTEND:20240721T040000Z
-SUMMARY:Vic Series 5 - Tarrengower, Maldon, Nillumbik Emus Orienteering Club
+SUMMARY:Vic Series 5 - Mt Tarrengower, Maldon, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20354
-GEO:-36.9959151322638;144.035494490956
+GEO:-37.0061839027329;144.035568795607
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20620@eventor.orienteering.asn.au
@@ -903,6 +833,15 @@ SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Kangaroo Very F
 URL:https://eventor.orienteering.asn.au/Events/Show/20705
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20987@eventor.orienteering.asn.au
+DTSTAMP:20240706T234219Z
+DTSTART:20240726T230000Z
+DTEND:20240726T230000Z
+SUMMARY:Level 2 Controllers Workshop, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/20987
+GEO:-27.4444651966901;153.042234233328
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20516@eventor.orienteering.asn.au
 DTSTAMP:20240311T232325Z
 DTSTART:20240726T233000Z
@@ -929,11 +868,12 @@ GEO:-37.5429412187487;143.895676165979
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20972@eventor.orienteering.asn.au
-DTSTAMP:20240630T091355Z
+DTSTAMP:20240707T074903Z
 DTSTART:20240727T000000Z
-DTEND:20240727T060000Z
-SUMMARY:Learn to Orienteer, Hastings Orienteering Group
+DTEND:20240727T070000Z
+SUMMARY:Learn to Orienteer - Port Macquarie, Hastings Orienteering Group
 URL:https://eventor.orienteering.asn.au/Events/Show/20972
+GEO:-31.4538390212307;152.900096390763
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19559@eventor.orienteering.asn.au
@@ -1008,7 +948,7 @@ GEO:-27.570615596181;153.164073593242
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20289@eventor.orienteering.asn.au
-DTSTAMP:20240704T020611Z
+DTSTAMP:20240707T083155Z
 DTSTART:20240727T233000Z
 DTEND:20240727T233000Z
 SUMMARY:2024 Metro League #4 - Clay Pan, Garingal Orienteers
@@ -1017,7 +957,7 @@ GEO:-33.7506733987464;151.259454373705
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20943@eventor.orienteering.asn.au
-DTSTAMP:20240625T045909Z
+DTSTAMP:20240707T015107Z
 DTSTART:20240727T233000Z
 DTEND:20240728T030000Z
 SUMMARY:NOY 6 - Belford National Park, Newcastle Orienteering Club
@@ -1088,11 +1028,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20312
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20973@eventor.orienteering.asn.au
-DTSTAMP:20240630T092438Z
+DTSTAMP:20240707T075511Z
 DTSTART:20240728T010000Z
 DTEND:20240728T030000Z
-SUMMARY:Port Macquarie Orienteering, Hastings Orienteering Group
+SUMMARY:Lilypond Orienteering, Hastings Orienteering Group
 URL:https://eventor.orienteering.asn.au/Events/Show/20973
+GEO:-31.4609330030559;152.923180195113
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20558@eventor.orienteering.asn.au
@@ -1255,10 +1196,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19961
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19863@eventor.orienteering.asn.au
-DTSTAMP:20240123T230319Z
+DTSTAMP:20240707T000717Z
 DTSTART:20240803T140000Z
 DTEND:20240804T140000Z
-SUMMARY:OY8 Kings State Forest, Gympie (location tbc), Sunshine Orienteers Club
+SUMMARY:OY8 Kings State Forest, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19863
 END:VEVENT
 BEGIN:VEVENT
@@ -1328,5 +1269,14 @@ DTSTART:20240805T083000Z
 DTEND:20240805T101500Z
 SUMMARY:Melbourne Park Street Monday Night Series - McKinnon, Orienteering Victoria
 URL:https://eventor.orienteering.asn.au/Events/Show/20730
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20339@eventor.orienteering.asn.au
+DTSTAMP:20240618T030728Z
+DTSTART:20240806T073000Z
+DTEND:20240806T073000Z
+SUMMARY:Night Nav - Edenbrooke - Term 3 Series Event #4, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20339
+GEO:-27.5493407298122;152.953033654138
 END:VEVENT
 END:VCALENDAR
