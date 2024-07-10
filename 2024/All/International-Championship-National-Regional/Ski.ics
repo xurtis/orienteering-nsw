@@ -3,14 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_20823@eventor.orienteering.asn.au
-DTSTAMP:20240506T013939Z
-DTSTART:20240702T100000Z
-DTEND:20240702T100000Z
-SUMMARY:Orienteering ACT July Board Meeting, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/20823
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19685@eventor.orienteering.asn.au
 DTSTAMP:20240702T005357Z
 DTSTART:20240702T233000Z
@@ -213,9 +205,9 @@ GEO:-35.2298848728656;149.167200135822
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20985@eventor.orienteering.asn.au
-DTSTAMP:20240705T080657Z
+DTSTAMP:20240710T105557Z
 DTSTART:20240710T060000Z
-DTEND:20240710T135900Z
+DTEND:20240711T135900Z
 SUMMARY:2024 Sydney MapRun #1 Turramurra, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20985
 GEO:-33.752676383787;151.111867361868
@@ -238,7 +230,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20703
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20942@eventor.orienteering.asn.au
-DTSTAMP:20240701T112622Z
+DTSTAMP:20240710T010425Z
 DTSTART:20240710T083000Z
 DTEND:20240710T103000Z
 SUMMARY:2024 Moonlight Madness, Onkaparinga Hills Orienteering Club
@@ -343,7 +335,7 @@ GEO:-33.6580765752187;151.037836238976
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20369@eventor.orienteering.asn.au
-DTSTAMP:20240701T020522Z
+DTSTAMP:20240709T223408Z
 DTSTART:20240714T000000Z
 DTEND:20240714T030000Z
 SUMMARY:MelBushO 6 - Granite Hills, South Morang, Yarra Valley Orienteering Club
@@ -516,6 +508,14 @@ DTEND:20240718T143000Z
 SUMMARY:SA Junior Arrows Camp - Day 4 , Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/20852
 GEO:-34.6476474163178;139.14357483028
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21001@eventor.orienteering.asn.au
+DTSTAMP:20240709T141427Z
+DTSTART:20240718T093000Z
+DTEND:20240718T093000Z
+SUMMARY:Orienteering Participation and Engagement Network July Meeting, Orienteering ACT / Orienteering Australia / Orienteering NSW / Orienteering Queensland / Orienteering SA / Orienteering Tasmania / Orienteering Victoria / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/21001
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19736@eventor.orienteering.asn.au
@@ -920,6 +920,7 @@ DTSTART:20240728T003000Z
 DTEND:20240728T033000Z
 SUMMARY:Corunna Gap, Saltbush Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20312
+GEO:-32.6573150959407;137.083531512207
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20973@eventor.orienteering.asn.au
@@ -1101,21 +1102,21 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20219
 GEO:-35.0115285544657;138.636675502521
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20107@eventor.orienteering.asn.au
-DTSTAMP:20240702T023046Z
-DTSTART:20240803T140000Z
-DTEND:20240804T140000Z
-SUMMARY:LCGS - Northern Local #4, Esk Valley
-URL:https://eventor.orienteering.asn.au/Events/Show/20107
-GEO:-41.4075956638836;147.128508078913
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19961@eventor.orienteering.asn.au
 DTSTAMP:20231210T031240Z
 DTSTART:20240803T140000Z
 DTEND:20240804T140000Z
 SUMMARY:Newcastle Shorts, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19961
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20107@eventor.orienteering.asn.au
+DTSTAMP:20240709T224110Z
+DTSTART:20240803T140000Z
+DTEND:20240804T140000Z
+SUMMARY:Northern Local #4, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/20107
+GEO:-41.4075956638836;147.128508078913
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19863@eventor.orienteering.asn.au
