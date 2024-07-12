@@ -12,15 +12,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19862
 GEO:-28.6447556994763;151.947383326542
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19689@eventor.orienteering.asn.au
-DTSTAMP:20240704T092519Z
-DTSTART:20240704T003000Z
-DTEND:20240704T013000Z
-SUMMARY:Dumbarton Park, Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/19689
-GEO:-27.5115606198811;152.927937065288
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20063@eventor.orienteering.asn.au
 DTSTAMP:20240706T063907Z
 DTSTART:20240706T023000Z
@@ -118,14 +109,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20047
 GEO:-37.1270591181875;145.182635321416
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20311@eventor.orienteering.asn.au
-DTSTAMP:20240708T074322Z
-DTSTART:20240707T003000Z
-DTEND:20240707T033000Z
-SUMMARY:Little Gully, Saltbush Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20311
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_18632@eventor.orienteering.asn.au
 DTSTAMP:20240707T061913Z
 DTSTART:20240707T003000Z
@@ -133,6 +116,14 @@ DTEND:20240707T033000Z
 SUMMARY:Simmonds Hill, Tintookies Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/18632
 GEO:-34.8085512041689;138.840899423438
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20311@eventor.orienteering.asn.au
+DTSTAMP:20240712T025934Z
+DTSTART:20240707T003000Z
+DTEND:20240707T033000Z
+SUMMARY:Whyalla: Little Gully, Saltbush Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20311
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20554@eventor.orienteering.asn.au
@@ -171,7 +162,7 @@ GEO:-35.2298848728656;149.167200135822
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20985@eventor.orienteering.asn.au
-DTSTAMP:20240710T105557Z
+DTSTAMP:20240712T030205Z
 DTSTART:20240710T060000Z
 DTEND:20240711T135900Z
 SUMMARY:2024 Sydney MapRun #1 Turramurra, Garingal Orienteers
@@ -196,7 +187,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20703
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20942@eventor.orienteering.asn.au
-DTSTAMP:20240710T010425Z
+DTSTAMP:20240712T014647Z
 DTSTART:20240710T083000Z
 DTEND:20240710T103000Z
 SUMMARY:2024 Moonlight Madness, Onkaparinga Hills Orienteering Club
@@ -484,6 +475,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20852
 GEO:-34.6476474163178;139.14357483028
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_21010@eventor.orienteering.asn.au
+DTSTAMP:20240712T050134Z
+DTSTART:20240718T003000Z
+DTEND:20240718T003000Z
+SUMMARY:Hardings Paddock Purga, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/21010
+GEO:-27.7359583536445;152.76658623328
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21001@eventor.orienteering.asn.au
 DTSTAMP:20240709T141427Z
 DTSTART:20240718T093000Z
@@ -691,7 +691,7 @@ DTSTART:20240724T060000Z
 DTEND:20240724T135900Z
 SUMMARY:2024 Sydney MapRun #2 Putney, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20998
-GEO:-33.8248151041815;151.076765748279
+GEO:-33.8342770672256;151.109622091906
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20705@eventor.orienteering.asn.au
@@ -889,10 +889,10 @@ GEO:-34.7029763977484;138.837749710331
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20312@eventor.orienteering.asn.au
-DTSTAMP:20240125T063441Z
+DTSTAMP:20240712T030121Z
 DTSTART:20240728T003000Z
 DTEND:20240728T033000Z
-SUMMARY:Corunna Gap, Saltbush Orienteers
+SUMMARY:Whyalla: Corunna Gap, Saltbush Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20312
 GEO:-32.6573150959407;137.083531512207
 END:VEVENT
@@ -1286,5 +1286,110 @@ DTEND:20240810T080000Z
 SUMMARY:NavDash 8 WA Sprint Championships, Bibbulmun Orienteers / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/20576
 GEO:-32.063966795748;115.83458212081
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20123@eventor.orienteering.asn.au
+DTSTAMP:20231230T005415Z
+DTSTART:20240810T140000Z
+DTEND:20240811T140000Z
+SUMMARY:UTas - Southern Local #9, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/20123
+GEO:-42.9022350417457;147.327932474181
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20223@eventor.orienteering.asn.au
+DTSTAMP:20240709T004759Z
+DTSTART:20240810T230000Z
+DTEND:20240810T230000Z
+SUMMARY:Bardon Forest CATI - BCC , Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20223
+GEO:-27.4591309664341;152.977913278454
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20968@eventor.orienteering.asn.au
+DTSTAMP:20240628T005012Z
+DTSTART:20240810T233000Z
+DTEND:20240811T030000Z
+SUMMARY:NOY 7 - Pelton Fire Trail (Pelton), Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20968
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19798@eventor.orienteering.asn.au
+DTSTAMP:20231117T043417Z
+DTSTART:20240811T000000Z
+DTEND:20240811T030000Z
+SUMMARY:AWOC DuO Championships Nail Can Hill (tbc), Albury-Wodonga Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19798
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20371@eventor.orienteering.asn.au
+DTSTAMP:20240528T070000Z
+DTSTART:20240811T000000Z
+DTEND:20240811T030000Z
+SUMMARY:MelBushO 8 - Woodlands (from Somerton Rd), Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20371
+GEO:-37.6313281948108;144.851791998098
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19571@eventor.orienteering.asn.au
+DTSTAMP:20240528T012319Z
+DTSTART:20240811T000000Z
+DTEND:20240811T033000Z
+SUMMARY:2024 ACT & NSW Ski-O Championships, Orienteering ACT / Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/19571
+GEO:-36.4069802757812;148.414462900423
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19813@eventor.orienteering.asn.au
+DTSTAMP:20231117T082125Z
+DTSTART:20240811T000000Z
+DTEND:20240811T033000Z
+SUMMARY:Waggaroos Local event, Livingstone NP., Wagga and Riverina Occasional Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19813
+GEO:-35.3438569783869;147.345460107316
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19848@eventor.orienteering.asn.au
+DTSTAMP:20240411T015517Z
+DTSTART:20240811T000000Z
+DTEND:20240811T040000Z
+SUMMARY:Sunnyside TSR, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19848
+GEO:-30.4011960691622;151.700626706426
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21008@eventor.orienteering.asn.au
+DTSTAMP:20240711T002739Z
+DTSTART:20240811T003000Z
+DTEND:20240811T003000Z
+SUMMARY:Hervey Bay Botanic Gardens, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21008
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20282@eventor.orienteering.asn.au
+DTSTAMP:20240528T113816Z
+DTSTART:20240811T010000Z
+DTEND:20240811T033000Z
+SUMMARY:Port Lincoln: Mena View, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20282
+GEO:-34.5105487419711;135.428461002275
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20577@eventor.orienteering.asn.au
+DTSTAMP:20240708T095744Z
+DTSTART:20240811T013000Z
+DTEND:20240811T050000Z
+SUMMARY:Bush 9 WA Middle Distance Championships, Kulgun 225 Orienteers / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/20577
+GEO:-32.2660612942162;116.76376009435
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20449@eventor.orienteering.asn.au
+DTSTAMP:20240326T103433Z
+DTSTART:20240811T093000Z
+DTEND:20240811T093000Z
+SUMMARY:Highlands Forest Series #4 - Boxvale Tramway, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20449
+GEO:-34.4324091265227;150.416363512891
 END:VEVENT
 END:VCALENDAR
