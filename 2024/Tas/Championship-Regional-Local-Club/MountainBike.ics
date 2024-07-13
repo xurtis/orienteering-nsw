@@ -214,7 +214,7 @@ GEO:-30.4478958083191;151.825279115907
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20023@eventor.orienteering.asn.au
-DTSTAMP:20240708T005549Z
+DTSTAMP:20240713T074311Z
 DTSTART:20240713T000000Z
 DTEND:20240713T043000Z
 SUMMARY:Ballarat Classics Series #4 - Creswick Diggings / Longs Gully, Eureka Orienteers
@@ -223,7 +223,7 @@ GEO:-37.4488590186056;143.912583614989
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20328@eventor.orienteering.asn.au
-DTSTAMP:20240630T004848Z
+DTSTAMP:20240713T055628Z
 DTSTART:20240713T040000Z
 DTEND:20240713T040000Z
 SUMMARY:L2O Series - EN - Event 8 Everton Park SHS, Enoggeroos
@@ -1254,12 +1254,12 @@ GEO:-33.9310216979107;151.247453434914
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20070@eventor.orienteering.asn.au
-DTSTAMP:20240310T032007Z
+DTSTAMP:20240713T063616Z
 DTSTART:20240810T023000Z
 DTEND:20240810T040000Z
 SUMMARY:Bendigo event - Adelaide & Apollo Hills, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20070
-GEO:-36.7525968047594;144.27362068239
+GEO:-36.6699565436331;144.288859741812
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20747@eventor.orienteering.asn.au
@@ -1391,5 +1391,38 @@ DTEND:20240811T093000Z
 SUMMARY:Highlands Forest Series #4 - Boxvale Tramway, Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20449
 GEO:-34.4324091265227;150.416363512891
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19721@eventor.orienteering.asn.au
+DTSTAMP:20240428T221203Z
+DTSTART:20240811T233000Z
+DTEND:20240812T043000Z
+SUMMARY:Sydney North (combined Primary & Secondary) Schools, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/19721
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20478@eventor.orienteering.asn.au
+DTSTAMP:20240708T022814Z
+DTSTART:20240812T070000Z
+DTEND:20240812T100000Z
+SUMMARY:ACT MapRun Street Series: Parkes, 8-12 Aug, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20478
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20731@eventor.orienteering.asn.au
+DTSTAMP:20240424T023247Z
+DTSTART:20240812T083000Z
+DTEND:20240812T101500Z
+SUMMARY:Melbourne Park Street Monday Night Series - Koonung Heights, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/20731
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20088@eventor.orienteering.asn.au
+DTSTAMP:20231221T030540Z
+DTSTART:20240812T093000Z
+DTEND:20240812T093000Z
+SUMMARY:Orienteering NSW August General Meeting, Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/20088
+GEO:-33.8460034291842;151.074483418337
 END:VEVENT
 END:VCALENDAR
