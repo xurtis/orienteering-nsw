@@ -293,7 +293,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21001
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19736@eventor.orienteering.asn.au
-DTSTAMP:20240716T110605Z
+DTSTAMP:20240720T041232Z
 DTSTART:20240720T000000Z
 DTEND:20240720T000000Z
 SUMMARY:Qld Schools Champs - Hagaby - Karingal Scout Camp, Orienteering Queensland
@@ -302,8 +302,8 @@ GEO:-27.6010155585545;153.228956074584
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19580@eventor.orienteering.asn.au
-DTSTAMP:20240719T002154Z
-DTSTART:20240720T040000Z
+DTSTAMP:20240720T094814Z
+DTSTART:20240720T020000Z
 DTEND:20240720T040000Z
 SUMMARY:2024 NSW State League #10 - Poppethead, Kitchener, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19580
@@ -327,7 +327,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20695
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20618@eventor.orienteering.asn.au
-DTSTAMP:20240716T092853Z
+DTSTAMP:20240720T063549Z
 DTSTART:20240720T043000Z
 DTEND:20240720T043000Z
 SUMMARY:Qld Schools Champs - Sprint - Sheldon College, Orienteering Queensland
@@ -336,7 +336,7 @@ GEO:-27.5682553103671;153.235041504002
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20619@eventor.orienteering.asn.au
-DTSTAMP:20240630T003949Z
+DTSTAMP:20240720T071159Z
 DTSTART:20240720T054500Z
 DTEND:20240720T063000Z
 SUMMARY:Public Sprint - Sheldon College, Orienteering Queensland
@@ -362,7 +362,7 @@ GEO:-27.5826244263032;153.173072607446
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19581@eventor.orienteering.asn.au
-DTSTAMP:20240719T002234Z
+DTSTAMP:20240720T074441Z
 DTSTART:20240720T233000Z
 DTEND:20240721T030000Z
 SUMMARY:2024 NSW State League #11 - Barraba Lane, Quorrobolong, Newcastle Orienteering Club
@@ -416,7 +416,7 @@ GEO:-34.3412868962343;135.991826270147
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20557@eventor.orienteering.asn.au
-DTSTAMP:20240719T100600Z
+DTSTAMP:20240720T111130Z
 DTSTART:20240721T013000Z
 DTEND:20240721T050000Z
 SUMMARY:MTBO 5 WA Middle Distance Championships, Bibbulmun Orienteers / Orienteering WA
@@ -511,6 +511,14 @@ SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Kangaroo Very F
 URL:https://eventor.orienteering.asn.au/Events/Show/20705
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_21026@eventor.orienteering.asn.au
+DTSTAMP:20240720T053710Z
+DTSTART:20240725T003000Z
+DTEND:20240725T003000Z
+SUMMARY:Midweek TBC, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/21026
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20987@eventor.orienteering.asn.au
 DTSTAMP:20240706T234219Z
 DTSTART:20240726T230000Z
@@ -536,6 +544,14 @@ DTEND:20240727T020000Z
 SUMMARY:SOS Northside - Arcadia, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/20509
 GEO:-33.621055;151.061607
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21025@eventor.orienteering.asn.au
+DTSTAMP:20240720T052126Z
+DTSTART:20240726T233000Z
+DTEND:20240727T020000Z
+SUMMARY:SOS Term 3 Season Pass, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/21025
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20019@eventor.orienteering.asn.au
@@ -790,6 +806,15 @@ DTSTART:20240731T233000Z
 DTEND:20240731T233000Z
 SUMMARY:Sydney West Primary Schools, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/19719
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21027@eventor.orienteering.asn.au
+DTSTAMP:20240720T054644Z
+DTSTART:20240801T003000Z
+DTEND:20240801T003000Z
+SUMMARY:Emu Street Reserve Sheldon (TBC), Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/21027
+GEO:-27.583229651667;153.19215458407
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19720@eventor.orienteering.asn.au
@@ -1462,12 +1487,12 @@ GEO:-33.4650239707266;139.060797698678
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20874@eventor.orienteering.asn.au
-DTSTAMP:20240719T012843Z
+DTSTAMP:20240720T082346Z
 DTSTART:20240818T013000Z
 DTEND:20240818T050000Z
 SUMMARY:MTBO 6 WA MTBO Long Distance Championships, LOST / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/20874
-GEO:-32.7119354362791;116.061055058628
+GEO:-32.711597846435;116.061002777191
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20860@eventor.orienteering.asn.au
@@ -1494,5 +1519,22 @@ DTSTART:20240818T060000Z
 DTEND:20240818T060000Z
 SUMMARY:MapRun Parks 2024 - 7th Brigade Park, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20934
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20479@eventor.orienteering.asn.au
+DTSTAMP:20240708T022849Z
+DTSTART:20240819T070000Z
+DTEND:20240819T100000Z
+SUMMARY:ACT MapRun Street Series: Fernhill Park, Bruce, 15-19 Aug, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20479
+GEO:-35.2452883751008;149.099817796492
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20732@eventor.orienteering.asn.au
+DTSTAMP:20240424T023354Z
+DTSTART:20240819T083000Z
+DTEND:20240819T101500Z
+SUMMARY:Melbourne Park Street Monday Night Series - Kerrimuir, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/20732
 END:VEVENT
 END:VCALENDAR
