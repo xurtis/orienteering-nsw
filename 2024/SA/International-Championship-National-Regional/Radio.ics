@@ -12,41 +12,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20169
 GEO:-30.4478958083191;151.825279115907
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20848@eventor.orienteering.asn.au
-DTSTAMP:20240717T093740Z
-DTSTART:20240714T143000Z
-DTEND:20240715T143000Z
-SUMMARY:SA Junior Arrows Camp - All days, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/20848
-GEO:-35.0444215591215;138.684554595841
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20849@eventor.orienteering.asn.au
-DTSTAMP:20240706T061452Z
-DTSTART:20240714T143000Z
-DTEND:20240715T143000Z
-SUMMARY:SA Junior Arrows Camp - Day 1, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/20849
-GEO:-35.0602702226801;138.856588026082
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20474@eventor.orienteering.asn.au
-DTSTAMP:20240716T022155Z
-DTSTART:20240715T070000Z
-DTEND:20240715T100000Z
-SUMMARY:ACT MapRun Street Series: Cook, 11-15 Jul, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/20474
-GEO:-35.2594548943674;149.063142708198
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20699@eventor.orienteering.asn.au
-DTSTAMP:20240416T082818Z
-DTSTART:20240715T083000Z
-DTEND:20240715T101500Z
-SUMMARY:Melbourne Park Street Monday Night Series - Rowville Lakes, Orienteering Victoria
-URL:https://eventor.orienteering.asn.au/Events/Show/20699
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20230@eventor.orienteering.asn.au
 DTSTAMP:20240716T110049Z
 DTSTART:20240715T140000Z
@@ -243,7 +208,7 @@ UID:Event_19811@eventor.orienteering.asn.au
 DTSTAMP:20240721T054806Z
 DTSTART:20240721T000000Z
 DTEND:20240721T033000Z
-SUMMARY:Waggaroos Local event, Wolfram, Wagga and Riverina Occasional Orienteers
+SUMMARY:Waggaroos Local event, Wolfram, Wagga and Riverina Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19811
 GEO:-35.3982801591812;147.354999492411
 END:VEVENT
@@ -294,7 +259,7 @@ GEO:-33.3438802932963;115.867816043222
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20475@eventor.orienteering.asn.au
-DTSTAMP:20240429T033629Z
+DTSTAMP:20240723T021639Z
 DTSTART:20240722T070000Z
 DTEND:20240722T100000Z
 SUMMARY:ACT MapRun Street Series: Googong, 18-22 Jul, Orienteering ACT
@@ -311,9 +276,9 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20700
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20329@eventor.orienteering.asn.au
-DTSTAMP:20240618T030221Z
-DTSTART:20240723T073000Z
-DTEND:20240723T073000Z
+DTSTAMP:20240723T105405Z
+DTSTART:20240722T140000Z
+DTEND:20240723T140000Z
 SUMMARY:Night Nav - Corinda - Term 3 Series Event #2, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20329
 GEO:-27.549629126332;152.98453484607
@@ -338,9 +303,9 @@ GEO:-35.3820561014896;149.094323854818
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20998@eventor.orienteering.asn.au
-DTSTAMP:20240709T105646Z
+DTSTAMP:20240723T041715Z
 DTSTART:20240724T060000Z
-DTEND:20240724T135900Z
+DTEND:20240724T060000Z
 SUMMARY:2024 Sydney MapRun #2 Putney, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20998
 GEO:-33.8342770672256;151.109622091906
@@ -505,7 +470,7 @@ GEO:-32.654569008729;151.297264876118
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21029@eventor.orienteering.asn.au
-DTSTAMP:20240722T060828Z
+DTSTAMP:20240723T095036Z
 DTSTART:20240728T000000Z
 DTEND:20240728T000000Z
 SUMMARY:Goldseekers Bush Series #5 - Pairs event, Goldseekers Orienteers
@@ -514,10 +479,10 @@ GEO:-33.3246483214469;149.092245052351
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21030@eventor.orienteering.asn.au
-DTSTAMP:20240722T061536Z
+DTSTAMP:20240723T095727Z
 DTSTART:20240728T000000Z
 DTEND:20240728T000000Z
-SUMMARY:Goldseekers Bush Series #5 - Pairs Event, Goldseekers Orienteers
+SUMMARY:Goldseekers Bush Series #5 - Pairs Event RESULTS, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21030
 GEO:-33.3247527329521;149.092450587903
 END:VEVENT
@@ -532,10 +497,10 @@ GEO:-41.441636;147.081533
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19796@eventor.orienteering.asn.au
-DTSTAMP:20231117T042333Z
+DTSTAMP:20240723T101210Z
 DTSTART:20240728T000000Z
 DTEND:20240728T030000Z
-SUMMARY:AWOC-Waggaroos Interclub #5 Goombargana, Albury-Wodonga Orienteering Club
+SUMMARY:AWOC-Waggaroos Interclub #5, Goombargana, Albury-Wodonga Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19796
 GEO:-35.721814182966;146.587389251715
 END:VEVENT
@@ -550,19 +515,19 @@ GEO:-37.9233555769359;145.336467328049
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19812@eventor.orienteering.asn.au
-DTSTAMP:20231117T081943Z
+DTSTAMP:20240723T061016Z
 DTSTART:20240728T000000Z
 DTEND:20240728T033000Z
-SUMMARY:Waggaroos - AWOC Interclub #5, Goombargana, Wagga and Riverina Occasional Orienteers
+SUMMARY:Waggaroos - AWOC Interclub #5, Goombargana, Wagga and Riverina Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19812
 GEO:-35.730911068227;146.573159717473
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20952@eventor.orienteering.asn.au
-DTSTAMP:20240623T024931Z
+DTSTAMP:20240723T095700Z
 DTSTART:20240728T000000Z
 DTEND:20240728T040000Z
-SUMMARY:Bush event # 5 Gosling Creek Pairs event, Goldseekers Orienteers
+SUMMARY:Goldseekers Bush # 5 Gosling Creek Pairs event - ENTER HERE, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20952
 GEO:-33.3248922049644;149.092594338739
 END:VEVENT
@@ -577,7 +542,7 @@ GEO:-32.6573150959407;137.083531512207
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20718@eventor.orienteering.asn.au
-DTSTAMP:20240722T040025Z
+DTSTAMP:20240723T061736Z
 DTSTART:20240728T003000Z
 DTEND:20240728T043000Z
 SUMMARY:Leg of Mutton - OY, Yalanga Orienteers
@@ -647,7 +612,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20777
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20999@eventor.orienteering.asn.au
-DTSTAMP:20240709T105544Z
+DTSTAMP:20240723T115357Z
 DTSTART:20240731T060000Z
 DTEND:20240731T135900Z
 SUMMARY:2024 Sydney MapRun #3 The Canals , Garingal Orienteers
@@ -958,7 +923,7 @@ DTSTART:20240810T003000Z
 DTEND:20240810T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #9, McQuoids Hill, Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19561
-GEO:-35.3824760765522;149.041849837207
+GEO:-35.3824227855616;149.041637377838
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20872@eventor.orienteering.asn.au
@@ -1058,14 +1023,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21017
 GEO:-37.0518308402977;144.216908062588
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19798@eventor.orienteering.asn.au
-DTSTAMP:20231117T043417Z
-DTSTART:20240811T000000Z
-DTEND:20240811T030000Z
-SUMMARY:AWOC DuO Championships Nail Can Hill (tbc), Albury-Wodonga Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19798
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20371@eventor.orienteering.asn.au
 DTSTAMP:20240528T070000Z
 DTSTART:20240811T000000Z
@@ -1088,9 +1045,18 @@ UID:Event_19813@eventor.orienteering.asn.au
 DTSTAMP:20231117T082125Z
 DTSTART:20240811T000000Z
 DTEND:20240811T033000Z
-SUMMARY:Waggaroos Local event, Livingstone NP., Wagga and Riverina Occasional Orienteers
+SUMMARY:Waggaroos Local event, Livingstone NP., Wagga and Riverina Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19813
 GEO:-35.3438569783869;147.345460107316
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19798@eventor.orienteering.asn.au
+DTSTAMP:20240723T100425Z
+DTSTART:20240811T000000Z
+DTEND:20240811T040000Z
+SUMMARY:AWOC DuO Championships, Nail Can Hill, Albury-Wodonga Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19798
+GEO:-36.0571328253883;146.908460256235
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19848@eventor.orienteering.asn.au
@@ -1356,7 +1322,7 @@ UID:Event_19814@eventor.orienteering.asn.au
 DTSTAMP:20231117T082400Z
 DTSTART:20240818T000000Z
 DTEND:20240818T033000Z
-SUMMARY:Waggaroos Local event (Sprint), Victory Memorial Gardens, Wagga and Riverina Occasional Orienteers
+SUMMARY:Waggaroos Local event (Sprint), Victory Memorial Gardens, Wagga and Riverina Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19814
 GEO:-35.1093392780728;147.36904190288
 END:VEVENT
@@ -1454,5 +1420,13 @@ DTSTART:20240821T083000Z
 DTEND:20240821T101500Z
 SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Glen Eira East, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20740
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20983@eventor.orienteering.asn.au
+DTSTAMP:20240702T002954Z
+DTSTART:20240822T061500Z
+DTEND:20240822T073000Z
+SUMMARY:Central Adelaide Schools zone - Event 10 Burnside PS, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/20983
 END:VEVENT
 END:VCALENDAR
