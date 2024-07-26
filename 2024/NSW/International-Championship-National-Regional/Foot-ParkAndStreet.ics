@@ -3,32 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_20852@eventor.orienteering.asn.au
-DTSTAMP:20240717T093720Z
-DTSTART:20240717T143000Z
-DTEND:20240718T143000Z
-SUMMARY:SA Junior Arrows Camp - Day 4 , Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/20852
-GEO:-34.6476474163178;139.14357483028
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21010@eventor.orienteering.asn.au
-DTSTAMP:20240718T095923Z
-DTSTART:20240718T003000Z
-DTEND:20240718T003000Z
-SUMMARY:Hardings Paddock Purga, Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/21010
-GEO:-27.7359583536445;152.76658623328
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21001@eventor.orienteering.asn.au
-DTSTAMP:20240717T010431Z
-DTSTART:20240718T093000Z
-DTEND:20240718T093000Z
-SUMMARY:Orienteering Participation and Engagement Network July Meeting, Orienteering ACT / Orienteering Australia / Orienteering NSW / Orienteering Queensland / Orienteering SA / Orienteering Tasmania / Orienteering Victoria / Orienteering WA
-URL:https://eventor.orienteering.asn.au/Events/Show/21001
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19736@eventor.orienteering.asn.au
 DTSTAMP:20240720T041232Z
 DTSTART:20240720T000000Z
@@ -530,6 +504,7 @@ DTSTART:20240731T020000Z
 DTEND:20240731T040000Z
 SUMMARY:ACT Midweek Series: Mt Painter, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/20777
+GEO:-35.266526536459;149.066329292866
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20999@eventor.orienteering.asn.au
@@ -793,7 +768,7 @@ GEO:-35.3347239000528;149.071343336379
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20996@eventor.orienteering.asn.au
-DTSTAMP:20240725T033417Z
+DTSTAMP:20240725T223130Z
 DTSTART:20240807T060000Z
 DTEND:20240807T060000Z
 SUMMARY:2024 Sydney MapRun #4 Seaforth , Bennelong Northside Orienteers
@@ -815,6 +790,15 @@ DTSTART:20240808T061500Z
 DTEND:20240808T073000Z
 SUMMARY:Central Adelaide Schools zone - Event 8 Black Forest PS, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/20981
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21047@eventor.orienteering.asn.au
+DTSTAMP:20240726T053949Z
+DTSTART:20240809T060000Z
+DTEND:20240809T071500Z
+SUMMARY:Mitcham Hills After School Zone Event - Coromandel PS (TBC), Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/21047
+GEO:-35.032940274354;138.626777034874
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21024@eventor.orienteering.asn.au
@@ -1114,12 +1098,22 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20982
 GEO:-34.9474186053673;138.646529360285
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20112@eventor.orienteering.asn.au
-DTSTAMP:20231229T234509Z
+UID:Event_21048@eventor.orienteering.asn.au
+DTSTAMP:20240726T054821Z
+DTSTART:20240816T061500Z
+DTEND:20240816T071500Z
+SUMMARY:Mitcham Hills and Stirling After School Zone Event - Hawthorndene Reserve, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/21048
+GEO:-35.0195558195965;138.623328152328
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21036@eventor.orienteering.asn.au
+DTSTAMP:20240726T060304Z
 DTSTART:20240816T140000Z
 DTEND:20240817T140000Z
-SUMMARY:Southern OST Weekend Score O + Tas Relay Champs			, Australopers
-URL:https://eventor.orienteering.asn.au/Events/Show/20112
+SUMMARY:Southern OST Tas Relay Teams and Results - Managers Only, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/21036
+GEO:-42.9797809477893;147.308899253942
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19562@eventor.orienteering.asn.au
@@ -1138,6 +1132,15 @@ DTEND:20240817T040000Z
 SUMMARY:Bendigo Bush - Argyle, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20066
 GEO:-36.9061718353659;144.695868936257
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20112@eventor.orienteering.asn.au
+DTSTAMP:20240726T054559Z
+DTSTART:20240817T030000Z
+DTEND:20240817T030000Z
+SUMMARY:Southern OST Weekend Tas Relay Champs	- Individual Entry		, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/20112
+GEO:-42.97981408636;147.308898383361
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19582@eventor.orienteering.asn.au
@@ -1355,6 +1358,15 @@ SUMMARY:Central Adelaide Schools zone - Event 10 Burnside PS, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/20983
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_21049@eventor.orienteering.asn.au
+DTSTAMP:20240726T054548Z
+DTSTART:20240823T061500Z
+DTEND:20240823T073000Z
+SUMMARY:Mitcham Hills and Stirling After School Zone Event - Belair NP, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/21049
+GEO:-35.0108898605487;138.635747685741
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19549@eventor.orienteering.asn.au
 DTSTAMP:20240725T001706Z
 DTSTART:20240823T140000Z
@@ -1413,5 +1425,57 @@ DTEND:20240824T073000Z
 SUMMARY:Map Run Parks - Gold Coast - #4 Cos Zantiotis Park - Labrador, Paradise Lost Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21033
 GEO:-27.9361344691175;153.391513648249
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19550@eventor.orienteering.asn.au
+DTSTAMP:20240725T001710Z
+DTSTART:20240824T140000Z
+DTEND:20240825T140000Z
+SUMMARY:ACT Long Championships: ACT League #12, NSW SL #15, Birkenburn, Orienteering ACT / Orienteering NSW / Parawanga Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19550
+GEO:-35.2390219327975;149.611295433683
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19705@eventor.orienteering.asn.au
+DTSTAMP:20240708T012604Z
+DTSTART:20240824T223000Z
+DTEND:20240825T020000Z
+SUMMARY:QLD MTBO Champs - Long Distance, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19705
+GEO:-26.960150927976;153.023190119283
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20355@eventor.orienteering.asn.au
+DTSTAMP:20240722T102243Z
+DTSTART:20240825T000000Z
+DTEND:20240825T040000Z
+SUMMARY:Vic Series 6 - Chewton Challenge, Melbourne Forest Racers
+URL:https://eventor.orienteering.asn.au/Events/Show/20355
+GEO:-37.054289;144.2432654
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20313@eventor.orienteering.asn.au
+DTSTAMP:20240125T063608Z
+DTSTART:20240825T003000Z
+DTEND:20240825T033000Z
+SUMMARY:Whyalla Hills, Saltbush Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20313
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20559@eventor.orienteering.asn.au
+DTSTAMP:20240318T075822Z
+DTSTART:20240825T013000Z
+DTEND:20240825T050000Z
+SUMMARY:Bush 10 Mt Billy W, LOST / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/20559
+GEO:-31.8817664474571;116.456113862905
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20935@eventor.orienteering.asn.au
+DTSTAMP:20240609T042340Z
+DTSTART:20240825T060000Z
+DTEND:20240825T060000Z
+SUMMARY:MapRun Parks 2024 - Robelle Domain, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20935
 END:VEVENT
 END:VCALENDAR
