@@ -3,40 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_20776@eventor.orienteering.asn.au
-DTSTAMP:20240724T074856Z
-DTSTART:20240724T020000Z
-DTEND:20240724T040000Z
-SUMMARY:ACT Midweek Series: Farrer Ridge, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/20776
-GEO:-35.3820561014896;149.094323854818
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20998@eventor.orienteering.asn.au
-DTSTAMP:20240728T234543Z
-DTSTART:20240724T060000Z
-DTEND:20240724T060000Z
-SUMMARY:2024 Sydney MapRun #2 Putney, Garingal Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20998
-GEO:-33.8342770672256;151.109622091906
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21021@eventor.orienteering.asn.au
-DTSTAMP:20240717T021803Z
-DTSTART:20240724T080000Z
-DTEND:20240724T110000Z
-SUMMARY:Mid-week Training - Faulkner Park, Orienteering WA
-URL:https://eventor.orienteering.asn.au/Events/Show/21021
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20705@eventor.orienteering.asn.au
-DTSTAMP:20240416T084208Z
-DTSTART:20240724T083000Z
-DTEND:20240724T101500Z
-SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Kangaroo Very Flat, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20705
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21026@eventor.orienteering.asn.au
 DTSTAMP:20240725T072750Z
 DTSTART:20240725T003000Z
@@ -305,9 +271,9 @@ GEO:-35.266526536459;149.066329292866
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20999@eventor.orienteering.asn.au
-DTSTAMP:20240723T115357Z
+DTSTAMP:20240801T033618Z
 DTSTART:20240731T060000Z
-DTEND:20240731T135900Z
+DTEND:20240731T060000Z
 SUMMARY:2024 Sydney MapRun #3 The Canals , Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20999
 GEO:-33.9026928287129;151.110113388256
@@ -338,7 +304,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19719
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21027@eventor.orienteering.asn.au
-DTSTAMP:20240729T061718Z
+DTSTAMP:20240801T030235Z
 DTSTART:20240801T003000Z
 DTEND:20240801T010000Z
 SUMMARY:Dutton Park, Dutton Park, Orienteering Queensland
@@ -382,7 +348,7 @@ GEO:-32.8818315007974;151.453859146644
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20988@eventor.orienteering.asn.au
-DTSTAMP:20240718T210320Z
+DTSTAMP:20240801T045502Z
 DTSTART:20240802T233000Z
 DTEND:20240803T140000Z
 SUMMARY:Newcastle Shorts Weekend (Sat & Sun), Newcastle Orienteering Club
@@ -495,7 +461,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20754
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20107@eventor.orienteering.asn.au
-DTSTAMP:20240729T070402Z
+DTSTAMP:20240731T233314Z
 DTSTART:20240804T023000Z
 DTEND:20240804T034500Z
 SUMMARY: Northern Local #4, Esk Valley
@@ -504,7 +470,7 @@ GEO:-41.4075956638836;147.128508078913
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20941@eventor.orienteering.asn.au
-DTSTAMP:20240731T083158Z
+DTSTAMP:20240731T233916Z
 DTSTART:20240804T023000Z
 DTEND:20240804T034500Z
 SUMMARY:LCGS - Winter Trail Fest , Esk Valley
@@ -566,9 +532,9 @@ GEO:-35.3347239000528;149.071343336379
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20996@eventor.orienteering.asn.au
-DTSTAMP:20240725T223130Z
+DTSTAMP:20240801T033757Z
 DTSTART:20240807T060000Z
-DTEND:20240807T060000Z
+DTEND:20240811T135900Z
 SUMMARY:2024 Sydney MapRun #4 Seaforth , Bennelong Northside Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20996
 GEO:-33.7975328289224;151.24937864979
@@ -653,7 +619,7 @@ GEO:-32.0944992183405;115.837926518943
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20070@eventor.orienteering.asn.au
-DTSTAMP:20240727T221351Z
+DTSTAMP:20240801T084759Z
 DTSTART:20240810T023000Z
 DTEND:20240810T040000Z
 SUMMARY:Bendigo Bush - Adelaide & Apollo Hills, Bendigo Orienteers
@@ -934,12 +900,12 @@ GEO:-35.3667068362738;149.217530370355
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20066@eventor.orienteering.asn.au
-DTSTAMP:20240425T090835Z
+DTSTAMP:20240801T054506Z
 DTSTART:20240817T023000Z
 DTEND:20240817T040000Z
 SUMMARY:Bendigo Bush - Argyle, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20066
-GEO:-36.9061718353659;144.695868936257
+GEO:-36.9509379652769;144.710454050102
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20112@eventor.orienteering.asn.au
@@ -1004,14 +970,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21032
 GEO:-28.1251905873913;153.442949353727
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20114@eventor.orienteering.asn.au
-DTSTAMP:20231229T234509Z
-DTSTART:20240817T140000Z
-DTEND:20240818T140000Z
-SUMMARY:Pittwater - Middle Distance - OST 11, Australopers
-URL:https://eventor.orienteering.asn.au/Events/Show/20114
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20393@eventor.orienteering.asn.au
 DTSTAMP:20240628T041214Z
 DTSTART:20240817T230000Z
@@ -1054,6 +1012,15 @@ DTEND:20240818T030000Z
 SUMMARY:MelBushO 9 - Plenty South, Yarra Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20372
 GEO:-37.6893288041195;145.087282014837
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20114@eventor.orienteering.asn.au
+DTSTAMP:20240801T060621Z
+DTSTART:20240818T000000Z
+DTEND:20240818T030000Z
+SUMMARY:Pittwater - Middle Distance - OST 11, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/20114
+GEO:-42.83748;147.6018
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19814@eventor.orienteering.asn.au
@@ -1364,11 +1331,81 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20961
 GEO:-41.7019959243941;147.835078267879
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20626@eventor.orienteering.asn.au
-DTSTAMP:20240514T083832Z
-DTSTART:20240830T003000Z
-DTEND:20240830T023000Z
-SUMMARY:South Australian Schools Relay Championships  , Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/20626
+UID:Event_21099@eventor.orienteering.asn.au
+DTSTAMP:20240801T022524Z
+DTSTART:20240830T140000Z
+DTEND:20240830T140000Z
+SUMMARY:SA Schools Relay Championships 2024 Lochiel Park, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/21099
+GEO:-34.8774004985848;138.650486121833
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21005@eventor.orienteering.asn.au
+DTSTAMP:20240710T022659Z
+DTSTART:20240830T224000Z
+DTEND:20240831T030000Z
+SUMMARY:BigFoot Sprints Cockatoo Island , Big Foot Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21005
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20513@eventor.orienteering.asn.au
+DTSTAMP:20240311T231718Z
+DTSTART:20240830T233000Z
+DTEND:20240831T020000Z
+SUMMARY:SOS Northside and Hills District, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20513
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19563@eventor.orienteering.asn.au
+DTSTAMP:20240131T233046Z
+DTSTART:20240831T003000Z
+DTEND:20240831T030000Z
+SUMMARY:ACT Metro Series: incl. Junior League #11, Farrer Ridge, Bushflyers
+URL:https://eventor.orienteering.asn.au/Events/Show/19563
+GEO:-35.3820998212945;149.094778589189
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19566@eventor.orienteering.asn.au
+DTSTAMP:20231116T030104Z
+DTSTART:20240831T003100Z
+DTEND:20240831T003200Z
+SUMMARY:ACT Metro Series Season Pass, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19566
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20071@eventor.orienteering.asn.au
+DTSTAMP:20240727T222853Z
+DTSTART:20240831T023000Z
+DTEND:20240831T040000Z
+SUMMARY:Bendigo Bush - Wildflower Drive, Bendigo Orienteers / Central Highlands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20071
+GEO:-36.790962615637;144.337689997944
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20079@eventor.orienteering.asn.au
+DTSTAMP:20240521T061135Z
+DTSTART:20240831T030000Z
+DTEND:20240831T030000Z
+SUMMARY:Vic MTBO Sprint Championship – Whroo, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20079
+GEO:-36.6463579479643;145.027692356924
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21034@eventor.orienteering.asn.au
+DTSTAMP:20240722T072009Z
+DTSTART:20240831T060000Z
+DTEND:20240831T073000Z
+SUMMARY:Map Run Parks - Gold Coast - #5 Coomera Sports Park, Coomera, Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21034
+GEO:-27.8673486418101;153.321940456482
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20871@eventor.orienteering.asn.au
+DTSTAMP:20240613T075500Z
+DTSTART:20240831T083000Z
+DTEND:20240831T083000Z
+SUMMARY:Vic MTBO Championships Dinner – Nagambie, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20871
+GEO:-36.7846030705115;145.152990384485
 END:VEVENT
 END:VCALENDAR
