@@ -3,23 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_19719@eventor.orienteering.asn.au
-DTSTAMP:20240805T222142Z
-DTSTART:20240731T233000Z
-DTEND:20240731T233000Z
-SUMMARY:Sydney West Primary Schools, Bold Horizons Event Organiser
-URL:https://eventor.orienteering.asn.au/Events/Show/19719
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21027@eventor.orienteering.asn.au
-DTSTAMP:20240801T030235Z
-DTSTART:20240801T003000Z
-DTEND:20240801T010000Z
-SUMMARY:Dutton Park, Dutton Park, Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/21027
-GEO:-27.4967116720623;153.021750663203
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19720@eventor.orienteering.asn.au
 DTSTAMP:20240805T222240Z
 DTSTART:20240801T233000Z
@@ -452,7 +435,7 @@ GEO:-42.9004443267092;147.330053648355
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19571@eventor.orienteering.asn.au
-DTSTAMP:20240804T034508Z
+DTSTAMP:20240809T012418Z
 DTSTART:20240811T000000Z
 DTEND:20240811T033000Z
 SUMMARY:2024 ACT & NSW Ski-O Championships, Orienteering ACT / Orienteering NSW
@@ -478,15 +461,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19798
 GEO:-36.0571328253883;146.908460256235
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20952@eventor.orienteering.asn.au
-DTSTAMP:20240727T005937Z
-DTSTART:20240811T000000Z
-DTEND:20240811T040000Z
-SUMMARY:Goldseekers Bush # 5 Gosling Creek Pairs event - ENTER HERE, Goldseekers Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20952
-GEO:-33.3248922049644;149.092594338739
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19848@eventor.orienteering.asn.au
 DTSTAMP:20240805T010152Z
 DTSTART:20240811T000000Z
@@ -494,6 +468,15 @@ DTEND:20240811T040000Z
 SUMMARY:Sunnyside TSR, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19848
 GEO:-30.4011960691622;151.700626706426
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20952@eventor.orienteering.asn.au
+DTSTAMP:20240809T052809Z
+DTSTART:20240811T003000Z
+DTEND:20240811T003000Z
+SUMMARY:Goldseekers Bush # 5 Gosling Creek Pairs event - ENTER HERE, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20952
+GEO:-33.3248922049644;149.092594338739
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21008@eventor.orienteering.asn.au
@@ -557,7 +540,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20731
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20088@eventor.orienteering.asn.au
-DTSTAMP:20231221T030540Z
+DTSTAMP:20240809T020315Z
 DTSTART:20240812T093000Z
 DTEND:20240812T093000Z
 SUMMARY:Orienteering NSW August General Meeting, Orienteering NSW
@@ -625,6 +608,15 @@ DTSTART:20240814T083000Z
 DTEND:20240814T101500Z
 SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Blackburn South, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20739
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21131@eventor.orienteering.asn.au
+DTSTAMP:20240809T060042Z
+DTSTART:20240815T003000Z
+DTEND:20240815T003000Z
+SUMMARY:CreekSide Park - Brookfield (MapRun event), Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/21131
+GEO:-27.5035131319878;152.91880232549
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20982@eventor.orienteering.asn.au
@@ -722,6 +714,7 @@ DTSTART:20240817T230000Z
 DTEND:20240818T010000Z
 SUMMARY:Orienteering at Griffith University, Gold Coast, Paradise Lost Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20393
+GEO:-27.964625250523;153.383192833203
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20201@eventor.orienteering.asn.au
@@ -955,12 +948,12 @@ GEO:-26.5021898953433;153.087023172525
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20318@eventor.orienteering.asn.au
-DTSTAMP:20240802T073336Z
+DTSTAMP:20240809T031652Z
 DTSTART:20240824T050000Z
-DTEND:20240824T050000Z
-SUMMARY:Haig Street Quarry, Ipswich (Brassall), Ugly Gully Orienteers
+DTEND:20240824T070000Z
+SUMMARY:Haig Street Quarry, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20318
-GEO:-27.59271200349;152.734982040532
+GEO:-27.5922926938529;152.734112279436
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21033@eventor.orienteering.asn.au
@@ -1009,7 +1002,7 @@ GEO:-33.0256657177487;137.573689116425
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20559@eventor.orienteering.asn.au
-DTSTAMP:20240318T075822Z
+DTSTAMP:20240809T072212Z
 DTSTART:20240825T013000Z
 DTEND:20240825T050000Z
 SUMMARY:Bush 10 Mt Billy W, LOST / Orienteering WA
@@ -1154,7 +1147,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21005
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20513@eventor.orienteering.asn.au
-DTSTAMP:20240311T231718Z
+DTSTAMP:20240808T220514Z
 DTSTART:20240830T233000Z
 DTEND:20240831T020000Z
 SUMMARY:SOS Northside and Hills District, Bold Horizons Event Organiser
@@ -1240,7 +1233,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19864
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20290@eventor.orienteering.asn.au
-DTSTAMP:20240807T032254Z
+DTSTAMP:20240809T085528Z
 DTSTART:20240831T233000Z
 DTEND:20240901T023000Z
 SUMMARY:2024 Metro League #5 - Nurragingy, Big Foot Orienteers
@@ -1426,5 +1419,58 @@ DTSTART:20240907T040000Z
 DTEND:20240907T051500Z
 SUMMARY:Melbourne Park Street Saturday Series - Newport Lakes, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20750
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19520@eventor.orienteering.asn.au
+DTSTAMP:20240528T211059Z
+DTSTART:20240907T140000Z
+DTEND:20240908T140000Z
+SUMMARY:2024 NSW Long Distance Championships (SL #17), Bennelong Northside Orienteers / Orienteering NSW / Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19520
+GEO:-32.9140674967024;149.935042688776
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20541@eventor.orienteering.asn.au
+DTSTAMP:20240418T050159Z
+DTSTART:20240907T230000Z
+DTEND:20240908T030000Z
+SUMMARY:OY2 - Balara (Camel Farm) near Wivenhoe, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20541
+GEO:-27.356395;152.504162
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20373@eventor.orienteering.asn.au
+DTSTAMP:20240614T101619Z
+DTSTART:20240908T000000Z
+DTEND:20240908T030000Z
+SUMMARY:MelBushO 10 - Tikalara Park, Templestowe, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20373
+GEO:-37.7478107743048;145.166463823825
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19506@eventor.orienteering.asn.au
+DTSTAMP:20240809T101337Z
+DTSTART:20240908T003000Z
+DTEND:20240908T040000Z
+SUMMARY:SA Middle Distance Championships Wirreanda Farm, Wallaringa Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19506
+GEO:-34.7145860224033;138.931954156703
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20283@eventor.orienteering.asn.au
+DTSTAMP:20240206T064219Z
+DTSTART:20240908T010000Z
+DTEND:20240908T023000Z
+SUMMARY:Port Lincoln: Flinders/Pioneer Park, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20283
+GEO:-34.7178406471005;135.849697135834
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20937@eventor.orienteering.asn.au
+DTSTAMP:20240609T042652Z
+DTSTART:20240908T060000Z
+DTEND:20240908T060000Z
+SUMMARY:MapRun Parks 2024 - Sherwood Aboreum, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20937
 END:VEVENT
 END:VCALENDAR
