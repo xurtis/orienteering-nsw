@@ -3,23 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_20477@eventor.orienteering.asn.au
-DTSTAMP:20240805T224618Z
-DTSTART:20240805T070000Z
-DTEND:20240805T100000Z
-SUMMARY:ACT MapRun Street Series: Holder, 1-5 Aug, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/20477
-GEO:-35.3365593986597;149.044480331169
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20730@eventor.orienteering.asn.au
-DTSTAMP:20240424T023114Z
-DTSTART:20240805T083000Z
-DTEND:20240805T101500Z
-SUMMARY:Melbourne Park Street Monday Night Series - McKinnon, Orienteering Victoria
-URL:https://eventor.orienteering.asn.au/Events/Show/20730
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20339@eventor.orienteering.asn.au
 DTSTAMP:20240806T102128Z
 DTSTART:20240805T140000Z
@@ -287,7 +270,7 @@ GEO:-36.0571328253883;146.908460256235
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19848@eventor.orienteering.asn.au
-DTSTAMP:20240810T100606Z
+DTSTAMP:20240813T073344Z
 DTSTART:20240811T000000Z
 DTEND:20240811T040000Z
 SUMMARY:Sunnyside TSR, Northern Tablelands Orienteering Club
@@ -382,6 +365,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20088
 GEO:-33.8460034291842;151.074483418337
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20340@eventor.orienteering.asn.au
+DTSTAMP:20240813T112635Z
+DTSTART:20240812T140000Z
+DTEND:20240813T140000Z
+SUMMARY:Night Nav - Auchenflower - Term 3 Series Event #5, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20340
+GEO:-27.4739209371625;153.000510000239
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21035@eventor.orienteering.asn.au
 DTSTAMP:20240803T022957Z
 DTSTART:20240813T000000Z
@@ -397,15 +389,6 @@ DTSTART:20240813T060000Z
 DTEND:20240813T071500Z
 SUMMARY:Woodside Afterschool Zone event 1, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/21155
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20340@eventor.orienteering.asn.au
-DTSTAMP:20240618T030831Z
-DTSTART:20240813T073000Z
-DTEND:20240813T073000Z
-SUMMARY:Night Nav - Auchenflower - Term 3 Series Event #5, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20340
-GEO:-27.4739209371625;153.000510000239
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20100@eventor.orienteering.asn.au
@@ -436,7 +419,7 @@ GEO:-19.2719130372523;146.80883432109
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20655@eventor.orienteering.asn.au
-DTSTAMP:20240806T031210Z
+DTSTAMP:20240813T084507Z
 DTSTART:20240814T073000Z
 DTEND:20240814T094500Z
 SUMMARY:Moonlight Madness #5 Glebe, Garingal Orienteers
@@ -515,7 +498,7 @@ GEO:-42.97981408636;147.308898383361
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21036@eventor.orienteering.asn.au
-DTSTAMP:20240730T013647Z
+DTSTAMP:20240813T094931Z
 DTSTART:20240817T030000Z
 DTEND:20240817T050000Z
 SUMMARY:Kingston - Tas Relay Championships - Team Managers Only, Australopers
@@ -613,7 +596,7 @@ GEO:-42.83748;147.6018
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19814@eventor.orienteering.asn.au
-DTSTAMP:20231117T082400Z
+DTSTAMP:20240813T070045Z
 DTSTART:20240818T000000Z
 DTEND:20240818T033000Z
 SUMMARY:Waggaroos Local event (Sprint), Victory Memorial Gardens, Wagga and Riverina Orienteers
@@ -760,15 +743,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21049
 GEO:-35.0115340842261;138.636725899602
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19549@eventor.orienteering.asn.au
-DTSTAMP:20240725T001706Z
-DTSTART:20240823T140000Z
-DTEND:20240824T140000Z
-SUMMARY:ACT Middle Championships: ACT League #11, NSW SL #14, Wild Deer Sands, Bushflyers / Orienteering ACT / Orienteering NSW
-URL:https://eventor.orienteering.asn.au/Events/Show/19549
-GEO:-35.2389218619691;149.611257335691
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19704@eventor.orienteering.asn.au
 DTSTAMP:20240702T022325Z
 DTSTART:20240823T230000Z
@@ -794,6 +768,15 @@ DTEND:20240824T020000Z
 SUMMARY:SOS Northside - St Ives, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/20512
 GEO:-33.707605;151.17436
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19549@eventor.orienteering.asn.au
+DTSTAMP:20240813T015429Z
+DTSTART:20240824T010000Z
+DTEND:20240824T010000Z
+SUMMARY:ACT Middle Championships: ACT League #11, NSW SL #14, Wild Deer Sands, Bushflyers / Orienteering ACT / Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/19549
+GEO:-35.2389218619691;149.611257335691
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20749@eventor.orienteering.asn.au
