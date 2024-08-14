@@ -3,15 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_20339@eventor.orienteering.asn.au
-DTSTAMP:20240806T102128Z
-DTSTART:20240805T140000Z
-DTEND:20240806T140000Z
-SUMMARY:Night Nav - Edenbrooke - Term 3 Series Event #4, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20339
-GEO:-27.5493407298122;152.953033654138
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21105@eventor.orienteering.asn.au
 DTSTAMP:20240805T024021Z
 DTSTART:20240806T001500Z
@@ -444,7 +435,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20739
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21131@eventor.orienteering.asn.au
-DTSTAMP:20240811T052317Z
+DTSTAMP:20240814T000713Z
 DTSTART:20240815T003000Z
 DTEND:20240815T003000Z
 SUMMARY:CreekSide Park - Brookfield (MapRun event), Orienteering Queensland
@@ -498,7 +489,7 @@ GEO:-42.97981408636;147.308898383361
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21036@eventor.orienteering.asn.au
-DTSTAMP:20240813T094931Z
+DTSTAMP:20240814T051348Z
 DTSTART:20240817T030000Z
 DTEND:20240817T050000Z
 SUMMARY:Kingston - Tas Relay Championships - Team Managers Only, Australopers
@@ -605,7 +596,7 @@ GEO:-35.1093392780728;147.36904190288
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20245@eventor.orienteering.asn.au
-DTSTAMP:20240812T115534Z
+DTSTAMP:20240813T235011Z
 DTSTART:20240818T003000Z
 DTEND:20240818T033000Z
 SUMMARY:Paradise Canyons (Burra) OY, Tjuringa Orienteers
@@ -716,6 +707,14 @@ DTEND:20240821T093000Z
 SUMMARY:TTOC Urban Adventure Night Series 24 - Round 3 - Victoria Park, Totally Tropical Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21124
 GEO:-19.2676056026407;146.824802164803
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21167@eventor.orienteering.asn.au
+DTSTAMP:20240814T041033Z
+DTSTART:20240821T080000Z
+DTEND:20240821T110000Z
+SUMMARY:100 controls at Curtin UNI (Mid-week Training), Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/21167
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20740@eventor.orienteering.asn.au
