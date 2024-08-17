@@ -20,15 +20,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20996
 GEO:-33.7975328289224;151.24937864979
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21047@eventor.orienteering.asn.au
-DTSTAMP:20240730T063524Z
-DTSTART:20240809T060000Z
-DTEND:20240809T071500Z
-SUMMARY:Mitcham Hills After School Zone Event - Coromandel PS, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/21047
-GEO:-35.032940274354;138.626777034874
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21031@eventor.orienteering.asn.au
 DTSTAMP:20240810T090700Z
 DTSTART:20240809T140000Z
@@ -402,7 +393,7 @@ GEO:-35.0195558195965;138.623328152328
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19562@eventor.orienteering.asn.au
-DTSTAMP:20240131T233044Z
+DTSTAMP:20240817T012449Z
 DTSTART:20240817T003000Z
 DTEND:20240817T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #10, Mt Jerrabomberra, Weston Emus
@@ -411,7 +402,7 @@ GEO:-35.3780539660741;149.227200930934
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20066@eventor.orienteering.asn.au
-DTSTAMP:20240801T054506Z
+DTSTAMP:20240817T080237Z
 DTSTART:20240817T023000Z
 DTEND:20240817T040000Z
 SUMMARY:Bendigo Bush - Argyle, Bendigo Orienteers
@@ -429,16 +420,16 @@ GEO:-42.97981408636;147.308898383361
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21036@eventor.orienteering.asn.au
-DTSTAMP:20240814T051348Z
+DTSTAMP:20240817T101334Z
 DTSTART:20240817T030000Z
 DTEND:20240817T050000Z
-SUMMARY:Kingston - Tas Relay Championships - Team Managers Only, Australopers
+SUMMARY:Kingston - Tas Relay Championships - Team Management & Results, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/21036
 GEO:-42.9797809477893;147.308899253942
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19582@eventor.orienteering.asn.au
-DTSTAMP:20240713T053603Z
+DTSTAMP:20240817T121806Z
 DTSTART:20240817T030000Z
 DTEND:20240817T060000Z
 SUMMARY:2024 NSW School Forest Championships and State League #12, Bold Horizons Event Organiser
@@ -447,7 +438,7 @@ GEO:-33.740807;151.107874
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20320@eventor.orienteering.asn.au
-DTSTAMP:20240815T225302Z
+DTSTAMP:20240817T073624Z
 DTSTART:20240817T033000Z
 DTEND:20240817T060000Z
 SUMMARY:Mulga Valley Middle Distance OY (near Burra) , Tintookies Orienteers
@@ -665,6 +656,14 @@ SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Glen Eira East,
 URL:https://eventor.orienteering.asn.au/Events/Show/20740
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_21170@eventor.orienteering.asn.au
+DTSTAMP:20240816T231652Z
+DTSTART:20240822T003000Z
+DTEND:20240822T003000Z
+SUMMARY:Grange Forest Park, Grange (MapRun), Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/21170
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20983@eventor.orienteering.asn.au
 DTSTAMP:20240702T002954Z
 DTSTART:20240822T061500Z
@@ -872,6 +871,7 @@ DTSTART:20240827T073000Z
 DTEND:20240827T073000Z
 SUMMARY:Night Nav - Norman Creek - Term 3 Series Event #7, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20342
+GEO:-27.4885907231622;153.063152880254
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20781@eventor.orienteering.asn.au
@@ -1122,7 +1122,7 @@ DTSTART:20240901T003000Z
 DTEND:20240901T023000Z
 SUMMARY:MFR club training, Melbourne Forest Racers
 URL:https://eventor.orienteering.asn.au/Events/Show/21016
-GEO:-37.0681203357413;144.21555508504
+GEO:-36.9852462092067;144.30436851904
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20974@eventor.orienteering.asn.au
@@ -1134,12 +1134,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20974
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20560@eventor.orienteering.asn.au
-DTSTAMP:20240318T080758Z
+DTSTAMP:20240817T071604Z
 DTSTART:20240901T013000Z
 DTEND:20240901T050000Z
 SUMMARY:Bush 11 Frazzle, Bibbulmun Orienteers / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/20560
-GEO:-32.400752988603;116.8676506164
+GEO:-32.3393994673902;116.845599517665
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20936@eventor.orienteering.asn.au
@@ -1236,7 +1236,7 @@ GEO:-32.9139585881991;149.934358783149
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20067@eventor.orienteering.asn.au
-DTSTAMP:20240805T103045Z
+DTSTAMP:20240817T105457Z
 DTSTART:20240907T023000Z
 DTEND:20240907T040000Z
 SUMMARY:Bendigo Bush - Kooyoora North, Bendigo Orienteers
@@ -1476,5 +1476,21 @@ DTEND:20240915T050000Z
 SUMMARY:Bush 12 Malmalling NE, Kulgun 225 Orienteers / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/20561
 GEO:-31.883905107661;116.308813845777
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20483@eventor.orienteering.asn.au
+DTSTAMP:20240611T000507Z
+DTSTART:20240916T070000Z
+DTEND:20240916T100000Z
+SUMMARY:ACT MapRun Street Series: Stirling, 12-16 Sep, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20483
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20736@eventor.orienteering.asn.au
+DTSTAMP:20240424T024100Z
+DTSTART:20240916T083000Z
+DTEND:20240916T101500Z
+SUMMARY:Melbourne Park Street Monday Night Series - Canterbury Trails, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/20736
 END:VEVENT
 END:VCALENDAR
