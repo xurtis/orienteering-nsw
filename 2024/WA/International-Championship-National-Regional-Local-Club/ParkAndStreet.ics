@@ -11,40 +11,6 @@ SUMMARY:Closed series of events for school group, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/21105
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19721@eventor.orienteering.asn.au
-DTSTAMP:20240428T221203Z
-DTSTART:20240811T233000Z
-DTEND:20240812T043000Z
-SUMMARY:Sydney North (combined Primary & Secondary) Schools, Bold Horizons Event Organiser
-URL:https://eventor.orienteering.asn.au/Events/Show/19721
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20478@eventor.orienteering.asn.au
-DTSTAMP:20240814T134746Z
-DTSTART:20240812T070000Z
-DTEND:20240812T100000Z
-SUMMARY:ACT MapRun Street Series: Parkes, 8-12 Aug, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/20478
-GEO:-35.297482412549;149.131771801607
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20731@eventor.orienteering.asn.au
-DTSTAMP:20240424T023247Z
-DTSTART:20240812T083000Z
-DTEND:20240812T101500Z
-SUMMARY:Melbourne Park Street Monday Night Series - Koonung Heights, Orienteering Victoria
-URL:https://eventor.orienteering.asn.au/Events/Show/20731
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20088@eventor.orienteering.asn.au
-DTSTAMP:20240809T020315Z
-DTSTART:20240812T093000Z
-DTEND:20240812T093000Z
-SUMMARY:Orienteering NSW August General Meeting, Orienteering NSW
-URL:https://eventor.orienteering.asn.au/Events/Show/20088
-GEO:-33.8460034291842;151.074483418337
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20340@eventor.orienteering.asn.au
 DTSTAMP:20240813T112635Z
 DTSTART:20240812T140000Z
@@ -221,6 +187,15 @@ SUMMARY:Melbourne Park Street Saturday Series - Greensborough, Nillumbik Emus Or
 URL:https://eventor.orienteering.asn.au/Events/Show/20748
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20934@eventor.orienteering.asn.au
+DTSTAMP:20240820T001015Z
+DTSTART:20240817T140000Z
+DTEND:20240818T140000Z
+SUMMARY:MapRun Parks 2024 - 7th Brigade Park, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20934
+GEO:-27.3777722226351;153.034315155825
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20393@eventor.orienteering.asn.au
 DTSTAMP:20240819T005253Z
 DTSTART:20240817T230000Z
@@ -320,17 +295,8 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20930
 GEO:-33.15404;115.92917
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20934@eventor.orienteering.asn.au
-DTSTAMP:20240806T021456Z
-DTSTART:20240818T060000Z
-DTEND:20240818T060000Z
-SUMMARY:MapRun Parks 2024 - 7th Brigade Park, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20934
-GEO:-27.3777722226351;153.034315155825
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20479@eventor.orienteering.asn.au
-DTSTAMP:20240814T135903Z
+DTSTAMP:20240819T134242Z
 DTSTART:20240819T070000Z
 DTEND:20240819T100000Z
 SUMMARY:ACT MapRun Street Series: Fernhill Park, Bruce, 15-19 Aug, Orienteering ACT
@@ -346,21 +312,21 @@ SUMMARY:Melbourne Park Street Monday Night Series - Kerrimuir, Orienteering Vict
 URL:https://eventor.orienteering.asn.au/Events/Show/20732
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20341@eventor.orienteering.asn.au
+DTSTAMP:20240820T114942Z
+DTSTART:20240819T140000Z
+DTEND:20240820T140000Z
+SUMMARY:Night Nav - Kenmore South - Term 3 Series Event #6, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20341
+GEO:-27.5241807140217;152.932099276113
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21157@eventor.orienteering.asn.au
 DTSTAMP:20240811T232213Z
 DTSTART:20240820T060000Z
 DTEND:20240820T071500Z
 SUMMARY:Heathfield After School Zone Event 1, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/21157
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20341@eventor.orienteering.asn.au
-DTSTAMP:20240618T031056Z
-DTSTART:20240820T073000Z
-DTEND:20240820T073000Z
-SUMMARY:Night Nav - Kenmore South - Term 3 Series Event #6, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20341
-GEO:-27.5241807140217;152.932099276113
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20780@eventor.orienteering.asn.au
@@ -450,7 +416,7 @@ GEO:-26.9938740722257;153.033947592818
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20519@eventor.orienteering.asn.au
-DTSTAMP:20240807T013707Z
+DTSTAMP:20240820T124249Z
 DTSTART:20240823T233000Z
 DTEND:20240824T020000Z
 SUMMARY:SOS Hills District - Rydalmere, Bold Horizons Event Organiser
@@ -459,7 +425,7 @@ GEO:-33.80832;151.050398
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20512@eventor.orienteering.asn.au
-DTSTAMP:20240807T014846Z
+DTSTAMP:20240820T124631Z
 DTSTART:20240823T233000Z
 DTEND:20240824T020000Z
 SUMMARY:SOS Northside - St Ives, Bold Horizons Event Organiser
@@ -713,7 +679,7 @@ GEO:-12.3327346801103;130.894294876536
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21005@eventor.orienteering.asn.au
-DTSTAMP:20240818T235609Z
+DTSTAMP:20240820T022914Z
 DTSTART:20240830T224000Z
 DTEND:20240831T030000Z
 SUMMARY:BigFoot Sprints Cockatoo Island , Big Foot Orienteers
@@ -791,7 +757,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20813
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19864@eventor.orienteering.asn.au
-DTSTAMP:20240811T011906Z
+DTSTAMP:20240820T051547Z
 DTSTART:20240831T230000Z
 DTEND:20240901T023000Z
 SUMMARY:OY9 - Priest Gully, Ugly Gully Orienteers
@@ -1287,5 +1253,14 @@ DTSTART:20240918T083000Z
 DTEND:20240918T101500Z
 SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Colchester, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20744
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19690@eventor.orienteering.asn.au
+DTSTAMP:20231025T061353Z
+DTSTART:20240919T003000Z
+DTEND:20240919T013000Z
+SUMMARY:Minnippi Parklands, Tingalpa, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19690
+GEO:-27.483014006192;153.115024138744
 END:VEVENT
 END:VCALENDAR
