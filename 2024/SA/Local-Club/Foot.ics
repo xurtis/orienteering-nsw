@@ -11,32 +11,6 @@ SUMMARY:Closed series of events for school group, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/21105
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20340@eventor.orienteering.asn.au
-DTSTAMP:20240813T112635Z
-DTSTART:20240812T140000Z
-DTEND:20240813T140000Z
-SUMMARY:Night Nav - Auchenflower - Term 3 Series Event #5, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20340
-GEO:-27.4739209371625;153.000510000239
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21035@eventor.orienteering.asn.au
-DTSTAMP:20240803T022957Z
-DTSTART:20240813T000000Z
-DTEND:20240813T040000Z
-SUMMARY:46th Hunter Schools Champs - Croudace Bay, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21035
-GEO:-32.997825141516;151.637441701415
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21155@eventor.orienteering.asn.au
-DTSTAMP:20240811T224824Z
-DTSTART:20240813T060000Z
-DTEND:20240813T071500Z
-SUMMARY:Woodside Afterschool Zone event 1, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/21155
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20100@eventor.orienteering.asn.au
 DTSTAMP:20240718T014632Z
 DTSTART:20240814T010000Z
@@ -206,7 +180,7 @@ GEO:-27.964625250523;153.383192833203
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20201@eventor.orienteering.asn.au
-DTSTAMP:20240806T042936Z
+DTSTAMP:20240821T075820Z
 DTSTART:20240817T230000Z
 DTEND:20240818T020000Z
 SUMMARY:Fiona Calabro Memorial Event - Stockyard Creek, Burbank, Toohey Forest Orienteers
@@ -330,7 +304,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21157
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20780@eventor.orienteering.asn.au
-DTSTAMP:20240612T055252Z
+DTSTAMP:20240821T050730Z
 DTSTART:20240821T020000Z
 DTEND:20240821T040000Z
 SUMMARY:ACT Midweek Series: Pine Island, Orienteering ACT
@@ -381,10 +355,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20740
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21170@eventor.orienteering.asn.au
-DTSTAMP:20240816T231652Z
+DTSTAMP:20240821T022509Z
 DTSTART:20240822T003000Z
 DTEND:20240822T003000Z
-SUMMARY:Grange Forest Park, Grange (MapRun), Orienteering Queensland
+SUMMARY:Grange Forest Park, Grange (Flags), Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/21170
 GEO:-27.4175495138463;153.000170224471
 END:VEVENT
@@ -651,6 +625,15 @@ SUMMARY:Closed event for school group, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/21108
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_21172@eventor.orienteering.asn.au
+DTSTAMP:20240821T123408Z
+DTSTART:20240829T003000Z
+DTEND:20240829T003000Z
+SUMMARY:Opossum Creek, Norfolk St, Springfield Lakes, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/21172
+GEO:-27.6821272926077;152.924250277402
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20961@eventor.orienteering.asn.au
 DTSTAMP:20240719T225036Z
 DTSTART:20240829T140000Z
@@ -775,7 +758,7 @@ GEO:-33.7640058781996;150.855506228953
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20969@eventor.orienteering.asn.au
-DTSTAMP:20240731T004025Z
+DTSTAMP:20240820T232557Z
 DTSTART:20240831T233000Z
 DTEND:20240901T030000Z
 SUMMARY:NOY 8 - Wallaroo Hill (Balickera), Newcastle Orienteering Club
@@ -861,12 +844,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20974
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20560@eventor.orienteering.asn.au
-DTSTAMP:20240817T071604Z
+DTSTAMP:20240821T080952Z
 DTSTART:20240901T013000Z
 DTEND:20240901T050000Z
 SUMMARY:Bush 11 Frazzle, Bibbulmun Orienteers / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/20560
-GEO:-32.3393994673902;116.845599517665
+GEO:-32.338350753939;116.844656589319
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20936@eventor.orienteering.asn.au
@@ -999,7 +982,7 @@ GEO:-27.3564635584942;152.50421661543
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20373@eventor.orienteering.asn.au
-DTSTAMP:20240614T101619Z
+DTSTAMP:20240821T042209Z
 DTSTART:20240908T000000Z
 DTEND:20240908T030000Z
 SUMMARY:MelBushO 10 - Tikalara Park, Templestowe, Nillumbik Emus Orienteering Club
