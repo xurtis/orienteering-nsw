@@ -11,24 +11,6 @@ SUMMARY:Closed series of events for school group, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/21105
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21131@eventor.orienteering.asn.au
-DTSTAMP:20240815T093004Z
-DTSTART:20240815T003000Z
-DTEND:20240815T003000Z
-SUMMARY:CreekSide Park - Brookfield (MapRun event), Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/21131
-GEO:-27.5035131319878;152.91880232549
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20982@eventor.orienteering.asn.au
-DTSTAMP:20240702T002934Z
-DTSTART:20240815T061500Z
-DTEND:20240815T073000Z
-SUMMARY:Central Adelaide Schools zone - Event 9 Linden Park PS, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/20982
-GEO:-34.9474186053673;138.646529360285
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21048@eventor.orienteering.asn.au
 DTSTAMP:20240726T054821Z
 DTSTART:20240816T061500Z
@@ -361,7 +343,7 @@ DTSTART:20240824T010000Z
 DTEND:20240824T010000Z
 SUMMARY:ACT Middle Championships: ACT League #11, NSW SL #14, Wild Deer Sands, Bushflyers / Orienteering ACT / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/19549
-GEO:-35.2389218619691;149.611257335691
+GEO:-35.2509807792972;149.572770688525
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20749@eventor.orienteering.asn.au
@@ -423,7 +405,7 @@ DTSTART:20240825T000000Z
 DTEND:20240825T000000Z
 SUMMARY:ACT Long Championships: ACT League #12, NSW SL #15, Birkenburn, Orienteering ACT / Orienteering NSW / Parawanga Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19550
-GEO:-35.2390219327975;149.611295433683
+GEO:-35.2508456133289;149.572698924017
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20355@eventor.orienteering.asn.au
@@ -619,7 +601,7 @@ GEO:-33.8460362199953;151.172848329301
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20513@eventor.orienteering.asn.au
-DTSTAMP:20240808T220514Z
+DTSTAMP:20240823T054737Z
 DTSTART:20240830T233000Z
 DTEND:20240831T020000Z
 SUMMARY:SOS Northside and Hills District, Bold Horizons Event Organiser
@@ -644,12 +626,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19566
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20071@eventor.orienteering.asn.au
-DTSTAMP:20240727T222853Z
+DTSTAMP:20240823T085744Z
 DTSTART:20240831T023000Z
 DTEND:20240831T040000Z
 SUMMARY:Bendigo Bush - Wildflower Drive, Bendigo Orienteers / Central Highlands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20071
-GEO:-36.790962615637;144.337689997944
+GEO:-36.7693606197191;144.321315441117
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20079@eventor.orienteering.asn.au
@@ -784,15 +766,16 @@ GEO:-36.9852462092067;144.30436851904
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20974@eventor.orienteering.asn.au
-DTSTAMP:20240630T092834Z
+DTSTAMP:20240823T011259Z
 DTSTART:20240901T010000Z
 DTEND:20240901T030000Z
 SUMMARY:Kendall Orienteering, Hastings Orienteering Group
 URL:https://eventor.orienteering.asn.au/Events/Show/20974
+GEO:-31.6381668743985;152.702902215641
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20560@eventor.orienteering.asn.au
-DTSTAMP:20240821T080952Z
+DTSTAMP:20240823T003012Z
 DTSTART:20240901T013000Z
 DTEND:20240901T050000Z
 SUMMARY:Bush 11 Frazzle, Bibbulmun Orienteers / Orienteering WA
@@ -1245,5 +1228,50 @@ DTSTART:20240921T040000Z
 DTEND:20240921T060000Z
 SUMMARY:Kirrawee , Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20723
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21144@eventor.orienteering.asn.au
+DTSTAMP:20240811T053707Z
+DTSTART:20240921T143000Z
+DTEND:20240922T143000Z
+SUMMARY:NT: 2024 Howard Springs Pine Forest Foot, Top End Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21144
+GEO:-12.4717361550865;131.039373720406
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19579@eventor.orienteering.asn.au
+DTSTAMP:20240729T062527Z
+DTSTART:20240921T233000Z
+DTEND:20240922T030000Z
+SUMMARY:2024 NSW State League #9 Middle Distance. NEW DATE, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19579
+GEO:-34.0682419603806;150.85135344209
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19715@eventor.orienteering.asn.au
+DTSTAMP:20240805T013653Z
+DTSTART:20240922T000000Z
+DTEND:20240922T040000Z
+SUMMARY:Vic Long Distance Championships - Nuggety Range, Maldon, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19715
+GEO:-36.9789866471355;144.071980495
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20247@eventor.orienteering.asn.au
+DTSTAMP:20240823T100039Z
+DTSTART:20240922T010000Z
+DTEND:20240922T010000Z
+SUMMARY:SA Interclub Relays - Moon Rocks, SA Arrows
+URL:https://eventor.orienteering.asn.au/Events/Show/20247
+GEO:-34.8315947829594;139.126234598986
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20578@eventor.orienteering.asn.au
+DTSTAMP:20240803T051218Z
+DTSTART:20240922T013000Z
+DTEND:20240922T050000Z
+SUMMARY:Bush 13 WA Long Distance Championships, Orienteering WA / Wullundigong Orienteers of the West
+URL:https://eventor.orienteering.asn.au/Events/Show/20578
+GEO:-31.72005;116.63021
 END:VEVENT
 END:VCALENDAR
