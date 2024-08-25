@@ -11,77 +11,6 @@ SUMMARY:Closed series of events for school group, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/21105
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21032@eventor.orienteering.asn.au
-DTSTAMP:20240818T065822Z
-DTSTART:20240816T140000Z
-DTEND:20240817T140000Z
-SUMMARY:Map Run Parks - Gold Coast - #3 Schuster Park, Elanora, Paradise Lost Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21032
-GEO:-28.1251905873913;153.442949353727
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19562@eventor.orienteering.asn.au
-DTSTAMP:20240817T012449Z
-DTSTART:20240817T003000Z
-DTEND:20240817T030000Z
-SUMMARY:ACT Metro Series: incl. Junior League #10, Mt Jerrabomberra, Weston Emus
-URL:https://eventor.orienteering.asn.au/Events/Show/19562
-GEO:-35.3780539660741;149.227200930934
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20066@eventor.orienteering.asn.au
-DTSTAMP:20240817T080237Z
-DTSTART:20240817T023000Z
-DTEND:20240817T040000Z
-SUMMARY:Bendigo Bush - Argyle, Bendigo Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20066
-GEO:-36.9509379652769;144.710454050102
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20112@eventor.orienteering.asn.au
-DTSTAMP:20240730T021945Z
-DTSTART:20240817T024500Z
-DTEND:20240817T050000Z
-SUMMARY:Kingston - Tas Relay Championships - Individual Entry, Australopers
-URL:https://eventor.orienteering.asn.au/Events/Show/20112
-GEO:-42.97981408636;147.308898383361
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21036@eventor.orienteering.asn.au
-DTSTAMP:20240817T101334Z
-DTSTART:20240817T030000Z
-DTEND:20240817T050000Z
-SUMMARY:Kingston - Tas Relay Championships - Team Management & Results, Australopers
-URL:https://eventor.orienteering.asn.au/Events/Show/21036
-GEO:-42.9797809477893;147.308899253942
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19582@eventor.orienteering.asn.au
-DTSTAMP:20240817T121806Z
-DTSTART:20240817T030000Z
-DTEND:20240817T060000Z
-SUMMARY:2024 NSW School Forest Championships and State League #12, Bold Horizons Event Organiser
-URL:https://eventor.orienteering.asn.au/Events/Show/19582
-GEO:-33.740807;151.107874
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20320@eventor.orienteering.asn.au
-DTSTAMP:20240817T073624Z
-DTSTART:20240817T033000Z
-DTEND:20240817T060000Z
-SUMMARY:Mulga Valley Middle Distance OY (near Burra) , Tintookies Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20320
-GEO:-33.1869736629323;138.984796890731
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20748@eventor.orienteering.asn.au
-DTSTAMP:20240424T043259Z
-DTSTART:20240817T040000Z
-DTEND:20240817T051500Z
-SUMMARY:Melbourne Park Street Saturday Series - Greensborough, Nillumbik Emus Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20748
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20934@eventor.orienteering.asn.au
 DTSTAMP:20240820T001015Z
 DTSTART:20240817T140000Z
@@ -301,6 +230,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21049
 GEO:-35.0115340842261;138.636725899602
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_21033@eventor.orienteering.asn.au
+DTSTAMP:20240825T074806Z
+DTSTART:20240823T140000Z
+DTEND:20240824T140000Z
+SUMMARY:Map Run Parks - Gold Coast - #4 Cos Zantiotis Park - Labrador, Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21033
+GEO:-27.9361344691175;153.391513648249
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19704@eventor.orienteering.asn.au
 DTSTAMP:20240824T074651Z
 DTSTART:20240823T230000Z
@@ -363,15 +301,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20318
 GEO:-27.5922926938529;152.734112279436
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21033@eventor.orienteering.asn.au
-DTSTAMP:20240722T071226Z
-DTSTART:20240824T060000Z
-DTEND:20240824T073000Z
-SUMMARY:Map Run Parks - Gold Coast - #4 Cos Zantiotis Park - Labrador, Paradise Lost Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21033
-GEO:-27.9361344691175;153.391513648249
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21142@eventor.orienteering.asn.au
 DTSTAMP:20240811T052434Z
 DTSTART:20240824T143000Z
@@ -382,7 +311,7 @@ GEO:-13.0406266679771;131.061099871299
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19705@eventor.orienteering.asn.au
-DTSTAMP:20240819T110345Z
+DTSTAMP:20240825T032629Z
 DTSTART:20240824T223000Z
 DTEND:20240825T020000Z
 SUMMARY:QLD MTBO Champs - Long Distance, Sunshine Orienteers Club
@@ -391,7 +320,7 @@ GEO:-26.9593604089413;152.994123479479
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19550@eventor.orienteering.asn.au
-DTSTAMP:20240819T000213Z
+DTSTAMP:20240825T024350Z
 DTSTART:20240825T000000Z
 DTEND:20240825T000000Z
 SUMMARY:ACT Long Championships: ACT League #12, NSW SL #15, Birkenburn, Orienteering ACT / Orienteering NSW / Parawanga Orienteers
@@ -400,7 +329,7 @@ GEO:-35.2508456133289;149.572698924017
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20355@eventor.orienteering.asn.au
-DTSTAMP:20240822T130536Z
+DTSTAMP:20240825T041508Z
 DTSTART:20240825T000000Z
 DTEND:20240825T040000Z
 SUMMARY:Vic Series 6 - Chewton Challenge, Melbourne Forest Racers
@@ -418,7 +347,7 @@ GEO:-33.0256657177487;137.573689116425
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20559@eventor.orienteering.asn.au
-DTSTAMP:20240815T140254Z
+DTSTAMP:20240825T070153Z
 DTSTART:20240825T013000Z
 DTEND:20240825T050000Z
 SUMMARY:Bush 10 Mt Billy W, LOST / Orienteering WA
@@ -427,7 +356,7 @@ GEO:-31.8817664474571;116.456113862905
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21120@eventor.orienteering.asn.au
-DTSTAMP:20240806T093523Z
+DTSTAMP:20240825T084709Z
 DTSTART:20240825T040000Z
 DTEND:20240825T040000Z
 SUMMARY:Crows Nest Park and Bushland, Range Runners Orienteering Club
@@ -652,14 +581,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20871
 GEO:-36.7846030705115;145.152990384485
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20813@eventor.orienteering.asn.au
-DTSTAMP:20240504T005942Z
-DTSTART:20240831T140000Z
-DTEND:20240901T140000Z
-SUMMARY:TBA - Northwest Local Series #6, Pathfinders
-URL:https://eventor.orienteering.asn.au/Events/Show/20813
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19864@eventor.orienteering.asn.au
 DTSTAMP:20240820T051547Z
 DTSTART:20240831T230000Z
@@ -731,7 +652,7 @@ GEO:-42.835070798062;147.350877701485
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21110@eventor.orienteering.asn.au
-DTSTAMP:20240805T051130Z
+DTSTAMP:20240824T211909Z
 DTSTART:20240901T000000Z
 DTEND:20240901T023000Z
 SUMMARY:Goldseekers Bush #7 - Khalis Rocks, Goldseekers Orienteers
@@ -747,17 +668,26 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19815
 GEO:-35.1163025455301;147.296582208989
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20813@eventor.orienteering.asn.au
+DTSTAMP:20240825T092414Z
+DTSTART:20240901T003000Z
+DTEND:20240901T003000Z
+SUMMARY:Tiagarra - Northwest Local Series #6, Pathfinders
+URL:https://eventor.orienteering.asn.au/Events/Show/20813
+GEO:-41.1623554064531;146.339155318122
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21016@eventor.orienteering.asn.au
 DTSTAMP:20240715T095657Z
 DTSTART:20240901T003000Z
 DTEND:20240901T023000Z
 SUMMARY:MFR club training, Melbourne Forest Racers
 URL:https://eventor.orienteering.asn.au/Events/Show/21016
-GEO:-36.9852462092067;144.30436851904
+GEO:-36.9690950494097;144.302026582334
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20974@eventor.orienteering.asn.au
-DTSTAMP:20240823T011259Z
+DTSTAMP:20240825T073812Z
 DTSTART:20240901T010000Z
 DTEND:20240901T030000Z
 SUMMARY:Kendall Orienteering, Hastings Orienteering Group
@@ -931,10 +861,10 @@ GEO:-34.7178406471005;135.849697135834
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20937@eventor.orienteering.asn.au
-DTSTAMP:20240609T042652Z
+DTSTAMP:20240825T061906Z
 DTSTART:20240908T060000Z
 DTEND:20240908T060000Z
-SUMMARY:MapRun Parks 2024 - Sherwood Aboreum, Ugly Gully Orienteers
+SUMMARY:MapRun Parks 2024 - Sherwood Aboretum, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20937
 END:VEVENT
 BEGIN:VEVENT
@@ -985,14 +915,6 @@ DTSTART:20240913T140000Z
 DTEND:20240914T140000Z
 SUMMARY:Littlechild Creek, Middle Distance  - OST 12, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/20113
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20810@eventor.orienteering.asn.au
-DTSTAMP:20240504T004742Z
-DTSTART:20240913T140000Z
-DTEND:20240914T140000Z
-SUMMARY:St Helens - OT Presentation Dinner, Orienteering Tasmania
-URL:https://eventor.orienteering.asn.au/Events/Show/20810
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20514@eventor.orienteering.asn.au
@@ -1111,6 +1033,15 @@ DTEND:20240915T050000Z
 SUMMARY:Bush 12 Malmalling NE, Kulgun 225 Orienteers / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/20561
 GEO:-31.883905107661;116.308813845777
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21180@eventor.orienteering.asn.au
+DTSTAMP:20240825T062918Z
+DTSTART:20240915T060000Z
+DTEND:20240915T060000Z
+SUMMARY:MapRun Parks 2024 - Edwards Park, Carindale, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21180
+GEO:-27.5270423367866;153.107272551678
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20483@eventor.orienteering.asn.au
@@ -1264,6 +1195,15 @@ DTEND:20240922T050000Z
 SUMMARY:Bush 13 WA Long Distance Championships, Orienteering WA / Wullundigong Orienteers of the West
 URL:https://eventor.orienteering.asn.au/Events/Show/20578
 GEO:-31.72005;116.63021
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21181@eventor.orienteering.asn.au
+DTSTAMP:20240825T063639Z
+DTSTART:20240922T060000Z
+DTEND:20240922T060000Z
+SUMMARY:MapRun Parks 2024 - Moore Park, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21181
+GEO:-27.4967570572842;152.96447855265
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20484@eventor.orienteering.asn.au
