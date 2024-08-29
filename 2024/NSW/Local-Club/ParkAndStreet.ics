@@ -11,57 +11,6 @@ SUMMARY:Closed series of events for school group, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/21105
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20780@eventor.orienteering.asn.au
-DTSTAMP:20240821T050730Z
-DTSTART:20240821T020000Z
-DTEND:20240821T040000Z
-SUMMARY:ACT Midweek Series: Pine Island, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/20780
-GEO:-35.4281947195931;149.063071112749
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21037@eventor.orienteering.asn.au
-DTSTAMP:20240826T093910Z
-DTSTART:20240821T060000Z
-DTEND:20240821T060000Z
-SUMMARY:2024 Sydney MapRun #5 North Rocks, Garingal Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21037
-GEO:-33.7709611635142;151.039516407395
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21156@eventor.orienteering.asn.au
-DTSTAMP:20240811T225259Z
-DTSTART:20240821T060000Z
-DTEND:20240821T071500Z
-SUMMARY:Woodside Afterschool Orienteering Zone 2, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/21156
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21124@eventor.orienteering.asn.au
-DTSTAMP:20240807T024014Z
-DTSTART:20240821T071500Z
-DTEND:20240821T093000Z
-SUMMARY:TTOC Urban Adventure Night Series 24 - Round 3 - Victoria Park, Totally Tropical Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21124
-GEO:-19.2676056026407;146.824802164803
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21167@eventor.orienteering.asn.au
-DTSTAMP:20240814T041033Z
-DTSTART:20240821T080000Z
-DTEND:20240821T110000Z
-SUMMARY:100 controls at Curtin UNI (Mid-week Training), Orienteering WA
-URL:https://eventor.orienteering.asn.au/Events/Show/21167
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20740@eventor.orienteering.asn.au
-DTSTAMP:20240424T041735Z
-DTSTART:20240821T083000Z
-DTEND:20240821T101500Z
-SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Glen Eira East, Nillumbik Emus Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20740
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21170@eventor.orienteering.asn.au
 DTSTAMP:20240822T060548Z
 DTSTART:20240822T003000Z
@@ -159,6 +108,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20318
 GEO:-27.5922926938529;152.734112279436
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20935@eventor.orienteering.asn.au
+DTSTAMP:20240829T020745Z
+DTSTART:20240824T140000Z
+DTEND:20240825T140000Z
+SUMMARY:MapRun Parks 2024 - Jamboree Heights, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20935
+GEO:-27.5522359705054;152.929699531598
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21142@eventor.orienteering.asn.au
 DTSTAMP:20240811T052434Z
 DTSTART:20240824T143000Z
@@ -219,15 +177,6 @@ DTSTART:20240825T040000Z
 DTEND:20240825T040000Z
 SUMMARY:Crows Nest Park and Bushland, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21120
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20935@eventor.orienteering.asn.au
-DTSTAMP:20240819T051817Z
-DTSTART:20240825T060000Z
-DTEND:20240825T060000Z
-SUMMARY:MapRun Parks 2024 - Jamboree Heights, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20935
-GEO:-27.5522359705054;152.929699531598
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20480@eventor.orienteering.asn.au
@@ -334,7 +283,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21108
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21172@eventor.orienteering.asn.au
-DTSTAMP:20240822T065153Z
+DTSTAMP:20240829T040745Z
 DTSTART:20240829T003000Z
 DTEND:20240829T003000Z
 SUMMARY:Springfield Lakes South, Norfolk St, Springfield Lakes, Orienteering Queensland
@@ -378,7 +327,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21197
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21005@eventor.orienteering.asn.au
-DTSTAMP:20240820T022914Z
+DTSTAMP:20240829T002027Z
 DTSTART:20240830T224000Z
 DTEND:20240831T030000Z
 SUMMARY:BigFoot Sprints Cockatoo Island , Big Foot Orienteers
@@ -457,7 +406,7 @@ GEO:-27.5691703011527;153.161870694204
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20290@eventor.orienteering.asn.au
-DTSTAMP:20240809T085528Z
+DTSTAMP:20240829T001917Z
 DTSTART:20240831T233000Z
 DTEND:20240901T023000Z
 SUMMARY:2024 Metro League #5 - Nurragingy, Big Foot Orienteers
@@ -738,11 +687,12 @@ GEO:-34.7178406471005;135.849697135834
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20937@eventor.orienteering.asn.au
-DTSTAMP:20240825T061906Z
+DTSTAMP:20240829T021031Z
 DTSTART:20240908T060000Z
 DTEND:20240908T060000Z
 SUMMARY:MapRun Parks 2024 - Sherwood Aboretum, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20937
+GEO:-27.5320458202685;152.973294140292
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20482@eventor.orienteering.asn.au
@@ -804,14 +754,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21185
 GEO:-27.6520657776955;153.004418783275
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20113@eventor.orienteering.asn.au
-DTSTAMP:20231229T234509Z
-DTSTART:20240913T140000Z
-DTEND:20240914T140000Z
-SUMMARY:Littlechild Creek, Middle Distance  - OST 12, Australopers
-URL:https://eventor.orienteering.asn.au/Events/Show/20113
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20514@eventor.orienteering.asn.au
 DTSTAMP:20240311T231930Z
 DTSTART:20240913T233000Z
@@ -826,6 +768,15 @@ DTSTART:20240914T003000Z
 DTEND:20240914T030000Z
 SUMMARY:ACT Schools Championships and Public Event, Isaacs Ridge, Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/19564
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20113@eventor.orienteering.asn.au
+DTSTAMP:20240828T235916Z
+DTSTART:20240914T020000Z
+DTEND:20240914T020000Z
+SUMMARY:Littlechild Creek, Middle Distance  - OST 12, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/20113
+GEO:-41.255889;148.180423
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21190@eventor.orienteering.asn.au
@@ -920,10 +871,11 @@ DTSTART:20240915T003000Z
 DTEND:20240915T033000Z
 SUMMARY:Whyalla East, Saltbush Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20314
+GEO:-33.0404348293361;137.584847105927
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20561@eventor.orienteering.asn.au
-DTSTAMP:20240827T120136Z
+DTSTAMP:20240829T084900Z
 DTSTART:20240915T013000Z
 DTEND:20240915T050000Z
 SUMMARY:Bush 12 Malmalling NE, Kulgun 225 Orienteers / Orienteering WA
@@ -1203,5 +1155,14 @@ DTEND:20241006T010000Z
 SUMMARY:Independent Athlete Development Camp Aus Champs 2024, Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/20925
 GEO:-30.4546286806055;151.823297760616
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19301@eventor.orienteering.asn.au
+DTSTAMP:20240509T204818Z
+DTSTART:20240927T140000Z
+DTEND:20240928T140000Z
+SUMMARY:1- Australian Middle Distance Championship, Bennelong Northside Orienteers / Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/19301
+GEO:-30.7449372228945;151.396658077135
 END:VEVENT
 END:VCALENDAR
