@@ -11,23 +11,6 @@ SUMMARY:Closed series of events for school group, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/21105
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21170@eventor.orienteering.asn.au
-DTSTAMP:20240822T060548Z
-DTSTART:20240822T003000Z
-DTEND:20240822T003000Z
-SUMMARY:Grange Forest Park, Grange (Flags), Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/21170
-GEO:-27.4175495138463;153.000170224471
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20983@eventor.orienteering.asn.au
-DTSTAMP:20240702T002954Z
-DTSTART:20240822T061500Z
-DTEND:20240822T073000Z
-SUMMARY:Central Adelaide Schools zone - Event 10 Burnside PS, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/20983
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21049@eventor.orienteering.asn.au
 DTSTAMP:20240726T054548Z
 DTSTART:20240823T061500Z
@@ -301,8 +284,8 @@ GEO:-41.7019959243941;147.835078267879
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21099@eventor.orienteering.asn.au
-DTSTAMP:20240824T003413Z
-DTSTART:20240830T140000Z
+DTSTAMP:20240830T122348Z
+DTSTART:20240830T003000Z
 DTEND:20240830T140000Z
 SUMMARY:SA Schools Relay Championships 2024 Lochiel Park, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/21099
@@ -458,16 +441,16 @@ GEO:-35.496819728363;149.258813421871
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20124@eventor.orienteering.asn.au
-DTSTAMP:20240815T233221Z
+DTSTAMP:20240830T014218Z
 DTSTART:20240901T000000Z
 DTEND:20240901T023000Z
-SUMMARY:Geilston Gully - Southern Local #10, Australopers
+SUMMARY:Geilston Gully - Southern Local #10  *** POSTPONED , Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/20124
 GEO:-42.835070798062;147.350877701485
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21110@eventor.orienteering.asn.au
-DTSTAMP:20240826T081646Z
+DTSTAMP:20240830T015042Z
 DTSTART:20240901T000000Z
 DTEND:20240901T023000Z
 SUMMARY:Goldseekers Bush #7 - Khalis Rocks, Goldseekers Orienteers
@@ -485,10 +468,10 @@ GEO:-35.1163025455301;147.296582208989
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20813@eventor.orienteering.asn.au
-DTSTAMP:20240825T092414Z
+DTSTAMP:20240830T084812Z
 DTSTART:20240901T003000Z
 DTEND:20240901T003000Z
-SUMMARY:Tiagarra - Northwest Local Series #6, Pathfinders
+SUMMARY:Tiagarra - Northwest Local Series #6 *** POSTPONED, Pathfinders
 URL:https://eventor.orienteering.asn.au/Events/Show/20813
 GEO:-41.1623554064531;146.339155318122
 END:VEVENT
@@ -755,11 +738,12 @@ GEO:-27.6520657776955;153.004418783275
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20514@eventor.orienteering.asn.au
-DTSTAMP:20240311T231930Z
+DTSTAMP:20240830T080333Z
 DTSTART:20240913T233000Z
 DTEND:20240914T020000Z
-SUMMARY:SOS Northside, Bold Horizons Event Organiser
+SUMMARY:SOS - Lane Cove, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/20514
+GEO:-33.813148;151.144351
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19564@eventor.orienteering.asn.au
@@ -780,7 +764,7 @@ GEO:-41.255889;148.180423
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21190@eventor.orienteering.asn.au
-DTSTAMP:20240827T073638Z
+DTSTAMP:20240830T055408Z
 DTSTART:20240914T023000Z
 DTEND:20240914T080000Z
 SUMMARY:Aus Champs training day- Hill Park Dale, Orienteering WA
@@ -875,7 +859,7 @@ GEO:-33.0404348293361;137.584847105927
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20561@eventor.orienteering.asn.au
-DTSTAMP:20240829T084900Z
+DTSTAMP:20240830T100316Z
 DTSTART:20240915T013000Z
 DTEND:20240915T050000Z
 SUMMARY:Bush 12 Malmalling NE, Kulgun 225 Orienteers / Orienteering WA
@@ -959,11 +943,12 @@ GEO:-27.483014006192;153.115024138744
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20515@eventor.orienteering.asn.au
-DTSTAMP:20240311T232056Z
+DTSTAMP:20240830T080833Z
 DTSTART:20240920T233000Z
 DTEND:20240921T020000Z
-SUMMARY:SOS Northside, Bold Horizons Event Organiser
+SUMMARY:SOS - Willoughby, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/20515
+GEO:-33.811954;151.20345
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21168@eventor.orienteering.asn.au
@@ -1164,5 +1149,50 @@ DTEND:20240928T140000Z
 SUMMARY:1- Australian Middle Distance Championship, Bennelong Northside Orienteers / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/19301
 GEO:-30.7449372228945;151.396658077135
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20418@eventor.orienteering.asn.au
+DTSTAMP:20240308T184600Z
+DTSTART:20240928T140000Z
+DTEND:20240929T140000Z
+SUMMARY:2A- Australian Relay Championship - Individual Entries , Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/20418
+GEO:-30.7449192006412;151.396824965561
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19312@eventor.orienteering.asn.au
+DTSTAMP:20240705T075744Z
+DTSTART:20240928T140000Z
+DTEND:20240929T140000Z
+SUMMARY:2B  Australian Relay Championship- State & Team Selectors only, Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/19312
+GEO:-30.7444093283071;151.397095586129
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19699@eventor.orienteering.asn.au
+DTSTAMP:20240323T035109Z
+DTSTART:20240928T140000Z
+DTEND:20240929T140000Z
+SUMMARY:Karringal MTBO, Multi Terrain Bike Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19699
+GEO:-27.6012361019582;153.228495150615
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21182@eventor.orienteering.asn.au
+DTSTAMP:20240825T064020Z
+DTSTART:20240929T060000Z
+DTEND:20240929T060000Z
+SUMMARY:MapRun Parks 2024 - Mercer Park, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21182
+GEO:-27.404835;153.046615
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21112@eventor.orienteering.asn.au
+DTSTAMP:20240827T234831Z
+DTSTART:20240929T080000Z
+DTEND:20240929T080000Z
+SUMMARY:AOC Carnival Dinner, Bennelong Northside Orienteers / Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21112
+GEO:-30.514325426041;151.670060378633
 END:VEVENT
 END:VCALENDAR
