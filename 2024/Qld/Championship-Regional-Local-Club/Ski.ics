@@ -11,23 +11,6 @@ SUMMARY:Closed series of events for school group, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/21105
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20342@eventor.orienteering.asn.au
-DTSTAMP:20240827T111018Z
-DTSTART:20240826T140000Z
-DTEND:20240827T140000Z
-SUMMARY:Night Nav - Norman Creek - Term 3 Series Event #7, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20342
-GEO:-27.4885907231622;153.063152880254
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21158@eventor.orienteering.asn.au
-DTSTAMP:20240811T232720Z
-DTSTART:20240827T060000Z
-DTEND:20240827T071500Z
-SUMMARY:Heathfield Afterschool Training Zone 2  , Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/21158
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20781@eventor.orienteering.asn.au
 DTSTAMP:20240828T051445Z
 DTSTART:20240828T015900Z
@@ -361,7 +344,7 @@ GEO:-27.4515365117022;152.980990740474
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20782@eventor.orienteering.asn.au
-DTSTAMP:20240819T001309Z
+DTSTAMP:20240904T044542Z
 DTSTART:20240904T020000Z
 DTEND:20240904T040000Z
 SUMMARY:ACT Midweek Series: Bluetts West, Orienteering ACT
@@ -431,10 +414,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20750
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20541@eventor.orienteering.asn.au
-DTSTAMP:20240816T104611Z
+DTSTAMP:20240904T021522Z
 DTSTART:20240907T230000Z
 DTEND:20240908T030000Z
-SUMMARY:OY2 - Balara (Camel Farm) near Wivenhoe, Range Runners Orienteering Club
+SUMMARY:OY2 - Balara Homestead (Camel Farm) - Wivenhoe, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20541
 GEO:-27.3564635584942;152.50421661543
 END:VEVENT
@@ -571,7 +554,7 @@ GEO:-41.255889;148.180423
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21190@eventor.orienteering.asn.au
-DTSTAMP:20240830T055408Z
+DTSTAMP:20240904T120357Z
 DTSTART:20240914T023000Z
 DTEND:20240914T080000Z
 SUMMARY:Aus Champs training day- Hill Park Dale, Orienteering WA
@@ -822,7 +805,7 @@ GEO:-34.0682419603806;150.85135344209
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19715@eventor.orienteering.asn.au
-DTSTAMP:20240805T013653Z
+DTSTAMP:20240904T005839Z
 DTSTART:20240922T000000Z
 DTEND:20240922T040000Z
 SUMMARY:Vic Long Distance Championships - Nuggety Range, Maldon, Yarra Valley Orienteering Club
@@ -965,7 +948,7 @@ UID:Event_20418@eventor.orienteering.asn.au
 DTSTAMP:20240308T184600Z
 DTSTART:20240928T140000Z
 DTEND:20240929T140000Z
-SUMMARY:2A- Australian Relay Championship - Individual Entries , Orienteering NSW
+SUMMARY:2A- Australian Relay Championship - Individual Entries , Orienteering NSW / Orienteering Victoria
 URL:https://eventor.orienteering.asn.au/Events/Show/20418
 GEO:-30.7449192006412;151.396824965561
 END:VEVENT
@@ -1049,5 +1032,23 @@ DTEND:20241002T140000Z
 SUMMARY:Australian Schools Long Championships - ENTRY BY INDEPENDENT STUDENTS, Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/20249
 GEO:-30.429306992705;151.330683606282
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19307@eventor.orienteering.asn.au
+DTSTAMP:20240703T065431Z
+DTSTART:20241002T140000Z
+DTEND:20241003T140000Z
+SUMMARY:5A- Australian Schools Relay Championships  Entry  -FOR  STATE TEAM MANAGERS ONLY, Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/19307
+GEO:-30.425648;151.333914
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20250@eventor.orienteering.asn.au
+DTSTAMP:20240308T191438Z
+DTSTART:20241002T140000Z
+DTEND:20241003T140000Z
+SUMMARY:Australian Schools Relay Championships - ENTRY BY INDEPENDENT STUDENTS, Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/20250
+GEO:-30.425648;151.333914
 END:VEVENT
 END:VCALENDAR
