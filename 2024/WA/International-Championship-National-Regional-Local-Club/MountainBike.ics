@@ -11,24 +11,6 @@ SUMMARY:Closed series of events for school group, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/21105
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20781@eventor.orienteering.asn.au
-DTSTAMP:20240828T051445Z
-DTSTART:20240828T015900Z
-DTEND:20240828T040000Z
-SUMMARY:ACT Midweek Series: Ginninderra Creek, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/20781
-GEO:-35.2118538765104;149.026317871933
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21126@eventor.orienteering.asn.au
-DTSTAMP:20240807T030413Z
-DTSTART:20240828T030000Z
-DTEND:20240828T050000Z
-SUMMARY:Wagga HomeSchooled Children's Group Orienteering Day, Wagga and Riverina Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21126
-GEO:-35.1340928574741;147.365244259248
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20997@eventor.orienteering.asn.au
 DTSTAMP:20240901T221631Z
 DTSTART:20240828T060000Z
@@ -36,23 +18,6 @@ DTEND:20240901T060000Z
 SUMMARY:2024 Sydney MapRun #6 Middle Head, Bennelong Northside Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20997
 GEO:-33.827344148735;151.261437612722
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21125@eventor.orienteering.asn.au
-DTSTAMP:20240807T024238Z
-DTSTART:20240828T071500Z
-DTEND:20240828T093000Z
-SUMMARY:TTOC Urban Adventure Night Series 24 - Round 4 - Strand Park, Totally Tropical Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21125
-GEO:-19.2456798421873;146.810416195337
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20741@eventor.orienteering.asn.au
-DTSTAMP:20240424T041909Z
-DTSTART:20240828T083000Z
-DTEND:20240828T101500Z
-SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Whosedale, Dandenong Ranges Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20741
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21108@eventor.orienteering.asn.au
@@ -178,7 +143,7 @@ GEO:-36.7846030705115;145.152990384485
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19864@eventor.orienteering.asn.au
-DTSTAMP:20240901T203617Z
+DTSTAMP:20240905T105609Z
 DTSTART:20240831T230000Z
 DTEND:20240901T023000Z
 SUMMARY:OY9 - Priest Gully, Ugly Gully Orienteers
@@ -370,7 +335,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20742
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21191@eventor.orienteering.asn.au
-DTSTAMP:20240827T103853Z
+DTSTAMP:20240905T094415Z
 DTSTART:20240905T003000Z
 DTEND:20240905T023000Z
 SUMMARY:Roma Street Parklands, Orienteering Queensland
@@ -441,7 +406,7 @@ GEO:-37.7478107743048;145.166463823825
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19506@eventor.orienteering.asn.au
-DTSTAMP:20240903T011510Z
+DTSTAMP:20240904T231113Z
 DTSTART:20240908T003000Z
 DTEND:20240908T040000Z
 SUMMARY:SA Middle Distance Championships Wirreanda Farm, Wallaringa Orienteering Club
@@ -727,10 +692,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20744
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19690@eventor.orienteering.asn.au
-DTSTAMP:20240903T020657Z
+DTSTAMP:20240905T010536Z
 DTSTART:20240919T003000Z
 DTEND:20240919T013000Z
-SUMMARY:Minnippi Parklands, Tingalpa, Orienteering Queensland
+SUMMARY:Minnippi Parklands, Tingalpa BCC Sponsored Event, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19690
 GEO:-27.483014006192;153.115024138744
 END:VEVENT
@@ -779,11 +744,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20752
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20723@eventor.orienteering.asn.au
-DTSTAMP:20240729T212217Z
+DTSTAMP:20240905T131828Z
 DTSTART:20240921T040000Z
 DTEND:20240921T060000Z
 SUMMARY:Kirrawee , Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20723
+GEO:-34.0396842578619;151.065879352892
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21144@eventor.orienteering.asn.au
@@ -805,7 +771,7 @@ GEO:-34.0682419603806;150.85135344209
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19715@eventor.orienteering.asn.au
-DTSTAMP:20240904T005839Z
+DTSTAMP:20240905T050718Z
 DTSTART:20240922T000000Z
 DTEND:20240922T040000Z
 SUMMARY:Vic Long Distance Championships - Nuggety Range, Maldon, Yarra Valley Orienteering Club
