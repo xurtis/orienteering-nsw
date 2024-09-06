@@ -20,23 +20,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20997
 GEO:-33.827344148735;151.261437612722
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21108@eventor.orienteering.asn.au
-DTSTAMP:20240805T035222Z
-DTSTART:20240828T230000Z
-DTEND:20240829T043000Z
-SUMMARY:Closed event for school group, Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/21108
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21172@eventor.orienteering.asn.au
-DTSTAMP:20240829T040745Z
-DTSTART:20240829T003000Z
-DTEND:20240829T003000Z
-SUMMARY:Springfield Lakes South, Norfolk St, Springfield Lakes, Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/21172
-GEO:-27.6821272926077;152.924250277402
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20961@eventor.orienteering.asn.au
 DTSTAMP:20240719T225036Z
 DTSTART:20240829T140000Z
@@ -239,6 +222,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21016
 GEO:-36.9690950494097;144.302026582334
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_21242@eventor.orienteering.asn.au
+DTSTAMP:20240906T075340Z
+DTSTART:20240901T003000Z
+DTEND:20240901T033000Z
+SUMMARY:SYP Learn to Orienteer  - Practice Event - Currumulka PS - Father's Day , Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/21242
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20974@eventor.orienteering.asn.au
 DTSTAMP:20240901T034259Z
 DTSTART:20240901T010000Z
@@ -362,7 +353,7 @@ GEO:-36.5530550731157;143.703194982225
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19591@eventor.orienteering.asn.au
-DTSTAMP:20240831T222421Z
+DTSTAMP:20240905T204847Z
 DTSTART:20240907T023000Z
 DTEND:20240907T053000Z
 SUMMARY:2024 NSW Middle Distance Championships (SL #16), Bennelong Northside Orienteers / Orienteering NSW / Uringa Orienteers
@@ -379,16 +370,16 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20750
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20541@eventor.orienteering.asn.au
-DTSTAMP:20240904T021522Z
+DTSTAMP:20240906T065808Z
 DTSTART:20240907T230000Z
 DTEND:20240908T030000Z
-SUMMARY:OY2 - Balara Homestead (Camel Farm) - Wivenhoe, Range Runners Orienteering Club
+SUMMARY:OY2 - Balara Homestead - Camel Farm - Wivenhoe, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20541
 GEO:-27.3564635584942;152.50421661543
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19520@eventor.orienteering.asn.au
-DTSTAMP:20240831T222453Z
+DTSTAMP:20240905T205030Z
 DTSTART:20240907T233000Z
 DTEND:20240908T040000Z
 SUMMARY:2024 NSW Long Distance Championships (SL #17), Bennelong Northside Orienteers / Orienteering NSW / Uringa Orienteers
@@ -405,8 +396,17 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20373
 GEO:-37.7478107743048;145.166463823825
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_21243@eventor.orienteering.asn.au
+DTSTAMP:20240906T081313Z
+DTSTART:20240908T003000Z
+DTEND:20240908T033000Z
+SUMMARY:SYP Learn to Orienteer  - Practice Event - Stansbury PS , Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/21243
+GEO:-34.907610882237;137.795026898498
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_19506@eventor.orienteering.asn.au
-DTSTAMP:20240904T231113Z
+DTSTAMP:20240906T100749Z
 DTSTART:20240908T003000Z
 DTEND:20240908T040000Z
 SUMMARY:SA Middle Distance Championships Wirreanda Farm, Wallaringa Orienteering Club
@@ -536,7 +536,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20751
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20404@eventor.orienteering.asn.au
-DTSTAMP:20240731T002215Z
+DTSTAMP:20240906T001939Z
 DTSTART:20240914T050000Z
 DTEND:20240914T050000Z
 SUMMARY:Denmark Hill (New Map), Ipswich, Ugly Gully Orienteers
@@ -604,6 +604,15 @@ DTEND:20240915T030000Z
 SUMMARY:Mt Pearson - Tas Long Distance Championships, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/20809
 GEO:-41.277;148.254
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21244@eventor.orienteering.asn.au
+DTSTAMP:20240906T082517Z
+DTSTART:20240915T003000Z
+DTEND:20240915T033000Z
+SUMMARY:SYP Learn to Orienteer  3  - Yorketown Area School , Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/21244
+GEO:-35.0168062219404;137.614737893408
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20314@eventor.orienteering.asn.au
@@ -777,6 +786,14 @@ DTEND:20240922T040000Z
 SUMMARY:Vic Long Distance Championships - Nuggety Range, Maldon, Yarra Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19715
 GEO:-36.9789866471355;144.071980495
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21245@eventor.orienteering.asn.au
+DTSTAMP:20240906T082914Z
+DTSTART:20240922T003000Z
+DTEND:20240922T033000Z
+SUMMARY:SYP Learn to Orienteer  - Practice Event - Warooka PS 2 , Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/21245
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20247@eventor.orienteering.asn.au
@@ -1016,5 +1033,14 @@ DTEND:20241003T140000Z
 SUMMARY:Australian Schools Relay Championships - ENTRY BY INDEPENDENT STUDENTS, Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/20250
 GEO:-30.425648;151.333914
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19309@eventor.orienteering.asn.au
+DTSTAMP:20240509T204918Z
+DTSTART:20241004T140000Z
+DTEND:20241005T140000Z
+SUMMARY:6- Australian Long Distance Championship, Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/19309
+GEO:-30.7449192006412;151.396824965561
 END:VEVENT
 END:VCALENDAR
