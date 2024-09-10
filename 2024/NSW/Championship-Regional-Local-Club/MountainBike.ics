@@ -11,39 +11,6 @@ SUMMARY:Closed series of events for school group, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/21105
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20834@eventor.orienteering.asn.au
-DTSTAMP:20240812T053551Z
-DTSTART:20240901T140000Z
-DTEND:20240902T140000Z
-SUMMARY:NSW Running Shirts (New design) - order now!, Newcastle Orienteering Club / Orienteering NSW
-URL:https://eventor.orienteering.asn.au/Events/Show/20834
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21107@eventor.orienteering.asn.au
-DTSTAMP:20240805T034546Z
-DTSTART:20240901T224500Z
-DTEND:20240902T040000Z
-SUMMARY:Closed event for school students, Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/21107
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20481@eventor.orienteering.asn.au
-DTSTAMP:20240903T075913Z
-DTSTART:20240902T070000Z
-DTEND:20240902T100000Z
-SUMMARY:ACT MapRun Street Series: Curtin, 29 Aug-2 Sep, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/20481
-GEO:-35.3264283550037;149.081248330207
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20734@eventor.orienteering.asn.au
-DTSTAMP:20240424T023743Z
-DTSTART:20240902T083000Z
-DTEND:20240902T101500Z
-SUMMARY:Melbourne Park Street Monday Night Series - Gently Bentleigh, Orienteering Victoria
-URL:https://eventor.orienteering.asn.au/Events/Show/20734
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20343@eventor.orienteering.asn.au
 DTSTAMP:20240903T113620Z
 DTSTART:20240902T140000Z
@@ -89,7 +56,7 @@ GEO:-27.4618165636544;153.017790738054
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20940@eventor.orienteering.asn.au
-DTSTAMP:20240909T050436Z
+DTSTAMP:20240910T035200Z
 DTSTART:20240906T003000Z
 DTEND:20240906T003000Z
 SUMMARY:Victorian Schools MTB Orienteering Championships, Macedon Regional Park, Orienteering Victoria
@@ -187,7 +154,7 @@ GEO:-27.5320458202685;152.973294140292
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20482@eventor.orienteering.asn.au
-DTSTAMP:20240611T000432Z
+DTSTAMP:20240910T073119Z
 DTSTART:20240909T070000Z
 DTEND:20240909T100000Z
 SUMMARY:ACT MapRun Street Series: Harrison, 5-9 Sep, Orienteering ACT
@@ -256,7 +223,7 @@ GEO:-27.6520657776955;153.004418783275
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20514@eventor.orienteering.asn.au
-DTSTAMP:20240906T225603Z
+DTSTAMP:20240909T153558Z
 DTSTART:20240913T233000Z
 DTEND:20240914T020000Z
 SUMMARY:SOS - Lane Cove, Bold Horizons Event Organiser
@@ -265,7 +232,7 @@ GEO:-33.813148;151.144351
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19564@eventor.orienteering.asn.au
-DTSTAMP:20240826T035517Z
+DTSTAMP:20240910T070122Z
 DTSTART:20240914T003000Z
 DTEND:20240914T030000Z
 SUMMARY:ACT Schools Championships and Public Event, Isaacs Ridge, Red Roos
@@ -866,5 +833,23 @@ DTSTART:20241008T080000Z
 DTEND:20241008T080000Z
 SUMMARY:Night Nav - Moffat Beach, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21253
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21187@eventor.orienteering.asn.au
+DTSTAMP:20240830T211124Z
+DTSTART:20241009T043000Z
+DTEND:20241009T083000Z
+SUMMARY:2024/25 Sydney Summer Series #1 – Watsons Bay, Western and Hills Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21187
+GEO:-33.8457158373269;151.283848324756
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21266@eventor.orienteering.asn.au
+DTSTAMP:20240909T025553Z
+DTSTART:20241009T060000Z
+DTEND:20241009T090000Z
+SUMMARY:ACT MapRun Street Series: Hall Village, 3-9 Oct, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/21266
+GEO:-35.1717301558775;149.069243602444
 END:VEVENT
 END:VCALENDAR
