@@ -11,15 +11,6 @@ SUMMARY:Closed series of events for school group, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/21105
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20343@eventor.orienteering.asn.au
-DTSTAMP:20240903T113620Z
-DTSTART:20240902T140000Z
-DTEND:20240903T140000Z
-SUMMARY:Night Nav - Bardon - Term 3 Series Event #8, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20343
-GEO:-27.4515365117022;152.980990740474
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20782@eventor.orienteering.asn.au
 DTSTAMP:20240904T044542Z
 DTSTART:20240904T020000Z
@@ -56,7 +47,7 @@ GEO:-27.4618165636544;153.017790738054
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20940@eventor.orienteering.asn.au
-DTSTAMP:20240910T035200Z
+DTSTAMP:20240911T051404Z
 DTSTART:20240906T003000Z
 DTEND:20240906T003000Z
 SUMMARY:Victorian Schools MTB Orienteering Championships, Macedon Regional Park, Orienteering Victoria
@@ -171,9 +162,9 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20735
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21196@eventor.orienteering.asn.au
-DTSTAMP:20240828T050424Z
-DTSTART:20240910T080000Z
-DTEND:20240910T080000Z
+DTSTAMP:20240910T234004Z
+DTSTART:20240909T140000Z
+DTEND:20240910T140000Z
 SUMMARY:Night Nav - Peregian Springs, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21196
 GEO:-26.4921209547888;153.064556386619
@@ -188,7 +179,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21257
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20783@eventor.orienteering.asn.au
-DTSTAMP:20240909T002505Z
+DTSTAMP:20240911T100012Z
 DTSTART:20240911T020000Z
 DTEND:20240911T040000Z
 SUMMARY:ACT Midweek Series: Jerrabomberra, Orienteering ACT
@@ -458,11 +449,12 @@ GEO:-33.811954;151.20345
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21168@eventor.orienteering.asn.au
-DTSTAMP:20240826T052010Z
+DTSTAMP:20240910T223759Z
 DTSTART:20240920T233000Z
 DTEND:20240921T020000Z
 SUMMARY:Willoughby Emerge Festival Orienteering, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21168
+GEO:-33.8117592651544;151.203146987192
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19565@eventor.orienteering.asn.au
@@ -475,9 +467,9 @@ GEO:-35.3149818542666;149.096776385394
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19865@eventor.orienteering.asn.au
-DTSTAMP:20240909T023218Z
+DTSTAMP:20240910T213529Z
 DTSTART:20240921T023000Z
-DTEND:20240922T020000Z
+DTEND:20240922T040000Z
 SUMMARY:OY10 + OY11 Qld Long Distance Champs - Stanthorpe, Bullecourt Boulder Bounders / Orienteering Queensland / Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19865
 GEO:-28.4651322414292;151.992593189662
@@ -536,7 +528,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21245
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20247@eventor.orienteering.asn.au
-DTSTAMP:20240823T100039Z
+DTSTAMP:20240911T115820Z
 DTSTART:20240922T010000Z
 DTEND:20240922T010000Z
 SUMMARY:SA Interclub Relays - Moon Rocks, SA Arrows
@@ -748,11 +740,12 @@ GEO:-30.5216309515829;151.67355221485
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21254@eventor.orienteering.asn.au
-DTSTAMP:20240907T015638Z
+DTSTAMP:20240911T005814Z
 DTSTART:20241001T080000Z
 DTEND:20241001T080000Z
 SUMMARY:Night Nav - Noosa Waters, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21254
+GEO:-26.4081375062103;153.05779042738
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19305@eventor.orienteering.asn.au
