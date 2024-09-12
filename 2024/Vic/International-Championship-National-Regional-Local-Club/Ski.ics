@@ -11,15 +11,6 @@ SUMMARY:Closed series of events for school group, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/21105
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20782@eventor.orienteering.asn.au
-DTSTAMP:20240904T044542Z
-DTSTART:20240904T020000Z
-DTEND:20240904T040000Z
-SUMMARY:ACT Midweek Series: Bluetts West, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/20782
-GEO:-35.2999784616191;149.008861990206
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21169@eventor.orienteering.asn.au
 DTSTAMP:20240909T103554Z
 DTSTART:20240904T060000Z
@@ -27,14 +18,6 @@ DTEND:20240908T135900Z
 SUMMARY:2024 Sydney MapRun #7 Annandale, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21169
 GEO:-33.876182343579;151.169424702734
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20742@eventor.orienteering.asn.au
-DTSTAMP:20240424T042150Z
-DTSTART:20240904T083000Z
-DTEND:20240904T101500Z
-SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Ashwood North, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20742
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21191@eventor.orienteering.asn.au
@@ -205,7 +188,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20743
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21185@eventor.orienteering.asn.au
-DTSTAMP:20240826T012112Z
+DTSTAMP:20240912T093414Z
 DTSTART:20240912T003000Z
 DTEND:20240912T020000Z
 SUMMARY:Mid week - Glider Forest, Parkinson (Maprun with flags), Orienteering Queensland
@@ -223,11 +206,12 @@ GEO:-33.813148;151.144351
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19564@eventor.orienteering.asn.au
-DTSTAMP:20240910T070122Z
+DTSTAMP:20240912T021941Z
 DTSTART:20240914T003000Z
 DTEND:20240914T030000Z
 SUMMARY:ACT Schools Championships and Public Event, Isaacs Ridge, Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/19564
+GEO:-35.3765503326884;149.113970948677
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20113@eventor.orienteering.asn.au
@@ -284,7 +268,7 @@ GEO:-27.909065582337;153.319301312087
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20291@eventor.orienteering.asn.au
-DTSTAMP:20240822T105525Z
+DTSTAMP:20240912T115242Z
 DTSTART:20240914T233000Z
 DTEND:20240914T233000Z
 SUMMARY:2024 Metro League #6 - Excelsior, Western and Hills Orienteers
@@ -319,7 +303,7 @@ GEO:-35.3218952233822;149.054001040996
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20809@eventor.orienteering.asn.au
-DTSTAMP:20240831T055026Z
+DTSTAMP:20240912T000237Z
 DTSTART:20240915T000000Z
 DTEND:20240915T030000Z
 SUMMARY:Mt Pearson - Tas Long Distance Championships, Esk Valley
@@ -449,7 +433,7 @@ GEO:-33.811954;151.20345
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21168@eventor.orienteering.asn.au
-DTSTAMP:20240910T223759Z
+DTSTAMP:20240912T062731Z
 DTSTART:20240920T233000Z
 DTEND:20240921T020000Z
 SUMMARY:Willoughby Emerge Festival Orienteering, Garingal Orienteers
@@ -838,7 +822,7 @@ GEO:-33.8457158373269;151.283848324756
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21266@eventor.orienteering.asn.au
-DTSTAMP:20240909T025553Z
+DTSTAMP:20240912T122722Z
 DTSTART:20241009T060000Z
 DTEND:20241009T090000Z
 SUMMARY:ACT MapRun Street Series: Hall Village, 3-9 Oct, Orienteering ACT
