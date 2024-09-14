@@ -20,15 +20,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21169
 GEO:-33.876182343579;151.169424702734
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20940@eventor.orienteering.asn.au
-DTSTAMP:20240911T051404Z
-DTSTART:20240906T003000Z
-DTEND:20240906T003000Z
-SUMMARY:Victorian Schools MTB Orienteering Championships, Macedon Regional Park, Orienteering Victoria
-URL:https://eventor.orienteering.asn.au/Events/Show/20940
-GEO:-37.4174762940674;144.572645180154
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20067@eventor.orienteering.asn.au
 DTSTAMP:20240907T080314Z
 DTSTART:20240907T023000Z
@@ -206,7 +197,7 @@ GEO:-33.813148;151.144351
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19564@eventor.orienteering.asn.au
-DTSTAMP:20240912T021941Z
+DTSTAMP:20240914T015015Z
 DTSTART:20240914T003000Z
 DTEND:20240914T030000Z
 SUMMARY:ACT Schools Championships and Public Event, Isaacs Ridge, Red Roos
@@ -215,7 +206,7 @@ GEO:-35.3765503326884;149.113970948677
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20113@eventor.orienteering.asn.au
-DTSTAMP:20240909T114204Z
+DTSTAMP:20240914T084913Z
 DTSTART:20240914T020000Z
 DTEND:20240914T020000Z
 SUMMARY:Littlechild Creek, Middle Distance  - OST 12, Australopers
@@ -224,7 +215,7 @@ GEO:-41.255889;148.180423
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21190@eventor.orienteering.asn.au
-DTSTAMP:20240913T085048Z
+DTSTAMP:20240914T110753Z
 DTSTART:20240914T023000Z
 DTEND:20240914T080000Z
 SUMMARY:Aus Champs training day- Hill Park Dale, Orienteering WA
@@ -241,7 +232,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20751
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20404@eventor.orienteering.asn.au
-DTSTAMP:20240913T040221Z
+DTSTAMP:20240914T070203Z
 DTSTART:20240914T050000Z
 DTEND:20240914T050000Z
 SUMMARY:Denmark Hill (New Map), Ipswich, Ugly Gully Orienteers
@@ -452,7 +443,7 @@ GEO:-35.3149818542666;149.096776385394
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19865@eventor.orienteering.asn.au
-DTSTAMP:20240910T213529Z
+DTSTAMP:20240914T014322Z
 DTSTART:20240921T023000Z
 DTEND:20240922T040000Z
 SUMMARY:OY10 + OY11 Qld Long Distance Champs - Stanthorpe, Bullecourt Boulder Bounders / Orienteering Queensland / Range Runners Orienteering Club
@@ -469,10 +460,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20752
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20723@eventor.orienteering.asn.au
-DTSTAMP:20240905T131828Z
+DTSTAMP:20240913T145140Z
 DTSTART:20240921T040000Z
 DTEND:20240921T060000Z
-SUMMARY:Kirrawee , Illawarra Kareelah Orienteers
+SUMMARY:Kirrawee - Sydney South, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20723
 GEO:-34.0396842578619;151.065879352892
 END:VEVENT
@@ -496,7 +487,7 @@ GEO:-34.0682419603806;150.85135344209
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19715@eventor.orienteering.asn.au
-DTSTAMP:20240905T050718Z
+DTSTAMP:20240914T115633Z
 DTSTART:20240922T000000Z
 DTEND:20240922T040000Z
 SUMMARY:Vic Long Distance Championships - Nuggety Range, Maldon, Yarra Valley Orienteering Club
@@ -899,5 +890,85 @@ DTEND:20241012T093000Z
 SUMMARY:NightNav - Gold Coast - #2 Pacific Pines, Paradise Lost Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21281
 GEO:-27.9264050282308;153.302331472945
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20584@eventor.orienteering.asn.au
+DTSTAMP:20240322T035631Z
+DTSTART:20241012T130000Z
+DTEND:20241013T130000Z
+SUMMARY:Jump In! Spooky Orienteering at Tarantula Park - Free Activity Day, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20584
+GEO:-37.9447484746518;145.219484889428
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20814@eventor.orienteering.asn.au
+DTSTAMP:20240504T005708Z
+DTSTART:20241012T130000Z
+DTEND:20241013T130000Z
+SUMMARY:TBA - Northwest Local Series #7, Pathfinders
+URL:https://eventor.orienteering.asn.au/Events/Show/20814
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21278@eventor.orienteering.asn.au
+DTSTAMP:20240909T042626Z
+DTSTART:20241012T140000Z
+DTEND:20241013T033000Z
+SUMMARY:Ballarat Classics Series #6 - Mt Franklin Gorge, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21278
+GEO:-37.2341822907917;144.177401964929
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21285@eventor.orienteering.asn.au
+DTSTAMP:20240909T132259Z
+DTSTART:20241012T143000Z
+DTEND:20241013T143000Z
+SUMMARY:NT: Alice Springs Masters Games Night Orienteering - see ASMG website, Top End Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21285
+GEO:-12.4717361550865;131.039373720406
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19552@eventor.orienteering.asn.au
+DTSTAMP:20240531T074626Z
+DTSTART:20241012T210000Z
+DTEND:20241012T210000Z
+SUMMARY:Sydney City Race, Bennelong Northside Orienteers / Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/19552
+GEO:-33.8675909475717;151.208696897829
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20395@eventor.orienteering.asn.au
+DTSTAMP:20240914T012627Z
+DTSTART:20241012T230000Z
+DTEND:20241013T010000Z
+SUMMARY:Bush Trail Orienteering at Hinterland Regional Park, Mudgeeraba, Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20395
+GEO:-28.0927717422351;153.355972060276
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19816@eventor.orienteering.asn.au
+DTSTAMP:20231117T082825Z
+DTSTART:20241012T230000Z
+DTEND:20241013T023000Z
+SUMMARY:Waggaroos - AWOC Interclub #6, Little Burngoogee, Wagga and Riverina Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19816
+GEO:-35.5128217098444;147.601403356841
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21246@eventor.orienteering.asn.au
+DTSTAMP:20240906T083308Z
+DTSTART:20241012T233000Z
+DTEND:20241013T023000Z
+SUMMARY:SYP Learn to Orienteer 4 - Minlaton District School , Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/21246
+GEO:-34.7661036927724;137.593056079756
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21183@eventor.orienteering.asn.au
+DTSTAMP:20240825T071521Z
+DTSTART:20241013T060000Z
+DTEND:20241013T060000Z
+SUMMARY:MapRun Parks 2024 - Biami Yumba Park, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21183
+GEO:-27.5390321315173;152.96741894546
 END:VEVENT
 END:VCALENDAR
