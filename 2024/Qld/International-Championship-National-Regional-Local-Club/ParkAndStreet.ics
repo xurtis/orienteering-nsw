@@ -11,78 +11,6 @@ SUMMARY:Closed series of events for school group, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/21105
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21169@eventor.orienteering.asn.au
-DTSTAMP:20240909T103554Z
-DTSTART:20240904T060000Z
-DTEND:20240908T135900Z
-SUMMARY:2024 Sydney MapRun #7 Annandale, Garingal Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21169
-GEO:-33.876182343579;151.169424702734
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20541@eventor.orienteering.asn.au
-DTSTAMP:20240908T015016Z
-DTSTART:20240907T230000Z
-DTEND:20240908T030000Z
-SUMMARY:OY2 - Balara Homestead - Camel Farm - Wivenhoe, Range Runners Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20541
-GEO:-27.3564635584942;152.50421661543
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19520@eventor.orienteering.asn.au
-DTSTAMP:20240908T030756Z
-DTSTART:20240907T233000Z
-DTEND:20240908T040000Z
-SUMMARY:2024 NSW Long Distance Championships (SL #17), Bennelong Northside Orienteers / Orienteering NSW / Uringa Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19520
-GEO:-32.9140674967024;149.935042688776
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20373@eventor.orienteering.asn.au
-DTSTAMP:20240908T043955Z
-DTSTART:20240908T000000Z
-DTEND:20240908T030000Z
-SUMMARY:MelBushO 10 - Tikalara Park, Templestowe, Nillumbik Emus Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20373
-GEO:-37.7478107743048;145.166463823825
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21243@eventor.orienteering.asn.au
-DTSTAMP:20240906T081313Z
-DTSTART:20240908T003000Z
-DTEND:20240908T033000Z
-SUMMARY:SYP Learn to Orienteer  - Practice Event - Stansbury PS , Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/21243
-GEO:-34.907610882237;137.795026898498
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19506@eventor.orienteering.asn.au
-DTSTAMP:20240908T030743Z
-DTSTART:20240908T003000Z
-DTEND:20240908T040000Z
-SUMMARY:SA Middle Distance Championships Wirreanda Farm, Wallaringa Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19506
-GEO:-34.7145860224033;138.931954156703
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20283@eventor.orienteering.asn.au
-DTSTAMP:20240206T064219Z
-DTSTART:20240908T010000Z
-DTEND:20240908T023000Z
-SUMMARY:Port Lincoln: Flinders/Pioneer Park, Lincoln Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20283
-GEO:-34.7178406471005;135.849697135834
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20937@eventor.orienteering.asn.au
-DTSTAMP:20240829T021031Z
-DTSTART:20240908T060000Z
-DTEND:20240908T060000Z
-SUMMARY:MapRun Parks 2024 - Sherwood Aboretum, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20937
-GEO:-27.5320458202685;152.973294140292
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20482@eventor.orienteering.asn.au
 DTSTAMP:20240910T073119Z
 DTSTART:20240909T070000Z
@@ -127,7 +55,7 @@ GEO:-35.3794543962339;149.217530567486
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21101@eventor.orienteering.asn.au
-DTSTAMP:20240902T204757Z
+DTSTAMP:20240916T004826Z
 DTSTART:20240911T060000Z
 DTEND:20240915T135900Z
 SUMMARY:2024 Sydney MapRun #8 Clovelly, Bennelong Northside Orienteers
@@ -417,7 +345,7 @@ GEO:-35.3149818542666;149.096776385394
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19865@eventor.orienteering.asn.au
-DTSTAMP:20240914T014322Z
+DTSTAMP:20240916T033755Z
 DTSTART:20240921T023000Z
 DTEND:20240922T040000Z
 SUMMARY:OY10 + OY11 Qld Long Distance Champs - Stanthorpe, Bullecourt Boulder Bounders / Orienteering Queensland / Range Runners Orienteering Club
@@ -461,7 +389,7 @@ GEO:-34.0682419603806;150.85135344209
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19715@eventor.orienteering.asn.au
-DTSTAMP:20240915T055117Z
+DTSTAMP:20240916T100944Z
 DTSTART:20240922T000000Z
 DTEND:20240922T040000Z
 SUMMARY:Vic Long Distance Championships - Nuggety Range, Maldon, Yarra Valley Orienteering Club
@@ -1050,5 +978,39 @@ DTSTART:20241014T090000Z
 DTEND:20241014T090000Z
 SUMMARY:Orienteering ACT October Board Meeting, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/20825
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21287@eventor.orienteering.asn.au
+DTSTAMP:20240909T132339Z
+DTSTART:20241014T143000Z
+DTEND:20241015T143000Z
+SUMMARY:NT: Alice Springs Masters Games Bush Orienteering - see ASMG website, Top End Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21287
+GEO:-12.4717361550865;131.039373720406
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20345@eventor.orienteering.asn.au
+DTSTAMP:20240831T031511Z
+DTSTART:20241015T073000Z
+DTEND:20241015T073000Z
+SUMMARY:Night Nav - West End - Term 4 Series Event #2, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20345
+GEO:-27.4895301948703;152.998509405918
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21302@eventor.orienteering.asn.au
+DTSTAMP:20240915T075416Z
+DTSTART:20241015T073000Z
+DTEND:20241015T091500Z
+SUMMARY:Melbourne Park Street Tuesday Summer Series - Maidstone, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21302
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21255@eventor.orienteering.asn.au
+DTSTAMP:20240907T021521Z
+DTSTART:20241015T080000Z
+DTEND:20241015T080000Z
+SUMMARY:Night Nav - Bli Bli, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21255
 END:VEVENT
 END:VCALENDAR
