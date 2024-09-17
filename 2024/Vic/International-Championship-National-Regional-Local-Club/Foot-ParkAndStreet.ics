@@ -11,23 +11,6 @@ SUMMARY:Closed series of events for school group, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/21105
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20482@eventor.orienteering.asn.au
-DTSTAMP:20240910T073119Z
-DTSTART:20240909T070000Z
-DTEND:20240909T100000Z
-SUMMARY:ACT MapRun Street Series: Harrison, 5-9 Sep, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/20482
-GEO:-35.1992377943745;149.155823284159
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20735@eventor.orienteering.asn.au
-DTSTAMP:20240424T023922Z
-DTSTART:20240909T083000Z
-DTEND:20240909T101500Z
-SUMMARY:Melbourne Park Street Monday Night Series - Fab Fitzroy, Orienteering Victoria
-URL:https://eventor.orienteering.asn.au/Events/Show/20735
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21196@eventor.orienteering.asn.au
 DTSTAMP:20240910T234004Z
 DTSTART:20240909T140000Z
@@ -241,7 +224,7 @@ GEO:-27.5270423367866;153.107272551678
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20483@eventor.orienteering.asn.au
-DTSTAMP:20240611T000507Z
+DTSTAMP:20240917T094858Z
 DTSTART:20240916T070000Z
 DTEND:20240916T100000Z
 SUMMARY:ACT MapRun Street Series: Stirling, 12-16 Sep, Orienteering ACT
@@ -276,10 +259,10 @@ GEO:-35.1362991568382;138.757772927145
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20784@eventor.orienteering.asn.au
-DTSTAMP:20240530T232935Z
+DTSTAMP:20240917T000843Z
 DTSTART:20240918T020000Z
 DTEND:20240918T040000Z
-SUMMARY:ACT Midweek Series: Remembrance Park, Orienteering ACT
+SUMMARY:CANCELLED - ACT Midweek Series: Remembrance Park, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/20784
 END:VEVENT
 BEGIN:VEVENT
@@ -292,7 +275,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20767
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21198@eventor.orienteering.asn.au
-DTSTAMP:20240913T035232Z
+DTSTAMP:20240917T021948Z
 DTSTART:20240918T060000Z
 DTEND:20240922T135900Z
 SUMMARY:2024 Sydney MapRun #9 North Wahroonga, Garingal Orienteers
@@ -345,7 +328,7 @@ GEO:-35.3149818542666;149.096776385394
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19865@eventor.orienteering.asn.au
-DTSTAMP:20240916T033755Z
+DTSTAMP:20240917T053728Z
 DTSTART:20240921T023000Z
 DTEND:20240922T040000Z
 SUMMARY:OY10 + OY11 Qld Long Distance Champs - Stanthorpe, Bullecourt Boulder Bounders / Orienteering Queensland / Range Runners Orienteering Club
@@ -476,11 +459,12 @@ GEO:-26.6597917797881;153.078793866771
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21173@eventor.orienteering.asn.au
-DTSTAMP:20240822T040947Z
+DTSTAMP:20240917T015623Z
 DTSTART:20240924T140000Z
 DTEND:20240929T140000Z
-SUMMARY:2024 Sydney MapRun #10, Bennelong Northside Orienteers
+SUMMARY:2024 Sydney MapRun #10 Balgowlah, Bennelong Northside Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21173
+GEO:-33.7943318783133;151.256249073856
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20745@eventor.orienteering.asn.au
@@ -537,7 +521,7 @@ GEO:-30.4546286806055;151.823297760616
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19301@eventor.orienteering.asn.au
-DTSTAMP:20240913T095034Z
+DTSTAMP:20240917T010539Z
 DTSTART:20240927T140000Z
 DTEND:20240928T140000Z
 SUMMARY:1- Australian Middle Distance Championship, Bennelong Northside Orienteers / Orienteering NSW
@@ -1012,5 +996,49 @@ DTSTART:20241015T080000Z
 DTEND:20241015T080000Z
 SUMMARY:Night Nav - Bli Bli, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21255
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20803@eventor.orienteering.asn.au
+DTSTAMP:20240504T001544Z
+DTSTART:20241015T130000Z
+DTEND:20241016T130000Z
+SUMMARY:Heritage Forest - Launceston Spring Twilight #1, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/20803
+GEO:-41.4094366241894;147.139432442093
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20102@eventor.orienteering.asn.au
+DTSTAMP:20240915T073235Z
+DTSTART:20241016T000000Z
+DTEND:20241016T023000Z
+SUMMARY:Midweek Training at Belair, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/20102
+GEO:-34.9977168874247;138.636192809645
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21324@eventor.orienteering.asn.au
+DTSTAMP:20240916T043405Z
+DTSTART:20241016T053000Z
+DTEND:20241016T063000Z
+SUMMARY:ACT Learn to Orienteer, Week 1 and Registration, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/21324
+GEO:-35.292355324073;149.089864966248
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21203@eventor.orienteering.asn.au
+DTSTAMP:20240913T131533Z
+DTSTART:20241016T053000Z
+DTEND:20241016T083000Z
+SUMMARY:2024/25 Sydney Summer Series #2 – Dundas Valley, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21203
+GEO:-33.78328104108;151.050300744105
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21307@eventor.orienteering.asn.au
+DTSTAMP:20240915T080159Z
+DTSTART:20241016T073000Z
+DTEND:20241016T091500Z
+SUMMARY:Melbourne Park Street Wednesday Summer Series - Whites Corner, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21307
 END:VEVENT
 END:VCALENDAR
