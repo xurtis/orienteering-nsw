@@ -3,23 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_21105@eventor.orienteering.asn.au
-DTSTAMP:20240805T024021Z
-DTSTART:20240806T001500Z
-DTEND:20240910T040000Z
-SUMMARY:Closed series of events for school group, Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/21105
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21196@eventor.orienteering.asn.au
-DTSTAMP:20240910T234004Z
-DTSTART:20240909T140000Z
-DTEND:20240910T140000Z
-SUMMARY:Night Nav - Peregian Springs, Sunshine Orienteers Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21196
-GEO:-26.4921209547888;153.064556386619
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21257@eventor.orienteering.asn.au
 DTSTAMP:20240908T051522Z
 DTSTART:20240911T000000Z
@@ -197,7 +180,7 @@ GEO:-35.0168062219404;137.614737893408
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20314@eventor.orienteering.asn.au
-DTSTAMP:20240125T063743Z
+DTSTAMP:20240918T080027Z
 DTSTART:20240915T003000Z
 DTEND:20240915T033000Z
 SUMMARY:Whyalla East, Saltbush Orienteers
@@ -241,12 +224,30 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20736
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21251@eventor.orienteering.asn.au
-DTSTAMP:20240907T013217Z
+DTSTAMP:20240918T003942Z
 DTSTART:20240917T080000Z
 DTEND:20240917T080000Z
 SUMMARY:Night Nav - Baringa, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21251
 GEO:-26.8141206526088;153.086212188574
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21357@eventor.orienteering.asn.au
+DTSTAMP:20240918T043043Z
+DTSTART:20240917T233000Z
+DTEND:20240918T003000Z
+SUMMARY:One Tree Hill - BSE 3, Bendigo Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21357
+GEO:-36.7835569449532;144.302972918009
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21358@eventor.orienteering.asn.au
+DTSTAMP:20240918T043412Z
+DTSTART:20240918T010000Z
+DTEND:20240918T020000Z
+SUMMARY:One Tree Hill - BSE 4, Bendigo Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21358
+GEO:-36.7835716582503;144.302965752256
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20101@eventor.orienteering.asn.au
@@ -281,6 +282,14 @@ DTEND:20240922T135900Z
 SUMMARY:2024 Sydney MapRun #9 North Wahroonga, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21198
 GEO:-33.703107388518;151.137931752947
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21353@eventor.orienteering.asn.au
+DTSTAMP:20240918T003418Z
+DTSTART:20240918T080000Z
+DTEND:20240918T110000Z
+SUMMARY:ECU Mt Lawley Mid-week Training, Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/21353
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20744@eventor.orienteering.asn.au
@@ -328,7 +337,7 @@ GEO:-35.3149818542666;149.096776385394
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19865@eventor.orienteering.asn.au
-DTSTAMP:20240917T053728Z
+DTSTAMP:20240918T011335Z
 DTSTART:20240921T023000Z
 DTEND:20240922T040000Z
 SUMMARY:OY10 + OY11 Qld Long Distance Champs - Stanthorpe, Bullecourt Boulder Bounders / Orienteering Queensland / Range Runners Orienteering Club
@@ -395,6 +404,15 @@ DTEND:20240922T010000Z
 SUMMARY:SA Interclub Relays - Moon Rocks, SA Arrows
 URL:https://eventor.orienteering.asn.au/Events/Show/20247
 GEO:-34.8315947829594;139.126234598986
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21355@eventor.orienteering.asn.au
+DTSTAMP:20240918T030315Z
+DTSTART:20240922T010000Z
+DTEND:20240922T050000Z
+SUMMARY:Victorian Teachers Games - aMAZEing Traralgon, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21355
+GEO:-38.1962433358831;146.525664347482
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20578@eventor.orienteering.asn.au
@@ -539,7 +557,7 @@ GEO:-30.7449192006412;151.396824965561
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19312@eventor.orienteering.asn.au
-DTSTAMP:20240705T075744Z
+DTSTAMP:20240918T103538Z
 DTSTART:20240928T140000Z
 DTEND:20240929T140000Z
 SUMMARY:2B  Australian Relay Championship- State & Team Selectors only, Orienteering NSW
@@ -843,10 +861,10 @@ GEO:-34.0669746323721;150.815593938503
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21281@eventor.orienteering.asn.au
-DTSTAMP:20240909T055940Z
+DTSTAMP:20240918T043033Z
 DTSTART:20241012T073000Z
 DTEND:20241012T093000Z
-SUMMARY:NightNav - Gold Coast - #2 Pacific Pines, Paradise Lost Orienteers
+SUMMARY:NightNav - Gold Coast - #2 Studio Village (Oxenford South), Paradise Lost Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21281
 GEO:-27.9264050282308;153.302331472945
 END:VEVENT
@@ -1040,5 +1058,47 @@ DTSTART:20241016T073000Z
 DTEND:20241016T091500Z
 SUMMARY:Melbourne Park Street Wednesday Summer Series - Whites Corner, Yarra Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21307
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19692@eventor.orienteering.asn.au
+DTSTAMP:20240808T071241Z
+DTSTART:20241017T003000Z
+DTEND:20241017T013000Z
+SUMMARY:Wolston Bushland Reserve, Riverhills (BCC sponsored), Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/19692
+GEO:-27.5634242069607;152.918109301878
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19686@eventor.orienteering.asn.au
+DTSTAMP:20231231T011334Z
+DTSTART:20241017T060000Z
+DTEND:20241017T080000Z
+SUMMARY:Australian MTBO Carnival & Championships: Social Warm-Up Score Event, Bruce Ridge, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19686
+GEO:-35.2507177387262;149.10644661053
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21312@eventor.orienteering.asn.au
+DTSTAMP:20240915T084400Z
+DTSTART:20241017T073000Z
+DTEND:20241017T091500Z
+SUMMARY:Melbourne Park Street Thursday Summer Series - Heidelberg Heights - BBQ afterward, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21312
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21315@eventor.orienteering.asn.au
+DTSTAMP:20240915T084954Z
+DTSTART:20241017T080000Z
+DTEND:20241017T091500Z
+SUMMARY:Geelong Park Street Thursday Summer Series - Sailors Rest, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21315
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21145@eventor.orienteering.asn.au
+DTSTAMP:20240820T121954Z
+DTSTART:20241017T080000Z
+DTEND:20241017T093000Z
+SUMMARY:Night Nav - EN Nth - Brighton - NEW MAP, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/21145
 END:VEVENT
 END:VCALENDAR
