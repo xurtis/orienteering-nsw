@@ -3,23 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_21257@eventor.orienteering.asn.au
-DTSTAMP:20240908T051522Z
-DTSTART:20240911T000000Z
-DTEND:20240911T020000Z
-SUMMARY:Closed event for home school group, Toohey Forest Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21257
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20783@eventor.orienteering.asn.au
-DTSTAMP:20240911T100012Z
-DTSTART:20240911T020000Z
-DTEND:20240911T040000Z
-SUMMARY:ACT Midweek Series: Jerrabomberra, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/20783
-GEO:-35.3794543962339;149.217530567486
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21101@eventor.orienteering.asn.au
 DTSTAMP:20240916T004826Z
 DTSTART:20240911T060000Z
@@ -27,14 +10,6 @@ DTEND:20240915T135900Z
 SUMMARY:2024 Sydney MapRun #8 Clovelly, Bennelong Northside Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21101
 GEO:-33.9160095415143;151.266155047553
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20743@eventor.orienteering.asn.au
-DTSTAMP:20240424T042337Z
-DTSTART:20240911T083000Z
-DTEND:20240911T101500Z
-SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Moomba Park, Yarra Valley Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20743
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21185@eventor.orienteering.asn.au
@@ -301,7 +276,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20744
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19690@eventor.orienteering.asn.au
-DTSTAMP:20240905T010536Z
+DTSTAMP:20240919T055002Z
 DTSTART:20240919T003000Z
 DTEND:20240919T013000Z
 SUMMARY:Minnippi Parklands, Tingalpa BCC Sponsored Event, Orienteering Queensland
@@ -377,7 +352,7 @@ DTSTART:20240921T233000Z
 DTEND:20240922T030000Z
 SUMMARY:2024 NSW State League #9 Middle Distance. NEW DATE, Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/19579
-GEO:-34.0682419603806;150.85135344209
+GEO:-34.0690240529185;150.851010119336
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19715@eventor.orienteering.asn.au
@@ -766,7 +741,7 @@ GEO:-33.8457158373269;151.283848324756
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21266@eventor.orienteering.asn.au
-DTSTAMP:20240912T122722Z
+DTSTAMP:20240919T000153Z
 DTSTART:20241009T060000Z
 DTEND:20241009T090000Z
 SUMMARY:ACT MapRun Street Series: Hall Village, 3-9 Oct, Orienteering ACT
@@ -1100,5 +1075,14 @@ DTSTART:20241017T080000Z
 DTEND:20241017T093000Z
 SUMMARY:Night Nav - EN Nth - Brighton - NEW MAP, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/21145
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19100@eventor.orienteering.asn.au
+DTSTAMP:20240322T090453Z
+DTSTART:20241018T060000Z
+DTEND:20241018T080000Z
+SUMMARY:Australian MTBO Carnival & Championships: MASS START, West Stromlo, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19100
+GEO:-35.2998337899594;149.007856579454
 END:VEVENT
 END:VCALENDAR
