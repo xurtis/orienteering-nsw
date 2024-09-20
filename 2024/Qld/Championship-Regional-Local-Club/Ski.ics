@@ -12,15 +12,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21101
 GEO:-33.9160095415143;151.266155047553
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21185@eventor.orienteering.asn.au
-DTSTAMP:20240912T093414Z
-DTSTART:20240912T003000Z
-DTEND:20240912T020000Z
-SUMMARY:Mid week - Glider Forest, Parkinson (Maprun with flags), Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/21185
-GEO:-27.6520657776955;153.004418783275
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21294@eventor.orienteering.asn.au
 DTSTAMP:20240913T050010Z
 DTSTART:20240913T020000Z
@@ -356,7 +347,7 @@ GEO:-34.0690240529185;150.851010119336
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19715@eventor.orienteering.asn.au
-DTSTAMP:20240916T100944Z
+DTSTAMP:20240920T015011Z
 DTSTART:20240922T000000Z
 DTEND:20240922T040000Z
 SUMMARY:Vic Long Distance Championships - Nuggety Range, Maldon, Yarra Valley Orienteering Club
@@ -373,7 +364,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21245
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20247@eventor.orienteering.asn.au
-DTSTAMP:20240911T115820Z
+DTSTAMP:20240920T001957Z
 DTSTART:20240922T010000Z
 DTEND:20240922T010000Z
 SUMMARY:SA Interclub Relays - Moon Rocks, SA Arrows
@@ -731,6 +722,15 @@ SUMMARY:Night Nav - Moffat Beach, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21253
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_21360@eventor.orienteering.asn.au
+DTSTAMP:20240919T234235Z
+DTSTART:20241008T130000Z
+DTEND:20241009T130000Z
+SUMMARY:Newcastle Summer Street Series (Warmup) - Lambton, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21360
+GEO:-32.9179119543914;151.714653377195
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21187@eventor.orienteering.asn.au
 DTSTAMP:20240830T211124Z
 DTSTART:20241009T043000Z
@@ -766,7 +766,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21311
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20657@eventor.orienteering.asn.au
-DTSTAMP:20240416T210556Z
+DTSTAMP:20240920T034420Z
 DTSTART:20241011T130000Z
 DTEND:20241012T130000Z
 SUMMARY:NSW MTBO 3 Event  Discount Entry, Orienteering NSW / Uringa Orienteers / Western and Hills Orienteers
@@ -800,7 +800,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21013
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19962@eventor.orienteering.asn.au
-DTSTAMP:20240412T233019Z
+DTSTAMP:20240920T072049Z
 DTSTART:20241011T220000Z
 DTEND:20241012T030000Z
 SUMMARY:NSW MTBO Championships - Sprint, Orienteering NSW / Uringa Orienteers
@@ -1084,5 +1084,91 @@ DTEND:20241018T080000Z
 SUMMARY:Australian MTBO Carnival & Championships: MASS START, West Stromlo, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19100
 GEO:-35.2998337899594;149.007856579454
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20810@eventor.orienteering.asn.au
+DTSTAMP:20240825T105540Z
+DTSTART:20241018T130000Z
+DTEND:20241019T130000Z
+SUMMARY: OT Presentation Dinner, Orienteering Tasmania
+URL:https://eventor.orienteering.asn.au/Events/Show/20810
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20072@eventor.orienteering.asn.au
+DTSTAMP:20240817T123130Z
+DTSTART:20241018T130000Z
+DTEND:20241019T130000Z
+SUMMARY:Bendigo event - Mandurang Coolibah, Bendigo Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20072
+GEO:-36.825445076729;144.32812311945
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20586@eventor.orienteering.asn.au
+DTSTAMP:20240322T041012Z
+DTSTART:20241018T130000Z
+DTEND:20241019T130000Z
+SUMMARY:Summer Sprints - Penola College, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20586
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19101@eventor.orienteering.asn.au
+DTSTAMP:20231231T011756Z
+DTSTART:20241018T220000Z
+DTEND:20241019T010000Z
+SUMMARY:Australian MTBO Carnival & Championships: MIDDLE, Stringybark Hill, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19101
+GEO:-35.3877576115946;149.208344496024
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20660@eventor.orienteering.asn.au
+DTSTAMP:20240410T103149Z
+DTSTART:20241018T223000Z
+DTEND:20241019T010000Z
+SUMMARY:SOS 1, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20660
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20724@eventor.orienteering.asn.au
+DTSTAMP:20240914T180143Z
+DTSTART:20241018T230000Z
+DTEND:20241019T010000Z
+SUMMARY:Shellharbour Illawarra Map Running Series - Spring #1  , Illawarra Kareelah Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20724
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19102@eventor.orienteering.asn.au
+DTSTAMP:20240911T021804Z
+DTSTART:20241019T030000Z
+DTEND:20241019T060000Z
+SUMMARY:Australian MTBO Carnival & Championships: SPRINT, Sutton Road Driving Center, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19102
+GEO:-35.3209989901624;149.239869994324
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20551@eventor.orienteering.asn.au
+DTSTAMP:20240317T123229Z
+DTSTART:20241019T070000Z
+DTEND:20241019T073000Z
+SUMMARY:Albany - Spencer Park Primary, Albany & Denmark Hinterland Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20551
+GEO:-35.0048271450715;117.90081152023
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21282@eventor.orienteering.asn.au
+DTSTAMP:20240909T060300Z
+DTSTART:20241019T073000Z
+DTEND:20241019T093000Z
+SUMMARY:NightNav - Gold Coast - #3 Parkwood, Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21282
+GEO:-27.950014564471;153.368614503245
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19687@eventor.orienteering.asn.au
+DTSTAMP:20240906T063236Z
+DTSTART:20241019T073000Z
+DTEND:20241019T110000Z
+SUMMARY:Australian MTBO Carnival PRESENTATIONS DINNER, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/19687
+GEO:-35.3391085478285;149.151515861165
 END:VEVENT
 END:VCALENDAR
