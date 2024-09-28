@@ -242,7 +242,7 @@ GEO:-30.4546286806055;151.823297760616
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19301@eventor.orienteering.asn.au
-DTSTAMP:20240927T095654Z
+DTSTAMP:20240928T041259Z
 DTSTART:20240927T220000Z
 DTEND:20240927T220000Z
 SUMMARY:1- Australian Middle Distance Championship, Bennelong Northside Orienteers / Orienteering NSW
@@ -432,6 +432,14 @@ DTSTART:20241005T230000Z
 DTEND:20241006T001500Z
 SUMMARY:Mornington Peninsula Sunday MapRun - Blairgowrie, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21318
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21391@eventor.orienteering.asn.au
+DTSTAMP:20240928T075209Z
+DTSTART:20241006T060000Z
+DTEND:20241006T060000Z
+SUMMARY:MapRun Parks 2024 - Meadowlands, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21391
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21297@eventor.orienteering.asn.au
@@ -729,7 +737,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20825
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21389@eventor.orienteering.asn.au
-DTSTAMP:20240925T055312Z
+DTSTAMP:20240927T215039Z
 DTSTART:20241014T130000Z
 DTEND:20241015T130000Z
 SUMMARY:Sprint Into Spring Discount Entry for Series, Esk Valley
@@ -1199,5 +1207,83 @@ DTEND:20241026T093000Z
 SUMMARY:NightNav - Gold Coast - #4 Upper Coomera, Paradise Lost Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21283
 GEO:-27.8674703455039;153.304450942398
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20585@eventor.orienteering.asn.au
+DTSTAMP:20240322T040843Z
+DTSTART:20241026T130000Z
+DTEND:20241027T130000Z
+SUMMARY:Summer Shorts - Croydon Town, Dandenong Ranges Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20585
+GEO:-37.8014270312964;145.284607925313
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19706@eventor.orienteering.asn.au
+DTSTAMP:20231026T014743Z
+DTSTART:20241026T140000Z
+DTEND:20241027T140000Z
+SUMMARY:MTBO - State Series #11, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/19706
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20161@eventor.orienteering.asn.au
+DTSTAMP:20240812T094218Z
+DTSTART:20241026T140000Z
+DTEND:20241027T140000Z
+SUMMARY:OQ turns 50 - Special Event - Club Relays, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/20161
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20990@eventor.orienteering.asn.au
+DTSTAMP:20240709T062859Z
+DTSTART:20241026T210000Z
+DTEND:20241027T000000Z
+SUMMARY:MTBO     BOSS 1, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20990
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20075@eventor.orienteering.asn.au
+DTSTAMP:20240925T070225Z
+DTSTART:20241026T230000Z
+DTEND:20241027T033000Z
+SUMMARY:Vic MTBO 5 - Lal Lal, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20075
+GEO:-37.6992616577821;144.040993883923
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21248@eventor.orienteering.asn.au
+DTSTAMP:20240906T084119Z
+DTSTART:20241026T233000Z
+DTEND:20241027T023000Z
+SUMMARY:SYP Learn to Orienteer  - Practice Event - Currumulka Bush Garden , Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/21248
+GEO:-34.6947784705254;137.713438792579
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21015@eventor.orienteering.asn.au
+DTSTAMP:20240903T113929Z
+DTSTART:20241027T003000Z
+DTEND:20241027T043000Z
+SUMMARY:MTBO SA Long Championships, Yalanga Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21015
+GEO:-34.7309965440074;138.990505906304
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20431@eventor.orienteering.asn.au
+DTSTAMP:20240322T052251Z
+DTSTART:20241027T050000Z
+DTEND:20241027T050000Z
+SUMMARY:MapRun Parks - Dumbarton Park - BCC Sponsored Event, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20431
+GEO:-27.5114430775013;152.927811910566
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21113@eventor.orienteering.asn.au
+DTSTAMP:20240805T100624Z
+DTSTART:20241027T050000Z
+DTEND:20241027T050000Z
+SUMMARY:River and Bay Series #1, Illawarra Kareelah Orienteers / Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21113
+GEO:-33.9242640334725;151.1519573479
 END:VEVENT
 END:VCALENDAR
