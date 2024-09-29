@@ -12,33 +12,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21198
 GEO:-33.703107388518;151.137931752947
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20515@eventor.orienteering.asn.au
-DTSTAMP:20240921T044246Z
-DTSTART:20240920T233000Z
-DTEND:20240921T020000Z
-SUMMARY:SOS - Willoughby, Bold Horizons Event Organiser
-URL:https://eventor.orienteering.asn.au/Events/Show/20515
-GEO:-33.811954;151.20345
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21168@eventor.orienteering.asn.au
-DTSTAMP:20240921T024930Z
-DTSTART:20240920T233000Z
-DTEND:20240921T020000Z
-SUMMARY:Willoughby Emerge Festival Orienteering, Garingal Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21168
-GEO:-33.8117592651544;151.203146987192
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19565@eventor.orienteering.asn.au
-DTSTAMP:20240921T013704Z
-DTSTART:20240921T000000Z
-DTEND:20240921T020000Z
-SUMMARY:ACT Blue Lightning Super Sprint Relay, Deakin Offices, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/19565
-GEO:-35.3149818542666;149.096776385394
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19865@eventor.orienteering.asn.au
 DTSTAMP:20240921T054915Z
 DTSTART:20240921T023000Z
@@ -46,23 +19,6 @@ DTEND:20240922T040000Z
 SUMMARY:OY10 + OY11 Qld Long Distance Champs - Stanthorpe, Bullecourt Boulder Bounders / Orienteering Queensland / Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/19865
 GEO:-28.4651322414292;151.992593189662
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20752@eventor.orienteering.asn.au
-DTSTAMP:20240424T043818Z
-DTSTART:20240921T040000Z
-DTEND:20240921T051500Z
-SUMMARY:Melbourne Park Street Saturday Series - Carrum Downs South, Nillumbik Emus Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20752
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20723@eventor.orienteering.asn.au
-DTSTAMP:20240921T060758Z
-DTSTART:20240921T040000Z
-DTEND:20240921T060000Z
-SUMMARY:Kirrawee - Sydney South, Illawarra Kareelah Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20723
-GEO:-34.0396842578619;151.065879352892
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21181@eventor.orienteering.asn.au
@@ -259,7 +215,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21361
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19312@eventor.orienteering.asn.au
-DTSTAMP:20240922T100821Z
+DTSTAMP:20240929T060715Z
 DTSTART:20240928T140000Z
 DTEND:20240929T140000Z
 SUMMARY:2B  Australian Relay Championship- State & Team Selectors only, Orienteering NSW
@@ -268,7 +224,7 @@ GEO:-30.7444093283071;151.397095586129
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19699@eventor.orienteering.asn.au
-DTSTAMP:20240903T110021Z
+DTSTAMP:20240929T024130Z
 DTSTART:20240928T140000Z
 DTEND:20240929T140000Z
 SUMMARY:Karringal MTBO, Multi Terrain Bike Orienteers
@@ -1285,5 +1241,30 @@ DTEND:20241027T050000Z
 SUMMARY:River and Bay Series #1, Illawarra Kareelah Orienteers / Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21113
 GEO:-33.9242640334725;151.1519573479
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21269@eventor.orienteering.asn.au
+DTSTAMP:20240909T025600Z
+DTSTART:20241028T060000Z
+DTEND:20241028T090000Z
+SUMMARY:ACT MapRun Street Series: Dunlop Ponds, 24-28 Oct, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/21269
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21300@eventor.orienteering.asn.au
+DTSTAMP:20240915T075042Z
+DTSTART:20241028T073000Z
+DTEND:20241028T091500Z
+SUMMARY:Melbourne Park Street Monday Summer Series - Knox Fields, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21300
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20040@eventor.orienteering.asn.au
+DTSTAMP:20240731T010943Z
+DTSTART:20241028T083000Z
+DTEND:20241028T083000Z
+SUMMARY:Orienteering NSW October Board Meeting, Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/20040
+GEO:-33.8460034291842;151.074483418337
 END:VEVENT
 END:VCALENDAR
