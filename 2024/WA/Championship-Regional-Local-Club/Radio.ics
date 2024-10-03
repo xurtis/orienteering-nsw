@@ -12,14 +12,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21173
 GEO:-33.7943318783133;151.256249073856
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20745@eventor.orienteering.asn.au
-DTSTAMP:20240424T042655Z
-DTSTART:20240925T083000Z
-DTEND:20240925T101500Z
-SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Bellbird Dell, Dandenong Ranges Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20745
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19691@eventor.orienteering.asn.au
 DTSTAMP:20240926T074551Z
 DTSTART:20240926T003000Z
@@ -319,7 +311,7 @@ GEO:-32.9179119543914;151.714653377195
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21266@eventor.orienteering.asn.au
-DTSTAMP:20240919T000153Z
+DTSTAMP:20241003T124238Z
 DTSTART:20241009T060000Z
 DTEND:20241009T090000Z
 SUMMARY:ACT MapRun Street Series: Hall Village, 3-9 Oct, Orienteering ACT
@@ -422,15 +414,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21281
 GEO:-27.9264050282308;153.302331472945
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20584@eventor.orienteering.asn.au
-DTSTAMP:20240322T035631Z
-DTSTART:20241012T130000Z
-DTEND:20241013T130000Z
-SUMMARY:Jump In! Spooky Orienteering at Tarantula Park - Free Activity Day, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20584
-GEO:-37.9447484746518;145.219484889428
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20814@eventor.orienteering.asn.au
 DTSTAMP:20240504T005708Z
 DTSTART:20241012T130000Z
@@ -491,6 +474,15 @@ DTEND:20241013T023000Z
 SUMMARY:SYP Learn to Orienteer 4 - Minlaton District School , Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/21246
 GEO:-34.7661036927724;137.593056079756
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20584@eventor.orienteering.asn.au
+DTSTAMP:20241003T042431Z
+DTSTART:20241013T023000Z
+DTEND:20241013T043000Z
+SUMMARY:Jump In! Spooky Orienteering at Tarantula Park (Rowville) - Free Family Day, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20584
+GEO:-37.9447484746518;145.219484889428
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21381@eventor.orienteering.asn.au
@@ -707,14 +699,6 @@ SUMMARY: OT Presentation Dinner, Orienteering Tasmania
 URL:https://eventor.orienteering.asn.au/Events/Show/20810
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20586@eventor.orienteering.asn.au
-DTSTAMP:20240322T041012Z
-DTSTART:20241018T130000Z
-DTEND:20241019T130000Z
-SUMMARY:Summer Sprints - Penola College, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20586
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19101@eventor.orienteering.asn.au
 DTSTAMP:20231231T011756Z
 DTSTART:20241018T220000Z
@@ -757,6 +741,15 @@ DTEND:20241019T060000Z
 SUMMARY:Australian MTBO Carnival & Championships: SPRINT, Sutton Road Driving Center, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/19102
 GEO:-35.3209989901624;149.239869994324
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20586@eventor.orienteering.asn.au
+DTSTAMP:20241003T044128Z
+DTSTART:20241019T040000Z
+DTEND:20241019T060000Z
+SUMMARY:Summer Sprints - Penola College, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20586
+GEO:-37.6887265349464;144.919700255648
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20551@eventor.orienteering.asn.au
@@ -1033,15 +1026,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21283
 GEO:-27.8674703455039;153.304450942398
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20585@eventor.orienteering.asn.au
-DTSTAMP:20240322T040843Z
-DTSTART:20241026T130000Z
-DTEND:20241027T130000Z
-SUMMARY:Summer Shorts - Croydon Town, Dandenong Ranges Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20585
-GEO:-37.8014270312964;145.284607925313
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19706@eventor.orienteering.asn.au
 DTSTAMP:20231026T014743Z
 DTSTART:20241026T140000Z
@@ -1082,6 +1066,15 @@ DTEND:20241027T023000Z
 SUMMARY:SYP Learn to Orienteer  - Practice Event - Currumulka Bush Garden , Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/21248
 GEO:-34.6947784705254;137.713438792579
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20585@eventor.orienteering.asn.au
+DTSTAMP:20241003T050411Z
+DTSTART:20241027T000000Z
+DTEND:20241027T020000Z
+SUMMARY:Summer Shorts - Tarralla Wetlands, Croydon, Dandenong Ranges Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20585
+GEO:-37.800582841524;145.282313328042
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21015@eventor.orienteering.asn.au
@@ -1279,5 +1272,39 @@ DTEND:20241101T083000Z
 SUMMARY:Goldseekers Park #1 - Cook Park, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21289
 GEO:-33.283210482549;149.089902418255
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20587@eventor.orienteering.asn.au
+DTSTAMP:20240326T064003Z
+DTSTART:20241101T130000Z
+DTEND:20241102T130000Z
+SUMMARY:Summer Shorts - Mt Lilydale Mercy College Indoor-Outdoor, Dandenong Ranges Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20587
+GEO:-37.7510025861792;145.356923108995
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20662@eventor.orienteering.asn.au
+DTSTAMP:20240410T103217Z
+DTSTART:20241101T223000Z
+DTEND:20241102T010000Z
+SUMMARY:SOS 3, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/20662
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20726@eventor.orienteering.asn.au
+DTSTAMP:20240925T091745Z
+DTSTART:20241101T230000Z
+DTEND:20241102T010000Z
+SUMMARY:Illawarra Map Running Series - Spring #3, Illawarra Kareelah Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20726
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20843@eventor.orienteering.asn.au
+DTSTAMP:20240511T131430Z
+DTSTART:20241102T070000Z
+DTEND:20241102T070000Z
+SUMMARY:Albany - Great Southern Grammar, Albany & Denmark Hinterland Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20843
+GEO:-34.9462579944311;117.971026538892
 END:VEVENT
 END:VCALENDAR
