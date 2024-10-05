@@ -12,33 +12,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21173
 GEO:-33.7943318783133;151.256249073856
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20269@eventor.orienteering.asn.au
-DTSTAMP:20240308T183508Z
-DTSTART:20240926T140000Z
-DTEND:20240927T140000Z
-SUMMARY:AOC24 Merchandise, Bennelong Northside Orienteers / Uringa Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20269
-GEO:-30.4451154656257;151.707064151737
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20494@eventor.orienteering.asn.au
-DTSTAMP:20240308T183612Z
-DTSTART:20240926T140000Z
-DTEND:20240927T140000Z
-SUMMARY:SI Card Hire AOC24, Bennelong Northside Orienteers / Uringa Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20494
-GEO:-30.547366648213;151.67572278654
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19849@eventor.orienteering.asn.au
-DTSTAMP:20240817T034244Z
-DTSTART:20240926T230000Z
-DTEND:20240927T060000Z
-SUMMARY:Mt Brown training (NZ Schools), Northern Tablelands Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19849
-GEO:-30.4618864928629;151.305580555157
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20925@eventor.orienteering.asn.au
 DTSTAMP:20240913T030838Z
 DTSTART:20240927T060000Z
@@ -207,7 +180,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21310
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19309@eventor.orienteering.asn.au
-DTSTAMP:20241004T100838Z
+DTSTAMP:20241005T104009Z
 DTSTART:20241004T230000Z
 DTEND:20241005T043000Z
 SUMMARY:6- Australian Long Distance Championship, Orienteering NSW
@@ -379,12 +352,12 @@ GEO:-34.1535308892027;150.802632527577
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19852@eventor.orienteering.asn.au
-DTSTAMP:20241004T060114Z
+DTSTAMP:20241004T212317Z
 DTSTART:20241012T030000Z
 DTEND:20241012T043000Z
 SUMMARY:Sydney City Short Distance Race, Pyrmont (changed from Cockatoo Island), Bennelong Northside Orienteers / Big Foot Orienteers / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/19852
-GEO:-33.8687353105052;151.1933671928
+GEO:-33.8641812428385;151.191521301431
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21293@eventor.orienteering.asn.au
@@ -428,7 +401,7 @@ DTSTART:20241012T210000Z
 DTEND:20241013T003000Z
 SUMMARY:Sydney City Race, Bennelong Northside Orienteers / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/19552
-GEO:-33.8675909475717;151.208696897829
+GEO:-33.8606656033249;151.205101148914
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20395@eventor.orienteering.asn.au
@@ -736,7 +709,7 @@ GEO:-35.3209989901624;149.239869994324
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20586@eventor.orienteering.asn.au
-DTSTAMP:20241004T021124Z
+DTSTAMP:20241005T055449Z
 DTSTART:20241019T040000Z
 DTEND:20241019T060000Z
 SUMMARY:Summer Shorts and Sprints 2 - Penola College, Bayside Kangaroos Orienteers
@@ -798,7 +771,7 @@ GEO:-43.0261360931493;147.484648892885
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20246@eventor.orienteering.asn.au
-DTSTAMP:20241004T081227Z
+DTSTAMP:20241004T232829Z
 DTSTART:20241019T233000Z
 DTEND:20241020T020000Z
 SUMMARY:Hallett Cove (Adelaide), Tjuringa Orienteers
@@ -983,6 +956,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21279
 GEO:-34.8788509344597;136.93003125918
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20073@eventor.orienteering.asn.au
+DTSTAMP:20241005T003828Z
+DTSTART:20241025T130000Z
+DTEND:20241026T130000Z
+SUMMARY:Bendigo Twilight Score Event - Marong Forests, Bendigo Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20073
+GEO:-36.8088838405014;144.199438311572
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20661@eventor.orienteering.asn.au
 DTSTAMP:20240410T103202Z
 DTSTART:20241025T223000Z
@@ -998,15 +980,6 @@ DTEND:20241026T010000Z
 SUMMARY:Illawarra Map Running Series - Spring #2 Wollongong, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20725
 GEO:-34.4181043998649;150.886990245285
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20073@eventor.orienteering.asn.au
-DTSTAMP:20240817T124130Z
-DTSTART:20241026T013000Z
-DTEND:20241026T030000Z
-SUMMARY:Bendigo event - Marong Forests, Bendigo Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20073
-GEO:-36.8088838405014;144.199438311572
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21283@eventor.orienteering.asn.au
@@ -1061,7 +1034,7 @@ GEO:-34.3708864064215;137.679289327265
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20585@eventor.orienteering.asn.au
-DTSTAMP:20241004T022206Z
+DTSTAMP:20241005T055643Z
 DTSTART:20241027T000000Z
 DTEND:20241027T020000Z
 SUMMARY:Summer Shorts and Sprints 3 - Tarralla Wetlands, Croydon, Dandenong Ranges Orienteering Club
@@ -1375,5 +1348,21 @@ DTEND:20241103T060000Z
 SUMMARY:MapRun Parks 2024 - Seven Hills, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21239
 GEO:-27.4750187346328;153.088485013534
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21270@eventor.orienteering.asn.au
+DTSTAMP:20240909T025602Z
+DTSTART:20241104T060000Z
+DTEND:20241104T090000Z
+SUMMARY:ACT MapRun Street Series: Monash, 31 Oct - 4 Nov, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/21270
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21332@eventor.orienteering.asn.au
+DTSTAMP:20240917T022913Z
+DTSTART:20241104T073000Z
+DTEND:20241104T091500Z
+SUMMARY:Melbourne Park Street Monday Summer Series - Kingston Heath, Victorian ARDF Group
+URL:https://eventor.orienteering.asn.au/Events/Show/21332
 END:VEVENT
 END:VCALENDAR
