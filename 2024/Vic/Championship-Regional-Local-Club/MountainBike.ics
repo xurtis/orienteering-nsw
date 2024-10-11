@@ -212,10 +212,10 @@ GEO:-34.1535308892027;150.802632527577
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19852@eventor.orienteering.asn.au
-DTSTAMP:20241004T212317Z
+DTSTAMP:20241011T062221Z
 DTSTART:20241012T030000Z
 DTEND:20241012T043000Z
-SUMMARY:Sydney City Short Distance Race, Pyrmont (changed from Cockatoo Island), Bennelong Northside Orienteers / Big Foot Orienteers / Orienteering NSW
+SUMMARY:Sydney City Short Distance Race, Pyrmont, Bennelong Northside Orienteers / Big Foot Orienteers / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/19852
 GEO:-33.8641812428385;151.191521301431
 END:VEVENT
@@ -1503,5 +1503,21 @@ DTSTART:20241110T060000Z
 DTEND:20241110T060000Z
 SUMMARY:UniSQ, Toowoomba, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21388
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21271@eventor.orienteering.asn.au
+DTSTAMP:20240916T005003Z
+DTSTART:20241111T060000Z
+DTEND:20241111T090000Z
+SUMMARY:ACT MapRun Street Series: Evatt, 7-11 Nov, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/21271
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21333@eventor.orienteering.asn.au
+DTSTAMP:20240917T023032Z
+DTSTART:20241111T073000Z
+DTEND:20241111T091500Z
+SUMMARY:Melbourne Park Street Monday Summer Series - Koolunga, Dandenong Ranges Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21333
 END:VEVENT
 END:VCALENDAR
