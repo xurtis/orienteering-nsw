@@ -12,24 +12,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20925
 GEO:-30.4546286806055;151.823297760616
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21280@eventor.orienteering.asn.au
-DTSTAMP:20241007T010501Z
-DTSTART:20241004T140000Z
-DTEND:20241005T140000Z
-SUMMARY:NightNav - Gold Coast - #1 Elanora, Paradise Lost Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21280
-GEO:-28.138069005682;153.439670145338
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19309@eventor.orienteering.asn.au
-DTSTAMP:20241005T104009Z
-DTSTART:20241004T230000Z
-DTEND:20241005T043000Z
-SUMMARY:6- Australian Long Distance Championship, Orienteering NSW
-URL:https://eventor.orienteering.asn.au/Events/Show/19309
-GEO:-30.7449192006412;151.396824965561
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20425@eventor.orienteering.asn.au
 DTSTAMP:20241006T010308Z
 DTSTART:20241005T220000Z
@@ -176,7 +158,7 @@ GEO:-33.71943;150.842044
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19962@eventor.orienteering.asn.au
-DTSTAMP:20241009T231006Z
+DTSTAMP:20241012T064500Z
 DTSTART:20241011T220000Z
 DTEND:20241012T030000Z
 SUMMARY:NSW MTBO Championships - Sprint, Orienteering NSW / Uringa Orienteers / Western and Hills Orienteers
@@ -203,7 +185,7 @@ GEO:-34.9991388334404;138.548088803076
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19963@eventor.orienteering.asn.au
-DTSTAMP:20241009T045641Z
+DTSTAMP:20241012T075043Z
 DTSTART:20241012T030000Z
 DTEND:20241012T030000Z
 SUMMARY:NSW MTBO Championships - Middle, Orienteering NSW / Uringa Orienteers / Western and Hills Orienteers
@@ -212,10 +194,10 @@ GEO:-34.1535308892027;150.802632527577
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19852@eventor.orienteering.asn.au
-DTSTAMP:20241011T062221Z
+DTSTAMP:20241012T052043Z
 DTSTART:20241012T030000Z
 DTEND:20241012T043000Z
-SUMMARY:Sydney City Short Distance Race, Pyrmont, Bennelong Northside Orienteers / Big Foot Orienteers / Orienteering NSW
+SUMMARY:Sydney City Short Distance Race, Pyrmont, Big Foot Orienteers / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/19852
 GEO:-33.8641812428385;151.191521301431
 END:VEVENT
@@ -537,7 +519,7 @@ GEO:-35.3877576115946;149.208344496024
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20660@eventor.orienteering.asn.au
-DTSTAMP:20240410T103149Z
+DTSTAMP:20241012T083516Z
 DTSTART:20241018T223000Z
 DTEND:20241019T010000Z
 SUMMARY:SOS 1, Bold Horizons Event Organiser
@@ -608,10 +590,10 @@ GEO:-35.3391085478285;149.151515861165
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21013@eventor.orienteering.asn.au
-DTSTAMP:20240930T051543Z
+DTSTAMP:20241012T004431Z
 DTSTART:20241019T220000Z
 DTEND:20241020T010000Z
-SUMMARY:  NEW DATE Sydney Summer Series Sunday Fun Run - Sailors Bay, Big Foot Orienteers / Garingal Orienteers
+SUMMARY:  NEW DATE Sydney Summer Series Super Sunday - Sailors Bay, Big Foot Orienteers / Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21013
 END:VEVENT
 BEGIN:VEVENT
@@ -847,7 +829,7 @@ GEO:-36.8088838405014;144.199438311572
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20661@eventor.orienteering.asn.au
-DTSTAMP:20240410T103202Z
+DTSTAMP:20241012T083600Z
 DTSTART:20241025T223000Z
 DTEND:20241026T010000Z
 SUMMARY:SOS 2, Bold Horizons Event Organiser
@@ -1455,7 +1437,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20588
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20955@eventor.orienteering.asn.au
-DTSTAMP:20240822T062548Z
+DTSTAMP:20241012T060939Z
 DTSTART:20241109T220000Z
 DTEND:20241109T233000Z
 SUMMARY:Central Coast Summer Series 1 - Shelly Beach, Central Coast Orienteers
@@ -1519,5 +1501,47 @@ DTSTART:20241111T073000Z
 DTEND:20241111T091500Z
 SUMMARY:Melbourne Park Street Monday Summer Series - Koolunga, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21333
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20816@eventor.orienteering.asn.au
+DTSTAMP:20240504T010429Z
+DTSTART:20241111T130000Z
+DTEND:20241112T130000Z
+SUMMARY:TBA - Northwest Spring Twilight Series #2, Pathfinders
+URL:https://eventor.orienteering.asn.au/Events/Show/20816
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21363@eventor.orienteering.asn.au
+DTSTAMP:20240923T000248Z
+DTSTART:20241111T230000Z
+DTEND:20241112T050000Z
+SUMMARY:Closed event for school group, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/21363
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19870@eventor.orienteering.asn.au
+DTSTAMP:20240811T031200Z
+DTSTART:20241112T073000Z
+DTEND:20241112T073000Z
+SUMMARY:Night Nav - EN - Alderley, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/19870
+GEO:-27.4351794621445;153.01969339462
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21337@eventor.orienteering.asn.au
+DTSTAMP:20240917T023605Z
+DTSTART:20241112T073000Z
+DTEND:20241112T091500Z
+SUMMARY:Melbourne Park Street Tuesday Summer Series - Newport Lakes, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21337
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21356@eventor.orienteering.asn.au
+DTSTAMP:20240918T033642Z
+DTSTART:20241112T080000Z
+DTEND:20241112T080000Z
+SUMMARY:Night Nav - Coolum Beach, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21356
+GEO:-26.5259431560798;153.090372553395
 END:VEVENT
 END:VCALENDAR
