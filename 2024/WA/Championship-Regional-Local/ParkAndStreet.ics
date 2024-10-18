@@ -305,7 +305,7 @@ GEO:-33.78328104108;151.050300744105
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21364@eventor.orienteering.asn.au
-DTSTAMP:20241016T110320Z
+DTSTAMP:20241017T222348Z
 DTSTART:20241016T060000Z
 DTEND:20241016T081500Z
 SUMMARY:Newastle Summer Street Series #1 - Irrawang, Newcastle Orienteering Club
@@ -347,6 +347,15 @@ SUMMARY:Melbourne Park Street Thursday Summer Series - Heidelberg Heights - BBQ 
 URL:https://eventor.orienteering.asn.au/Events/Show/21312
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_21145@eventor.orienteering.asn.au
+DTSTAMP:20241018T003057Z
+DTSTART:20241017T080000Z
+DTEND:20241017T080000Z
+SUMMARY:Night Nav - EN Nth - Brighton - NEW MAP, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/21145
+GEO:-27.2924002439354;153.064687225623
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21315@eventor.orienteering.asn.au
 DTSTAMP:20240915T084954Z
 DTSTART:20241017T080000Z
@@ -355,17 +364,8 @@ SUMMARY:Geelong Park Street Thursday Summer Series - Sailors Rest, Bayside Kanga
 URL:https://eventor.orienteering.asn.au/Events/Show/21315
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21145@eventor.orienteering.asn.au
-DTSTAMP:20241016T102332Z
-DTSTART:20241017T080000Z
-DTEND:20241017T093000Z
-SUMMARY:Night Nav - EN Nth - Brighton - NEW MAP, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/21145
-GEO:-27.2924002439354;153.064687225623
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19100@eventor.orienteering.asn.au
-DTSTAMP:20241015T043109Z
+DTSTAMP:20241018T112430Z
 DTSTART:20241018T053000Z
 DTEND:20241018T080000Z
 SUMMARY:Australian MTBO Carnival & Championships: MASS START, West Stromlo, Orienteering ACT
@@ -782,6 +782,15 @@ DTEND:20241026T093000Z
 SUMMARY:NightNav - Gold Coast - #4 Upper Coomera, Paradise Lost Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21283
 GEO:-27.8674703455039;153.304450942398
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21475@eventor.orienteering.asn.au
+DTSTAMP:20241018T094852Z
+DTSTART:20241026T091500Z
+DTEND:20241026T100000Z
+SUMMARY:Vampire O , Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/21475
+GEO:-34.932498484832;138.58576753574
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21404@eventor.orienteering.asn.au
@@ -1691,5 +1700,21 @@ DTEND:20241117T050000Z
 SUMMARY:River and Bay Series #4 - Double Bay (new map), Illawarra Kareelah Orienteers / Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21116
 GEO:-33.8748551015375;151.24631410159
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21272@eventor.orienteering.asn.au
+DTSTAMP:20240909T025606Z
+DTSTART:20241118T060000Z
+DTEND:20241118T090000Z
+SUMMARY:ACT MapRun Street Series: Yarralumla, 14-18 Nov, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/21272
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21334@eventor.orienteering.asn.au
+DTSTAMP:20240917T023212Z
+DTSTART:20241118T073000Z
+DTEND:20241118T091500Z
+SUMMARY:Melbourne Park Street Monday Summer Series - Wantirna South, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21334
 END:VEVENT
 END:VCALENDAR
