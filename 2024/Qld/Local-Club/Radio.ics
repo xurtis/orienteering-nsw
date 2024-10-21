@@ -3,40 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_19964@eventor.orienteering.asn.au
-DTSTAMP:20241014T062149Z
-DTSTART:20241014T000000Z
-DTEND:20241014T030000Z
-SUMMARY:NSW MTBO Championships - Long, Orienteering NSW / Uringa Orienteers / Western and Hills Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19964
-GEO:-34.1985505574869;150.789380397258
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21267@eventor.orienteering.asn.au
-DTSTAMP:20241014T112405Z
-DTSTART:20241014T060000Z
-DTEND:20241014T090000Z
-SUMMARY:ACT MapRun Street Series: Cook-Macquarie, 10-14 Oct, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/21267
-GEO:-35.2587835324578;149.062353653026
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21298@eventor.orienteering.asn.au
-DTSTAMP:20240915T074816Z
-DTSTART:20241014T073000Z
-DTEND:20241014T091500Z
-SUMMARY:Melbourne Park Street Monday Summer Series - Malvern Central, Nillumbik Emus Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21298
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20825@eventor.orienteering.asn.au
-DTSTAMP:20240506T014117Z
-DTSTART:20241014T090000Z
-DTEND:20241014T090000Z
-SUMMARY:Orienteering ACT October Board Meeting, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/20825
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20345@eventor.orienteering.asn.au
 DTSTAMP:20241015T105006Z
 DTSTART:20241014T140000Z
@@ -161,7 +127,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21312
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21145@eventor.orienteering.asn.au
-DTSTAMP:20241018T003057Z
+DTSTAMP:20241021T085051Z
 DTSTART:20241017T080000Z
 DTEND:20241017T080000Z
 SUMMARY:Night Nav - EN Nth - Brighton - NEW MAP, Enoggeroos
@@ -192,6 +158,15 @@ DTSTART:20241018T130000Z
 DTEND:20241019T130000Z
 SUMMARY: OT Presentation Dinner, Orienteering Tasmania
 URL:https://eventor.orienteering.asn.au/Events/Show/20810
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21282@eventor.orienteering.asn.au
+DTSTAMP:20241021T092628Z
+DTSTART:20241018T140000Z
+DTEND:20241019T140000Z
+SUMMARY:NightNav - Gold Coast - #3 Parkwood, Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21282
+GEO:-27.950014564471;153.368614503245
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19101@eventor.orienteering.asn.au
@@ -266,15 +241,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20551
 GEO:-35.0048271450715;117.90081152023
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21282@eventor.orienteering.asn.au
-DTSTAMP:20240909T060300Z
-DTSTART:20241019T073000Z
-DTEND:20241019T093000Z
-SUMMARY:NightNav - Gold Coast - #3 Parkwood, Paradise Lost Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21282
-GEO:-27.950014564471;153.368614503245
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19687@eventor.orienteering.asn.au
 DTSTAMP:20240906T063236Z
 DTSTART:20241019T073000Z
@@ -285,7 +251,7 @@ GEO:-35.3391085478285;149.151515861165
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21013@eventor.orienteering.asn.au
-DTSTAMP:20241020T013315Z
+DTSTAMP:20241020T185147Z
 DTSTART:20241019T220000Z
 DTEND:20241020T010000Z
 SUMMARY:  NEW DATE Sydney Summer Series Super Sunday - Sailors Bay, Big Foot Orienteers / Garingal Orienteers
@@ -356,7 +322,7 @@ GEO:-31.4781609448727;152.928749418368
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21382@eventor.orienteering.asn.au
-DTSTAMP:20241017T055317Z
+DTSTAMP:20241021T070627Z
 DTSTART:20241020T050000Z
 DTEND:20241020T050000Z
 SUMMARY:Learn to Orienteer No 2 - Laurel Bank Park, Toowoomba, Range Runners Orienteering Club
@@ -679,7 +645,7 @@ GEO:-27.5114430775013;152.927811910566
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21113@eventor.orienteering.asn.au
-DTSTAMP:20241018T200607Z
+DTSTAMP:20241021T010700Z
 DTSTART:20241027T050000Z
 DTEND:20241027T050000Z
 SUMMARY:River and Bay Series #1 - Undercliffe, Illawarra Kareelah Orienteers / Uringa Orienteers
@@ -1008,7 +974,7 @@ GEO:-27.4271762621202;152.992906260191
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21354@eventor.orienteering.asn.au
-DTSTAMP:20240918T032008Z
+DTSTAMP:20241021T052258Z
 DTSTART:20241105T080000Z
 DTEND:20241105T080000Z
 SUMMARY:Night Nav - Mooloolaba, Sunshine Orienteers Club
@@ -1289,7 +1255,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21337
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21356@eventor.orienteering.asn.au
-DTSTAMP:20240918T033642Z
+DTSTAMP:20241021T051035Z
 DTSTART:20241112T080000Z
 DTEND:20241112T080000Z
 SUMMARY:Night Nav - Coolum Beach, Sunshine Orienteers Club
@@ -1543,7 +1509,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21338
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21401@eventor.orienteering.asn.au
-DTSTAMP:20241003T104626Z
+DTSTAMP:20241021T053135Z
 DTSTART:20241119T080000Z
 DTEND:20241119T080000Z
 SUMMARY:Night Nav - Golden Beach, Sunshine Orienteers Club
@@ -1584,7 +1550,7 @@ DTSTART:20241120T000000Z
 DTEND:20241120T023000Z
 SUMMARY:Midweek Training at Lochiel Park, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/20103
-GEO:-34.8859893831335;138.647201750624
+GEO:-34.8857879776226;138.647730540545
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21330@eventor.orienteering.asn.au
@@ -1637,5 +1603,46 @@ DTSTART:20241120T073000Z
 DTEND:20241120T091500Z
 SUMMARY:Melbourne Park Street Wednesday Summer Series - Wattle View, Victorian ARDF Group
 URL:https://eventor.orienteering.asn.au/Events/Show/21342
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20914@eventor.orienteering.asn.au
+DTSTAMP:20241020T184106Z
+DTSTART:20241120T204500Z
+DTEND:20241120T214500Z
+SUMMARY:SC-ORE #3: St Joseph's Primary School, O'Connor, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20914
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21405@eventor.orienteering.asn.au
+DTSTAMP:20241008T033348Z
+DTSTART:20241121T073000Z
+DTEND:20241121T090000Z
+SUMMARY:Night Nav - Southside - Rochedale South, Toohey Forest Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21405
+GEO:-27.6039697185054;153.133401992801
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21346@eventor.orienteering.asn.au
+DTSTAMP:20240917T025147Z
+DTSTART:20241121T073000Z
+DTEND:20241121T091500Z
+SUMMARY:Melbourne Park Street Thursday Summer Series - Sarissa Park, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21346
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21350@eventor.orienteering.asn.au
+DTSTAMP:20240917T025808Z
+DTSTART:20241121T080000Z
+DTEND:20241121T091500Z
+SUMMARY:Geelong Park Street Thursday Summer Series - Gurnang Walk, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21350
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21150@eventor.orienteering.asn.au
+DTSTAMP:20240825T025409Z
+DTSTART:20241121T080000Z
+DTEND:20241121T093000Z
+SUMMARY:Night Nav - EN Nth - Woody Point, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/21150
 END:VEVENT
 END:VCALENDAR
