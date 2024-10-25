@@ -3,15 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_19100@eventor.orienteering.asn.au
-DTSTAMP:20241018T112430Z
-DTSTART:20241018T053000Z
-DTEND:20241018T080000Z
-SUMMARY:Australian MTBO Carnival & Championships: MASS START, West Stromlo, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/19100
-GEO:-35.2998337899594;149.007856579454
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20810@eventor.orienteering.asn.au
 DTSTAMP:20241008T211225Z
 DTSTART:20241018T130000Z
@@ -338,21 +329,21 @@ SUMMARY:Melbourne Park Street Thursday Summer Series - Park Orchards, Nillumbik 
 URL:https://eventor.orienteering.asn.au/Events/Show/21313
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_21146@eventor.orienteering.asn.au
+DTSTAMP:20241025T041637Z
+DTSTART:20241024T080000Z
+DTEND:20241024T080000Z
+SUMMARY:Night Nav - EN Nth - Kippa-Ring, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/21146
+GEO:-27.2322651316158;153.095392259893
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21316@eventor.orienteering.asn.au
 DTSTAMP:20240915T085138Z
 DTSTART:20241024T080000Z
 DTEND:20241024T091500Z
 SUMMARY:Geelong Park Street Thursday Summer Series - Cowies Creek, New Map, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21316
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21146@eventor.orienteering.asn.au
-DTSTAMP:20241020T120305Z
-DTSTART:20241024T080000Z
-DTEND:20241024T093000Z
-SUMMARY:Night Nav - EN Nth - Kippa-Ring, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/21146
-GEO:-27.2322651316158;153.095392259893
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20073@eventor.orienteering.asn.au
@@ -445,7 +436,7 @@ GEO:-27.4205529752999;152.986429876786
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20990@eventor.orienteering.asn.au
-DTSTAMP:20241022T223908Z
+DTSTAMP:20241024T215906Z
 DTSTART:20241026T210000Z
 DTEND:20241027T000000Z
 SUMMARY:Newcastle BOSS1 MTBO - Columbey NP, Newcastle Orienteering Club
@@ -463,7 +454,7 @@ GEO:-37.6992616577821;144.040993883923
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21248@eventor.orienteering.asn.au
-DTSTAMP:20241004T031220Z
+DTSTAMP:20241025T013351Z
 DTSTART:20241026T233000Z
 DTEND:20241027T023000Z
 SUMMARY:SYP Learn to Orienteer  - Practice Event - MAITLAND AREA SCHOOL , Orienteering SA
@@ -586,7 +577,7 @@ GEO:-35.3348196527256;149.071694524345
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21208@eventor.orienteering.asn.au
-DTSTAMP:20241024T103055Z
+DTSTAMP:20241024T213935Z
 DTSTART:20241030T053000Z
 DTEND:20241030T083000Z
 SUMMARY:2024/25 Sydney Summer Series #4 - Freshwater, Garingal Orienteers
@@ -1639,5 +1630,38 @@ DTSTART:20241124T060000Z
 DTEND:20241124T060000Z
 SUMMARY:MapRun Parks - City Botanical Gardens - BCC , Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20224
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21189@eventor.orienteering.asn.au
+DTSTAMP:20241014T212625Z
+DTSTART:20241124T130000Z
+DTEND:20241125T130000Z
+SUMMARY:Sydney Summer Series 2024/2025 Season Ticket, Bennelong Northside Orienteers / Big Foot Orienteers / Garingal Orienteers / Illawarra Kareelah Orienteers / Orienteering NSW / Uringa Orienteers / Western and Hills Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21189
+GEO:-33.8459454373049;151.074497590352
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21273@eventor.orienteering.asn.au
+DTSTAMP:20240909T025609Z
+DTSTART:20241125T060000Z
+DTEND:20241125T090000Z
+SUMMARY:ACT MapRun Street Series: Higgins, 21-25 Nov, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/21273
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21335@eventor.orienteering.asn.au
+DTSTAMP:20240917T023332Z
+DTSTART:20241125T073000Z
+DTEND:20241125T091500Z
+SUMMARY:Melbourne Park Street Monday Summer Series - Seaford East, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21335
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20826@eventor.orienteering.asn.au
+DTSTAMP:20240506T014201Z
+DTSTART:20241125T090000Z
+DTEND:20241125T090000Z
+SUMMARY:Orienteering ACT November Board Meeting, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20826
 END:VEVENT
 END:VCALENDAR
