@@ -3,104 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_20810@eventor.orienteering.asn.au
-DTSTAMP:20241008T211225Z
-DTSTART:20241018T130000Z
-DTEND:20241019T130000Z
-SUMMARY: OT Presentation Dinner, Orienteering Tasmania
-URL:https://eventor.orienteering.asn.au/Events/Show/20810
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21282@eventor.orienteering.asn.au
-DTSTAMP:20241021T092628Z
-DTSTART:20241018T140000Z
-DTEND:20241019T140000Z
-SUMMARY:NightNav - Gold Coast - #3 Parkwood, Paradise Lost Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21282
-GEO:-27.950014564471;153.368614503245
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19101@eventor.orienteering.asn.au
-DTSTAMP:20241019T014422Z
-DTSTART:20241018T213000Z
-DTEND:20241019T010000Z
-SUMMARY:Australian MTBO Carnival & Championships: MIDDLE, Stringybark Hill, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/19101
-GEO:-35.3852579708639;149.200704387377
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20660@eventor.orienteering.asn.au
-DTSTAMP:20241019T011718Z
-DTSTART:20241018T223000Z
-DTEND:20241019T010000Z
-SUMMARY:SOS 1 St Ives, Bold Horizons Event Organiser
-URL:https://eventor.orienteering.asn.au/Events/Show/20660
-GEO:-33.739996;151.16715
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20724@eventor.orienteering.asn.au
-DTSTAMP:20241019T010238Z
-DTSTART:20241018T230000Z
-DTEND:20241019T010000Z
-SUMMARY:Illawarra Map Running Series - Spring #1 Shellharbour , Illawarra Kareelah Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20724
-GEO:-34.5626527294598;150.869545059514
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20072@eventor.orienteering.asn.au
-DTSTAMP:20241019T040336Z
-DTSTART:20241019T013000Z
-DTEND:20241019T013000Z
-SUMMARY:Bendigo Bush - Mandurang Coolibah, Bendigo Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20072
-GEO:-36.8312227315094;144.316861118766
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21444@eventor.orienteering.asn.au
-DTSTAMP:20241014T033301Z
-DTSTART:20241019T030000Z
-DTEND:20241019T050000Z
-SUMMARY:Learn to Orienteer - The Entrance, Central Coast Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21444
-GEO:-33.3381989685412;151.492833223546
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19102@eventor.orienteering.asn.au
-DTSTAMP:20241019T052224Z
-DTSTART:20241019T030000Z
-DTEND:20241019T060000Z
-SUMMARY:Australian MTBO Carnival & Championships: SPRINT, Sutton Road Driving Center, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/19102
-GEO:-35.3209989901624;149.239869994324
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20586@eventor.orienteering.asn.au
-DTSTAMP:20241019T053109Z
-DTSTART:20241019T040000Z
-DTEND:20241019T060000Z
-SUMMARY:Summer Shorts and Sprints 2 - Penola College, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20586
-GEO:-37.6887265349464;144.919700255648
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20551@eventor.orienteering.asn.au
-DTSTAMP:20241019T123451Z
-DTSTART:20241019T070000Z
-DTEND:20241019T073000Z
-SUMMARY:Albany - Spencer Park Primary, Albany & Denmark Hinterland Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20551
-GEO:-35.0048271450715;117.90081152023
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19687@eventor.orienteering.asn.au
-DTSTAMP:20240906T063236Z
-DTSTART:20241019T073000Z
-DTEND:20241019T110000Z
-SUMMARY:Australian MTBO Carnival PRESENTATIONS DINNER, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/19687
-GEO:-35.3391085478285;149.151515861165
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21239@eventor.orienteering.asn.au
 DTSTAMP:20241022T120331Z
 DTSTART:20241019T140000Z
@@ -356,7 +258,7 @@ GEO:-36.8088838405014;144.199438311572
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20661@eventor.orienteering.asn.au
-DTSTAMP:20241021T221307Z
+DTSTAMP:20241026T010314Z
 DTSTART:20241025T223000Z
 DTEND:20241026T010000Z
 SUMMARY:SOS 2 - Marsfield, Bold Horizons Event Organiser
@@ -365,7 +267,7 @@ GEO:-33.7719030025616;151.101248679123
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20725@eventor.orienteering.asn.au
-DTSTAMP:20241024T032250Z
+DTSTAMP:20241026T004340Z
 DTSTART:20241025T230000Z
 DTEND:20241026T010000Z
 SUMMARY:Illawarra Map Running Series - Spring #2 Wollongong, Illawarra Kareelah Orienteers
@@ -374,7 +276,7 @@ GEO:-34.4175292914947;150.88278368983
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21279@eventor.orienteering.asn.au
-DTSTAMP:20241019T233551Z
+DTSTAMP:20241026T114430Z
 DTSTART:20241025T230000Z
 DTEND:20241026T033000Z
 SUMMARY:Ballarat Classics Series #7 - Borhoney Ghurk, Eureka Orienteers
@@ -442,6 +344,15 @@ DTEND:20241027T000000Z
 SUMMARY:Newcastle BOSS1 MTBO - Columbey NP, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20990
 GEO:-32.5826734282257;151.732085434576
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21503@eventor.orienteering.asn.au
+DTSTAMP:20241026T064311Z
+DTSTART:20241026T230000Z
+DTEND:20241026T230000Z
+SUMMARY:AWOC MTBO Championships, Albury-Wodonga Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21503
+GEO:-35.9808610779395;146.978231212705
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20075@eventor.orienteering.asn.au
@@ -1663,5 +1574,39 @@ DTSTART:20241125T090000Z
 DTEND:20241125T090000Z
 SUMMARY:Orienteering ACT November Board Meeting, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/20826
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20819@eventor.orienteering.asn.au
+DTSTAMP:20240504T010734Z
+DTSTART:20241125T130000Z
+DTEND:20241126T130000Z
+SUMMARY:TBA - Northwest Spring Twilight Series #4, Pathfinders
+URL:https://eventor.orienteering.asn.au/Events/Show/20819
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21339@eventor.orienteering.asn.au
+DTSTAMP:20240917T023912Z
+DTSTART:20241126T073000Z
+DTEND:20241126T091500Z
+SUMMARY:Melbourne Park Street Tuesday Summer Series - Cherry Lake; Christmas Dinner, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21339
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19872@eventor.orienteering.asn.au
+DTSTAMP:20240811T033331Z
+DTSTART:20241126T080000Z
+DTEND:20241126T093000Z
+SUMMARY:Night Nav - EN - Mitchelton, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/19872
+GEO:-27.4172438959192;152.977844404435
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20041@eventor.orienteering.asn.au
+DTSTAMP:20231213T040127Z
+DTSTART:20241126T083000Z
+DTEND:20241126T083000Z
+SUMMARY:Orienteering NSW November Board Meeting, Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/20041
+GEO:-33.8460034291842;151.074483418337
 END:VEVENT
 END:VCALENDAR
