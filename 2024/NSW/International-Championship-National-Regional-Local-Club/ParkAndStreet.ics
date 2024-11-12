@@ -3,40 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_20815@eventor.orienteering.asn.au
-DTSTAMP:20241104T072819Z
-DTSTART:20241104T130000Z
-DTEND:20241105T130000Z
-SUMMARY:TBA - Northwest Spring Twilight Series #1, Pathfinders
-URL:https://eventor.orienteering.asn.au/Events/Show/20815
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19869@eventor.orienteering.asn.au
-DTSTAMP:20241105T111705Z
-DTSTART:20241104T140000Z
-DTEND:20241105T140000Z
-SUMMARY:Night Nav - EN - Enoggera, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/19869
-GEO:-27.4271762621202;152.992906260191
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21336@eventor.orienteering.asn.au
-DTSTAMP:20240917T023450Z
-DTSTART:20241105T073000Z
-DTEND:20241105T091500Z
-SUMMARY:Melbourne Park Street Tuesday Summer Series - Albert Park, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21336
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21354@eventor.orienteering.asn.au
-DTSTAMP:20241031T083952Z
-DTSTART:20241105T080000Z
-DTEND:20241105T080000Z
-SUMMARY:Night Nav - Mooloolaba, Sunshine Orienteers Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21354
-GEO:-26.6821345221568;153.121699798426
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20806@eventor.orienteering.asn.au
 DTSTAMP:20241106T105856Z
 DTSTART:20241105T130000Z
@@ -92,7 +58,7 @@ GEO:-35.2567489464683;149.046350049471
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19837@eventor.orienteering.asn.au
-DTSTAMP:20231121T021217Z
+DTSTAMP:20241112T020924Z
 DTSTART:20241106T063000Z
 DTEND:20241106T080000Z
 SUMMARY:Albury-Wodonga Street & Park (location tba), Albury-Wodonga Orienteering Club
@@ -266,7 +232,7 @@ GEO:-27.6054536409804;151.931214380182
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21271@eventor.orienteering.asn.au
-DTSTAMP:20241101T050910Z
+DTSTAMP:20241112T063803Z
 DTSTART:20241111T060000Z
 DTEND:20241111T090000Z
 SUMMARY:ACT MapRun Street Series: Evatt, 7-11 Nov, Orienteering ACT
@@ -386,7 +352,7 @@ GEO:-35.3495820016709;149.023925730652
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19838@eventor.orienteering.asn.au
-DTSTAMP:20231121T021413Z
+DTSTAMP:20241112T021005Z
 DTSTART:20241113T063000Z
 DTEND:20241113T080000Z
 SUMMARY:Albury-Wodonga Street & Park (location tba), Albury-Wodonga Orienteering Club
@@ -506,7 +472,7 @@ GEO:-35.0233749338186;117.883058063646
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21396@eventor.orienteering.asn.au
-DTSTAMP:20241105T054309Z
+DTSTAMP:20241112T020732Z
 DTSTART:20241116T090000Z
 DTEND:20241116T103000Z
 SUMMARY:MetrO 2 Yokine, Bibbulmun Orienteers / Orienteering WA
@@ -715,7 +681,7 @@ GEO:-35.2789551433699;149.148421720711
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19840@eventor.orienteering.asn.au
-DTSTAMP:20231121T024854Z
+DTSTAMP:20241112T021121Z
 DTSTART:20241120T063000Z
 DTEND:20241120T080000Z
 SUMMARY:Albury-Wodonga Street & Park (location tba), Albury-Wodonga Orienteering Club
@@ -1040,7 +1006,7 @@ GEO:-35.2508684251754;149.106350218836
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19841@eventor.orienteering.asn.au
-DTSTAMP:20231121T025122Z
+DTSTAMP:20241112T021153Z
 DTSTART:20241127T063000Z
 DTEND:20241127T080000Z
 SUMMARY:Albury-Wodonga Street & Park (location tba), Albury-Wodonga Orienteering Club
@@ -1131,7 +1097,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21544
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21100@eventor.orienteering.asn.au
-DTSTAMP:20240915T234117Z
+DTSTAMP:20241112T004556Z
 DTSTART:20241128T233000Z
 DTEND:20241128T233000Z
 SUMMARY:Victorian Primary Schools Orienteering Championships, Orienteering Victoria
@@ -1422,15 +1388,6 @@ SUMMARY:TBA - Northern Christmas Break-up, Esk Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/20821
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21320@eventor.orienteering.asn.au
-DTSTAMP:20241111T043003Z
-DTSTART:20241207T130000Z
-DTEND:20241208T130000Z
-SUMMARY:West Sydney Orienteering Series #1, Western and Hills Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21320
-GEO:-33.787286467141;150.866873113933
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21038@eventor.orienteering.asn.au
 DTSTAMP:20241024T035719Z
 DTSTART:20241207T220000Z
@@ -1447,6 +1404,15 @@ DTEND:20241208T010000Z
 SUMMARY:2024 WHO Cup & AGM, Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21505
 GEO:-33.7872276551494;150.866642345434
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21320@eventor.orienteering.asn.au
+DTSTAMP:20241111T205002Z
+DTSTART:20241207T223000Z
+DTEND:20241208T010000Z
+SUMMARY:West Sydney Orienteering Series #1, Western and Hills Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21320
+GEO:-33.787286467141;150.866873113933
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21522@eventor.orienteering.asn.au
@@ -1572,5 +1538,30 @@ DTSTART:20241211T073000Z
 DTEND:20241211T091500Z
 SUMMARY:Melbourne Park Street Wednesday Summer Series - Middle Mullum, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21516
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21408@eventor.orienteering.asn.au
+DTSTAMP:20241008T034143Z
+DTSTART:20241212T073000Z
+DTEND:20241212T090000Z
+SUMMARY:Night Nav - Southside - Brown Plains/Drewvale, Toohey Forest Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21408
+GEO:-27.6609366926917;153.052208082697
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21519@eventor.orienteering.asn.au
+DTSTAMP:20241030T015526Z
+DTSTART:20241212T073000Z
+DTEND:20241212T091500Z
+SUMMARY:Melbourne Park Street Thursday Summer Series - Koonung Crossing, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21519
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21153@eventor.orienteering.asn.au
+DTSTAMP:20240825T025532Z
+DTSTART:20241212T080000Z
+DTEND:20241212T093000Z
+SUMMARY:Night Nav - EN Nth - Rothwell, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/21153
 END:VEVENT
 END:VCALENDAR
