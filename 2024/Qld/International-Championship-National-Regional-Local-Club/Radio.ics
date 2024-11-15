@@ -3,24 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_21290@eventor.orienteering.asn.au
-DTSTAMP:20241108T101317Z
-DTSTART:20241107T130000Z
-DTEND:20241108T130000Z
-SUMMARY:Goldseekers Park #2 - Gosling Creek, Goldseekers Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21290
-GEO:-33.3254207514651;149.08608793486
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21531@eventor.orienteering.asn.au
-DTSTAMP:20241104T053104Z
-DTSTART:20241108T083000Z
-DTEND:20241108T100000Z
-SUMMARY:BK MeOS Training , Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21531
-GEO:-37.8245688947622;145.111487460674
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20663@eventor.orienteering.asn.au
 DTSTAMP:20241109T052745Z
 DTSTART:20241108T223000Z
@@ -298,6 +280,15 @@ SUMMARY:Melbourne Park Street Thursday Summer Series - Warralong, Nillumbik Emus
 URL:https://eventor.orienteering.asn.au/Events/Show/21345
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_21149@eventor.orienteering.asn.au
+DTSTAMP:20241115T020548Z
+DTSTART:20241114T080000Z
+DTEND:20241114T080000Z
+SUMMARY:Night Nav - EN Nth - Shorncliffe, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/21149
+GEO:-27.3251450764298;153.085203868872
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21349@eventor.orienteering.asn.au
 DTSTAMP:20240917T025701Z
 DTSTART:20241114T080000Z
@@ -306,19 +297,10 @@ SUMMARY:Geelong Park Street Thursday Summer Series - Coolabah Park - new map, Ba
 URL:https://eventor.orienteering.asn.au/Events/Show/21349
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21149@eventor.orienteering.asn.au
-DTSTAMP:20241111T024929Z
-DTSTART:20241114T080000Z
-DTEND:20241114T093000Z
-SUMMARY:Night Nav - EN Nth - Shorncliffe, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/21149
-GEO:-27.3251450764298;153.085203868872
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21291@eventor.orienteering.asn.au
-DTSTAMP:20240913T005229Z
-DTSTART:20241115T063000Z
-DTEND:20241115T083000Z
+DTSTAMP:20241115T100727Z
+DTSTART:20241114T130000Z
+DTEND:20241115T130000Z
 SUMMARY:Goldseekers Park #3 - Elephant Park, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21291
 GEO:-33.2881404732381;149.0875983389
@@ -404,7 +386,7 @@ GEO:-31.4371002593813;152.905420624111
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20589@eventor.orienteering.asn.au
-DTSTAMP:20241015T053307Z
+DTSTAMP:20241115T031742Z
 DTSTART:20241117T000000Z
 DTEND:20241117T020000Z
 SUMMARY:Melbourne City Race, Port Melbourne, Dandenong Ranges Orienteering Club
@@ -544,7 +526,7 @@ GEO:-35.2790022210486;149.148739086952
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21211@eventor.orienteering.asn.au
-DTSTAMP:20241113T114140Z
+DTSTAMP:20241114T230947Z
 DTSTART:20241120T053000Z
 DTEND:20241120T083000Z
 SUMMARY:2024/25 Sydney Summer Series #7 - Wahroonga, Garingal Orienteers
@@ -647,7 +629,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21350
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21150@eventor.orienteering.asn.au
-DTSTAMP:20240825T025409Z
+DTSTAMP:20241115T020614Z
 DTSTART:20241121T080000Z
 DTEND:20241121T093000Z
 SUMMARY:Night Nav - EN Nth - Woody Point, Enoggeroos
@@ -971,6 +953,7 @@ DTSTART:20241128T080000Z
 DTEND:20241128T093000Z
 SUMMARY:Night Nav - EN Nth - Scarborough, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/21151
+GEO:-27.197897082006;153.115852369725
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21544@eventor.orienteering.asn.au
@@ -1069,7 +1052,7 @@ GEO:-27.5705946327039;153.164264973353
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21402@eventor.orienteering.asn.au
-DTSTAMP:20241105T024152Z
+DTSTAMP:20241115T091048Z
 DTSTART:20241201T020000Z
 DTEND:20241201T030000Z
 SUMMARY:Victorian Sprint Championship, Tarneit College - Dynamic Duo Relay, Bayside Kangaroos Orienteers
@@ -1105,7 +1088,7 @@ GEO:-36.0873748844644;146.904243007918
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21274@eventor.orienteering.asn.au
-DTSTAMP:20240909T025611Z
+DTSTAMP:20241115T112238Z
 DTSTART:20241202T060000Z
 DTEND:20241202T090000Z
 SUMMARY:ACT MapRun Street Series: Campbell, 28 Nov - 2 Dec, Orienteering ACT
@@ -1233,11 +1216,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21518
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21152@eventor.orienteering.asn.au
-DTSTAMP:20240825T025503Z
+DTSTAMP:20241115T020636Z
 DTSTART:20241205T080000Z
 DTEND:20241205T093000Z
 SUMMARY:Night Nav - EN Nth - Clontarf, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/21152
+GEO:-27.2445600424249;153.085148709785
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21370@eventor.orienteering.asn.au
@@ -1327,7 +1311,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20226
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21275@eventor.orienteering.asn.au
-DTSTAMP:20240916T005018Z
+DTSTAMP:20241115T113712Z
 DTSTART:20241209T060000Z
 DTEND:20241209T090000Z
 SUMMARY:ACT MapRun Street Series: Charnwood, 5-9 Dec, Orienteering ACT
@@ -1445,7 +1429,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21519
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21153@eventor.orienteering.asn.au
-DTSTAMP:20240825T025532Z
+DTSTAMP:20241115T020659Z
 DTSTART:20241212T080000Z
 DTEND:20241212T093000Z
 SUMMARY:Night Nav - EN Nth - Rothwell, Enoggeroos
@@ -1484,5 +1468,38 @@ DTEND:20241214T090000Z
 SUMMARY:Metro 5 Thornlie, Bibbulmun Orienteers / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/21399
 GEO:-32.0478420324793;115.963975987255
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_19819@eventor.orienteering.asn.au
+DTSTAMP:20231117T083640Z
+DTSTART:20241214T130000Z
+DTEND:20241215T130000Z
+SUMMARY:Waggaroos Summer Series 2024-25 #3. Location TBA., Wagga and Riverina Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/19819
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20992@eventor.orienteering.asn.au
+DTSTAMP:20241031T032846Z
+DTSTART:20241214T210000Z
+DTEND:20241215T000000Z
+SUMMARY:Newcastle BOSS3 MTBO - Winding Creek, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20992
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21039@eventor.orienteering.asn.au
+DTSTAMP:20241024T035814Z
+DTSTART:20241214T220000Z
+DTEND:20241214T233000Z
+SUMMARY:Central Coast Summer Series 6 - Point Clare, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21039
+GEO:-33.4362347720476;151.323060667295
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20977@eventor.orienteering.asn.au
+DTSTAMP:20240630T094057Z
+DTSTART:20241215T000000Z
+DTEND:20241215T020000Z
+SUMMARY:North Haven Orienteering, Hastings Orienteering Group
+URL:https://eventor.orienteering.asn.au/Events/Show/20977
 END:VEVENT
 END:VCALENDAR
