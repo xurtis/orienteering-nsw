@@ -3,48 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_20816@eventor.orienteering.asn.au
-DTSTAMP:20241104T072911Z
-DTSTART:20241111T130000Z
-DTEND:20241112T130000Z
-SUMMARY:TBA - Northwest Spring Twilight Series #2, Pathfinders
-URL:https://eventor.orienteering.asn.au/Events/Show/20816
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19870@eventor.orienteering.asn.au
-DTSTAMP:20241112T230712Z
-DTSTART:20241111T140000Z
-DTEND:20241112T140000Z
-SUMMARY:Night Nav - EN - Alderley, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/19870
-GEO:-27.4351794621445;153.01969339462
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21363@eventor.orienteering.asn.au
-DTSTAMP:20240923T000248Z
-DTSTART:20241111T230000Z
-DTEND:20241112T050000Z
-SUMMARY:Closed event for school group, Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/21363
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21337@eventor.orienteering.asn.au
-DTSTAMP:20240917T023605Z
-DTSTART:20241112T073000Z
-DTEND:20241112T091500Z
-SUMMARY:Melbourne Park Street Tuesday Summer Series - Newport Lakes, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21337
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21356@eventor.orienteering.asn.au
-DTSTAMP:20241021T051035Z
-DTSTART:20241112T080000Z
-DTEND:20241112T080000Z
-SUMMARY:Night Nav - Coolum Beach, Sunshine Orienteers Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21356
-GEO:-26.5301483095721;153.090184866839
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20800@eventor.orienteering.asn.au
 DTSTAMP:20241113T094724Z
 DTSTART:20241113T043000Z
@@ -299,7 +257,7 @@ GEO:-27.5268850012295;152.952422055016
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21272@eventor.orienteering.asn.au
-DTSTAMP:20240909T025606Z
+DTSTAMP:20241119T124208Z
 DTSTART:20241118T060000Z
 DTEND:20241118T090000Z
 SUMMARY:ACT MapRun Street Series: Yarralumla, 14-18 Nov, Orienteering ACT
@@ -332,7 +290,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20817
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21565@eventor.orienteering.asn.au
-DTSTAMP:20241111T075721Z
+DTSTAMP:20241119T113214Z
 DTSTART:20241119T064500Z
 DTEND:20241119T083000Z
 SUMMARY:Ballarat Park & Street Summer Series 24/25 - #1 Delacombe, Eureka Orienteers
@@ -403,7 +361,7 @@ GEO:-35.2790022210486;149.148739086952
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21211@eventor.orienteering.asn.au
-DTSTAMP:20241114T230947Z
+DTSTAMP:20241119T064333Z
 DTSTART:20241120T053000Z
 DTEND:20241120T083000Z
 SUMMARY:2024/25 Sydney Summer Series #7 - Wahroonga, Garingal Orienteers
@@ -515,7 +473,7 @@ GEO:-27.2613667977519;153.103371338263
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21558@eventor.orienteering.asn.au
-DTSTAMP:20241108T052114Z
+DTSTAMP:20241119T042916Z
 DTSTART:20241121T080000Z
 DTEND:20241121T103000Z
 SUMMARY:Purple Pen ZOOM Workshop for beginners or refreshers, Orienteering ACT / Orienteering NSW / Orienteering Queensland / Orienteering SA / Orienteering Tasmania / Orienteering Victoria / Orienteering WA / Top End Orienteers
@@ -523,7 +481,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21558
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21292@eventor.orienteering.asn.au
-DTSTAMP:20240913T005334Z
+DTSTAMP:20241119T044241Z
 DTSTART:20241122T063000Z
 DTEND:20241122T083000Z
 SUMMARY:Goldseekers Park #4 - Botanic Gardens, Goldseekers Orienteers
@@ -568,12 +526,12 @@ GEO:-38.1958530028982;144.302137590519
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21397@eventor.orienteering.asn.au
-DTSTAMP:20241118T045248Z
+DTSTAMP:20241119T104131Z
 DTSTART:20241123T090000Z
 DTEND:20241123T090000Z
 SUMMARY:MetrO 3 Wireless Hill, Kulgun 225 Orienteers / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/21397
-GEO:-32.0334646274189;115.924939465079
+GEO:-32.0309744669827;115.827925050551
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20080@eventor.orienteering.asn.au
@@ -595,7 +553,7 @@ GEO:-33.5316923490024;151.359439473278
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21481@eventor.orienteering.asn.au
-DTSTAMP:20241118T055744Z
+DTSTAMP:20241119T030330Z
 DTSTART:20241124T050000Z
 DTEND:20241124T050000Z
 SUMMARY:Newcastle Bush Presentation event - Blue Gum Hills RP, Newcastle Orienteering Club
@@ -1493,5 +1451,30 @@ DTSTART:20241218T073000Z
 DTEND:20241218T091500Z
 SUMMARY:Melbourne Park Street Wednesday Summer Series - Templestowe Heights, Yarra Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21517
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21409@eventor.orienteering.asn.au
+DTSTAMP:20241008T034307Z
+DTSTART:20241219T073000Z
+DTEND:20241219T090000Z
+SUMMARY:Night Nav - Southside - Algester South, Toohey Forest Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21409
+GEO:-27.6363679631866;153.028770379398
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21520@eventor.orienteering.asn.au
+DTSTAMP:20241030T015657Z
+DTSTART:20241219T073000Z
+DTEND:20241219T091500Z
+SUMMARY:Melbourne Park Street Thursday Summer Series - Montmorency, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21520
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21154@eventor.orienteering.asn.au
+DTSTAMP:20241115T020723Z
+DTSTART:20241219T080000Z
+DTEND:20241219T093000Z
+SUMMARY:Night Nav - EN Nth - Newport, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/21154
 END:VEVENT
 END:VCALENDAR
