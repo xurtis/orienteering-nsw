@@ -3,31 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_21272@eventor.orienteering.asn.au
-DTSTAMP:20241119T124208Z
-DTSTART:20241118T060000Z
-DTEND:20241118T090000Z
-SUMMARY:ACT MapRun Street Series: Yarralumla, 14-18 Nov, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/21272
-GEO:-35.3074687741188;149.096924863829
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21334@eventor.orienteering.asn.au
-DTSTAMP:20240917T023212Z
-DTSTART:20241118T073000Z
-DTEND:20241118T091500Z
-SUMMARY:Melbourne Park Street Monday Summer Series - Wantirna South, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21334
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21532@eventor.orienteering.asn.au
-DTSTAMP:20241104T132601Z
-DTSTART:20241118T083000Z
-DTEND:20241118T103000Z
-SUMMARY:OA Conference - Great Organisation Workshop, Orienteering ACT / Orienteering NSW / Orienteering Queensland / Orienteering SA / Orienteering Tasmania / Orienteering Victoria / Orienteering WA
-URL:https://eventor.orienteering.asn.au/Events/Show/21532
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20817@eventor.orienteering.asn.au
 DTSTAMP:20241104T072945Z
 DTSTART:20241118T130000Z
@@ -193,7 +168,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21592
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21479@eventor.orienteering.asn.au
-DTSTAMP:20241120T004250Z
+DTSTAMP:20241124T215019Z
 DTSTART:20241121T060000Z
 DTEND:20241121T080000Z
 SUMMARY:Summer series #3, Northern Tablelands Orienteering Club
@@ -342,17 +317,17 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20224
 GEO:-27.4741372149476;153.02974288659
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21189@eventor.orienteering.asn.au
-DTSTAMP:20241014T212625Z
-DTSTART:20241124T130000Z
-DTEND:20241125T130000Z
-SUMMARY:Sydney Summer Series 2024/2025 Season Ticket, Bennelong Northside Orienteers / Big Foot Orienteers / Garingal Orienteers / Illawarra Kareelah Orienteers / Orienteering NSW / Uringa Orienteers / Western and Hills Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21189
-GEO:-33.8459454373049;151.074497590352
+UID:Event_21609@eventor.orienteering.asn.au
+DTSTAMP:20241125T073130Z
+DTSTART:20241125T011500Z
+DTEND:20241125T021500Z
+SUMMARY:One Tree Hill - Weeroona, Bendigo Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21609
+GEO:-36.7835577453732;144.302969022647
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21273@eventor.orienteering.asn.au
-DTSTAMP:20241104T015259Z
+DTSTAMP:20241125T130156Z
 DTSTART:20241125T060000Z
 DTEND:20241125T090000Z
 SUMMARY:ACT MapRun Street Series: Higgins, 21-25 Nov, Orienteering ACT
@@ -384,6 +359,15 @@ SUMMARY:Orienteering ACT November Board Meeting, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/20826
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_21189@eventor.orienteering.asn.au
+DTSTAMP:20241125T013905Z
+DTSTART:20241125T130000Z
+DTEND:20241126T130000Z
+SUMMARY:Sydney Summer Series 2024/2025 Season Ticket, Bennelong Northside Orienteers / Big Foot Orienteers / Garingal Orienteers / Illawarra Kareelah Orienteers / Orienteering NSW / Uringa Orienteers / Western and Hills Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21189
+GEO:-33.8459454373049;151.074497590352
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20819@eventor.orienteering.asn.au
 DTSTAMP:20241104T073010Z
 DTSTART:20241125T130000Z
@@ -398,7 +382,7 @@ DTSTART:20241126T064500Z
 DTEND:20241126T084500Z
 SUMMARY:Ballarat Park & Street Summer Series 24/25 - #2 Canadian Lakes, Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21566
-GEO:-37.5959124958935;143.873186526737
+GEO:-37.5929994486647;143.870206889387
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21339@eventor.orienteering.asn.au
@@ -478,7 +462,7 @@ DTSTART:20241127T060000Z
 DTEND:20241127T083000Z
 SUMMARY:ACT Runners Shop Twilight Series #5: Bruce Ridge, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/20897
-GEO:-35.2508684251754;149.106350218836
+GEO:-35.2490269426552;149.099710201315
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19841@eventor.orienteering.asn.au
@@ -921,7 +905,7 @@ GEO:-33.3299147110511;151.4413437609
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21505@eventor.orienteering.asn.au
-DTSTAMP:20241111T063753Z
+DTSTAMP:20241125T095936Z
 DTSTART:20241207T223000Z
 DTEND:20241208T010000Z
 SUMMARY:2024 WHO Cup & AGM, Western and Hills Orienteers
