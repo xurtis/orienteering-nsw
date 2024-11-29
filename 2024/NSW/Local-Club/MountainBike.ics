@@ -3,24 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_21292@eventor.orienteering.asn.au
-DTSTAMP:20241122T094756Z
-DTSTART:20241121T130000Z
-DTEND:20241122T130000Z
-SUMMARY:Goldseekers Park #4 - Botanic Gardens, Goldseekers Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21292
-GEO:-33.2562683018938;149.09597341856
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21368@eventor.orienteering.asn.au
-DTSTAMP:20241122T224040Z
-DTSTART:20241122T073000Z
-DTEND:20241122T073000Z
-SUMMARY:Twilight Series Event #2 - Oakden, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/21368
-GEO:-34.8568264478535;138.639954656196
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20665@eventor.orienteering.asn.au
 DTSTAMP:20241123T005855Z
 DTSTART:20241122T223000Z
@@ -283,7 +265,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20915
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21480@eventor.orienteering.asn.au
-DTSTAMP:20241113T094309Z
+DTSTAMP:20241129T001315Z
 DTSTART:20241128T060000Z
 DTEND:20241128T080000Z
 SUMMARY:Summer series #4, Northern Tablelands Orienteering Club
@@ -665,20 +647,21 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21398
 GEO:-31.8782887177791;115.764887757225
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20821@eventor.orienteering.asn.au
+DTSTAMP:20241129T052855Z
+DTSTART:20241207T130000Z
+DTEND:20241208T130000Z
+SUMMARY:Punchbowl - Northern Christmas Break-up, Esk Valley
+URL:https://eventor.orienteering.asn.au/Events/Show/20821
+GEO:-41.4567100072895;147.168101723318
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20812@eventor.orienteering.asn.au
 DTSTAMP:20241104T210539Z
 DTSTART:20241207T130000Z
 DTEND:20241208T130000Z
 SUMMARY:Queens Domain - Southern Christmas Break-up			, Australopers
 URL:https://eventor.orienteering.asn.au/Events/Show/20812
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20821@eventor.orienteering.asn.au
-DTSTAMP:20240504T011832Z
-DTSTART:20241207T130000Z
-DTEND:20241208T130000Z
-SUMMARY:TBA - Northern Christmas Break-up, Esk Valley
-URL:https://eventor.orienteering.asn.au/Events/Show/20821
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21038@eventor.orienteering.asn.au
@@ -722,7 +705,7 @@ DTSTART:20241208T050000Z
 DTEND:20241208T050000Z
 SUMMARY:River and Bay Series #7 - Dolls Point, Illawarra Kareelah Orienteers / Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21119
-GEO:-33.9957713510078;151.143611839929
+GEO:-34.0034499277779;151.135204296087
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20226@eventor.orienteering.asn.au
@@ -887,7 +870,7 @@ GEO:-35.2571641412821;149.105783127971
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20728@eventor.orienteering.asn.au
-DTSTAMP:20240527T073628Z
+DTSTAMP:20241129T120509Z
 DTSTART:20241214T040000Z
 DTEND:20241214T060000Z
 SUMMARY:IKO Xmas event  - Kiama region tbc , Illawarra Kareelah Orienteers
@@ -1123,5 +1106,13 @@ DTEND:20241228T130000Z
 SUMMARY:2024 XMAS 5 DAYS Day 2, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21175
 GEO:-33.8992011702318;151.234408271742
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21176@eventor.orienteering.asn.au
+DTSTAMP:20241121T061646Z
+DTSTART:20241228T130000Z
+DTEND:20241229T130000Z
+SUMMARY:2024 XMAS 5 DAYS Day 3, NSW Stingers / Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/21176
 END:VEVENT
 END:VCALENDAR
