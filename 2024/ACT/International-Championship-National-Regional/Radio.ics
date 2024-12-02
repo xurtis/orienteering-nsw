@@ -3,48 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_21609@eventor.orienteering.asn.au
-DTSTAMP:20241125T073130Z
-DTSTART:20241125T011500Z
-DTEND:20241125T021500Z
-SUMMARY:One Tree Hill - Weeroona, Bendigo Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21609
-GEO:-36.7835577453732;144.302969022647
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21273@eventor.orienteering.asn.au
-DTSTAMP:20241125T130156Z
-DTSTART:20241125T060000Z
-DTEND:20241125T090000Z
-SUMMARY:ACT MapRun Street Series: Higgins, 21-25 Nov, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/21273
-GEO:-35.2305912322045;149.023547135254
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21335@eventor.orienteering.asn.au
-DTSTAMP:20240917T023332Z
-DTSTART:20241125T073000Z
-DTEND:20241125T091500Z
-SUMMARY:Melbourne Park Street Monday Summer Series - Seaford East, Nillumbik Emus Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21335
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21534@eventor.orienteering.asn.au
-DTSTAMP:20241105T035142Z
-DTSTART:20241125T083000Z
-DTEND:20241125T093000Z
-SUMMARY:Participation and Engagement Network November Meeting, Orienteering ACT / Orienteering NSW / Orienteering Queensland / Orienteering SA / Orienteering Tasmania / Orienteering Victoria / Orienteering WA
-URL:https://eventor.orienteering.asn.au/Events/Show/21534
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20826@eventor.orienteering.asn.au
-DTSTAMP:20240506T014201Z
-DTSTART:20241125T090000Z
-DTEND:20241125T090000Z
-SUMMARY:Orienteering ACT November Board Meeting, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/20826
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20819@eventor.orienteering.asn.au
 DTSTAMP:20241125T225059Z
 DTSTART:20241125T130000Z
@@ -227,7 +185,7 @@ GEO:-27.197897082006;153.115852369725
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21544@eventor.orienteering.asn.au
-DTSTAMP:20241201T095247Z
+DTSTAMP:20241202T040853Z
 DTSTART:20241128T083000Z
 DTEND:20241128T103000Z
 SUMMARY:OA Conference - Great Events Workshop, Orienteering ACT / Orienteering NSW / Orienteering Queensland / Orienteering SA / Orienteering Tasmania / Orienteering Victoria / Orienteering WA
@@ -375,7 +333,7 @@ GEO:-36.0873748844644;146.904243007918
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21274@eventor.orienteering.asn.au
-DTSTAMP:20241201T122306Z
+DTSTAMP:20241202T105250Z
 DTSTART:20241202T060000Z
 DTEND:20241202T090000Z
 SUMMARY:ACT MapRun Street Series: Campbell, 28 Nov - 2 Dec, Orienteering ACT
@@ -392,7 +350,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21506
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21545@eventor.orienteering.asn.au
-DTSTAMP:20241107T001644Z
+DTSTAMP:20241202T023058Z
 DTSTART:20241202T083000Z
 DTEND:20241202T103000Z
 SUMMARY:OA Conference - Great Performances Workshop, Orienteering ACT / Orienteering NSW / Orienteering Queensland / Orienteering SA / Orienteering Tasmania / Orienteering Victoria / Orienteering WA
@@ -624,7 +582,7 @@ DTSTART:20241208T050000Z
 DTEND:20241208T050000Z
 SUMMARY:River and Bay Series #7 - Dolls Point, Illawarra Kareelah Orienteers / Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21119
-GEO:-34.0034499277779;151.135204296087
+GEO:-33.9916676320914;151.147302103541
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20226@eventor.orienteering.asn.au
@@ -970,6 +928,14 @@ SUMMARY:Night Nav - EN Nth - Newport, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/21154
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20429@eventor.orienteering.asn.au
+DTSTAMP:20241202T120510Z
+DTSTART:20241221T130000Z
+DTEND:20241222T130000Z
+SUMMARY:Bennelong Northside Club Communication, Bennelong Northside Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20429
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21416@eventor.orienteering.asn.au
 DTSTAMP:20241106T045623Z
 DTSTART:20241222T003000Z
@@ -1030,15 +996,6 @@ SUMMARY:Melbourne Park Street Thursday Summer Series - Merri Parklands North, Ni
 URL:https://eventor.orienteering.asn.au/Events/Show/21521
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21174@eventor.orienteering.asn.au
-DTSTAMP:20241201T024150Z
-DTSTART:20241226T130000Z
-DTEND:20241227T130000Z
-SUMMARY:2024 XMAS 5 DAYS Day 1, Orienteering NSW / Western and Hills Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21174
-GEO:-33.7338761291054;151.061178477136
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21625@eventor.orienteering.asn.au
 DTSTAMP:20241130T010058Z
 DTSTART:20241226T140000Z
@@ -1048,13 +1005,13 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21625
 GEO:-27.5123403630748;153.01656407664
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21175@eventor.orienteering.asn.au
-DTSTAMP:20241103T235722Z
-DTSTART:20241227T130000Z
-DTEND:20241228T130000Z
-SUMMARY:2024 XMAS 5 DAYS Day 2, Uringa Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21175
-GEO:-33.8992011702318;151.234408271742
+UID:Event_21174@eventor.orienteering.asn.au
+DTSTAMP:20241202T074225Z
+DTSTART:20241227T053000Z
+DTEND:20241227T080000Z
+SUMMARY:2024 XMAS 5 DAYS Day 1, Western and Hills Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21174
+GEO:-33.7327500086713;151.061307148229
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21626@eventor.orienteering.asn.au
@@ -1066,13 +1023,13 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21626
 GEO:-27.4031765923015;153.047509192173
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21176@eventor.orienteering.asn.au
-DTSTAMP:20241201T024259Z
-DTSTART:20241228T130000Z
-DTEND:20241229T130000Z
-SUMMARY:2024 XMAS 5 DAYS Day 3, NSW Stingers / Orienteering NSW
-URL:https://eventor.orienteering.asn.au/Events/Show/21176
-GEO:-33.887063339863;151.190052446828
+UID:Event_21175@eventor.orienteering.asn.au
+DTSTAMP:20241201T223327Z
+DTSTART:20241227T210000Z
+DTEND:20241227T210000Z
+SUMMARY:2024 XMAS 5 DAYS Day 2, Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21175
+GEO:-33.8992011702318;151.234408271742
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21627@eventor.orienteering.asn.au
@@ -1082,6 +1039,15 @@ DTEND:20241229T140000Z
 SUMMARY:Santa 6 Days 2024 - Event 4 -  Whites Hill, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/21627
 GEO:-27.5060749453025;153.086690255307
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21176@eventor.orienteering.asn.au
+DTSTAMP:20241202T034333Z
+DTSTART:20241228T210000Z
+DTEND:20241228T210000Z
+SUMMARY:2024 XMAS 5 DAYS Day 3, NSW Stingers / Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/21176
+GEO:-33.8852611466048;151.193714062046
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21628@eventor.orienteering.asn.au
@@ -1094,10 +1060,10 @@ GEO:-27.5235959125736;152.93203680712
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21217@eventor.orienteering.asn.au
-DTSTAMP:20241201T024501Z
+DTSTAMP:20241201T230249Z
 DTSTART:20241230T053000Z
 DTEND:20241230T083000Z
-SUMMARY:2024/25 Sydney Summer Series #13 - North Head, NSW Stingers
+SUMMARY:2024/25 Sydney Summer Series #13 - North Head, NSW Stingers / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/21217
 GEO:-33.8053293514978;151.292508828895
 END:VEVENT
@@ -1110,22 +1076,6 @@ SUMMARY:Melbourne Park Street Monday Summer Series - Jells Park, Bayside Kangaro
 URL:https://eventor.orienteering.asn.au/Events/Show/21510
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20429@eventor.orienteering.asn.au
-DTSTAMP:20240222T041114Z
-DTSTART:20241230T130000Z
-DTEND:20241231T130000Z
-SUMMARY:Bennelong Northside Club Communication, Bennelong Northside Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20429
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20388@eventor.orienteering.asn.au
-DTSTAMP:20240505T100624Z
-DTSTART:20241230T130000Z
-DTEND:20241231T130000Z
-SUMMARY:Newcastle Club Communication, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20388
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21629@eventor.orienteering.asn.au
 DTSTAMP:20241130T020557Z
 DTSTART:20241230T140000Z
@@ -1136,10 +1086,10 @@ GEO:-27.4171106966578;153.008069854543
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21178@eventor.orienteering.asn.au
-DTSTAMP:20241121T062212Z
+DTSTAMP:20241202T054403Z
 DTSTART:20241230T210000Z
 DTEND:20241231T000000Z
-SUMMARY:2024 XMAS 5 DAYS Day 5, Garingal Orienteers / Orienteering NSW
+SUMMARY:2024 XMAS 5 DAYS Day 5, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21178
 GEO:-33.8784668908649;151.157431255342
 END:VEVENT
