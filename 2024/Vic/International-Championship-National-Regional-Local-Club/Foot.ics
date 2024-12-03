@@ -3,67 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_20819@eventor.orienteering.asn.au
-DTSTAMP:20241125T225059Z
-DTSTART:20241125T130000Z
-DTEND:20241126T130000Z
-SUMMARY:NW Spring Twilight Series #4 *** CANCELLED ***, Pathfinders
-URL:https://eventor.orienteering.asn.au/Events/Show/20819
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21189@eventor.orienteering.asn.au
-DTSTAMP:20241125T013905Z
-DTSTART:20241125T130000Z
-DTEND:20241126T130000Z
-SUMMARY:Sydney Summer Series 2024/2025 Season Ticket, Bennelong Northside Orienteers / Big Foot Orienteers / Garingal Orienteers / Illawarra Kareelah Orienteers / Orienteering NSW / Uringa Orienteers / Western and Hills Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21189
-GEO:-33.8459454373049;151.074497590352
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21566@eventor.orienteering.asn.au
-DTSTAMP:20241126T132249Z
-DTSTART:20241126T064500Z
-DTEND:20241126T084500Z
-SUMMARY:Ballarat Park & Street Summer Series 24/25 - #2 Canadian Lakes, Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21566
-GEO:-37.5929994486647;143.870206889387
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21339@eventor.orienteering.asn.au
-DTSTAMP:20240917T023912Z
-DTSTART:20241126T073000Z
-DTEND:20241126T091500Z
-SUMMARY:Melbourne Park Street Tuesday Summer Series - Cherry Lake; Christmas Dinner, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21339
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21595@eventor.orienteering.asn.au
-DTSTAMP:20241127T044446Z
-DTSTART:20241126T080000Z
-DTEND:20241126T080000Z
-SUMMARY:Night Nav - Minyama, Sunshine Orienteers Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21595
-GEO:-26.7031752081613;153.121960024964
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19872@eventor.orienteering.asn.au
-DTSTAMP:20241127T113229Z
-DTSTART:20241126T080000Z
-DTEND:20241126T093000Z
-SUMMARY:Night Nav - EN - Mitchelton, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/19872
-GEO:-27.4172438959192;152.977844404435
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20041@eventor.orienteering.asn.au
-DTSTAMP:20231213T040127Z
-DTSTART:20241126T083000Z
-DTEND:20241126T083000Z
-SUMMARY:Orienteering NSW November Board Meeting, Orienteering NSW
-URL:https://eventor.orienteering.asn.au/Events/Show/20041
-GEO:-33.8460034291842;151.074483418337
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21331@eventor.orienteering.asn.au
 DTSTAMP:20240916T041136Z
 DTSTART:20241127T053000Z
@@ -74,7 +13,7 @@ GEO:-35.2492343834797;149.099964538197
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21212@eventor.orienteering.asn.au
-DTSTAMP:20241127T223839Z
+DTSTAMP:20241203T065116Z
 DTSTART:20241127T053000Z
 DTEND:20241127T083000Z
 SUMMARY:2024/25 Sydney Summer Series #8 - Allambie Heights, Bennelong Northside Orienteers
@@ -366,7 +305,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20820
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21567@eventor.orienteering.asn.au
-DTSTAMP:20241111T080530Z
+DTSTAMP:20241203T111014Z
 DTSTART:20241203T064500Z
 DTEND:20241203T084500Z
 SUMMARY:Ballarat Park & Street Summer Series 24/25 - #3 Eureka Gardens / East Ballarat, Eureka Orienteers
@@ -410,7 +349,7 @@ GEO:-42.8659450151102;147.330470112215
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21213@eventor.orienteering.asn.au
-DTSTAMP:20241125T195042Z
+DTSTAMP:20241203T065229Z
 DTSTART:20241204T053000Z
 DTEND:20241204T083000Z
 SUMMARY:2024/25 Sydney Summer Series #9 - Chatswood, Garingal Orienteers
@@ -903,6 +842,14 @@ SUMMARY:Melbourne Park Street Wednesday Summer Series - Templestowe Heights, Yar
 URL:https://eventor.orienteering.asn.au/Events/Show/21517
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_21636@eventor.orienteering.asn.au
+DTSTAMP:20241203T035934Z
+DTSTART:20241218T083000Z
+DTEND:20241218T083000Z
+SUMMARY:Learn and Play Orienteering Coach Online Practical Session, Orienteering ACT / Orienteering Australia / Orienteering NSW / Orienteering Queensland / Orienteering SA / Orienteering Tasmania / Orienteering Victoria / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/21636
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21409@eventor.orienteering.asn.au
 DTSTAMP:20241008T034307Z
 DTSTART:20241219T073000Z
@@ -1100,5 +1047,14 @@ DTSTART:20241231T073000Z
 DTEND:20241231T091500Z
 SUMMARY:Melbourne Park Street Tuesday Summer Series - Princes Park, Melbourne Forest Racers
 URL:https://eventor.orienteering.asn.au/Events/Show/21514
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21439@eventor.orienteering.asn.au
+DTSTAMP:20241013T051818Z
+DTSTART:20250103T073000Z
+DTEND:20250103T073000Z
+SUMMARY:Twilight Series Even t#6 - Adelaide Parklands - Uni Ovals and Botanic Par, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/21439
+GEO:-34.9117273918688;138.603469452945
 END:VEVENT
 END:VCALENDAR
