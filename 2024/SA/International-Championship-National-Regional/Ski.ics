@@ -3,65 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_21151@eventor.orienteering.asn.au
-DTSTAMP:20241204T000741Z
-DTSTART:20241127T140000Z
-DTEND:20241128T140000Z
-SUMMARY:Night Nav - EN Nth - Scarborough, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/21151
-GEO:-27.197897082006;153.115852369725
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20915@eventor.orienteering.asn.au
-DTSTAMP:20241127T213718Z
-DTSTART:20241127T204500Z
-DTEND:20241127T214500Z
-SUMMARY:SC-ORE #4: Ainslie Primary School, Braddon, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/20915
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21480@eventor.orienteering.asn.au
-DTSTAMP:20241129T001315Z
-DTSTART:20241128T060000Z
-DTEND:20241128T080000Z
-SUMMARY:Summer series #4, Northern Tablelands Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21480
-GEO:-30.6385767136724;151.500668232734
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21406@eventor.orienteering.asn.au
-DTSTAMP:20241128T095452Z
-DTSTART:20241128T073000Z
-DTEND:20241128T073000Z
-SUMMARY:Night Nav - Southside - Runcorn Heights, Toohey Forest Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21406
-GEO:-27.6024602319459;153.071075927359
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21347@eventor.orienteering.asn.au
-DTSTAMP:20240917T025304Z
-DTSTART:20241128T073000Z
-DTEND:20241128T091500Z
-SUMMARY:Melbourne Park Street Thursday Summer Series - Coburg Lake, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21347
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21351@eventor.orienteering.asn.au
-DTSTAMP:20240917T025925Z
-DTSTART:20241128T080000Z
-DTEND:20241128T091500Z
-SUMMARY:Geelong Park Street Thursday Summer Series - Djilang, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21351
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21544@eventor.orienteering.asn.au
-DTSTAMP:20241202T040853Z
-DTSTART:20241128T083000Z
-DTEND:20241128T103000Z
-SUMMARY:OA Conference - Great Events Workshop, Orienteering ACT / Orienteering NSW / Orienteering Queensland / Orienteering SA / Orienteering Tasmania / Orienteering Victoria / Orienteering WA
-URL:https://eventor.orienteering.asn.au/Events/Show/21544
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21100@eventor.orienteering.asn.au
 DTSTAMP:20241201T065640Z
 DTSTART:20241128T233000Z
@@ -333,9 +274,9 @@ GEO:-16.9087519740203;145.762326231325
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21407@eventor.orienteering.asn.au
-DTSTAMP:20241008T034051Z
+DTSTAMP:20241205T095042Z
 DTSTART:20241205T073000Z
-DTEND:20241205T090000Z
+DTEND:20241205T073000Z
 SUMMARY:Night Nav - Southside - Calamvale, Toohey Forest Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21407
 GEO:-27.6325700634026;153.053680507909
@@ -524,10 +465,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19874
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21214@eventor.orienteering.asn.au
-DTSTAMP:20241111T033001Z
+DTSTAMP:20241204T224428Z
 DTSTART:20241211T053000Z
 DTEND:20241211T083000Z
-SUMMARY:2024/25 Sydney Summer Series #10 - Castle Cove, Big Foot Orienteers
+SUMMARY:Sydney Summer Series #10 - Castle Cove, Big Foot Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21214
 GEO:-33.7817842174959;151.204899275433
 END:VEVENT
@@ -712,6 +653,15 @@ DTSTART:20241217T073000Z
 DTEND:20241217T091500Z
 SUMMARY:Melbourne Park Street Tuesday Summer Series - Old Williamstown, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21513
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21643@eventor.orienteering.asn.au
+DTSTAMP:20241205T015248Z
+DTSTART:20241217T080000Z
+DTEND:20241217T080000Z
+SUMMARY:Night Nav - Palmview, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21643
+GEO:-26.7348173662899;153.054279395796
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19875@eventor.orienteering.asn.au
@@ -974,6 +924,22 @@ SUMMARY:Melbourne Park Street Tuesday Summer Series - Princes Park, Melbourne Fo
 URL:https://eventor.orienteering.asn.au/Events/Show/21514
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_21652@eventor.orienteering.asn.au
+DTSTAMP:20241205T024415Z
+DTSTART:20250101T073000Z
+DTEND:20250101T091500Z
+SUMMARY:Melbourne Park Street Wednesday Summer Series - Arrabri, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21652
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21658@eventor.orienteering.asn.au
+DTSTAMP:20241205T031004Z
+DTSTART:20250102T073000Z
+DTEND:20250102T091500Z
+SUMMARY:Melbourne Park Street Thursday Summer Series - Ivanhoe, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21658
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21439@eventor.orienteering.asn.au
 DTSTAMP:20241013T051818Z
 DTSTART:20250103T073000Z
@@ -990,6 +956,14 @@ DTEND:20250104T003000Z
 SUMMARY:SHOOs Summer Saturdays #1, Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21449
 GEO:-34.0275696696673;150.73954257225
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21664@eventor.orienteering.asn.au
+DTSTAMP:20241205T032522Z
+DTSTART:20250104T043000Z
+DTEND:20250104T063000Z
+SUMMARY:Surfside Park Street Summer Series - Barwon Heads, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21664
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21470@eventor.orienteering.asn.au
