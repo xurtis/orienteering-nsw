@@ -3,23 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_21100@eventor.orienteering.asn.au
-DTSTAMP:20241201T065640Z
-DTSTART:20241128T233000Z
-DTEND:20241128T233000Z
-SUMMARY:Victorian Primary Schools Orienteering Championships, Orienteering Victoria
-URL:https://eventor.orienteering.asn.au/Events/Show/21100
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21369@eventor.orienteering.asn.au
-DTSTAMP:20241129T230714Z
-DTSTART:20241129T073000Z
-DTEND:20241129T073000Z
-SUMMARY:Twilight Series Event #3 - Henley Beach South, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/21369
-GEO:-34.9338888284039;138.498223290622
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21594@eventor.orienteering.asn.au
 DTSTAMP:20241130T010414Z
 DTSTART:20241129T220000Z
@@ -37,7 +20,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20666
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20590@eventor.orienteering.asn.au
-DTSTAMP:20241130T050031Z
+DTSTAMP:20241206T040554Z
 DTSTART:20241130T030000Z
 DTEND:20241130T050000Z
 SUMMARY:Summer Shorts and Sprints 7 - Salesian Sunbury, Bayside Kangaroos Orienteers
@@ -291,9 +274,9 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21518
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21152@eventor.orienteering.asn.au
-DTSTAMP:20241115T020636Z
+DTSTAMP:20241206T005225Z
 DTSTART:20241205T080000Z
-DTEND:20241205T093000Z
+DTEND:20241205T080000Z
 SUMMARY:Night Nav - EN Nth - Clontarf, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/21152
 GEO:-27.2445600424249;153.085148709785
@@ -333,6 +316,14 @@ DTEND:20241207T090000Z
 SUMMARY:MetrO 4 Trigg, LOST / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/21398
 GEO:-31.8782887177791;115.764887757225
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20429@eventor.orienteering.asn.au
+DTSTAMP:20241206T061656Z
+DTSTART:20241207T130000Z
+DTEND:20241208T130000Z
+SUMMARY:Bennelong Northside BBQ, Bennelong Northside Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20429
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20821@eventor.orienteering.asn.au
@@ -431,10 +422,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21546
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21568@eventor.orienteering.asn.au
-DTSTAMP:20241127T082849Z
+DTSTAMP:20241206T000544Z
 DTSTART:20241210T064500Z
 DTEND:20241210T064500Z
-SUMMARY:Ballarat Park & Street Summer Series 24/25 - #4 North Ballarat, Eureka Orienteers
+SUMMARY:Ballarat Park & Street Summer Series 24/25 - #4 Ballarat North, Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21568
 GEO:-37.5420297483076;143.873619707668
 END:VEVENT
@@ -465,7 +456,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/19874
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21214@eventor.orienteering.asn.au
-DTSTAMP:20241204T224428Z
+DTSTAMP:20241205T231743Z
 DTSTART:20241211T053000Z
 DTEND:20241211T083000Z
 SUMMARY:Sydney Summer Series #10 - Castle Cove, Big Foot Orienteers
@@ -750,14 +741,6 @@ SUMMARY:Night Nav - EN Nth - Newport, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/21154
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20429@eventor.orienteering.asn.au
-DTSTAMP:20241202T120510Z
-DTSTART:20241221T130000Z
-DTEND:20241222T130000Z
-SUMMARY:Bennelong Northside Club Communication, Bennelong Northside Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20429
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21416@eventor.orienteering.asn.au
 DTSTAMP:20241106T045623Z
 DTSTART:20241222T003000Z
@@ -973,5 +956,13 @@ DTEND:20250104T101500Z
 SUMMARY:MertrO 6 Swanbourne, Bibbulmun Orienteers / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/21470
 GEO:-31.9794033600252;115.75808056702
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21644@eventor.orienteering.asn.au
+DTSTAMP:20241205T022259Z
+DTSTART:20250106T073000Z
+DTEND:20250106T091500Z
+SUMMARY:Melbourne Park Street Monday Summer Series - Gardiners Creek, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21644
 END:VEVENT
 END:VCALENDAR
