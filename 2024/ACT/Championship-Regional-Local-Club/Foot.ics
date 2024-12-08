@@ -3,86 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_21603@eventor.orienteering.asn.au
-DTSTAMP:20241204T000923Z
-DTSTART:20241130T140000Z
-DTEND:20241201T140000Z
-SUMMARY:MapRun Parks 2024 - Kalinga Park, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21603
-GEO:-27.4063153348911;153.051620272262
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20958@eventor.orienteering.asn.au
-DTSTAMP:20241201T001720Z
-DTSTART:20241130T220000Z
-DTEND:20241130T233000Z
-SUMMARY:Central Coast Summer Series 4 - Green Point, Central Coast Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20958
-GEO:-33.4450245772897;151.373408565448
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19818@eventor.orienteering.asn.au
-DTSTAMP:20231117T083659Z
-DTSTART:20241130T220000Z
-DTEND:20241201T000000Z
-SUMMARY:Waggaroos Summer Series 2024-25 #2. Location TBA., Wagga and Riverina Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19818
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20594@eventor.orienteering.asn.au
-DTSTAMP:20241201T052855Z
-DTSTART:20241201T000000Z
-DTEND:20241201T000000Z
-SUMMARY:Victorian Sprint Championship, Tarneit College, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20594
-GEO:-37.8345208832381;144.67577454555
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21563@eventor.orienteering.asn.au
-DTSTAMP:20241110T083626Z
-DTSTART:20241201T000000Z
-DTEND:20241201T020000Z
-SUMMARY:TFO AGM and End of Year Picnic, Toohey Forest Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21563
-GEO:-27.5705946327039;153.164264973353
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21402@eventor.orienteering.asn.au
-DTSTAMP:20241201T054353Z
-DTSTART:20241201T020000Z
-DTEND:20241201T030000Z
-SUMMARY:Victorian Sprint Championship, Tarneit College - Dynamic Duo Relay, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21402
-GEO:-37.8346912367206;144.676916963171
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21118@eventor.orienteering.asn.au
-DTSTAMP:20241201T070827Z
-DTSTART:20241201T050000Z
-DTEND:20241201T060000Z
-SUMMARY:River and Bay Series #6 - Little Bay, Illawarra Kareelah Orienteers / Uringa Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21118
-GEO:-33.9811153564813;151.246237625215
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21564@eventor.orienteering.asn.au
-DTSTAMP:20241128T103207Z
-DTSTART:20241201T060000Z
-DTEND:20241201T060000Z
-SUMMARY:Orienteering SA Presentation Evening, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/21564
-GEO:-34.955694682438;138.558346551574
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19842@eventor.orienteering.asn.au
-DTSTAMP:20231121T025450Z
-DTSTART:20241201T060000Z
-DTEND:20241201T070000Z
-SUMMARY:AWOC AGM & Novelty Event. MMCC, Albury-Wodonga Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/19842
-GEO:-36.0873748844644;146.904243007918
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21274@eventor.orienteering.asn.au
 DTSTAMP:20241202T105250Z
 DTSTART:20241202T060000Z
@@ -293,7 +213,7 @@ GEO:-41.4567100072895;147.168101723318
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20812@eventor.orienteering.asn.au
-DTSTAMP:20241104T210539Z
+DTSTAMP:20241208T040427Z
 DTSTART:20241207T130000Z
 DTEND:20241208T130000Z
 SUMMARY:Queens Domain - Southern Christmas Break-up			, Australopers
@@ -301,7 +221,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20812
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21038@eventor.orienteering.asn.au
-DTSTAMP:20241121T050727Z
+DTSTAMP:20241208T061437Z
 DTSTART:20241207T220000Z
 DTEND:20241207T233000Z
 SUMMARY:Central Coast Summer Series 5 - Chittaway Bay, Central Coast Orienteers
@@ -319,7 +239,7 @@ GEO:-33.783787318702;150.86862186609
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21320@eventor.orienteering.asn.au
-DTSTAMP:20241207T012932Z
+DTSTAMP:20241208T013706Z
 DTSTART:20241207T223000Z
 DTEND:20241208T010000Z
 SUMMARY:West Sydney Orienteering Series #1, Western and Hills Orienteers
@@ -336,7 +256,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21522
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21119@eventor.orienteering.asn.au
-DTSTAMP:20241129T194202Z
+DTSTAMP:20241208T070119Z
 DTSTART:20241208T050000Z
 DTEND:20241208T050000Z
 SUMMARY:River and Bay Series #7 - Dolls Point, Illawarra Kareelah Orienteers / Uringa Orienteers
@@ -371,7 +291,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21507
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21546@eventor.orienteering.asn.au
-DTSTAMP:20241107T002231Z
+DTSTAMP:20241208T075455Z
 DTSTART:20241209T083000Z
 DTEND:20241209T103000Z
 SUMMARY:OA Conference - Great Relationships and Opportunities Workshop, Orienteering ACT / Orienteering NSW / Orienteering Queensland / Orienteering SA / Orienteering Tasmania / Orienteering Victoria / Orienteering WA
@@ -848,7 +768,7 @@ GEO:-27.4171106966578;153.008069854543
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21178@eventor.orienteering.asn.au
-DTSTAMP:20241202T054403Z
+DTSTAMP:20241208T040354Z
 DTSTART:20241230T210000Z
 DTEND:20241231T000000Z
 SUMMARY:2024 XMAS 5 DAYS Day 5, Garingal Orienteers
@@ -947,5 +867,30 @@ DTEND:20250107T093000Z
 SUMMARY:Night Nav - EN Bridgeman Downs, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/21050
 GEO:-27.3605298138231;152.985440671843
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21218@eventor.orienteering.asn.au
+DTSTAMP:20241204T093318Z
+DTSTART:20250108T053000Z
+DTEND:20250108T083000Z
+SUMMARY:2024/25 Sydney Summer Series #14 - Surry Hills, Illawarra Kareelah Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21218
+GEO:-33.8884561990925;151.203645559654
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21542@eventor.orienteering.asn.au
+DTSTAMP:20241106T213312Z
+DTSTART:20250108T060000Z
+DTEND:20250108T081500Z
+SUMMARY:Newcastle Summer Street Series #11 - Carrington, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21542
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21653@eventor.orienteering.asn.au
+DTSTAMP:20241205T024530Z
+DTSTART:20250108T073000Z
+DTEND:20250108T091500Z
+SUMMARY:Melbourne Park Street Wednesday Summer Series - Loughnan Hill, Dandenong Ranges Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21653
 END:VEVENT
 END:VCALENDAR
