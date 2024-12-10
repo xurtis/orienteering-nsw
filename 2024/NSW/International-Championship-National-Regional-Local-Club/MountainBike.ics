@@ -3,49 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_20820@eventor.orienteering.asn.au
-DTSTAMP:20241125T224953Z
-DTSTART:20241202T130000Z
-DTEND:20241203T130000Z
-SUMMARY:NW Spring Twilight Series #5 ***CANCELLED ***, Pathfinders
-URL:https://eventor.orienteering.asn.au/Events/Show/20820
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19873@eventor.orienteering.asn.au
-DTSTAMP:20241204T001112Z
-DTSTART:20241202T140000Z
-DTEND:20241203T140000Z
-SUMMARY:Night Nav - EN - Everton Hills, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/19873
-GEO:-27.3911135612143;152.982132759617
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21567@eventor.orienteering.asn.au
-DTSTAMP:20241203T111014Z
-DTSTART:20241203T064500Z
-DTEND:20241203T084500Z
-SUMMARY:Ballarat Park & Street Summer Series 24/25 - #3 Eureka Gardens / East Ballarat, Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21567
-GEO:-37.5651592492345;143.884879582255
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21511@eventor.orienteering.asn.au
-DTSTAMP:20241030T012210Z
-DTSTART:20241203T073000Z
-DTEND:20241203T091500Z
-SUMMARY:Melbourne Park Street Tuesday Summer Series - Maribyrnong Parklands, Tuckonie Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21511
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21596@eventor.orienteering.asn.au
-DTSTAMP:20241204T000747Z
-DTSTART:20241203T080000Z
-DTEND:20241203T080000Z
-SUMMARY:Night Nav - Noosa Springs, Sunshine Orienteers Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21596
-GEO:-26.4113801470501;153.093003175486
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20802@eventor.orienteering.asn.au
 DTSTAMP:20241204T095053Z
 DTSTART:20241204T043000Z
@@ -153,7 +110,7 @@ GEO:-12.4515741013209;130.849918116833
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21586@eventor.orienteering.asn.au
-DTSTAMP:20241128T030707Z
+DTSTAMP:20241210T022117Z
 DTSTART:20241206T220000Z
 DTEND:20241207T010000Z
 SUMMARY:Woolgoolga MapRun Orienteering, Bush n Beach Orienteering Club
@@ -274,7 +231,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21546
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21568@eventor.orienteering.asn.au
-DTSTAMP:20241206T000544Z
+DTSTAMP:20241210T101403Z
 DTSTART:20241210T064500Z
 DTEND:20241210T064500Z
 SUMMARY:Ballarat Park & Street Summer Series 24/25 - #4 Ballarat North, Eureka Orienteers
@@ -388,7 +345,7 @@ GEO:-34.9174997873185;138.587401503534
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21633@eventor.orienteering.asn.au
-DTSTAMP:20241130T075908Z
+DTSTAMP:20241210T065631Z
 DTSTART:20241213T130000Z
 DTEND:20241218T130000Z
 SUMMARY:Pre Xmas Training -Canberra, Bold Horizons Event Organiser / Goldseekers Orienteers / Orienteering ACT
@@ -459,7 +416,7 @@ GEO:-33.4362347720476;151.323060667295
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20977@eventor.orienteering.asn.au
-DTSTAMP:20241209T072113Z
+DTSTAMP:20241210T015712Z
 DTSTART:20241215T000000Z
 DTEND:20241215T020000Z
 SUMMARY:North Haven Orienteering, Hastings Orienteering Group
@@ -896,5 +853,14 @@ DTSTART:20250109T073000Z
 DTEND:20250109T091500Z
 SUMMARY:Melbourne Park Street Thursday Summer Series - Yarran Dheran, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21659
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21440@eventor.orienteering.asn.au
+DTSTAMP:20241013T051524Z
+DTSTART:20250109T133000Z
+DTEND:20250110T133000Z
+SUMMARY:Twilight Series Event #7 - Hackney - St Peters River Park, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/21440
+GEO:-34.9037762195073;138.615677435204
 END:VEVENT
 END:VCALENDAR
