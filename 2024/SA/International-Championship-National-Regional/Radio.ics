@@ -3,24 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_21370@eventor.orienteering.asn.au
-DTSTAMP:20241206T221942Z
-DTSTART:20241206T073000Z
-DTEND:20241206T073000Z
-SUMMARY:Twilight Series Event #4 - Panorama, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/21370
-GEO:-34.999796686789;138.597164470919
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21623@eventor.orienteering.asn.au
-DTSTAMP:20241128T082228Z
-DTSTART:20241206T073000Z
-DTEND:20241206T083000Z
-SUMMARY:TEO Christmas novelty event and annual awards, Top End Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21623
-GEO:-12.4515741013209;130.849918116833
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21586@eventor.orienteering.asn.au
 DTSTAMP:20241210T022117Z
 DTSTART:20241206T220000Z
@@ -169,9 +151,9 @@ GEO:-26.7698926001366;153.129692184439
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19874@eventor.orienteering.asn.au
-DTSTAMP:20241209T034513Z
+DTSTAMP:20241212T222603Z
 DTSTART:20241210T080000Z
-DTEND:20241210T093000Z
+DTEND:20241210T080000Z
 SUMMARY:Night Nav - EN - Keperra, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/19874
 GEO:-27.4164778287606;152.942841372329
@@ -239,16 +221,16 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21519
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21153@eventor.orienteering.asn.au
-DTSTAMP:20241209T043417Z
+DTSTAMP:20241212T223134Z
 DTSTART:20241212T080000Z
-DTEND:20241212T093000Z
+DTEND:20241212T080000Z
 SUMMARY:Night Nav - EN Nth - Rothwell, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/21153
 GEO:-27.2024742295887;153.041180685787
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21371@eventor.orienteering.asn.au
-DTSTAMP:20241124T041134Z
+DTSTAMP:20241213T033327Z
 DTSTART:20241213T073000Z
 DTEND:20241213T073000Z
 SUMMARY:Twilight Series Event #5 - Bonython Park, Adelaide Parklands, Orienteering SA
@@ -355,10 +337,10 @@ GEO:-35.3620918485312;149.056949580387
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21508@eventor.orienteering.asn.au
-DTSTAMP:20241030T011628Z
+DTSTAMP:20241213T070817Z
 DTSTART:20241216T073000Z
 DTEND:20241216T091500Z
-SUMMARY:Melbourne Park Street Monday Summer Series - Ashwood South, Nillumbik Emus Orienteering Club
+SUMMARY:Melbourne Park Street Monday Summer Series - Ashwood South. CHECK HERE FOR HEAT RELATED UPDATES, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21508
 END:VEVENT
 BEGIN:VEVENT
@@ -657,6 +639,15 @@ SUMMARY:Melbourne Park Street Thursday Summer Series - Ivanhoe, Nillumbik Emus O
 URL:https://eventor.orienteering.asn.au/Events/Show/21658
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_21776@eventor.orienteering.asn.au
+DTSTAMP:20241213T050515Z
+DTSTART:20250102T140000Z
+DTEND:20250107T140000Z
+SUMMARY:QANOTS Training Camp Stanthorpe area, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/21776
+GEO:-28.5818237676594;151.771199403397
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21439@eventor.orienteering.asn.au
 DTSTAMP:20241013T051818Z
 DTSTART:20250103T073000Z
@@ -843,5 +834,21 @@ DTSTART:20250111T230000Z
 DTEND:20250112T001500Z
 SUMMARY:Mornington Peninsula Sunday MapRun - Capel Sound, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21663
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21703@eventor.orienteering.asn.au
+DTSTAMP:20241209T000846Z
+DTSTART:20250113T060000Z
+DTEND:20250113T090000Z
+SUMMARY:ACT MapRun Street Series: Strathnairn, 9-13 Jan, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/21703
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21645@eventor.orienteering.asn.au
+DTSTAMP:20241205T022451Z
+DTSTART:20250113T073000Z
+DTEND:20250113T091500Z
+SUMMARY:Melbourne Park Street Monday Summer Series - Berwick Chase (New Map), Dandenong Ranges Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21645
 END:VEVENT
 END:VCALENDAR
