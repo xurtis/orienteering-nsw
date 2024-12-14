@@ -3,24 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_21586@eventor.orienteering.asn.au
-DTSTAMP:20241210T022117Z
-DTSTART:20241206T220000Z
-DTEND:20241207T010000Z
-SUMMARY:Woolgoolga MapRun Orienteering, Bush n Beach Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21586
-GEO:-30.1032598129334;153.189610609894
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21398@eventor.orienteering.asn.au
-DTSTAMP:20241207T102738Z
-DTSTART:20241207T090000Z
-DTEND:20241207T090000Z
-SUMMARY:MetrO 4 Trigg, LOST / Orienteering WA
-URL:https://eventor.orienteering.asn.au/Events/Show/21398
-GEO:-31.8782887177791;115.764887757225
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20429@eventor.orienteering.asn.au
 DTSTAMP:20241206T061656Z
 DTSTART:20241207T130000Z
@@ -117,7 +99,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21507
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21546@eventor.orienteering.asn.au
-DTSTAMP:20241212T021426Z
+DTSTAMP:20241214T064805Z
 DTSTART:20241209T083000Z
 DTEND:20241209T103000Z
 SUMMARY:OA Conference - Great Relationships and Opportunities Workshop, Orienteering ACT / Orienteering NSW / Orienteering Queensland / Orienteering SA / Orienteering Tasmania / Orienteering Victoria / Orienteering WA
@@ -230,7 +212,7 @@ GEO:-27.2024742295887;153.041180685787
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21371@eventor.orienteering.asn.au
-DTSTAMP:20241213T033327Z
+DTSTAMP:20241213T235352Z
 DTSTART:20241213T073000Z
 DTEND:20241213T073000Z
 SUMMARY:Twilight Series Event #5 - Bonython Park, Adelaide Parklands, Orienteering SA
@@ -266,7 +248,7 @@ GEO:-33.6135327086876;151.14810155627
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20728@eventor.orienteering.asn.au
-DTSTAMP:20241130T091239Z
+DTSTAMP:20241214T071254Z
 DTSTART:20241214T040000Z
 DTEND:20241214T050000Z
 SUMMARY:IKO Xmas event  - Kiama Downs, Illawarra Kareelah Orienteers
@@ -275,7 +257,7 @@ GEO:-34.6497793673072;150.854900044109
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21399@eventor.orienteering.asn.au
-DTSTAMP:20241209T123050Z
+DTSTAMP:20241214T102009Z
 DTSTART:20241214T090000Z
 DTEND:20241214T090000Z
 SUMMARY:Metro 5 Canning Waters, Bibbulmun Orienteers / Orienteering WA
@@ -362,7 +344,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21513
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21643@eventor.orienteering.asn.au
-DTSTAMP:20241212T035416Z
+DTSTAMP:20241213T223943Z
 DTSTART:20241217T080000Z
 DTEND:20241217T080000Z
 SUMMARY:Night Nav - Palmview, Sunshine Orienteers Club
@@ -850,5 +832,31 @@ DTSTART:20250113T073000Z
 DTEND:20250113T091500Z
 SUMMARY:Melbourne Park Street Monday Summer Series - Berwick Chase (New Map), Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21645
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21571@eventor.orienteering.asn.au
+DTSTAMP:20241111T082927Z
+DTSTART:20250114T064500Z
+DTEND:20250114T084500Z
+SUMMARY:Ballarat Summer Series 24/25 - #7 Canadian Lakes, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21571
+GEO:-37.5959648870743;143.873091109224
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21649@eventor.orienteering.asn.au
+DTSTAMP:20241205T023814Z
+DTSTART:20250114T073000Z
+DTEND:20250114T091500Z
+SUMMARY:Melbourne Park Street Tuesday Summer Series - Pipemakers Park, Tuckonie Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21649
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21051@eventor.orienteering.asn.au
+DTSTAMP:20240811T032736Z
+DTSTART:20250114T080000Z
+DTEND:20250114T093000Z
+SUMMARY:Night Nav - EN Bracken Ridge, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/21051
+GEO:-27.3198400234112;153.03172316796
 END:VEVENT
 END:VCALENDAR
