@@ -3,41 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_21568@eventor.orienteering.asn.au
-DTSTAMP:20241210T101403Z
-DTSTART:20241210T064500Z
-DTEND:20241210T064500Z
-SUMMARY:Ballarat Park & Street Summer Series 24/25 - #4 Ballarat North, Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21568
-GEO:-37.5420297483076;143.873619707668
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21512@eventor.orienteering.asn.au
-DTSTAMP:20241030T012527Z
-DTSTART:20241210T073000Z
-DTEND:20241210T091500Z
-SUMMARY:Melbourne Park Street Tuesday Summer Series - Truganina, Nillumbik Emus Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21512
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21597@eventor.orienteering.asn.au
-DTSTAMP:20241211T021248Z
-DTSTART:20241210T080000Z
-DTEND:20241210T080000Z
-SUMMARY:Night Nav - Currimundi, Sunshine Orienteers Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21597
-GEO:-26.7698926001366;153.129692184439
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19874@eventor.orienteering.asn.au
-DTSTAMP:20241212T222603Z
-DTSTART:20241210T080000Z
-DTEND:20241210T080000Z
-SUMMARY:Night Nav - EN - Keperra, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/19874
-GEO:-27.4164778287606;152.942841372329
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21214@eventor.orienteering.asn.au
 DTSTAMP:20241211T085055Z
 DTSTART:20241211T053000Z
@@ -215,16 +180,17 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21276
 GEO:-35.3620918485312;149.056949580387
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21508@eventor.orienteering.asn.au
-DTSTAMP:20241215T070512Z
-DTSTART:20241216T073000Z
-DTEND:20241216T091500Z
-SUMMARY:Melbourne Park Street Monday Summer Series - Ashwood South - POSTPONED until Friday December 27, due to extreme heat, Nillumbik Emus Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21508
+UID:Event_19875@eventor.orienteering.asn.au
+DTSTAMP:20241217T104638Z
+DTSTART:20241216T140000Z
+DTEND:20241217T140000Z
+SUMMARY:Night Nav - EN - Eatons Hill, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/19875
+GEO:-27.3330466221998;152.952766949988
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21569@eventor.orienteering.asn.au
-DTSTAMP:20241111T082046Z
+DTSTAMP:20241217T132623Z
 DTSTART:20241217T064500Z
 DTEND:20241217T084500Z
 SUMMARY:Ballarat Summer Series 24/25 - #5 Lake Wendouree / North Gardens, Eureka Orienteers
@@ -249,15 +215,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21643
 GEO:-26.7348173662899;153.054279395796
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19875@eventor.orienteering.asn.au
-DTSTAMP:20240811T025629Z
-DTSTART:20241217T080000Z
-DTEND:20241217T093000Z
-SUMMARY:Night Nav - EN - Eatons Hill, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/19875
-GEO:-27.3330466221998;152.952766949988
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20104@eventor.orienteering.asn.au
 DTSTAMP:20241114T043731Z
 DTSTART:20241218T000000Z
@@ -268,7 +225,7 @@ GEO:-34.8127596872508;138.614869865114
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21215@eventor.orienteering.asn.au
-DTSTAMP:20241212T101611Z
+DTSTAMP:20241217T064620Z
 DTSTART:20241218T053000Z
 DTEND:20241218T083000Z
 SUMMARY:2024/25 Sydney Summer Series #11 - Putney, Garingal Orienteers
@@ -320,7 +277,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21636
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21409@eventor.orienteering.asn.au
-DTSTAMP:20241008T034307Z
+DTSTAMP:20241217T103654Z
 DTSTART:20241219T073000Z
 DTEND:20241219T090000Z
 SUMMARY:Night Nav - Southside - Algester South, Toohey Forest Orienteers
@@ -381,10 +338,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21265
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21509@eventor.orienteering.asn.au
-DTSTAMP:20241030T011757Z
+DTSTAMP:20241217T004341Z
 DTSTART:20241223T073000Z
 DTEND:20241223T091500Z
-SUMMARY:Melbourne Park Street Monday Summer Series - Yarraman, Dandenong Ranges Orienteering Club
+SUMMARY:Melbourne Park Street Monday Summer Series - Yarraman - "Christmas Five Days no 1", Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21509
 END:VEVENT
 BEGIN:VEVENT
@@ -398,10 +355,10 @@ GEO:-27.4748795601218;153.027220971611
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21521@eventor.orienteering.asn.au
-DTSTAMP:20241030T015830Z
+DTSTAMP:20241217T004522Z
 DTSTART:20241226T073000Z
 DTEND:20241226T091500Z
-SUMMARY:Melbourne Park Street Thursday Summer Series - Merri Parklands North, Nillumbik Emus Orienteering Club
+SUMMARY:Melbourne Park Street Thursday Summer Series - Merry Parklands - "Christmas Five Days no 2", Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21521
 END:VEVENT
 BEGIN:VEVENT
@@ -421,6 +378,14 @@ DTEND:20241227T080000Z
 SUMMARY:2024 XMAS 5 DAYS Day 1, Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21174
 GEO:-33.7327500086713;151.061307148229
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21508@eventor.orienteering.asn.au
+DTSTAMP:20241217T004453Z
+DTSTART:20241227T073000Z
+DTEND:20241227T091500Z
+SUMMARY:Melbourne Park Street Monday Summer Series - Ashwood South - RESCHEDULED from 16 December; "Christmas Five Days no 3", Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21508
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21626@eventor.orienteering.asn.au
@@ -478,10 +443,10 @@ GEO:-33.8053293514978;151.292508828895
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21510@eventor.orienteering.asn.au
-DTSTAMP:20241030T011920Z
+DTSTAMP:20241217T004601Z
 DTSTART:20241230T073000Z
 DTEND:20241230T091500Z
-SUMMARY:Melbourne Park Street Monday Summer Series - Jells Park, Bayside Kangaroos Orienteers
+SUMMARY:Melbourne Park Street Monday Summer Series - Jingle Jells - "Christmas Five Days no 4", Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21510
 END:VEVENT
 BEGIN:VEVENT
@@ -504,10 +469,10 @@ GEO:-33.8784668908649;151.157431255342
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21514@eventor.orienteering.asn.au
-DTSTAMP:20241030T012816Z
+DTSTAMP:20241217T004256Z
 DTSTART:20241231T073000Z
 DTEND:20241231T091500Z
-SUMMARY:Melbourne Park Street Tuesday Summer Series - Princes Park, Melbourne Forest Racers
+SUMMARY:Melbourne Park Street Tuesday Summer Series - Princes Park - "Christmas Five Days no 5", Melbourne Forest Racers
 URL:https://eventor.orienteering.asn.au/Events/Show/21514
 END:VEVENT
 BEGIN:VEVENT
@@ -577,6 +542,7 @@ DTSTART:20250106T060000Z
 DTEND:20250106T090000Z
 SUMMARY:ACT MapRun Street Series: Parkes, 2-6 Jan, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/21702
+GEO:-35.2975726067234;149.122891905911
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21644@eventor.orienteering.asn.au
@@ -730,6 +696,7 @@ DTSTART:20250113T060000Z
 DTEND:20250113T090000Z
 SUMMARY:ACT MapRun Street Series: Strathnairn, 9-13 Jan, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/21703
+GEO:-35.2279469490028;148.994010252827
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21645@eventor.orienteering.asn.au
@@ -806,5 +773,14 @@ DTSTART:20250116T073000Z
 DTEND:20250116T091500Z
 SUMMARY:Melbourne Park Street Thursday Summer Series - Briar Hill, Yarra Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21660
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21441@eventor.orienteering.asn.au
+DTSTAMP:20241013T051716Z
+DTSTART:20250117T073000Z
+DTEND:20250117T073000Z
+SUMMARY:Twilight Series Event #8 - Goodwood, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/21441
+GEO:-34.951955512294;138.583754538703
 END:VEVENT
 END:VCALENDAR
