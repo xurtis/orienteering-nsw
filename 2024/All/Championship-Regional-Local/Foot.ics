@@ -21,33 +21,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21199
 GEO:-35.2571641412821;149.105783127971
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21744@eventor.orienteering.asn.au
-DTSTAMP:20241211T083338Z
-DTSTART:20241213T213000Z
-DTEND:20241213T223000Z
-SUMMARY:Learn To Orienteer - Berowra, Garingal Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21744
-GEO:-33.6135327086876;151.14810155627
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20728@eventor.orienteering.asn.au
-DTSTAMP:20241214T071254Z
-DTSTART:20241214T040000Z
-DTEND:20241214T050000Z
-SUMMARY:IKO Xmas event  - Kiama Downs, Illawarra Kareelah Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20728
-GEO:-34.6497793673072;150.854900044109
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21399@eventor.orienteering.asn.au
-DTSTAMP:20241214T102009Z
-DTSTART:20241214T090000Z
-DTEND:20241214T090000Z
-SUMMARY:Metro 5 Canning Waters, Bibbulmun Orienteers / Orienteering WA
-URL:https://eventor.orienteering.asn.au/Events/Show/21399
-GEO:-32.0475953681808;115.963673419884
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21590@eventor.orienteering.asn.au
 DTSTAMP:20241118T075203Z
 DTSTART:20241214T193000Z
@@ -197,6 +170,15 @@ SUMMARY:Learn and Play Orienteering Coach Online Practical Session, Orienteering
 URL:https://eventor.orienteering.asn.au/Events/Show/21636
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_21154@eventor.orienteering.asn.au
+DTSTAMP:20241221T070110Z
+DTSTART:20241219T070000Z
+DTEND:20241219T070000Z
+SUMMARY:Night Nav EN Nth Newport, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/21154
+GEO:-27.2158273738756;153.086032378588
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21409@eventor.orienteering.asn.au
 DTSTAMP:20241219T095004Z
 DTSTART:20241219T073000Z
@@ -214,15 +196,6 @@ SUMMARY:Melbourne Park Street Thursday Summer Series - Montmorency, Yarra Valley
 URL:https://eventor.orienteering.asn.au/Events/Show/21520
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21154@eventor.orienteering.asn.au
-DTSTAMP:20241115T020723Z
-DTSTART:20241219T080000Z
-DTEND:20241219T093000Z
-SUMMARY:Night Nav - EN Nth - Newport, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/21154
-GEO:-27.2158273738756;153.086032378588
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21416@eventor.orienteering.asn.au
 DTSTAMP:20241106T045623Z
 DTSTART:20241222T003000Z
@@ -233,7 +206,7 @@ GEO:-32.0218163735611;115.771501499967
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21216@eventor.orienteering.asn.au
-DTSTAMP:20241218T051337Z
+DTSTAMP:20241220T202109Z
 DTSTART:20241223T053000Z
 DTEND:20241223T083000Z
 SUMMARY:2024/25 Sydney Summer Series #12 - Mosman, Bennelong Northside Orienteers
@@ -528,11 +501,12 @@ GEO:-32.9099795110379;151.762854557508
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21653@eventor.orienteering.asn.au
-DTSTAMP:20241205T024530Z
+DTSTAMP:20241220T231322Z
 DTSTART:20250108T073000Z
 DTEND:20250108T091500Z
 SUMMARY:Melbourne Park Street Wednesday Summer Series - Loughnan Hill, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21653
+GEO:-37.7991148838795;145.225436752107
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21728@eventor.orienteering.asn.au
@@ -798,5 +772,22 @@ DTSTART:20250120T073000Z
 DTEND:20250120T091500Z
 SUMMARY:Melbourne Park Street Monday Summer Series - Heaney Park, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21646
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21657@eventor.orienteering.asn.au
+DTSTAMP:20241205T030805Z
+DTSTART:20250121T073000Z
+DTEND:20250121T091500Z
+SUMMARY:Melbourne Park Street Tuesday Summer Series - Laverton, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21657
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21052@eventor.orienteering.asn.au
+DTSTAMP:20240811T033123Z
+DTSTART:20250121T080000Z
+DTEND:20250121T093000Z
+SUMMARY:Night Nav - EN Downey Park, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/21052
+GEO:-27.4375226790495;153.013770176252
 END:VEVENT
 END:VCALENDAR
