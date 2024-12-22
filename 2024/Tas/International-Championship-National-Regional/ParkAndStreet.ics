@@ -21,50 +21,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21199
 GEO:-35.2571641412821;149.105783127971
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21590@eventor.orienteering.asn.au
-DTSTAMP:20241118T075203Z
-DTSTART:20241214T193000Z
-DTEND:20241215T030000Z
-SUMMARY:BrownDog Challenge 2024 - Townsville (Private Event), Totally Tropical Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21590
-GEO:-19.2455381091004;146.810474272759
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20992@eventor.orienteering.asn.au
-DTSTAMP:20241215T070559Z
-DTSTART:20241214T210000Z
-DTEND:20241215T000000Z
-SUMMARY:Newcastle BOSS3 MTBO - The Range (Killingworth), Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20992
-GEO:-32.9175713021545;151.568013386108
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_19819@eventor.orienteering.asn.au
-DTSTAMP:20241210T212935Z
-DTSTART:20241214T213000Z
-DTEND:20241214T213000Z
-SUMMARY:Waggaroos Summer Series 2024-25 #3. Location TBA., Wagga and Riverina Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/19819
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21039@eventor.orienteering.asn.au
-DTSTAMP:20241215T003642Z
-DTSTART:20241214T220000Z
-DTEND:20241214T233000Z
-SUMMARY:Central Coast Summer Series 6 - Point Clare, Central Coast Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21039
-GEO:-33.4362347720476;151.323060667295
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20977@eventor.orienteering.asn.au
-DTSTAMP:20241215T025429Z
-DTSTART:20241215T000000Z
-DTEND:20241215T020000Z
-SUMMARY:North Haven Orienteering, Hastings Orienteering Group
-URL:https://eventor.orienteering.asn.au/Events/Show/20977
-GEO:-31.6331024554032;152.833480399458
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21276@eventor.orienteering.asn.au
 DTSTAMP:20241216T110639Z
 DTSTART:20241216T060000Z
@@ -128,7 +84,7 @@ GEO:-34.8127596872508;138.614869865114
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21215@eventor.orienteering.asn.au
-DTSTAMP:20241218T084445Z
+DTSTAMP:20241222T072245Z
 DTSTART:20241218T053000Z
 DTEND:20241218T083000Z
 SUMMARY:2024/25 Sydney Summer Series #11 - Putney, Garingal Orienteers
@@ -206,7 +162,7 @@ GEO:-32.0218163735611;115.771501499967
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21216@eventor.orienteering.asn.au
-DTSTAMP:20241220T202109Z
+DTSTAMP:20241222T083230Z
 DTSTART:20241223T053000Z
 DTEND:20241223T083000Z
 SUMMARY:2024/25 Sydney Summer Series #12 - Mosman, Bennelong Northside Orienteers
@@ -237,6 +193,15 @@ DTSTART:20241223T073000Z
 DTEND:20241223T091500Z
 SUMMARY:Melbourne Park Street Monday Summer Series - Yarraman - "Christmas Five Days no 1", Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21509
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21857@eventor.orienteering.asn.au
+DTSTAMP:20241222T123745Z
+DTSTART:20241224T130000Z
+DTEND:20250101T130000Z
+SUMMARY:2024 Sydney MapRun #11 Botanic Gardens, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21857
+GEO:-33.8670010867126;151.217572156711
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21624@eventor.orienteering.asn.au
@@ -310,10 +275,10 @@ GEO:-27.5060749453025;153.086690255307
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21176@eventor.orienteering.asn.au
-DTSTAMP:20241202T034333Z
+DTSTAMP:20241221T225456Z
 DTSTART:20241228T210000Z
 DTEND:20241228T210000Z
-SUMMARY:2024 XMAS 5 DAYS Day 3, NSW Stingers / Orienteering NSW
+SUMMARY:2024 XMAS 5 DAYS Day 3, Big Foot Orienteers / NSW Stingers / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/21176
 GEO:-33.8852611466048;151.193714062046
 END:VEVENT
@@ -789,5 +754,30 @@ DTEND:20250121T093000Z
 SUMMARY:Night Nav - EN Downey Park, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/21052
 GEO:-27.4375226790495;153.013770176252
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21220@eventor.orienteering.asn.au
+DTSTAMP:20240910T040107Z
+DTSTART:20250122T053000Z
+DTEND:20250122T083000Z
+SUMMARY:2024/25 Sydney Summer Series #16 - Erskineville, Big Foot Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21220
+GEO:-33.9010171363247;151.189596000941
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21547@eventor.orienteering.asn.au
+DTSTAMP:20241107T033923Z
+DTSTART:20250122T060000Z
+DTEND:20250122T081500Z
+SUMMARY:Newcastle Summer Street Series #13 - Cameron Park, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21547
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21655@eventor.orienteering.asn.au
+DTSTAMP:20241205T024805Z
+DTSTART:20250122T073000Z
+DTEND:20250122T091500Z
+SUMMARY:Melbourne Park Street Wednesday Summer Series - Mont Albert, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21655
 END:VEVENT
 END:VCALENDAR
