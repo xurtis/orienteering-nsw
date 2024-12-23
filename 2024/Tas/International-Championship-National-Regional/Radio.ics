@@ -21,15 +21,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21199
 GEO:-35.2571641412821;149.105783127971
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21276@eventor.orienteering.asn.au
-DTSTAMP:20241216T110639Z
-DTSTART:20241216T060000Z
-DTEND:20241216T090000Z
-SUMMARY:ACT MapRun Street Series: Fisher, 12-16 Dec, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/21276
-GEO:-35.3620918485312;149.056949580387
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19875@eventor.orienteering.asn.au
 DTSTAMP:20241217T104638Z
 DTSTART:20241216T140000Z
@@ -84,7 +75,7 @@ GEO:-34.8127596872508;138.614869865114
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21215@eventor.orienteering.asn.au
-DTSTAMP:20241222T072245Z
+DTSTAMP:20241223T000844Z
 DTSTART:20241218T053000Z
 DTEND:20241218T083000Z
 SUMMARY:2024/25 Sydney Summer Series #11 - Putney, Garingal Orienteers
@@ -162,7 +153,7 @@ GEO:-32.0218163735611;115.771501499967
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21216@eventor.orienteering.asn.au
-DTSTAMP:20241222T083230Z
+DTSTAMP:20241223T104744Z
 DTSTART:20241223T053000Z
 DTEND:20241223T083000Z
 SUMMARY:2024/25 Sydney Summer Series #12 - Mosman, Bennelong Northside Orienteers
@@ -293,7 +284,7 @@ GEO:-27.5235959125736;152.93203680712
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21217@eventor.orienteering.asn.au
-DTSTAMP:20241216T021530Z
+DTSTAMP:20241223T103028Z
 DTSTART:20241230T053000Z
 DTEND:20241230T083000Z
 SUMMARY:2024/25 Sydney Summer Series #13 - North Head, NSW Stingers / Orienteering NSW / Uringa Orienteers
@@ -370,10 +361,10 @@ GEO:-28.5818237676594;151.771199403397
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21439@eventor.orienteering.asn.au
-DTSTAMP:20241013T051818Z
+DTSTAMP:20241223T042235Z
 DTSTART:20250103T073000Z
-DTEND:20250103T073000Z
-SUMMARY:Twilight Series Even t#6 - Adelaide Parklands - Uni Ovals and Botanic Par, Orienteering SA
+DTEND:20250103T093000Z
+SUMMARY:Twilight Series Even t#6 - Adelaide Parklands - Uni Ovals and Botanic Park, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/21439
 GEO:-34.9117273918688;138.603469452945
 END:VEVENT
@@ -453,7 +444,7 @@ DTSTART:20250108T053000Z
 DTEND:20250108T083000Z
 SUMMARY:2024/25 Sydney Summer Series #14 - Surry Hills, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21218
-GEO:-33.8884561990925;151.203645559654
+GEO:-33.8882887033866;151.20350676825
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21542@eventor.orienteering.asn.au
@@ -500,13 +491,13 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21745
 GEO:-41.3244027625895;148.247309058646
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21440@eventor.orienteering.asn.au
-DTSTAMP:20241013T051524Z
-DTSTART:20250109T133000Z
-DTEND:20250110T133000Z
-SUMMARY:Twilight Series Event #7 - Hackney - St Peters River Park, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/21440
-GEO:-34.9037762195073;138.615677435204
+UID:Event_21858@eventor.orienteering.asn.au
+DTSTAMP:20241223T042424Z
+DTSTART:20250110T073000Z
+DTEND:20250110T093000Z
+SUMMARY:Twilight Series Event #7 - St Peters River Park and Hackney, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/21858
+GEO:-34.9038639341093;138.615795863028
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21450@eventor.orienteering.asn.au
@@ -644,13 +635,13 @@ SUMMARY:Melbourne Park Street Thursday Summer Series - Briar Hill, Yarra Valley 
 URL:https://eventor.orienteering.asn.au/Events/Show/21660
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21441@eventor.orienteering.asn.au
-DTSTAMP:20241013T051716Z
+UID:Event_21859@eventor.orienteering.asn.au
+DTSTAMP:20241223T042452Z
 DTSTART:20250117T073000Z
-DTEND:20250117T073000Z
+DTEND:20250117T093000Z
 SUMMARY:Twilight Series Event #8 - Goodwood, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/21441
-GEO:-34.951955512294;138.583754538703
+URL:https://eventor.orienteering.asn.au/Events/Show/21859
+GEO:-34.951818414459;138.583719965254
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21451@eventor.orienteering.asn.au
@@ -779,5 +770,22 @@ DTSTART:20250122T073000Z
 DTEND:20250122T091500Z
 SUMMARY:Melbourne Park Street Wednesday Summer Series - Mont Albert, Yarra Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21655
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21730@eventor.orienteering.asn.au
+DTSTAMP:20241209T074357Z
+DTSTART:20250123T070000Z
+DTEND:20250123T085000Z
+SUMMARY:NightNav - Southside - Acacia Ridge, Toohey Forest Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21730
+GEO:-27.5779174783007;153.016734050626
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21661@eventor.orienteering.asn.au
+DTSTAMP:20241205T031436Z
+DTSTART:20250123T073000Z
+DTEND:20250123T091500Z
+SUMMARY:Melbourne Park Street Thursday Summer Series - Merri Creek South, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21661
 END:VEVENT
 END:VCALENDAR
