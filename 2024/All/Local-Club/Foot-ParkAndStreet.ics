@@ -21,41 +21,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21199
 GEO:-35.2571641412821;149.105783127971
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_19875@eventor.orienteering.asn.au
-DTSTAMP:20241217T104638Z
-DTSTART:20241216T140000Z
-DTEND:20241217T140000Z
-SUMMARY:Night Nav - EN - Eatons Hill, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/19875
-GEO:-27.3330466221998;152.952766949988
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21569@eventor.orienteering.asn.au
-DTSTAMP:20241217T132623Z
-DTSTART:20241217T064500Z
-DTEND:20241217T084500Z
-SUMMARY:Ballarat Summer Series 24/25 - #5 Lake Wendouree / North Gardens, Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21569
-GEO:-37.5450126875716;143.823355265443
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21513@eventor.orienteering.asn.au
-DTSTAMP:20241030T012649Z
-DTSTART:20241217T073000Z
-DTEND:20241217T091500Z
-SUMMARY:Melbourne Park Street Tuesday Summer Series - Old Williamstown, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21513
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21643@eventor.orienteering.asn.au
-DTSTAMP:20241217T235029Z
-DTSTART:20241217T080000Z
-DTEND:20241217T080000Z
-SUMMARY:Night Nav - Palmview, Sunshine Orienteers Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21643
-GEO:-26.7348173662899;153.054279395796
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21259@eventor.orienteering.asn.au
 DTSTAMP:20241218T102414Z
 DTSTART:20241217T130000Z
@@ -118,7 +83,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21636
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21154@eventor.orienteering.asn.au
-DTSTAMP:20241221T070110Z
+DTSTAMP:20241224T090002Z
 DTSTART:20241219T070000Z
 DTEND:20241219T070000Z
 SUMMARY:Night Nav EN Nth Newport, Enoggeroos
@@ -187,9 +152,9 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21509
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21857@eventor.orienteering.asn.au
-DTSTAMP:20241222T123745Z
+DTSTAMP:20241224T074012Z
 DTSTART:20241224T130000Z
-DTEND:20250101T130000Z
+DTEND:20250105T130000Z
 SUMMARY:2024 Sydney MapRun #11 Botanic Gardens, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21857
 GEO:-33.8670010867126;151.217572156711
@@ -787,5 +752,30 @@ DTSTART:20250123T073000Z
 DTEND:20250123T091500Z
 SUMMARY:Melbourne Park Street Thursday Summer Series - Merri Creek South, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21661
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21589@eventor.orienteering.asn.au
+DTSTAMP:20241208T104526Z
+DTSTART:20250123T130000Z
+DTEND:20250124T130000Z
+SUMMARY:Australia - New Zealand Challenge 2025 Team Member Gear, Orienteering Australia / Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/21589
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21359@eventor.orienteering.asn.au
+DTSTAMP:20240919T001252Z
+DTSTART:20250123T130000Z
+DTEND:20250124T130000Z
+SUMMARY:Australian Nomination for Selection 2025 Australia - New Zealand Challenge, Orienteering Australia / Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/21359
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21559@eventor.orienteering.asn.au
+DTSTAMP:20241110T062743Z
+DTSTART:20250124T070000Z
+DTEND:20250127T013000Z
+SUMMARY:OWA Summer Camp, Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/21559
+GEO:-35.052762333514;117.913592292957
 END:VEVENT
 END:VCALENDAR
