@@ -395,7 +395,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21321
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21040@eventor.orienteering.asn.au
-DTSTAMP:20241127T000611Z
+DTSTAMP:20241227T052131Z
 DTSTART:20250111T220000Z
 DTEND:20250111T233000Z
 SUMMARY:Central Coast Summer Series 7 - Kariong, Central Coast Orienteers
@@ -538,14 +538,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21319
 GEO:-32.9044535974677;151.564844066646
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21041@eventor.orienteering.asn.au
-DTSTAMP:20240726T030540Z
-DTSTART:20250118T220000Z
-DTEND:20250118T220000Z
-SUMMARY:Central Coast Summer Series 8 - Kincumber (East), Central Coast Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21041
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21374@eventor.orienteering.asn.au
 DTSTAMP:20241219T013944Z
 DTSTART:20250118T220000Z
@@ -553,6 +545,14 @@ DTEND:20250118T233000Z
 SUMMARY:ACT Sprint Series #1, Fern Hill Park, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/21374
 GEO:-35.242558160182;149.092607419624
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21041@eventor.orienteering.asn.au
+DTSTAMP:20241227T053116Z
+DTSTART:20250118T220000Z
+DTEND:20250118T233000Z
+SUMMARY:Central Coast Summer Series 8 - Kincumber (East), Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21041
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21322@eventor.orienteering.asn.au
@@ -710,10 +710,18 @@ GEO:-34.9580720081351;117.366361813678
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21042@eventor.orienteering.asn.au
-DTSTAMP:20240726T030747Z
+DTSTAMP:20241227T052352Z
 DTSTART:20250125T220000Z
-DTEND:20250125T220000Z
+DTEND:20250125T233000Z
 SUMMARY:Central Coast Summer Series 9 - , Central Coast Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21042
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21647@eventor.orienteering.asn.au
+DTSTAMP:20241205T022737Z
+DTSTART:20250127T073000Z
+DTEND:20250127T091500Z
+SUMMARY:Melbourne Park Street Monday Summer Series - Not Notting Hill, Victorian ARDF Group
+URL:https://eventor.orienteering.asn.au/Events/Show/21647
 END:VEVENT
 END:VCALENDAR
