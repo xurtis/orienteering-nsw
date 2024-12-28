@@ -81,21 +81,20 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21625
 GEO:-27.5123403630748;153.01656407664
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21174@eventor.orienteering.asn.au
-DTSTAMP:20241226T054808Z
-DTSTART:20241227T053000Z
-DTEND:20241227T080000Z
-SUMMARY:2024 XMAS 5 DAYS Day 1, Western and Hills Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21174
-GEO:-33.7327500086713;151.061307148229
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21508@eventor.orienteering.asn.au
 DTSTAMP:20241217T004453Z
 DTSTART:20241227T073000Z
 DTEND:20241227T091500Z
 SUMMARY:Melbourne Park Street Monday Summer Series - Ashwood South - RESCHEDULED from 16 December; "Christmas Five Days no 3", Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21508
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21884@eventor.orienteering.asn.au
+DTSTAMP:20241228T054320Z
+DTSTART:20241227T130000Z
+DTEND:20241228T130000Z
+SUMMARY:Day 2 Race results, Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21884
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21626@eventor.orienteering.asn.au
@@ -108,12 +107,21 @@ GEO:-27.4031765923015;153.047509192173
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21175@eventor.orienteering.asn.au
-DTSTAMP:20241226T061039Z
+DTSTAMP:20241228T052439Z
 DTSTART:20241227T210000Z
 DTEND:20241227T210000Z
 SUMMARY:2024 XMAS 5 DAYS Day 2, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21175
-GEO:-33.8992011702318;151.234408271742
+GEO:-33.8988684119089;151.238145723036
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21174@eventor.orienteering.asn.au
+DTSTAMP:20241228T094326Z
+DTSTART:20241228T053000Z
+DTEND:20241228T080000Z
+SUMMARY:2024 XMAS 5 DAYS Day 1, Western and Hills Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21174
+GEO:-33.7327500086713;151.061307148229
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21627@eventor.orienteering.asn.au
@@ -126,7 +134,7 @@ GEO:-27.5060749453025;153.086690255307
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21176@eventor.orienteering.asn.au
-DTSTAMP:20241225T112915Z
+DTSTAMP:20241228T082556Z
 DTSTART:20241228T210000Z
 DTEND:20241228T210000Z
 SUMMARY:2024 XMAS 5 DAYS Day 3, Big Foot Orienteers / NSW Stingers / Orienteering NSW
@@ -723,5 +731,22 @@ DTSTART:20250127T073000Z
 DTEND:20250127T091500Z
 SUMMARY:Melbourne Park Street Monday Summer Series - Not Notting Hill, Victorian ARDF Group
 URL:https://eventor.orienteering.asn.au/Events/Show/21647
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21651@eventor.orienteering.asn.au
+DTSTAMP:20241205T024123Z
+DTSTART:20250128T073000Z
+DTEND:20250128T091500Z
+SUMMARY:Melbourne Park Street Tuesday Summer Series - Williamstown Strand, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21651
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21053@eventor.orienteering.asn.au
+DTSTAMP:20240811T024704Z
+DTSTART:20250128T073000Z
+DTEND:20250128T093000Z
+SUMMARY:Night Nav - EN The Gap - Hilder, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/21053
+GEO:-27.4383482195501;152.934711917824
 END:VEVENT
 END:VCALENDAR
