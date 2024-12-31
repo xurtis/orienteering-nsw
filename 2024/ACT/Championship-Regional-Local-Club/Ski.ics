@@ -109,7 +109,7 @@ GEO:-27.5235959125736;152.93203680712
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21217@eventor.orienteering.asn.au
-DTSTAMP:20241229T030410Z
+DTSTAMP:20241230T173357Z
 DTSTART:20241230T053000Z
 DTEND:20241230T083000Z
 SUMMARY:2024/25 Sydney Summer Series #13 - North Head, NSW Stingers / Orienteering NSW / Uringa Orienteers
@@ -144,7 +144,7 @@ GEO:-27.4171106966578;153.008069854543
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21178@eventor.orienteering.asn.au
-DTSTAMP:20241219T202824Z
+DTSTAMP:20241231T055925Z
 DTSTART:20241230T210000Z
 DTEND:20241231T000000Z
 SUMMARY:2024 XMAS 5 DAYS Day 5, Garingal Orienteers
@@ -273,7 +273,7 @@ GEO:-33.8882887033866;151.20350676825
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21542@eventor.orienteering.asn.au
-DTSTAMP:20241220T040315Z
+DTSTAMP:20241231T111330Z
 DTSTART:20250108T060000Z
 DTEND:20250108T081500Z
 SUMMARY:Newcastle Summer Street Series #11 - Carrington, Newcastle Orienteering Club
@@ -351,14 +351,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21585
 GEO:-31.959519788275;115.803607325832
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21321@eventor.orienteering.asn.au
-DTSTAMP:20241126T041316Z
-DTSTART:20250111T130000Z
-DTEND:20250112T130000Z
-SUMMARY:West Sydney Orienteering Series, Garingal Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21321
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21040@eventor.orienteering.asn.au
 DTSTAMP:20241229T074307Z
 DTSTART:20250111T220000Z
@@ -366,6 +358,14 @@ DTEND:20250111T233000Z
 SUMMARY:Central Coast Summer Series 7 - Kariong, Central Coast Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21040
 GEO:-33.4329532208289;151.292755453719
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21321@eventor.orienteering.asn.au
+DTSTAMP:20241231T111519Z
+DTSTART:20250111T223000Z
+DTEND:20250111T223000Z
+SUMMARY:West Sydney Orienteering Series, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21321
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21663@eventor.orienteering.asn.au
@@ -566,10 +566,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21657
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21052@eventor.orienteering.asn.au
-DTSTAMP:20240811T033123Z
+DTSTAMP:20241231T042351Z
 DTSTART:20250121T080000Z
 DTEND:20250121T093000Z
-SUMMARY:Night Nav - EN Downey Park, Enoggeroos
+SUMMARY:Night Nav - EN Downey Park map, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/21052
 GEO:-27.4375226790495;153.013770176252
 END:VEVENT
@@ -701,7 +701,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21651
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21053@eventor.orienteering.asn.au
-DTSTAMP:20240811T024704Z
+DTSTAMP:20241231T042801Z
 DTSTART:20250128T073000Z
 DTEND:20250128T093000Z
 SUMMARY:Night Nav - EN The Gap - Hilder, Enoggeroos
@@ -757,5 +757,14 @@ DTSTART:20250130T080000Z
 DTEND:20250130T091500Z
 SUMMARY:Geelong Park Street Thursday Summer Series - Queen's Bridge, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21714
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21880@eventor.orienteering.asn.au
+DTSTAMP:20241227T231422Z
+DTSTART:20250131T080000Z
+DTEND:20250131T093000Z
+SUMMARY:Snap Sprint Series #1 Adelaide Uni, SA Arrows
+URL:https://eventor.orienteering.asn.au/Events/Show/21880
+GEO:-34.9180895242555;138.603975262436
 END:VEVENT
 END:VCALENDAR
