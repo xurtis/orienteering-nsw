@@ -12,23 +12,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21857
 GEO:-33.8670010867126;151.217572156711
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21624@eventor.orienteering.asn.au
-DTSTAMP:20241130T005733Z
-DTSTART:20241225T140000Z
-DTEND:20241226T140000Z
-SUMMARY:Santa 6 Days 2024 - Event 1 - City Botanic Gardens (Gardens Point), Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/21624
-GEO:-27.4748795601218;153.027220971611
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21521@eventor.orienteering.asn.au
-DTSTAMP:20241217T004522Z
-DTSTART:20241226T073000Z
-DTEND:20241226T091500Z
-SUMMARY:Melbourne Park Street Thursday Summer Series - Merry Parklands - "Christmas Five Days no 2", Nillumbik Emus Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21521
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21625@eventor.orienteering.asn.au
 DTSTAMP:20241130T010058Z
 DTSTART:20241226T140000Z
@@ -308,7 +291,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21659
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21745@eventor.orienteering.asn.au
-DTSTAMP:20241228T235133Z
+DTSTAMP:20250101T212001Z
 DTSTART:20250109T130000Z
 DTEND:20250112T130000Z
 SUMMARY:St Helens - Summer Camp, Orienteering Tasmania
@@ -759,6 +742,15 @@ SUMMARY:Geelong Park Street Thursday Summer Series - Queen's Bridge, Bayside Kan
 URL:https://eventor.orienteering.asn.au/Events/Show/21714
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_21890@eventor.orienteering.asn.au
+DTSTAMP:20250102T023233Z
+DTSTART:20250131T070000Z
+DTEND:20250131T070000Z
+SUMMARY:Goldseekers Summer Series #1 2025, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21890
+GEO:-33.2703555128364;149.079392627538
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21880@eventor.orienteering.asn.au
 DTSTAMP:20241227T231422Z
 DTSTART:20250131T080000Z
@@ -793,5 +785,47 @@ DTEND:20250201T101500Z
 SUMMARY:MetrO 8 Edgewater, Bibbulmun Orienteers / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/21472
 GEO:-32.0334646274189;115.924939465079
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21746@eventor.orienteering.asn.au
+DTSTAMP:20241212T011457Z
+DTSTART:20250201T130000Z
+DTEND:20250202T130000Z
+SUMMARY:Wentworth Park - Learn to Orienteer Week 1, Australopers
+URL:https://eventor.orienteering.asn.au/Events/Show/21746
+GEO:-42.880706264958;147.398345908424
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21323@eventor.orienteering.asn.au
+DTSTAMP:20240916T035320Z
+DTSTART:20250201T130000Z
+DTEND:20250202T130000Z
+SUMMARY:West Sydney Orienteering Series, Bennelong Northside Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21323
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21860@eventor.orienteering.asn.au
+DTSTAMP:20241224T025207Z
+DTSTART:20250201T210000Z
+DTEND:20250202T013000Z
+SUMMARY:MapRun Series 24-25 #4, Wagga and Riverina Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21860
+GEO:-35.1341937862562;147.365248138591
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21375@eventor.orienteering.asn.au
+DTSTAMP:20241219T013947Z
+DTSTART:20250201T220000Z
+DTEND:20250201T233000Z
+SUMMARY:ACT Sprint Series #2, Queanbeyan South Public School, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/21375
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21043@eventor.orienteering.asn.au
+DTSTAMP:20241012T053328Z
+DTSTART:20250201T220000Z
+DTEND:20250201T233000Z
+SUMMARY:Central Coast Summer Series 10 - Niagara Park, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21043
 END:VEVENT
 END:VCALENDAR
