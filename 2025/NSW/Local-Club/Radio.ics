@@ -12,23 +12,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21857
 GEO:-33.8670010867126;151.217572156711
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21625@eventor.orienteering.asn.au
-DTSTAMP:20241130T010058Z
-DTSTART:20241226T140000Z
-DTEND:20241227T140000Z
-SUMMARY:Santa 6 Days 2024 - Event 2 - Yeronga, Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/21625
-GEO:-27.5123403630748;153.01656407664
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21508@eventor.orienteering.asn.au
-DTSTAMP:20241217T004453Z
-DTSTART:20241227T073000Z
-DTEND:20241227T091500Z
-SUMMARY:Melbourne Park Street Monday Summer Series - Ashwood South - RESCHEDULED from 16 December; "Christmas Five Days no 3", Nillumbik Emus Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21508
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21884@eventor.orienteering.asn.au
 DTSTAMP:20241228T054320Z
 DTSTART:20241227T130000Z
@@ -344,11 +327,12 @@ GEO:-33.4329532208289;151.292755453719
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21321@eventor.orienteering.asn.au
-DTSTAMP:20241231T111519Z
+DTSTAMP:20250103T012001Z
 DTSTART:20250111T223000Z
 DTEND:20250111T223000Z
-SUMMARY:West Sydney Orienteering Series, Garingal Orienteers
+SUMMARY:Western Sydney Orienteering Series #2 - Winston Hills, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21321
+GEO:-33.7808427130285;150.991212577567
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21663@eventor.orienteering.asn.au
@@ -660,11 +644,12 @@ GEO:-34.9580720081351;117.366361813678
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21042@eventor.orienteering.asn.au
-DTSTAMP:20241227T052352Z
+DTSTAMP:20250103T014024Z
 DTSTART:20250125T220000Z
 DTEND:20250125T233000Z
-SUMMARY:Central Coast Summer Series 9 - , Central Coast Orienteers
+SUMMARY:Central Coast Summer Series 9 - North Entrance, Central Coast Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21042
+GEO:-33.335195587105;151.504264962005
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21647@eventor.orienteering.asn.au
@@ -827,5 +812,29 @@ DTSTART:20250201T220000Z
 DTEND:20250201T233000Z
 SUMMARY:Central Coast Summer Series 10 - Niagara Park, Central Coast Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21043
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21705@eventor.orienteering.asn.au
+DTSTAMP:20241209T000850Z
+DTSTART:20250203T060000Z
+DTEND:20250203T090000Z
+SUMMARY:ACT MapRun Street Series: Ainslie, 30 Jan - 3 Feb, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/21705
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21668@eventor.orienteering.asn.au
+DTSTAMP:20241206T052426Z
+DTSTART:20250203T073000Z
+DTEND:20250203T091500Z
+SUMMARY:Melbourne Park Street Monday Summer Series - Kingsclere, Dandenong Ranges Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21668
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20827@eventor.orienteering.asn.au
+DTSTAMP:20240506T014320Z
+DTSTART:20250203T090000Z
+DTEND:20250203T090000Z
+SUMMARY:Orienteering ACT February Board Meeting, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20827
 END:VEVENT
 END:VCALENDAR
