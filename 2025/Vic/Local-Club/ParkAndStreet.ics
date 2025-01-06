@@ -12,32 +12,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21857
 GEO:-33.8670010867126;151.217572156711
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21628@eventor.orienteering.asn.au
-DTSTAMP:20241130T014941Z
-DTSTART:20241229T140000Z
-DTEND:20241230T140000Z
-SUMMARY:Santa 6 Days 2024 - Event 5 -   Kenmore South, Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/21628
-GEO:-27.5235959125736;152.93203680712
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21217@eventor.orienteering.asn.au
-DTSTAMP:20241230T173357Z
-DTSTART:20241230T053000Z
-DTEND:20241230T083000Z
-SUMMARY:2024/25 Sydney Summer Series #13 - North Head, NSW Stingers / Orienteering NSW / Uringa Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21217
-GEO:-33.8053293514978;151.292508828895
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21510@eventor.orienteering.asn.au
-DTSTAMP:20241217T004601Z
-DTSTART:20241230T073000Z
-DTEND:20241230T091500Z
-SUMMARY:Melbourne Park Street Monday Summer Series - Jingle Jells - "Christmas Five Days no 4", Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21510
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20490@eventor.orienteering.asn.au
 DTSTAMP:20241218T045101Z
 DTSTART:20241230T130000Z
@@ -149,8 +123,16 @@ SUMMARY:QNOTS - NightO, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/21900
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_21915@eventor.orienteering.asn.au
+DTSTAMP:20250106T050651Z
+DTSTART:20250105T230000Z
+DTEND:20250105T230000Z
+SUMMARY:QNOTS - Long Legs, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/21915
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21702@eventor.orienteering.asn.au
-DTSTAMP:20241209T000844Z
+DTSTAMP:20250106T115806Z
 DTSTART:20250106T060000Z
 DTEND:20250106T090000Z
 SUMMARY:ACT MapRun Street Series: Parkes, 2-6 Jan, Orienteering ACT
@@ -263,7 +245,7 @@ GEO:-34.9038639341093;138.615795863028
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21450@eventor.orienteering.asn.au
-DTSTAMP:20241230T005755Z
+DTSTAMP:20250106T090821Z
 DTSTART:20250110T220000Z
 DTEND:20250111T000000Z
 SUMMARY:SHOO's Summer Saturdays #2, Southern Highlands Orienteers
@@ -280,7 +262,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21665
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21585@eventor.orienteering.asn.au
-DTSTAMP:20241230T084732Z
+DTSTAMP:20250106T075426Z
 DTSTART:20250111T080000Z
 DTEND:20250111T100000Z
 SUMMARY:Summer Sprint 2, Orienteering WA
@@ -307,7 +289,7 @@ GEO:-33.7808427130285;150.991212577567
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21899@eventor.orienteering.asn.au
-DTSTAMP:20250105T025850Z
+DTSTAMP:20250106T124939Z
 DTSTART:20250111T230000Z
 DTEND:20250111T230000Z
 SUMMARY:Argyle - Training, Bendigo Orienteers
@@ -418,9 +400,9 @@ GEO:-34.951818414459;138.583719965254
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21451@eventor.orienteering.asn.au
-DTSTAMP:20250105T000359Z
+DTSTAMP:20250106T092426Z
 DTSTART:20250117T220000Z
-DTEND:20250118T000000Z
+DTEND:20250118T003000Z
 SUMMARY:SHOO's Summer Saturdays #3, Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21451
 GEO:-34.0645319523173;150.723396644984
@@ -598,7 +580,7 @@ GEO:-35.052762333514;117.913592292957
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21452@eventor.orienteering.asn.au
-DTSTAMP:20241015T022018Z
+DTSTAMP:20250106T091814Z
 DTSTART:20250124T220000Z
 DTEND:20250125T003000Z
 SUMMARY:SHOO's Summer Saturdays #4, Southern Highlands Orienteers
@@ -734,8 +716,17 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21880
 GEO:-34.9180895242555;138.603975262436
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_21922@eventor.orienteering.asn.au
+DTSTAMP:20250106T103900Z
+DTSTART:20250131T213000Z
+DTEND:20250131T213000Z
+SUMMARY:Princes Park Orienteering Week 1, Melbourne Forest Racers
+URL:https://eventor.orienteering.asn.au/Events/Show/21922
+GEO:-37.7823571327782;144.963149460842
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21453@eventor.orienteering.asn.au
-DTSTAMP:20241015T022407Z
+DTSTAMP:20250106T092251Z
 DTSTART:20250131T220000Z
 DTEND:20250201T003000Z
 SUMMARY:SHOO's Summer Saturdays #5, Southern Highlands Orienteers
@@ -884,5 +875,21 @@ DTSTART:20250205T073000Z
 DTEND:20250205T091500Z
 SUMMARY:Melbourne Park Street Wednesday Summer Series - Canterbury Trails, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21683
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21691@eventor.orienteering.asn.au
+DTSTAMP:20241207T044353Z
+DTSTART:20250206T073000Z
+DTEND:20250206T091500Z
+SUMMARY:Melbourne Park Street Thursday Summer Series - Norris Bank, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21691
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21715@eventor.orienteering.asn.au
+DTSTAMP:20241209T032456Z
+DTSTART:20250206T080000Z
+DTEND:20250206T091500Z
+SUMMARY:Geelong Park Street Thursday Summer Series - Tomb Raiders, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21715
 END:VEVENT
 END:VCALENDAR
