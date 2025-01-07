@@ -12,41 +12,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21857
 GEO:-33.8670010867126;151.217572156711
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20490@eventor.orienteering.asn.au
-DTSTAMP:20241218T045101Z
-DTSTART:20241230T130000Z
-DTEND:20241231T130000Z
-SUMMARY:MTBO Jersey Order, Orienteering Australia
-URL:https://eventor.orienteering.asn.au/Events/Show/20490
-GEO:-27.6477619844233;154.8976631875
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21629@eventor.orienteering.asn.au
-DTSTAMP:20241130T020557Z
-DTSTART:20241230T140000Z
-DTEND:20241231T140000Z
-SUMMARY:Santa 6 Days 2024 - Event 6 -   Grange Forest Park, Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/21629
-GEO:-27.4171106966578;153.008069854543
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21178@eventor.orienteering.asn.au
-DTSTAMP:20241231T055925Z
-DTSTART:20241230T210000Z
-DTEND:20241231T000000Z
-SUMMARY:2024 XMAS 5 DAYS Day 5, Garingal Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21178
-GEO:-33.8784668908649;151.157431255342
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21514@eventor.orienteering.asn.au
-DTSTAMP:20241217T004256Z
-DTSTART:20241231T073000Z
-DTEND:20241231T091500Z
-SUMMARY:Melbourne Park Street Tuesday Summer Series - Princes Park - "Christmas Five Days no 5", Melbourne Forest Racers
-URL:https://eventor.orienteering.asn.au/Events/Show/21514
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21652@eventor.orienteering.asn.au
 DTSTAMP:20241205T024415Z
 DTSTART:20250101T073000Z
@@ -148,8 +113,17 @@ SUMMARY:Melbourne Park Street Monday Summer Series - Gardiners Creek, Nillumbik 
 URL:https://eventor.orienteering.asn.au/Events/Show/21644
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_21050@eventor.orienteering.asn.au
+DTSTAMP:20250107T111745Z
+DTSTART:20250106T140000Z
+DTEND:20250107T140000Z
+SUMMARY:Night Nav - EN Bridgeman Downs, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/21050
+GEO:-27.3605298138231;152.985440671843
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21570@eventor.orienteering.asn.au
-DTSTAMP:20241111T082150Z
+DTSTAMP:20250107T101010Z
 DTSTART:20250107T064500Z
 DTEND:20250107T084500Z
 SUMMARY:Ballarat Summer Series 24/25 - #6 Redan / Yarrowee River, Eureka Orienteers
@@ -163,15 +137,6 @@ DTSTART:20250107T073000Z
 DTEND:20250107T091500Z
 SUMMARY:Melbourne Park Street Tuesday Summer Series - Kensington, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21648
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21050@eventor.orienteering.asn.au
-DTSTAMP:20240811T032355Z
-DTSTART:20250107T080000Z
-DTEND:20250107T093000Z
-SUMMARY:Night Nav - EN Bridgeman Downs, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/21050
-GEO:-27.3605298138231;152.985440671843
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21218@eventor.orienteering.asn.au
@@ -426,9 +391,9 @@ GEO:-32.0342018112776;115.922884493051
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21319@eventor.orienteering.asn.au
-DTSTAMP:20250104T005613Z
+DTSTAMP:20250106T232532Z
 DTSTART:20250118T210000Z
-DTEND:20250118T210000Z
+DTEND:20250118T231500Z
 SUMMARY:Newcastle BOSS4 MTBO - O'Donnelltown, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21319
 GEO:-32.9044535974677;151.564844066646
@@ -735,7 +700,7 @@ GEO:-34.0422567011852;150.772972728084
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21853@eventor.orienteering.asn.au
-DTSTAMP:20241221T082907Z
+DTSTAMP:20250107T061549Z
 DTSTART:20250201T070000Z
 DTEND:20250201T083000Z
 SUMMARY:Bike-O 75 Series - You Yangs, Bayside Kangaroos Orienteers
@@ -891,5 +856,23 @@ DTSTART:20250206T080000Z
 DTEND:20250206T091500Z
 SUMMARY:Geelong Park Street Thursday Summer Series - Tomb Raiders, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21715
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21891@eventor.orienteering.asn.au
+DTSTAMP:20250102T024229Z
+DTSTART:20250207T070000Z
+DTEND:20250207T070000Z
+SUMMARY:Goldseekers Summer Series #2 2025, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21891
+GEO:-33.2686119668192;149.106295880142
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21881@eventor.orienteering.asn.au
+DTSTAMP:20241227T235210Z
+DTSTART:20250207T080000Z
+DTEND:20250207T093000Z
+SUMMARY:Snap Sprint Series #2 Flinders University, SA Arrows
+URL:https://eventor.orienteering.asn.au/Events/Show/21881
+GEO:-35.0266249023668;138.571501850341
 END:VEVENT
 END:VCALENDAR
