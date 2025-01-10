@@ -12,24 +12,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21857
 GEO:-33.8670010867126;151.217572156711
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21776@eventor.orienteering.asn.au
-DTSTAMP:20250108T105739Z
-DTSTART:20250102T140000Z
-DTEND:20250103T140000Z
-SUMMARY:QNOTS Training Camp Stanthorpe area, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/21776
-GEO:-28.5818237676594;151.771199403397
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21439@eventor.orienteering.asn.au
-DTSTAMP:20250103T233447Z
-DTSTART:20250103T073000Z
-DTEND:20250103T093000Z
-SUMMARY:Twilight Series Even t#6 - Adelaide Parklands - Uni Ovals and Botanic Park, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/21439
-GEO:-34.9117273918688;138.603469452945
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21449@eventor.orienteering.asn.au
 DTSTAMP:20250104T003006Z
 DTSTART:20250103T220000Z
@@ -193,7 +175,7 @@ GEO:-41.3239605608525;148.247223533973
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21858@eventor.orienteering.asn.au
-DTSTAMP:20241223T042424Z
+DTSTAMP:20250110T112515Z
 DTSTART:20250110T073000Z
 DTEND:20250110T093000Z
 SUMMARY:Twilight Series Event #7 - St Peters River Park and Hackney, Orienteering SA
@@ -384,10 +366,10 @@ GEO:-32.0342018112776;115.922884493051
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21319@eventor.orienteering.asn.au
-DTSTAMP:20250106T232532Z
+DTSTAMP:20250110T070219Z
 DTSTART:20250118T210000Z
 DTEND:20250118T231500Z
-SUMMARY:Newcastle BOSS4 MTBO - O'Donnelltown, Newcastle Orienteering Club
+SUMMARY:Newcastle BOSS4 MTBO - O'Donnelltown (West Wallsend), Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21319
 GEO:-32.9044535974677;151.564844066646
 END:VEVENT
@@ -1014,5 +996,21 @@ DTEND:20250209T010000Z
 SUMMARY:IMRS Summer#1 - Shell Cove, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21572
 GEO:-34.5906263646939;150.851975452718
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21706@eventor.orienteering.asn.au
+DTSTAMP:20241209T000852Z
+DTSTART:20250210T060000Z
+DTEND:20250210T090000Z
+SUMMARY:ACT MapRun Street Series: Scullin-Page, 6-10 Feb, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/21706
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21669@eventor.orienteering.asn.au
+DTSTAMP:20241206T052541Z
+DTSTART:20250210T073000Z
+DTEND:20250210T091500Z
+SUMMARY:Melbourne Park Street Monday Summer Series - Tirhatuan, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21669
 END:VEVENT
 END:VCALENDAR
