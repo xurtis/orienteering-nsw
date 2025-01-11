@@ -4,46 +4,12 @@ PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
 UID:Event_21857@eventor.orienteering.asn.au
-DTSTAMP:20241224T074012Z
+DTSTAMP:20250111T091638Z
 DTSTART:20241224T130000Z
 DTEND:20250105T130000Z
 SUMMARY:2024 Sydney MapRun #11 Botanic Gardens, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21857
 GEO:-33.8670010867126;151.217572156711
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21449@eventor.orienteering.asn.au
-DTSTAMP:20250104T003006Z
-DTSTART:20250103T220000Z
-DTEND:20250104T003000Z
-SUMMARY:SHOOs Summer Saturdays #1, Southern Highlands Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21449
-GEO:-34.0275696696673;150.73954257225
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21897@eventor.orienteering.asn.au
-DTSTAMP:20250104T085317Z
-DTSTART:20250104T040000Z
-DTEND:20250104T040000Z
-SUMMARY:QNOTS - Contours Only, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/21897
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21664@eventor.orienteering.asn.au
-DTSTAMP:20241205T032522Z
-DTSTART:20250104T043000Z
-DTEND:20250104T063000Z
-SUMMARY:Surfside Park Street Summer Series - Barwon Heads, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21664
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21470@eventor.orienteering.asn.au
-DTSTAMP:20250104T102453Z
-DTSTART:20250104T080000Z
-DTEND:20250104T101500Z
-SUMMARY:MetrO 6 Swanbourne, Bibbulmun Orienteers / Orienteering WA
-URL:https://eventor.orienteering.asn.au/Events/Show/21470
-GEO:-31.9790007428265;115.760870810755
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21900@eventor.orienteering.asn.au
@@ -132,7 +98,7 @@ GEO:-32.9099795110379;151.762854557508
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21653@eventor.orienteering.asn.au
-DTSTAMP:20250109T042442Z
+DTSTAMP:20250111T050458Z
 DTSTART:20250108T073000Z
 DTEND:20250108T091500Z
 SUMMARY:Melbourne Park Street Wednesday Summer Series - Loughnan Hill, Dandenong Ranges Orienteering Club
@@ -184,7 +150,7 @@ GEO:-34.9041225680374;138.616225233327
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21450@eventor.orienteering.asn.au
-DTSTAMP:20250108T085351Z
+DTSTAMP:20250111T002215Z
 DTSTART:20250110T220000Z
 DTEND:20250111T000000Z
 SUMMARY:SHOO's Summer Saturdays #2, Southern Highlands Orienteers
@@ -201,7 +167,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21665
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21585@eventor.orienteering.asn.au
-DTSTAMP:20250106T075426Z
+DTSTAMP:20250111T100450Z
 DTSTART:20250111T080000Z
 DTEND:20250111T100000Z
 SUMMARY:Summer Sprint 2, Orienteering WA
@@ -219,7 +185,7 @@ GEO:-33.4329532208289;151.292755453719
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21321@eventor.orienteering.asn.au
-DTSTAMP:20250103T214953Z
+DTSTAMP:20250111T033454Z
 DTSTART:20250111T223000Z
 DTEND:20250111T223000Z
 SUMMARY:Western Sydney Orienteering Series #2 - Winston Hills, Garingal Orienteers
@@ -233,7 +199,7 @@ DTSTART:20250111T230000Z
 DTEND:20250111T230000Z
 SUMMARY:Argyle - Training, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21899
-GEO:-36.9534414117822;144.71178560908
+GEO:-36.9423259659925;144.714205639379
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21663@eventor.orienteering.asn.au
@@ -758,6 +724,7 @@ DTSTART:20250203T060000Z
 DTEND:20250203T090000Z
 SUMMARY:ACT MapRun Street Series: Ainslie, 30 Jan - 3 Feb, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/21705
+GEO:-35.260003;149.138971
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21668@eventor.orienteering.asn.au
@@ -1012,5 +979,21 @@ DTSTART:20250210T073000Z
 DTEND:20250210T091500Z
 SUMMARY:Melbourne Park Street Monday Summer Series - Tirhatuan, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21669
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20336@eventor.orienteering.asn.au
+DTSTAMP:20240413T061728Z
+DTSTART:20250211T073000Z
+DTEND:20250211T073000Z
+SUMMARY:Night Nav - Term 1 Series Event #2, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20336
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21677@eventor.orienteering.asn.au
+DTSTAMP:20241206T054021Z
+DTSTART:20250211T073000Z
+DTEND:20250211T091500Z
+SUMMARY:Melbourne Park Street Tuesday Summer Series - Paisley Park, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21677
 END:VEVENT
 END:VCALENDAR
