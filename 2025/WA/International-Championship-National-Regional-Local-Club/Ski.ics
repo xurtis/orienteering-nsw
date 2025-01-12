@@ -3,23 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_21857@eventor.orienteering.asn.au
-DTSTAMP:20250111T091638Z
-DTSTART:20241224T130000Z
-DTEND:20250105T130000Z
-SUMMARY:2024 Sydney MapRun #11 Botanic Gardens, Garingal Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21857
-GEO:-33.8670010867126;151.217572156711
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21900@eventor.orienteering.asn.au
-DTSTAMP:20250105T112227Z
-DTSTART:20250104T210000Z
-DTEND:20250105T110000Z
-SUMMARY:QNOTS - NightO, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/21900
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21915@eventor.orienteering.asn.au
 DTSTAMP:20250106T050651Z
 DTSTART:20250105T230000Z
@@ -176,7 +159,7 @@ GEO:-31.959519788275;115.803607325832
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21040@eventor.orienteering.asn.au
-DTSTAMP:20250104T091221Z
+DTSTAMP:20250112T032618Z
 DTSTART:20250111T220000Z
 DTEND:20250111T233000Z
 SUMMARY:Central Coast Summer Series 7 - Kariong, Central Coast Orienteers
@@ -185,7 +168,7 @@ GEO:-33.4329532208289;151.292755453719
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21321@eventor.orienteering.asn.au
-DTSTAMP:20250111T033454Z
+DTSTAMP:20250112T112340Z
 DTSTART:20250111T223000Z
 DTEND:20250111T223000Z
 SUMMARY:Western Sydney Orienteering Series #2 - Winston Hills, Garingal Orienteers
@@ -233,7 +216,7 @@ DTSTART:20250114T064500Z
 DTEND:20250114T084500Z
 SUMMARY:Ballarat Summer Series 24/25 - #7 Union Jack Reserve, Buninyong, Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21571
-GEO:-37.6387344812632;143.906777072314
+GEO:-37.645033252433;143.895979626629
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21649@eventor.orienteering.asn.au
@@ -254,7 +237,7 @@ GEO:-27.3198400234112;153.03172316796
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21219@eventor.orienteering.asn.au
-DTSTAMP:20241111T044312Z
+DTSTAMP:20250112T045603Z
 DTSTART:20250115T053000Z
 DTEND:20250115T083000Z
 SUMMARY:2024/25 Sydney Summer Series #15 - Telopea, Western and Hills Orienteers
@@ -376,6 +359,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21724
 GEO:-31.4538163497893;152.900135614438
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_21986@eventor.orienteering.asn.au
+DTSTAMP:20250112T050655Z
+DTSTART:20250119T060000Z
+DTEND:20250119T060000Z
+SUMMARY:MapRun Parks 2025 - Edwards Park, Carindale, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21986
+GEO:-27.5271250389137;153.107143834059
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21704@eventor.orienteering.asn.au
 DTSTAMP:20241209T000849Z
 DTSTART:20250120T060000Z
@@ -391,6 +383,15 @@ DTSTART:20250120T073000Z
 DTEND:20250120T091500Z
 SUMMARY:Melbourne Park Street Monday Summer Series - Heaney Park, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21646
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21984@eventor.orienteering.asn.au
+DTSTAMP:20250112T032202Z
+DTSTART:20250121T064500Z
+DTEND:20250121T084500Z
+SUMMARY:Ballarat Summer Series 24/25 - Lake Esmond, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21984
+GEO:-37.5753230570308;143.874348283417
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21657@eventor.orienteering.asn.au
@@ -536,6 +537,15 @@ DTEND:20250125T223000Z
 SUMMARY:NT: 2025 Australia Day Come and Try, Top End Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21930
 GEO:-12.4717361550865;131.039373720406
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21987@eventor.orienteering.asn.au
+DTSTAMP:20250112T051222Z
+DTSTART:20250126T060000Z
+DTEND:20250126T060000Z
+SUMMARY:MapRun Parks 2025 - Wolston Creek, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21987
+GEO:-27.5624753610654;152.902386188986
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21647@eventor.orienteering.asn.au
@@ -716,6 +726,15 @@ DTSTART:20250201T220000Z
 DTEND:20250201T233000Z
 SUMMARY:Central Coast Summer Series 10 - Niagara Park, Central Coast Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21043
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21988@eventor.orienteering.asn.au
+DTSTAMP:20250112T051457Z
+DTSTART:20250202T060000Z
+DTEND:20250202T060000Z
+SUMMARY:MapRun Parks 2025 - Moore Park, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21988
+GEO:-27.4998489887424;152.963790096847
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21705@eventor.orienteering.asn.au
@@ -923,6 +942,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21747
 GEO:-42.8670438269505;147.323900762678
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_21995@eventor.orienteering.asn.au
+DTSTAMP:20250112T092820Z
+DTSTART:20250208T140000Z
+DTEND:20250209T140000Z
+SUMMARY:Queens Park/Warwick High School, Bullecourt Boulder Bounders
+URL:https://eventor.orienteering.asn.au/Events/Show/21995
+GEO:-28.2100502135125;152.03280754942
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21885@eventor.orienteering.asn.au
 DTSTAMP:20250108T220331Z
 DTSTART:20250208T210000Z
@@ -948,6 +976,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21044
 GEO:-33.3541877925261;151.492120822164
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_21985@eventor.orienteering.asn.au
+DTSTAMP:20250112T041041Z
+DTSTART:20250208T230000Z
+DTEND:20250208T230000Z
+SUMMARY:OQ Level 3 Controllers Workshop, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/21985
+GEO:-27.4444952982768;153.042220649167
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21721@eventor.orienteering.asn.au
 DTSTAMP:20241209T033414Z
 DTSTART:20250208T230000Z
@@ -963,6 +1000,15 @@ DTEND:20250209T010000Z
 SUMMARY:IMRS Summer#1 - Shell Cove, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21572
 GEO:-34.5906263646939;150.851975452718
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21989@eventor.orienteering.asn.au
+DTSTAMP:20250112T051930Z
+DTSTART:20250209T060000Z
+DTEND:20250209T060000Z
+SUMMARY:MapRun Parks 2025 - 7th Brigade Park, Chermside, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21989
+GEO:-27.3773480558611;153.034487356606
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21706@eventor.orienteering.asn.au
@@ -995,5 +1041,79 @@ DTSTART:20250211T073000Z
 DTEND:20250211T091500Z
 SUMMARY:Melbourne Park Street Tuesday Summer Series - Paisley Park, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21677
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21940@eventor.orienteering.asn.au
+DTSTAMP:20250108T233114Z
+DTSTART:20250211T130000Z
+DTEND:20250212T130000Z
+SUMMARY:Enter all Northern Autumn Twilight Events at Discounted Rate, Esk Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21940
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21622@eventor.orienteering.asn.au
+DTSTAMP:20241128T064119Z
+DTSTART:20250211T133000Z
+DTEND:20250212T133000Z
+SUMMARY:Midweek Training Season Ticket, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/21622
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21611@eventor.orienteering.asn.au
+DTSTAMP:20241128T045900Z
+DTSTART:20250212T000000Z
+DTEND:20250212T023000Z
+SUMMARY:Midweek Training at Marion, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/21611
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21808@eventor.orienteering.asn.au
+DTSTAMP:20241218T065044Z
+DTSTART:20250212T040000Z
+DTEND:20250212T040000Z
+SUMMARY:Heritage Forest - Northern Autumn Twilight Series #1, Esk Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21808
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21223@eventor.orienteering.asn.au
+DTSTAMP:20240903T075019Z
+DTSTART:20250212T053000Z
+DTEND:20250212T083000Z
+SUMMARY:2024/25 Sydney Summer Series #19 - Mosman, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21223
+GEO:-33.8358727872187;151.232643606242
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21550@eventor.orienteering.asn.au
+DTSTAMP:20241107T034318Z
+DTSTART:20250212T060000Z
+DTEND:20250212T081500Z
+SUMMARY:Newcastle Summer Street Series #16 - Warners Bay, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21550
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20901@eventor.orienteering.asn.au
+DTSTAMP:20240918T023410Z
+DTSTART:20250212T060000Z
+DTEND:20250212T083000Z
+SUMMARY:ACT Runners Shop Twilight Series #9: Lake Ginninderra, Red Roos
+URL:https://eventor.orienteering.asn.au/Events/Show/20901
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21263@eventor.orienteering.asn.au
+DTSTAMP:20240908T062147Z
+DTSTART:20250212T073000Z
+DTEND:20250212T090000Z
+SUMMARY:#2 Malmsbury - CHOC Twilight Sprints, Central Highlands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21263
+GEO:-37.1891764452814;144.382272973121
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21684@eventor.orienteering.asn.au
+DTSTAMP:20241207T044156Z
+DTSTART:20250212T073000Z
+DTEND:20250212T091500Z
+SUMMARY:Melbourne Park Street Wednesday Summer Series - Quarries Park, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21684
 END:VEVENT
 END:VCALENDAR
