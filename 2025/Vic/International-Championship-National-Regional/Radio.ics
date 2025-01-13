@@ -3,31 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_21915@eventor.orienteering.asn.au
-DTSTAMP:20250106T050651Z
-DTSTART:20250105T230000Z
-DTEND:20250105T230000Z
-SUMMARY:QNOTS - Long Legs, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/21915
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21702@eventor.orienteering.asn.au
-DTSTAMP:20250106T115806Z
-DTSTART:20250106T060000Z
-DTEND:20250106T090000Z
-SUMMARY:ACT MapRun Street Series: Parkes, 2-6 Jan, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/21702
-GEO:-35.2975726067234;149.122891905911
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21644@eventor.orienteering.asn.au
-DTSTAMP:20241205T022259Z
-DTSTART:20250106T073000Z
-DTEND:20250106T091500Z
-SUMMARY:Melbourne Park Street Monday Summer Series - Gardiners Creek, Nillumbik Emus Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21644
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21050@eventor.orienteering.asn.au
 DTSTAMP:20250107T111745Z
 DTSTART:20250106T140000Z
@@ -237,7 +212,7 @@ GEO:-27.3198400234112;153.03172316796
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21219@eventor.orienteering.asn.au
-DTSTAMP:20250112T045603Z
+DTSTAMP:20250113T103441Z
 DTSTART:20250115T053000Z
 DTEND:20250115T083000Z
 SUMMARY:2024/25 Sydney Summer Series #15 - Telopea, Western and Hills Orienteers
@@ -306,7 +281,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21666
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21471@eventor.orienteering.asn.au
-DTSTAMP:20250105T081051Z
+DTSTAMP:20250113T101348Z
 DTSTART:20250118T080000Z
 DTEND:20250118T101500Z
 SUMMARY:MetrO 7 Bannister Creek, Kulgun 225 Orienteers / Orienteering WA
@@ -778,6 +753,14 @@ SUMMARY:Melbourne Park Street Tuesday Summer Series - Airport West, Tuckonie Ori
 URL:https://eventor.orienteering.asn.au/Events/Show/21676
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_21999@eventor.orienteering.asn.au
+DTSTAMP:20250113T042941Z
+DTSTART:20250204T083000Z
+DTEND:20250204T083000Z
+SUMMARY:Participation and Engagement Network February Meeting, Orienteering ACT / Orienteering NSW / Orienteering Queensland / Orienteering SA / Orienteering Tasmania / Orienteering Victoria / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/21999
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21222@eventor.orienteering.asn.au
 DTSTAMP:20241231T215106Z
 DTSTART:20250205T053000Z
@@ -994,7 +977,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21721
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21572@eventor.orienteering.asn.au
-DTSTAMP:20250106T112612Z
+DTSTAMP:20250112T222941Z
 DTSTART:20250208T230000Z
 DTEND:20250209T010000Z
 SUMMARY:IMRS Summer#1 - Shell Cove, Illawarra Kareelah Orienteers
@@ -1115,5 +1098,21 @@ DTSTART:20250212T073000Z
 DTEND:20250212T091500Z
 SUMMARY:Melbourne Park Street Wednesday Summer Series - Quarries Park, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21684
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21692@eventor.orienteering.asn.au
+DTSTAMP:20241207T044515Z
+DTSTART:20250213T073000Z
+DTEND:20250213T091500Z
+SUMMARY:Melbourne Park Street Thursday Summer Series - Brunswick West, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21692
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21716@eventor.orienteering.asn.au
+DTSTAMP:20241209T032613Z
+DTSTART:20250213T080000Z
+DTEND:20250213T091500Z
+SUMMARY:Geelong Park Street Thursday Summer Series - Heartland, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21716
 END:VEVENT
 END:VCALENDAR
