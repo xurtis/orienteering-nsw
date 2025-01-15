@@ -3,41 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_21218@eventor.orienteering.asn.au
-DTSTAMP:20250108T225635Z
-DTSTART:20250108T053000Z
-DTEND:20250108T083000Z
-SUMMARY:2024/25 Sydney Summer Series #14 - Surry Hills, Illawarra Kareelah Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21218
-GEO:-33.8882887033866;151.20350676825
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21542@eventor.orienteering.asn.au
-DTSTAMP:20250108T102640Z
-DTSTART:20250108T060000Z
-DTEND:20250108T081500Z
-SUMMARY:Newcastle Summer Street Series #11 - Carrington, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21542
-GEO:-32.9099795110379;151.762854557508
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21653@eventor.orienteering.asn.au
-DTSTAMP:20250111T050458Z
-DTSTART:20250108T073000Z
-DTEND:20250108T091500Z
-SUMMARY:Melbourne Park Street Wednesday Summer Series - Loughnan Hill, Dandenong Ranges Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21653
-GEO:-37.7991148838795;145.225436752107
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21896@eventor.orienteering.asn.au
-DTSTAMP:20250104T030013Z
-DTSTART:20250108T090000Z
-DTEND:20250108T090000Z
-SUMMARY:Scouts + Orienteering: opportunities meeting, Orienteering ACT / Orienteering NSW / Orienteering Queensland / Orienteering SA / Orienteering Tasmania / Orienteering Victoria / Orienteering WA
-URL:https://eventor.orienteering.asn.au/Events/Show/21896
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21728@eventor.orienteering.asn.au
 DTSTAMP:20250109T100351Z
 DTSTART:20250109T070000Z
@@ -178,7 +143,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21649
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21219@eventor.orienteering.asn.au
-DTSTAMP:20250114T074601Z
+DTSTAMP:20250115T084617Z
 DTSTART:20250115T053000Z
 DTEND:20250115T083000Z
 SUMMARY:2024/25 Sydney Summer Series #15 - Telopea, Western and Hills Orienteers
@@ -187,7 +152,7 @@ GEO:-33.797544124993;151.045162737488
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21543@eventor.orienteering.asn.au
-DTSTAMP:20250109T043755Z
+DTSTAMP:20250115T113204Z
 DTSTART:20250115T060000Z
 DTEND:20250115T081500Z
 SUMMARY:Newcastle Summer Street Series #12 - Swansea, Newcastle Orienteering Club
@@ -353,7 +318,7 @@ GEO:-27.4375226790495;153.013770176252
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21220@eventor.orienteering.asn.au
-DTSTAMP:20250114T045628Z
+DTSTAMP:20250115T074353Z
 DTSTART:20250122T053000Z
 DTEND:20250122T083000Z
 SUMMARY:2024/25 Sydney Summer Series #16 - Erskineville, Big Foot Orienteers
@@ -362,11 +327,12 @@ GEO:-33.9010171363247;151.189596000941
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21547@eventor.orienteering.asn.au
-DTSTAMP:20241107T033923Z
+DTSTAMP:20250115T113913Z
 DTSTART:20250122T060000Z
 DTEND:20250122T081500Z
 SUMMARY:Newcastle Summer Street Series #13 - Cameron Park, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21547
+GEO:-32.9156566872665;151.60614573039
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21655@eventor.orienteering.asn.au
@@ -383,6 +349,14 @@ DTSTART:20250122T090000Z
 DTEND:20250122T090000Z
 SUMMARY:Online meeting for Scout Leaders interested in orienteering, Orienteering ACT / Orienteering NSW / Orienteering Queensland / Orienteering SA / Orienteering Tasmania / Orienteering Victoria / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/21898
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22002@eventor.orienteering.asn.au
+DTSTAMP:20250115T054912Z
+DTSTART:20250122T220000Z
+DTEND:20250123T020000Z
+SUMMARY:Nature School Orienteering, Hastings Orienteering Group
+URL:https://eventor.orienteering.asn.au/Events/Show/22002
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21730@eventor.orienteering.asn.au
@@ -792,7 +766,7 @@ DTSTART:20250207T070000Z
 DTEND:20250207T070000Z
 SUMMARY:Goldseekers Summer Series #2 2025, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21891
-GEO:-33.2686119668192;149.106295880142
+GEO:-33.2625306320872;149.100656233078
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21932@eventor.orienteering.asn.au
@@ -1107,5 +1081,65 @@ DTEND:20250214T093000Z
 SUMMARY:Snap Sprint Series #3 Urrbrae High School, SA Arrows
 URL:https://eventor.orienteering.asn.au/Events/Show/21882
 GEO:-34.9651275926588;138.622342337206
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21761@eventor.orienteering.asn.au
+DTSTAMP:20241212T042854Z
+DTSTART:20250214T223000Z
+DTEND:20250214T223000Z
+SUMMARY:SOS 3D Term 1 2025 #2, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/21761
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21767@eventor.orienteering.asn.au
+DTSTAMP:20241212T044009Z
+DTSTART:20250214T223000Z
+DTEND:20250214T223000Z
+SUMMARY:SOS Macarthur #2, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/21767
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21743@eventor.orienteering.asn.au
+DTSTAMP:20241211T053737Z
+DTSTART:20250214T230000Z
+DTEND:20250215T020000Z
+SUMMARY:Seven Mile Beach – Southern Local Event #1, Australopers Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21743
+GEO:-42.8502718996834;147.520145154806
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21077@eventor.orienteering.asn.au
+DTSTAMP:20240728T063811Z
+DTSTART:20250215T053000Z
+DTEND:20250215T053000Z
+SUMMARY:EN Sprint Series 2, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/21077
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21854@eventor.orienteering.asn.au
+DTSTAMP:20241221T083352Z
+DTSTART:20250215T070000Z
+DTEND:20250215T083000Z
+SUMMARY:Bike-O 75 Series - Lysterfield, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21854
+GEO:-37.9660807003187;145.302955463205
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21634@eventor.orienteering.asn.au
+DTSTAMP:20250109T065552Z
+DTSTART:20250215T073000Z
+DTEND:20250216T010000Z
+SUMMARY:BendiGo ToDay, Bendigo Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21634
+GEO:-36.7696872703916;144.338715006891
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21474@eventor.orienteering.asn.au
+DTSTAMP:20241018T094627Z
+DTSTART:20250215T080000Z
+DTEND:20250215T101500Z
+SUMMARY:MetrO 10 Attadale, Orienteering WA / Wullundigong Orienteers of the West
+URL:https://eventor.orienteering.asn.au/Events/Show/21474
+GEO:-32.0334646274189;115.924939465079
 END:VEVENT
 END:VCALENDAR
