@@ -3,23 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_21728@eventor.orienteering.asn.au
-DTSTAMP:20250109T100351Z
-DTSTART:20250109T070000Z
-DTEND:20250109T070000Z
-SUMMARY:NightNav - Southside - Kuraby/Underwood, Toohey Forest Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21728
-GEO:-27.5949869859027;153.102781324208
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21659@eventor.orienteering.asn.au
-DTSTAMP:20241205T031145Z
-DTSTART:20250109T073000Z
-DTEND:20250109T091500Z
-SUMMARY:Melbourne Park Street Thursday Summer Series - Yarran Dheran, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21659
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21745@eventor.orienteering.asn.au
 DTSTAMP:20250108T134710Z
 DTSTART:20250109T130000Z
@@ -169,7 +152,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21654
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21729@eventor.orienteering.asn.au
-DTSTAMP:20241209T073310Z
+DTSTAMP:20250116T111709Z
 DTSTART:20250116T070000Z
 DTEND:20250116T070000Z
 SUMMARY:NightNav - Southside - MacGregor, Toohey Forest Orienteers
@@ -327,7 +310,7 @@ GEO:-33.9010171363247;151.189596000941
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21547@eventor.orienteering.asn.au
-DTSTAMP:20250115T113913Z
+DTSTAMP:20250115T230925Z
 DTSTART:20250122T060000Z
 DTEND:20250122T081500Z
 SUMMARY:Newcastle Summer Street Series #13 - Cameron Park, Newcastle Orienteering Club
@@ -593,7 +576,7 @@ GEO:-37.9540550635623;144.404812984258
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21472@eventor.orienteering.asn.au
-DTSTAMP:20250114T080952Z
+DTSTAMP:20250116T032321Z
 DTSTART:20250201T080000Z
 DTEND:20250201T101500Z
 SUMMARY:MetrO 8 Edgewater, Bibbulmun Orienteers / Orienteering WA
@@ -896,7 +879,7 @@ DTSTART:20250208T220000Z
 DTEND:20250208T233000Z
 SUMMARY:Central Coast Summer Series 11 - Toowoon Bay, Central Coast Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21044
-GEO:-33.3541877925261;151.492120822164
+GEO:-33.3650631722976;151.475579964018
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21985@eventor.orienteering.asn.au
@@ -967,11 +950,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21677
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21940@eventor.orienteering.asn.au
-DTSTAMP:20250108T233114Z
+DTSTAMP:20250116T022928Z
 DTSTART:20250211T130000Z
 DTEND:20250212T130000Z
 SUMMARY:Enter all Northern Autumn Twilight Events at Discounted Rate, Esk Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21940
+GEO:-41.4398175078022;147.136768559104
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21622@eventor.orienteering.asn.au
@@ -991,11 +975,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21611
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21808@eventor.orienteering.asn.au
-DTSTAMP:20241218T065044Z
+DTSTAMP:20250116T023633Z
 DTSTART:20250212T040000Z
 DTEND:20250212T040000Z
 SUMMARY:Heritage Forest - Northern Autumn Twilight Series #1, Esk Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21808
+GEO:-41.4091409619353;147.139317696883
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21223@eventor.orienteering.asn.au
@@ -1141,5 +1126,83 @@ DTEND:20250215T101500Z
 SUMMARY:MetrO 10 Attadale, Orienteering WA / Wullundigong Orienteers of the West
 URL:https://eventor.orienteering.asn.au/Events/Show/21474
 GEO:-32.0334646274189;115.924939465079
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21748@eventor.orienteering.asn.au
+DTSTAMP:20241212T012003Z
+DTSTART:20250215T130000Z
+DTEND:20250216T130000Z
+SUMMARY:Knocklofty - Learn to Orienteer Week 3, Australopers Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21748
+GEO:-42.887941681366;147.302071493587
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21861@eventor.orienteering.asn.au
+DTSTAMP:20241224T025611Z
+DTSTART:20250215T210000Z
+DTEND:20250215T210000Z
+SUMMARY:MapRun Series 24-25 #5, Wagga and Riverina Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21861
+GEO:-35.1123011238081;147.364794408499
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20993@eventor.orienteering.asn.au
+DTSTAMP:20241103T234739Z
+DTSTART:20250215T210000Z
+DTEND:20250216T000000Z
+SUMMARY:Newcastle BOSS5 MTBO - Hawkemount, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/20993
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21377@eventor.orienteering.asn.au
+DTSTAMP:20241219T013952Z
+DTSTART:20250215T220000Z
+DTEND:20250215T233000Z
+SUMMARY:ACT Sprint Series #4, Namadgi School, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/21377
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21045@eventor.orienteering.asn.au
+DTSTAMP:20240923T021233Z
+DTSTART:20250215T220000Z
+DTEND:20250215T233000Z
+SUMMARY:Central Coast Summer Series 12 - Berkeley Vale , Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21045
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21573@eventor.orienteering.asn.au
+DTSTAMP:20250115T042250Z
+DTSTART:20250215T230000Z
+DTEND:20250216T010000Z
+SUMMARY:IMRS Summer #2 - Windang, Illawarra Kareelah Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21573
+GEO:-34.5397992054856;150.865873262063
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21635@eventor.orienteering.asn.au
+DTSTAMP:20241206T023521Z
+DTSTART:20250215T230000Z
+DTEND:20250216T040000Z
+SUMMARY:Norman Park Orienteering Instructor Training, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/21635
+GEO:-27.4853222829459;153.075222542507
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21725@eventor.orienteering.asn.au
+DTSTAMP:20241209T070603Z
+DTSTART:20250216T000000Z
+DTEND:20250216T020000Z
+SUMMARY:HOG February Orienteering, Hastings Orienteering Group
+URL:https://eventor.orienteering.asn.au/Events/Show/21725
+GEO:-31.4489932647057;152.931426032607
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21990@eventor.orienteering.asn.au
+DTSTAMP:20250112T052011Z
+DTSTART:20250216T060000Z
+DTEND:20250216T060000Z
+SUMMARY:MapRun Parks 2025 - Sherwood Aboretum, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21990
+GEO:-27.5320238770382;152.973312622346
 END:VEVENT
 END:VCALENDAR
