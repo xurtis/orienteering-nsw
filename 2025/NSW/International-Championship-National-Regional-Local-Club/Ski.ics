@@ -3,23 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_21729@eventor.orienteering.asn.au
-DTSTAMP:20250116T111709Z
-DTSTART:20250116T070000Z
-DTEND:20250116T070000Z
-SUMMARY:NightNav - Southside - MacGregor, Toohey Forest Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21729
-GEO:-27.5721445718496;153.077673643144
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21660@eventor.orienteering.asn.au
-DTSTAMP:20241205T031307Z
-DTSTART:20250116T073000Z
-DTEND:20250116T091500Z
-SUMMARY:Melbourne Park Street Thursday Summer Series - Briar Hill, Yarra Valley Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21660
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21859@eventor.orienteering.asn.au
 DTSTAMP:20250117T110130Z
 DTSTART:20250117T073000Z
@@ -177,9 +160,9 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22002
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21730@eventor.orienteering.asn.au
-DTSTAMP:20241209T074357Z
+DTSTAMP:20250123T100920Z
 DTSTART:20250123T070000Z
-DTEND:20250123T085000Z
+DTEND:20250123T070000Z
 SUMMARY:NightNav - Southside - Acacia Ridge, Toohey Forest Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21730
 GEO:-27.5779174783007;153.016734050626
@@ -1343,5 +1326,56 @@ DTEND:20250222T080000Z
 SUMMARY:Summer Sprint 3 - Gosnells, Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/21588
 GEO:-32.064934927027;115.999784436348
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21749@eventor.orienteering.asn.au
+DTSTAMP:20241212T012205Z
+DTSTART:20250222T130000Z
+DTEND:20250223T130000Z
+SUMMARY:UTAS - Learn to Orienteer Week 4, Australopers Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21749
+GEO:-42.9004212775918;147.329507219185
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21996@eventor.orienteering.asn.au
+DTSTAMP:20250112T093101Z
+DTSTART:20250222T140000Z
+DTEND:20250223T140000Z
+SUMMARY:Warwick East State School, Bullecourt Boulder Bounders
+URL:https://eventor.orienteering.asn.au/Events/Show/21996
+GEO:-28.214822723698;152.0393172707
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21378@eventor.orienteering.asn.au
+DTSTAMP:20241219T013954Z
+DTSTART:20250222T220000Z
+DTEND:20250222T233000Z
+SUMMARY:ACT Sprint Series #5, AIS, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/21378
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22014@eventor.orienteering.asn.au
+DTSTAMP:20250117T112812Z
+DTSTART:20250223T050000Z
+DTEND:20250223T050000Z
+SUMMARY:Learn to Orienteer #4, Toowoomba, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22014
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21991@eventor.orienteering.asn.au
+DTSTAMP:20250112T052148Z
+DTSTART:20250223T060000Z
+DTEND:20250223T060000Z
+SUMMARY:MapRun Parks 2025 - Mercer Park, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21991
+GEO:-27.4058407750247;153.046153488622
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22020@eventor.orienteering.asn.au
+DTSTAMP:20250117T120104Z
+DTSTART:20250223T060000Z
+DTEND:20250223T060000Z
+SUMMARY:Sprint Event #4, Toowoomba, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22020
 END:VEVENT
 END:VCALENDAR
