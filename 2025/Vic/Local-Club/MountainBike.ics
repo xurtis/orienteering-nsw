@@ -3,15 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_21859@eventor.orienteering.asn.au
-DTSTAMP:20250117T110130Z
-DTSTART:20250117T073000Z
-DTEND:20250117T093000Z
-SUMMARY:Twilight Series Event #8 - Goodwood, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/21859
-GEO:-34.9567959319731;138.59128477946
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21451@eventor.orienteering.asn.au
 DTSTAMP:20250118T002649Z
 DTSTART:20250117T220000Z
@@ -849,6 +840,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20336
 GEO:-27.4868106669242;152.977309268773
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22031@eventor.orienteering.asn.au
+DTSTAMP:20250124T040720Z
+DTSTART:20250211T080000Z
+DTEND:20250211T080000Z
+SUMMARY:Night Nav - Kuluin, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22031
+GEO:-26.6637090016866;153.065215639711
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21940@eventor.orienteering.asn.au
 DTSTAMP:20250116T022928Z
 DTSTART:20250211T130000Z
@@ -1173,6 +1173,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20316
 GEO:-27.5184903604288;152.986036172524
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22032@eventor.orienteering.asn.au
+DTSTAMP:20250124T064209Z
+DTSTART:20250218T080000Z
+DTEND:20250218T080000Z
+SUMMARY:Night Nav - Noosa Heads, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22032
+GEO:-26.3975676725447;153.087552123626
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21809@eventor.orienteering.asn.au
 DTSTAMP:20250116T024027Z
 DTSTART:20250219T040000Z
@@ -1377,5 +1386,21 @@ DTSTART:20250223T060000Z
 DTEND:20250223T060000Z
 SUMMARY:Sprint Event #4, Toowoomba, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22020
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21708@eventor.orienteering.asn.au
+DTSTAMP:20241209T000856Z
+DTSTART:20250224T060000Z
+DTEND:20250224T090000Z
+SUMMARY:ACT MapRun Street Series: Franklin, 20-24 Feb, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/21708
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21671@eventor.orienteering.asn.au
+DTSTAMP:20241206T052826Z
+DTSTART:20250224T073000Z
+DTEND:20250224T091500Z
+SUMMARY:Melbourne Park Street Monday Summer Series - Moorabbin, Dandenong Ranges Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21671
 END:VEVENT
 END:VCALENDAR
