@@ -3,32 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_21451@eventor.orienteering.asn.au
-DTSTAMP:20250118T002649Z
-DTSTART:20250117T220000Z
-DTEND:20250118T003000Z
-SUMMARY:SHOO's Summer Saturdays #3, Southern Highlands Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21451
-GEO:-34.0645319523173;150.723396644984
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21666@eventor.orienteering.asn.au
-DTSTAMP:20241205T032258Z
-DTSTART:20250118T043000Z
-DTEND:20250118T063000Z
-SUMMARY:Surfside Park Street Summer Series - Collendina, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21666
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21471@eventor.orienteering.asn.au
-DTSTAMP:20250118T101637Z
-DTSTART:20250118T080000Z
-DTEND:20250118T101500Z
-SUMMARY:MetrO 7 Bannister Creek, Kulgun 225 Orienteers / Orienteering WA
-URL:https://eventor.orienteering.asn.au/Events/Show/21471
-GEO:-32.0342018112776;115.922884493051
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21986@eventor.orienteering.asn.au
 DTSTAMP:20250121T110819Z
 DTSTART:20250118T140000Z
@@ -193,7 +167,7 @@ GEO:-35.052762333514;117.913592292957
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21452@eventor.orienteering.asn.au
-DTSTAMP:20250106T091814Z
+DTSTAMP:20250125T000607Z
 DTSTART:20250124T220000Z
 DTEND:20250125T003000Z
 SUMMARY:SHOO's Summer Saturdays #4, Southern Highlands Orienteers
@@ -202,7 +176,7 @@ GEO:-34.0531599958256;150.691772642458
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21587@eventor.orienteering.asn.au
-DTSTAMP:20250120T085208Z
+DTSTAMP:20250125T071329Z
 DTSTART:20250124T220000Z
 DTEND:20250125T010000Z
 SUMMARY:Diggers Beach MapRun Orienteering, Bush n Beach Orienteering Club
@@ -219,7 +193,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21667
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21696@eventor.orienteering.asn.au
-DTSTAMP:20241208T061044Z
+DTSTAMP:20250125T112303Z
 DTSTART:20250125T070000Z
 DTEND:20250125T080000Z
 SUMMARY:Denmark SHS, Albany & Denmark Hinterland Orienteering Club
@@ -251,7 +225,7 @@ DTSTART:20250125T223000Z
 DTEND:20250125T223000Z
 SUMMARY:NT: 2025 Australia Day Come and Try, Top End Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21930
-GEO:-12.4717361550865;131.039373720406
+GEO:-12.443394117636;130.835835409954
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21322@eventor.orienteering.asn.au
@@ -1402,5 +1376,31 @@ DTSTART:20250224T073000Z
 DTEND:20250224T091500Z
 SUMMARY:Melbourne Park Street Monday Summer Series - Moorabbin, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21671
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21679@eventor.orienteering.asn.au
+DTSTAMP:20241206T054244Z
+DTSTART:20250225T073000Z
+DTEND:20250225T091500Z
+SUMMARY:Melbourne Park Street Tuesday Summer Series - Deer Park, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21679
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20317@eventor.orienteering.asn.au
+DTSTAMP:20250119T005448Z
+DTSTART:20250225T073000Z
+DTEND:20250225T093000Z
+SUMMARY:Night Nav - Tarragindi - Term 1 Series Event #4, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20317
+GEO:-27.5184407724809;153.041016054431
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22034@eventor.orienteering.asn.au
+DTSTAMP:20250125T043734Z
+DTSTART:20250225T080000Z
+DTEND:20250225T080000Z
+SUMMARY:Night Nav - Nambour, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22034
+GEO:-26.6245003117379;152.962368509934
 END:VEVENT
 END:VCALENDAR
