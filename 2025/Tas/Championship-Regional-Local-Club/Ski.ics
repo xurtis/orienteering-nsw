@@ -3,23 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_21704@eventor.orienteering.asn.au
-DTSTAMP:20250120T113931Z
-DTSTART:20250120T060000Z
-DTEND:20250120T090000Z
-SUMMARY:ACT MapRun Street Series: Gowrie-Fadden, 16-20 Jan, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/21704
-GEO:-35.411670071191;149.114928041992
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21646@eventor.orienteering.asn.au
-DTSTAMP:20241205T022610Z
-DTSTART:20250120T073000Z
-DTEND:20250120T091500Z
-SUMMARY:Melbourne Park Street Monday Summer Series - Heaney Park, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21646
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21052@eventor.orienteering.asn.au
 DTSTAMP:20250121T110247Z
 DTSTART:20250120T140000Z
@@ -350,7 +333,7 @@ GEO:-37.9540550635623;144.404812984258
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21472@eventor.orienteering.asn.au
-DTSTAMP:20250121T193729Z
+DTSTAMP:20250127T092506Z
 DTSTART:20250201T080000Z
 DTEND:20250201T101500Z
 SUMMARY:MetrO 8 Edgewater, Bibbulmun Orienteers / Orienteering WA
@@ -365,14 +348,6 @@ DTEND:20250202T130000Z
 SUMMARY:Wentworth Park - Learn to Orienteer Week 1, Australopers Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21746
 GEO:-42.880706264958;147.398345908424
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21323@eventor.orienteering.asn.au
-DTSTAMP:20250126T085146Z
-DTSTART:20250201T130000Z
-DTEND:20250202T130000Z
-SUMMARY:West Sydney Orienteering Series, Bennelong Northside Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21323
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21375@eventor.orienteering.asn.au
@@ -390,6 +365,14 @@ DTEND:20250201T233000Z
 SUMMARY:Central Coast Summer Series 10 - Niagara Park, Central Coast Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21043
 GEO:-33.3905334196107;151.347582618062
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21323@eventor.orienteering.asn.au
+DTSTAMP:20250127T024453Z
+DTSTART:20250201T223000Z
+DTEND:20250202T010000Z
+SUMMARY:West Sydney Orienteering Series - Lake Parramatta, Bennelong Northside Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21323
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22026@eventor.orienteering.asn.au
@@ -484,6 +467,15 @@ DTEND:20250205T083000Z
 SUMMARY:2024/25 Sydney Summer Series #18 - Concord, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21222
 GEO:-33.8629240352219;151.112160436369
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22035@eventor.orienteering.asn.au
+DTSTAMP:20250127T020721Z
+DTSTART:20250205T060000Z
+DTEND:20250205T080000Z
+SUMMARY:Summer series #5, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22035
+GEO:-30.5025347089745;151.656065891324
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21549@eventor.orienteering.asn.au
@@ -624,12 +616,12 @@ GEO:-34.9785239481424;117.929881910597
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21473@eventor.orienteering.asn.au
-DTSTAMP:20250106T080101Z
+DTSTAMP:20250127T072606Z
 DTSTART:20250208T080000Z
 DTEND:20250208T101500Z
 SUMMARY:MetrO 9 Scarborough, Orienteering WA / Wullundigong Orienteers of the West
 URL:https://eventor.orienteering.asn.au/Events/Show/21473
-GEO:-32.0334646274189;115.924939465079
+GEO:-31.9044157644849;115.769119142604
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21747@eventor.orienteering.asn.au
@@ -829,6 +821,15 @@ DTEND:20250212T083000Z
 SUMMARY:2024/25 Sydney Summer Series #19 - Mosman, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21223
 GEO:-33.8358727872187;151.232643606242
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22036@eventor.orienteering.asn.au
+DTSTAMP:20250127T030914Z
+DTSTART:20250212T060000Z
+DTEND:20250212T080000Z
+SUMMARY:Summer series #6, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22036
+GEO:-30.5267223285289;151.651857693939
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21550@eventor.orienteering.asn.au
@@ -1130,6 +1131,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21809
 GEO:-41.4084399806624;147.129609657782
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22037@eventor.orienteering.asn.au
+DTSTAMP:20250127T031200Z
+DTSTART:20250219T050000Z
+DTEND:20250219T080000Z
+SUMMARY:Summer series #7, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22037
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21224@eventor.orienteering.asn.au
 DTSTAMP:20241125T223127Z
 DTSTART:20250219T053000Z
@@ -1250,10 +1259,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21078
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21998@eventor.orienteering.asn.au
-DTSTAMP:20250113T011555Z
-DTSTART:20250222T060000Z
-DTEND:20250222T083000Z
-SUMMARY:Summer Sprint, Tatterson Parklands, Dandenong Ranges Orienteering Club
+DTSTAMP:20250127T015336Z
+DTSTART:20250222T053000Z
+DTEND:20250222T080000Z
+SUMMARY:Tatterson Tangle Saturday Evening Sprint, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21998
 GEO:-37.9978504954062;145.154419329733
 END:VEVENT
@@ -1428,5 +1437,30 @@ DTSTART:20250226T073000Z
 DTEND:20250226T091500Z
 SUMMARY:Melbourne Park Street Wednesday Summer Series - Heyington Heights, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21686
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21694@eventor.orienteering.asn.au
+DTSTAMP:20241207T044808Z
+DTSTART:20250227T073000Z
+DTEND:20250227T091500Z
+SUMMARY:Melbourne Park Street Thursday Summer Series - Darebin Parklands, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21694
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21718@eventor.orienteering.asn.au
+DTSTAMP:20241209T032916Z
+DTSTART:20250227T080000Z
+DTEND:20250227T091500Z
+SUMMARY:Geelong Park Street Thursday Summer Series - Lion Country, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21718
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22007@eventor.orienteering.asn.au
+DTSTAMP:20250117T101027Z
+DTSTART:20250227T080000Z
+DTEND:20250227T093000Z
+SUMMARY:Night Nav - EN Nth - North Lakes, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/22007
+GEO:-27.224067311597;153.009913508301
 END:VEVENT
 END:VCALENDAR
