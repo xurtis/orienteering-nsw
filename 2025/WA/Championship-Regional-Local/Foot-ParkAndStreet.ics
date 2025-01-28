@@ -3,32 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_21052@eventor.orienteering.asn.au
-DTSTAMP:20250121T110247Z
-DTSTART:20250120T140000Z
-DTEND:20250121T140000Z
-SUMMARY:Night Nav - EN Downey Park map, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/21052
-GEO:-27.4375226790495;153.013770176252
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21984@eventor.orienteering.asn.au
-DTSTAMP:20250121T084530Z
-DTSTART:20250121T064500Z
-DTEND:20250121T084500Z
-SUMMARY:Ballarat Summer Series 24/25 - Event #8 - Lake Esmond, Canadian, Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21984
-GEO:-37.5754509753198;143.87442742347
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21657@eventor.orienteering.asn.au
-DTSTAMP:20241205T030805Z
-DTSTART:20250121T073000Z
-DTEND:20250121T091500Z
-SUMMARY:Melbourne Park Street Tuesday Summer Series - Laverton, Nillumbik Emus Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21657
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21220@eventor.orienteering.asn.au
 DTSTAMP:20250122T084240Z
 DTSTART:20250122T053000Z
@@ -228,7 +202,7 @@ GEO:-27.4383482195501;152.934711917824
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21221@eventor.orienteering.asn.au
-DTSTAMP:20250126T084532Z
+DTSTAMP:20250128T095811Z
 DTSTART:20250129T053000Z
 DTEND:20250129T083000Z
 SUMMARY:2024/25 Sydney Summer Series #17 - Dover Heights, Bennelong Northside Orienteers
@@ -288,21 +262,21 @@ GEO:-33.2703555128364;149.079392627538
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21931@eventor.orienteering.asn.au
-DTSTAMP:20250108T213004Z
+DTSTAMP:20250128T123325Z
 DTSTART:20250131T080000Z
 DTEND:20250131T080000Z
 SUMMARY:NT: 2025 Wet Season Series Event 1 - Anula, Top End Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21931
-GEO:-12.4717361550865;131.039373720406
+GEO:-12.3915116201765;130.891552879134
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21880@eventor.orienteering.asn.au
-DTSTAMP:20250121T000519Z
+DTSTAMP:20250127T210603Z
 DTSTART:20250131T080000Z
 DTEND:20250131T093000Z
 SUMMARY:Snap Sprint Series #1 Adelaide Uni, SA Arrows
 URL:https://eventor.orienteering.asn.au/Events/Show/21880
-GEO:-34.9180895242555;138.603975262436
+GEO:-34.9172479832127;138.602169072388
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21922@eventor.orienteering.asn.au
@@ -393,6 +367,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22003
 GEO:-27.6017758913702;151.911810904409
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22017@eventor.orienteering.asn.au
+DTSTAMP:20250128T123237Z
+DTSTART:20250202T060000Z
+DTEND:20250202T060000Z
+SUMMARY:Drayton State School Sprint, Toowoomba, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22017
+GEO:-27.6022289159223;151.911946672622
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21988@eventor.orienteering.asn.au
 DTSTAMP:20250112T051457Z
 DTSTART:20250202T060000Z
@@ -402,16 +385,8 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21988
 GEO:-27.4998489887424;152.963790096847
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22017@eventor.orienteering.asn.au
-DTSTAMP:20250117T120209Z
-DTSTART:20250202T060000Z
-DTEND:20250202T060000Z
-SUMMARY:Sprint Event #1, Toowoomba, Range Runners Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22017
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21705@eventor.orienteering.asn.au
-DTSTAMP:20241209T000850Z
+DTSTAMP:20250128T104139Z
 DTSTART:20250203T060000Z
 DTEND:20250203T090000Z
 SUMMARY:ACT MapRun Street Series: Ainslie, 30 Jan - 3 Feb, Orienteering ACT
@@ -616,7 +591,7 @@ GEO:-34.9785239481424;117.929881910597
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21473@eventor.orienteering.asn.au
-DTSTAMP:20250127T072606Z
+DTSTAMP:20250128T061437Z
 DTSTART:20250208T080000Z
 DTEND:20250208T101500Z
 SUMMARY:MetrO 9 Scarborough, Orienteering WA / Wullundigong Orienteers of the West
@@ -703,7 +678,7 @@ GEO:-34.5906263646939;150.851975452718
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22012@eventor.orienteering.asn.au
-DTSTAMP:20250122T081449Z
+DTSTAMP:20250128T124021Z
 DTSTART:20250209T050000Z
 DTEND:20250209T050000Z
 SUMMARY:Learn to Orienteer #2, Highfields SSC , Range Runners Orienteering Club
@@ -721,10 +696,10 @@ GEO:-33.6757535292151;151.184255161437
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22018@eventor.orienteering.asn.au
-DTSTAMP:20250122T081603Z
+DTSTAMP:20250128T124742Z
 DTSTART:20250209T060000Z
 DTEND:20250209T060000Z
-SUMMARY:Highfields State Secondary College Sprint, Range Runners Orienteering Club
+SUMMARY:Highfields State Secondary College Sprint, Highfields, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22018
 GEO:-27.4474099548637;151.951710086795
 END:VEVENT
@@ -905,7 +880,7 @@ DTSTART:20250214T080000Z
 DTEND:20250214T080000Z
 SUMMARY:NT: 2025 Wet Season Series Event 3 - Leanyer, Top End Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21933
-GEO:-12.4237472916969;130.837045510818
+GEO:-12.3771340409864;130.897086761431
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21882@eventor.orienteering.asn.au
@@ -978,7 +953,7 @@ GEO:-36.7696872703916;144.338715006891
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21474@eventor.orienteering.asn.au
-DTSTAMP:20241018T094627Z
+DTSTAMP:20250128T061540Z
 DTSTART:20250215T080000Z
 DTEND:20250215T101500Z
 SUMMARY:MetrO 10 Attadale, Orienteering WA / Wullundigong Orienteers of the West
@@ -1056,11 +1031,19 @@ GEO:-31.4489932647057;152.931426032607
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22013@eventor.orienteering.asn.au
-DTSTAMP:20250117T112725Z
+DTSTAMP:20250128T124218Z
 DTSTART:20250216T050000Z
 DTEND:20250216T050000Z
 SUMMARY:Learn to Orienteer #3, Toowoomba, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22013
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22021@eventor.orienteering.asn.au
+DTSTAMP:20250128T125225Z
+DTSTART:20250216T060000Z
+DTEND:20250216T060000Z
+SUMMARY:Centenary Heights State High School Sprint, Toowoomba, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22021
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21990@eventor.orienteering.asn.au
@@ -1070,14 +1053,6 @@ DTEND:20250216T060000Z
 SUMMARY:MapRun Parks 2025 - Sherwood Aboretum, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21990
 GEO:-27.5320238770382;152.973312622346
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22021@eventor.orienteering.asn.au
-DTSTAMP:20250117T121042Z
-DTSTART:20250216T060000Z
-DTEND:20250216T060000Z
-SUMMARY:Sprint Event #3, Toowoomba, Range Runners Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22021
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21707@eventor.orienteering.asn.au
@@ -1113,13 +1088,13 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20316
 GEO:-27.5184903604288;152.986036172524
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22032@eventor.orienteering.asn.au
-DTSTAMP:20250124T064209Z
+UID:Event_22033@eventor.orienteering.asn.au
+DTSTAMP:20250128T013405Z
 DTSTART:20250218T080000Z
 DTEND:20250218T080000Z
-SUMMARY:Night Nav - Noosa Heads, Sunshine Orienteers Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22032
-GEO:-26.3975676725447;153.087552123626
+SUMMARY:Night Nav - Caloundra West, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22033
+GEO:-26.7999527300193;153.090684033696
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21809@eventor.orienteering.asn.au
@@ -1222,7 +1197,7 @@ DTSTART:20250221T080000Z
 DTEND:20250221T080000Z
 SUMMARY:NT: 2025 Wet Season Series Event 4 - Bayview, Top End Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21934
-GEO:-12.4237472916969;130.837045510818
+GEO:-12.4392183540714;130.85423735956
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21883@eventor.orienteering.asn.au
@@ -1248,6 +1223,15 @@ DTSTART:20250221T223000Z
 DTEND:20250221T223000Z
 SUMMARY:SOS Macarthur #3, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/21768
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22038@eventor.orienteering.asn.au
+DTSTAMP:20250127T232141Z
+DTSTART:20250222T050000Z
+DTEND:20250222T080000Z
+SUMMARY:Sawtell MapRun Orienteering, Bush n Beach Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22038
+GEO:-30.3648922293203;153.102099189324
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21078@eventor.orienteering.asn.au
@@ -1277,7 +1261,7 @@ GEO:-34.9993976808146;117.907056704632
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21588@eventor.orienteering.asn.au
-DTSTAMP:20250113T071317Z
+DTSTAMP:20250128T061613Z
 DTSTART:20250222T080000Z
 DTEND:20250222T080000Z
 SUMMARY:Summer Sprint 3 - Gosnells, Orienteering WA
@@ -1319,6 +1303,14 @@ SUMMARY:Learn to Orienteer #4, Toowoomba, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22014
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22020@eventor.orienteering.asn.au
+DTSTAMP:20250128T114846Z
+DTSTART:20250223T060000Z
+DTEND:20250223T060000Z
+SUMMARY:Kearneys Spring Sprint, Toowoomba, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22020
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21991@eventor.orienteering.asn.au
 DTSTAMP:20250112T052148Z
 DTSTART:20250223T060000Z
@@ -1326,14 +1318,6 @@ DTEND:20250223T060000Z
 SUMMARY:MapRun Parks 2025 - Mercer Park, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21991
 GEO:-27.4058407750247;153.046153488622
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22020@eventor.orienteering.asn.au
-DTSTAMP:20250117T120104Z
-DTSTART:20250223T060000Z
-DTEND:20250223T060000Z
-SUMMARY:Sprint Event #4, Toowoomba, Range Runners Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22020
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21708@eventor.orienteering.asn.au
