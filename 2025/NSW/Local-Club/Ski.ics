@@ -3,40 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_21220@eventor.orienteering.asn.au
-DTSTAMP:20250122T084240Z
-DTSTART:20250122T053000Z
-DTEND:20250122T083000Z
-SUMMARY:2024/25 Sydney Summer Series #16 - Erskineville, Big Foot Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21220
-GEO:-33.9010171363247;151.189596000941
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21547@eventor.orienteering.asn.au
-DTSTAMP:20250122T102450Z
-DTSTART:20250122T060000Z
-DTEND:20250122T081500Z
-SUMMARY:Newcastle Summer Street Series #13 - Cameron Park, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21547
-GEO:-32.9156566872665;151.60614573039
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21655@eventor.orienteering.asn.au
-DTSTAMP:20241205T024805Z
-DTSTART:20250122T073000Z
-DTEND:20250122T091500Z
-SUMMARY:Melbourne Park Street Wednesday Summer Series - Mont Albert, Yarra Valley Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21655
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21898@eventor.orienteering.asn.au
-DTSTAMP:20250105T005645Z
-DTSTART:20250122T090000Z
-DTEND:20250122T090000Z
-SUMMARY:Online meeting for Scout Leaders interested in orienteering, Orienteering ACT / Orienteering NSW / Orienteering Queensland / Orienteering SA / Orienteering Tasmania / Orienteering Victoria / Orienteering WA
-URL:https://eventor.orienteering.asn.au/Events/Show/21898
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22002@eventor.orienteering.asn.au
 DTSTAMP:20250115T054912Z
 DTSTART:20250122T220000Z
@@ -122,6 +88,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21696
 GEO:-34.9580720081351;117.366361813678
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_21987@eventor.orienteering.asn.au
+DTSTAMP:20250129T043738Z
+DTSTART:20250125T140000Z
+DTEND:20250126T140000Z
+SUMMARY:MapRun Parks 2025 - Wolston Creek, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21987
+GEO:-27.5624753610654;152.902386188986
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21319@eventor.orienteering.asn.au
 DTSTAMP:20250126T050008Z
 DTSTART:20250125T210000Z
@@ -158,15 +133,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21322
 GEO:-33.7612370094014;151.017609313826
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21987@eventor.orienteering.asn.au
-DTSTAMP:20250112T051222Z
-DTSTART:20250126T060000Z
-DTEND:20250126T060000Z
-SUMMARY:MapRun Parks 2025 - Wolston Creek, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21987
-GEO:-27.5624753610654;152.902386188986
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21647@eventor.orienteering.asn.au
 DTSTAMP:20241205T022737Z
 DTSTART:20250127T073000Z
@@ -175,8 +141,17 @@ SUMMARY:Melbourne Park Street Monday Summer Series - Not Notting Hill, Victorian
 URL:https://eventor.orienteering.asn.au/Events/Show/21647
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_21053@eventor.orienteering.asn.au
+DTSTAMP:20250129T043400Z
+DTSTART:20250127T140000Z
+DTEND:20250128T140000Z
+SUMMARY:Night Nav - EN The Gap - Hilder, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/21053
+GEO:-27.4383482195501;152.934711917824
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_22027@eventor.orienteering.asn.au
-DTSTAMP:20250126T055739Z
+DTSTAMP:20250129T092334Z
 DTSTART:20250128T064500Z
 DTEND:20250128T084500Z
 SUMMARY:Ballarat Summer Series 24/25 - Event #9 - Soldiers Hill & Black Hill, Eureka Orienteers
@@ -192,17 +167,8 @@ SUMMARY:Melbourne Park Street Tuesday Summer Series - Williamstown Strand, Baysi
 URL:https://eventor.orienteering.asn.au/Events/Show/21651
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21053@eventor.orienteering.asn.au
-DTSTAMP:20241231T042801Z
-DTSTART:20250128T073000Z
-DTEND:20250128T093000Z
-SUMMARY:Night Nav - EN The Gap - Hilder, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/21053
-GEO:-27.4383482195501;152.934711917824
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21221@eventor.orienteering.asn.au
-DTSTAMP:20250128T095811Z
+DTSTAMP:20250129T104732Z
 DTSTART:20250129T053000Z
 DTEND:20250129T083000Z
 SUMMARY:2024/25 Sydney Summer Series #17 - Dover Heights, Bennelong Northside Orienteers
@@ -211,7 +177,7 @@ GEO:-33.8701723852104;151.280610774218
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21548@eventor.orienteering.asn.au
-DTSTAMP:20250118T003640Z
+DTSTAMP:20250129T105455Z
 DTSTART:20250129T060000Z
 DTEND:20250129T081500Z
 SUMMARY:Newcastle Summer Street Series #14 - The Hill (Newcastle), Newcastle Orienteering Club
@@ -410,6 +376,15 @@ SUMMARY:Orienteering ACT February Board Meeting, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/20827
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22046@eventor.orienteering.asn.au
+DTSTAMP:20250129T093724Z
+DTSTART:20250204T064500Z
+DTEND:20250204T083500Z
+SUMMARY:Ballarat Summer Series #10 - Pioneer Park, Wendouree, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22046
+GEO:-37.5200869984156;143.824009608002
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21676@eventor.orienteering.asn.au
 DTSTAMP:20241206T053911Z
 DTSTART:20250204T073000Z
@@ -454,11 +429,12 @@ GEO:-30.5025347089745;151.656065891324
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21549@eventor.orienteering.asn.au
-DTSTAMP:20241107T034148Z
+DTSTAMP:20250129T120452Z
 DTSTART:20250205T060000Z
 DTEND:20250205T081500Z
 SUMMARY:Newcastle Summer Street Series #15 - Jewells, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21549
+GEO:-33.0149685972583;151.67511611651
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20900@eventor.orienteering.asn.au
@@ -558,7 +534,7 @@ GEO:-35.2580284929848;149.105216212136
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21760@eventor.orienteering.asn.au
-DTSTAMP:20241212T042615Z
+DTSTAMP:20250129T015738Z
 DTSTART:20250207T223000Z
 DTEND:20250207T223000Z
 SUMMARY:SOS 3D Term 1 2025, Bold Horizons Event Organiser
@@ -571,6 +547,15 @@ DTSTART:20250207T223000Z
 DTEND:20250207T223000Z
 SUMMARY:SOS Macarthur #1, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/21766
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22040@eventor.orienteering.asn.au
+DTSTAMP:20250129T062752Z
+DTSTART:20250207T223000Z
+DTEND:20250208T010000Z
+SUMMARY:SOS 3D Pennant Hills, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/22040
+GEO:-33.741946;151.057916
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21076@eventor.orienteering.asn.au
@@ -727,6 +712,15 @@ DTSTART:20250210T073000Z
 DTEND:20250210T091500Z
 SUMMARY:Melbourne Park Street Monday Summer Series - Tirhatuan, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21669
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22048@eventor.orienteering.asn.au
+DTSTAMP:20250129T100839Z
+DTSTART:20250211T064500Z
+DTEND:20250211T064500Z
+SUMMARY:Ballarat Summer Series #11 - Delacombe South / Bonshaws Creek, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22048
+GEO:-37.5956745092862;143.819277780658
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21677@eventor.orienteering.asn.au
@@ -917,6 +911,15 @@ SUMMARY:SOS Macarthur #2, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/21767
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22041@eventor.orienteering.asn.au
+DTSTAMP:20250129T064733Z
+DTSTART:20250214T223000Z
+DTEND:20250215T010000Z
+SUMMARY:SOS 3D Normanhurst, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/22041
+GEO:-33.7221495974398;151.101613379441
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21743@eventor.orienteering.asn.au
 DTSTAMP:20241211T053737Z
 DTSTART:20250214T230000Z
@@ -1069,6 +1072,15 @@ DTSTART:20250217T073000Z
 DTEND:20250217T091500Z
 SUMMARY:Melbourne Park Street Monday Summer Series - Dandenong Creek, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21670
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22049@eventor.orienteering.asn.au
+DTSTAMP:20250129T102126Z
+DTSTART:20250218T064500Z
+DTEND:20250218T084500Z
+SUMMARY:Ballarat Summer Series 24/25 Event #12 - Brown Hill Reserve, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22049
+GEO:-37.5522092955927;143.897746899679
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21678@eventor.orienteering.asn.au
@@ -1225,6 +1237,15 @@ SUMMARY:SOS Macarthur #3, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/21768
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22042@eventor.orienteering.asn.au
+DTSTAMP:20250129T065927Z
+DTSTART:20250221T223000Z
+DTEND:20250222T010000Z
+SUMMARY:SOS 3D Wahroonga, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/22042
+GEO:-33.7242699120699;151.120553156831
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_22038@eventor.orienteering.asn.au
 DTSTAMP:20250127T232141Z
 DTSTART:20250222T050000Z
@@ -1334,6 +1355,15 @@ DTSTART:20250224T073000Z
 DTEND:20250224T091500Z
 SUMMARY:Melbourne Park Street Monday Summer Series - Moorabbin, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21671
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22047@eventor.orienteering.asn.au
+DTSTAMP:20250129T093603Z
+DTSTART:20250225T064500Z
+DTEND:20250225T082500Z
+SUMMARY:Ballarat Summer Series 24/25 #13 - Lucas, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22047
+GEO:-37.5464005760258;143.77693691344
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21679@eventor.orienteering.asn.au
