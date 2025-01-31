@@ -3,22 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_21589@eventor.orienteering.asn.au
-DTSTAMP:20241208T104526Z
-DTSTART:20250123T130000Z
-DTEND:20250124T130000Z
-SUMMARY:Australia - New Zealand Challenge 2025 Team Member Gear, Orienteering Australia / Orienteering NSW
-URL:https://eventor.orienteering.asn.au/Events/Show/21589
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21359@eventor.orienteering.asn.au
-DTSTAMP:20240919T001252Z
-DTSTART:20250123T130000Z
-DTEND:20250124T130000Z
-SUMMARY:Australian Nomination for Selection 2025 Australia - New Zealand Challenge, Orienteering Australia / Orienteering NSW
-URL:https://eventor.orienteering.asn.au/Events/Show/21359
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21559@eventor.orienteering.asn.au
 DTSTAMP:20241110T062743Z
 DTSTART:20250124T070000Z
@@ -194,7 +178,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21714
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21890@eventor.orienteering.asn.au
-DTSTAMP:20250102T023233Z
+DTSTAMP:20250130T215759Z
 DTSTART:20250131T070000Z
 DTEND:20250131T070000Z
 SUMMARY:Goldseekers Summer Series #1 2025, Goldseekers Orienteers
@@ -212,7 +196,7 @@ GEO:-12.3915116201765;130.891552879134
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21880@eventor.orienteering.asn.au
-DTSTAMP:20250127T210603Z
+DTSTAMP:20250131T131310Z
 DTSTART:20250131T080000Z
 DTEND:20250131T093000Z
 SUMMARY:Snap Sprint Series #1 Adelaide Uni, SA Arrows
@@ -221,7 +205,7 @@ GEO:-34.9172479832127;138.602169072388
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21922@eventor.orienteering.asn.au
-DTSTAMP:20250121T094907Z
+DTSTAMP:20250131T062216Z
 DTSTART:20250131T220000Z
 DTEND:20250201T000000Z
 SUMMARY:Learn to Orienteer - Princes Park Week 1, Melbourne Forest Racers
@@ -309,7 +293,7 @@ GEO:-27.6017758913702;151.911810904409
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22017@eventor.orienteering.asn.au
-DTSTAMP:20250128T123237Z
+DTSTAMP:20250131T062413Z
 DTSTART:20250202T060000Z
 DTEND:20250202T060000Z
 SUMMARY:Drayton State School Sprint, Toowoomba, Range Runners Orienteering Club
@@ -508,22 +492,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21523
 GEO:-35.2580284929848;149.105216212136
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21760@eventor.orienteering.asn.au
-DTSTAMP:20250129T015738Z
-DTSTART:20250207T223000Z
-DTEND:20250207T223000Z
-SUMMARY:SOS 3D Term 1 2025, Bold Horizons Event Organiser
-URL:https://eventor.orienteering.asn.au/Events/Show/21760
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21766@eventor.orienteering.asn.au
-DTSTAMP:20241212T043921Z
-DTSTART:20250207T223000Z
-DTEND:20250207T223000Z
-SUMMARY:SOS Macarthur #1, Bold Horizons Event Organiser
-URL:https://eventor.orienteering.asn.au/Events/Show/21766
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22060@eventor.orienteering.asn.au
 DTSTAMP:20250130T073713Z
 DTSTART:20250207T223000Z
@@ -593,15 +561,6 @@ DTEND:20250209T130000Z
 SUMMARY:Queen's Domain - Learn to Orienteer Week 2, Australopers Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21747
 GEO:-42.8670438269505;147.323900762678
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21995@eventor.orienteering.asn.au
-DTSTAMP:20250112T092820Z
-DTSTART:20250208T140000Z
-DTEND:20250209T140000Z
-SUMMARY:Queens Park/Warwick High School, Bullecourt Boulder Bounders
-URL:https://eventor.orienteering.asn.au/Events/Show/21995
-GEO:-28.2100502135125;152.03280754942
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21860@eventor.orienteering.asn.au
@@ -698,6 +657,15 @@ DTEND:20250209T060000Z
 SUMMARY:MapRun Parks 2025 - 7th Brigade Park, Chermside, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21989
 GEO:-27.3773480558611;153.034487356606
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21995@eventor.orienteering.asn.au
+DTSTAMP:20250131T085612Z
+DTSTART:20250209T060000Z
+DTEND:20250209T070000Z
+SUMMARY:Warwick High School, Bullecourt Boulder Bounders
+URL:https://eventor.orienteering.asn.au/Events/Show/21995
+GEO:-28.2100123956226;152.032625159207
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21706@eventor.orienteering.asn.au
@@ -895,22 +863,6 @@ DTEND:20250215T000000Z
 SUMMARY:Learn to Orienteer - Princes Park Week 3, Melbourne Forest Racers
 URL:https://eventor.orienteering.asn.au/Events/Show/21924
 GEO:-37.7823571327782;144.963149460842
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21761@eventor.orienteering.asn.au
-DTSTAMP:20241212T042854Z
-DTSTART:20250214T223000Z
-DTEND:20250214T223000Z
-SUMMARY:SOS 3D Term 1 2025 #2, Bold Horizons Event Organiser
-URL:https://eventor.orienteering.asn.au/Events/Show/21761
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21767@eventor.orienteering.asn.au
-DTSTAMP:20241212T044009Z
-DTSTART:20250214T223000Z
-DTEND:20250214T223000Z
-SUMMARY:SOS Macarthur #2, Bold Horizons Event Organiser
-URL:https://eventor.orienteering.asn.au/Events/Show/21767
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22041@eventor.orienteering.asn.au
@@ -1232,22 +1184,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21883
 GEO:-34.873462469723;138.537732708648
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21762@eventor.orienteering.asn.au
-DTSTAMP:20241212T043049Z
-DTSTART:20250221T223000Z
-DTEND:20250221T223000Z
-SUMMARY:SOS 3D Term 1 2025 #3, Bold Horizons Event Organiser
-URL:https://eventor.orienteering.asn.au/Events/Show/21762
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21768@eventor.orienteering.asn.au
-DTSTAMP:20241212T044050Z
-DTSTART:20250221T223000Z
-DTEND:20250221T223000Z
-SUMMARY:SOS Macarthur #3, Bold Horizons Event Organiser
-URL:https://eventor.orienteering.asn.au/Events/Show/21768
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22042@eventor.orienteering.asn.au
 DTSTAMP:20250129T065927Z
 DTSTART:20250221T223000Z
@@ -1456,6 +1392,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21225
 GEO:-33.81814330182;151.012603827663
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22062@eventor.orienteering.asn.au
+DTSTAMP:20250131T015946Z
+DTSTART:20250226T060000Z
+DTEND:20250226T080000Z
+SUMMARY:Summer series #8, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22062
+GEO:-30.5062928476947;151.683690472979
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20903@eventor.orienteering.asn.au
 DTSTAMP:20240918T023414Z
 DTSTART:20250226T060000Z
@@ -1496,5 +1441,14 @@ DTEND:20250227T093000Z
 SUMMARY:Night Nav - EN Nth - North Lakes, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/22007
 GEO:-27.224067311597;153.009913508301
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21935@eventor.orienteering.asn.au
+DTSTAMP:20250108T220151Z
+DTSTART:20250228T080000Z
+DTEND:20250228T080000Z
+SUMMARY:NT: 2025 Wet Season Series Event 5 - Moil, Top End Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21935
+GEO:-12.3901143534279;130.882136915355
 END:VEVENT
 END:VCALENDAR
