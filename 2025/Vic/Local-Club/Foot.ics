@@ -12,41 +12,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21559
 GEO:-35.052762333514;117.913592292957
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21452@eventor.orienteering.asn.au
-DTSTAMP:20250125T000607Z
-DTSTART:20250124T220000Z
-DTEND:20250125T003000Z
-SUMMARY:SHOO's Summer Saturdays #4, Southern Highlands Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21452
-GEO:-34.0531599958256;150.691772642458
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21587@eventor.orienteering.asn.au
-DTSTAMP:20250125T071329Z
-DTSTART:20250124T220000Z
-DTEND:20250125T010000Z
-SUMMARY:Diggers Beach MapRun Orienteering, Bush n Beach Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21587
-GEO:-30.2752453632832;153.141988492876
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21667@eventor.orienteering.asn.au
-DTSTAMP:20241205T032416Z
-DTSTART:20250125T043000Z
-DTEND:20250125T063000Z
-SUMMARY:Surfside Park Street Summer Series - Portarlington - New Map, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21667
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21696@eventor.orienteering.asn.au
-DTSTAMP:20250125T112303Z
-DTSTART:20250125T070000Z
-DTEND:20250125T080000Z
-SUMMARY:Denmark SHS, Albany & Denmark Hinterland Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21696
-GEO:-34.9580720081351;117.366361813678
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21987@eventor.orienteering.asn.au
 DTSTAMP:20250129T043738Z
 DTSTART:20250125T140000Z
@@ -214,7 +179,7 @@ GEO:-37.7823571327782;144.963149460842
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21453@eventor.orienteering.asn.au
-DTSTAMP:20250106T092251Z
+DTSTAMP:20250201T001736Z
 DTSTART:20250131T220000Z
 DTEND:20250201T003000Z
 SUMMARY:SHOO's Summer Saturdays #5, Southern Highlands Orienteers
@@ -232,7 +197,7 @@ GEO:-37.9540550635623;144.404812984258
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21472@eventor.orienteering.asn.au
-DTSTAMP:20250127T092506Z
+DTSTAMP:20250201T102152Z
 DTSTART:20250201T080000Z
 DTEND:20250201T101500Z
 SUMMARY:MetrO 8 Edgewater, Bibbulmun Orienteers / Orienteering WA
@@ -250,11 +215,12 @@ GEO:-42.880706264958;147.398345908424
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21375@eventor.orienteering.asn.au
-DTSTAMP:20241219T013947Z
+DTSTAMP:20250201T040903Z
 DTSTART:20250201T220000Z
 DTEND:20250201T233000Z
 SUMMARY:ACT Sprint Series #2, Queanbeyan South Public School, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/21375
+GEO:-35.3634075093847;149.227908084379
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21043@eventor.orienteering.asn.au
@@ -272,6 +238,7 @@ DTSTART:20250201T223000Z
 DTEND:20250202T010000Z
 SUMMARY:West Sydney Orienteering Series - Lake Parramatta, Bennelong Northside Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21323
+GEO:-33.7917350168612;151.007630399579
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22026@eventor.orienteering.asn.au
@@ -457,7 +424,7 @@ GEO:-33.2625306320872;149.100656233078
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21932@eventor.orienteering.asn.au
-DTSTAMP:20250108T213710Z
+DTSTAMP:20250201T121941Z
 DTSTART:20250207T080000Z
 DTEND:20250207T080000Z
 SUMMARY:NT: 2025 Wet Season Series Event 2 - Fannie Bay, Top End Orienteers
@@ -737,11 +704,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21622
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21611@eventor.orienteering.asn.au
-DTSTAMP:20241128T045900Z
+DTSTAMP:20250201T081213Z
 DTSTART:20250212T000000Z
 DTEND:20250212T023000Z
-SUMMARY:Midweek Training at Marion, Orienteering SA
+SUMMARY:Midweek Training at Marion Shopping Centre, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/21611
+GEO:-35.0132428496894;138.543421268367
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21808@eventor.orienteering.asn.au
@@ -1220,7 +1188,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21078
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21998@eventor.orienteering.asn.au
-DTSTAMP:20250127T015336Z
+DTSTAMP:20250201T065941Z
 DTSTART:20250222T053000Z
 DTEND:20250222T080000Z
 SUMMARY:Tatterson Tangle Saturday Evening Sprint, Dandenong Ranges Orienteering Club
@@ -1450,5 +1418,85 @@ DTEND:20250228T080000Z
 SUMMARY:NT: 2025 Wet Season Series Event 5 - Moil, Top End Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21935
 GEO:-12.3901143534279;130.882136915355
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21526@eventor.orienteering.asn.au
+DTSTAMP:20250128T084627Z
+DTSTART:20250228T220000Z
+DTEND:20250301T020000Z
+SUMMARY:ACT MTBO Series #1 and Come & Try MTBO, COTTER PINES, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/21526
+GEO:-35.2989435411755;148.934784968662
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22043@eventor.orienteering.asn.au
+DTSTAMP:20250129T070505Z
+DTSTART:20250228T223000Z
+DTEND:20250301T010000Z
+SUMMARY:SOS 3D Killara, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/22043
+GEO:-33.7573094299203;151.172952294861
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22056@eventor.orienteering.asn.au
+DTSTAMP:20250130T024358Z
+DTSTART:20250228T223000Z
+DTEND:20250301T010000Z
+SUMMARY:SOS Macarthur - Camden High School, Bold Horizons Event Organiser / Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22056
+GEO:-34.079083301683;150.677331058873
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22050@eventor.orienteering.asn.au
+DTSTAMP:20250129T230047Z
+DTSTART:20250301T020000Z
+DTEND:20250301T024500Z
+SUMMARY:O'Shea Saturday afternoon event - Kincumba mountain - individual entry, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22050
+GEO:-33.4586241014768;151.391553968195
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21046@eventor.orienteering.asn.au
+DTSTAMP:20250110T061133Z
+DTSTART:20250301T020000Z
+DTEND:20250302T010000Z
+SUMMARY:O'Shea 2 Days 2025 - Kincumba Mountain & Shelly Beach, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21046
+GEO:-33.4583774912752;151.392161679385
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21079@eventor.orienteering.asn.au
+DTSTAMP:20240728T063943Z
+DTSTART:20250301T053000Z
+DTEND:20250301T053000Z
+SUMMARY:EN Sprint Series 4, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/21079
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21699@eventor.orienteering.asn.au
+DTSTAMP:20241208T070819Z
+DTSTART:20250301T070000Z
+DTEND:20250301T080000Z
+SUMMARY:Albany - Great Southern Grammar, Albany & Denmark Hinterland Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21699
+GEO:-34.9465782211534;117.970672630757
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21855@eventor.orienteering.asn.au
+DTSTAMP:20250117T075724Z
+DTSTART:20250301T070000Z
+DTEND:20250301T083000Z
+SUMMARY:Bike-O 75 Series - Silvan, Dandenong Ranges Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21855
+GEO:-37.8371348274279;145.391944255361
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22051@eventor.orienteering.asn.au
+DTSTAMP:20250129T231300Z
+DTSTART:20250301T084500Z
+DTEND:20250301T084500Z
+SUMMARY:O'Shea Night leg - Shelly Beach - individual entry, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22051
+GEO:-33.3734257187973;151.487067746145
 END:VEVENT
 END:VCALENDAR
