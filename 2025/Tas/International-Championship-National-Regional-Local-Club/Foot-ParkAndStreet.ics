@@ -3,32 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_21053@eventor.orienteering.asn.au
-DTSTAMP:20250129T043400Z
-DTSTART:20250127T140000Z
-DTEND:20250128T140000Z
-SUMMARY:Night Nav - EN The Gap - Hilder, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/21053
-GEO:-27.4383482195501;152.934711917824
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22027@eventor.orienteering.asn.au
-DTSTAMP:20250129T092334Z
-DTSTART:20250128T064500Z
-DTEND:20250128T084500Z
-SUMMARY:Ballarat Summer Series 24/25 - Event #9 - Soldiers Hill & Black Hill, Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22027
-GEO:-37.5565647008395;143.870941837207
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21651@eventor.orienteering.asn.au
-DTSTAMP:20241205T024123Z
-DTSTART:20250128T073000Z
-DTEND:20250128T091500Z
-SUMMARY:Melbourne Park Street Tuesday Summer Series - Williamstown Strand, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21651
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21221@eventor.orienteering.asn.au
 DTSTAMP:20250129T104732Z
 DTSTART:20250129T053000Z
@@ -189,7 +163,7 @@ GEO:-34.7221293553951;135.865563673708
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22003@eventor.orienteering.asn.au
-DTSTAMP:20250126T010852Z
+DTSTAMP:20250203T221519Z
 DTSTART:20250202T050000Z
 DTEND:20250202T050000Z
 SUMMARY:Learn to Orienteer #1, Drayton SS, Toowoomba, Range Runners Orienteering Club
@@ -240,8 +214,17 @@ SUMMARY:Orienteering ACT February Board Meeting, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/20827
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_20231@eventor.orienteering.asn.au
+DTSTAMP:20250204T104957Z
+DTSTART:20250203T140000Z
+DTEND:20250204T140000Z
+SUMMARY:Night Nav - Perrin Park - Taringa - BCC Sponsored Event - Term 1 Series - Event 1, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20231
+GEO:-27.4910633705527;152.991960330617
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_22046@eventor.orienteering.asn.au
-DTSTAMP:20250130T045225Z
+DTSTAMP:20250204T094318Z
 DTSTART:20250204T064500Z
 DTEND:20250204T083500Z
 SUMMARY:Ballarat Summer Series #10 - Wendouree West Recreation Reserve, Eureka Orienteers
@@ -255,15 +238,6 @@ DTSTART:20250204T073000Z
 DTEND:20250204T091500Z
 SUMMARY:Melbourne Park Street Tuesday Summer Series - Airport West, Tuckonie Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21676
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20231@eventor.orienteering.asn.au
-DTSTAMP:20250118T041318Z
-DTSTART:20250204T073000Z
-DTEND:20250204T093000Z
-SUMMARY:Night Nav - Perrin Park - Taringa - BCC Sponsored Event - Term 1 Series - Event 1, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20231
-GEO:-27.4910633705527;152.991960330617
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21999@eventor.orienteering.asn.au
@@ -284,7 +258,7 @@ GEO:-33.8629240352219;151.112160436369
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22035@eventor.orienteering.asn.au
-DTSTAMP:20250127T020721Z
+DTSTAMP:20250204T025026Z
 DTSTART:20250205T060000Z
 DTEND:20250205T080000Z
 SUMMARY:Summer series #5, Northern Tablelands Orienteering Club
@@ -434,11 +408,12 @@ GEO:-34.1005775108232;150.80074813777
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21076@eventor.orienteering.asn.au
-DTSTAMP:20240728T063725Z
+DTSTAMP:20250204T003913Z
 DTSTART:20250208T053000Z
-DTEND:20250208T053000Z
-SUMMARY:EN Sprint Series 1, Enoggeroos
+DTEND:20250208T070000Z
+SUMMARY:EN Sprint Series 1 - Samford State School, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/21076
+GEO:-27.3760845679094;152.882896584695
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21697@eventor.orienteering.asn.au
@@ -491,6 +466,7 @@ DTSTART:20250208T220000Z
 DTEND:20250208T233000Z
 SUMMARY:ACT Sprint Series #3, Palmerston District Primary School, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/21376
+GEO:-35.1978152071013;149.120939520291
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21044@eventor.orienteering.asn.au
@@ -547,7 +523,7 @@ GEO:-33.6757535292151;151.184255161437
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22018@eventor.orienteering.asn.au
-DTSTAMP:20250128T124742Z
+DTSTAMP:20250203T231405Z
 DTSTART:20250209T060000Z
 DTEND:20250209T060000Z
 SUMMARY:Highfields State Secondary College Sprint, Highfields, Range Runners Orienteering Club
@@ -869,7 +845,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21377
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21045@eventor.orienteering.asn.au
-DTSTAMP:20240923T021233Z
+DTSTAMP:20250203T230940Z
 DTSTART:20250215T220000Z
 DTEND:20250215T233000Z
 SUMMARY:Central Coast Summer Series 12 - Berkeley Vale , Central Coast Orienteers
@@ -1532,5 +1508,31 @@ DTSTART:20250303T073000Z
 DTEND:20250303T091500Z
 SUMMARY:Melbourne Park Street Monday Summer Series - The Glen, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21672
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21680@eventor.orienteering.asn.au
+DTSTAMP:20241206T054407Z
+DTSTART:20250304T073000Z
+DTEND:20250304T091500Z
+SUMMARY:Melbourne Park Street Tuesday Summer Series - Montgomery Park, Melbourne Forest Racers
+URL:https://eventor.orienteering.asn.au/Events/Show/21680
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20405@eventor.orienteering.asn.au
+DTSTAMP:20250119T011021Z
+DTSTART:20250304T073000Z
+DTEND:20250304T093000Z
+SUMMARY:Night Nav - Cubberla Creek - Term 1 Series Event #5, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20405
+GEO:-27.511158023891;152.951747074965
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22032@eventor.orienteering.asn.au
+DTSTAMP:20250128T013522Z
+DTSTART:20250304T080000Z
+DTEND:20250304T080000Z
+SUMMARY:Night Nav - Noosa Heads, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22032
+GEO:-26.3975676725447;153.087552123626
 END:VEVENT
 END:VCALENDAR
