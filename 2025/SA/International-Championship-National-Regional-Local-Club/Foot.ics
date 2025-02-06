@@ -3,31 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_21731@eventor.orienteering.asn.au
-DTSTAMP:20250130T094944Z
-DTSTART:20250130T070000Z
-DTEND:20250130T070000Z
-SUMMARY:NightNav - Southside - Forest Lake, Toohey Forest Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21731
-GEO:-27.6098358461725;152.969606868834
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21662@eventor.orienteering.asn.au
-DTSTAMP:20241205T031559Z
-DTSTART:20250130T073000Z
-DTEND:20250130T091500Z
-SUMMARY:Melbourne Park Street Thursday Summer Series - Eltham Town, Nillumbik Emus Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21662
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21714@eventor.orienteering.asn.au
-DTSTAMP:20241209T032337Z
-DTSTART:20250130T080000Z
-DTEND:20250130T091500Z
-SUMMARY:Geelong Park Street Thursday Summer Series - Queen's Bridge, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21714
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21890@eventor.orienteering.asn.au
 DTSTAMP:20250130T215759Z
 DTSTART:20250131T070000Z
@@ -324,7 +299,7 @@ DTSTART:20250207T080000Z
 DTEND:20250207T093000Z
 SUMMARY:Snap Sprint Series #2 Flinders University, SA Arrows
 URL:https://eventor.orienteering.asn.au/Events/Show/21881
-GEO:-35.0266249023668;138.571501850341
+GEO:-35.0263097889881;138.571864668289
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21923@eventor.orienteering.asn.au
@@ -456,7 +431,7 @@ UID:Event_21985@eventor.orienteering.asn.au
 DTSTAMP:20250112T041041Z
 DTSTART:20250208T230000Z
 DTEND:20250208T230000Z
-SUMMARY:OQ Level 3 Controllers Workshop, Orienteering Queensland
+SUMMARY:OQ Level 3 Controllers Workshop, Orienteering Queensland / Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21985
 GEO:-27.4444952982768;153.042220649167
 END:VEVENT
@@ -611,7 +586,7 @@ GEO:-41.4091409619353;147.139317696883
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21223@eventor.orienteering.asn.au
-DTSTAMP:20250119T103852Z
+DTSTAMP:20250206T102624Z
 DTSTART:20250212T053000Z
 DTEND:20250212T083000Z
 SUMMARY:2024/25 Sydney Summer Series #19 - Mosman, Garingal Orienteers
@@ -846,7 +821,7 @@ GEO:-27.4853222829459;153.075222542507
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21725@eventor.orienteering.asn.au
-DTSTAMP:20241209T070603Z
+DTSTAMP:20250206T103051Z
 DTSTART:20250216T000000Z
 DTEND:20250216T020000Z
 SUMMARY:HOG February Orienteering, Hastings Orienteering Group
@@ -1267,7 +1242,7 @@ DTSTART:20250226T060000Z
 DTEND:20250226T100000Z
 SUMMARY:ACT Runners Shop Twilight Series #11 and Mass-Start Night Race: Black Mountain Peninsula, Weston Emus (CLOSED)
 URL:https://eventor.orienteering.asn.au/Events/Show/20903
-GEO:-35.2902183571892;149.101395137045
+GEO:-35.2915607;149.1014863
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21686@eventor.orienteering.asn.au
@@ -1451,13 +1426,13 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21574
 GEO:-34.6750611193657;150.854261696302
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21200@eventor.orienteering.asn.au
-DTSTAMP:20240829T071806Z
+UID:Event_22086@eventor.orienteering.asn.au
+DTSTAMP:20250206T031238Z
 DTSTART:20250301T233000Z
 DTEND:20250302T013000Z
-SUMMARY:SA Sprint Championships - Roseworthy College, Orienteering SA / Tintookies Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21200
-GEO:-34.5301679258205;138.687903124421
+SUMMARY:SA Sprint Distance Championships - Roseworthy, Orienteering SA / Tintookies Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22086
+GEO:-34.5299947006868;138.687961398491
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21992@eventor.orienteering.asn.au
@@ -1529,12 +1504,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21803
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21997@eventor.orienteering.asn.au
-DTSTAMP:20250113T054012Z
+DTSTAMP:20250206T024026Z
 DTSTART:20250305T053000Z
 DTEND:20250305T083000Z
 SUMMARY:2024/25 Sydney Summer Series #22v2 - Concord, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21997
-GEO:-33.8450718004414;151.098344001204
+GEO:-33.8307899615646;151.088645529235
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20904@eventor.orienteering.asn.au
@@ -1552,5 +1527,30 @@ DTSTART:20250305T073000Z
 DTEND:20250305T091500Z
 SUMMARY:Melbourne Park Street Wednesday Summer Series - Cathies Creek, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21687
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21695@eventor.orienteering.asn.au
+DTSTAMP:20241207T044922Z
+DTSTART:20250306T073000Z
+DTEND:20250306T091500Z
+SUMMARY:Melbourne Park Street Thursday Summer Series - Ruffey Lake, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21695
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22008@eventor.orienteering.asn.au
+DTSTAMP:20250117T101611Z
+DTSTART:20250306T080000Z
+DTEND:20250306T080000Z
+SUMMARY:Night Nav - EN Nth - Griffin, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/22008
+GEO:-27.2658982457977;153.021779899338
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21719@eventor.orienteering.asn.au
+DTSTAMP:20241209T033026Z
+DTSTART:20250306T080000Z
+DTEND:20250306T091500Z
+SUMMARY:Geelong Park Street Thursday Summer Series - Windmill Reserve, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21719
 END:VEVENT
 END:VCALENDAR
