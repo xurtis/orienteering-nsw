@@ -3,33 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_21890@eventor.orienteering.asn.au
-DTSTAMP:20250130T215759Z
-DTSTART:20250131T070000Z
-DTEND:20250131T070000Z
-SUMMARY:Goldseekers Summer Series #1 2025, Goldseekers Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21890
-GEO:-33.2703555128364;149.079392627538
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21931@eventor.orienteering.asn.au
-DTSTAMP:20250128T123325Z
-DTSTART:20250131T080000Z
-DTEND:20250131T080000Z
-SUMMARY:NT: 2025 Wet Season Series Event 1 - Anula, Top End Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21931
-GEO:-12.3915116201765;130.891552879134
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21880@eventor.orienteering.asn.au
-DTSTAMP:20250131T131310Z
-DTSTART:20250131T080000Z
-DTEND:20250131T093000Z
-SUMMARY:Snap Sprint Series #1 Adelaide Uni, SA Arrows
-URL:https://eventor.orienteering.asn.au/Events/Show/21880
-GEO:-34.9172479832127;138.602169072388
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21922@eventor.orienteering.asn.au
 DTSTAMP:20250131T062216Z
 DTSTART:20250131T220000Z
@@ -207,10 +180,10 @@ GEO:-33.8629240352219;151.112160436369
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22035@eventor.orienteering.asn.au
-DTSTAMP:20250204T025026Z
+DTSTAMP:20250207T031443Z
 DTSTART:20250205T060000Z
 DTEND:20250205T080000Z
-SUMMARY:Summer series #5, Northern Tablelands Orienteering Club
+SUMMARY:NTOC Summer series #5, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22035
 GEO:-30.5025347089745;151.656065891324
 END:VEVENT
@@ -259,7 +232,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21691
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22004@eventor.orienteering.asn.au
-DTSTAMP:20250126T073333Z
+DTSTAMP:20250207T001545Z
 DTSTART:20250206T080000Z
 DTEND:20250206T080000Z
 SUMMARY:Night Nav - EN Nth - Warner, Enoggeroos
@@ -294,7 +267,7 @@ GEO:-12.4237472916969;130.837045510818
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21881@eventor.orienteering.asn.au
-DTSTAMP:20250121T001233Z
+DTSTAMP:20250207T115226Z
 DTSTART:20250207T080000Z
 DTEND:20250207T093000Z
 SUMMARY:Snap Sprint Series #2 Flinders University, SA Arrows
@@ -303,7 +276,7 @@ GEO:-35.0263097889881;138.571864668289
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21923@eventor.orienteering.asn.au
-DTSTAMP:20250121T095001Z
+DTSTAMP:20250207T064433Z
 DTSTART:20250207T220000Z
 DTEND:20250208T000000Z
 SUMMARY:Learn to Orienteer - Princes Park Week 2, Melbourne Forest Racers
@@ -472,7 +445,7 @@ GEO:-33.6757535292151;151.184255161437
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22018@eventor.orienteering.asn.au
-DTSTAMP:20250203T231405Z
+DTSTAMP:20250207T045438Z
 DTSTART:20250209T060000Z
 DTEND:20250209T060000Z
 SUMMARY:Highfields State Secondary College Sprint, Highfields, Range Runners Orienteering Club
@@ -567,15 +540,6 @@ SUMMARY:Midweek Training Season Ticket, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/21622
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21611@eventor.orienteering.asn.au
-DTSTAMP:20250203T041540Z
-DTSTART:20250212T000000Z
-DTEND:20250212T023000Z
-SUMMARY:Midweek Training at Marion Shopping Centre, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/21611
-GEO:-35.0136941732005;138.542910416276
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21808@eventor.orienteering.asn.au
 DTSTAMP:20250116T023633Z
 DTSTART:20250212T040000Z
@@ -595,10 +559,10 @@ GEO:-33.8358727872187;151.232643606242
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22036@eventor.orienteering.asn.au
-DTSTAMP:20250127T030914Z
+DTSTAMP:20250207T031514Z
 DTSTART:20250212T060000Z
 DTEND:20250212T080000Z
-SUMMARY:Summer series #6, Northern Tablelands Orienteering Club
+SUMMARY:NTOC Summer series #6, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22036
 GEO:-30.5267223285289;151.651857693939
 END:VEVENT
@@ -635,6 +599,15 @@ DTSTART:20250212T073000Z
 DTEND:20250212T091500Z
 SUMMARY:Melbourne Park Street Wednesday Summer Series - Quarries Park, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21684
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21611@eventor.orienteering.asn.au
+DTSTAMP:20250207T062853Z
+DTSTART:20250213T000000Z
+DTEND:20250213T023000Z
+SUMMARY:Midweek Training at Marion Shopping Centre, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/21611
+GEO:-35.0136941732005;138.542910416276
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21692@eventor.orienteering.asn.au
@@ -779,11 +752,12 @@ GEO:-35.1123011238081;147.364794408499
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20993@eventor.orienteering.asn.au
-DTSTAMP:20241103T234739Z
+DTSTAMP:20250207T110341Z
 DTSTART:20250215T210000Z
 DTEND:20250216T000000Z
-SUMMARY:Newcastle BOSS5 MTBO - Hawkemount, Newcastle Orienteering Club
+SUMMARY:Newcastle BOSS5 MTBO - Hawkemount North, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/20993
+GEO:-33.0269839627384;151.494489075331
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21377@eventor.orienteering.asn.au
@@ -916,10 +890,10 @@ GEO:-41.4084399806624;147.129609657782
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22037@eventor.orienteering.asn.au
-DTSTAMP:20250127T031200Z
+DTSTAMP:20250207T031534Z
 DTSTART:20250219T050000Z
 DTEND:20250219T080000Z
-SUMMARY:Summer series #7, Northern Tablelands Orienteering Club
+SUMMARY:NTOC Summer series #7, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22037
 END:VEVENT
 BEGIN:VEVENT
@@ -1228,10 +1202,10 @@ GEO:-33.81814330182;151.012603827663
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22062@eventor.orienteering.asn.au
-DTSTAMP:20250131T015946Z
+DTSTAMP:20250207T031646Z
 DTSTART:20250226T060000Z
 DTEND:20250226T080000Z
-SUMMARY:Summer series #8, Northern Tablelands Orienteering Club
+SUMMARY:NTOC Summer series #8, Northern Tablelands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22062
 GEO:-30.5062928476947;151.683690472979
 END:VEVENT
@@ -1552,5 +1526,14 @@ DTSTART:20250306T080000Z
 DTEND:20250306T091500Z
 SUMMARY:Geelong Park Street Thursday Summer Series - Windmill Reserve, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21719
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21936@eventor.orienteering.asn.au
+DTSTAMP:20250108T220625Z
+DTSTART:20250307T080000Z
+DTEND:20250307T080000Z
+SUMMARY:NT: 2025 Wet Season Series Event 6 - Lyons, Top End Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21936
+GEO:-12.3584416827682;130.888455594025
 END:VEVENT
 END:VCALENDAR
