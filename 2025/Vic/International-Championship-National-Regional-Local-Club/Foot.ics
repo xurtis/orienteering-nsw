@@ -3,33 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_21891@eventor.orienteering.asn.au
-DTSTAMP:20250205T013558Z
-DTSTART:20250207T070000Z
-DTEND:20250207T070000Z
-SUMMARY:Goldseekers Summer Series #2 2025, Goldseekers Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21891
-GEO:-33.2625306320872;149.100656233078
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21932@eventor.orienteering.asn.au
-DTSTAMP:20250201T121941Z
-DTSTART:20250207T080000Z
-DTEND:20250207T080000Z
-SUMMARY:NT: 2025 Wet Season Series Event 2 - Fannie Bay, Top End Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21932
-GEO:-12.4237472916969;130.837045510818
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21881@eventor.orienteering.asn.au
-DTSTAMP:20250207T115226Z
-DTSTART:20250207T080000Z
-DTEND:20250207T093000Z
-SUMMARY:Snap Sprint Series #2 Flinders University, SA Arrows
-URL:https://eventor.orienteering.asn.au/Events/Show/21881
-GEO:-35.0263097889881;138.571864668289
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21923@eventor.orienteering.asn.au
 DTSTAMP:20250207T064433Z
 DTSTART:20250207T220000Z
@@ -271,7 +244,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21677
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22031@eventor.orienteering.asn.au
-DTSTAMP:20250124T040720Z
+DTSTAMP:20250214T010137Z
 DTSTART:20250211T080000Z
 DTEND:20250211T080000Z
 SUMMARY:Night Nav - Kuluin, Sunshine Orienteers Club
@@ -392,6 +365,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21892
 GEO:-33.2714239805632;149.088443850876
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_21882@eventor.orienteering.asn.au
+DTSTAMP:20250214T111613Z
+DTSTART:20250214T073000Z
+DTEND:20250214T093000Z
+SUMMARY:Snap Sprint Series #3 Urrbrae High School, SA Arrows
+URL:https://eventor.orienteering.asn.au/Events/Show/21882
+GEO:-34.9675506803458;138.626513149481
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21933@eventor.orienteering.asn.au
 DTSTAMP:20250209T040235Z
 DTSTART:20250214T080000Z
@@ -399,15 +381,6 @@ DTEND:20250214T080000Z
 SUMMARY:NT: 2025 Wet Season Series Event 3 - Leanyer, Top End Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21933
 GEO:-12.3771340409864;130.897086761431
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21882@eventor.orienteering.asn.au
-DTSTAMP:20250210T231607Z
-DTSTART:20250214T080000Z
-DTEND:20250214T093000Z
-SUMMARY:Snap Sprint Series #3 Urrbrae High School, SA Arrows
-URL:https://eventor.orienteering.asn.au/Events/Show/21882
-GEO:-34.9675506803458;138.626513149481
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21924@eventor.orienteering.asn.au
@@ -896,10 +869,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21671
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22047@eventor.orienteering.asn.au
-DTSTAMP:20250129T093603Z
+DTSTAMP:20250214T111519Z
 DTSTART:20250225T064500Z
 DTEND:20250225T082500Z
-SUMMARY:Ballarat Summer Series 24/25 #13 - Lucas, Eureka Orienteers
+SUMMARY:Ballarat Summer Series 24/25 Event #13 - Lucas, Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22047
 GEO:-37.5464005760258;143.77693691344
 END:VEVENT
@@ -1148,14 +1121,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22052
 GEO:-33.4586631119312;151.391822542518
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21058@eventor.orienteering.asn.au
-DTSTAMP:20250106T045242Z
-DTSTART:20250301T230000Z
-DTEND:20250302T000000Z
-SUMMARY:OY1 - Cyclones Sprint Series 4 and OQ AGM - Craigslea Schools, Orienteering Queensland / QLD Cyclones
-URL:https://eventor.orienteering.asn.au/Events/Show/21058
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21722@eventor.orienteering.asn.au
 DTSTAMP:20241209T033537Z
 DTSTART:20250301T230000Z
@@ -1180,6 +1145,15 @@ DTEND:20250302T013000Z
 SUMMARY:SA Sprint Distance Championships - Roseworthy, Orienteering SA / Tintookies Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22086
 GEO:-34.5299947006868;138.687961398491
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22114@eventor.orienteering.asn.au
+DTSTAMP:20250214T025442Z
+DTSTART:20250302T000000Z
+DTEND:20250302T000000Z
+SUMMARY:OY1 - Craigslea Schools and OQ AGM, QLD Cyclones
+URL:https://eventor.orienteering.asn.au/Events/Show/22114
+GEO:-27.3805407928112;153.017122134385
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21992@eventor.orienteering.asn.au
@@ -1580,10 +1554,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21612
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21812@eventor.orienteering.asn.au
-DTSTAMP:20250116T025138Z
+DTSTAMP:20250214T104022Z
 DTSTART:20250312T040000Z
 DTEND:20250312T040000Z
-SUMMARY:First Basin - Northern Autumn Twilight Series #5, Esk Valley Orienteering Club
+SUMMARY:Royal Park - Northern Autumn Twilight Series #5, Esk Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21812
 GEO:-41.4459473587903;147.122576116757
 END:VEVENT
@@ -1669,5 +1643,14 @@ DTSTART:20250313T080000Z
 DTEND:20250313T091500Z
 SUMMARY:Geelong Park Street Thursday Summer Series - Bayside Bliss, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21720
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21937@eventor.orienteering.asn.au
+DTSTAMP:20250108T221032Z
+DTSTART:20250314T080000Z
+DTEND:20250314T080000Z
+SUMMARY:NT: 2025 Wet Season Series Event 7 - Larrakeyah/Cullen Bay, Top End Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21937
+GEO:-12.4526631487575;130.829907683516
 END:VEVENT
 END:VCALENDAR
