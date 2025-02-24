@@ -3,21 +3,12 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_21707@eventor.orienteering.asn.au
-DTSTAMP:20250218T074013Z
-DTSTART:20250217T060000Z
-DTEND:20250217T090000Z
-SUMMARY:ACT MapRun Street Series: Chifley-Pearce, 13-17 Feb, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/21707
-GEO:-35.3524273305815;149.076516849656
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21670@eventor.orienteering.asn.au
-DTSTAMP:20241206T052703Z
-DTSTART:20250217T073000Z
-DTEND:20250217T091500Z
-SUMMARY:Melbourne Park Street Monday Summer Series - Dandenong Creek, Nillumbik Emus Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21670
+UID:Event_22147@eventor.orienteering.asn.au
+DTSTAMP:20250224T011028Z
+DTSTART:20241130T130000Z
+DTEND:20250331T130000Z
+SUMMARY:2024 Xmas 5 Days Day 2 TEST EVENT, Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22147
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22049@eventor.orienteering.asn.au
@@ -268,7 +259,7 @@ GEO:-35.2486416571586;149.100575552689
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22014@eventor.orienteering.asn.au
-DTSTAMP:20250210T103946Z
+DTSTAMP:20250223T201451Z
 DTSTART:20250223T050000Z
 DTEND:20250223T050000Z
 SUMMARY:Learn to Orienteer #4, Kearneys Spring, Toowoomba, Range Runners Orienteering Club
@@ -558,7 +549,7 @@ GEO:-34.7430659165272;135.874891204693
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21862@eventor.orienteering.asn.au
-DTSTAMP:20250212T105429Z
+DTSTAMP:20250224T041727Z
 DTSTART:20250301T210000Z
 DTEND:20250302T000000Z
 SUMMARY:MapRun Series 24-25 #6. Location: Tatton, Wagga and Riverina Orienteers
@@ -618,7 +609,7 @@ GEO:-34.5297460248509;138.688378964171
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22114@eventor.orienteering.asn.au
-DTSTAMP:20250223T021604Z
+DTSTAMP:20250224T030147Z
 DTSTART:20250302T000000Z
 DTEND:20250302T000000Z
 SUMMARY:OY1 - Craigslea Schools and OQ AGM, QLD Cyclones
@@ -1536,7 +1527,7 @@ DTSTART:20250322T233000Z
 DTEND:20250323T013000Z
 SUMMARY:West Parklands, Tjuringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21978
-GEO:-34.9289645333918;138.587241001152
+GEO:-34.9293714484991;138.583461197286
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21734@eventor.orienteering.asn.au
@@ -1563,5 +1554,30 @@ DTSTART:20250323T060000Z
 DTEND:20250323T060000Z
 SUMMARY:MapRun Parks 2025 - location TBC, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20232
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21712@eventor.orienteering.asn.au
+DTSTAMP:20241209T000904Z
+DTSTART:20250324T060000Z
+DTEND:20250324T090000Z
+SUMMARY:ACT MapRun Street Series: Lyneham, 20-24 Mar, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/21712
+GEO:-35.251435487005;149.124838455325
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21675@eventor.orienteering.asn.au
+DTSTAMP:20241206T053351Z
+DTSTART:20250324T073000Z
+DTEND:20250324T091500Z
+SUMMARY:Melbourne Park Street Monday Summer Series - Academy Hill, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21675
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20828@eventor.orienteering.asn.au
+DTSTAMP:20250204T105056Z
+DTSTART:20250324T090000Z
+DTEND:20250324T090000Z
+SUMMARY:Orienteering ACT March Board Meeting, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20828
 END:VEVENT
 END:VCALENDAR
