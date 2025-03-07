@@ -11,15 +11,6 @@ SUMMARY:2024 Xmas 5 Days Day 2 TEST EVENT, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22147
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21935@eventor.orienteering.asn.au
-DTSTAMP:20250223T010045Z
-DTSTART:20250228T080000Z
-DTEND:20250228T080000Z
-SUMMARY:NT: 2025 Wet Season Series Event 5 - Moil, Top End Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21935
-GEO:-12.382095591806;130.882143084748
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21526@eventor.orienteering.asn.au
 DTSTAMP:20250301T010446Z
 DTSTART:20250228T220000Z
@@ -268,7 +259,7 @@ GEO:-41.3994972326206;147.124258281655
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21803@eventor.orienteering.asn.au
-DTSTAMP:20250306T112446Z
+DTSTAMP:20250307T022413Z
 DTSTART:20250305T043000Z
 DTEND:20250305T043000Z
 SUMMARY:Kangaroo Bay - Southern Autumn Twilight #2, Australopers Orienteering Club
@@ -548,7 +539,7 @@ GEO:-32.0659918466179;115.835364341946
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22138@eventor.orienteering.asn.au
-DTSTAMP:20250306T090531Z
+DTSTAMP:20250307T004528Z
 DTSTART:20250309T050000Z
 DTEND:20250309T080000Z
 SUMMARY:NOL 2d -Two Person Sprint Relay - Murdoch Uni, Orienteering WA
@@ -566,7 +557,7 @@ GEO:-27.4885913678568;153.063392313142
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21758@eventor.orienteering.asn.au
-DTSTAMP:20250305T001840Z
+DTSTAMP:20250307T060251Z
 DTSTART:20250309T230000Z
 DTEND:20250310T013000Z
 SUMMARY:Golden Fleece - East Coast 3 Days - Day 3  OST 2 Middle, Esk Valley Orienteering Club
@@ -667,7 +658,7 @@ DTSTART:20250312T054500Z
 DTEND:20250312T081500Z
 SUMMARY:Newcastle UFO2 - Lambton (The Skyline), Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22098
-GEO:-32.9150903749617;151.699940421248
+GEO:-32.9150241446876;151.700000331032
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20905@eventor.orienteering.asn.au
@@ -832,13 +823,13 @@ SUMMARY:MTBO1 Swanbourne, Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/22150
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20994@eventor.orienteering.asn.au
-DTSTAMP:20250306T005047Z
+UID:Event_22226@eventor.orienteering.asn.au
+DTSTAMP:20250306T225432Z
 DTSTART:20250315T210000Z
 DTEND:20250316T000000Z
 SUMMARY:Newcastle BOSS6 MTBO - Holmesville, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/20994
-GEO:-32.9207143651916;151.580211215822
+URL:https://eventor.orienteering.asn.au/Events/Show/22226
+GEO:-32.9201768430131;151.5804023626
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21863@eventor.orienteering.asn.au
@@ -904,11 +895,20 @@ GEO:-26.7485034368832;150.619559412335
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22015@eventor.orienteering.asn.au
-DTSTAMP:20250210T103836Z
-DTSTART:20250316T050000Z
-DTEND:20250316T050000Z
+DTSTAMP:20250306T214534Z
+DTSTART:20250316T043000Z
+DTEND:20250316T043000Z
 SUMMARY:Learn to Orienteer #5, Mt Peel, Toowoomba, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22015
+GEO:-27.593899561954;151.903707242463
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22016@eventor.orienteering.asn.au
+DTSTAMP:20250306T220517Z
+DTSTART:20250316T053000Z
+DTEND:20250316T053000Z
+SUMMARY:Mt Peel, Toowoomba, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22016
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21994@eventor.orienteering.asn.au
@@ -918,14 +918,6 @@ DTEND:20250316T060000Z
 SUMMARY:MapRun Parks 2025 - Rafting Ground Park, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21994
 GEO:-27.5202455998837;152.923262385094
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22016@eventor.orienteering.asn.au
-DTSTAMP:20250128T015651Z
-DTSTART:20250316T060000Z
-DTEND:20250316T060000Z
-SUMMARY:Mt Peel, Toowoomba, Range Runners Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22016
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21711@eventor.orienteering.asn.au
@@ -1155,7 +1147,7 @@ GEO:-35.0641673500928;147.35076378584
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21916@eventor.orienteering.asn.au
-DTSTAMP:20250304T101808Z
+DTSTAMP:20250306T202906Z
 DTSTART:20250322T230000Z
 DTEND:20250323T010000Z
 SUMMARY:Haddon's Farm, SW of Warwick, Bullecourt Boulder Bounders
@@ -1404,10 +1396,10 @@ GEO:-37.9702084814389;145.393092344314
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21958@eventor.orienteering.asn.au
-DTSTAMP:20250303T051625Z
+DTSTAMP:20250307T022944Z
 DTSTART:20250329T130000Z
 DTEND:20250330T130000Z
-SUMMARY:Newcastle Minor - Tingira Heights (TBC), Newcastle Orienteering Club
+SUMMARY:Newcastle Minor / Come And Try It - Eleebana (Tingira Heights West), Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21958
 END:VEVENT
 BEGIN:VEVENT
@@ -1635,14 +1627,6 @@ SUMMARY:EN Sprint Series 9, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/21084
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21959@eventor.orienteering.asn.au
-DTSTAMP:20250109T225548Z
-DTSTART:20250405T130000Z
-DTEND:20250406T140000Z
-SUMMARY:Newcastle Minor (TBC), Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21959
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21735@eventor.orienteering.asn.au
 DTSTAMP:20250222T040100Z
 DTSTART:20250405T130000Z
@@ -1701,5 +1685,13 @@ DTSTART:20250406T053000Z
 DTEND:20250406T053000Z
 SUMMARY:Oatlands - Schools Champs (Sprint+sprint) Selection #1, Australopers Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21842
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22165@eventor.orienteering.asn.au
+DTSTAMP:20250305T015239Z
+DTSTART:20250407T083000Z
+DTEND:20250407T101500Z
+SUMMARY:Melbourne Park Street Monday Night Series - Highbury Hill, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/22165
 END:VEVENT
 END:VCALENDAR
