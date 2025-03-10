@@ -11,23 +11,6 @@ SUMMARY:2024 Xmas 5 Days Day 2 TEST EVENT, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22147
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21709@eventor.orienteering.asn.au
-DTSTAMP:20250304T050231Z
-DTSTART:20250303T060000Z
-DTEND:20250303T090000Z
-SUMMARY:ACT MapRun Street Series: Deakin, 27 Feb - 3 Mar, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/21709
-GEO:-35.3147507816873;149.106543470784
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21672@eventor.orienteering.asn.au
-DTSTAMP:20241206T052946Z
-DTSTART:20250303T073000Z
-DTEND:20250303T091500Z
-SUMMARY:Melbourne Park Street Monday Summer Series - The Glen, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21672
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22121@eventor.orienteering.asn.au
 DTSTAMP:20250304T110548Z
 DTSTART:20250304T064500Z
@@ -308,7 +291,7 @@ GEO:-34.4243230418466;150.861167254806
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21901@eventor.orienteering.asn.au
-DTSTAMP:20250308T222508Z
+DTSTAMP:20250310T022702Z
 DTSTART:20250308T230000Z
 DTEND:20250309T030000Z
 SUMMARY:AWOC-Waggaroos Interclub #1 Chiltern, Albury-Wodonga Orienteering Club
@@ -361,7 +344,7 @@ GEO:-27.4885913678568;153.063392313142
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21758@eventor.orienteering.asn.au
-DTSTAMP:20250307T060251Z
+DTSTAMP:20250310T095642Z
 DTSTART:20250309T230000Z
 DTEND:20250310T013000Z
 SUMMARY:Golden Fleece - East Coast 3 Days - Day 3  OST 2 Middle, Esk Valley Orienteering Club
@@ -387,12 +370,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21673
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22122@eventor.orienteering.asn.au
-DTSTAMP:20250305T125020Z
+DTSTAMP:20250310T085732Z
 DTSTART:20250311T063000Z
 DTEND:20250311T084500Z
-SUMMARY:Ballarat Summer Orienteering Series 24/25 Event #15 - Winter Valley, Eureka Orienteers
+SUMMARY:Ballarat Summer Orienteering Series 24/25 Event #15 - Winterfield, Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22122
-GEO:-37.5862840921823;143.802812459972
+GEO:-37.5862526781711;143.796992514704
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21681@eventor.orienteering.asn.au
@@ -499,10 +482,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21688
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22156@eventor.orienteering.asn.au
-DTSTAMP:20250228T053138Z
+DTSTAMP:20250310T003137Z
 DTSTART:20250312T073000Z
 DTEND:20250312T100000Z
-SUMMARY:2025 MapRun Series - Race 2 - Centenary Lakes, Far North Orienteering Club
+SUMMARY:2025 MapRun Series - Race 2 - Centenary Lakes, Cairns, Far North Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22156
 END:VEVENT
 BEGIN:VEVENT
@@ -515,12 +498,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21580
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22162@eventor.orienteering.asn.au
-DTSTAMP:20250304T091821Z
+DTSTAMP:20250309T225350Z
 DTSTART:20250313T003000Z
 DTEND:20250313T010000Z
-SUMMARY:Emu Street (Tingalpa Creek), Orienteering Queensland
+SUMMARY:Emu Street (Tingalpa Creek) - Longton Court, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/22162
-GEO:-27.5831819016607;153.189772888063
+GEO:-27.583336683215;153.172956411731
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22136@eventor.orienteering.asn.au
@@ -673,7 +656,7 @@ GEO:-28.4318252077562;152.034585853998
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21726@eventor.orienteering.asn.au
-DTSTAMP:20250309T034237Z
+DTSTAMP:20250310T063556Z
 DTSTART:20250316T000000Z
 DTEND:20250316T020000Z
 SUMMARY:HOG March Orienteering, Hastings Orienteering Group
@@ -979,7 +962,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21902
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21610@eventor.orienteering.asn.au
-DTSTAMP:20250303T003604Z
+DTSTAMP:20250310T012813Z
 DTSTART:20250322T230000Z
 DTEND:20250323T023000Z
 SUMMARY:2025 NSW State League #2 - Falnash, Big Foot Orienteers
@@ -1577,5 +1560,22 @@ DTEND:20250409T110000Z
 SUMMARY:Newcastle Night Champs - Lambton (Lambton Park), Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22101
 GEO:-32.9122809420384;151.709333814714
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22196@eventor.orienteering.asn.au
+DTSTAMP:20250306T013328Z
+DTSTART:20250410T003000Z
+DTEND:20250410T010000Z
+SUMMARY:Daisy Hill Reserve, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/22196
+GEO:-27.6188241768207;153.151395146489
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20829@eventor.orienteering.asn.au
+DTSTAMP:20240506T014532Z
+DTSTART:20250410T100000Z
+DTEND:20250410T100000Z
+SUMMARY:Orienteering ACT April Board Meeting, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/20829
 END:VEVENT
 END:VCALENDAR
