@@ -11,15 +11,6 @@ SUMMARY:2024 Xmas 5 Days Day 2 TEST EVENT, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22147
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21936@eventor.orienteering.asn.au
-DTSTAMP:20250301T052124Z
-DTSTART:20250307T080000Z
-DTEND:20250307T080000Z
-SUMMARY:NT: 2025 Wet Season Series Event 6 - Lyons, Top End Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21936
-GEO:-12.3584416827682;130.888455594025
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22063@eventor.orienteering.asn.au
 DTSTAMP:20250308T061410Z
 DTSTART:20250307T210000Z
@@ -368,7 +359,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22136
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22009@eventor.orienteering.asn.au
-DTSTAMP:20250117T102245Z
+DTSTAMP:20250314T030946Z
 DTSTART:20250313T080000Z
 DTEND:20250313T080000Z
 SUMMARY:Night Nav - EN Nth - Petrie South, Enoggeroos
@@ -491,6 +482,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22131
 GEO:-34.8822462045496;138.700987794691
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22243@eventor.orienteering.asn.au
+DTSTAMP:20250314T110943Z
+DTSTART:20250315T233000Z
+DTEND:20250316T013000Z
+SUMMARY:Port Lincoln: Navigator College, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22243
+GEO:-34.7437603968313;135.85940764852
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_22225@eventor.orienteering.asn.au
 DTSTAMP:20250306T094344Z
 DTSTART:20250316T000000Z
@@ -501,10 +501,10 @@ GEO:-28.4318252077562;152.034585853998
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21726@eventor.orienteering.asn.au
-DTSTAMP:20250310T063556Z
+DTSTAMP:20250314T063611Z
 DTSTART:20250316T000000Z
 DTEND:20250316T020000Z
-SUMMARY:HOG March Orienteering, Hastings Orienteering Group
+SUMMARY:HOG Cattle Brook Creek Orienteering, Hastings Orienteering Group
 URL:https://eventor.orienteering.asn.au/Events/Show/21726
 GEO:-31.4507884766251;152.90736941904
 END:VEVENT
@@ -1074,10 +1074,10 @@ GEO:-37.9702084814389;145.393092344314
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21958@eventor.orienteering.asn.au
-DTSTAMP:20250307T022944Z
+DTSTAMP:20250314T035542Z
 DTSTART:20250329T130000Z
 DTEND:20250330T130000Z
-SUMMARY:Newcastle Minor / Come And Try It - Eleebana (Tingira Heights West), Newcastle Orienteering Club
+SUMMARY:Newcastle Bush Warm-up / Come And Try It - Eleebana (Tingira Heights West), Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21958
 END:VEVENT
 BEGIN:VEVENT
@@ -1115,6 +1115,15 @@ DTEND:20250329T230000Z
 SUMMARY:Jericho, near Crows Nest - NEW MAP, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22087
 GEO:-27.3217511564484;152.005551705134
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22244@eventor.orienteering.asn.au
+DTSTAMP:20250314T112207Z
+DTSTART:20250329T230000Z
+DTEND:20250330T003000Z
+SUMMARY:Port Lincoln: Coffin Bay, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22244
+GEO:-34.6216187891486;135.467717635876
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22071@eventor.orienteering.asn.au
@@ -1368,10 +1377,10 @@ GEO:-35.0261017458759;139.147241112537
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21842@eventor.orienteering.asn.au
-DTSTAMP:20241219T005048Z
+DTSTAMP:20250313T224112Z
 DTSTART:20250406T053000Z
 DTEND:20250406T053000Z
-SUMMARY:Oatlands - Schools Champs (Sprint+sprint) Selection #1, Australopers Orienteering Club
+SUMMARY:Dominic College - Glenorchy - Schools Champs (Sprint+sprint) Selection #1, Australopers Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21842
 END:VEVENT
 BEGIN:VEVENT
@@ -1554,10 +1563,19 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21777
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21727@eventor.orienteering.asn.au
-DTSTAMP:20241209T070804Z
+DTSTAMP:20250314T064404Z
 DTSTART:20250413T010000Z
 DTEND:20250413T030000Z
-SUMMARY:HOG April Orienteering, Hastings Orienteering Group
+SUMMARY:HOG Lake Cathie Orienteering, Hastings Orienteering Group
 URL:https://eventor.orienteering.asn.au/Events/Show/21727
+GEO:-31.5544016522583;152.851284974602
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22166@eventor.orienteering.asn.au
+DTSTAMP:20250305T015826Z
+DTSTART:20250414T083000Z
+DTEND:20250414T101500Z
+SUMMARY:Melbourne Park Street Monday Night Series - Kangaroo Very Flat, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/22166
 END:VEVENT
 END:VCALENDAR
