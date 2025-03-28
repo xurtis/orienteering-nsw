@@ -336,7 +336,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22292
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22008@eventor.orienteering.asn.au
-DTSTAMP:20250318T122358Z
+DTSTAMP:20250327T222639Z
 DTSTART:20250327T080000Z
 DTEND:20250327T080000Z
 SUMMARY:Night Nav - EN Nth - Griffin, Enoggeroos
@@ -374,7 +374,7 @@ UID:Event_20964@eventor.orienteering.asn.au
 DTSTAMP:20250323T011200Z
 DTSTART:20250329T220000Z
 DTEND:20250330T003000Z
-SUMMARY:The Great Volcanic Mountain Challenge, Goldseekers Orienteers / Orienteering NSW
+SUMMARY:The Great Volcanic Mountain Challenge, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20964
 GEO:-33.3473186786902;149.028528728265
 END:VEVENT
@@ -407,10 +407,10 @@ GEO:-32.998499769048;151.652192126852
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22087@eventor.orienteering.asn.au
-DTSTAMP:20250316T125408Z
+DTSTAMP:20250328T004238Z
 DTSTART:20250329T230000Z
 DTEND:20250329T230000Z
-SUMMARY:Jericho, near Crows Nest - NEW MAP, Range Runners Orienteering Club
+SUMMARY:Jericho, near Crows Nest - POSTPONED to 25 May, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22087
 GEO:-27.3217511564484;152.005551705134
 END:VEVENT
@@ -660,7 +660,7 @@ GEO:-35.1164987315841;147.296267503431
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21772@eventor.orienteering.asn.au
-DTSTAMP:20250325T002044Z
+DTSTAMP:20250328T104150Z
 DTSTART:20250405T230000Z
 DTEND:20250406T010000Z
 SUMMARY:OY2 - The Galahs, Mountain Park, nth of Dalveen, Bullecourt Boulder Bounders
@@ -1146,5 +1146,21 @@ DTEND:20250427T060000Z
 SUMMARY:MapRun Parks 2025 - Anzac Park, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22258
 GEO:-27.4809513182691;152.982183533396
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22326@eventor.orienteering.asn.au
+DTSTAMP:20250325T014414Z
+DTSTART:20250428T070000Z
+DTEND:20250428T100000Z
+SUMMARY:ACT MapRun Street Series: Coombs, 24-28 Apr, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/22326
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22167@eventor.orienteering.asn.au
+DTSTAMP:20250305T015926Z
+DTSTART:20250428T083000Z
+DTEND:20250428T101500Z
+SUMMARY:Melbourne Park Street Monday Night Series - Abbey Walk, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/22167
 END:VEVENT
 END:VCALENDAR
