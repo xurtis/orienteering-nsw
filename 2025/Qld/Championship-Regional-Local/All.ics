@@ -11,69 +11,6 @@ SUMMARY:2024 Xmas 5 Days Day 2 TEST EVENT, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22147
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22024@eventor.orienteering.asn.au
-DTSTAMP:20250223T013827Z
-DTSTART:20250321T130000Z
-DTEND:20250322T130000Z
-SUMMARY:Bush coaching day - Chewton, Melbourne Forest Racers
-URL:https://eventor.orienteering.asn.au/Events/Show/22024
-GEO:-37.0726507469467;144.259280482661
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22105@eventor.orienteering.asn.au
-DTSTAMP:20250322T225850Z
-DTSTART:20250321T140000Z
-DTEND:20250322T140000Z
-SUMMARY:Map Run Parks - Gold Coast - Event #3 22nd Mar. Varsity Lakes., Paradise Lost Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22105
-GEO:-28.0930532246561;153.416558246233
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21856@eventor.orienteering.asn.au
-DTSTAMP:20250220T042755Z
-DTSTART:20250321T230000Z
-DTEND:20250322T060000Z
-SUMMARY:Orienteering SA Level 2 Controller Workshop - Sat 22nd March, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/21856
-GEO:-34.944424771295;138.622309368355
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22153@eventor.orienteering.asn.au
-DTSTAMP:20250315T033228Z
-DTSTART:20250322T003000Z
-DTEND:20250322T003000Z
-SUMMARY:Girls Coaching Weekend, Bold Horizons Event Organiser / Orienteering NSW
-URL:https://eventor.orienteering.asn.au/Events/Show/22153
-GEO:-33.7731809334427;151.113653060117
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21127@eventor.orienteering.asn.au
-DTSTAMP:20250322T033246Z
-DTSTART:20250322T010000Z
-DTEND:20250322T023000Z
-SUMMARY:2025 NSW State League #1 - NSW Sprint Champs, Garingal Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21127
-GEO:-33.7730126705937;151.113543947214
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21998@eventor.orienteering.asn.au
-DTSTAMP:20250322T054546Z
-DTSTART:20250322T040000Z
-DTEND:20250322T060000Z
-SUMMARY:Tatterson Tangle Saturday Afternoon Sprint, Dandenong Ranges Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21998
-GEO:-37.9978504954062;145.154419329733
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22091@eventor.orienteering.asn.au
-DTSTAMP:20250323T120136Z
-DTSTART:20250322T070000Z
-DTEND:20250322T070000Z
-SUMMARY:Albany - Mt Melville, Albany & Denmark Hinterland Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22091
-GEO:-35.0177408520852;117.870681693044
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22232@eventor.orienteering.asn.au
 DTSTAMP:20250308T131945Z
 DTSTART:20250322T143000Z
@@ -345,7 +282,7 @@ GEO:-27.2658982457977;153.021779899338
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21942@eventor.orienteering.asn.au
-DTSTAMP:20250218T041145Z
+DTSTAMP:20250329T034616Z
 DTSTART:20250329T013000Z
 DTEND:20250329T013000Z
 SUMMARY:Bendigo Bush - Brown Reef, Bendigo Orienteers
@@ -434,10 +371,10 @@ GEO:-30.5764847223276;151.711659266651
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21927@eventor.orienteering.asn.au
-DTSTAMP:20250305T060054Z
+DTSTAMP:20250329T031416Z
 DTSTART:20250329T230000Z
 DTEND:20250330T013000Z
-SUMMARY:Sherwood Arboretum - Come and Try Orienteering, Orienteering Queensland
+SUMMARY:CANCELLED Sherwood Arboretum - Come and Try Orienteering, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/21927
 GEO:-27.5319760319439;152.973270543758
 END:VEVENT
@@ -581,7 +518,7 @@ GEO:-27.4678748720223;152.943491105214
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22059@eventor.orienteering.asn.au
-DTSTAMP:20250318T064502Z
+DTSTAMP:20250329T012518Z
 DTSTART:20250404T140000Z
 DTEND:20250406T140000Z
 SUMMARY:Skills development weekend – Stanthorpe, Orienteering Queensland
@@ -894,6 +831,15 @@ SUMMARY:Newcastle NOY1 - Elrington (Hebburn Road), Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22316
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22351@eventor.orienteering.asn.au
+DTSTAMP:20250329T064841Z
+DTSTART:20250413T000000Z
+DTEND:20250413T020000Z
+SUMMARY:Goldseekers Bush Series #2 - Bridle Track Reserve, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22351
+GEO:-33.2462261228413;149.161219172061
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21867@eventor.orienteering.asn.au
 DTSTAMP:20241224T034223Z
 DTSTART:20250413T000000Z
@@ -982,9 +928,9 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22209
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22154@eventor.orienteering.asn.au
-DTSTAMP:20250302T231305Z
+DTSTAMP:20250328T192605Z
 DTSTART:20250416T140000Z
-DTEND:20250417T140000Z
+DTEND:20250428T140000Z
 SUMMARY:Australian Easter 3 Days camping at Newbridge, Orienteering Victoria
 URL:https://eventor.orienteering.asn.au/Events/Show/22154
 GEO:-36.7408105190382;143.902568045488
@@ -1162,5 +1108,21 @@ DTSTART:20250428T083000Z
 DTEND:20250428T101500Z
 SUMMARY:Melbourne Park Street Monday Night Series - Abbey Walk, Orienteering Victoria
 URL:https://eventor.orienteering.asn.au/Events/Show/22167
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20407@eventor.orienteering.asn.au
+DTSTAMP:20241012T215819Z
+DTSTART:20250429T073000Z
+DTEND:20250429T090000Z
+SUMMARY:Night Nav - Term  2 series - Event  #1, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/20407
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22185@eventor.orienteering.asn.au
+DTSTAMP:20250305T043829Z
+DTSTART:20250429T083000Z
+DTEND:20250429T101500Z
+SUMMARY:Melbourne Park Street Tuesday Night Series - Newport, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22185
 END:VEVENT
 END:VCALENDAR
