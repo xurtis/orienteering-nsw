@@ -11,31 +11,6 @@ SUMMARY:2024 Xmas 5 Days Day 2 TEST EVENT, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22147
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21582@eventor.orienteering.asn.au
-DTSTAMP:20250327T005724Z
-DTSTART:20250326T204500Z
-DTEND:20250326T214500Z
-SUMMARY:SC-ORE #3: St Jude's Primary School, Holder, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/21582
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22292@eventor.orienteering.asn.au
-DTSTAMP:20250317T074857Z
-DTSTART:20250327T051500Z
-DTEND:20250327T063000Z
-SUMMARY:Central Adelaide Schools Zone Event 4 East Adelaide School, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/22292
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22008@eventor.orienteering.asn.au
-DTSTAMP:20250327T222639Z
-DTSTART:20250327T080000Z
-DTEND:20250327T080000Z
-SUMMARY:Night Nav - EN Nth - Griffin, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/22008
-GEO:-27.2658982457977;153.021779899338
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21942@eventor.orienteering.asn.au
 DTSTAMP:20250329T034616Z
 DTSTART:20250329T013000Z
@@ -230,7 +205,7 @@ GEO:-26.7520147663968;153.12277943491
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21807@eventor.orienteering.asn.au
-DTSTAMP:20250324T110129Z
+DTSTAMP:20250403T032552Z
 DTSTART:20250402T043000Z
 DTEND:20250402T073000Z
 SUMMARY:Waterworks - Southern Autumn Twilight #6, Australopers Orienteering Club
@@ -239,7 +214,7 @@ GEO:-42.9067875539229;147.296515419259
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21230@eventor.orienteering.asn.au
-DTSTAMP:20250402T003745Z
+DTSTAMP:20250402T224428Z
 DTSTART:20250402T051500Z
 DTEND:20250402T081500Z
 SUMMARY:2024/25 Sydney Summer Series #26 - Northbridge, Garingal Orienteers
@@ -256,15 +231,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22201
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21583@eventor.orienteering.asn.au
-DTSTAMP:20241205T003823Z
+DTSTAMP:20250403T054415Z
 DTSTART:20250402T204500Z
-DTEND:20250402T214500Z
+DTEND:20250402T230000Z
 SUMMARY:SC-ORE #4: Charles Weston Primary School, Coombs, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/21583
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22195@eventor.orienteering.asn.au
-DTSTAMP:20250331T070804Z
+DTSTAMP:20250403T035805Z
 DTSTART:20250403T003000Z
 DTEND:20250403T010000Z
 SUMMARY:Rocks Riverside Park (change from Grey Gums), Orienteering Queensland
@@ -352,7 +327,7 @@ GEO:-35.1164987315841;147.296267503431
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21772@eventor.orienteering.asn.au
-DTSTAMP:20250402T113810Z
+DTSTAMP:20250403T100945Z
 DTSTART:20250405T230000Z
 DTEND:20250406T010000Z
 SUMMARY:OY2 - The Galahs, Mountain Park, nth of Dalveen, Bullecourt Boulder Bounders / Orienteering Queensland
@@ -474,7 +449,7 @@ GEO:-34.7236705555164;138.826356583619
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22358@eventor.orienteering.asn.au
-DTSTAMP:20250401T053312Z
+DTSTAMP:20250402T215524Z
 DTSTART:20250409T080000Z
 DTEND:20250409T130000Z
 SUMMARY:MFR OE training workshop, Melbourne Forest Racers
@@ -499,7 +474,7 @@ GEO:-32.9122809420384;151.709333814714
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22196@eventor.orienteering.asn.au
-DTSTAMP:20250331T070322Z
+DTSTAMP:20250403T072356Z
 DTSTART:20250410T003000Z
 DTEND:20250410T010000Z
 SUMMARY:Daisy Hill,  Bush, Orienteering Queensland
@@ -719,7 +694,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22000
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22160@eventor.orienteering.asn.au
-DTSTAMP:20250228T055940Z
+DTSTAMP:20250403T041901Z
 DTSTART:20250417T140000Z
 DTEND:20250427T140000Z
 SUMMARY:NSW Bluebottles April Camp - Victoria, Orienteering NSW
@@ -915,5 +890,48 @@ DTSTART:20250430T083000Z
 DTEND:20250430T101500Z
 SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - MitchelHill, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22210
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21056@eventor.orienteering.asn.au
+DTSTAMP:20250325T004026Z
+DTSTART:20250502T140000Z
+DTEND:20250504T140000Z
+SUMMARY:Qld Long Distance Champs - Gurulmundi, Orienteering Queensland / Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21056
+GEO:-26.4914536518516;150.079390164219
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22235@eventor.orienteering.asn.au
+DTSTAMP:20250308T130354Z
+DTSTART:20250502T143000Z
+DTEND:20250503T143000Z
+SUMMARY:NT: 2025 Buley (Litchfield) coaching, Top End Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22235
+GEO:-13.1010749605025;130.78484510266
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22064@eventor.orienteering.asn.au
+DTSTAMP:20250206T025108Z
+DTSTART:20250503T000000Z
+DTEND:20250503T010000Z
+SUMMARY:ACT Learn to Orienteer, Week 1 and Registration, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/22064
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21488@eventor.orienteering.asn.au
+DTSTAMP:20250324T005454Z
+DTSTART:20250503T003000Z
+DTEND:20250503T030000Z
+SUMMARY:ACT Metro Series: incl. Junior League #1, Weston Park, Bushflyers
+URL:https://eventor.orienteering.asn.au/Events/Show/21488
+GEO:-35.2923564339249;149.08988938947
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22215@eventor.orienteering.asn.au
+DTSTAMP:20250306T050949Z
+DTSTART:20250503T040000Z
+DTEND:20250503T051000Z
+SUMMARY:Melbourne Park Street Saturday Series - Yarran Dheran, Dandenong Ranges Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22215
 END:VEVENT
 END:VCALENDAR
