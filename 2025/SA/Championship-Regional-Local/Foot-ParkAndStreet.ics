@@ -291,15 +291,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22104
 GEO:-27.9036436367754;153.325917680571
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22348@eventor.orienteering.asn.au
-DTSTAMP:20250403T221341Z
-DTSTART:20250405T130000Z
-DTEND:20250406T140000Z
-SUMMARY:Dominic College - Tasmanian Schools Sprint Championships + Public Race, Australopers Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22348
-GEO:-42.8493754;147.2584729
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21866@eventor.orienteering.asn.au
 DTSTAMP:20250327T034359Z
 DTSTART:20250405T230000Z
@@ -310,7 +301,7 @@ GEO:-35.1164987315841;147.296267503431
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21772@eventor.orienteering.asn.au
-DTSTAMP:20250405T071522Z
+DTSTAMP:20250406T025629Z
 DTSTART:20250405T230000Z
 DTEND:20250406T010000Z
 SUMMARY:OY2 - The Galahs, Mountain Park, nth of Dalveen, Bullecourt Boulder Bounders / Orienteering Queensland
@@ -318,8 +309,17 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21772
 GEO:-28.4683767302724;151.990704914514
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22348@eventor.orienteering.asn.au
+DTSTAMP:20250406T105542Z
+DTSTART:20250405T230000Z
+DTEND:20250406T050000Z
+SUMMARY:Dominic College - Tasmanian Schools Sprint Championships + Public Race, Australopers Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22348
+GEO:-42.8493754;147.2584729
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21735@eventor.orienteering.asn.au
-DTSTAMP:20250331T095554Z
+DTSTAMP:20250406T032338Z
 DTSTART:20250406T000000Z
 DTEND:20250406T000000Z
 SUMMARY:Vic Series 2 - Mt Beckworth, Clunes, Eureka Orienteers
@@ -336,7 +336,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22192
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20909@eventor.orienteering.asn.au
-DTSTAMP:20250402T103006Z
+DTSTAMP:20250406T032041Z
 DTSTART:20250406T000000Z
 DTEND:20250406T040000Z
 SUMMARY:ACT Long Championships: ACT League #3, NSW SL #4, Highlands, Abominable O-Men / Orienteering ACT / Orienteering NSW
@@ -354,7 +354,7 @@ GEO:-33.0404199758641;137.58488712088
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21886@eventor.orienteering.asn.au
-DTSTAMP:20250331T060237Z
+DTSTAMP:20250406T071434Z
 DTSTART:20250406T003000Z
 DTEND:20250406T040000Z
 SUMMARY:OY #2 Ngaralta , Tintookies Orienteers
@@ -362,22 +362,22 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21886
 GEO:-35.0261017458759;139.147241112537
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22261@eventor.orienteering.asn.au
-DTSTAMP:20250320T135050Z
-DTSTART:20250406T010000Z
-DTEND:20250406T033000Z
-SUMMARY:MTBO2 Thornlie, Albany & Denmark Hinterland Orienteering Club / Bibbulmun Orienteers / Orienteering WA
-URL:https://eventor.orienteering.asn.au/Events/Show/22261
-GEO:-32.0475741238061;115.963916679807
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22255@eventor.orienteering.asn.au
-DTSTAMP:20250330T104004Z
+DTSTAMP:20250406T094054Z
 DTSTART:20250406T060000Z
 DTEND:20250406T060000Z
 SUMMARY:MapRun Parks 2025 - Jamboree Heights, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22255
 GEO:-27.552055025964;152.929402632687
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22261@eventor.orienteering.asn.au
+DTSTAMP:20250406T014517Z
+DTSTART:20250407T040000Z
+DTEND:20250407T090000Z
+SUMMARY:MTBO2 Thornlie, Albany & Denmark Hinterland Orienteering Club / Bibbulmun Orienteers / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/22261
+GEO:-32.0475741238061;115.963916679807
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22324@eventor.orienteering.asn.au
