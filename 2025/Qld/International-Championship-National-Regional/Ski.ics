@@ -3,47 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_22147@eventor.orienteering.asn.au
-DTSTAMP:20250316T130203Z
-DTSTART:20241130T130000Z
-DTEND:20250331T130000Z
-SUMMARY:2024 Xmas 5 Days Day 2 TEST EVENT, Uringa Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22147
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22293@eventor.orienteering.asn.au
-DTSTAMP:20250318T000926Z
-DTSTART:20250330T210000Z
-DTEND:20250330T210000Z
-SUMMARY:KID-O information meeting, Orienteering ACT / Orienteering NSW / Orienteering Queensland / Orienteering SA / Orienteering Tasmania / Orienteering Victoria / Orienteering WA
-URL:https://eventor.orienteering.asn.au/Events/Show/22293
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21713@eventor.orienteering.asn.au
-DTSTAMP:20250401T101430Z
-DTSTART:20250331T060000Z
-DTEND:20250331T090000Z
-SUMMARY:ACT MapRun Street Series: Amaroo, 27-31 Mar, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/21713
-GEO:-35.1787054470245;149.130879981679
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21701@eventor.orienteering.asn.au
-DTSTAMP:20241209T000908Z
-DTSTART:20250331T060100Z
-DTEND:20250331T060200Z
-SUMMARY:ACT MapRun Street Series January-March Season Pass, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/21701
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22164@eventor.orienteering.asn.au
-DTSTAMP:20250305T014753Z
-DTSTART:20250331T073000Z
-DTEND:20250331T091500Z
-SUMMARY:Melbourne Park Street Monday Night Series - Rowville Lakes, Orienteering Victoria
-URL:https://eventor.orienteering.asn.au/Events/Show/22164
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22125@eventor.orienteering.asn.au
 DTSTAMP:20250401T125724Z
 DTSTART:20250401T064500Z
@@ -202,7 +161,7 @@ GEO:-42.8493754;147.2584729
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21735@eventor.orienteering.asn.au
-DTSTAMP:20250406T032338Z
+DTSTAMP:20250407T201959Z
 DTSTART:20250406T000000Z
 DTEND:20250406T000000Z
 SUMMARY:Vic Series 2 - Mt Beckworth, Clunes, Eureka Orienteers
@@ -228,7 +187,7 @@ GEO:-36.5355265250377;149.399896336728
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22318@eventor.orienteering.asn.au
-DTSTAMP:20250324T070754Z
+DTSTAMP:20250408T064842Z
 DTSTART:20250406T003000Z
 DTEND:20250406T033000Z
 SUMMARY:Whyalla East, Saltbush Orienteers
@@ -255,16 +214,16 @@ GEO:-27.552055025964;152.929402632687
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22261@eventor.orienteering.asn.au
-DTSTAMP:20250406T014517Z
-DTSTART:20250407T040000Z
-DTEND:20250407T090000Z
+DTSTAMP:20250408T085906Z
+DTSTART:20250407T000000Z
+DTEND:20250407T020000Z
 SUMMARY:MTBO2 Thornlie, Albany & Denmark Hinterland Orienteering Club / Bibbulmun Orienteers / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/22261
 GEO:-32.0475741238061;115.963916679807
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22324@eventor.orienteering.asn.au
-DTSTAMP:20250325T014410Z
+DTSTAMP:20250408T052926Z
 DTSTART:20250407T070000Z
 DTEND:20250407T100000Z
 SUMMARY:ACT MapRun Street Series: Duffy, 3-7 Apr, Orienteering ACT
@@ -340,12 +299,12 @@ GEO:-32.9122809420384;151.709333814714
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22196@eventor.orienteering.asn.au
-DTSTAMP:20250403T072356Z
+DTSTAMP:20250408T065604Z
 DTSTART:20250410T003000Z
 DTEND:20250410T010000Z
-SUMMARY:Daisy Hill,  Bush, Orienteering Queensland
+SUMMARY:LAST MINUTE CHANGE OF VENUE Tilley Road, Chandler, Bush MAPRUN, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/22196
-GEO:-27.6188241768207;153.151395146489
+GEO:-27.5157994024937;153.14832206293
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20829@eventor.orienteering.asn.au
@@ -420,12 +379,12 @@ GEO:-27.9189059764202;153.358238376214
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21604@eventor.orienteering.asn.au
-DTSTAMP:20250401T232801Z
+DTSTAMP:20250408T084419Z
 DTSTART:20250412T233000Z
 DTEND:20250412T233000Z
 SUMMARY:2025 Metro League #1 - Centennial Park, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21604
-GEO:-33.9025245012959;151.239094646401
+GEO:-33.903981226119;151.230310293728
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22316@eventor.orienteering.asn.au
@@ -928,5 +887,22 @@ DTSTART:20250506T083000Z
 DTEND:20250506T101500Z
 SUMMARY:Melbourne Park Street Tuesday Night Series - Moonee Ponds North, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22187
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22360@eventor.orienteering.asn.au
+DTSTAMP:20250401T054908Z
+DTSTART:20250506T140000Z
+DTEND:20250511T140000Z
+SUMMARY:Sydney MapRun Series 2025 #3 Bondi Beach NEW MAP, Bennelong Northside Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22360
+GEO:-33.8904884465971;151.277262754228
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22203@eventor.orienteering.asn.au
+DTSTAMP:20250306T045227Z
+DTSTART:20250507T083000Z
+DTEND:20250507T101500Z
+SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - Camberwell, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22203
 END:VEVENT
 END:VCALENDAR
