@@ -3,32 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_22125@eventor.orienteering.asn.au
-DTSTAMP:20250401T125724Z
-DTSTART:20250401T064500Z
-DTEND:20250401T064500Z
-SUMMARY:Ballarat Summer Orienteering Series 24/25 Event #18 - Victoria Park, Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22125
-GEO:-37.5576171049418;143.822349245885
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22183@eventor.orienteering.asn.au
-DTSTAMP:20250305T043425Z
-DTSTART:20250401T073000Z
-DTEND:20250401T091500Z
-SUMMARY:Melbourne Park Street Tuesday Night Series - Rifle Range, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22183
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22181@eventor.orienteering.asn.au
-DTSTAMP:20250402T002900Z
-DTSTART:20250401T080000Z
-DTEND:20250401T080000Z
-SUMMARY:Night Nav - Bok Beach, Sunshine Orienteers Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22181
-GEO:-26.7520147663968;153.12277943491
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21807@eventor.orienteering.asn.au
 DTSTAMP:20250403T032552Z
 DTSTART:20250402T043000Z
@@ -70,6 +44,15 @@ DTEND:20250403T010000Z
 SUMMARY:Rocks Riverside Park (change from Grey Gums), Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/22195
 GEO:-27.5415309406446;152.959284664661
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22104@eventor.orienteering.asn.au
+DTSTAMP:20250408T222439Z
+DTSTART:20250404T140000Z
+DTEND:20250405T140000Z
+SUMMARY:RESCHEDULED - Map Run Parks - Gold Coast - Event #2 5th Apr, Helensvale., Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22104
+GEO:-27.9036436367754;153.325917680571
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22059@eventor.orienteering.asn.au
@@ -122,15 +105,6 @@ DTSTART:20250405T030000Z
 DTEND:20250405T041000Z
 SUMMARY:Melbourne Park Street Saturday Series - Valley Reserve, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22218
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22104@eventor.orienteering.asn.au
-DTSTAMP:20250307T222650Z
-DTSTART:20250405T063000Z
-DTEND:20250405T083000Z
-SUMMARY:RESCHEDULED - Map Run Parks - Gold Coast - Event #2 5th Apr, Helensvale., Paradise Lost Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22104
-GEO:-27.9036436367754;153.325917680571
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21866@eventor.orienteering.asn.au
@@ -274,7 +248,7 @@ GEO:-34.7236705555164;138.826356583619
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22358@eventor.orienteering.asn.au
-DTSTAMP:20250402T215524Z
+DTSTAMP:20250409T105803Z
 DTSTART:20250409T080000Z
 DTEND:20250409T130000Z
 SUMMARY:MFR OE training workshop, Melbourne Forest Racers
@@ -290,7 +264,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22205
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22101@eventor.orienteering.asn.au
-DTSTAMP:20250406T194155Z
+DTSTAMP:20250409T101907Z
 DTSTART:20250409T090000Z
 DTEND:20250409T110000Z
 SUMMARY:Newcastle Night Champs - Lambton (Lambton Park), Newcastle Orienteering Club
@@ -323,6 +297,15 @@ DTEND:20250412T140000Z
 SUMMARY:Vic MTBO Middle Distance Championships 2025, Bayside Kangaroos Orienteers / Melbourne Forest Racers / Yarra Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21631
 GEO:-37.0501489807354;144.227201228675
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22382@eventor.orienteering.asn.au
+DTSTAMP:20250409T001810Z
+DTSTART:20250411T140000Z
+DTEND:20250413T140000Z
+SUMMARY:Vikings Training , VIC Vikings
+URL:https://eventor.orienteering.asn.au/Events/Show/22382
+GEO:-36.7010104463157;144.239668804475
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21630@eventor.orienteering.asn.au
@@ -502,12 +485,12 @@ GEO:-36.7408105190382;143.902568045488
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_19694@eventor.orienteering.asn.au
-DTSTAMP:20250407T042648Z
+DTSTAMP:20250409T042521Z
 DTSTART:20250417T003000Z
 DTEND:20250417T013000Z
 SUMMARY:Victoria Park/Barrambin, off Herston Rd, Herston (BCC Event), Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/19694
-GEO:-27.4519593880048;153.022867264368
+GEO:-27.4497826729664;153.022413596425
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22000@eventor.orienteering.asn.au
@@ -617,10 +600,10 @@ GEO:-36.5997827330394;143.632570137507
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21086@eventor.orienteering.asn.au
-DTSTAMP:20250318T111703Z
+DTSTAMP:20250409T022012Z
 DTSTART:20250426T043000Z
 DTEND:20250426T060000Z
-SUMMARY:EN L2O Series 1 - Upper Kedron Reserve, Enoggeroos
+SUMMARY:EN L2O Series 1 - Venue tbc, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/21086
 END:VEVENT
 BEGIN:VEVENT
@@ -693,6 +676,15 @@ SUMMARY:Night Nav - Bardon - Term  2 series - Event  #1, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/20407
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22383@eventor.orienteering.asn.au
+DTSTAMP:20250409T050151Z
+DTSTART:20250429T080000Z
+DTEND:20250429T080000Z
+SUMMARY:Night Nav - Cranks Creek, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22383
+GEO:-26.4097258209037;153.029576005821
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_22185@eventor.orienteering.asn.au
 DTSTAMP:20250305T043829Z
 DTSTART:20250429T083000Z
@@ -736,15 +728,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21056
 GEO:-26.4914536518516;150.079390164219
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22235@eventor.orienteering.asn.au
-DTSTAMP:20250308T130354Z
-DTSTART:20250502T143000Z
-DTEND:20250503T143000Z
-SUMMARY:NT: 2025 Buley (Litchfield) coaching, Top End Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22235
-GEO:-13.1010749605025;130.78484510266
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22064@eventor.orienteering.asn.au
 DTSTAMP:20250206T025108Z
 DTSTART:20250503T000000Z
@@ -777,15 +760,6 @@ DTEND:20250504T140000Z
 SUMMARY:MelBushO 3 - Granite Hills, South Morang, Yarra Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21786
 GEO:-37.6294508522083;145.077723538062
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22234@eventor.orienteering.asn.au
-DTSTAMP:20250308T125802Z
-DTSTART:20250503T143000Z
-DTEND:20250504T143000Z
-SUMMARY:NT: 2025 Florence Falls (Litchfield), Top End Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22234
-GEO:-13.1010749605025;130.78484510266
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21602@eventor.orienteering.asn.au
@@ -879,6 +853,15 @@ DTSTART:20250506T073000Z
 DTEND:20250506T091500Z
 SUMMARY:Night Nav - Corinda -  Term 2 Series Event #2, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21423
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22384@eventor.orienteering.asn.au
+DTSTAMP:20250409T073850Z
+DTSTART:20250506T080000Z
+DTEND:20250506T080000Z
+SUMMARY:Night Nav - Pelican Waters, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22384
+GEO:-26.833447816696;153.118955964308
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22187@eventor.orienteering.asn.au
