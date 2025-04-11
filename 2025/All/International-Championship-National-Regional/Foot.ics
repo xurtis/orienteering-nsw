@@ -3,23 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_21583@eventor.orienteering.asn.au
-DTSTAMP:20250403T054415Z
-DTSTART:20250402T204500Z
-DTEND:20250402T230000Z
-SUMMARY:SC-ORE #4: Charles Weston Primary School, Coombs, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/21583
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22195@eventor.orienteering.asn.au
-DTSTAMP:20250403T035805Z
-DTSTART:20250403T003000Z
-DTEND:20250403T010000Z
-SUMMARY:Rocks Riverside Park (change from Grey Gums), Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/22195
-GEO:-27.5415309406446;152.959284664661
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22104@eventor.orienteering.asn.au
 DTSTAMP:20250408T222439Z
 DTSTART:20250404T140000Z
@@ -82,10 +65,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22218
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22386@eventor.orienteering.asn.au
-DTSTAMP:20250410T072141Z
+DTSTAMP:20250410T221919Z
 DTSTART:20250405T130000Z
 DTEND:20250406T140000Z
-SUMMARY:Test 2 School Sprints, Australopers Orienteering Club
+SUMMARY:School Sprints Production Test, Australopers Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22386
 END:VEVENT
 BEGIN:VEVENT
@@ -108,7 +91,7 @@ GEO:-28.4683767302724;151.990704914514
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22348@eventor.orienteering.asn.au
-DTSTAMP:20250406T105542Z
+DTSTAMP:20250411T115639Z
 DTSTART:20250405T230000Z
 DTEND:20250406T050000Z
 SUMMARY:Dominic College - Tasmanian Schools Sprint Championships + Public Race, Australopers Orienteering Club
@@ -290,7 +273,7 @@ GEO:-37.0501489807354;144.227201228675
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22382@eventor.orienteering.asn.au
-DTSTAMP:20250410T124820Z
+DTSTAMP:20250411T040832Z
 DTSTART:20250411T140000Z
 DTEND:20250413T140000Z
 SUMMARY:Vikings Training , VIC Vikings
@@ -492,7 +475,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22000
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22160@eventor.orienteering.asn.au
-DTSTAMP:20250403T041901Z
+DTSTAMP:20250411T113708Z
 DTSTART:20250417T140000Z
 DTEND:20250427T140000Z
 SUMMARY:NSW Bluebottles April Camp - Victoria, Orienteering NSW
@@ -546,9 +529,9 @@ GEO:-27.4903548737265;153.116544682306
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22161@eventor.orienteering.asn.au
-DTSTAMP:20250301T233308Z
+DTSTAMP:20250411T113053Z
 DTSTART:20250421T140000Z
-DTEND:20250424T140000Z
+DTEND:20250424T135900Z
 SUMMARY:Kooyoora WOC 85 revisited - Tues to Thurs, Orienteering Victoria
 URL:https://eventor.orienteering.asn.au/Events/Show/22161
 GEO:-36.5739682474373;143.693535418431
@@ -590,11 +573,12 @@ GEO:-36.5997827330394;143.632570137507
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21086@eventor.orienteering.asn.au
-DTSTAMP:20250409T022012Z
+DTSTAMP:20250411T043852Z
 DTSTART:20250426T043000Z
 DTEND:20250426T060000Z
-SUMMARY:EN L2O Series 1 - Venue tbc, Enoggeroos
+SUMMARY:EN L2O Series 1 - Warner Lakes, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/21086
+GEO:-27.3056695456776;152.955218520955
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22106@eventor.orienteering.asn.au
@@ -886,5 +870,81 @@ DTEND:20250509T071500Z
 SUMMARY:Mitcham Hiils Zone Event #2 Hawthorndene PS, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/22375
 GEO:-35.0207450217948;138.636743411592
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21129@eventor.orienteering.asn.au
+DTSTAMP:20250329T000958Z
+DTSTART:20250509T140000Z
+DTEND:20250510T140000Z
+SUMMARY:2025 NSW State League #5 - NOL Round 4, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21129
+GEO:-33.1710395602691;151.382268447515
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22070@eventor.orienteering.asn.au
+DTSTAMP:20250203T232113Z
+DTSTART:20250510T000000Z
+DTEND:20250510T010000Z
+SUMMARY:ACT Learn to Orienteer, Week 2, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/22070
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22094@eventor.orienteering.asn.au
+DTSTAMP:20250212T040316Z
+DTSTART:20250510T003000Z
+DTEND:20250510T003000Z
+SUMMARY:North Adelaide, Wallaringa Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22094
+GEO:-34.9051809292795;138.600781037701
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21489@eventor.orienteering.asn.au
+DTSTAMP:20250324T005542Z
+DTSTART:20250510T003000Z
+DTEND:20250510T030000Z
+SUMMARY:ACT Metro Series: incl. Junior League #2, Fadden Pines, Red Roos
+URL:https://eventor.orienteering.asn.au/Events/Show/21489
+GEO:-35.4101412126973;149.119238145926
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21946@eventor.orienteering.asn.au
+DTSTAMP:20250109T055213Z
+DTSTART:20250510T023000Z
+DTEND:20250510T023000Z
+SUMMARY:Bendigo Score Event - Diamond Hill North, Bendigo Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21946
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22219@eventor.orienteering.asn.au
+DTSTAMP:20250306T051355Z
+DTSTART:20250510T040000Z
+DTEND:20250510T051000Z
+SUMMARY:Melbourne Park Street Saturday Series - Fabulous Fitzroy, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22219
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21087@eventor.orienteering.asn.au
+DTSTAMP:20250318T112601Z
+DTSTART:20250510T043000Z
+DTEND:20250510T060000Z
+SUMMARY:EN L2O Series 2 - Mercer Park, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/21087
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22107@eventor.orienteering.asn.au
+DTSTAMP:20250213T080812Z
+DTSTART:20250510T053000Z
+DTEND:20250510T073000Z
+SUMMARY:Map Run Parks - Gold Coast - Event #5 10th May. Reedy Creek., Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22107
+GEO:-28.1109354518975;153.390473392324
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22242@eventor.orienteering.asn.au
+DTSTAMP:20250314T044959Z
+DTSTART:20250510T083000Z
+DTEND:20250510T083000Z
+SUMMARY:National Orienteering League Presentation Dinner, Orienteering ACT / Orienteering Australia / Orienteering NSW / Orienteering Queensland / Orienteering SA / Orienteering Tasmania / Orienteering Victoria / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/22242
 END:VEVENT
 END:VCALENDAR
