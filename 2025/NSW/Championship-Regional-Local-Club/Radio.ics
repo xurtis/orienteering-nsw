@@ -238,7 +238,7 @@ GEO:-32.9122809420384;151.709333814714
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22196@eventor.orienteering.asn.au
-DTSTAMP:20250408T065604Z
+DTSTAMP:20250412T042256Z
 DTSTART:20250410T003000Z
 DTEND:20250410T010000Z
 SUMMARY:LAST MINUTE CHANGE OF VENUE Tilley Road, Chandler, Bush MAPRUN, Orienteering Queensland
@@ -255,23 +255,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20829
 GEO:-35.2524143760643;149.069194557097
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22379@eventor.orienteering.asn.au
-DTSTAMP:20250410T071310Z
-DTSTART:20250410T140000Z
-DTEND:20250411T140000Z
-SUMMARY:Not an event, Australopers Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22379
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21631@eventor.orienteering.asn.au
-DTSTAMP:20250323T085109Z
-DTSTART:20250411T140000Z
-DTEND:20250412T140000Z
-SUMMARY:Vic MTBO Middle Distance Championships 2025, Bayside Kangaroos Orienteers / Melbourne Forest Racers / Yarra Valley Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21631
-GEO:-37.0501489807354;144.227201228675
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22382@eventor.orienteering.asn.au
 DTSTAMP:20250411T040832Z
 DTSTART:20250411T140000Z
@@ -282,12 +265,21 @@ GEO:-36.7010104463157;144.239668804475
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21630@eventor.orienteering.asn.au
-DTSTAMP:20250325T053207Z
-DTSTART:20250411T220000Z
-DTEND:20250412T040000Z
+DTSTAMP:20250412T083336Z
+DTSTART:20250412T000000Z
+DTEND:20250412T000000Z
 SUMMARY:Vic MTBO Sprint Championships 2025, Bayside Kangaroos Orienteers / Yarra Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21630
 GEO:-37.0504537489634;144.227286299136
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21631@eventor.orienteering.asn.au
+DTSTAMP:20250412T082922Z
+DTSTART:20250412T040000Z
+DTEND:20250412T040000Z
+SUMMARY:Vic MTBO Middle Distance Championships 2025, Bayside Kangaroos Orienteers / Melbourne Forest Racers / Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21631
+GEO:-37.0501489807354;144.227201228675
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22221@eventor.orienteering.asn.au
@@ -296,15 +288,6 @@ DTSTART:20250412T040000Z
 DTEND:20250412T051000Z
 SUMMARY:Melbourne Park Street Saturday Series - Bennettswood, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22221
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21632@eventor.orienteering.asn.au
-DTSTAMP:20250221T063543Z
-DTSTART:20250412T140000Z
-DTEND:20250413T140000Z
-SUMMARY:Vic MTBO Long Distance Championships 2025, Bayside Kangaroos Orienteers / Nillumbik Emus Orienteering Club / Yarra Valley Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21632
-GEO:-37.0724380461067;144.090894208362
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22233@eventor.orienteering.asn.au
@@ -341,6 +324,15 @@ DTEND:20250412T233000Z
 SUMMARY:2025 Metro League #1 - Centennial Park, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21604
 GEO:-33.903981226119;151.230310293728
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21632@eventor.orienteering.asn.au
+DTSTAMP:20250412T083302Z
+DTSTART:20250412T233000Z
+DTEND:20250412T233000Z
+SUMMARY:Vic MTBO Long Distance Championships 2025, Bayside Kangaroos Orienteers / Nillumbik Emus Orienteering Club / Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21632
+GEO:-37.0724380461067;144.090894208362
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22316@eventor.orienteering.asn.au
@@ -555,7 +547,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22202
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20951@eventor.orienteering.asn.au
-DTSTAMP:20250317T095914Z
+DTSTAMP:20250411T234928Z
 DTSTART:20250425T010000Z
 DTEND:20250425T010000Z
 SUMMARY:Victorian Short Distance Championships - Anderson's Diggings, Bendigo Orienteers / Orienteering Victoria
@@ -946,5 +938,49 @@ DTSTART:20250510T083000Z
 DTEND:20250510T083000Z
 SUMMARY:National Orienteering League Presentation Dinner, Orienteering ACT / Orienteering Australia / Orienteering NSW / Orienteering Queensland / Orienteering SA / Orienteering Tasmania / Orienteering Victoria / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/22242
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21130@eventor.orienteering.asn.au
+DTSTAMP:20250329T001045Z
+DTSTART:20250510T140000Z
+DTEND:20250511T140000Z
+SUMMARY:2025 NSW State League #6 - NOL Round 4, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21130
+GEO:-33.1710521549102;151.382280962117
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22193@eventor.orienteering.asn.au
+DTSTAMP:20250305T044717Z
+DTSTART:20250511T000000Z
+DTEND:20250511T011500Z
+SUMMARY:Mornington Peninsula Sunday MapRun - Martha Cove, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22193
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22137@eventor.orienteering.asn.au
+DTSTAMP:20250328T012812Z
+DTSTART:20250511T000000Z
+DTEND:20250511T033000Z
+SUMMARY:Lovely Banks - OST 5 Long, Australopers Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22137
+GEO:-42.4622977654611;147.266732533506
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22263@eventor.orienteering.asn.au
+DTSTAMP:20250316T020753Z
+DTSTART:20250511T010000Z
+DTEND:20250511T033000Z
+SUMMARY:MTBO3 Jarrahdale, Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/22263
+GEO:-32.3082322256962;116.072887733226
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22285@eventor.orienteering.asn.au
+DTSTAMP:20250316T224126Z
+DTSTART:20250511T060000Z
+DTEND:20250511T060000Z
+SUMMARY:MapRun Parks 2025 - Robelle Domain, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22285
+GEO:-27.6811524080439;152.903975238033
 END:VEVENT
 END:VCALENDAR
