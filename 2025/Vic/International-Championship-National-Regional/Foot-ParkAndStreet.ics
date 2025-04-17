@@ -3,48 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_21622@eventor.orienteering.asn.au
-DTSTAMP:20250323T064237Z
-DTSTART:20250408T143000Z
-DTEND:20250409T143000Z
-SUMMARY:Midweek Training Season Ticket, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/21622
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21613@eventor.orienteering.asn.au
-DTSTAMP:20250323T222529Z
-DTSTART:20250409T010000Z
-DTEND:20250409T033000Z
-SUMMARY:Midweek Training at Mack Creek, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/21613
-GEO:-34.7236705555164;138.826356583619
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22358@eventor.orienteering.asn.au
-DTSTAMP:20250409T105803Z
-DTSTART:20250409T080000Z
-DTEND:20250409T130000Z
-SUMMARY:MFR OE training workshop, Melbourne Forest Racers
-URL:https://eventor.orienteering.asn.au/Events/Show/22358
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22205@eventor.orienteering.asn.au
-DTSTAMP:20250306T045513Z
-DTSTART:20250409T083000Z
-DTEND:20250409T101500Z
-SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - McKinnon Meander, Nillumbik Emus Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22205
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22101@eventor.orienteering.asn.au
-DTSTAMP:20250409T101907Z
-DTSTART:20250409T090000Z
-DTEND:20250409T110000Z
-SUMMARY:Newcastle Night Champs - Lambton (Lambton Park), Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22101
-GEO:-32.9122809420384;151.709333814714
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22196@eventor.orienteering.asn.au
 DTSTAMP:20250412T042256Z
 DTSTART:20250410T003000Z
@@ -258,7 +216,7 @@ GEO:-27.4497826729664;153.022413596425
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22000@eventor.orienteering.asn.au
-DTSTAMP:20250415T071530Z
+DTSTAMP:20250417T114600Z
 DTSTART:20250417T060000Z
 DTEND:20250417T080000Z
 SUMMARY:JWOC Selection Race, Orienteering Australia
@@ -355,7 +313,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22202
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20951@eventor.orienteering.asn.au
-DTSTAMP:20250411T234928Z
+DTSTAMP:20250417T120613Z
 DTSTART:20250425T010000Z
 DTEND:20250425T010000Z
 SUMMARY:Victorian Short Distance Championships - Anderson's Diggings, Bendigo Orienteers / Orienteering Victoria
@@ -364,7 +322,7 @@ GEO:-36.8793609585737;143.746534574677
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20950@eventor.orienteering.asn.au
-DTSTAMP:20250103T072352Z
+DTSTAMP:20250417T121030Z
 DTSTART:20250426T000000Z
 DTEND:20250426T040000Z
 SUMMARY:Victorian Middle Distance Championships - Wehla Hill, Melbourne Forest Racers / Orienteering Victoria
@@ -869,5 +827,23 @@ DTSTART:20250514T083000Z
 DTEND:20250514T101500Z
 SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - Cavills Corner, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22211
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20939@eventor.orienteering.asn.au
+DTSTAMP:20250403T063856Z
+DTSTART:20250516T000000Z
+DTEND:20250516T000000Z
+SUMMARY:Victorian Secondary Schools Orienteering Championships 2025, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/20939
+GEO:-37.6331013753929;144.852328153463
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22376@eventor.orienteering.asn.au
+DTSTAMP:20250404T034948Z
+DTSTART:20250516T061500Z
+DTEND:20250516T071500Z
+SUMMARY:Mitcham Hiils Zone Event #3 Hawthorndene Reserve - Apex Park, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/22376
+GEO:-35.0200272665365;138.623309800272
 END:VEVENT
 END:VCALENDAR
