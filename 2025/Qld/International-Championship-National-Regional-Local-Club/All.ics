@@ -3,24 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_22196@eventor.orienteering.asn.au
-DTSTAMP:20250412T042256Z
-DTSTART:20250410T003000Z
-DTEND:20250410T010000Z
-SUMMARY:LAST MINUTE CHANGE OF VENUE Tilley Road, Chandler, Bush MAPRUN, Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/22196
-GEO:-27.5157994024937;153.14832206293
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20829@eventor.orienteering.asn.au
-DTSTAMP:20250324T012935Z
-DTSTART:20250410T100000Z
-DTEND:20250410T100000Z
-SUMMARY:Orienteering ACT Annual General Meeting, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/20829
-GEO:-35.2524143760643;149.069194557097
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22382@eventor.orienteering.asn.au
 DTSTAMP:20250411T040832Z
 DTSTART:20250411T140000Z
@@ -242,7 +224,7 @@ GEO:-36.7402255822039;143.902916512228
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20948@eventor.orienteering.asn.au
-DTSTAMP:20250416T055505Z
+DTSTAMP:20250418T083416Z
 DTSTART:20250418T013000Z
 DTEND:20250418T063000Z
 SUMMARY:Australian 3 Days 2025 - NOL Prologue & Public Sprint, Orienteering Victoria
@@ -260,7 +242,7 @@ GEO:-36.7478932354623;143.828088393363
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20947@eventor.orienteering.asn.au
-DTSTAMP:20250416T055323Z
+DTSTAMP:20250418T110651Z
 DTSTART:20250418T233000Z
 DTEND:20250421T053000Z
 SUMMARY:Australian 3 Days 2025, Orienteering Victoria
@@ -427,7 +409,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22185
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22363@eventor.orienteering.asn.au
-DTSTAMP:20250414T020122Z
+DTSTAMP:20250417T230738Z
 DTSTART:20250430T060000Z
 DTEND:20250503T140000Z
 SUMMARY:Sydney MapRun Series 2025 #2 Frenchs Forest NEW MAP, Bennelong Northside Orienteers
@@ -845,5 +827,65 @@ DTEND:20250516T071500Z
 SUMMARY:Mitcham Hiils Zone Event #3 Hawthorndene Reserve - Apex Park, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/22376
 GEO:-35.0200272665365;138.623309800272
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22065@eventor.orienteering.asn.au
+DTSTAMP:20250203T231826Z
+DTSTART:20250517T000000Z
+DTEND:20250517T010000Z
+SUMMARY:ACT Learn to Orienteer, Week 3, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/22065
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21490@eventor.orienteering.asn.au
+DTSTAMP:20250324T005614Z
+DTSTART:20250517T003000Z
+DTEND:20250517T030000Z
+SUMMARY:ACT Metro Series: incl. Junior League #3, The Pinnacle, Bushflyers
+URL:https://eventor.orienteering.asn.au/Events/Show/21490
+GEO:-35.2567424132657;149.046345311824
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21943@eventor.orienteering.asn.au
+DTSTAMP:20250109T052942Z
+DTSTART:20250517T023000Z
+DTEND:20250517T023000Z
+SUMMARY:Bendigo Bush - Mandurang Coolibah, Bendigo Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21943
+GEO:-36.7478291771088;144.29671322399
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22397@eventor.orienteering.asn.au
+DTSTAMP:20250415T103158Z
+DTSTART:20250517T030000Z
+DTEND:20250517T043000Z
+SUMMARY:Launceston Church Grammar School, Esk Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22397
+GEO:-41.4079873888927;147.128370171385
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22223@eventor.orienteering.asn.au
+DTSTAMP:20250306T051823Z
+DTSTART:20250517T040000Z
+DTEND:20250517T061000Z
+SUMMARY:Melbourne Park Street Saturday Series - Malvern Star, Victorian ARDF Group
+URL:https://eventor.orienteering.asn.au/Events/Show/22223
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21088@eventor.orienteering.asn.au
+DTSTAMP:20241102T004558Z
+DTSTART:20250517T043000Z
+DTEND:20250517T043000Z
+SUMMARY:EN L2O Series 3 -Bunyaville West tbc, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/21088
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21700@eventor.orienteering.asn.au
+DTSTAMP:20241208T071703Z
+DTSTART:20250517T070000Z
+DTEND:20250517T070000Z
+SUMMARY:Albany - Yakamia Primary School, Albany & Denmark Hinterland Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21700
+GEO:-35.0016811730579;117.873230448394
 END:VEVENT
 END:VCALENDAR
