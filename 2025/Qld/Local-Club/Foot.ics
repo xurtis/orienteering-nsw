@@ -12,32 +12,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22382
 GEO:-36.7010104463157;144.239668804475
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21630@eventor.orienteering.asn.au
-DTSTAMP:20250412T083336Z
-DTSTART:20250412T000000Z
-DTEND:20250412T000000Z
-SUMMARY:Vic MTBO Sprint Championships 2025, Bayside Kangaroos Orienteers / Yarra Valley Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21630
-GEO:-37.0504537489634;144.227286299136
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21631@eventor.orienteering.asn.au
-DTSTAMP:20250412T082922Z
-DTSTART:20250412T040000Z
-DTEND:20250412T040000Z
-SUMMARY:Vic MTBO Middle Distance Championships 2025, Bayside Kangaroos Orienteers / Melbourne Forest Racers / Yarra Valley Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21631
-GEO:-37.0501489807354;144.227201228675
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22221@eventor.orienteering.asn.au
-DTSTAMP:20250306T051545Z
-DTSTART:20250412T040000Z
-DTEND:20250412T051000Z
-SUMMARY:Melbourne Park Street Saturday Series - Bennettswood, Nillumbik Emus Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22221
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22233@eventor.orienteering.asn.au
 DTSTAMP:20250419T063719Z
 DTSTART:20250412T143000Z
@@ -233,7 +207,7 @@ GEO:-36.7478932354623;143.828088393363
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20947@eventor.orienteering.asn.au
-DTSTAMP:20250419T042650Z
+DTSTAMP:20250420T111658Z
 DTSTART:20250418T233000Z
 DTEND:20250421T053000Z
 SUMMARY:Australian 3 Days 2025, Orienteering Victoria
@@ -278,7 +252,7 @@ GEO:-36.7408105190382;143.902568045488
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22365@eventor.orienteering.asn.au
-DTSTAMP:20250414T044038Z
+DTSTAMP:20250420T095937Z
 DTSTART:20250423T060000Z
 DTEND:20250427T135900Z
 SUMMARY:Sydney MapRun Series 2025 #1 Ryde, Garingal Orienteers
@@ -304,7 +278,7 @@ GEO:-36.8793609585737;143.746534574677
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20950@eventor.orienteering.asn.au
-DTSTAMP:20250417T121030Z
+DTSTAMP:20250420T113026Z
 DTSTART:20250426T000000Z
 DTEND:20250426T040000Z
 SUMMARY:Victorian Middle Distance Championships - Wehla Hill, Melbourne Forest Racers / Orienteering Victoria
@@ -313,7 +287,7 @@ GEO:-36.5997827330394;143.632570137507
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21086@eventor.orienteering.asn.au
-DTSTAMP:20250411T043852Z
+DTSTAMP:20250420T072025Z
 DTSTART:20250426T043000Z
 DTEND:20250426T060000Z
 SUMMARY:EN L2O Series 1 - Warner Lakes, Enoggeroos
@@ -685,7 +659,7 @@ GEO:-28.1109354518975;153.390473392324
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22242@eventor.orienteering.asn.au
-DTSTAMP:20250314T044959Z
+DTSTAMP:20250420T102523Z
 DTSTART:20250510T083000Z
 DTEND:20250510T083000Z
 SUMMARY:National Orienteering League Presentation Dinner, Orienteering ACT / Orienteering Australia / Orienteering NSW / Orienteering Queensland / Orienteering SA / Orienteering Tasmania / Orienteering Victoria / Orienteering WA
@@ -1000,5 +974,21 @@ DTEND:20250518T060000Z
 SUMMARY:MapRun Parks 2025 - City Botanic Gardens, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22286
 GEO:-27.4742665239628;153.029798884942
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22329@eventor.orienteering.asn.au
+DTSTAMP:20250325T014421Z
+DTSTART:20250519T070000Z
+DTEND:20250519T100000Z
+SUMMARY:ACT MapRun Street Series: Yarralumla, 15-19 May, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/22329
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22170@eventor.orienteering.asn.au
+DTSTAMP:20250305T020153Z
+DTSTART:20250519T083000Z
+DTEND:20250519T101500Z
+SUMMARY:Melbourne Park Street Monday Night Series - Balwyn North, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/22170
 END:VEVENT
 END:VCALENDAR
