@@ -3,14 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_22186@eventor.orienteering.asn.au
-DTSTAMP:20250305T043613Z
-DTSTART:20250415T083000Z
-DTEND:20250415T101500Z
-SUMMARY:Melbourne Park Street Tuesday Night Series - Keilor East, Tuckonie Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22186
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22209@eventor.orienteering.asn.au
 DTSTAMP:20250306T050007Z
 DTSTART:20250416T083000Z
@@ -64,7 +56,7 @@ GEO:-36.7478932354623;143.828088393363
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20947@eventor.orienteering.asn.au
-DTSTAMP:20250421T232400Z
+DTSTAMP:20250423T070844Z
 DTSTART:20250418T233000Z
 DTEND:20250421T053000Z
 SUMMARY:Australian 3 Days 2025, Orienteering Victoria
@@ -99,15 +91,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22161
 GEO:-36.5993822865059;143.695810626495
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22154@eventor.orienteering.asn.au
-DTSTAMP:20250419T093548Z
-DTSTART:20250422T135900Z
-DTEND:20250427T140000Z
-SUMMARY:Australian Easter 3 Days camping at Newbridge, Orienteering Victoria
-URL:https://eventor.orienteering.asn.au/Events/Show/22154
-GEO:-36.7408105190382;143.902568045488
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22365@eventor.orienteering.asn.au
 DTSTAMP:20250421T052127Z
 DTSTART:20250423T060000Z
@@ -125,6 +108,15 @@ SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - Wantirna South, 
 URL:https://eventor.orienteering.asn.au/Events/Show/22202
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22154@eventor.orienteering.asn.au
+DTSTAMP:20250422T231156Z
+DTSTART:20250424T135900Z
+DTEND:20250427T140000Z
+SUMMARY:Australian Easter 3 Days camping at Newbridge, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/22154
+GEO:-36.7408105190382;143.902568045488
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20951@eventor.orienteering.asn.au
 DTSTAMP:20250422T111028Z
 DTSTART:20250425T010000Z
@@ -135,7 +127,7 @@ GEO:-36.8793609585737;143.746534574677
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20950@eventor.orienteering.asn.au
-DTSTAMP:20250420T113026Z
+DTSTAMP:20250423T001554Z
 DTSTART:20250426T000000Z
 DTEND:20250426T040000Z
 SUMMARY:Victorian Middle Distance Championships - Wehla Hill, Melbourne Forest Racers / Orienteering Victoria
@@ -540,7 +532,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22242
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21130@eventor.orienteering.asn.au
-DTSTAMP:20250414T235152Z
+DTSTAMP:20250422T134501Z
 DTSTART:20250510T233000Z
 DTEND:20250510T233000Z
 SUMMARY:2025 NSW State League #6 - NOL Round 4, Central Coast Orienteers
@@ -600,7 +592,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22169
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21870@eventor.orienteering.asn.au
-DTSTAMP:20241224T040111Z
+DTSTAMP:20250423T045951Z
 DTSTART:20250512T230000Z
 DTEND:20250512T230000Z
 SUMMARY:Riverina Schools Champs, Wagga and Riverina Orienteers
@@ -669,7 +661,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22211
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20939@eventor.orienteering.asn.au
-DTSTAMP:20250403T063856Z
+DTSTAMP:20250423T045502Z
 DTSTART:20250516T000000Z
 DTEND:20250516T000000Z
 SUMMARY:Victorian Secondary Schools Orienteering Championships 2025, Orienteering Victoria
@@ -922,5 +914,14 @@ DTSTART:20250521T083000Z
 DTEND:20250521T101500Z
 SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - Malvern Central, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22206
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22398@eventor.orienteering.asn.au
+DTSTAMP:20250416T094459Z
+DTSTART:20250522T003000Z
+DTEND:20250522T020000Z
+SUMMARY:Mid week - Boronia Bushland Reserve, Boronia Heights (Maprun), Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/22398
+GEO:-27.6934111868075;153.02741737862
 END:VEVENT
 END:VCALENDAR
