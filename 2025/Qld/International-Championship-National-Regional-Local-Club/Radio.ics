@@ -3,14 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_22209@eventor.orienteering.asn.au
-DTSTAMP:20250306T050007Z
-DTSTART:20250416T083000Z
-DTEND:20250416T101500Z
-SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - Bayswater, Dandenong Ranges Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22209
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_19694@eventor.orienteering.asn.au
 DTSTAMP:20250409T042521Z
 DTSTART:20250417T003000Z
@@ -56,7 +48,7 @@ GEO:-36.7478932354623;143.828088393363
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20947@eventor.orienteering.asn.au
-DTSTAMP:20250423T070844Z
+DTSTAMP:20250424T065926Z
 DTSTART:20250418T233000Z
 DTEND:20250421T053000Z
 SUMMARY:Australian 3 Days 2025, Orienteering Victoria
@@ -92,7 +84,7 @@ GEO:-36.5993822865059;143.695810626495
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22365@eventor.orienteering.asn.au
-DTSTAMP:20250421T052127Z
+DTSTAMP:20250424T033508Z
 DTSTART:20250423T060000Z
 DTEND:20250427T135900Z
 SUMMARY:Sydney MapRun Series 2025 #1 Ryde, Garingal Orienteers
@@ -171,7 +163,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21903
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22072@eventor.orienteering.asn.au
-DTSTAMP:20250410T044219Z
+DTSTAMP:20250424T014655Z
 DTSTART:20250427T000000Z
 DTEND:20250427T040000Z
 SUMMARY:NTOC Kooringle, Northern Tablelands Orienteering Club
@@ -189,7 +181,7 @@ GEO:-27.4809513182691;152.982183533396
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22326@eventor.orienteering.asn.au
-DTSTAMP:20250416T035305Z
+DTSTAMP:20250424T001836Z
 DTSTART:20250428T070000Z
 DTEND:20250428T100000Z
 SUMMARY:ACT MapRun Street Series: Coombs, 24-28 Apr, Orienteering ACT
@@ -265,13 +257,40 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22374
 GEO:-35.0335732013213;138.626466139805
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21056@eventor.orienteering.asn.au
-DTSTAMP:20250421T235322Z
-DTSTART:20250502T140000Z
-DTEND:20250504T140000Z
-SUMMARY:Qld Long Distance Champs - Gurulmundi SF (near Miles), Orienteering Queensland / Range Runners Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21056
-GEO:-26.4914536518516;150.079390164219
+UID:Event_22419@eventor.orienteering.asn.au
+DTSTAMP:20250424T104124Z
+DTSTART:20250502T233000Z
+DTEND:20250503T013000Z
+SUMMARY:Adventure Running Squad, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/22419
+GEO:-33.848683;151.212115
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22420@eventor.orienteering.asn.au
+DTSTAMP:20250424T104438Z
+DTSTART:20250502T233000Z
+DTEND:20250503T020000Z
+SUMMARY:Saturday Orienteering Series Term 2 Pass, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/22420
+GEO:-33.848683;151.212115
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22413@eventor.orienteering.asn.au
+DTSTAMP:20250424T100358Z
+DTSTART:20250502T233000Z
+DTEND:20250503T020000Z
+SUMMARY:SOS Hawkesbury Nepean - Richmond, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/22413
+GEO:-33.5996614999337;150.747104861321
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22407@eventor.orienteering.asn.au
+DTSTAMP:20250424T081254Z
+DTSTART:20250502T233000Z
+DTEND:20250503T020000Z
+SUMMARY:SOS Northside - North Sydney, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/22407
+GEO:-33.848683;151.212115
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22064@eventor.orienteering.asn.au
@@ -289,6 +308,15 @@ DTEND:20250503T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #1, Weston Park, Bushflyers
 URL:https://eventor.orienteering.asn.au/Events/Show/21488
 GEO:-35.2923564339249;149.08988938947
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21056@eventor.orienteering.asn.au
+DTSTAMP:20250424T075522Z
+DTSTART:20250503T023000Z
+DTEND:20250504T030000Z
+SUMMARY:Qld Long Distance Champs - Gurulmundi SF (near Miles), Orienteering Queensland / Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21056
+GEO:-26.4914536518516;150.079390164219
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22215@eventor.orienteering.asn.au
@@ -371,7 +399,7 @@ GEO:-27.4380205214019;152.997356559896
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21057@eventor.orienteering.asn.au
-DTSTAMP:20250422T002037Z
+DTSTAMP:20250424T052958Z
 DTSTART:20250504T230000Z
 DTEND:20250504T230000Z
 SUMMARY:OY5 "Twin Creeks" Glenaubyn (near Gurulmundi SF), Orienteering Queensland / Range Runners Orienteering Club
@@ -385,6 +413,7 @@ DTSTART:20250505T070000Z
 DTEND:20250505T100000Z
 SUMMARY:ACT MapRun Street Series: Kambah East , 1-5 May, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/22327
+GEO:-35.3869618006714;149.071530812084
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22168@eventor.orienteering.asn.au
@@ -430,7 +459,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22187
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22360@eventor.orienteering.asn.au
-DTSTAMP:20250414T020201Z
+DTSTAMP:20250424T100930Z
 DTSTART:20250507T060000Z
 DTEND:20250511T135900Z
 SUMMARY:Sydney MapRun Series 2025 #3 Bondi Beach NEW MAP, Bennelong Northside Orienteers
@@ -482,7 +511,7 @@ GEO:-35.4101412126973;149.119238145926
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21129@eventor.orienteering.asn.au
-DTSTAMP:20250421T123456Z
+DTSTAMP:20250423T225545Z
 DTSTART:20250510T020000Z
 DTEND:20250510T020000Z
 SUMMARY:2025 NSW State League #5 - NOL Round 4, Central Coast Orienteers
@@ -532,7 +561,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22242
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21130@eventor.orienteering.asn.au
-DTSTAMP:20250422T134501Z
+DTSTAMP:20250423T225822Z
 DTSTART:20250510T233000Z
 DTEND:20250510T233000Z
 SUMMARY:2025 NSW State League #6 - NOL Round 4, Central Coast Orienteers
@@ -581,6 +610,7 @@ DTSTART:20250512T070000Z
 DTEND:20250512T100000Z
 SUMMARY:ACT MapRun Street Series: Florey, 8-12 May, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/22328
+GEO:-35.2255739406453;149.053893819923
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22169@eventor.orienteering.asn.au
@@ -676,6 +706,24 @@ DTEND:20250516T071500Z
 SUMMARY:Mitcham Hiils Zone Event #3 Hawthorndene Reserve - Apex Park, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/22376
 GEO:-35.0200272665365;138.623309800272
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22414@eventor.orienteering.asn.au
+DTSTAMP:20250424T101126Z
+DTSTART:20250516T233000Z
+DTEND:20250517T020000Z
+SUMMARY:SOS Hawkesbury Nepean - Penrith, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/22414
+GEO:-33.7571181685497;150.707600364179
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22408@eventor.orienteering.asn.au
+DTSTAMP:20250424T093235Z
+DTSTART:20250516T233000Z
+DTEND:20250517T020000Z
+SUMMARY:SOS Northside - Mosman, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/22408
+GEO:-33.8061203094155;151.24599083912
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22065@eventor.orienteering.asn.au
@@ -865,6 +913,7 @@ DTSTART:20250519T070000Z
 DTEND:20250519T100000Z
 SUMMARY:ACT MapRun Street Series: Yarralumla, 15-19 May, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/22329
+GEO:-35.3071723116978;149.096845455507
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22170@eventor.orienteering.asn.au
@@ -923,5 +972,14 @@ DTEND:20250522T020000Z
 SUMMARY:Mid week - Boronia Bushland Reserve, Boronia Heights (Maprun), Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/22398
 GEO:-27.6934111868075;153.02741737862
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22377@eventor.orienteering.asn.au
+DTSTAMP:20250404T035502Z
+DTSTART:20250523T061500Z
+DTEND:20250523T071500Z
+SUMMARY:Mitcham Hiils Zone Event #4 Karinya Reserve, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/22377
+GEO:-35.0272967821626;138.602348802067
 END:VEVENT
 END:VCALENDAR
