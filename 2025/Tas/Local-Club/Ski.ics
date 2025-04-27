@@ -111,7 +111,7 @@ GEO:-28.0647313114802;153.422760715364
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20949@eventor.orienteering.asn.au
-DTSTAMP:20250416T005416Z
+DTSTAMP:20250427T033326Z
 DTSTART:20250426T233000Z
 DTEND:20250426T233000Z
 SUMMARY:Victorian Long Distance Championships - Mount Korong, Bendigo Orienteers / Dandenong Ranges Orienteering Club / Orienteering Victoria
@@ -211,6 +211,14 @@ DTSTART:20250430T083000Z
 DTEND:20250430T101500Z
 SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - MitchelHill, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22210
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22424@eventor.orienteering.asn.au
+DTSTAMP:20250426T233504Z
+DTSTART:20250501T060000Z
+DTEND:20250501T073000Z
+SUMMARY:Adelaide Hills School Zone Event Term 2 - Stirling PS, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/22424
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22374@eventor.orienteering.asn.au
@@ -441,6 +449,14 @@ SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - Camberwell, Bays
 URL:https://eventor.orienteering.asn.au/Events/Show/22203
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22425@eventor.orienteering.asn.au
+DTSTAMP:20250426T233609Z
+DTSTART:20250508T060000Z
+DTEND:20250508T073000Z
+SUMMARY:Adelaide Hills After School Zone Event Term 2 - Woorabinda Reserve, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/22425
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_22375@eventor.orienteering.asn.au
 DTSTAMP:20250404T034424Z
 DTSTART:20250509T060000Z
@@ -655,6 +671,7 @@ DTSTART:20250514T073000Z
 DTEND:20250516T093000Z
 SUMMARY:2025 MapRun Series 2 - Race 1 - Redlynch, Far North Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22388
+GEO:-16.8954974594233;145.696892593111
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22211@eventor.orienteering.asn.au
@@ -663,6 +680,14 @@ DTSTART:20250514T083000Z
 DTEND:20250514T101500Z
 SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - Cavills Corner, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22211
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22426@eventor.orienteering.asn.au
+DTSTAMP:20250426T233652Z
+DTSTART:20250515T060000Z
+DTEND:20250515T073000Z
+SUMMARY:Adelaide Hills After School Zone Event Term 2 - Crafers PS, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/22426
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20939@eventor.orienteering.asn.au
@@ -950,6 +975,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22398
 GEO:-27.6934111868075;153.02741737862
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22427@eventor.orienteering.asn.au
+DTSTAMP:20250426T233730Z
+DTSTART:20250522T060000Z
+DTEND:20250522T073000Z
+SUMMARY:Adelaide Hills After School Zone Event Term 2 - Woodside PS, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/22427
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_22377@eventor.orienteering.asn.au
 DTSTAMP:20250404T035502Z
 DTSTART:20250523T061500Z
@@ -1146,5 +1179,30 @@ DTEND:20250525T060000Z
 SUMMARY:MapRun Parks 2025 - Rocks Riverside, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22287
 GEO:-27.5417486712729;152.960083808034
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22132@eventor.orienteering.asn.au
+DTSTAMP:20250217T210914Z
+DTSTART:20250526T003000Z
+DTEND:20250526T142900Z
+SUMMARY:SA Schools Orienteering Championships - Belair NP, Onkaparinga Hills Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22132
+GEO:-35.0093084088079;138.635097375195
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22330@eventor.orienteering.asn.au
+DTSTAMP:20250406T235310Z
+DTSTART:20250526T070000Z
+DTEND:20250526T100000Z
+SUMMARY:ACT MapRun Street Series: Holder, 22-26 May, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/22330
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22171@eventor.orienteering.asn.au
+DTSTAMP:20250305T020243Z
+DTSTART:20250526T083000Z
+DTEND:20250526T101500Z
+SUMMARY:Melbourne Park Street Monday Night Series - Mullauna, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/22171
 END:VEVENT
 END:VCALENDAR
