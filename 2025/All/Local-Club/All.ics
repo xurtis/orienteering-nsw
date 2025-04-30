@@ -56,6 +56,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22423
 GEO:-36.880808589063;143.749651959372
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22106@eventor.orienteering.asn.au
+DTSTAMP:20250430T051532Z
+DTSTART:20250425T140000Z
+DTEND:20250426T140000Z
+SUMMARY:Map Run Parks - Gold Coast - Event #4 26th Apr. Miami., Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22106
+GEO:-28.0647313114802;153.422760715364
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_20950@eventor.orienteering.asn.au
 DTSTAMP:20250426T100848Z
 DTSTART:20250426T000000Z
@@ -72,15 +81,6 @@ DTEND:20250426T060000Z
 SUMMARY:EN L2O Series 1 - Warner Lakes, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/21086
 GEO:-27.3056695456776;152.955218520955
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22106@eventor.orienteering.asn.au
-DTSTAMP:20250213T080159Z
-DTSTART:20250426T063000Z
-DTEND:20250426T083000Z
-SUMMARY:Map Run Parks - Gold Coast - Event #4 26th Apr. Miami., Paradise Lost Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22106
-GEO:-28.0647313114802;153.422760715364
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20949@eventor.orienteering.asn.au
@@ -101,7 +101,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21903
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22072@eventor.orienteering.asn.au
-DTSTAMP:20250424T014655Z
+DTSTAMP:20250430T013047Z
 DTSTART:20250427T000000Z
 DTEND:20250427T040000Z
 SUMMARY:NTOC Kooringle, Northern Tablelands Orienteering Club
@@ -119,7 +119,7 @@ GEO:-27.4809513182691;152.982183533396
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22326@eventor.orienteering.asn.au
-DTSTAMP:20250424T001836Z
+DTSTAMP:20250429T145820Z
 DTSTART:20250428T070000Z
 DTEND:20250428T100000Z
 SUMMARY:ACT MapRun Street Series: Coombs, 24-28 Apr, Orienteering ACT
@@ -346,7 +346,7 @@ GEO:-27.4380205214019;152.997356559896
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21057@eventor.orienteering.asn.au
-DTSTAMP:20250429T080709Z
+DTSTAMP:20250430T065556Z
 DTSTART:20250504T230000Z
 DTEND:20250504T230000Z
 SUMMARY:OY5 "Twin Creeks" Glenaubyn (near Gurulmundi SF), Orienteering Queensland / Range Runners Orienteering Club
@@ -447,15 +447,6 @@ SUMMARY:ACT Learn to Orienteer, Week 2, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/22070
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22094@eventor.orienteering.asn.au
-DTSTAMP:20250212T040316Z
-DTSTART:20250510T003000Z
-DTEND:20250510T003000Z
-SUMMARY:North Adelaide, Wallaringa Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22094
-GEO:-34.9051809292795;138.600781037701
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21489@eventor.orienteering.asn.au
 DTSTAMP:20250324T005542Z
 DTSTART:20250510T003000Z
@@ -498,6 +489,15 @@ DTSTART:20250510T040000Z
 DTEND:20250510T051000Z
 SUMMARY:Melbourne Park Street Saturday Series - Fabulous Fitzroy, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22219
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22094@eventor.orienteering.asn.au
+DTSTAMP:20250430T104040Z
+DTSTART:20250510T040000Z
+DTEND:20250510T053000Z
+SUMMARY:North Adelaide, Wallaringa Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22094
+GEO:-34.9051809292795;138.600781037701
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21087@eventor.orienteering.asn.au
@@ -1238,5 +1238,14 @@ DTSTART:20250528T083000Z
 DTEND:20250528T101500Z
 SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - Forest Chase, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22212
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22194@eventor.orienteering.asn.au
+DTSTAMP:20250416T094705Z
+DTSTART:20250529T003000Z
+DTEND:20250529T010000Z
+SUMMARY:John Sprent Park, Moggill , Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/22194
+GEO:-27.5741306996072;152.892773316976
 END:VEVENT
 END:VCALENDAR
