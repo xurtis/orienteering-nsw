@@ -30,15 +30,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22154
 GEO:-36.7408105190382;143.902568045488
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22423@eventor.orienteering.asn.au
-DTSTAMP:20250425T093519Z
-DTSTART:20250425T003000Z
-DTEND:20250425T063000Z
-SUMMARY:Victorian Short Distance Championships - Anderson's Diggings, Bendigo Orienteers / Orienteering Victoria
-URL:https://eventor.orienteering.asn.au/Events/Show/22423
-GEO:-36.880808589063;143.749651959372
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22106@eventor.orienteering.asn.au
 DTSTAMP:20250430T051532Z
 DTSTART:20250425T140000Z
@@ -205,7 +196,7 @@ GEO:-33.848683;151.212115
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22413@eventor.orienteering.asn.au
-DTSTAMP:20250424T100358Z
+DTSTAMP:20250503T014038Z
 DTSTART:20250502T233000Z
 DTEND:20250503T020000Z
 SUMMARY:SOS Hawkesbury Nepean - Richmond, Bold Horizons Event Organiser
@@ -214,7 +205,7 @@ GEO:-33.5996614999337;150.747104861321
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22407@eventor.orienteering.asn.au
-DTSTAMP:20250428T235226Z
+DTSTAMP:20250503T022634Z
 DTSTART:20250502T233000Z
 DTEND:20250503T020000Z
 SUMMARY:SOS Northside - North Sydney, Bold Horizons Event Organiser
@@ -231,7 +222,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22064
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21488@eventor.orienteering.asn.au
-DTSTAMP:20250324T005454Z
+DTSTAMP:20250503T025210Z
 DTSTART:20250503T003000Z
 DTEND:20250503T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #1, Weston Park, Bushflyers
@@ -240,7 +231,7 @@ GEO:-35.2923564339249;149.08988938947
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21056@eventor.orienteering.asn.au
-DTSTAMP:20250501T113703Z
+DTSTAMP:20250503T061314Z
 DTSTART:20250503T023000Z
 DTEND:20250504T030000Z
 SUMMARY:Qld Long Distance Champs - Gurulmundi SF (near Miles), Orienteering Queensland / Range Runners Orienteering Club
@@ -797,12 +788,12 @@ GEO:-27.1714184999165;152.944939564078
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21917@eventor.orienteering.asn.au
-DTSTAMP:20250106T101527Z
+DTSTAMP:20250502T200513Z
 DTSTART:20250517T230000Z
 DTEND:20250518T010000Z
 SUMMARY:Pozieres State Forest, NW of Stanthorpe, Bullecourt Boulder Bounders
 URL:https://eventor.orienteering.asn.au/Events/Show/21917
-GEO:-28.5515524897388;151.881485363428
+GEO:-28.5514833800266;151.878599306528
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22450@eventor.orienteering.asn.au
@@ -1437,5 +1428,30 @@ DTEND:20250601T060000Z
 SUMMARY:MapRun Parks 2025 - Edwards Park Carindale, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22288
 GEO:-27.5271213387011;153.107292459739
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22267@eventor.orienteering.asn.au
+DTSTAMP:20250421T125353Z
+DTSTART:20250602T013000Z
+DTEND:20250602T050000Z
+SUMMARY:Bush5 Frazzle - WA Classic Day 2, Orienteering WA / Wullundigong Orienteers of the West
+URL:https://eventor.orienteering.asn.au/Events/Show/22267
+GEO:-32.3357713943246;116.842478080881
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22331@eventor.orienteering.asn.au
+DTSTAMP:20250325T014424Z
+DTSTART:20250602T070000Z
+DTEND:20250602T100000Z
+SUMMARY:ACT MapRun Street Series: Throsby, 29 May - 2 Jun, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/22331
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22172@eventor.orienteering.asn.au
+DTSTAMP:20250305T020425Z
+DTSTART:20250602T083000Z
+DTEND:20250602T101500Z
+SUMMARY:Melbourne Park Street Monday Night Series - Waverley Woods, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/22172
 END:VEVENT
 END:VCALENDAR
