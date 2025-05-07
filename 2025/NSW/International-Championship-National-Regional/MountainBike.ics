@@ -3,40 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_22406@eventor.orienteering.asn.au
-DTSTAMP:20250422T050622Z
-DTSTART:20250428T213000Z
-DTEND:20250428T213000Z
-SUMMARY:Livelox Webinar: Learn to use Livelox through reviewing the Aus 3 Days events, Orienteering ACT / Orienteering NSW / Orienteering Queensland / Orienteering SA / Orienteering Tasmania / Orienteering Victoria / Orienteering WA
-URL:https://eventor.orienteering.asn.au/Events/Show/22406
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20407@eventor.orienteering.asn.au
-DTSTAMP:20250429T093542Z
-DTSTART:20250429T073000Z
-DTEND:20250429T073000Z
-SUMMARY:Night Nav - Bardon - Term  2 series - Event  #1, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20407
-GEO:-27.4515239430893;152.980912156855
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22383@eventor.orienteering.asn.au
-DTSTAMP:20250409T050151Z
-DTSTART:20250429T080000Z
-DTEND:20250429T080000Z
-SUMMARY:Night Nav - Cranks Creek, Sunshine Orienteers Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22383
-GEO:-26.4097258209037;153.029576005821
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22185@eventor.orienteering.asn.au
-DTSTAMP:20250305T043829Z
-DTSTART:20250429T083000Z
-DTEND:20250429T101500Z
-SUMMARY:Melbourne Park Street Tuesday Night Series - Newport, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22185
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22363@eventor.orienteering.asn.au
 DTSTAMP:20250504T215242Z
 DTSTART:20250430T060000Z
@@ -231,7 +197,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22448
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22327@eventor.orienteering.asn.au
-DTSTAMP:20250325T014416Z
+DTSTAMP:20250506T135433Z
 DTSTART:20250505T070000Z
 DTEND:20250505T100000Z
 SUMMARY:ACT MapRun Street Series: Kambah East , 1-5 May, Orienteering ACT
@@ -296,6 +262,14 @@ DTSTART:20250507T083000Z
 DTEND:20250507T101500Z
 SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - Camberwell, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22203
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22465@eventor.orienteering.asn.au
+DTSTAMP:20250507T084942Z
+DTSTART:20250507T140000Z
+DTEND:20250508T140000Z
+SUMMARY:SEEMINGLY NO MIDWEEK EVENT THIS WEEK SORRY, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/22465
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22425@eventor.orienteering.asn.au
@@ -611,6 +585,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22397
 GEO:-41.4079873888927;147.128370171385
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22463@eventor.orienteering.asn.au
+DTSTAMP:20250507T051915Z
+DTSTART:20250517T040000Z
+DTEND:20250517T050000Z
+SUMMARY:Goldseekers Learn to Orienteer #1 Orange Botanic Gardens, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22463
+GEO:-33.2569330028069;149.096084209151
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_22223@eventor.orienteering.asn.au
 DTSTAMP:20250306T051823Z
 DTSTART:20250517T040000Z
@@ -665,10 +648,10 @@ GEO:-27.1714184999165;152.944939564078
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21917@eventor.orienteering.asn.au
-DTSTAMP:20250502T200513Z
+DTSTAMP:20250507T101902Z
 DTSTART:20250517T230000Z
 DTEND:20250518T010000Z
-SUMMARY:Pozieres State Forest, NW of Stanthorpe, Bullecourt Boulder Bounders
+SUMMARY:Pozieres State Forest, NW of Stanthorpe. This is a World Orienteering Week event, Bullecourt Boulder Bounders
 URL:https://eventor.orienteering.asn.au/Events/Show/21917
 GEO:-28.5514833800266;151.878599306528
 END:VEVENT
@@ -683,12 +666,21 @@ GEO:-32.8889247833896;151.540090316613
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22402@eventor.orienteering.asn.au
-DTSTAMP:20250421T100831Z
+DTSTAMP:20250507T052937Z
 DTSTART:20250518T000000Z
 DTEND:20250518T020000Z
 SUMMARY:Goldseekers Bush Series #3 - Rocky Falls, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22402
 GEO:-33.1376635753749;149.122392816227
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22464@eventor.orienteering.asn.au
+DTSTAMP:20250507T052240Z
+DTSTART:20250518T000000Z
+DTEND:20250518T020000Z
+SUMMARY:Goldseekers Learn To Orienteer #2 Rocky Falls, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22464
+GEO:-33.1030564649035;149.12044886444
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22073@eventor.orienteering.asn.au
@@ -947,7 +939,7 @@ GEO:-27.9857912662225;153.334598367683
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21605@eventor.orienteering.asn.au
-DTSTAMP:20250505T034831Z
+DTSTAMP:20250507T053550Z
 DTSTART:20250524T233000Z
 DTEND:20250524T233000Z
 SUMMARY:2025 Metro League #3 - Kentlyn, Southern Highlands Orienteers
@@ -1391,5 +1383,14 @@ DTSTART:20250604T083000Z
 DTEND:20250604T101500Z
 SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - Bulleen Ups and Downs, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22204
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22380@eventor.orienteering.asn.au
+DTSTAMP:20250407T215908Z
+DTSTART:20250606T093000Z
+DTEND:20250606T100000Z
+SUMMARY:Rebels/Raiders NightO Camp Prequel, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/22380
+GEO:-37.3651666949778;144.149777510057
 END:VEVENT
 END:VCALENDAR
