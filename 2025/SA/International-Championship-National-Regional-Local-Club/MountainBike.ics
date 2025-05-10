@@ -12,15 +12,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22363
 GEO:-33.7506077530329;151.242935664103
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22374@eventor.orienteering.asn.au
-DTSTAMP:20250404T033825Z
-DTSTART:20250502T060000Z
-DTEND:20250502T071500Z
-SUMMARY:Mitcham Hiils Zone Event #1 Coromandel PS, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/22374
-GEO:-35.0335732013213;138.626466139805
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22419@eventor.orienteering.asn.au
 DTSTAMP:20250424T104124Z
 DTSTART:20250502T233000Z
@@ -282,7 +273,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22070
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21489@eventor.orienteering.asn.au
-DTSTAMP:20250324T005542Z
+DTSTAMP:20250510T023508Z
 DTSTART:20250510T003000Z
 DTEND:20250510T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #2, Fadden Pines, Red Roos
@@ -291,7 +282,7 @@ GEO:-35.4101412126973;149.119238145926
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21129@eventor.orienteering.asn.au
-DTSTAMP:20250429T064902Z
+DTSTAMP:20250510T061444Z
 DTSTART:20250510T020000Z
 DTEND:20250510T020000Z
 SUMMARY:2025 NSW State League #5 - NOL Round 4, Central Coast Orienteers
@@ -300,7 +291,7 @@ GEO:-33.1710395602691;151.382268447515
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21946@eventor.orienteering.asn.au
-DTSTAMP:20250429T052424Z
+DTSTAMP:20250510T121545Z
 DTSTART:20250510T023000Z
 DTEND:20250510T023000Z
 SUMMARY:Bendigo Score Event - Diamond Hill North, Bendigo Orienteers
@@ -326,7 +317,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22219
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22094@eventor.orienteering.asn.au
-DTSTAMP:20250508T113058Z
+DTSTAMP:20250510T060542Z
 DTSTART:20250510T040000Z
 DTEND:20250510T063000Z
 SUMMARY:North Adelaide Parklands - Glover Playground, Wallaringa Orienteering Club
@@ -335,7 +326,7 @@ GEO:-34.9051809292795;138.600781037701
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21087@eventor.orienteering.asn.au
-DTSTAMP:20250506T022230Z
+DTSTAMP:20250510T064355Z
 DTSTART:20250510T043000Z
 DTEND:20250510T060000Z
 SUMMARY:EN L2O Series 2 - Mercer Park, Enoggeroos
@@ -378,7 +369,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22193
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22263@eventor.orienteering.asn.au
-DTSTAMP:20250426T092349Z
+DTSTAMP:20250510T101250Z
 DTSTART:20250511T010000Z
 DTEND:20250511T033000Z
 SUMMARY:MTBO3 Jarrahdale, Bibbulmun Orienteers / Orienteering WA
@@ -780,12 +771,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22389
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22313@eventor.orienteering.asn.au
-DTSTAMP:20250509T122443Z
+DTSTAMP:20250510T061327Z
 DTSTART:20250521T073000Z
 DTEND:20250521T094500Z
 SUMMARY:Moonlight Madness #1 (World Orienteering Week), Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22313
-GEO:-33.8414661091805;151.171232331037
+GEO:-33.8425645060561;151.171121714869
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22206@eventor.orienteering.asn.au
@@ -1535,5 +1526,39 @@ DTEND:20250608T060000Z
 SUMMARY:MapRun Parks 2025 - Go to Ugly Gully Come and Try It instead, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22289
 GEO:-27.4798769380352;152.982205024777
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22462@eventor.orienteering.asn.au
+DTSTAMP:20250507T033611Z
+DTSTART:20250608T140000Z
+DTEND:20250609T140000Z
+SUMMARY:Sprint weekend Hobart, Fahan School - Sprint Relay Tas Champs - Individual Entry, Australopers Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22462
+GEO:-42.9153608850125;147.352855682141
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22393@eventor.orienteering.asn.au
+DTSTAMP:20250411T090844Z
+DTSTART:20250608T230000Z
+DTEND:20250608T230000Z
+SUMMARY:KB3 Victoria 2025 - Day 3 - Tipperary Springs - 2 Person Relay, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22393
+GEO:-37.3478862862882;144.107032602259
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21980@eventor.orienteering.asn.au
+DTSTAMP:20250329T101343Z
+DTSTART:20250609T000000Z
+DTEND:20250609T023000Z
+SUMMARY:Rawnsley South (Flinders Ranges, Day 3), Tjuringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21980
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22173@eventor.orienteering.asn.au
+DTSTAMP:20250305T020513Z
+DTSTART:20250609T083000Z
+DTEND:20250609T101500Z
+SUMMARY:Melbourne Park Street Monday Night Series - Glenferrie, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/22173
 END:VEVENT
 END:VCALENDAR
