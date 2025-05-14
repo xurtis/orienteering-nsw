@@ -3,40 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_22405@eventor.orienteering.asn.au
-DTSTAMP:20250422T034321Z
-DTSTART:20250505T213000Z
-DTEND:20250505T213000Z
-SUMMARY:Participation and Engagement Network meeting: Learn to Orienteer reflection, Orienteering ACT / Orienteering NSW / Orienteering Queensland / Orienteering SA / Orienteering Tasmania / Orienteering Victoria / Orienteering WA
-URL:https://eventor.orienteering.asn.au/Events/Show/22405
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21423@eventor.orienteering.asn.au
-DTSTAMP:20250506T101013Z
-DTSTART:20250506T073000Z
-DTEND:20250506T073000Z
-SUMMARY:Night Nav - Corinda -  Term 2 Series Event #2, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21423
-GEO:-27.5395958880738;152.987505975857
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22384@eventor.orienteering.asn.au
-DTSTAMP:20250409T073850Z
-DTSTART:20250506T080000Z
-DTEND:20250506T080000Z
-SUMMARY:Night Nav - Pelican Waters, Sunshine Orienteers Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22384
-GEO:-26.833447816696;153.118955964308
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22187@eventor.orienteering.asn.au
-DTSTAMP:20250305T044040Z
-DTSTART:20250506T083000Z
-DTEND:20250506T101500Z
-SUMMARY:Melbourne Park Street Tuesday Night Series - Moonee Ponds North, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22187
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22360@eventor.orienteering.asn.au
 DTSTAMP:20250511T233711Z
 DTSTART:20250507T060000Z
@@ -238,7 +204,7 @@ GEO:-27.5222476369215;152.933934671721
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22404@eventor.orienteering.asn.au
-DTSTAMP:20250511T222341Z
+DTSTAMP:20250514T000957Z
 DTSTART:20250513T080000Z
 DTEND:20250513T080000Z
 SUMMARY:Night Nav - Brightwater, Sunshine Orienteers Club
@@ -547,7 +513,7 @@ GEO:-27.4742665239628;153.029798884942
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22329@eventor.orienteering.asn.au
-DTSTAMP:20250325T014421Z
+DTSTAMP:20250514T124632Z
 DTSTART:20250519T070000Z
 DTEND:20250519T100000Z
 SUMMARY:ACT MapRun Street Series: Yarralumla, 15-19 May, Orienteering ACT
@@ -589,7 +555,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22389
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22313@eventor.orienteering.asn.au
-DTSTAMP:20250512T225905Z
+DTSTAMP:20250514T003601Z
 DTSTART:20250521T073000Z
 DTEND:20250521T094500Z
 SUMMARY:Moonlight Madness #1 (World Orienteering Week), Garingal Orienteers
@@ -1249,7 +1215,7 @@ GEO:-37.3651666949778;144.149777510057
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21737@eventor.orienteering.asn.au
-DTSTAMP:20250411T090707Z
+DTSTAMP:20250514T112826Z
 DTSTART:20250607T000000Z
 DTEND:20250607T040000Z
 SUMMARY:KB3 Victoria 2025 - Day 1 - Vic Series 4 - Sailors Diggings, Daylesford, Eureka Orienteers
@@ -1328,10 +1294,10 @@ GEO:-42.973091483578;147.308846750417
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21738@eventor.orienteering.asn.au
-DTSTAMP:20250222T041311Z
+DTSTAMP:20250514T115326Z
 DTSTART:20250608T000000Z
 DTEND:20250608T040000Z
-SUMMARY:Vic Series 5 - Chapel Flat, Creswick, Dandenong Ranges Orienteering Club
+SUMMARY:KB3 Victoria 2025 - Day 2 - Vic Series 5 - Chapel Flat, Creswick, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21738
 END:VEVENT
 BEGIN:VEVENT
