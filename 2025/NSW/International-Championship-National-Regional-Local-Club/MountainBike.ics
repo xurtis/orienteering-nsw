@@ -3,32 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_22475@eventor.orienteering.asn.au
-DTSTAMP:20250512T051334Z
-DTSTART:20250511T233000Z
-DTEND:20250511T233000Z
-SUMMARY:One Tree Hill - BSE 1, Bendigo Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22475
-GEO:-36.783594796629;144.303003477804
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22328@eventor.orienteering.asn.au
-DTSTAMP:20250513T035546Z
-DTSTART:20250512T070000Z
-DTEND:20250512T100000Z
-SUMMARY:ACT MapRun Street Series: Florey, 8-12 May, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/22328
-GEO:-35.2255739406453;149.053893819923
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22169@eventor.orienteering.asn.au
-DTSTAMP:20250305T020107Z
-DTSTART:20250512T083000Z
-DTEND:20250512T101500Z
-SUMMARY:Melbourne Park Street Monday Night Series - Academy Hill, Orienteering Victoria
-URL:https://eventor.orienteering.asn.au/Events/Show/22169
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21870@eventor.orienteering.asn.au
 DTSTAMP:20250505T025124Z
 DTSTART:20250512T230000Z
@@ -323,7 +297,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21904
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22073@eventor.orienteering.asn.au
-DTSTAMP:20250518T080458Z
+DTSTAMP:20250520T033201Z
 DTSTART:20250518T000000Z
 DTEND:20250518T040000Z
 SUMMARY:NTOC Thalgarrah - World Orienteering Event, Northern Tablelands Orienteering Club
@@ -358,7 +332,7 @@ GEO:-31.8858024480905;116.060977487665
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22329@eventor.orienteering.asn.au
-DTSTAMP:20250514T124632Z
+DTSTAMP:20250520T050228Z
 DTSTART:20250519T070000Z
 DTEND:20250519T100000Z
 SUMMARY:ACT MapRun Street Series: Yarralumla, 15-19 May, Orienteering ACT
@@ -375,7 +349,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22170
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22524@eventor.orienteering.asn.au
-DTSTAMP:20250516T111150Z
+DTSTAMP:20250520T022231Z
 DTSTART:20250519T233000Z
 DTEND:20250519T233000Z
 SUMMARY:Koolamurt - Girton 7M, Bendigo Orienteers
@@ -383,7 +357,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22524
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20233@eventor.orienteering.asn.au
-DTSTAMP:20250404T032251Z
+DTSTAMP:20250520T100331Z
 DTSTART:20250520T073000Z
 DTEND:20250520T073000Z
 SUMMARY:Night Nav - Banksia Park - St Lucia - BCC Sponsored Event, Ugly Gully Orienteers
@@ -431,15 +405,6 @@ DTEND:20250521T120000Z
 SUMMARY:OA Technical Committee meeting, Orienteering ACT / Orienteering NSW / Orienteering Queensland / Orienteering SA / Orienteering Tasmania / Orienteering Victoria / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/22531
 GEO:-36.7552364642969;144.579302739616
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22476@eventor.orienteering.asn.au
-DTSTAMP:20250512T081621Z
-DTSTART:20250521T233000Z
-DTEND:20250521T233000Z
-SUMMARY:One Tree Hill - BSE 2, Bendigo Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22476
-GEO:-36.783444113481;144.303013584215
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22398@eventor.orienteering.asn.au
@@ -742,7 +707,7 @@ GEO:-31.9482649942767;116.17449156154
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22435@eventor.orienteering.asn.au
-DTSTAMP:20250501T024717Z
+DTSTAMP:20250520T034435Z
 DTSTART:20250528T020000Z
 DTEND:20250528T040000Z
 SUMMARY:ACT Midweek Series: Narrabundah Hill, Orienteering ACT
@@ -766,22 +731,22 @@ SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - Forest Chase, Da
 URL:https://eventor.orienteering.asn.au/Events/Show/22212
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22533@eventor.orienteering.asn.au
+DTSTAMP:20250520T094709Z
+DTSTART:20250528T140000Z
+DTEND:20250529T140000Z
+SUMMARY:John Sprent again (test), Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/22533
+GEO:-27.5750715408682;152.831582011391
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_22194@eventor.orienteering.asn.au
-DTSTAMP:20250416T094705Z
+DTSTAMP:20250520T063423Z
 DTSTART:20250529T003000Z
 DTEND:20250529T010000Z
 SUMMARY:John Sprent Park, Moggill , Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/22194
 GEO:-27.5741306996072;152.892773316976
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21484@eventor.orienteering.asn.au
-DTSTAMP:20250515T022131Z
-DTSTART:20250530T140000Z
-DTEND:20250531T140000Z
-SUMMARY:ACT Metro Series: incl. Junior League #5, ACT League #5, Jim Sawkins Handicap, Tin Hut, Red Roos
-URL:https://eventor.orienteering.asn.au/Events/Show/21484
-GEO:-35.4967193979023;149.258822835836
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22145@eventor.orienteering.asn.au
@@ -817,7 +782,7 @@ DTSTART:20250530T233000Z
 DTEND:20250531T020000Z
 SUMMARY:SOS Northside - Gladesville, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/22410
-GEO:-33.83938334123;151.128524299188
+GEO:-33.8392655171148;151.127084060396
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22067@eventor.orienteering.asn.au
@@ -827,6 +792,15 @@ DTEND:20250531T010000Z
 SUMMARY:ACT Learn to Orienteer, Week 5, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/22067
 GEO:-35.4968609906529;149.258765636986
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21484@eventor.orienteering.asn.au
+DTSTAMP:20250520T033315Z
+DTSTART:20250531T013000Z
+DTEND:20250531T043000Z
+SUMMARY:ACT Metro Series: incl. Junior League #5, ACT League #5, Jim Sawkins Handicap, Tin Hut, Red Roos
+URL:https://eventor.orienteering.asn.au/Events/Show/21484
+GEO:-35.4967193979023;149.258822835836
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21945@eventor.orienteering.asn.au
@@ -916,10 +890,10 @@ GEO:-37.6314374800036;144.851760000176
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21576@eventor.orienteering.asn.au
-DTSTAMP:20250517T140955Z
+DTSTAMP:20250520T092206Z
 DTSTART:20250601T000000Z
 DTEND:20250601T050000Z
-SUMMARY:Helensburgh - training event, Illawarra Kareelah Orienteers
+SUMMARY:Helensburgh - club training event, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21576
 GEO:-34.1852319916903;150.979499236321
 END:VEVENT
@@ -1012,7 +986,7 @@ GEO:-33.8536495419352;151.184175246686
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22436@eventor.orienteering.asn.au
-DTSTAMP:20250501T025256Z
+DTSTAMP:20250520T034438Z
 DTSTART:20250604T020000Z
 DTEND:20250604T040000Z
 SUMMARY:ACT Midweek Series: Mt Painter, Orienteering ACT
