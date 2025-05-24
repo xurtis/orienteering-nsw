@@ -12,24 +12,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22366
 GEO:-33.7165323382291;151.117248699949
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_20939@eventor.orienteering.asn.au
-DTSTAMP:20250516T034050Z
-DTSTART:20250516T000000Z
-DTEND:20250516T000000Z
-SUMMARY:Victorian Secondary Schools Orienteering Championships 2025, Orienteering Victoria
-URL:https://eventor.orienteering.asn.au/Events/Show/20939
-GEO:-37.6331013753929;144.852328153463
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22376@eventor.orienteering.asn.au
-DTSTAMP:20250404T034948Z
-DTSTART:20250516T061500Z
-DTEND:20250516T071500Z
-SUMMARY:Mitcham Hiils Zone Event #3 Hawthorndene Reserve - Apex Park, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/22376
-GEO:-35.0200272665365;138.623309800272
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22414@eventor.orienteering.asn.au
 DTSTAMP:20250517T015317Z
 DTSTART:20250516T233000Z
@@ -389,7 +371,7 @@ GEO:-28.582221380075;151.768694981341
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22415@eventor.orienteering.asn.au
-DTSTAMP:20250424T101605Z
+DTSTAMP:20250524T021339Z
 DTSTART:20250523T233000Z
 DTEND:20250524T020000Z
 SUMMARY:SOS Hawkesbury Nepean - Kingswood, Bold Horizons Event Organiser
@@ -398,7 +380,7 @@ GEO:-33.7713014497309;150.715554566301
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22409@eventor.orienteering.asn.au
-DTSTAMP:20250424T093753Z
+DTSTAMP:20250524T025008Z
 DTSTART:20250523T233000Z
 DTEND:20250524T020000Z
 SUMMARY:SOS Northside - Balgowlah, Bold Horizons Event Organiser
@@ -416,7 +398,7 @@ GEO:-35.3651065735012;149.072234193905
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21491@eventor.orienteering.asn.au
-DTSTAMP:20250324T005654Z
+DTSTAMP:20250524T020736Z
 DTSTART:20250524T003000Z
 DTEND:20250524T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #4, Mt Taylor, Parawanga Orienteers
@@ -425,7 +407,7 @@ GEO:-35.3649323086989;149.072370907879
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21820@eventor.orienteering.asn.au
-DTSTAMP:20250515T014718Z
+DTSTAMP:20250524T081722Z
 DTSTART:20250524T030000Z
 DTEND:20250524T053000Z
 SUMMARY:UTAS Sandy Bay campus - Sprint OST 6 (schools selection), Australopers Orienteering Club
@@ -442,7 +424,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22216
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21089@eventor.orienteering.asn.au
-DTSTAMP:20250518T074448Z
+DTSTAMP:20250524T072846Z
 DTSTART:20250524T043000Z
 DTEND:20250524T060000Z
 SUMMARY:EN L2O Series 4 - Sprint - Ferny Grove State High School, Enoggeroos
@@ -848,7 +830,7 @@ GEO:-37.6314374800036;144.851760000176
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21576@eventor.orienteering.asn.au
-DTSTAMP:20250522T115311Z
+DTSTAMP:20250524T093757Z
 DTSTART:20250601T000000Z
 DTEND:20250601T050000Z
 SUMMARY:Helensburgh - training bush event, Illawarra Kareelah Orienteers
@@ -936,7 +918,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22191
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22368@eventor.orienteering.asn.au
-DTSTAMP:20250522T032605Z
+DTSTAMP:20250524T093959Z
 DTSTART:20250603T140000Z
 DTEND:20250608T135900Z
 SUMMARY:Sydney MapRun Series 2025 #6 Balmain, Garingal Orienteers
@@ -1164,6 +1146,14 @@ SUMMARY:Melbourne Park Street Monday Night Series - Glenferrie, Orienteering Vic
 URL:https://eventor.orienteering.asn.au/Events/Show/22173
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22555@eventor.orienteering.asn.au
+DTSTAMP:20250524T051618Z
+DTSTART:20250609T213000Z
+DTEND:20250609T213000Z
+SUMMARY:Livelox Webinar: for event organisers, Orienteering ACT / Orienteering NSW / Orienteering Queensland / Orienteering SA / Orienteering Tasmania / Orienteering Victoria / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/22555
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21426@eventor.orienteering.asn.au
 DTSTAMP:20250404T033353Z
 DTSTART:20250610T073000Z
@@ -1171,6 +1161,15 @@ DTEND:20250610T091500Z
 SUMMARY:Night Nav - Ashgrove East - Term 2 Series Event #7, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21426
 GEO:-27.4431019745939;153.00193816728
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22362@eventor.orienteering.asn.au
+DTSTAMP:20250524T032832Z
+DTSTART:20250610T140000Z
+DTEND:20250615T140000Z
+SUMMARY:Sydney MapRun Series 2025 #7 Tamarama Beach, Bennelong Northside Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22362
+GEO:-33.8999524943729;151.269784797324
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22437@eventor.orienteering.asn.au
@@ -1380,15 +1379,6 @@ DTEND:20250617T091500Z
 SUMMARY:Night Nav - Moorooka - Term 2 Series Event #8, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21428
 GEO:-27.5320712470666;153.031185009603
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22362@eventor.orienteering.asn.au
-DTSTAMP:20250515T001511Z
-DTSTART:20250617T140000Z
-DTEND:20250622T140000Z
-SUMMARY:Sydney MapRun Series 2025 #7 Tamarama Beach, Bennelong Northside Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22362
-GEO:-33.8999524943729;151.269784797324
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21615@eventor.orienteering.asn.au
@@ -1608,5 +1598,30 @@ DTSTART:20250622T060000Z
 DTEND:20250622T060000Z
 SUMMARY:MapRun Parks 2025 - Moore Park, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22291
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21552@eventor.orienteering.asn.au
+DTSTAMP:20241107T035326Z
+DTSTART:20250622T233000Z
+DTEND:20250622T233000Z
+SUMMARY:Sydney South West Secondary Regional Schools Carnival, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21552
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22333@eventor.orienteering.asn.au
+DTSTAMP:20250513T010259Z
+DTSTART:20250623T070000Z
+DTEND:20250623T100000Z
+SUMMARY:ACT MapRun Street Series: O'Malley, 19-23 Jun, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/22333
+GEO:-35.3570897676542;149.107373341112
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22175@eventor.orienteering.asn.au
+DTSTAMP:20250305T020654Z
+DTSTART:20250623T083000Z
+DTEND:20250623T101500Z
+SUMMARY:Melbourne Park Street Monday Night Series - Clarinda, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/22175
 END:VEVENT
 END:VCALENDAR
