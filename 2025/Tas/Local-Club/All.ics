@@ -3,23 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_22329@eventor.orienteering.asn.au
-DTSTAMP:20250520T050228Z
-DTSTART:20250519T070000Z
-DTEND:20250519T100000Z
-SUMMARY:ACT MapRun Street Series: Yarralumla, 15-19 May, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/22329
-GEO:-35.3071723116978;149.096845455507
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22170@eventor.orienteering.asn.au
-DTSTAMP:20250305T020153Z
-DTSTART:20250519T083000Z
-DTEND:20250519T101500Z
-SUMMARY:Melbourne Park Street Monday Night Series - Balwyn North, Orienteering Victoria
-URL:https://eventor.orienteering.asn.au/Events/Show/22170
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22524@eventor.orienteering.asn.au
 DTSTAMP:20250520T022231Z
 DTSTART:20250519T233000Z
@@ -71,10 +54,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22206
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22531@eventor.orienteering.asn.au
-DTSTAMP:20250521T114840Z
+DTSTAMP:20250527T015711Z
 DTSTART:20250521T100000Z
 DTEND:20250521T120000Z
-SUMMARY:OA Technical Committee meeting, Orienteering ACT / Orienteering NSW / Orienteering Queensland / Orienteering SA / Orienteering Tasmania / Orienteering Victoria / Orienteering WA
+SUMMARY:OA Technical Committee meeting, Orienteering Australia
 URL:https://eventor.orienteering.asn.au/Events/Show/22531
 GEO:-36.7552364642969;144.579302739616
 END:VEVENT
@@ -354,7 +337,7 @@ GEO:-35.0093084088079;138.635097375195
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22330@eventor.orienteering.asn.au
-DTSTAMP:20250523T112608Z
+DTSTAMP:20250527T012651Z
 DTSTART:20250526T070000Z
 DTEND:20250526T100000Z
 SUMMARY:ACT MapRun Street Series: Weston, 22-26 May, Orienteering ACT
@@ -379,9 +362,9 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22466
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21425@eventor.orienteering.asn.au
-DTSTAMP:20250404T032512Z
+DTSTAMP:20250527T095138Z
 DTSTART:20250527T073000Z
-DTEND:20250527T091500Z
+DTEND:20250527T073000Z
 SUMMARY:Night Nav - Yeronga - Term 2 Series Event #5, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21425
 GEO:-27.512009119896;153.016114904177
@@ -405,7 +388,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22190
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22359@eventor.orienteering.asn.au
-DTSTAMP:20250522T035551Z
+DTSTAMP:20250527T024703Z
 DTSTART:20250527T140000Z
 DTEND:20250601T140000Z
 SUMMARY:Sydney MapRun Series 2025 #5 Roseville & East Lindfield, Bennelong Northside Orienteers
@@ -503,9 +486,9 @@ GEO:-35.4968609906529;149.258765636986
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21484@eventor.orienteering.asn.au
-DTSTAMP:20250520T033315Z
+DTSTAMP:20250527T025858Z
 DTSTART:20250531T013000Z
-DTEND:20250531T043000Z
+DTEND:20250531T013000Z
 SUMMARY:ACT Metro Series: incl. Junior League #5, ACT League #5, Jim Sawkins Handicap, Tin Hut, Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/21484
 GEO:-35.4967193979023;149.258822835836
@@ -564,6 +547,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22394
 GEO:-37.1286860929429;143.993435263867
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_21576@eventor.orienteering.asn.au
+DTSTAMP:20250527T074508Z
+DTSTART:20250601T000000Z
+DTEND:20250601T000000Z
+SUMMARY:Helensburgh - training bush event, Illawarra Kareelah Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21576
+GEO:-34.1894852199019;150.980097831233
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21844@eventor.orienteering.asn.au
 DTSTAMP:20250526T001403Z
 DTSTART:20250601T000000Z
@@ -597,15 +589,6 @@ DTEND:20250601T030000Z
 SUMMARY:Vic MTBO Series #2 - Woodlands, Yarra Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22431
 GEO:-37.6314374800036;144.851760000176
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21576@eventor.orienteering.asn.au
-DTSTAMP:20250524T093757Z
-DTSTART:20250601T000000Z
-DTEND:20250601T050000Z
-SUMMARY:Helensburgh - training bush event, Illawarra Kareelah Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21576
-GEO:-34.1894852199019;150.980097831233
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22460@eventor.orienteering.asn.au
@@ -820,9 +803,9 @@ GEO:-28.1342935739258;153.473117958185
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21847@eventor.orienteering.asn.au
-DTSTAMP:20250525T063807Z
+DTSTAMP:20250527T055440Z
 DTSTART:20250607T080000Z
-DTEND:20250607T090000Z
+DTEND:20250607T080000Z
 SUMMARY:Sprint weekend Hobart, 7 Mile Beach - Night sprint, Australopers Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21847
 GEO:-42.8486628279707;147.522075804264
@@ -900,21 +883,31 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22462
 GEO:-42.9157922466642;147.352252259076
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22393@eventor.orienteering.asn.au
-DTSTAMP:20250526T131344Z
+UID:Event_22564@eventor.orienteering.asn.au
+DTSTAMP:20250527T063744Z
 DTSTART:20250609T000000Z
 DTEND:20250609T000000Z
-SUMMARY:KB3 Victoria 2025 - Day 3 - Tipperary Springs - 2 Person Relay, Eureka Orienteers
+SUMMARY:KB3 Victoria 2025 - Day 3 - Tipperary Springs - 2 Person Relay - INDIVIDUAL ENTRY HERE, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22564
+GEO:-37.3476959604291;144.10705450444
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22393@eventor.orienteering.asn.au
+DTSTAMP:20250527T061321Z
+DTSTART:20250609T000000Z
+DTEND:20250609T000000Z
+SUMMARY:KB3 Victoria 2025 - Day 3 - Tipperary Springs - 2 Person Relay - ORGANISERS TEAM ENTRY ONLY, Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22393
 GEO:-37.3478862862882;144.107032602259
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21980@eventor.orienteering.asn.au
-DTSTAMP:20250329T101343Z
+DTSTAMP:20250526T232652Z
 DTSTART:20250609T000000Z
-DTEND:20250609T023000Z
+DTEND:20250609T000000Z
 SUMMARY:Rawnsley South (Flinders Ranges, Day 3), Tjuringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21980
+GEO:-31.6212873972497;138.649069509665
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22173@eventor.orienteering.asn.au
@@ -926,10 +919,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22173
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22555@eventor.orienteering.asn.au
-DTSTAMP:20250524T051618Z
+DTSTAMP:20250527T023434Z
 DTSTART:20250609T213000Z
 DTEND:20250609T213000Z
-SUMMARY:Livelox Webinar: for event organisers, Orienteering ACT / Orienteering NSW / Orienteering Queensland / Orienteering SA / Orienteering Tasmania / Orienteering Victoria / Orienteering WA
+SUMMARY:Livelox Webinar: for event organisers, Orienteering Australia
 URL:https://eventor.orienteering.asn.au/Events/Show/22555
 END:VEVENT
 BEGIN:VEVENT
