@@ -3,31 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_22524@eventor.orienteering.asn.au
-DTSTAMP:20250520T022231Z
-DTSTART:20250519T233000Z
-DTEND:20250519T233000Z
-SUMMARY:Koolamurt - Girton 7M, Bendigo Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22524
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_20233@eventor.orienteering.asn.au
-DTSTAMP:20250520T100331Z
-DTSTART:20250520T073000Z
-DTEND:20250520T073000Z
-SUMMARY:Night Nav - Banksia Park - St Lucia - BCC Sponsored Event, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/20233
-GEO:-27.4988958358411;153.004196741335
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22189@eventor.orienteering.asn.au
-DTSTAMP:20250305T044202Z
-DTSTART:20250520T083000Z
-DTEND:20250520T101500Z
-SUMMARY:Melbourne Park Street Tuesday Night Series - Maidstone, Dandenong Ranges Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22189
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22389@eventor.orienteering.asn.au
 DTSTAMP:20250502T002257Z
 DTSTART:20250521T073000Z
@@ -397,7 +372,7 @@ GEO:-33.7790145347156;151.185728638161
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22461@eventor.orienteering.asn.au
-DTSTAMP:20250506T092337Z
+DTSTAMP:20250528T081327Z
 DTSTART:20250528T020000Z
 DTEND:20250528T020000Z
 SUMMARY:2025 WA Schools’ Orienteering Championships, Orienteering WA
@@ -542,7 +517,7 @@ UID:Event_22394@eventor.orienteering.asn.au
 DTSTAMP:20250519T034048Z
 DTSTART:20250531T233000Z
 DTEND:20250601T043000Z
-SUMMARY:Ballarat Classics Series Event #3 - Captains Gully, Sandon State Forest, Eureka Orienteers
+SUMMARY:Ballarat Classics Series Event #3 - Captains Gully, Sandon State Forest, Eureka Orienteers / Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22394
 GEO:-37.1286860929429;143.993435263867
 END:VEVENT
@@ -902,12 +877,12 @@ GEO:-37.3478862862882;144.107032602259
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21980@eventor.orienteering.asn.au
-DTSTAMP:20250526T232652Z
+DTSTAMP:20250528T094518Z
 DTSTART:20250609T000000Z
 DTEND:20250609T000000Z
 SUMMARY:Rawnsley South (Flinders Ranges, Day 3), Tjuringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21980
-GEO:-31.6212873972497;138.649069509665
+GEO:-31.671367989331;138.592190990314
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22173@eventor.orienteering.asn.au
@@ -1184,14 +1159,6 @@ DTSTART:20250618T083000Z
 DTEND:20250618T101500Z
 SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - Eltham Town, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22207
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22528@eventor.orienteering.asn.au
-DTSTAMP:20250516T111957Z
-DTSTART:20250619T233000Z
-DTEND:20250619T233000Z
-SUMMARY:Koolamurt - Girton 7V, Bendigo Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22528
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22418@eventor.orienteering.asn.au
