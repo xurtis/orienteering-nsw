@@ -3,32 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_22476@eventor.orienteering.asn.au
-DTSTAMP:20250522T031613Z
-DTSTART:20250521T233000Z
-DTEND:20250521T233000Z
-SUMMARY:One Tree Hill - BSE 2, Bendigo Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22476
-GEO:-36.783444113481;144.303013584215
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22398@eventor.orienteering.asn.au
-DTSTAMP:20250502T022408Z
-DTSTART:20250522T003000Z
-DTEND:20250522T020000Z
-SUMMARY:Mid week - Boronia Bushland Reserve, Boronia Heights (Maprun) World Orienteering Week Event, Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/22398
-GEO:-27.6934111868075;153.02741737862
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22427@eventor.orienteering.asn.au
-DTSTAMP:20250426T233730Z
-DTSTART:20250522T060000Z
-DTEND:20250522T073000Z
-SUMMARY:Adelaide Hills After School Zone Event Term 2 - Woodside PS, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/22427
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22525@eventor.orienteering.asn.au
 DTSTAMP:20250523T044406Z
 DTSTART:20250522T233000Z
@@ -488,16 +462,16 @@ GEO:-33.0018697110529;151.542542231917
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22394@eventor.orienteering.asn.au
-DTSTAMP:20250519T034048Z
+DTSTAMP:20250530T044342Z
 DTSTART:20250531T233000Z
-DTEND:20250601T043000Z
-SUMMARY:Ballarat Classics Series Event #3 - Captains Gully, Sandon State Forest, Eureka Orienteers / Nillumbik Emus Orienteering Club
+DTEND:20250601T033000Z
+SUMMARY:Ballarat Classics #3 - Captains Gully, Sandon State Forest - NO ENTER ON THE DAY!, Eureka Orienteers / Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22394
 GEO:-37.1286860929429;143.993435263867
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21576@eventor.orienteering.asn.au
-DTSTAMP:20250529T013011Z
+DTSTAMP:20250530T083149Z
 DTSTART:20250601T000000Z
 DTEND:20250601T000000Z
 SUMMARY:Helensburgh - training bush event, Illawarra Kareelah Orienteers
@@ -663,7 +637,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22204
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22565@eventor.orienteering.asn.au
-DTSTAMP:20250529T050827Z
+DTSTAMP:20250530T023820Z
 DTSTART:20250605T003000Z
 DTEND:20250605T010000Z
 SUMMARY:Blunder Creek, Orienteering Queensland
@@ -797,9 +771,9 @@ GEO:-42.9735879798266;147.306741962383
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21738@eventor.orienteering.asn.au
-DTSTAMP:20250529T053254Z
+DTSTAMP:20250530T040429Z
 DTSTART:20250608T000000Z
-DTEND:20250608T040000Z
+DTEND:20250608T030000Z
 SUMMARY:KB3 Victoria 2025 - Day 2 - Vic Series 5 - Chapel Flat, Creswick, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21738
 GEO:-37.4895358520309;143.925986855835
@@ -912,7 +886,7 @@ GEO:-35.3348033533837;149.071584916653
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22535@eventor.orienteering.asn.au
-DTSTAMP:20250526T091539Z
+DTSTAMP:20250530T020323Z
 DTSTART:20250611T073000Z
 DTEND:20250611T073000Z
 SUMMARY:Moonlight Madness #2 - Clontarf, Bennelong Northside Orienteers
@@ -1078,7 +1052,7 @@ GEO:-34.4327542710239;135.690517021113
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22268@eventor.orienteering.asn.au
-DTSTAMP:20250517T135216Z
+DTSTAMP:20250530T034224Z
 DTSTART:20250615T013000Z
 DTEND:20250615T050000Z
 SUMMARY:Bush6 Mt Billy W, Orienteering WA / Wullundigong Orienteers of the West
@@ -1247,6 +1221,15 @@ DTEND:20250622T140000Z
 SUMMARY:MelBushO 5 - Westerfolds (Porter St), Templestowe, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21788
 GEO:-37.7504251155395;145.128713605039
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22568@eventor.orienteering.asn.au
+DTSTAMP:20250530T065228Z
+DTSTART:20250621T220000Z
+DTEND:20250621T220000Z
+SUMMARY:NT: 2025 Territory Wildlife Park, Top End Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22568
+GEO:-12.7106905720466;130.990447624464
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22315@eventor.orienteering.asn.au
@@ -1431,5 +1414,58 @@ DTSTART:20250628T080000Z
 DTEND:20250628T100000Z
 SUMMARY:Wentworth Park - Midwinter night sprint - Southern Local #3, Australopers Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21795
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22395@eventor.orienteering.asn.au
+DTSTAMP:20250411T085439Z
+DTSTART:20250628T220000Z
+DTEND:20250629T043000Z
+SUMMARY:Ballarat Classics Series Event #4 - Nerrina Historic Area, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22395
+GEO:-37.5184336172532;143.908189288594
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22236@eventor.orienteering.asn.au
+DTSTAMP:20250525T070459Z
+DTSTART:20250628T223000Z
+DTEND:20250628T223000Z
+SUMMARY:Coombabah Bike-O, Multi Terrain Bike Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22236
+GEO:-27.9399618950345;153.470783291649
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21873@eventor.orienteering.asn.au
+DTSTAMP:20250122T080225Z
+DTSTART:20250629T000000Z
+DTEND:20250629T020000Z
+SUMMARY:TRAC school (sprint), Wagga and Riverina Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21873
+GEO:-35.0666299516874;147.364968640064
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21906@eventor.orienteering.asn.au
+DTSTAMP:20250106T041104Z
+DTSTART:20250629T000000Z
+DTEND:20250629T030000Z
+SUMMARY:AWOC Training Day, Albury-Wodonga Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21906
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22428@eventor.orienteering.asn.au
+DTSTAMP:20250426T235143Z
+DTSTART:20250629T010000Z
+DTEND:20250629T030000Z
+SUMMARY:Hawthorndene 100 Orienteering Event, Onkaparinga Hills Orienteering Club / Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/22428
+GEO:-35.0219269620872;138.623401222357
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22248@eventor.orienteering.asn.au
+DTSTAMP:20250314T112552Z
+DTSTART:20250629T010000Z
+DTEND:20250629T030000Z
+SUMMARY:Port Lincoln: Sandmine, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22248
+GEO:-34.6688454812095;135.526767703016
 END:VEVENT
 END:VCALENDAR
