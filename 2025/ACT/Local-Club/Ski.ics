@@ -3,31 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_22525@eventor.orienteering.asn.au
-DTSTAMP:20250523T044406Z
-DTSTART:20250522T233000Z
-DTEND:20250522T233000Z
-SUMMARY:Koolamurt - Girton 7C, Bendigo Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22525
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22526@eventor.orienteering.asn.au
-DTSTAMP:20250523T045325Z
-DTSTART:20250523T013000Z
-DTEND:20250523T013000Z
-SUMMARY:Koolamurt - Girton 7D, Bendigo Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22526
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22377@eventor.orienteering.asn.au
-DTSTAMP:20250404T035502Z
-DTSTART:20250523T061500Z
-DTEND:20250523T071500Z
-SUMMARY:Mitcham Hiils Zone Event #4 Karinya Reserve, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/22377
-GEO:-35.0272967821626;138.602348802067
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22108@eventor.orienteering.asn.au
 DTSTAMP:20250525T075209Z
 DTSTART:20250523T140000Z
@@ -373,7 +348,7 @@ GEO:-34.9286060183934;138.599927705123
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_17620@eventor.orienteering.asn.au
-DTSTAMP:20250528T230300Z
+DTSTAMP:20250531T021549Z
 DTSTART:20250530T233000Z
 DTEND:20250531T020000Z
 SUMMARY:OY6 - Bunyaville - 50 years since first Qld Champs, Enoggeroos / Orienteering Queensland
@@ -382,7 +357,7 @@ GEO:-27.3815866055576;152.974495994066
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22416@eventor.orienteering.asn.au
-DTSTAMP:20250424T102026Z
+DTSTAMP:20250531T020741Z
 DTSTART:20250530T233000Z
 DTEND:20250531T020000Z
 SUMMARY:SOS Hawkesbury Nepean - Kingswood, Bold Horizons Event Organiser
@@ -391,7 +366,7 @@ GEO:-33.765188;150.729232
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22410@eventor.orienteering.asn.au
-DTSTAMP:20250424T094509Z
+DTSTAMP:20250531T022959Z
 DTSTART:20250530T233000Z
 DTEND:20250531T020000Z
 SUMMARY:SOS Northside - Gladesville, Bold Horizons Event Organiser
@@ -409,7 +384,7 @@ GEO:-35.4968609906529;149.258765636986
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21484@eventor.orienteering.asn.au
-DTSTAMP:20250527T025858Z
+DTSTAMP:20250531T043334Z
 DTSTART:20250531T013000Z
 DTEND:20250531T013000Z
 SUMMARY:ACT Metro Series: incl. Junior League #5, ACT League #5, Jim Sawkins Handicap, Tin Hut, Red Roos
@@ -462,7 +437,7 @@ GEO:-33.0018697110529;151.542542231917
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22394@eventor.orienteering.asn.au
-DTSTAMP:20250530T044342Z
+DTSTAMP:20250531T034943Z
 DTSTART:20250531T233000Z
 DTEND:20250601T033000Z
 SUMMARY:Ballarat Classics #3 - Captains Gully, Sandon State Forest - NO ENTER ON THE DAY!, Eureka Orienteers / Nillumbik Emus Orienteering Club
@@ -471,7 +446,7 @@ GEO:-37.1286860929429;143.993435263867
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21576@eventor.orienteering.asn.au
-DTSTAMP:20250530T083149Z
+DTSTAMP:20250531T090445Z
 DTSTART:20250601T000000Z
 DTEND:20250601T000000Z
 SUMMARY:Helensburgh - training bush event, Illawarra Kareelah Orienteers
@@ -1042,6 +1017,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22399
 GEO:-27.2881038323209;152.125503872044
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22569@eventor.orienteering.asn.au
+DTSTAMP:20250530T235222Z
+DTSTART:20250615T010000Z
+DTEND:20250615T023000Z
+SUMMARY:Family Orienteering Morning - sprint training and volunteering, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/22569
+GEO:-37.8409768786235;144.984979998633
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_22247@eventor.orienteering.asn.au
 DTSTAMP:20250502T025037Z
 DTSTART:20250615T010000Z
@@ -1127,6 +1111,15 @@ DTSTART:20250618T083000Z
 DTEND:20250618T101500Z
 SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - Eltham Town, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22207
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22570@eventor.orienteering.asn.au
+DTSTAMP:20250531T023602Z
+DTSTART:20250619T003000Z
+DTEND:20250619T010000Z
+SUMMARY:Gold Mine Picnic Area Mt Coot-tha, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/22570
+GEO:-27.4748101346649;152.945674885239
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22418@eventor.orienteering.asn.au
@@ -1348,6 +1341,15 @@ DTSTART:20250623T083000Z
 DTEND:20250623T101500Z
 SUMMARY:Melbourne Park Street Monday Night Series - Clarinda, Orienteering Victoria
 URL:https://eventor.orienteering.asn.au/Events/Show/22175
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22369@eventor.orienteering.asn.au
+DTSTAMP:20250530T224818Z
+DTSTART:20250624T140000Z
+DTEND:20250625T140000Z
+SUMMARY:Sydney MapRun Series 2025 #8 Dundas Valley, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22369
+GEO:-33.7941858494017;151.055307685982
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22439@eventor.orienteering.asn.au
