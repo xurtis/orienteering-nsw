@@ -12,41 +12,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22359
 GEO:-33.7790145347156;151.185728638161
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22461@eventor.orienteering.asn.au
-DTSTAMP:20250528T081327Z
-DTSTART:20250528T020000Z
-DTEND:20250528T020000Z
-SUMMARY:2025 WA Schools’ Orienteering Championships, Orienteering WA
-URL:https://eventor.orienteering.asn.au/Events/Show/22461
-GEO:-31.9482649942767;116.17449156154
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22435@eventor.orienteering.asn.au
-DTSTAMP:20250529T024638Z
-DTSTART:20250528T020000Z
-DTEND:20250528T040000Z
-SUMMARY:ACT Midweek Series: Narrabundah Hill, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/22435
-GEO:-35.3428289246643;149.02672875021
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22391@eventor.orienteering.asn.au
-DTSTAMP:20250502T002345Z
-DTSTART:20250528T073000Z
-DTEND:20250528T093000Z
-SUMMARY:2025 MapRun Series 2 - Race 4 - Edge Hill, Far North Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22391
-GEO:-16.9035075990509;145.735968092924
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22212@eventor.orienteering.asn.au
-DTSTAMP:20250306T050300Z
-DTSTART:20250528T083000Z
-DTEND:20250528T101500Z
-SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - Forest Chase, Dandenong Ranges Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22212
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22527@eventor.orienteering.asn.au
 DTSTAMP:20250529T050237Z
 DTSTART:20250528T233000Z
@@ -347,16 +312,16 @@ GEO:-27.6163842959491;152.989064602615
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22380@eventor.orienteering.asn.au
-DTSTAMP:20250407T215908Z
+DTSTAMP:20250605T085739Z
 DTSTART:20250606T093000Z
 DTEND:20250606T100000Z
-SUMMARY:Rebels/Raiders NightO Camp Prequel, Orienteering Victoria
+SUMMARY:Rebels/Raiders NightO Camp Prequel MOVED TO SUNDAY NIGHT, Orienteering Victoria
 URL:https://eventor.orienteering.asn.au/Events/Show/22380
 GEO:-37.3651666949778;144.149777510057
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22356@eventor.orienteering.asn.au
-DTSTAMP:20250529T124843Z
+DTSTAMP:20250605T100336Z
 DTSTART:20250606T140000Z
 DTEND:20250609T140000Z
 SUMMARY:2025 Kings Birthday 3 Days, Garingal Orienteers / Goldseekers Orienteers / Western and Hills Orienteers
@@ -410,7 +375,7 @@ GEO:-42.8829205468681;147.316270091187
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21887@eventor.orienteering.asn.au
-DTSTAMP:20250519T044015Z
+DTSTAMP:20250605T004340Z
 DTSTART:20250607T040000Z
 DTEND:20250607T063000Z
 SUMMARY:Wilpena Creek (Flinders Ranges Day 1), Tintookies Orienteers
@@ -464,7 +429,7 @@ GEO:-27.4794705498939;152.981606641119
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21826@eventor.orienteering.asn.au
-DTSTAMP:20250525T064204Z
+DTSTAMP:20250605T063819Z
 DTSTART:20250608T000000Z
 DTEND:20250608T013000Z
 SUMMARY:Sprint Weekend Hobart, Kingston Park - Tas Sprint Championships , Australopers Orienteering Club
@@ -508,15 +473,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22289
 GEO:-27.4798769380352;152.982205024777
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22462@eventor.orienteering.asn.au
-DTSTAMP:20250602T011911Z
-DTSTART:20250608T140000Z
-DTEND:20250609T140000Z
-SUMMARY:Sprint weekend Hobart, Fahan School - Tas Sprint Relay Champs - Individual Entry, Australopers Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22462
-GEO:-42.9157922466642;147.352252259076
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22571@eventor.orienteering.asn.au
 DTSTAMP:20250602T011619Z
 DTSTART:20250608T140000Z
@@ -534,15 +490,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22564
 GEO:-37.3476959604291;144.10705450444
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22393@eventor.orienteering.asn.au
-DTSTAMP:20250602T003217Z
-DTSTART:20250609T000000Z
-DTEND:20250609T000000Z
-SUMMARY:KB3 Victoria 2025 - Day 3 - Tipperary Springs - 2 Person Relay - ORGANISERS TEAM ENTRY ONLY, Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22393
-GEO:-37.3478862862882;144.107032602259
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21980@eventor.orienteering.asn.au
 DTSTAMP:20250529T092300Z
 DTSTART:20250609T000000Z
@@ -550,6 +497,15 @@ DTEND:20250609T000000Z
 SUMMARY:Rawnsley South (Flinders Ranges, Day 3), Tjuringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21980
 GEO:-31.671367989331;138.592190990314
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22462@eventor.orienteering.asn.au
+DTSTAMP:20250605T122336Z
+DTSTART:20250609T001500Z
+DTEND:20250609T001500Z
+SUMMARY:Sprint weekend Hobart, Fahan School - Tas Sprint Relay Champs - Individual Entry, Australopers Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22462
+GEO:-42.9157922466642;147.352252259076
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22173@eventor.orienteering.asn.au
@@ -578,7 +534,7 @@ GEO:-27.4431019745939;153.00193816728
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22557@eventor.orienteering.asn.au
-DTSTAMP:20250525T011043Z
+DTSTAMP:20250604T230936Z
 DTSTART:20250610T080000Z
 DTEND:20250610T080000Z
 SUMMARY:Night Nav - Cotton Tree Sprints, Sunshine Orienteers Club
@@ -691,7 +647,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21091
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22572@eventor.orienteering.asn.au
-DTSTAMP:20250604T052818Z
+DTSTAMP:20250605T064337Z
 DTSTART:20250614T060000Z
 DTEND:20250614T080000Z
 SUMMARY:Julians 40th Training, Central Coast Orienteers
@@ -727,7 +683,7 @@ GEO:-42.4622977654611;147.266732533506
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22074@eventor.orienteering.asn.au
-DTSTAMP:20250227T015105Z
+DTSTAMP:20250605T064522Z
 DTSTART:20250615T000000Z
 DTEND:20250615T020000Z
 SUMMARY:NTOC Glenburnie, Northern Tablelands Orienteering Club
@@ -1205,7 +1161,7 @@ DTSTART:20250629T010000Z
 DTEND:20250629T030000Z
 SUMMARY:Hawthorndene 100 Orienteering Event, Onkaparinga Hills Orienteering Club / Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/22428
-GEO:-35.0219269620872;138.623401222357
+GEO:-35.0223399072876;138.623460159595
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22248@eventor.orienteering.asn.au
