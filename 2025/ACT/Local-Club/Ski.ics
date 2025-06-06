@@ -12,23 +12,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22359
 GEO:-33.7790145347156;151.185728638161
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22527@eventor.orienteering.asn.au
-DTSTAMP:20250529T050237Z
-DTSTART:20250528T233000Z
-DTEND:20250528T233000Z
-SUMMARY:Koolamurt - Girton 7W, Bendigo Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22527
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22534@eventor.orienteering.asn.au
-DTSTAMP:20250529T024255Z
-DTSTART:20250529T003000Z
-DTEND:20250529T010000Z
-SUMMARY:John Sprent Park. New Map, Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/22534
-GEO:-27.5738166066716;152.892949597394
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22145@eventor.orienteering.asn.au
 DTSTAMP:20250529T104045Z
 DTSTART:20250530T142900Z
@@ -269,9 +252,9 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22191
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22368@eventor.orienteering.asn.au
-DTSTAMP:20250603T073721Z
+DTSTAMP:20250605T233137Z
 DTSTART:20250603T140000Z
-DTEND:20250608T135900Z
+DTEND:20250609T135900Z
 SUMMARY:Sydney MapRun Series 2025 #6 Balmain, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22368
 GEO:-33.8536495419352;151.184175246686
@@ -303,7 +286,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22204
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22565@eventor.orienteering.asn.au
-DTSTAMP:20250530T023820Z
+DTSTAMP:20250606T070038Z
 DTSTART:20250605T003000Z
 DTEND:20250605T010000Z
 SUMMARY:Blunder Creek, Orienteering Queensland
@@ -474,7 +457,7 @@ GEO:-27.4798769380352;152.982205024777
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22571@eventor.orienteering.asn.au
-DTSTAMP:20250602T011619Z
+DTSTAMP:20250606T011417Z
 DTSTART:20250608T140000Z
 DTEND:20250609T140000Z
 SUMMARY:Sprint Weekend Hobart, Fahan School - Tas Sprint Relay Champs - Team Management Only , Australopers Orienteering Club
@@ -1237,5 +1220,47 @@ DTSTART:20250702T083000Z
 DTEND:20250702T101500Z
 SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Glen Iris, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22496
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22449@eventor.orienteering.asn.au
+DTSTAMP:20250502T133949Z
+DTSTART:20250705T020000Z
+DTEND:20250707T030000Z
+SUMMARY:Orienteering WA Winter Junior Camp, Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/22449
+GEO:-31.8473524909914;116.252760138501
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21948@eventor.orienteering.asn.au
+DTSTAMP:20250430T095618Z
+DTSTART:20250705T023000Z
+DTEND:20250705T023000Z
+SUMMARY:Bendigo Bush - Mosquito Creek, Bendigo Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21948
+GEO:-36.8619796749056;144.478294292461
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22493@eventor.orienteering.asn.au
+DTSTAMP:20250516T050028Z
+DTSTART:20250705T040000Z
+DTEND:20250705T051000Z
+SUMMARY:Geelong Park Street Saturday Winter Series - Jen's Place, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22493
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22513@eventor.orienteering.asn.au
+DTSTAMP:20250516T052702Z
+DTSTART:20250705T040000Z
+DTEND:20250705T051000Z
+SUMMARY:Melbourne Park Street Saturday Series - Diamond Creek North, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22513
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21094@eventor.orienteering.asn.au
+DTSTAMP:20250316T003835Z
+DTSTART:20250705T043000Z
+DTEND:20250705T043000Z
+SUMMARY:EN L2O Series 9 - Chermside Hills tbc, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/21094
 END:VEVENT
 END:VCALENDAR
