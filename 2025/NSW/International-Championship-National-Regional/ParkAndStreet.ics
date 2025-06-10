@@ -3,32 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_22267@eventor.orienteering.asn.au
-DTSTAMP:20250602T094628Z
-DTSTART:20250602T013000Z
-DTEND:20250602T050000Z
-SUMMARY:Bush5 Frazzle - WA Classic Day 2, Orienteering WA / Wullundigong Orienteers of the West
-URL:https://eventor.orienteering.asn.au/Events/Show/22267
-GEO:-32.3383438280285;116.84455284154
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22331@eventor.orienteering.asn.au
-DTSTAMP:20250603T050001Z
-DTSTART:20250602T070000Z
-DTEND:20250602T100000Z
-SUMMARY:ACT MapRun Street Series: Throsby, 29 May - 2 Jun, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/22331
-GEO:-35.1865303863914;149.165311788211
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22172@eventor.orienteering.asn.au
-DTSTAMP:20250305T020425Z
-DTSTART:20250602T083000Z
-DTEND:20250602T101500Z
-SUMMARY:Melbourne Park Street Monday Night Series - Waverley Woods, Orienteering Victoria
-URL:https://eventor.orienteering.asn.au/Events/Show/22172
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21422@eventor.orienteering.asn.au
 DTSTAMP:20250603T100253Z
 DTSTART:20250603T073000Z
@@ -56,7 +30,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22191
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22368@eventor.orienteering.asn.au
-DTSTAMP:20250605T233137Z
+DTSTAMP:20250610T003042Z
 DTSTART:20250603T140000Z
 DTEND:20250609T135900Z
 SUMMARY:Sydney MapRun Series 2025 #6 Balmain, Garingal Orienteers
@@ -330,9 +304,9 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22555
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21426@eventor.orienteering.asn.au
-DTSTAMP:20250404T033353Z
+DTSTAMP:20250610T095527Z
 DTSTART:20250610T073000Z
-DTEND:20250610T091500Z
+DTEND:20250610T073000Z
 SUMMARY:Night Nav - Ashgrove East - Term 2 Series Event #7, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21426
 GEO:-27.4431019745939;153.00193816728
@@ -371,15 +345,6 @@ DTSTART:20250611T083000Z
 DTEND:20250611T101500Z
 SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - Reservoir (new map), Yarra Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22208
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22566@eventor.orienteering.asn.au
-DTSTAMP:20250529T063255Z
-DTSTART:20250611T140000Z
-DTEND:20250612T140000Z
-SUMMARY:Bergins Hill Bundamba, Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/22566
-GEO:-27.6242589123982;152.812288248883
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22092@eventor.orienteering.asn.au
@@ -498,7 +463,7 @@ GEO:-42.4622977654611;147.266732533506
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21872@eventor.orienteering.asn.au
-DTSTAMP:20250601T225248Z
+DTSTAMP:20250610T073859Z
 DTSTART:20250615T000000Z
 DTEND:20250615T030000Z
 SUMMARY:Waggaroos-AWOC Interclub #4, Burngoogee, Wagga and Riverina Orienteers
@@ -586,6 +551,14 @@ SUMMARY:Melbourne Park Street Monday Night Series - Greythorn, Orienteering Vict
 URL:https://eventor.orienteering.asn.au/Events/Show/22174
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22584@eventor.orienteering.asn.au
+DTSTAMP:20250610T085406Z
+DTSTART:20250616T143000Z
+DTEND:20250617T143000Z
+SUMMARY:The Great Australian KID-O Scavenger hunt, Onkaparinga Hills Orienteering Club / Orienteering Australia
+URL:https://eventor.orienteering.asn.au/Events/Show/22584
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21428@eventor.orienteering.asn.au
 DTSTAMP:20250404T033600Z
 DTSTART:20250617T073000Z
@@ -630,10 +603,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22207
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22570@eventor.orienteering.asn.au
-DTSTAMP:20250531T023602Z
+DTSTAMP:20250610T111739Z
 DTSTART:20250619T003000Z
 DTEND:20250619T010000Z
-SUMMARY:Gold Mine Picnic Area Mt Coot-tha, Orienteering Queensland
+SUMMARY:J  C Slaughter Falls Mt Coot-tha, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/22570
 GEO:-27.4748101346649;152.945674885239
 END:VEVENT
@@ -681,6 +654,15 @@ DTEND:20250621T023000Z
 SUMMARY:Event Cancelled --- Bendigo Bush - Lockwood Range, Bendigo Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21947
 GEO:-36.7478291771088;144.29671322399
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22581@eventor.orienteering.asn.au
+DTSTAMP:20250610T085528Z
+DTSTART:20250621T030000Z
+DTEND:20250622T000000Z
+SUMMARY:Southern Darts Overnight Camp, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/22581
+GEO:-35.0259902764884;139.147000611824
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22199@eventor.orienteering.asn.au
@@ -742,7 +724,7 @@ GEO:-27.9826964437984;153.326509470046
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21919@eventor.orienteering.asn.au
-DTSTAMP:20250519T230536Z
+DTSTAMP:20250610T095317Z
 DTSTART:20250621T230000Z
 DTEND:20250622T010000Z
 SUMMARY:The Gorges, Mountain Park, north of Dalveen, Bullecourt Boulder Bounders
@@ -767,6 +749,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22538
 GEO:-32.6631577336232;151.293862190393
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22582@eventor.orienteering.asn.au
+DTSTAMP:20250610T074209Z
+DTSTART:20250622T000000Z
+DTEND:20250622T020000Z
+SUMMARY:Goldseekers Bush Series #4 - CSU Orange, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22582
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21788@eventor.orienteering.asn.au
 DTSTAMP:20250601T071612Z
 DTSTART:20250622T000000Z
@@ -786,10 +776,10 @@ GEO:-33.2811585832094;137.237739388686
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21911@eventor.orienteering.asn.au
-DTSTAMP:20250601T060927Z
+DTSTAMP:20250610T062729Z
 DTSTART:20250622T003000Z
 DTEND:20250622T040000Z
-SUMMARY:Narrinyeri Hills Orienteer of the Year, Wallaringa Orienteering Club
+SUMMARY:Narrinyeri Hills Orienteer of the Year (Kinchina Conservation Park), Wallaringa Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21911
 GEO:-35.1126926420334;139.227224217973
 END:VEVENT
@@ -804,11 +794,12 @@ GEO:-31.964881220607;116.106478250667
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22116@eventor.orienteering.asn.au
-DTSTAMP:20250215T035821Z
+DTSTAMP:20250610T082041Z
 DTSTART:20250622T010000Z
 DTEND:20250622T030000Z
-SUMMARY:HOG June Orienteering, Hastings Orienteering Group
+SUMMARY:Dahlsford Orienteering, Hastings Orienteering Group
 URL:https://eventor.orienteering.asn.au/Events/Show/22116
+GEO:-31.4661897615029;152.905110504398
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22291@eventor.orienteering.asn.au
@@ -1090,6 +1081,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21888
 GEO:-34.8634116993317;138.713976133579
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22585@eventor.orienteering.asn.au
+DTSTAMP:20250610T121244Z
+DTSTART:20250705T230000Z
+DTEND:20250706T023000Z
+SUMMARY:2025 Sydney Metropolitan Turkey Trot, Western and Hills Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22585
+GEO:-33.7191268683614;151.043342728165
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_22540@eventor.orienteering.asn.au
 DTSTAMP:20250521T041556Z
 DTSTART:20250705T233000Z
@@ -1146,5 +1146,30 @@ DTSTART:20250707T083000Z
 DTEND:20250707T101500Z
 SUMMARY:Melbourne Park Street Monday Night Series - Ashwood North, Orienteering Victoria
 URL:https://eventor.orienteering.asn.au/Events/Show/22480
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22441@eventor.orienteering.asn.au
+DTSTAMP:20250501T025711Z
+DTSTART:20250709T020000Z
+DTEND:20250709T040000Z
+SUMMARY:ACT Midweek Series: Mt Jerrabomberra, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/22441
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21780@eventor.orienteering.asn.au
+DTSTAMP:20250604T121301Z
+DTSTART:20250709T083000Z
+DTEND:20250709T093000Z
+SUMMARY:Moonlight Madness - East Adelaide Parklands, Onkaparinga Hills Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21780
+GEO:-34.9235093717301;138.614735060542
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22497@eventor.orienteering.asn.au
+DTSTAMP:20250516T050545Z
+DTSTART:20250709T083000Z
+DTEND:20250709T101500Z
+SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Smiths Dell, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22497
 END:VEVENT
 END:VCALENDAR
