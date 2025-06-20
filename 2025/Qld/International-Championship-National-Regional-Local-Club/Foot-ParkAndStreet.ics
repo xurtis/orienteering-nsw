@@ -3,41 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_22437@eventor.orienteering.asn.au
-DTSTAMP:20250611T043419Z
-DTSTART:20250611T020000Z
-DTEND:20250611T040000Z
-SUMMARY:ACT Midweek Series: Oakey Hill, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/22437
-GEO:-35.3348033533837;149.071584916653
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22535@eventor.orienteering.asn.au
-DTSTAMP:20250611T113237Z
-DTSTART:20250611T073000Z
-DTEND:20250611T073000Z
-SUMMARY:Moonlight Madness #2 - Clontarf, Bennelong Northside Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22535
-GEO:-33.8068198054701;151.25207698718
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22208@eventor.orienteering.asn.au
-DTSTAMP:20250306T045839Z
-DTSTART:20250611T083000Z
-DTEND:20250611T101500Z
-SUMMARY:Melbourne Park Street Wednesday Autumn Classic Series - Reservoir (new map), Yarra Valley Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22208
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22092@eventor.orienteering.asn.au
-DTSTAMP:20250616T230847Z
-DTSTART:20250612T003000Z
-DTEND:20250612T010000Z
-SUMMARY:Bergins Hill, Blackstone, Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/22092
-GEO:-27.623631350457;152.812591382232
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22417@eventor.orienteering.asn.au
 DTSTAMP:20250614T022947Z
 DTSTART:20250613T233000Z
@@ -285,12 +250,20 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22207
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22570@eventor.orienteering.asn.au
-DTSTAMP:20250615T092035Z
+DTSTAMP:20250619T023732Z
 DTSTART:20250619T003000Z
 DTEND:20250619T003000Z
 SUMMARY:J  C Slaughter Falls Mt Coot-tha, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/22570
 GEO:-27.4687462194709;152.970376968276
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22528@eventor.orienteering.asn.au
+DTSTAMP:20250620T042607Z
+DTSTART:20250619T233000Z
+DTEND:20250619T233000Z
+SUMMARY:Koolamurt - Girton 7V, Bendigo Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22528
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22418@eventor.orienteering.asn.au
@@ -477,6 +450,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21911
 GEO:-35.1126926420334;139.227224217973
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22116@eventor.orienteering.asn.au
+DTSTAMP:20250619T090453Z
+DTSTART:20250622T010000Z
+DTEND:20250622T010000Z
+SUMMARY:Dahlsford Orienteering, Hastings Orienteering Group
+URL:https://eventor.orienteering.asn.au/Events/Show/22116
+GEO:-31.4661897615029;152.905110504398
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_22269@eventor.orienteering.asn.au
 DTSTAMP:20250526T123351Z
 DTSTART:20250622T010000Z
@@ -484,15 +466,6 @@ DTEND:20250622T010000Z
 SUMMARY:MTBO4 Kalamunda, Kulgun 225 Orienteers / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/22269
 GEO:-31.964881220607;116.106478250667
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22116@eventor.orienteering.asn.au
-DTSTAMP:20250614T021415Z
-DTSTART:20250622T010000Z
-DTEND:20250622T030000Z
-SUMMARY:Dahlsford Orienteering, Hastings Orienteering Group
-URL:https://eventor.orienteering.asn.au/Events/Show/22116
-GEO:-31.4661897615029;152.905110504398
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22291@eventor.orienteering.asn.au
@@ -513,9 +486,9 @@ GEO:-34.4475588917159;150.446286213241
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22333@eventor.orienteering.asn.au
-DTSTAMP:20250513T010259Z
+DTSTAMP:20250619T124102Z
 DTSTART:20250623T070000Z
-DTEND:20250623T100000Z
+DTEND:20250623T070000Z
 SUMMARY:ACT MapRun Street Series: O'Malley, 19-23 Jun, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/22333
 GEO:-35.3570897676542;149.107373341112
@@ -598,15 +571,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21795
 GEO:-42.8808885812827;147.397953675285
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22395@eventor.orienteering.asn.au
-DTSTAMP:20250608T075933Z
-DTSTART:20250628T220000Z
-DTEND:20250629T043000Z
-SUMMARY:Ballarat Local - Nerrina Historic Area, Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22395
-GEO:-37.5184336172532;143.908189288594
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22236@eventor.orienteering.asn.au
 DTSTAMP:20250525T070459Z
 DTSTART:20250628T223000Z
@@ -622,6 +586,16 @@ DTSTART:20250628T233000Z
 DTEND:20250629T010000Z
 SUMMARY:ACT Sprint Series #1, Deakin Offices, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/22588
+GEO:-35.3149979088964;149.096797897213
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22395@eventor.orienteering.asn.au
+DTSTAMP:20250620T100120Z
+DTSTART:20250629T000000Z
+DTEND:20250629T000000Z
+SUMMARY:Ballarat Local - Nerrina Historic Area, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22395
+GEO:-37.5188547156872;143.908241641696
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21873@eventor.orienteering.asn.au
@@ -787,6 +761,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21888
 GEO:-34.8634116993317;138.713976133579
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22656@eventor.orienteering.asn.au
+DTSTAMP:20250619T102642Z
+DTSTART:20250705T230000Z
+DTEND:20250705T230000Z
+SUMMARY:Waverley Park - Learn to Orienteer Week 1, Australopers Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22656
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_22585@eventor.orienteering.asn.au
 DTSTAMP:20250610T121244Z
 DTSTART:20250705T230000Z
@@ -831,20 +813,12 @@ GEO:-33.2500674465237;137.24083441604
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22270@eventor.orienteering.asn.au
-DTSTAMP:20250604T060907Z
+DTSTAMP:20250620T012553Z
 DTSTART:20250706T013000Z
 DTEND:20250706T050000Z
 SUMMARY:Bush7 Yetar Springs N, Bibbulmun Orienteers / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/22270
 GEO:-31.9252650845948;116.347827252312
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22603@eventor.orienteering.asn.au
-DTSTAMP:20250616T085016Z
-DTSTART:20250706T060000Z
-DTEND:20250706T060000Z
-SUMMARY:MapRun Parks 2025 - Venue - TBC, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22603
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22335@eventor.orienteering.asn.au
@@ -958,6 +932,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22401
 GEO:-27.3217511564484;152.005551705134
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22655@eventor.orienteering.asn.au
+DTSTAMP:20250619T074402Z
+DTSTART:20250713T000000Z
+DTEND:20250713T000000Z
+SUMMARY:NTOC Moonbi TSR, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22655
+GEO:-30.9360883774544;151.111927227495
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21907@eventor.orienteering.asn.au
 DTSTAMP:20250430T192400Z
 DTSTART:20250713T000000Z
@@ -985,7 +968,7 @@ GEO:-27.5393459765867;152.967233311675
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22400@eventor.orienteering.asn.au
-DTSTAMP:20250602T102026Z
+DTSTAMP:20250619T043713Z
 DTSTART:20250713T143000Z
 DTEND:20250717T143000Z
 SUMMARY:SA Junior Arrows Camp - All days, Orienteering SA
@@ -994,7 +977,7 @@ GEO:-35.0444215591215;138.684554595841
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22551@eventor.orienteering.asn.au
-DTSTAMP:20250602T102124Z
+DTSTAMP:20250619T044047Z
 DTSTART:20250714T003000Z
 DTEND:20250714T003000Z
 SUMMARY:SA Junior Arrows Camp - Day 1, Orienteering SA
@@ -1020,7 +1003,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22481
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22552@eventor.orienteering.asn.au
-DTSTAMP:20250602T102350Z
+DTSTAMP:20250619T044148Z
 DTSTART:20250714T143000Z
 DTEND:20250715T143000Z
 SUMMARY:SA Junior Arrows Camp - Day 2, Orienteering SA
@@ -1029,7 +1012,7 @@ GEO:-35.0442211456437;138.6842791404
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22553@eventor.orienteering.asn.au
-DTSTAMP:20250602T102420Z
+DTSTAMP:20250619T044310Z
 DTSTART:20250715T143000Z
 DTEND:20250716T143000Z
 SUMMARY:SA Junior Arrows Camp - Day 3, Orienteering SA
@@ -1078,5 +1061,74 @@ DTEND:20250717T143000Z
 SUMMARY:SA Junior Arrows Camp - Day 4, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/22554
 GEO:-35.044323117069;138.68413223315
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22635@eventor.orienteering.asn.au
+DTSTAMP:20250619T225927Z
+DTSTART:20250719T020000Z
+DTEND:20250719T020000Z
+SUMMARY:NSW SL10 (Middle Distance) The Pines - Martinsville (Olney State Forest), Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22635
+GEO:-33.0629;151.3366
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22495@eventor.orienteering.asn.au
+DTSTAMP:20250516T050225Z
+DTSTART:20250719T040000Z
+DTEND:20250719T051000Z
+SUMMARY:Geelong Park Street Saturday Winter Series - Bunyip Pool, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22495
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22259@eventor.orienteering.asn.au
+DTSTAMP:20250315T004749Z
+DTSTART:20250719T040000Z
+DTEND:20250719T053000Z
+SUMMARY:Tundari PM Event, Onkaparinga Hills Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22259
+GEO:-33.2277142623141;139.006047594531
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22521@eventor.orienteering.asn.au
+DTSTAMP:20250516T053853Z
+DTSTART:20250719T040000Z
+DTEND:20250719T061000Z
+SUMMARY:Melbourne Park Street Saturday Series - Springthorpe ENDURO, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22521
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21095@eventor.orienteering.asn.au
+DTSTAMP:20250609T030135Z
+DTSTART:20250719T043000Z
+DTEND:20250719T043000Z
+SUMMARY:EN L2O Series 10 - Samford West, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/21095
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22573@eventor.orienteering.asn.au
+DTSTAMP:20250617T072418Z
+DTSTART:20250719T050000Z
+DTEND:20250719T050000Z
+SUMMARY:Bush 8 Mornington Adventure Camp - Migrating Trees, Orienteering WA / South-West Orienteering Trekkers
+URL:https://eventor.orienteering.asn.au/Events/Show/22573
+GEO:-33.1436479273113;115.929191919865
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22271@eventor.orienteering.asn.au
+DTSTAMP:20250617T072511Z
+DTSTART:20250719T061500Z
+DTEND:20250719T061500Z
+SUMMARY:Bush8 Mornington Adventure Camp - Boomer Sprint, Orienteering WA / South-West Orienteering Trekkers
+URL:https://eventor.orienteering.asn.au/Events/Show/22271
+GEO:-33.1436479273113;115.929191919865
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22574@eventor.orienteering.asn.au
+DTSTAMP:20250619T012250Z
+DTSTART:20250719T100000Z
+DTEND:20250719T100000Z
+SUMMARY:SWOT 40th Anniversary, South-West Orienteering Trekkers
+URL:https://eventor.orienteering.asn.au/Events/Show/22574
+GEO:-33.3277262270812;115.654790608812
 END:VEVENT
 END:VCALENDAR
