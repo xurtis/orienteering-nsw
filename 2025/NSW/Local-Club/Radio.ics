@@ -3,23 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_22584@eventor.orienteering.asn.au
-DTSTAMP:20250610T085406Z
-DTSTART:20250616T143000Z
-DTEND:20250617T143000Z
-SUMMARY:The Great Australian KID-O Scavenger hunt, Onkaparinga Hills Orienteering Club / Orienteering Australia
-URL:https://eventor.orienteering.asn.au/Events/Show/22584
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21428@eventor.orienteering.asn.au
-DTSTAMP:20250617T095208Z
-DTSTART:20250617T073000Z
-DTEND:20250617T073000Z
-SUMMARY:Night Nav - Moorooka - Term 2 Series Event #8, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21428
-GEO:-27.5320712470666;153.031185009603
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22362@eventor.orienteering.asn.au
 DTSTAMP:20250622T231132Z
 DTSTART:20250617T140000Z
@@ -326,7 +309,7 @@ GEO:-33.8077559087135;151.050574387858
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22439@eventor.orienteering.asn.au
-DTSTAMP:20250616T022401Z
+DTSTAMP:20250625T052408Z
 DTSTART:20250625T020000Z
 DTEND:20250625T020000Z
 SUMMARY:ACT Midweek Series: Cooleman Ridge, Orienteering ACT
@@ -366,6 +349,7 @@ DTSTART:20250628T040000Z
 DTEND:20250628T040000Z
 SUMMARY:Goldseekers Opening of New Permanent Course, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22667
+GEO:-33.2880806496061;149.087229929706
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22200@eventor.orienteering.asn.au
@@ -421,7 +405,7 @@ GEO:-35.3149979088964;149.096797897213
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22395@eventor.orienteering.asn.au
-DTSTAMP:20250624T044019Z
+DTSTAMP:20250625T102436Z
 DTSTART:20250629T000000Z
 DTEND:20250629T000000Z
 SUMMARY:Ballarat Local - Nerrina Historic Area, Eureka Orienteers
@@ -629,7 +613,7 @@ GEO:-42.8670801348473;147.382123830191
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21888@eventor.orienteering.asn.au
-DTSTAMP:20250621T031331Z
+DTSTAMP:20250625T104647Z
 DTSTART:20250706T003000Z
 DTEND:20250706T003000Z
 SUMMARY:Black Hill, Tintookies Orienteers
@@ -766,6 +750,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22591
 GEO:-35.2981446553153;149.122726190173
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_21907@eventor.orienteering.asn.au
+DTSTAMP:20250625T041053Z
+DTSTART:20250713T000000Z
+DTEND:20250713T000000Z
+SUMMARY:AWOC-Waggaroos Interclub #5 - 9 Mile Reserve, Albury-Wodonga Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21907
+GEO:-35.9808560033848;146.978276075075
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_22401@eventor.orienteering.asn.au
 DTSTAMP:20250420T225812Z
 DTSTART:20250713T000000Z
@@ -773,14 +766,6 @@ DTEND:20250713T000000Z
 SUMMARY:Jericho, near Crows Nest NEW MAP, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22401
 GEO:-27.3217511564484;152.005551705134
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21907@eventor.orienteering.asn.au
-DTSTAMP:20250430T192400Z
-DTSTART:20250713T000000Z
-DTEND:20250713T040000Z
-SUMMARY:AWOC-Waggaroos Interclub #5 Flyfare Woomargama (tbc), Albury-Wodonga Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21907
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22655@eventor.orienteering.asn.au
@@ -793,12 +778,12 @@ GEO:-30.9360883774544;151.111927227495
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22141@eventor.orienteering.asn.au
-DTSTAMP:20250611T062323Z
+DTSTAMP:20250624T234504Z
 DTSTART:20250713T003000Z
-DTEND:20250713T023000Z
+DTEND:20250713T003000Z
 SUMMARY:Highlands Forest Series #3 - Soapy Flat, west of Mittagong, Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22141
-GEO:-34.402442356096;150.354911934052
+GEO:-34.392314770343;150.345513473664
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22605@eventor.orienteering.asn.au
@@ -881,7 +866,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22442
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22314@eventor.orienteering.asn.au
-DTSTAMP:20250622T105027Z
+DTSTAMP:20250625T120246Z
 DTSTART:20250716T073000Z
 DTEND:20250716T073000Z
 SUMMARY:Moonlight Madness #3 Roseville / Lindfield, Garingal Orienteers
@@ -904,6 +889,15 @@ DTEND:20250717T143000Z
 SUMMARY:SA Junior Arrows Camp - Day 4, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/22554
 GEO:-35.044323117069;138.68413223315
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22682@eventor.orienteering.asn.au
+DTSTAMP:20250625T004930Z
+DTSTART:20250718T230000Z
+DTEND:20250718T230000Z
+SUMMARY:Training Day - Women and Girls - Foot and MTB Orienteering, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22682
+GEO:-26.7953844571717;152.995785324723
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22635@eventor.orienteering.asn.au
@@ -1021,7 +1015,7 @@ GEO:-32.8028957663251;151.905379894664
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22598@eventor.orienteering.asn.au
-DTSTAMP:20250612T055431Z
+DTSTAMP:20250625T044516Z
 DTSTART:20250719T233000Z
 DTEND:20250720T033000Z
 SUMMARY:Ballarat Classics #4 - Hepburn Regional Park, Eureka Orienteers
