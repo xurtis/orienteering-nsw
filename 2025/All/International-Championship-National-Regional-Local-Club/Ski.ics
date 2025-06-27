@@ -12,15 +12,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22362
 GEO:-33.8998922320328;151.269772523792
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22570@eventor.orienteering.asn.au
-DTSTAMP:20250619T023732Z
-DTSTART:20250619T003000Z
-DTEND:20250619T003000Z
-SUMMARY:J  C Slaughter Falls Mt Coot-tha, Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/22570
-GEO:-27.4687462194709;152.970376968276
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22528@eventor.orienteering.asn.au
 DTSTAMP:20250620T042607Z
 DTSTART:20250619T233000Z
@@ -588,10 +579,10 @@ GEO:-42.8670801348473;147.382123830191
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21888@eventor.orienteering.asn.au
-DTSTAMP:20250625T104647Z
+DTSTAMP:20250627T064549Z
 DTSTART:20250706T003000Z
 DTEND:20250706T003000Z
-SUMMARY:Black Hill, Tintookies Orienteers
+SUMMARY:Black Hill - A Winter Orienteering Urban Event, Tintookies Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21888
 GEO:-34.8634116993317;138.713976133579
 END:VEVENT
@@ -1087,5 +1078,58 @@ DTSTART:20250723T083000Z
 DTEND:20250723T101500Z
 SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Knox Fields, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22499
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22578@eventor.orienteering.asn.au
+DTSTAMP:20250615T102704Z
+DTSTART:20250726T000000Z
+DTEND:20250726T000000Z
+SUMMARY:2025 Qld Schools Champs - Sprint, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/22578
+GEO:-26.5418843527418;151.832548307133
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21495@eventor.orienteering.asn.au
+DTSTAMP:20250324T012222Z
+DTSTART:20250726T003000Z
+DTEND:20250726T030000Z
+SUMMARY:ACT Metro Series: incl. Junior League #9, Mt Painter, Bushflyers
+URL:https://eventor.orienteering.asn.au/Events/Show/21495
+GEO:-35.2661405298004;149.069653026045
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22613@eventor.orienteering.asn.au
+DTSTAMP:20250615T104918Z
+DTSTART:20250726T010000Z
+DTEND:20250726T010000Z
+SUMMARY:2025 QSOC Public Race - Sprint, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/22613
+GEO:-26.5419089048275;151.832758196978
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22273@eventor.orienteering.asn.au
+DTSTAMP:20250316T040909Z
+DTSTART:20250726T010000Z
+DTEND:20250726T040000Z
+SUMMARY:NavDash7 State Sprint Championships, Orienteering WA / Wullundigong Orienteers of the West
+URL:https://eventor.orienteering.asn.au/Events/Show/22273
+GEO:-31.9856298941285;115.777338889909
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22510@eventor.orienteering.asn.au
+DTSTAMP:20250516T052403Z
+DTSTART:20250726T040000Z
+DTEND:20250726T051000Z
+SUMMARY:Melbourne Park Street Saturday Series - Mullum Mullum, Dandenong Ranges Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22510
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22579@eventor.orienteering.asn.au
+DTSTAMP:20250617T032054Z
+DTSTART:20250726T043000Z
+DTEND:20250726T043000Z
+SUMMARY:2025 Qld Schools Champs - Mass Start - Hagaby, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/22579
+GEO:-26.3193164670601;151.869971932926
 END:VEVENT
 END:VCALENDAR
