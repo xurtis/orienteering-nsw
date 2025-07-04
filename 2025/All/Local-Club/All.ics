@@ -12,15 +12,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22369
 GEO:-33.8077559087135;151.050574387858
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22661@eventor.orienteering.asn.au
-DTSTAMP:20250626T100315Z
-DTSTART:20250626T003000Z
-DTEND:20250626T003000Z
-SUMMARY:Dutton Park, Dutton Park, Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/22661
-GEO:-27.4968114626211;153.023210735999
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21494@eventor.orienteering.asn.au
 DTSTAMP:20250628T030811Z
 DTSTART:20250628T003000Z
@@ -244,14 +235,6 @@ DTSTART:20250705T040000Z
 DTEND:20250705T051000Z
 SUMMARY:Melbourne Park Street Saturday Series - Diamond Creek North, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22513
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21094@eventor.orienteering.asn.au
-DTSTAMP:20250609T030400Z
-DTSTART:20250705T043000Z
-DTEND:20250705T043000Z
-SUMMARY:EN L2O Series 9 - event cancelled, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/21094
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22656@eventor.orienteering.asn.au
@@ -501,7 +484,7 @@ GEO:-35.0444215591215;138.684554595841
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22551@eventor.orienteering.asn.au
-DTSTAMP:20250619T044047Z
+DTSTAMP:20250704T004453Z
 DTSTART:20250714T003000Z
 DTEND:20250714T003000Z
 SUMMARY:SA Junior Arrows Camp - Day 1, Orienteering SA
@@ -838,15 +821,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22613
 GEO:-26.5419089048275;151.832758196978
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22273@eventor.orienteering.asn.au
-DTSTAMP:20250702T082050Z
-DTSTART:20250726T010000Z
-DTEND:20250726T040000Z
-SUMMARY:NavDash7 State Sprint Championships, Orienteering WA / Wullundigong Orienteers of the West
-URL:https://eventor.orienteering.asn.au/Events/Show/22273
-GEO:-31.9870738718724;115.777984698401
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22510@eventor.orienteering.asn.au
 DTSTAMP:20250516T052403Z
 DTSTART:20250726T040000Z
@@ -862,6 +836,15 @@ DTEND:20250726T043000Z
 SUMMARY:2025 Qld Schools Champs - Mass Start - Hagaby, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/22579
 GEO:-26.3193164670601;151.869971932926
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22273@eventor.orienteering.asn.au
+DTSTAMP:20250704T044343Z
+DTSTART:20250726T053000Z
+DTEND:20250726T053000Z
+SUMMARY:NavDash7 State Sprint Championships, Orienteering WA / Wullundigong Orienteers of the West
+URL:https://eventor.orienteering.asn.au/Events/Show/22273
+GEO:-31.9870738718724;115.777984698401
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21889@eventor.orienteering.asn.au
@@ -1119,5 +1102,64 @@ DTSTART:20250802T083000Z
 DTEND:20250802T103000Z
 SUMMARY:Shepherds Hill (SA Night Championships), Tjuringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21981
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21486@eventor.orienteering.asn.au
+DTSTAMP:20241025T003205Z
+DTSTART:20250802T140000Z
+DTEND:20250803T140000Z
+SUMMARY:ACT Classic Series: ACT League #7, TBA, Bushflyers
+URL:https://eventor.orienteering.asn.au/Events/Show/21486
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21789@eventor.orienteering.asn.au
+DTSTAMP:20250403T064430Z
+DTSTART:20250802T140000Z
+DTEND:20250803T140000Z
+SUMMARY:MelBushO 6 - Jells Park, Wheelers Hill, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21789
+GEO:-37.8959428205249;145.195211099388
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22657@eventor.orienteering.asn.au
+DTSTAMP:20250619T102934Z
+DTSTART:20250802T230000Z
+DTEND:20250802T230000Z
+SUMMARY:Geilston Gully - Learn to Orienteer Week 2, Australopers Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22657
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22542@eventor.orienteering.asn.au
+DTSTAMP:20250521T041951Z
+DTSTART:20250802T233000Z
+DTEND:20250803T030000Z
+SUMMARY:Newcastle NOY7 - Stockrington (Sugarloaf North), Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22542
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21798@eventor.orienteering.asn.au
+DTSTAMP:20250328T084406Z
+DTSTART:20250803T000000Z
+DTEND:20250803T030000Z
+SUMMARY:Geilston Gully - Southern Local #6, Australopers Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21798
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22275@eventor.orienteering.asn.au
+DTSTAMP:20250316T043335Z
+DTSTART:20250803T010000Z
+DTEND:20250803T033000Z
+SUMMARY:MTBO5 Dwellingup, Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/22275
+GEO:-32.7106202150652;116.063656748988
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22608@eventor.orienteering.asn.au
+DTSTAMP:20250613T075251Z
+DTSTART:20250803T060000Z
+DTEND:20250803T060000Z
+SUMMARY:MapRun Parks 2025 - Yeronga, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22608
+GEO:-27.5119847505056;153.014958846684
 END:VEVENT
 END:VCALENDAR
