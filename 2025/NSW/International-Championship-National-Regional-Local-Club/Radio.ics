@@ -407,10 +407,10 @@ GEO:-33.0629;151.3366
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22259@eventor.orienteering.asn.au
-DTSTAMP:20250702T103039Z
+DTSTAMP:20250712T043153Z
 DTSTART:20250719T040000Z
 DTEND:20250719T040000Z
-SUMMARY:Tundari NE of Hallet - Middle Distance Event, Onkaparinga Hills Orienteering Club
+SUMMARY:Tundarri NE of Hallet - Middle Distance Event, Onkaparinga Hills Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22259
 GEO:-33.2277142623141;139.006047594531
 END:VEVENT
@@ -493,7 +493,7 @@ GEO:-27.8266481042627;153.167640000118
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21918@eventor.orienteering.asn.au
-DTSTAMP:20250519T230424Z
+DTSTAMP:20250711T230020Z
 DTSTART:20250719T230000Z
 DTEND:20250720T010000Z
 SUMMARY:Dalmoak, NE of Stanthorpe, Bullecourt Boulder Bounders
@@ -640,7 +640,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22728
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22727@eventor.orienteering.asn.au
-DTSTAMP:20250711T035050Z
+DTSTAMP:20250712T013440Z
 DTSTART:20250725T233000Z
 DTEND:20250726T020000Z
 SUMMARY:SOS Northside - Warrawee, Bold Horizons Event Organiser
@@ -728,12 +728,12 @@ GEO:-13.1010749605025;130.78484510266
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21607@eventor.orienteering.asn.au
-DTSTAMP:20250621T002826Z
+DTSTAMP:20250711T232815Z
 DTSTART:20250726T233000Z
 DTEND:20250726T233000Z
-SUMMARY:2025 Metro League #5 - Western Sydney Regional Park, Western and Hills Orienteers
+SUMMARY:2025 Metro League #5 - Western Sydney Parklands, Western and Hills Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21607
-GEO:-33.8849808181614;150.819358752976
+GEO:-33.8513502382955;150.872266328346
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22580@eventor.orienteering.asn.au
@@ -763,7 +763,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22541
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21739@eventor.orienteering.asn.au
-DTSTAMP:20250711T052054Z
+DTSTAMP:20250712T030328Z
 DTSTART:20250727T000000Z
 DTEND:20250727T000000Z
 SUMMARY:Vic Series 6 - Irishtown, Bayside Kangaroos Orienteers
@@ -1260,5 +1260,30 @@ DTEND:20250810T030000Z
 SUMMARY:Port Lincoln: gurra yarda (EP Relays), Lincoln Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22251
 GEO:-34.6482045181919;135.834569211243
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21556@eventor.orienteering.asn.au
+DTSTAMP:20250620T113839Z
+DTSTART:20250810T233000Z
+DTEND:20250810T233000Z
+SUMMARY:Sydney North Schools Carnival, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/21556
+GEO:-33.7630538883863;151.132530152004
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22340@eventor.orienteering.asn.au
+DTSTAMP:20250406T235341Z
+DTSTART:20250811T070000Z
+DTEND:20250811T100000Z
+SUMMARY:ACT MapRun Street Series: Wanniassa, 7-11 Aug, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/22340
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22485@eventor.orienteering.asn.au
+DTSTAMP:20250516T045239Z
+DTSTART:20250811T083000Z
+DTEND:20250811T101500Z
+SUMMARY:Melbourne Park Street Monday Night Series - Templestowe Heights, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/22485
 END:VEVENT
 END:VCALENDAR
