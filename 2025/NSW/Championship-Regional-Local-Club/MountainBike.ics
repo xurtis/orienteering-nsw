@@ -55,6 +55,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22706
 GEO:-27.3769527439451;153.033933357381
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22111@eventor.orienteering.asn.au
+DTSTAMP:20250716T073918Z
+DTSTART:20250711T140000Z
+DTEND:20250712T140000Z
+SUMMARY:Map Run Parks - Gold Coast - Event #9 12th Jul. The Spit., Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22111
+GEO:-27.9471537179705;153.425243164755
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_22700@eventor.orienteering.asn.au
 DTSTAMP:20250628T061907Z
 DTSTART:20250711T230000Z
@@ -87,15 +96,6 @@ DTSTART:20250712T040000Z
 DTEND:20250712T051000Z
 SUMMARY:Melbourne Park Street Saturday Series - Gardiners Bend, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22516
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22111@eventor.orienteering.asn.au
-DTSTAMP:20250709T102210Z
-DTSTART:20250712T050000Z
-DTEND:20250712T050000Z
-SUMMARY:Map Run Parks - Gold Coast - Event #9 12th Jul. The Spit., Paradise Lost Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22111
-GEO:-27.9471537179705;153.425243164755
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22662@eventor.orienteering.asn.au
@@ -233,7 +233,7 @@ GEO:-35.1540272240914;149.156389822471
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22314@eventor.orienteering.asn.au
-DTSTAMP:20250715T082520Z
+DTSTAMP:20250716T120624Z
 DTSTART:20250716T073000Z
 DTEND:20250716T073000Z
 SUMMARY:Moonlight Madness #3 Roseville / Lindfield, Garingal Orienteers
@@ -286,7 +286,7 @@ GEO:-26.7953844571717;152.995785324723
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22635@eventor.orienteering.asn.au
-DTSTAMP:20250715T124552Z
+DTSTAMP:20250716T093149Z
 DTSTART:20250719T020000Z
 DTEND:20250719T020000Z
 SUMMARY:* NSW State League 10 (Middle) The Pines - Martinsville (Olney State Forest)  , Newcastle Orienteering Club
@@ -392,7 +392,7 @@ GEO:-35.2485946055184;149.09489838037
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22634@eventor.orienteering.asn.au
-DTSTAMP:20250715T124754Z
+DTSTAMP:20250716T094514Z
 DTSTART:20250719T233000Z
 DTEND:20250720T033000Z
 SUMMARY:* NSW State League 11 (Long) - Salt Ash, Newcastle Orienteering Club
@@ -419,7 +419,7 @@ GEO:-42.83748;147.6018
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22260@eventor.orienteering.asn.au
-DTSTAMP:20250715T083710Z
+DTSTAMP:20250716T130915Z
 DTSTART:20250720T003000Z
 DTEND:20250720T003000Z
 SUMMARY:Bri Glen OY, Yalanga Orienteers
@@ -1062,6 +1062,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21951
 GEO:-37.0368629380316;144.109970047698
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22705@eventor.orienteering.asn.au
+DTSTAMP:20250716T052136Z
+DTSTART:20250809T040000Z
+DTEND:20250809T040000Z
+SUMMARY:ALL WELCOME - Scouts Northern Beaches District event - Frenchs Forest, Bennelong Northside Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22705
+GEO:-33.7368078796674;151.236171513357
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21781@eventor.orienteering.asn.au
 DTSTAMP:20250627T064821Z
 DTSTART:20250809T040000Z
@@ -1069,15 +1078,6 @@ DTEND:20250809T040000Z
 SUMMARY:Callington - An event in the Winter Orienteering Urban Event Series, Onkaparinga Hills Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21781
 GEO:-35.1137888554333;139.039430168714
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22705@eventor.orienteering.asn.au
-DTSTAMP:20250702T044017Z
-DTSTART:20250809T040000Z
-DTEND:20250809T040000Z
-SUMMARY:Frenchs Forest - ALL WELCOME - Scouts Northern Beaches District event, Bennelong Northside Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22705
-GEO:-33.7368078796674;151.236171513357
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22520@eventor.orienteering.asn.au
@@ -1259,5 +1259,14 @@ DTSTART:20250813T083000Z
 DTEND:20250813T101500Z
 SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Blackburn North, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22500
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21163@eventor.orienteering.asn.au
+DTSTAMP:20250704T024107Z
+DTSTART:20250815T010000Z
+DTEND:20250815T010000Z
+SUMMARY:QLD MTBO Champs - Mass Start, Multi Terrain Bike Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21163
+GEO:-28.4734978095624;152.131047973711
 END:VEVENT
 END:VCALENDAR
