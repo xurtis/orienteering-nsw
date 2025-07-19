@@ -241,6 +241,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22736
 GEO:-28.0090896946613;153.388197641393
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22753@eventor.orienteering.asn.au
+DTSTAMP:20250718T225614Z
+DTSTART:20250718T140000Z
+DTEND:20250719T140000Z
+SUMMARY:MFR training, Melbourne Forest Racers
+URL:https://eventor.orienteering.asn.au/Events/Show/22753
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_22682@eventor.orienteering.asn.au
 DTSTAMP:20250625T004930Z
 DTSTART:20250718T230000Z
@@ -251,7 +259,7 @@ GEO:-26.7953844571717;152.995785324723
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22635@eventor.orienteering.asn.au
-DTSTAMP:20250716T093149Z
+DTSTAMP:20250719T063710Z
 DTSTART:20250719T020000Z
 DTEND:20250719T020000Z
 SUMMARY:* NSW State League 10 (Middle) The Pines - Martinsville (Olney State Forest)  , Newcastle Orienteering Club
@@ -260,7 +268,7 @@ GEO:-33.0629;151.3366
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22259@eventor.orienteering.asn.au
-DTSTAMP:20250712T043153Z
+DTSTAMP:20250719T085026Z
 DTSTART:20250719T040000Z
 DTEND:20250719T040000Z
 SUMMARY:Tundarri NE of Hallet - Middle Distance Event, Onkaparinga Hills Orienteering Club
@@ -285,7 +293,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22521
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21095@eventor.orienteering.asn.au
-DTSTAMP:20250715T090802Z
+DTSTAMP:20250719T071447Z
 DTSTART:20250719T043000Z
 DTEND:20250719T043000Z
 SUMMARY:EN L2O Series 10 - Samford West, Enoggeroos
@@ -294,7 +302,7 @@ GEO:-27.3726883172094;152.909801577809
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22573@eventor.orienteering.asn.au
-DTSTAMP:20250617T072418Z
+DTSTAMP:20250719T055421Z
 DTSTART:20250719T050000Z
 DTEND:20250719T050000Z
 SUMMARY:Bush 8 Mornington Adventure Camp - Migrating Trees, Orienteering WA / South-West Orienteering Trekkers
@@ -303,7 +311,7 @@ GEO:-33.1436479273113;115.929191919865
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22271@eventor.orienteering.asn.au
-DTSTAMP:20250617T072511Z
+DTSTAMP:20250719T072047Z
 DTSTART:20250719T061500Z
 DTEND:20250719T061500Z
 SUMMARY:Bush8 Mornington Adventure Camp - Boomer Sprint, Orienteering WA / South-West Orienteering Trekkers
@@ -495,7 +503,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22728
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22737@eventor.orienteering.asn.au
-DTSTAMP:20250714T054507Z
+DTSTAMP:20250719T014358Z
 DTSTART:20250725T233000Z
 DTEND:20250726T020000Z
 SUMMARY:SOS Hills District - North Rocks, Bold Horizons Event Organiser
@@ -628,7 +636,7 @@ GEO:-32.890249561134;151.366467989697
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21797@eventor.orienteering.asn.au
-DTSTAMP:20250718T053933Z
+DTSTAMP:20250719T012247Z
 DTSTART:20250727T000000Z
 DTEND:20250727T000000Z
 SUMMARY:Coningham - Southern Local #5, Australopers Orienteering Club
@@ -855,15 +863,6 @@ SUMMARY:Melbourne Park Street Saturday Series - Donvale Pines, Bayside Kangaroos
 URL:https://eventor.orienteering.asn.au/Events/Show/22517
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22112@eventor.orienteering.asn.au
-DTSTAMP:20250510T235603Z
-DTSTART:20250802T053000Z
-DTEND:20250802T073000Z
-SUMMARY:Map Run Parks - Gold Coast - Event #10 2nd Aug. Nerang., Paradise Lost Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22112
-GEO:-27.9908231099704;153.313337520571
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21981@eventor.orienteering.asn.au
 DTSTAMP:20250705T065350Z
 DTSTART:20250802T083000Z
@@ -1070,6 +1069,15 @@ DTEND:20250809T050000Z
 SUMMARY:OY8 -  Sprint - QUT Kelvin Grove, Orienteering Queensland / Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22479
 GEO:-27.4541627525389;153.016409717052
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22112@eventor.orienteering.asn.au
+DTSTAMP:20250719T080850Z
+DTSTART:20250809T053000Z
+DTEND:20250809T053000Z
+SUMMARY:Map Run Parks - Gold Coast - Event #10 2nd Aug. Nerang., Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22112
+GEO:-27.9908231099704;153.313337520571
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22725@eventor.orienteering.asn.au
@@ -1437,5 +1445,21 @@ DTEND:20250817T040000Z
 SUMMARY:NavDash8 Relays entries, Kulgun 225 Orienteers / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/22276
 GEO:-32.048709575824;115.757598862036
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22341@eventor.orienteering.asn.au
+DTSTAMP:20250714T021347Z
+DTSTART:20250818T070000Z
+DTEND:20250818T070000Z
+SUMMARY:ACT MapRun Street Series: Garran, 14-18 Aug, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/22341
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22486@eventor.orienteering.asn.au
+DTSTAMP:20250516T045306Z
+DTSTART:20250818T083000Z
+DTEND:20250818T101500Z
+SUMMARY:Melbourne Park Street Monday Night Series - Kerrimuir, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/22486
 END:VEVENT
 END:VCALENDAR
