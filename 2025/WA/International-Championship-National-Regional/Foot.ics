@@ -12,32 +12,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22400
 GEO:-35.0444215591215;138.684554595841
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22551@eventor.orienteering.asn.au
-DTSTAMP:20250704T004453Z
-DTSTART:20250714T003000Z
-DTEND:20250714T003000Z
-SUMMARY:SA Junior Arrows Camp - Day 1, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/22551
-GEO:-35.0442060670001;138.684191862776
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22336@eventor.orienteering.asn.au
-DTSTAMP:20250715T080516Z
-DTSTART:20250714T070000Z
-DTEND:20250714T070000Z
-SUMMARY:ACT MapRun Street Series: Hughes, 10-14 Jul, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/22336
-GEO:-35.3333055101888;149.093805199931
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22481@eventor.orienteering.asn.au
-DTSTAMP:20250516T044832Z
-DTSTART:20250714T083000Z
-DTEND:20250714T101500Z
-SUMMARY:Melbourne Park Street Monday Night Series - Canterbury Trails, Orienteering Victoria
-URL:https://eventor.orienteering.asn.au/Events/Show/22481
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22552@eventor.orienteering.asn.au
 DTSTAMP:20250619T044148Z
 DTSTART:20250714T143000Z
@@ -304,7 +278,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22723
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22337@eventor.orienteering.asn.au
-DTSTAMP:20250625T234530Z
+DTSTAMP:20250722T073744Z
 DTSTART:20250721T070000Z
 DTEND:20250721T070000Z
 SUMMARY:ACT MapRun Street Series: Richardson, 17-21 Jul, Orienteering ACT
@@ -688,7 +662,7 @@ GEO:-33.7481018315957;150.971487592557
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22739@eventor.orienteering.asn.au
-DTSTAMP:20250714T052911Z
+DTSTAMP:20250722T120614Z
 DTSTART:20250801T233000Z
 DTEND:20250802T020000Z
 SUMMARY:SOS Northside - Macquarie Park, Bold Horizons Event Organiser
@@ -776,11 +750,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22657
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22542@eventor.orienteering.asn.au
-DTSTAMP:20250521T041951Z
+DTSTAMP:20250722T044806Z
 DTSTART:20250802T233000Z
 DTEND:20250803T030000Z
 SUMMARY:Newcastle NOY7 - Stockrington (Sugarloaf North), Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22542
+GEO:-32.8693733972126;151.557758968111
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21486@eventor.orienteering.asn.au
@@ -1035,6 +1010,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21876
 GEO:-35.1165018244492;147.29647722637
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22142@eventor.orienteering.asn.au
+DTSTAMP:20250722T045454Z
+DTSTART:20250810T003000Z
+DTEND:20250810T003000Z
+SUMMARY:Highlands Forest Series #4 - Lake Alexandra, Queen St Mittagong, Southern Highlands Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22142
+GEO:-34.4462565127739;150.444996638404
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21201@eventor.orienteering.asn.au
 DTSTAMP:20250717T070400Z
 DTSTART:20250810T003000Z
@@ -1042,15 +1026,6 @@ DTEND:20250810T003000Z
 SUMMARY:SA Middle Distance Championships - Zellerfield south of Coonalpyn, Onkaparinga Hills Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21201
 GEO:-35.7378014159654;139.779639621295
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22142@eventor.orienteering.asn.au
-DTSTAMP:20250611T062611Z
-DTSTART:20250810T003000Z
-DTEND:20250810T030000Z
-SUMMARY:Highlands Forest Series #4 - Lake Alexandra, Queen St Mittagong, Southern Highlands Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22142
-GEO:-34.4462565127739;150.444996638404
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22251@eventor.orienteering.asn.au
@@ -1167,12 +1142,12 @@ GEO:-33.7039928699814;150.89733084356
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22742@eventor.orienteering.asn.au
-DTSTAMP:20250714T101655Z
+DTSTAMP:20250722T120920Z
 DTSTART:20250815T233000Z
 DTEND:20250816T020000Z
 SUMMARY:SOS Northside - Bobbin Head, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/22742
-GEO:-33.6650476346294;151.149249223992
+GEO:-33.6610715039023;151.159057245729
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21818@eventor.orienteering.asn.au
