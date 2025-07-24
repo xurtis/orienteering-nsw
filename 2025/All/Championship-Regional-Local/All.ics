@@ -12,15 +12,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22400
 GEO:-35.0444215591215;138.684554595841
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22553@eventor.orienteering.asn.au
-DTSTAMP:20250619T044310Z
-DTSTART:20250715T143000Z
-DTEND:20250716T143000Z
-SUMMARY:SA Junior Arrows Camp - Day 3, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/22553
-GEO:-35.0443192230794;138.684152070291
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22473@eventor.orienteering.asn.au
 DTSTAMP:20250705T022424Z
 DTSTART:20250716T000000Z
@@ -28,32 +19,6 @@ DTEND:20250718T020000Z
 SUMMARY:NSW Bluebottles July Camp Newcastle area, Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/22473
 GEO:-32.9623223245737;151.73188850504
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22442@eventor.orienteering.asn.au
-DTSTAMP:20250717T011936Z
-DTSTART:20250716T020000Z
-DTEND:20250716T020000Z
-SUMMARY:ACT Midweek Series: Little Mulligans Flat, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/22442
-GEO:-35.1540272240914;149.156389822471
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22314@eventor.orienteering.asn.au
-DTSTAMP:20250716T120624Z
-DTSTART:20250716T073000Z
-DTEND:20250716T073000Z
-SUMMARY:Moonlight Madness #3 Roseville / Lindfield, Garingal Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22314
-GEO:-33.7766128149501;151.180840543943
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22498@eventor.orienteering.asn.au
-DTSTAMP:20250516T050623Z
-DTSTART:20250716T083000Z
-DTEND:20250716T101500Z
-SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Waterford Valley, Victorian ARDF Group
-URL:https://eventor.orienteering.asn.au/Events/Show/22498
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22554@eventor.orienteering.asn.au
@@ -311,7 +276,7 @@ GEO:-35.1363413603823;138.757935132945
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22443@eventor.orienteering.asn.au
-DTSTAMP:20250715T010502Z
+DTSTAMP:20250724T033435Z
 DTSTART:20250723T020000Z
 DTEND:20250723T020000Z
 SUMMARY:ACT Midweek Series: Red Hill, Orienteering ACT
@@ -477,6 +442,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22541
 GEO:-32.890249561134;151.366467989697
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_21908@eventor.orienteering.asn.au
+DTSTAMP:20250724T094434Z
+DTSTART:20250727T000000Z
+DTEND:20250727T000000Z
+SUMMARY:AWOC Training Day, Albury-Wodonga Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21908
+GEO:-36.1391834512156;146.896742795018
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21797@eventor.orienteering.asn.au
 DTSTAMP:20250720T182634Z
 DTSTART:20250727T000000Z
@@ -496,7 +470,7 @@ GEO:-37.1704212727767;144.237851552366
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21875@eventor.orienteering.asn.au
-DTSTAMP:20250720T044628Z
+DTSTAMP:20250723T194315Z
 DTSTART:20250727T000000Z
 DTEND:20250727T000000Z
 SUMMARY:Wagga Local - Willan's Hill, Wagga and Riverina Orienteers
@@ -504,16 +478,8 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21875
 GEO:-35.1285942342387;147.368263811375
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21908@eventor.orienteering.asn.au
-DTSTAMP:20250106T041651Z
-DTSTART:20250727T000000Z
-DTEND:20250727T030000Z
-SUMMARY:AWOC Training Day, Albury-Wodonga Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21908
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21889@eventor.orienteering.asn.au
-DTSTAMP:20250721T022950Z
+DTSTAMP:20250724T023020Z
 DTSTART:20250727T003000Z
 DTEND:20250727T003000Z
 SUMMARY:Lochiel Park Sprint - Event in the Winter Orienteering Urban Series, Tintookies Orienteers
@@ -701,7 +667,7 @@ UID:Event_21950@eventor.orienteering.asn.au
 DTSTAMP:20250723T032520Z
 DTSTART:20250802T023000Z
 DTEND:20250802T023000Z
-SUMMARY:Bendigo Bush - Sedgwick South, Bendigo Orienteers
+SUMMARY:Bendigo Bush - Sedgwick South, Bendigo Orienteers / Melbourne Forest Racers
 URL:https://eventor.orienteering.asn.au/Events/Show/21950
 GEO:-36.8730748664389;144.316969266471
 END:VEVENT
@@ -768,11 +734,12 @@ GEO:-35.250023;149.492464
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21798@eventor.orienteering.asn.au
-DTSTAMP:20250710T054614Z
+DTSTAMP:20250724T100117Z
 DTSTART:20250803T000000Z
-DTEND:20250803T030000Z
+DTEND:20250803T000000Z
 SUMMARY:Geilston Gully - Southern Local #6, Australopers Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21798
+GEO:-42.8429527532956;147.367537174041
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22275@eventor.orienteering.asn.au
@@ -799,6 +766,7 @@ DTSTART:20250804T070000Z
 DTEND:20250804T070000Z
 SUMMARY:ACT MapRun Street Series: Taylor, 31 Jul - 4 Aug, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/22339
+GEO:-35.1503359064669;149.108527449246
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22484@eventor.orienteering.asn.au
@@ -915,12 +883,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22520
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22479@eventor.orienteering.asn.au
-DTSTAMP:20250720T030517Z
+DTSTAMP:20250724T014058Z
 DTSTART:20250809T050000Z
 DTEND:20250809T050000Z
 SUMMARY:OY8 -  Sprint - QUT Kelvin Grove, Orienteering Queensland / Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22479
-GEO:-27.4541627525389;153.016409717052
+GEO:-27.454036495814;153.016336825212
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22112@eventor.orienteering.asn.au
@@ -959,10 +927,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22610
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21774@eventor.orienteering.asn.au
-DTSTAMP:20250708T071614Z
+DTSTAMP:20250724T024312Z
 DTSTART:20250809T230000Z
 DTEND:20250809T230000Z
-SUMMARY:OY9 - Middle distance, Karawatha, Toohey Forest Orienteers
+SUMMARY:OY9 - Middle distance, Karawatha, Orienteering Queensland / Toohey Forest Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21774
 GEO:-27.6320495366477;153.095789477305
 END:VEVENT
@@ -1086,6 +1054,7 @@ DTSTART:20250813T020000Z
 DTEND:20250813T020000Z
 SUMMARY:ACT Midweek Series: Weston Park, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/22446
+GEO:-35.2923553221827;149.089938637225
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22500@eventor.orienteering.asn.au
@@ -1094,6 +1063,15 @@ DTSTART:20250813T083000Z
 DTEND:20250813T101500Z
 SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Blackburn North, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22500
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22756@eventor.orienteering.asn.au
+DTSTAMP:20250723T223042Z
+DTSTART:20250814T003000Z
+DTEND:20250814T003000Z
+SUMMARY:MidWeek Orienteering at Summit Street Reserve, Sheldon, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/22756
+GEO:-27.5678223570124;153.183712409679
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21163@eventor.orienteering.asn.au
@@ -1370,5 +1348,40 @@ DTSTART:20250820T083000Z
 DTEND:20250820T101500Z
 SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Camelot Rise, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22503
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21138@eventor.orienteering.asn.au
+DTSTAMP:20250707T065457Z
+DTSTART:20250822T140000Z
+DTEND:20250823T140000Z
+SUMMARY:2025 NSW State League #12 Tallowa Gully - NSW Schools Middle (ACT League #8), Bennelong Northside Orienteers / Orienteering ACT / Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21138
+GEO:-34.757836623387;150.1452449298
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22277@eventor.orienteering.asn.au
+DTSTAMP:20250316T044304Z
+DTSTART:20250823T010000Z
+DTEND:20250823T040000Z
+SUMMARY:NavDash9 Kent Street SHS, Kulgun 225 Orienteers / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/22277
+GEO:-31.9854740944064;115.892586356347
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21952@eventor.orienteering.asn.au
+DTSTAMP:20250711T053117Z
+DTSTART:20250823T023000Z
+DTEND:20250823T023000Z
+SUMMARY:Bendigo Bush - One Eye, Bendigo Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21952
+GEO:-36.7478291771088;144.29671322399
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22514@eventor.orienteering.asn.au
+DTSTAMP:20250516T052813Z
+DTSTART:20250823T040000Z
+DTEND:20250823T051000Z
+SUMMARY:Melbourne Park Street Saturday Series - Janefield, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22514
 END:VEVENT
 END:VCALENDAR
