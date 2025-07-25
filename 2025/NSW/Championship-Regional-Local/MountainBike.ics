@@ -3,15 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_22400@eventor.orienteering.asn.au
-DTSTAMP:20250718T031807Z
-DTSTART:20250713T143000Z
-DTEND:20250717T143000Z
-SUMMARY:SA Junior Arrows Camp - All days, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/22400
-GEO:-35.0444215591215;138.684554595841
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22473@eventor.orienteering.asn.au
 DTSTAMP:20250705T022424Z
 DTSTART:20250716T000000Z
@@ -19,24 +10,6 @@ DTEND:20250718T020000Z
 SUMMARY:NSW Bluebottles July Camp Newcastle area, Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/22473
 GEO:-32.9623223245737;151.73188850504
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22554@eventor.orienteering.asn.au
-DTSTAMP:20250718T031735Z
-DTSTART:20250716T143000Z
-DTEND:20250717T143000Z
-SUMMARY:SA Junior Arrows Camp - Day 4, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/22554
-GEO:-35.044323117069;138.68413223315
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22748@eventor.orienteering.asn.au
-DTSTAMP:20250718T012633Z
-DTSTART:20250717T003000Z
-DTEND:20250717T003000Z
-SUMMARY:Anzac Park (Broseley Road), Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/22748
-GEO:-27.4873490080154;152.97054014221
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22736@eventor.orienteering.asn.au
@@ -319,7 +292,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22728
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22737@eventor.orienteering.asn.au
-DTSTAMP:20250719T014358Z
+DTSTAMP:20250725T120439Z
 DTSTART:20250725T233000Z
 DTEND:20250726T020000Z
 SUMMARY:SOS Hills District - North Rocks, Bold Horizons Event Organiser
@@ -328,7 +301,7 @@ GEO:-33.7686824648912;151.025931594943
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22727@eventor.orienteering.asn.au
-DTSTAMP:20250712T013440Z
+DTSTAMP:20250725T120617Z
 DTSTART:20250725T233000Z
 DTEND:20250726T020000Z
 SUMMARY:SOS Northside - Warrawee, Bold Horizons Event Organiser
@@ -345,7 +318,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22729
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22578@eventor.orienteering.asn.au
-DTSTAMP:20250714T224518Z
+DTSTAMP:20250725T104801Z
 DTSTART:20250726T000000Z
 DTEND:20250726T000000Z
 SUMMARY:2025 Qld Schools Orienteering Championships - Sprint, Orienteering Queensland
@@ -407,7 +380,7 @@ GEO:-13.1010749605025;130.78484510266
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21607@eventor.orienteering.asn.au
-DTSTAMP:20250723T011832Z
+DTSTAMP:20250725T123137Z
 DTSTART:20250726T233000Z
 DTEND:20250726T233000Z
 SUMMARY:2025 Metro League #5 - Western Sydney Parklands, Western and Hills Orienteers
@@ -892,10 +865,10 @@ GEO:-27.454036495814;153.016336825212
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22112@eventor.orienteering.asn.au
-DTSTAMP:20250719T080850Z
+DTSTAMP:20250725T030535Z
 DTSTART:20250809T053000Z
 DTEND:20250809T053000Z
-SUMMARY:Map Run Parks - Gold Coast - Event #10 2nd Aug. Nerang., Paradise Lost Orienteers
+SUMMARY:Map Run Parks - Gold Coast - Event #10 Nerang., Paradise Lost Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22112
 GEO:-27.9908231099704;153.313337520571
 END:VEVENT
@@ -936,10 +909,10 @@ GEO:-27.6320495366477;153.095789477305
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22594@eventor.orienteering.asn.au
-DTSTAMP:20250705T030750Z
+DTSTAMP:20250725T041210Z
 DTSTART:20250809T233000Z
 DTEND:20250810T010000Z
-SUMMARY:ACT Sprint Series #6, Kingston Meadow, Orienteering ACT
+SUMMARY:ACT Sprint Series #6, Kingston Wasteland, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/22594
 GEO:-35.3150183296927;149.155059236724
 END:VEVENT
@@ -1383,5 +1356,75 @@ DTSTART:20250823T040000Z
 DTEND:20250823T051000Z
 SUMMARY:Melbourne Park Street Saturday Series - Janefield, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22514
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21137@eventor.orienteering.asn.au
+DTSTAMP:20250707T065608Z
+DTSTART:20250823T140000Z
+DTEND:20250824T140000Z
+SUMMARY:2025 NSW State League #13 Chevalier College - NSW Schools Sprint (ACT League #9), Bennelong Northside Orienteers / Orienteering ACT / Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21137
+GEO:-34.5080484775039;150.409196310218
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22720@eventor.orienteering.asn.au
+DTSTAMP:20250713T072347Z
+DTSTART:20250823T140000Z
+DTEND:20250824T140000Z
+SUMMARY:Learn to Orienteer - Melbourne Week 4, Banksia Park, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/22720
+GEO:-37.7591412521464;145.079882362534
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21790@eventor.orienteering.asn.au
+DTSTAMP:20250722T022036Z
+DTSTART:20250824T000000Z
+DTEND:20250824T000000Z
+SUMMARY:MelBushO 7 Yarra Flats / Banksia Park, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21790
+GEO:-37.7625547463439;145.075596329652
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22587@eventor.orienteering.asn.au
+DTSTAMP:20250615T105605Z
+DTSTART:20250824T000000Z
+DTEND:20250824T000000Z
+SUMMARY:Qld Club Relays, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/22587
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21909@eventor.orienteering.asn.au
+DTSTAMP:20250106T041950Z
+DTSTART:20250824T000000Z
+DTEND:20250824T030000Z
+SUMMARY:AWOC Training Day, Albury-Wodonga Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21909
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22095@eventor.orienteering.asn.au
+DTSTAMP:20250718T024045Z
+DTSTART:20250824T003000Z
+DTEND:20250824T003000Z
+SUMMARY:Wirra Wirra, Wallaringa Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22095
+GEO:-34.6719685261063;138.972505860213
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22252@eventor.orienteering.asn.au
+DTSTAMP:20250314T113713Z
+DTSTART:20250824T010000Z
+DTEND:20250824T030000Z
+SUMMARY:Port Lincoln: Mt Dutton, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22252
+GEO:-34.4896487775575;135.427443295948
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22278@eventor.orienteering.asn.au
+DTSTAMP:20250316T044823Z
+DTSTART:20250824T013000Z
+DTEND:20250824T050000Z
+SUMMARY:Bush10 Hill Park Dale E, Bibbulmun Orienteers / Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/22278
+GEO:-32.2675778686239;116.767000738014
 END:VEVENT
 END:VCALENDAR
