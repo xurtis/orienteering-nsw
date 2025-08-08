@@ -12,14 +12,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22638
 GEO:-33.7109705195896;150.993778362568
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21554@eventor.orienteering.asn.au
-DTSTAMP:20250726T045252Z
-DTSTART:20250730T233000Z
-DTEND:20250730T233000Z
-SUMMARY:Sydney West Primary Schools Carnival, Bold Horizons Event Organiser
-URL:https://eventor.orienteering.asn.au/Events/Show/21554
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22738@eventor.orienteering.asn.au
 DTSTAMP:20250802T021752Z
 DTSTART:20250801T233000Z
@@ -233,7 +225,7 @@ GEO:-37.7728031578505;145.032690171341
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22740@eventor.orienteering.asn.au
-DTSTAMP:20250801T063256Z
+DTSTAMP:20250807T225139Z
 DTSTART:20250808T233000Z
 DTEND:20250809T020000Z
 SUMMARY:SOS Hills District - Castle Hill, Bold Horizons Event Organiser
@@ -357,7 +349,7 @@ GEO:-35.3150183296927;149.155059236724
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22544@eventor.orienteering.asn.au
-DTSTAMP:20250804T050044Z
+DTSTAMP:20250808T111804Z
 DTSTART:20250809T233000Z
 DTEND:20250810T030000Z
 SUMMARY:Hunter Valley Championships - Quorrobolong (Barraba Lane), Newcastle Orienteering Club
@@ -945,10 +937,10 @@ GEO:-33.0331709458703;137.586364196011
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22095@eventor.orienteering.asn.au
-DTSTAMP:20250718T024045Z
+DTSTAMP:20250808T101644Z
 DTSTART:20250824T003000Z
 DTEND:20250824T003000Z
-SUMMARY:Wirra Wirra, Wallaringa Orienteering Club
+SUMMARY:Wirra Wirra Peaks, Wallaringa Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22095
 GEO:-34.6719685261063;138.972505860213
 END:VEVENT
@@ -1286,5 +1278,107 @@ DTEND:20250906T100000Z
 SUMMARY:Australian MTBO Championships dinner, Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/22765
 GEO:-33.3574253823793;116.144151882431
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22707@eventor.orienteering.asn.au
+DTSTAMP:20250807T003235Z
+DTSTART:20250906T140000Z
+DTEND:20250907T140000Z
+SUMMARY:Goldseekers Bush Series #6 - Pineview, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22707
+GEO:-33.4282314432797;149.346852825321
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21775@eventor.orienteering.asn.au
+DTSTAMP:20250718T121807Z
+DTSTART:20250906T230000Z
+DTEND:20250906T230000Z
+SUMMARY:OY10 - Murrenbong, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21775
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22658@eventor.orienteering.asn.au
+DTSTAMP:20250710T054830Z
+DTSTART:20250906T230000Z
+DTEND:20250906T230000Z
+SUMMARY:Tolosa Park - Learn to Orienteer Week 3, Australopers Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22658
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22597@eventor.orienteering.asn.au
+DTSTAMP:20250807T024356Z
+DTSTART:20250906T233000Z
+DTEND:20250907T010000Z
+SUMMARY:ACT Sprint Series #9, Giralang Pines, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/22597
+GEO:-35.2070754497212;149.098959375266
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22543@eventor.orienteering.asn.au
+DTSTAMP:20250521T042157Z
+DTSTART:20250906T233000Z
+DTEND:20250907T030000Z
+SUMMARY:Newcastle NOY8 - Killingworth (Burkes Creek), Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22543
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22600@eventor.orienteering.asn.au
+DTSTAMP:20250714T070633Z
+DTSTART:20250906T233000Z
+DTEND:20250907T040000Z
+SUMMARY:Ballarat Local - Little Hard Hills, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22600
+GEO:-37.7483578731153;143.777505211596
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22589@eventor.orienteering.asn.au
+DTSTAMP:20250619T022842Z
+DTSTART:20250906T233100Z
+DTEND:20250906T233100Z
+SUMMARY:ACT Sprint Series Season Pass, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/22589
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22523@eventor.orienteering.asn.au
+DTSTAMP:20250516T054241Z
+DTSTART:20250907T000000Z
+DTEND:20250907T011500Z
+SUMMARY:Mornington Peninsula Sunday MapRun - Dromana, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22523
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21878@eventor.orienteering.asn.au
+DTSTAMP:20250404T081119Z
+DTSTART:20250907T000000Z
+DTEND:20250907T030000Z
+SUMMARY:Pomingalarna, Wagga and Riverina Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21878
+GEO:-35.116526286772;147.296393237777
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21799@eventor.orienteering.asn.au
+DTSTAMP:20250710T054923Z
+DTSTART:20250907T000000Z
+DTEND:20250907T030000Z
+SUMMARY:Tolosa Park - Southern Local #7, Australopers Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21799
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22253@eventor.orienteering.asn.au
+DTSTAMP:20250314T113934Z
+DTSTART:20250907T010000Z
+DTEND:20250907T030000Z
+SUMMARY:Port Lincoln: Brinkworth Reserve (End of season event), Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22253
+GEO:-34.7062587116649;135.821310593492
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21395@eventor.orienteering.asn.au
+DTSTAMP:20250419T075052Z
+DTSTART:20250907T010000Z
+DTEND:20250907T050000Z
+SUMMARY:Australian Long MTBO Championships, Orienteering WA
+URL:https://eventor.orienteering.asn.au/Events/Show/21395
+GEO:-33.3610680662094;116.156061459259
 END:VEVENT
 END:VCALENDAR
