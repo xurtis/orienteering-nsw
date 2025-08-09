@@ -225,7 +225,7 @@ GEO:-37.7728031578505;145.032690171341
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22740@eventor.orienteering.asn.au
-DTSTAMP:20250807T225139Z
+DTSTAMP:20250809T023948Z
 DTSTART:20250808T233000Z
 DTEND:20250809T020000Z
 SUMMARY:SOS Hills District - Castle Hill, Bold Horizons Event Organiser
@@ -243,7 +243,7 @@ GEO:-33.7340688313278;151.087399454745
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21497@eventor.orienteering.asn.au
-DTSTAMP:20250731T035321Z
+DTSTAMP:20250809T031211Z
 DTSTART:20250809T003000Z
 DTEND:20250809T030000Z
 SUMMARY:ACT Metro Series: incl. Junior League #11, Stringybark Hill, Red Roos
@@ -252,7 +252,7 @@ GEO:-35.3876645855567;149.20807169505
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21951@eventor.orienteering.asn.au
-DTSTAMP:20250723T041706Z
+DTSTAMP:20250809T050847Z
 DTSTART:20250809T023000Z
 DTEND:20250809T023000Z
 SUMMARY:Bendigo Bush - Smiths Reef, Bendigo Orienteers
@@ -261,7 +261,7 @@ GEO:-37.0368629380316;144.109970047698
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22705@eventor.orienteering.asn.au
-DTSTAMP:20250803T113218Z
+DTSTAMP:20250809T114711Z
 DTSTART:20250809T040000Z
 DTEND:20250809T040000Z
 SUMMARY:ALL WELCOME - Scouts Northern Beaches District event - Frenchs Forest, Bennelong Northside Orienteers
@@ -270,7 +270,7 @@ GEO:-33.7368078796674;151.236171513357
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21781@eventor.orienteering.asn.au
-DTSTAMP:20250717T064936Z
+DTSTAMP:20250809T083114Z
 DTSTART:20250809T040000Z
 DTEND:20250809T040000Z
 SUMMARY:Callington - An event in the Winter Orienteering Urban Event Series, Onkaparinga Hills Orienteering Club
@@ -296,7 +296,7 @@ GEO:-27.9908231099704;153.313337520571
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22479@eventor.orienteering.asn.au
-DTSTAMP:20250801T000959Z
+DTSTAMP:20250809T064738Z
 DTSTART:20250809T050000Z
 DTEND:20250809T050000Z
 SUMMARY:OY8 -  Sprint - QUT Kelvin Grove, Orienteering Queensland / Ugly Gully Orienteers
@@ -305,7 +305,7 @@ GEO:-27.454036495814;153.016336825212
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22725@eventor.orienteering.asn.au
-DTSTAMP:20250728T084107Z
+DTSTAMP:20250809T100821Z
 DTSTART:20250809T070000Z
 DTEND:20250809T070000Z
 SUMMARY:Albany - Forts Precinct, Mt Adelaide, Albany & Denmark Hinterland Orienteering Club
@@ -357,6 +357,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22544
 GEO:-32.9627038599258;151.338215194499
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22599@eventor.orienteering.asn.au
+DTSTAMP:20250809T032719Z
+DTSTART:20250810T000000Z
+DTEND:20250810T000000Z
+SUMMARY:Ballarat Classics Series - Event #5 - Mt Franklin Gorge, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22599
+GEO:-37.2230103953395;144.152772168317
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_22522@eventor.orienteering.asn.au
 DTSTAMP:20250516T054142Z
 DTSTART:20250810T000000Z
@@ -372,15 +381,6 @@ DTEND:20250810T030000Z
 SUMMARY:Waggaroos-AWOC Interclub #6, Pomingalarna, Wagga and Riverina Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21876
 GEO:-35.1165018244492;147.29647722637
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22599@eventor.orienteering.asn.au
-DTSTAMP:20250807T132929Z
-DTSTART:20250810T000000Z
-DTEND:20250810T050000Z
-SUMMARY:Ballarat Classics Series - Event #5 - Mt Franklin Gorge, Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22599
-GEO:-37.2230103953395;144.152772168317
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22142@eventor.orienteering.asn.au
@@ -595,21 +595,21 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21818
 GEO:-41.4075348011419;147.164428332145
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_21162@eventor.orienteering.asn.au
+DTSTAMP:20250809T122457Z
+DTSTART:20250816T033000Z
+DTEND:20250816T033000Z
+SUMMARY:QLD MTBO Champs - Middle Distance, Multi Terrain Bike Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21162
+GEO:-28.5743205110595;151.773673020564
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_22518@eventor.orienteering.asn.au
 DTSTAMP:20250516T053216Z
 DTSTART:20250816T040000Z
 DTEND:20250816T051000Z
 SUMMARY:Melbourne Park Street Saturday Series - Nortons Park, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22518
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21162@eventor.orienteering.asn.au
-DTSTAMP:20250606T004426Z
-DTSTART:20250816T043000Z
-DTEND:20250816T043000Z
-SUMMARY:QLD MTBO Champs - Middle Distance, Multi Terrain Bike Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21162
-GEO:-28.5743205110595;151.773673020564
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21164@eventor.orienteering.asn.au
@@ -702,7 +702,7 @@ GEO:-41.6091142771528;147.381406241393
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21740@eventor.orienteering.asn.au
-DTSTAMP:20250729T060723Z
+DTSTAMP:20250809T015217Z
 DTSTART:20250817T000000Z
 DTEND:20250817T000000Z
 SUMMARY:Vic Series 7 - Nuggety Range, Maldon, Melbourne Forest Racers
@@ -744,6 +744,15 @@ DTEND:20250817T013000Z
 SUMMARY:OWA Club Relays 2025: John Curtin College of the Arts - entries only, Kulgun 225 Orienteers / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/22845
 GEO:-32.0470464439539;115.755779733006
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22895@eventor.orienteering.asn.au
+DTSTAMP:20250809T074726Z
+DTSTART:20250817T060000Z
+DTEND:20250817T060000Z
+SUMMARY:MapRun Parks 2025 - Oxley, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22895
+GEO:-27.5597352319249;152.976229022991
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22341@eventor.orienteering.asn.au
@@ -911,7 +920,7 @@ GEO:-37.7591412521464;145.079882362534
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21790@eventor.orienteering.asn.au
-DTSTAMP:20250722T022036Z
+DTSTAMP:20250809T102700Z
 DTSTART:20250824T000000Z
 DTEND:20250824T000000Z
 SUMMARY:MelBushO 7 Yarra Flats / Banksia Park, Yarra Valley Orienteering Club
@@ -955,12 +964,21 @@ GEO:-34.4896487775575;135.427443295948
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22278@eventor.orienteering.asn.au
-DTSTAMP:20250807T071944Z
+DTSTAMP:20250809T102045Z
 DTSTART:20250824T013000Z
 DTEND:20250824T013000Z
 SUMMARY:Bush10 Hill Park Dale E, Bibbulmun Orienteers / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/22278
 GEO:-32.2675778686239;116.767000738014
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22896@eventor.orienteering.asn.au
+DTSTAMP:20250809T075149Z
+DTSTART:20250824T060000Z
+DTEND:20250824T060000Z
+SUMMARY:MapRun Parks 2025 - Bowman Park, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22896
+GEO:-27.4569519574563;152.976469771744
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22342@eventor.orienteering.asn.au
@@ -1091,7 +1109,7 @@ GEO:-28.1376442600341;153.439889365741
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21608@eventor.orienteering.asn.au
-DTSTAMP:20250727T064739Z
+DTSTAMP:20250809T070645Z
 DTSTART:20250830T233000Z
 DTEND:20250830T233000Z
 SUMMARY:2025 Metro League #6 - Mitchell Park, Garingal Orienteers
@@ -1140,6 +1158,15 @@ DTEND:20250831T013000Z
 SUMMARY:Bush11 Ngangaguringguring, Orienteering WA / WA Nomads
 URL:https://eventor.orienteering.asn.au/Events/Show/22279
 GEO:-31.9073648285404;116.356883060131
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22897@eventor.orienteering.asn.au
+DTSTAMP:20250809T075603Z
+DTSTART:20250831T060000Z
+DTEND:20250831T060000Z
+SUMMARY:MapRun Parks 2025 - Rafting Grounds, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22897
+GEO:-27.5204964376593;152.923093516072
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22343@eventor.orienteering.asn.au
@@ -1339,6 +1366,15 @@ SUMMARY:ACT Sprint Series Season Pass, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/22589
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_21799@eventor.orienteering.asn.au
+DTSTAMP:20250809T080936Z
+DTSTART:20250907T000000Z
+DTEND:20250907T000000Z
+SUMMARY:Tolosa Park - Southern Local #7, Australopers Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21799
+GEO:-42.8541490850197;147.250909467367
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_22523@eventor.orienteering.asn.au
 DTSTAMP:20250516T054241Z
 DTSTART:20250907T000000Z
@@ -1354,14 +1390,6 @@ DTEND:20250907T030000Z
 SUMMARY:Pomingalarna, Wagga and Riverina Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21878
 GEO:-35.116526286772;147.296393237777
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21799@eventor.orienteering.asn.au
-DTSTAMP:20250710T054923Z
-DTSTART:20250907T000000Z
-DTEND:20250907T030000Z
-SUMMARY:Tolosa Park - Southern Local #7, Australopers Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21799
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22253@eventor.orienteering.asn.au
@@ -1380,5 +1408,30 @@ DTEND:20250907T050000Z
 SUMMARY:Australian Long MTBO Championships, Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/21395
 GEO:-33.3610680662094;116.156061459259
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22754@eventor.orienteering.asn.au
+DTSTAMP:20250721T025758Z
+DTSTART:20250908T003000Z
+DTEND:20250908T003000Z
+SUMMARY:Victorian Primary Schools Orienteering Championships West 2025, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/22754
+GEO:-37.3304359221051;144.599428767599
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22344@eventor.orienteering.asn.au
+DTSTAMP:20250406T235424Z
+DTSTART:20250908T070000Z
+DTEND:20250908T100000Z
+SUMMARY:ACT MapRun Street Series: Kaleen South, 4-8 Sep, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/22344
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22489@eventor.orienteering.asn.au
+DTSTAMP:20250516T045610Z
+DTSTART:20250908T083000Z
+DTEND:20250908T101500Z
+SUMMARY:Melbourne Park Street Monday Night Series - Beverley Hills, Orienteering Victoria
+URL:https://eventor.orienteering.asn.au/Events/Show/22489
 END:VEVENT
 END:VCALENDAR
