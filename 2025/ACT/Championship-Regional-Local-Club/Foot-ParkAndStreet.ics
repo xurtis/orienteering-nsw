@@ -3,32 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_22638@eventor.orienteering.asn.au
-DTSTAMP:20250804T075215Z
-DTSTART:20250729T140000Z
-DTEND:20250804T070000Z
-SUMMARY:Sydney MapRun Series 2025 #12 Knightsbridge, Western and Hills Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22638
-GEO:-33.7109705195896;150.993778362568
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22339@eventor.orienteering.asn.au
-DTSTAMP:20250805T044641Z
-DTSTART:20250804T070000Z
-DTEND:20250804T070000Z
-SUMMARY:ACT MapRun Street Series: Taylor, 31 Jul - 4 Aug, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/22339
-GEO:-35.1503359064669;149.108527449246
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22484@eventor.orienteering.asn.au
-DTSTAMP:20250516T045123Z
-DTSTART:20250804T083000Z
-DTEND:20250804T101500Z
-SUMMARY:Melbourne Park Street Monday Night Series - Heidelberg Central, Orienteering Victoria
-URL:https://eventor.orienteering.asn.au/Events/Show/22484
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21431@eventor.orienteering.asn.au
 DTSTAMP:20250805T095744Z
 DTSTART:20250805T073000Z
@@ -91,6 +65,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22718
 GEO:-37.7728031578505;145.032690171341
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22112@eventor.orienteering.asn.au
+DTSTAMP:20250812T090734Z
+DTSTART:20250808T140000Z
+DTEND:20250809T140000Z
+SUMMARY:Map Run Parks - Gold Coast - Event #10 09 Aug - Nerang., Paradise Lost Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22112
+GEO:-27.9908231099704;153.313337520571
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_22740@eventor.orienteering.asn.au
 DTSTAMP:20250809T023948Z
 DTSTART:20250808T233000Z
@@ -151,15 +134,6 @@ DTSTART:20250809T040000Z
 DTEND:20250809T061000Z
 SUMMARY:Melbourne Park Street Saturday Series - Endeavour Green Hills ENDURO, Victorian ARDF Group
 URL:https://eventor.orienteering.asn.au/Events/Show/22520
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22112@eventor.orienteering.asn.au
-DTSTAMP:20250807T045743Z
-DTSTART:20250809T050000Z
-DTEND:20250809T050000Z
-SUMMARY:Map Run Parks - Gold Coast - Event #10 09 Aug - Nerang., Paradise Lost Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22112
-GEO:-27.9908231099704;153.313337520571
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22479@eventor.orienteering.asn.au
@@ -305,7 +279,7 @@ GEO:-33.7630538883863;151.132530152004
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22340@eventor.orienteering.asn.au
-DTSTAMP:20250728T030143Z
+DTSTAMP:20250812T061511Z
 DTSTART:20250811T070000Z
 DTEND:20250811T070000Z
 SUMMARY:ACT MapRun Street Series: Wanniassa, 7-11 Aug, Orienteering ACT
@@ -322,7 +296,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22485
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21433@eventor.orienteering.asn.au
-DTSTAMP:20250616T083950Z
+DTSTAMP:20250812T094453Z
 DTSTART:20250812T073000Z
 DTEND:20250812T073000Z
 SUMMARY:Night Nav - Term 3 Series Event #4 - Indooroopilly, Ugly Gully Orienteers
@@ -662,7 +636,7 @@ DTSTART:20250819T080000Z
 DTEND:20250819T080000Z
 SUMMARY:Night Nav - Baringa, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22757
-GEO:-26.8086341076111;153.084468080566
+GEO:-26.8086837850368;153.084225312542
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21617@eventor.orienteering.asn.au
@@ -735,7 +709,7 @@ GEO:-35.0113840493365;138.636662952316
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21138@eventor.orienteering.asn.au
-DTSTAMP:20250810T044409Z
+DTSTAMP:20250812T061736Z
 DTSTART:20250822T140000Z
 DTEND:20250823T140000Z
 SUMMARY:2025 NSW State League #12 Tallowa Gully - NSW Schools Forest (Middle distance) (ACT League #8), Bennelong Northside Orienteers / Orienteering ACT / Uringa Orienteers
@@ -770,7 +744,7 @@ GEO:-31.9867879037349;115.893952709203
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21137@eventor.orienteering.asn.au
-DTSTAMP:20250810T044455Z
+DTSTAMP:20250812T061824Z
 DTSTART:20250823T140000Z
 DTEND:20250824T140000Z
 SUMMARY:2025 NSW State League #13 Chevalier College - NSW Schools Sprint (ACT League #9), Bennelong Northside Orienteers / Orienteering ACT / Uringa Orienteers
@@ -916,6 +890,15 @@ SUMMARY:Stirling Zone Event - Heathfield HS, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/22880
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_21851@eventor.orienteering.asn.au
+DTSTAMP:20250812T010056Z
+DTSTART:20250828T140000Z
+DTEND:20250831T140000Z
+SUMMARY:Tasmanian Junior Orienteering Training Camp, Orienteering Tasmania
+URL:https://eventor.orienteering.asn.au/Events/Show/21851
+GEO:-42.1228328434732;148.284543168334
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_22430@eventor.orienteering.asn.au
 DTSTAMP:20250710T023621Z
 DTSTART:20250829T003000Z
@@ -923,14 +906,6 @@ DTEND:20250829T003000Z
 SUMMARY:SA Schools Orienteering Championships - Belair NP, Onkaparinga Hills Orienteering Club / Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/22430
 GEO:-35.0094476778998;138.634702091805
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21851@eventor.orienteering.asn.au
-DTSTAMP:20250811T101017Z
-DTSTART:20250829T140000Z
-DTEND:20250831T140000Z
-SUMMARY:Tasmanian Junior Camp, Orienteering Tasmania
-URL:https://eventor.orienteering.asn.au/Events/Show/21851
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22744@eventor.orienteering.asn.au
