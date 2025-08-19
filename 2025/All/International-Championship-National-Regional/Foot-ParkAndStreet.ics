@@ -12,32 +12,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22361
 GEO:-33.7427253353432;151.233455369274
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21556@eventor.orienteering.asn.au
-DTSTAMP:20250620T113839Z
-DTSTART:20250810T233000Z
-DTEND:20250810T233000Z
-SUMMARY:Sydney North Schools Carnival, Bold Horizons Event Organiser
-URL:https://eventor.orienteering.asn.au/Events/Show/21556
-GEO:-33.7630538883863;151.132530152004
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22340@eventor.orienteering.asn.au
-DTSTAMP:20250812T061511Z
-DTSTART:20250811T070000Z
-DTEND:20250811T070000Z
-SUMMARY:ACT MapRun Street Series: Wanniassa, 7-11 Aug, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/22340
-GEO:-35.392779;149.08278
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22485@eventor.orienteering.asn.au
-DTSTAMP:20250516T045239Z
-DTSTART:20250811T083000Z
-DTEND:20250811T101500Z
-SUMMARY:Melbourne Park Street Monday Night Series - Templestowe Heights, Orienteering Victoria
-URL:https://eventor.orienteering.asn.au/Events/Show/22485
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21433@eventor.orienteering.asn.au
 DTSTAMP:20250812T094453Z
 DTSTART:20250812T073000Z
@@ -221,14 +195,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21164
 GEO:-28.5845957071029;151.775421405553
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22766@eventor.orienteering.asn.au
-DTSTAMP:20250731T125355Z
-DTSTART:20250816T143000Z
-DTEND:20250817T143000Z
-SUMMARY:SA Interclub Relays - DATE CHANGED TO OCTOBER 12th, SA Arrows
-URL:https://eventor.orienteering.asn.au/Events/Show/22766
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22768@eventor.orienteering.asn.au
 DTSTAMP:20250728T130410Z
 DTSTART:20250816T220000Z
@@ -364,25 +330,25 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22486
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22763@eventor.orienteering.asn.au
-DTSTAMP:20250805T074914Z
+DTSTAMP:20250818T235523Z
 DTSTART:20250819T000000Z
 DTEND:20250819T000000Z
-SUMMARY:Hunter Regional Schools Championships - Speers Point, Newcastle Orienteering Club
+SUMMARY:Hunter Regional Schools Championships - Speers Point POSTPONED, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22763
 GEO:-32.9612414829387;151.61569961519
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22769@eventor.orienteering.asn.au
-DTSTAMP:20250729T061423Z
+DTSTAMP:20250818T235724Z
 DTSTART:20250819T000000Z
 DTEND:20250819T000000Z
-SUMMARY:Hunter Regional Schools Champs - SCORE COURSE, Newcastle Orienteering Club
+SUMMARY:Hunter Regional Schools Champs - Score Course POSTPONED, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22769
 GEO:-32.9612414829387;151.61569961519
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21418@eventor.orienteering.asn.au
-DTSTAMP:20250711T083956Z
+DTSTAMP:20250819T091830Z
 DTSTART:20250819T073000Z
 DTEND:20250819T073000Z
 SUMMARY:BCC Sponsored Event Night Nav - Term 3 Event # 5 - Taringa North, Ugly Gully Orienteers
@@ -477,15 +443,15 @@ GEO:-35.0113840493365;138.636662952316
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22915@eventor.orienteering.asn.au
-DTSTAMP:20250816T102224Z
+DTSTAMP:20250819T114548Z
 DTSTART:20250822T063000Z
 DTEND:20250822T063000Z
-SUMMARY:CENTRAL SCHOOLS ZONE EVENT - HAZELWOOD PARK, Orienteering SA
+SUMMARY:Central Schools Zone Event - Hazelwood Park, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/22915
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21138@eventor.orienteering.asn.au
-DTSTAMP:20250818T044238Z
+DTSTAMP:20250818T224528Z
 DTSTART:20250823T023000Z
 DTEND:20250823T023000Z
 SUMMARY:2025 NSW State League #12 Tallowa Gully - NSW Schools Forest (Middle distance) (ACT League #8), Bennelong Northside Orienteers / Orienteering ACT / Uringa Orienteers
@@ -529,7 +495,7 @@ GEO:-37.7591412521464;145.079882362534
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21137@eventor.orienteering.asn.au
-DTSTAMP:20250818T044148Z
+DTSTAMP:20250818T224740Z
 DTSTART:20250823T233000Z
 DTEND:20250823T233000Z
 SUMMARY:2025 NSW State League #13 Chevalier College - NSW Schools Sprint (ACT League #9), Bennelong Northside Orienteers / Orienteering ACT / Uringa Orienteers
@@ -650,6 +616,15 @@ SUMMARY:Sydney MapRun Series 2025 #15 East Chatswood, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22639
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22917@eventor.orienteering.asn.au
+DTSTAMP:20250819T013713Z
+DTSTART:20250827T020000Z
+DTEND:20250827T020000Z
+SUMMARY:ACT Midweek Series: Campbell Park, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/22917
+GEO:-35.2784584525454;149.16347194644
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_22507@eventor.orienteering.asn.au
 DTSTAMP:20250516T051801Z
 DTSTART:20250827T083000Z
@@ -682,6 +657,15 @@ DTEND:20250829T003000Z
 SUMMARY:SA Schools Orienteering Championships - Belair NP, Onkaparinga Hills Orienteering Club / Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/22430
 GEO:-35.0094476778998;138.634702091805
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22920@eventor.orienteering.asn.au
+DTSTAMP:20250819T131527Z
+DTSTART:20250829T213000Z
+DTEND:20250829T213000Z
+SUMMARY:NT: 2025 East Point Night, Top End Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22920
+GEO:-12.406575719744;130.82043748666
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22744@eventor.orienteering.asn.au
@@ -842,6 +826,15 @@ DTEND:20250902T080000Z
 SUMMARY:Night Nav - Old Tewantin, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22759
 GEO:-26.3908519117398;153.037171781829
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22918@eventor.orienteering.asn.au
+DTSTAMP:20250819T013949Z
+DTSTART:20250903T020000Z
+DTEND:20250903T040000Z
+SUMMARY:ACT Midweek Series: Fadden Pines, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/22918
+GEO:-35.4103567499704;149.119698158297
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22452@eventor.orienteering.asn.au
@@ -1107,7 +1100,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22509
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21139@eventor.orienteering.asn.au
-DTSTAMP:20250630T051558Z
+DTSTAMP:20250819T051603Z
 DTSTART:20250913T020000Z
 DTEND:20250913T020000Z
 SUMMARY:2025 NSW State League #14 - NSW Middle Champs, Bush n Beach Orienteering Club / Hastings Orienteering Group / Northern Tablelands Orienteering Club
@@ -1140,15 +1133,6 @@ SUMMARY:Awards Night - St Helens RSL, Orienteering Tasmania
 URL:https://eventor.orienteering.asn.au/Events/Show/21852
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21140@eventor.orienteering.asn.au
-DTSTAMP:20250630T050941Z
-DTSTART:20250913T140000Z
-DTEND:20250914T140000Z
-SUMMARY:2025 NSW State League #15 - NSW Long Champs, Bush n Beach Orienteering Club / Hastings Orienteering Group / Northern Tablelands Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21140
-GEO:-30.7085300454706;151.371883677218
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21742@eventor.orienteering.asn.au
 DTSTAMP:20250718T004026Z
 DTSTART:20250913T140000Z
@@ -1165,6 +1149,15 @@ DTEND:20250913T220000Z
 SUMMARY:MTBO SS9 Tibrogargans Tears West Berrburrum SF, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21236
 GEO:-26.945808266098;152.895629649535
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21140@eventor.orienteering.asn.au
+DTSTAMP:20250819T051529Z
+DTSTART:20250913T230000Z
+DTEND:20250913T230000Z
+SUMMARY:2025 NSW State League #15 - NSW Long Champs, Bush n Beach Orienteering Club / Hastings Orienteering Group / Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21140
+GEO:-30.7085300454706;151.371883677218
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22080@eventor.orienteering.asn.au
