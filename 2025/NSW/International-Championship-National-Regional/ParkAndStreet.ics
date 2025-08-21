@@ -12,23 +12,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22361
 GEO:-33.7427253353432;151.233455369274
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22446@eventor.orienteering.asn.au
-DTSTAMP:20250813T051113Z
-DTSTART:20250813T020000Z
-DTEND:20250813T020000Z
-SUMMARY:ACT Midweek Series: Weston Park, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/22446
-GEO:-35.2923553221827;149.089938637225
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22500@eventor.orienteering.asn.au
-DTSTAMP:20250516T050916Z
-DTSTART:20250813T083000Z
-DTEND:20250813T101500Z
-SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Blackburn North, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22500
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22756@eventor.orienteering.asn.au
 DTSTAMP:20250814T232506Z
 DTSTART:20250814T003000Z
@@ -382,10 +365,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22434
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22451@eventor.orienteering.asn.au
-DTSTAMP:20250818T014500Z
+DTSTAMP:20250821T024328Z
 DTSTART:20250820T060000Z
-DTEND:20250823T140000Z
-SUMMARY:Sydney MapRun Series 2025 #14 Deep Creek, Narrabeen, Bennelong Northside Orienteers
+DTEND:20250825T140000Z
+SUMMARY:Sydney MapRun Series 2025 #14 Deep Creek NEW MAP, Bennelong Northside Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22451
 GEO:-33.708368732519;151.274773005629
 END:VEVENT
@@ -477,12 +460,12 @@ GEO:-31.9867879037349;115.893952709203
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22720@eventor.orienteering.asn.au
-DTSTAMP:20250713T072347Z
+DTSTAMP:20250821T095913Z
 DTSTART:20250823T140000Z
 DTEND:20250824T140000Z
-SUMMARY:Learn to Orienteer - Melbourne Week 4, Banksia Park, Orienteering Victoria
+SUMMARY:Learn to Orienteer - Melbourne Week 4, Yarra Flats, Orienteering Victoria
 URL:https://eventor.orienteering.asn.au/Events/Show/22720
-GEO:-37.7591412521464;145.079882362534
+GEO:-37.7629310181742;145.076216490977
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21137@eventor.orienteering.asn.au
@@ -591,7 +574,7 @@ GEO:-27.5327902856716;152.974219931739
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22758@eventor.orienteering.asn.au
-DTSTAMP:20250820T073933Z
+DTSTAMP:20250821T032727Z
 DTSTART:20250826T080000Z
 DTEND:20250826T080000Z
 SUMMARY:Night Nav - Bli Bli Parklakes, Sunshine Orienteers Club
@@ -944,7 +927,7 @@ GEO:-33.4282314432797;149.346852825321
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21775@eventor.orienteering.asn.au
-DTSTAMP:20250815T120615Z
+DTSTAMP:20250821T091126Z
 DTSTART:20250906T230000Z
 DTEND:20250906T230000Z
 SUMMARY:OY10 - Murrenbong, Orienteering Queensland / Sunshine Orienteers Club
@@ -1248,11 +1231,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22490
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21618@eventor.orienteering.asn.au
-DTSTAMP:20250714T060519Z
+DTSTAMP:20250821T040245Z
 DTSTART:20250917T010000Z
 DTEND:20250917T010000Z
 SUMMARY:Midweek Training at Wirra Wirra, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/21618
+GEO:-34.6795327945746;138.974216762497
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22453@eventor.orienteering.asn.au
@@ -1270,5 +1254,48 @@ DTSTART:20250917T083000Z
 DTEND:20250917T101500Z
 SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Heathmont, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22504
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22746@eventor.orienteering.asn.au
+DTSTAMP:20250714T103758Z
+DTSTART:20250919T233000Z
+DTEND:20250920T020000Z
+SUMMARY:SOS Northside - Willoughby, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/22746
+GEO:-33.8120459541459;151.203369549449
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22617@eventor.orienteering.asn.au
+DTSTAMP:20250711T033543Z
+DTSTART:20250919T233000Z
+DTEND:20250920T020000Z
+SUMMARY:Willoughby Emerge Festival, Bold Horizons Event Organiser / Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22617
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21954@eventor.orienteering.asn.au
+DTSTAMP:20250711T053624Z
+DTSTART:20250920T023000Z
+DTEND:20250920T023000Z
+SUMMARY:Bendigo Bush - Mt Tarrengower, Maldon, Bendigo Orienteers / Central Highlands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21954
+GEO:-36.7478291771088;144.29671322399
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21066@eventor.orienteering.asn.au
+DTSTAMP:20250819T232811Z
+DTSTART:20250920T023000Z
+DTEND:20250920T023000Z
+SUMMARY:OY11 - Qld Middle Champs - Lode Creek, east of Stanthorpe, Bullecourt Boulder Bounders / Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/21066
+GEO:-28.6727310291362;152.022845296189
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22512@eventor.orienteering.asn.au
+DTSTAMP:20250516T052611Z
+DTSTART:20250920T040000Z
+DTEND:20250920T051000Z
+SUMMARY:Melbourne Park Street Saturday Series - Lillydale Lake, Dandenong Ranges Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22512
 END:VEVENT
 END:VCALENDAR
