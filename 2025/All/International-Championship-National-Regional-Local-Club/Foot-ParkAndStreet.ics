@@ -3,23 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_22341@eventor.orienteering.asn.au
-DTSTAMP:20250822T103507Z
-DTSTART:20250818T070000Z
-DTEND:20250818T070000Z
-SUMMARY:ACT MapRun Street Series: Garran, 14-18 Aug, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/22341
-GEO:-35.341743;149.108232
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22486@eventor.orienteering.asn.au
-DTSTAMP:20250516T045306Z
-DTSTART:20250818T083000Z
-DTEND:20250818T101500Z
-SUMMARY:Melbourne Park Street Monday Night Series - Kerrimuir, Orienteering Victoria
-URL:https://eventor.orienteering.asn.au/Events/Show/22486
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22763@eventor.orienteering.asn.au
 DTSTAMP:20250818T235523Z
 DTSTART:20250819T000000Z
@@ -185,6 +168,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22720
 GEO:-37.7629310181742;145.076216490977
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22896@eventor.orienteering.asn.au
+DTSTAMP:20250826T120342Z
+DTSTART:20250823T140000Z
+DTEND:20250824T140000Z
+SUMMARY:MapRun Parks 2025 - Bowman Park, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22896
+GEO:-27.4569519574563;152.976469771744
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21137@eventor.orienteering.asn.au
 DTSTAMP:20250824T010306Z
 DTSTART:20250823T233000Z
@@ -247,17 +239,8 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22278
 GEO:-32.2675778686239;116.767000738014
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22896@eventor.orienteering.asn.au
-DTSTAMP:20250809T075149Z
-DTSTART:20250824T060000Z
-DTEND:20250824T060000Z
-SUMMARY:MapRun Parks 2025 - Bowman Park, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22896
-GEO:-27.4569519574563;152.976469771744
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22342@eventor.orienteering.asn.au
-DTSTAMP:20250714T021400Z
+DTSTAMP:20250826T022725Z
 DTSTART:20250825T070000Z
 DTEND:20250825T070000Z
 SUMMARY:ACT MapRun Street Series: Latham, 21-25 Aug, Orienteering ACT
@@ -282,7 +265,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22468
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21432@eventor.orienteering.asn.au
-DTSTAMP:20250616T084342Z
+DTSTAMP:20250826T094744Z
 DTSTART:20250826T073000Z
 DTEND:20250826T073000Z
 SUMMARY:Night Nav - Term 3 Series Event #6 - Graceville, Ugly Gully Orienteers
@@ -314,6 +297,15 @@ DTEND:20250827T020000Z
 SUMMARY:ACT Midweek Series: Campbell Park, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/22917
 GEO:-35.2784584525454;149.16347194644
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22931@eventor.orienteering.asn.au
+DTSTAMP:20250825T145016Z
+DTSTART:20250827T060000Z
+DTEND:20250827T071500Z
+SUMMARY:Woodside Zone Afterschool Training event at Woodside Memorial grounds , Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/22931
+GEO:-34.9546604553;138.874550962842
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22922@eventor.orienteering.asn.au
@@ -457,7 +449,7 @@ GEO:-31.4634359089749;152.876709678854
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22279@eventor.orienteering.asn.au
-DTSTAMP:20250803T065703Z
+DTSTAMP:20250826T104223Z
 DTSTART:20250831T013000Z
 DTEND:20250831T013000Z
 SUMMARY:Bush11 Ngangaguringguring, Orienteering WA / WA Nomads
@@ -1031,7 +1023,7 @@ GEO:-36.7478291771088;144.29671322399
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21066@eventor.orienteering.asn.au
-DTSTAMP:20250825T055340Z
+DTSTAMP:20250826T011951Z
 DTSTART:20250920T023000Z
 DTEND:20250920T023000Z
 SUMMARY:OY11 - Qld Middle Champs - Lode Creek, east of Stanthorpe, Bullecourt Boulder Bounders / Orienteering Queensland
@@ -1164,5 +1156,14 @@ DTSTART:20250924T083000Z
 DTEND:20250924T101500Z
 SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Not Notting Hill, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22508
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22347@eventor.orienteering.asn.au
+DTSTAMP:20250824T231153Z
+DTSTART:20250925T003000Z
+DTEND:20250925T003000Z
+SUMMARY:OQ Midweek Champs - Glider Forest, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/22347
+GEO:-27.6519071929051;153.00450731114
 END:VEVENT
 END:VCALENDAR
