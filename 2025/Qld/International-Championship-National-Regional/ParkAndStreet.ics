@@ -3,41 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_22763@eventor.orienteering.asn.au
-DTSTAMP:20250818T235523Z
-DTSTART:20250819T000000Z
-DTEND:20250819T000000Z
-SUMMARY:Hunter Regional Schools Championships - Speers Point POSTPONED, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22763
-GEO:-32.9612414829387;151.61569961519
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22769@eventor.orienteering.asn.au
-DTSTAMP:20250818T235724Z
-DTSTART:20250819T000000Z
-DTEND:20250819T000000Z
-SUMMARY:Hunter Regional Schools Champs - Score Course POSTPONED, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22769
-GEO:-32.9612414829387;151.61569961519
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21418@eventor.orienteering.asn.au
-DTSTAMP:20250819T091830Z
-DTSTART:20250819T073000Z
-DTEND:20250819T073000Z
-SUMMARY:BCC Sponsored Event Night Nav - Term 3 Event # 5 - Taringa North, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21418
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22757@eventor.orienteering.asn.au
-DTSTAMP:20250727T042439Z
-DTSTART:20250819T080000Z
-DTEND:20250819T080000Z
-SUMMARY:Night Nav - Baringa, Sunshine Orienteers Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22757
-GEO:-26.8086837850368;153.084225312542
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21617@eventor.orienteering.asn.au
 DTSTAMP:20250811T063526Z
 DTSTART:20250820T010000Z
@@ -65,7 +30,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22434
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22451@eventor.orienteering.asn.au
-DTSTAMP:20250823T112448Z
+DTSTAMP:20250827T093102Z
 DTSTART:20250820T060000Z
 DTEND:20250825T140000Z
 SUMMARY:Sydney MapRun Series 2025 #14 Deep Creek NEW MAP, Bennelong Northside Orienteers
@@ -274,7 +239,7 @@ GEO:-27.5327902856716;152.974219931739
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22758@eventor.orienteering.asn.au
-DTSTAMP:20250821T032727Z
+DTSTAMP:20250826T235305Z
 DTSTART:20250826T080000Z
 DTEND:20250826T080000Z
 SUMMARY:Night Nav - Bli Bli Parklakes, Sunshine Orienteers Club
@@ -291,7 +256,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22639
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22917@eventor.orienteering.asn.au
-DTSTAMP:20250819T013713Z
+DTSTAMP:20250827T071224Z
 DTSTART:20250827T020000Z
 DTEND:20250827T020000Z
 SUMMARY:ACT Midweek Series: Campbell Park, Orienteering ACT
@@ -449,7 +414,7 @@ GEO:-31.4634359089749;152.876709678854
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22279@eventor.orienteering.asn.au
-DTSTAMP:20250826T104223Z
+DTSTAMP:20250827T024400Z
 DTSTART:20250831T013000Z
 DTEND:20250831T013000Z
 SUMMARY:Bush11 Ngangaguringguring, Orienteering WA / WA Nomads
@@ -648,15 +613,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22765
 GEO:-33.3574253823793;116.144151882431
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22707@eventor.orienteering.asn.au
-DTSTAMP:20250807T003235Z
-DTSTART:20250906T140000Z
-DTEND:20250907T140000Z
-SUMMARY:Goldseekers Bush Series #6 - Pineview, Goldseekers Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22707
-GEO:-33.4282314432797;149.346852825321
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21775@eventor.orienteering.asn.au
 DTSTAMP:20250824T095628Z
 DTSTART:20250906T230000Z
@@ -699,6 +655,15 @@ SUMMARY:ACT Sprint Series Season Pass, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/22589
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22707@eventor.orienteering.asn.au
+DTSTAMP:20250827T022407Z
+DTSTART:20250907T000000Z
+DTEND:20250907T000000Z
+SUMMARY:Goldseekers Bush Series #6 - Pineview, Goldseekers Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22707
+GEO:-33.4282314432797;149.346852825321
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21799@eventor.orienteering.asn.au
 DTSTAMP:20250809T080936Z
 DTSTART:20250907T000000Z
@@ -708,21 +673,21 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21799
 GEO:-42.8541490850197;147.250909467367
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_21878@eventor.orienteering.asn.au
+DTSTAMP:20250827T065225Z
+DTSTART:20250907T000000Z
+DTEND:20250907T000000Z
+SUMMARY:Wagga Wagga - Pomingalarna, Wagga and Riverina Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21878
+GEO:-35.116526286772;147.296393237777
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_22523@eventor.orienteering.asn.au
 DTSTAMP:20250516T054241Z
 DTSTART:20250907T000000Z
 DTEND:20250907T011500Z
 SUMMARY:Mornington Peninsula Sunday MapRun - Dromana, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22523
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21878@eventor.orienteering.asn.au
-DTSTAMP:20250404T081119Z
-DTSTART:20250907T000000Z
-DTEND:20250907T030000Z
-SUMMARY:Pomingalarna, Wagga and Riverina Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21878
-GEO:-35.116526286772;147.296393237777
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22600@eventor.orienteering.asn.au
@@ -838,15 +803,6 @@ SUMMARY:Melbourne Park Street Saturday Series - Bundoora Parklands, Nillumbik Em
 URL:https://eventor.orienteering.asn.au/Events/Show/22515
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21742@eventor.orienteering.asn.au
-DTSTAMP:20250718T004026Z
-DTSTART:20250913T140000Z
-DTEND:20250914T140000Z
-SUMMARY:Vic Relays - Mt Lofty, Redesdale, Orienteering Victoria / VIC Vikings
-URL:https://eventor.orienteering.asn.au/Events/Show/21742
-GEO:-37.0165107712853;144.492055889462
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21236@eventor.orienteering.asn.au
 DTSTAMP:20250723T103449Z
 DTSTART:20250913T220000Z
@@ -898,6 +854,24 @@ DTEND:20250914T030000Z
 SUMMARY:ACT MTBO Series #3 + Come & Try MTBO, Stringybark Hill, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/21524
 GEO:-35.3881552600182;149.208475916076
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22932@eventor.orienteering.asn.au
+DTSTAMP:20250827T065947Z
+DTSTART:20250914T003000Z
+DTEND:20250914T003000Z
+SUMMARY:Individual Entry - Victorian Club Relays, Orienteering Victoria / VIC Vikings
+URL:https://eventor.orienteering.asn.au/Events/Show/22932
+GEO:-37.0241167084265;144.490574978458
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21742@eventor.orienteering.asn.au
+DTSTAMP:20250827T070051Z
+DTSTART:20250914T003000Z
+DTEND:20250914T003000Z
+SUMMARY:Mt Lofty, Redesdale, for Team Managers - Vic Relays, Orienteering Victoria / VIC Vikings
+URL:https://eventor.orienteering.asn.au/Events/Show/21742
+GEO:-37.0165107712853;144.492055889462
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21202@eventor.orienteering.asn.au
@@ -1165,5 +1139,23 @@ DTEND:20250925T003000Z
 SUMMARY:OQ Midweek Champs - Glider Forest, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/22347
 GEO:-27.6519071929051;153.00450731114
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22312@eventor.orienteering.asn.au
+DTSTAMP:20250816T055249Z
+DTSTART:20250925T140000Z
+DTEND:20250926T140000Z
+SUMMARY:Independent Athlete Development Camp Aus Champs 2025, Orienteering NSW / Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/22312
+GEO:-27.5217271530888;152.842912836718
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22349@eventor.orienteering.asn.au
+DTSTAMP:20250715T104957Z
+DTSTART:20250925T230000Z
+DTEND:20250925T230000Z
+SUMMARY:0 Australian Championships Services & Merchandise, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/22349
+GEO:-27.4696526215605;153.01219409602
 END:VEVENT
 END:VCALENDAR
