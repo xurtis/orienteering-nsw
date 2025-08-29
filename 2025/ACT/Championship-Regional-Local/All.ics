@@ -12,24 +12,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22451
 GEO:-33.708368732519;151.274773005629
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22898@eventor.orienteering.asn.au
-DTSTAMP:20250818T092435Z
-DTSTART:20250821T003000Z
-DTEND:20250821T003000Z
-SUMMARY:Chermside Hills (Trout's Rd, north of Hamilton Rd, McDowall), Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/22898
-GEO:-27.3802482950621;153.00037966153
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22879@eventor.orienteering.asn.au
-DTSTAMP:20250811T122919Z
-DTSTART:20250821T060000Z
-DTEND:20250821T060000Z
-SUMMARY:Stirling Zone Event - Woorabinda - Hender Rd End, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/22879
-GEO:-35.0176106326403;138.711940685998
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22772@eventor.orienteering.asn.au
 DTSTAMP:20250729T071625Z
 DTSTART:20250822T060000Z
@@ -265,7 +247,7 @@ GEO:-42.1228328434732;148.284543168334
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22430@eventor.orienteering.asn.au
-DTSTAMP:20250824T121738Z
+DTSTAMP:20250829T030210Z
 DTSTART:20250829T003000Z
 DTEND:20250829T003000Z
 SUMMARY:SA Schools Orienteering Championships - Belair NP, Onkaparinga Hills Orienteering Club / Orienteering SA
@@ -283,10 +265,10 @@ GEO:-12.406575719744;130.82043748666
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22744@eventor.orienteering.asn.au
-DTSTAMP:20250828T040924Z
+DTSTAMP:20250829T045028Z
 DTSTART:20250829T233000Z
 DTEND:20250830T020000Z
-SUMMARY:SOS Joint Series - West Pennant Hills, Bold Horizons Event Organiser
+SUMMARY:SOS Joint Series - West Pennant Hills - POSTPONED, Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/22744
 GEO:-33.7470054227026;151.041010411466
 END:VEVENT
@@ -354,7 +336,7 @@ GEO:-37.1845403899693;143.981427625287
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21983@eventor.orienteering.asn.au
-DTSTAMP:20250827T203049Z
+DTSTAMP:20250829T011409Z
 DTSTART:20250831T001500Z
 DTEND:20250831T001500Z
 SUMMARY:Seymour College (Adelaide) - Winter Urban Orienteering Series, Tjuringa Orienteers
@@ -598,11 +580,12 @@ GEO:-35.2070754497212;149.098959375266
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22543@eventor.orienteering.asn.au
-DTSTAMP:20250521T042157Z
+DTSTAMP:20250829T084733Z
 DTSTART:20250906T233000Z
 DTEND:20250907T030000Z
-SUMMARY:Newcastle NOY8 - Killingworth (Burkes Creek), Newcastle Orienteering Club
+SUMMARY:Newcastle NOY8 - Killingworth (Little Burkes Creek), Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22543
+GEO:-32.9267060186585;151.549860320226
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22589@eventor.orienteering.asn.au
@@ -676,7 +659,7 @@ GEO:-34.7062587116649;135.821310593492
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22754@eventor.orienteering.asn.au
-DTSTAMP:20250721T025758Z
+DTSTAMP:20250829T054849Z
 DTSTART:20250908T003000Z
 DTEND:20250908T003000Z
 SUMMARY:Victorian Primary Schools Orienteering Championships West 2025, Orienteering Victoria
@@ -851,12 +834,12 @@ GEO:-33.0387045256952;137.562748630432
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22281@eventor.orienteering.asn.au
-DTSTAMP:20250316T045853Z
+DTSTAMP:20250829T015049Z
 DTSTART:20250914T010000Z
 DTEND:20250914T040000Z
 SUMMARY:NavDash10 Perth Modern, LOST / Orienteering WA
 URL:https://eventor.orienteering.asn.au/Events/Show/22281
-GEO:-31.944643061371;115.838285942328
+GEO:-31.9438324123373;115.835567661153
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22914@eventor.orienteering.asn.au
@@ -900,6 +883,24 @@ DTSTART:20250915T083000Z
 DTEND:20250915T101500Z
 SUMMARY:Melbourne Park Street Monday Night Series - Waverley Parklands, Orienteering Victoria
 URL:https://eventor.orienteering.asn.au/Events/Show/22490
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22763@eventor.orienteering.asn.au
+DTSTAMP:20250829T081524Z
+DTSTART:20250916T000000Z
+DTEND:20250916T000000Z
+SUMMARY:Hunter Regional Schools Championships - Speers Point (Rescheduled), Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22763
+GEO:-32.9612414829387;151.61569961519
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22769@eventor.orienteering.asn.au
+DTSTAMP:20250829T081302Z
+DTSTART:20250916T000000Z
+DTEND:20250916T000000Z
+SUMMARY:Hunter Regional Schools Champs - Score Course (Rescheduled), Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22769
+GEO:-32.9612414829387;151.61569961519
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21618@eventor.orienteering.asn.au
@@ -1124,5 +1125,14 @@ DTEND:20250927T020000Z
 SUMMARY:1 Australian Sprint Distance Championships, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/21059
 GEO:-27.4956152856372;153.017926934095
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21060@eventor.orienteering.asn.au
+DTSTAMP:20250515T092630Z
+DTSTART:20250927T140000Z
+DTEND:20250928T140000Z
+SUMMARY:2 Australian Long Distance Championships, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/21060
+GEO:-27.3705759706381;152.566673959378
 END:VEVENT
 END:VCALENDAR
