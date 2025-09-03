@@ -3,33 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_22451@eventor.orienteering.asn.au
-DTSTAMP:20250827T093102Z
-DTSTART:20250820T060000Z
-DTEND:20250825T140000Z
-SUMMARY:Sydney MapRun Series 2025 #14 Deep Creek NEW MAP, Bennelong Northside Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22451
-GEO:-33.708368732519;151.274773005629
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21432@eventor.orienteering.asn.au
-DTSTAMP:20250826T094744Z
-DTSTART:20250826T073000Z
-DTEND:20250826T073000Z
-SUMMARY:Night Nav - Term 3 Series Event #6 - Graceville, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21432
-GEO:-27.5327902856716;152.974219931739
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22758@eventor.orienteering.asn.au
-DTSTAMP:20250826T235305Z
-DTSTART:20250826T080000Z
-DTEND:20250826T080000Z
-SUMMARY:Night Nav - Bli Bli Parklakes, Sunshine Orienteers Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22758
-GEO:-26.6057774809217;153.023487810259
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22639@eventor.orienteering.asn.au
 DTSTAMP:20250901T013242Z
 DTSTART:20250826T140000Z
@@ -133,6 +106,15 @@ SUMMARY:Melbourne Park Street Saturday Series - Chirnside Park, Dandenong Ranges
 URL:https://eventor.orienteering.asn.au/Events/Show/22511
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22897@eventor.orienteering.asn.au
+DTSTAMP:20250903T022140Z
+DTSTART:20250830T140000Z
+DTEND:20250831T140000Z
+SUMMARY:MapRun Parks 2025 - Rafting Grounds, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22897
+GEO:-27.5204964376593;152.923093516072
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_22075@eventor.orienteering.asn.au
 DTSTAMP:20250831T112200Z
 DTSTART:20250830T230000Z
@@ -196,15 +178,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22279
 GEO:-31.9073648285404;116.356883060131
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22897@eventor.orienteering.asn.au
-DTSTAMP:20250809T075603Z
-DTSTART:20250831T060000Z
-DTEND:20250831T060000Z
-SUMMARY:MapRun Parks 2025 - Rafting Grounds, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22897
-GEO:-27.5204964376593;152.923093516072
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22927@eventor.orienteering.asn.au
 DTSTAMP:20250822T042908Z
 DTSTART:20250831T213000Z
@@ -265,7 +238,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22929
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22918@eventor.orienteering.asn.au
-DTSTAMP:20250901T030803Z
+DTSTAMP:20250903T065520Z
 DTSTART:20250903T020000Z
 DTEND:20250903T020000Z
 SUMMARY:ACT Midweek Series: Fadden Pines, Orienteering ACT
@@ -440,10 +413,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22589
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22600@eventor.orienteering.asn.au
-DTSTAMP:20250901T232316Z
+DTSTAMP:20250903T052258Z
 DTSTART:20250907T000000Z
 DTEND:20250907T000000Z
-SUMMARY:"Little Hard Hills" - Enfield , Eureka Orienteers
+SUMMARY:Ballarat Bush - "Little Hard Hills" - Enfield , Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22600
 GEO:-37.7483578731153;143.777505211596
 END:VEVENT
@@ -561,6 +534,14 @@ SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Mont Albert, Ya
 URL:https://eventor.orienteering.asn.au/Events/Show/22509
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_22958@eventor.orienteering.asn.au
+DTSTAMP:20250903T085501Z
+DTSTART:20250913T003000Z
+DTEND:20250913T003000Z
+SUMMARY:Hunt Tin Mine - Learn to Orienteer (NE Program), Australopers Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22958
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21824@eventor.orienteering.asn.au
 DTSTAMP:20250817T104142Z
 DTSTART:20250913T020000Z
@@ -622,6 +603,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22080
 GEO:-28.0827960956567;153.408543645638
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_21524@eventor.orienteering.asn.au
+DTSTAMP:20250903T103152Z
+DTSTART:20250914T000000Z
+DTEND:20250914T000000Z
+SUMMARY:ACT MTBO Series #3 + Come & Try MTBO, Stringybark Hill, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/21524
+GEO:-35.3881552600182;149.208475916076
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_21827@eventor.orienteering.asn.au
 DTSTAMP:20250830T064132Z
 DTSTART:20250914T000000Z
@@ -638,15 +628,6 @@ DTEND:20250914T000000Z
 SUMMARY:Come & Try School Orienteering, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/22717
 GEO:-35.2546386383398;149.079959117448
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21524@eventor.orienteering.asn.au
-DTSTAMP:20250601T035955Z
-DTSTART:20250914T000000Z
-DTEND:20250914T030000Z
-SUMMARY:ACT MTBO Series #3 + Come & Try MTBO, Stringybark Hill, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/21524
-GEO:-35.3881552600182;149.208475916076
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22932@eventor.orienteering.asn.au
@@ -899,7 +880,6 @@ DTSTART:20250921T060000Z
 DTEND:20250921T060000Z
 SUMMARY:MapRun Parks 2025 - NOT ON THIS WEEK, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22609
-GEO:-27.511323380869;152.927833960759
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22346@eventor.orienteering.asn.au
@@ -1065,5 +1045,23 @@ DTSTART:20251001T083000Z
 DTEND:20251001T101500Z
 SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Warralong Heights, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22502
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21063@eventor.orienteering.asn.au
+DTSTAMP:20250811T031834Z
+DTSTART:20251001T140000Z
+DTEND:20251002T140000Z
+SUMMARY:5A Australian Schools Orienteering Championships - Relay - Team Managers Only, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/21063
+GEO:-27.4396496039534;152.979146404378
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22930@eventor.orienteering.asn.au
+DTSTAMP:20250825T020027Z
+DTSTART:20251001T140000Z
+DTEND:20251002T140000Z
+SUMMARY:Heath Park (BCC GOLD) - now POSTPONED, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/22930
+GEO:-27.479470431836;153.051659813076
 END:VEVENT
 END:VCALENDAR
