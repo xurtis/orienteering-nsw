@@ -11,14 +11,6 @@ SUMMARY:Sydney MapRun Series 2025 #15 East Chatswood, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22639
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22880@eventor.orienteering.asn.au
-DTSTAMP:20250805T102708Z
-DTSTART:20250828T060000Z
-DTEND:20250828T060000Z
-SUMMARY:Stirling Zone Event - Heathfield HS, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/22880
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21851@eventor.orienteering.asn.au
 DTSTAMP:20250812T010056Z
 DTSTART:20250828T140000Z
@@ -256,7 +248,7 @@ GEO:-27.4827117738871;152.972030324111
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21392@eventor.orienteering.asn.au
-DTSTAMP:20250904T130218Z
+DTSTAMP:20250905T090353Z
 DTSTART:20250905T050000Z
 DTEND:20250905T050000Z
 SUMMARY:Australian Mass Start MTBO Championships, Orienteering WA
@@ -498,6 +490,15 @@ DTSTART:20250910T083000Z
 DTEND:20250910T101500Z
 SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Mont Albert, Yarra Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22509
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22964@eventor.orienteering.asn.au
+DTSTAMP:20250905T025454Z
+DTSTART:20250911T003000Z
+DTEND:20250911T003000Z
+SUMMARY:Dan Stiller Reserve, Heathwood, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/22964
+GEO:-27.6505425929805;152.987946856501
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22958@eventor.orienteering.asn.au
@@ -824,7 +825,7 @@ GEO:-36.1197313715022;146.608812118573
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21791@eventor.orienteering.asn.au
-DTSTAMP:20250824T214647Z
+DTSTAMP:20250905T104149Z
 DTSTART:20250921T000000Z
 DTEND:20250921T000000Z
 SUMMARY:MelBushO 8 - Woodlands, Greenvale, Bayside Kangaroos Orienteers
@@ -908,7 +909,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22508
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22347@eventor.orienteering.asn.au
-DTSTAMP:20250902T014546Z
+DTSTAMP:20250905T071506Z
 DTSTART:20250925T003000Z
 DTEND:20250925T003000Z
 SUMMARY:OQ Midweek Champs - Glider Forest, Orienteering Queensland
@@ -1038,5 +1039,32 @@ DTEND:20251002T140000Z
 SUMMARY:Heath Park (BCC GOLD) - now POSTPONED, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/22930
 GEO:-27.479470431836;153.051659813076
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22355@eventor.orienteering.asn.au
+DTSTAMP:20250902T115950Z
+DTSTART:20251004T040000Z
+DTEND:20251004T040000Z
+SUMMARY:6 Australian Relay Championships - Individual Entry, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/22355
+GEO:-27.355313964547;152.54936627757
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22353@eventor.orienteering.asn.au
+DTSTAMP:20250905T001836Z
+DTSTART:20251004T040000Z
+DTEND:20251004T040000Z
+SUMMARY:6B Australian Relay Championships - Managers and results, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/22353
+GEO:-27.3707401934493;152.563951085245
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22894@eventor.orienteering.asn.au
+DTSTAMP:20250807T212644Z
+DTSTART:20251004T080000Z
+DTEND:20251004T080000Z
+SUMMARY:6C Australian Relay - Dinner Orders, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/22894
+GEO:-27.3548400863103;152.549187591274
 END:VEVENT
 END:VCALENDAR
