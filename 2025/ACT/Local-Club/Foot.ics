@@ -3,23 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_22929@eventor.orienteering.asn.au
-DTSTAMP:20250822T042824Z
-DTSTART:20250903T010000Z
-DTEND:20250903T010000Z
-SUMMARY:Future of Orienteering in Aus - open discussion #3, Orienteering Australia
-URL:https://eventor.orienteering.asn.au/Events/Show/22929
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22918@eventor.orienteering.asn.au
-DTSTAMP:20250903T065520Z
-DTSTART:20250903T020000Z
-DTEND:20250903T020000Z
-SUMMARY:ACT Midweek Series: Fadden Pines, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/22918
-GEO:-35.4103567499704;149.119698158297
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22452@eventor.orienteering.asn.au
 DTSTAMP:20250908T005538Z
 DTSTART:20250903T060000Z
@@ -27,22 +10,6 @@ DTEND:20250906T140000Z
 SUMMARY:Sydney MapRun Series 2025 #16 Rose Bay NEW MAP, Bennelong Northside Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22452
 GEO:-33.850637997717;151.267430153897
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22924@eventor.orienteering.asn.au
-DTSTAMP:20250822T022910Z
-DTSTART:20250903T080000Z
-DTEND:20250903T080000Z
-SUMMARY:2025 MapRun Series 3 - Race 4 - The Pier, Cairns Esplanade, Far North Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22924
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22501@eventor.orienteering.asn.au
-DTSTAMP:20250516T052157Z
-DTSTART:20250903T083000Z
-DTEND:20250903T101500Z
-SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Deepdene, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22501
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22764@eventor.orienteering.asn.au
