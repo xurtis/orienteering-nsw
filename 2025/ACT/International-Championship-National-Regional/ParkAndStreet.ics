@@ -3,15 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_21435@eventor.orienteering.asn.au
-DTSTAMP:20250909T095311Z
-DTSTART:20250909T073000Z
-DTEND:20250909T073000Z
-SUMMARY:Night Nav - Term 3 Series Event #8 - Rosalie, Ugly Gully Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/21435
-GEO:-27.4665009531874;152.999309518571
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22979@eventor.orienteering.asn.au
 DTSTAMP:20250910T045545Z
 DTSTART:20250910T003000Z
@@ -240,7 +231,7 @@ GEO:-27.5753491131597;151.934398452606
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22345@eventor.orienteering.asn.au
-DTSTAMP:20250818T032150Z
+DTSTAMP:20250916T143600Z
 DTSTART:20250915T070000Z
 DTEND:20250915T070000Z
 SUMMARY:ACT MapRun Street Series: Curtin, 11-15 Sep, Orienteering ACT
@@ -389,7 +380,7 @@ GEO:-37.6329366084805;144.852205112653
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21982@eventor.orienteering.asn.au
-DTSTAMP:20250910T122447Z
+DTSTAMP:20250917T125818Z
 DTSTART:20250921T003000Z
 DTEND:20250921T003000Z
 SUMMARY:Snow Hill (Kuitpo Forest) Foot and MTBO, Tjuringa Orienteers
@@ -633,7 +624,7 @@ GEO:-27.9144875540617;153.31843953508
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22355@eventor.orienteering.asn.au
-DTSTAMP:20250906T065122Z
+DTSTAMP:20250917T011621Z
 DTSTART:20251004T040000Z
 DTEND:20251004T040000Z
 SUMMARY:6 Australian Relay Championships - Individual Entry, Orienteering Queensland
@@ -642,7 +633,7 @@ GEO:-27.355313964547;152.54936627757
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22353@eventor.orienteering.asn.au
-DTSTAMP:20250915T052915Z
+DTSTAMP:20250917T004002Z
 DTSTART:20251004T040000Z
 DTEND:20251004T040000Z
 SUMMARY:6B Australian Relay Championships - Managers and results, Orienteering Queensland
@@ -938,5 +929,21 @@ DTSTART:20251015T073000Z
 DTEND:20251015T073000Z
 SUMMARY:Melbourne Park Street Wednesday Summer Series - Croydon Greens, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22811
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22817@eventor.orienteering.asn.au
+DTSTAMP:20250801T082139Z
+DTSTART:20251016T073000Z
+DTEND:20251016T073000Z
+SUMMARY:Melbourne Park Street Thursday Summer Series - Reservoir, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22817
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22818@eventor.orienteering.asn.au
+DTSTAMP:20250801T082439Z
+DTSTART:20251016T080000Z
+DTEND:20251016T080000Z
+SUMMARY:Geelong Park Street Thursday Summer Series - Gaol Break, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22818
 END:VEVENT
 END:VCALENDAR
