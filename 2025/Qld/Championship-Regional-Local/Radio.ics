@@ -3,40 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_22979@eventor.orienteering.asn.au
-DTSTAMP:20250910T045545Z
-DTSTART:20250910T003000Z
-DTEND:20250910T003000Z
-SUMMARY:One Tree Hill - Weeroona, Bendigo Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22979
-GEO:-36.783444113481;144.303013584215
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22616@eventor.orienteering.asn.au
-DTSTAMP:20250910T100056Z
-DTSTART:20250910T073000Z
-DTEND:20250910T073000Z
-SUMMARY:Moonlight Madness No 5 - West Chatswood, Garingal Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22616
-GEO:-33.8079442310681;151.176519198031
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22925@eventor.orienteering.asn.au
-DTSTAMP:20250822T023010Z
-DTSTART:20250910T080000Z
-DTEND:20250910T080000Z
-SUMMARY:2025 MapRun Series 3 - Race 5 - Caravonica, Far North Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22925
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22509@eventor.orienteering.asn.au
-DTSTAMP:20250516T052000Z
-DTSTART:20250910T083000Z
-DTEND:20250910T101500Z
-SUMMARY:Melbourne Park Street Wednesday Spring Carnival Series - Mont Albert, Yarra Valley Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22509
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22964@eventor.orienteering.asn.au
 DTSTAMP:20250912T005742Z
 DTSTART:20250911T003000Z
@@ -248,7 +214,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22490
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22763@eventor.orienteering.asn.au
-DTSTAMP:20250829T081524Z
+DTSTAMP:20250918T051517Z
 DTSTART:20250916T000000Z
 DTEND:20250916T000000Z
 SUMMARY:Hunter Regional Schools Championships - Speers Point (Rescheduled), Newcastle Orienteering Club
@@ -343,15 +309,6 @@ SUMMARY:Melbourne Park Street Saturday Series - Lillydale Lake, Dandenong Ranges
 URL:https://eventor.orienteering.asn.au/Events/Show/22512
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21487@eventor.orienteering.asn.au
-DTSTAMP:20250825T011922Z
-DTSTART:20250920T140000Z
-DTEND:20250921T140000Z
-SUMMARY:ACT Classic Series: ACT League #10, Glendale, Bushflyers
-URL:https://eventor.orienteering.asn.au/Events/Show/21487
-GEO:-35.6867491321637;149.002201483468
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21067@eventor.orienteering.asn.au
 DTSTAMP:20250802T232036Z
 DTSTART:20250920T230000Z
@@ -377,6 +334,15 @@ DTEND:20250921T000000Z
 SUMMARY:MelBushO 8 - Woodlands, Greenvale, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21791
 GEO:-37.6329366084805;144.852205112653
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21487@eventor.orienteering.asn.au
+DTSTAMP:20250918T014353Z
+DTSTART:20250921T000000Z
+DTEND:20250921T040000Z
+SUMMARY:ACT Classic Series: ACT League #10, Glendale, Bushflyers
+URL:https://eventor.orienteering.asn.au/Events/Show/21487
+GEO:-35.6867491321637;149.002201483468
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21982@eventor.orienteering.asn.au
@@ -440,7 +406,7 @@ GEO:-26.7728307662685;153.119871576974
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22640@eventor.orienteering.asn.au
-DTSTAMP:20250618T023117Z
+DTSTAMP:20250918T071159Z
 DTSTART:20250923T140000Z
 DTEND:20250928T140000Z
 SUMMARY:Sydney MapRun Series 2025 #18 Sydney Botanic Gardens, Garingal Orienteers
@@ -657,6 +623,15 @@ DTEND:20251005T140000Z
 SUMMARY:7 Australian Middle Distance Championships, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/21065
 GEO:-27.6756096840377;152.850265346479
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23008@eventor.orienteering.asn.au
+DTSTAMP:20250918T092223Z
+DTSTART:20251005T060000Z
+DTEND:20251005T060000Z
+SUMMARY:MapRun Parks 2025 - Robelle Domain, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/23008
+GEO:-27.6818868155694;152.903703933534
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22802@eventor.orienteering.asn.au
