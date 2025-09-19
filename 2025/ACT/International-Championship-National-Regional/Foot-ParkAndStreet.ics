@@ -3,15 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_22964@eventor.orienteering.asn.au
-DTSTAMP:20250912T005742Z
-DTSTART:20250911T003000Z
-DTEND:20250911T003000Z
-SUMMARY:Dan Stiller Reserve, Heathwood, Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/22964
-GEO:-27.6505425929805;152.987946856501
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22958@eventor.orienteering.asn.au
 DTSTAMP:20250903T085501Z
 DTSTART:20250913T003000Z
@@ -180,7 +171,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22952
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22926@eventor.orienteering.asn.au
-DTSTAMP:20250822T023147Z
+DTSTAMP:20250919T062001Z
 DTSTART:20250914T060000Z
 DTEND:20250914T060000Z
 SUMMARY:2025 MapRun Series 3 - Race 6 - Holloways Beach, Far North Orienteering Club
@@ -241,7 +232,7 @@ GEO:-34.6795327945746;138.974216762497
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22453@eventor.orienteering.asn.au
-DTSTAMP:20250915T071514Z
+DTSTAMP:20250919T003503Z
 DTSTART:20250917T060000Z
 DTEND:20250920T140000Z
 SUMMARY:Sydney MapRun Series 2025 #17 Moore Park NEW MAP, Bennelong Northside Orienteers
@@ -267,7 +258,7 @@ GEO:-35.3781037465236;149.227138210528
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22746@eventor.orienteering.asn.au
-DTSTAMP:20250901T234920Z
+DTSTAMP:20250919T041917Z
 DTSTART:20250919T233000Z
 DTEND:20250920T020000Z
 SUMMARY:SOS Northside - Willoughby Emerge Festival, Bold Horizons Event Organiser / Garingal Orienteers
@@ -293,7 +284,7 @@ GEO:-36.9861099613179;144.053618486722
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21066@eventor.orienteering.asn.au
-DTSTAMP:20250826T011951Z
+DTSTAMP:20250919T005915Z
 DTSTART:20250920T023000Z
 DTEND:20250920T023000Z
 SUMMARY:OY11 - Qld Middle Champs - Lode Creek, east of Stanthorpe, Bullecourt Boulder Bounders / Orienteering Queensland
@@ -310,7 +301,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22512
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21067@eventor.orienteering.asn.au
-DTSTAMP:20250802T232036Z
+DTSTAMP:20250919T024147Z
 DTSTART:20250920T230000Z
 DTEND:20250921T010000Z
 SUMMARY:OY12 - The Cascades, west of Stanthorpe, Bullecourt Boulder Bounders / Orienteering Queensland
@@ -771,7 +762,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22821
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21601@eventor.orienteering.asn.au
-DTSTAMP:20250914T232516Z
+DTSTAMP:20250919T073925Z
 DTSTART:20251011T230000Z
 DTEND:20251012T010000Z
 SUMMARY:Illawarra Map Running Series Spring #1 - Jamberoo, Illawarra Kareelah Orienteers
@@ -920,5 +911,40 @@ DTSTART:20251016T080000Z
 DTEND:20251016T080000Z
 SUMMARY:Geelong Park Street Thursday Summer Series - Gaol Break, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22818
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21529@eventor.orienteering.asn.au
+DTSTAMP:20250530T131304Z
+DTSTART:20251017T220000Z
+DTEND:20251018T010000Z
+SUMMARY:2025 ACT MTBO_SPRINT Championships, Jerrabomberra Hill, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/21529
+GEO:-35.3674925802629;149.218572599861
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21528@eventor.orienteering.asn.au
+DTSTAMP:20250530T134023Z
+DTSTART:20251018T030000Z
+DTEND:20251018T070000Z
+SUMMARY:2025 ACT MTBO MIDDLE Championships, East Kowen, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/21528
+GEO:-35.3232584367542;149.35076261403
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22666@eventor.orienteering.asn.au
+DTSTAMP:20250626T030336Z
+DTSTART:20251018T070000Z
+DTEND:20251018T070000Z
+SUMMARY:Albany - North Albany Senior High School, Albany & Denmark Hinterland Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22666
+GEO:-34.9912798578527;117.862940255571
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21852@eventor.orienteering.asn.au
+DTSTAMP:20250908T232342Z
+DTSTART:20251018T070000Z
+DTEND:20251018T070000Z
+SUMMARY:Awards Night -  Launceston - TBA, Orienteering Tasmania
+URL:https://eventor.orienteering.asn.au/Events/Show/21852
 END:VEVENT
 END:VCALENDAR
