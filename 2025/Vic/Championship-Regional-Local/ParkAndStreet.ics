@@ -3,23 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_22345@eventor.orienteering.asn.au
-DTSTAMP:20250916T143600Z
-DTSTART:20250915T070000Z
-DTEND:20250915T070000Z
-SUMMARY:ACT MapRun Street Series: Curtin, 11-15 Sep, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/22345
-GEO:-35.3253702667461;149.081494923901
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22490@eventor.orienteering.asn.au
-DTSTAMP:20250516T045700Z
-DTSTART:20250915T083000Z
-DTEND:20250915T101500Z
-SUMMARY:Melbourne Park Street Monday Night Series - Waverley Parklands, Orienteering Victoria
-URL:https://eventor.orienteering.asn.au/Events/Show/22490
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22763@eventor.orienteering.asn.au
 DTSTAMP:20250918T051517Z
 DTSTART:20250916T000000Z
@@ -187,7 +170,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22640
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22346@eventor.orienteering.asn.au
-DTSTAMP:20250701T001322Z
+DTSTAMP:20250923T103306Z
 DTSTART:20250922T070000Z
 DTEND:20250922T070000Z
 SUMMARY:ACT MapRun Street Series: Gilmore, 18-22 Sep, Orienteering ACT
@@ -553,10 +536,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22959
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22030@eventor.orienteering.asn.au
-DTSTAMP:20250915T073331Z
+DTSTAMP:20250923T122816Z
 DTSTART:20251011T220000Z
 DTEND:20251011T220000Z
-SUMMARY:NSW MTBO Champs - Middle (extended winning time), Newcastle Orienteering Club
+SUMMARY:NSW MTBO Champs - Long, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22030
 GEO:-32.5496345729879;151.129132777401
 END:VEVENT
@@ -886,7 +869,7 @@ GEO:-37.8270702621585;145.022122948759
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22625@eventor.orienteering.asn.au
-DTSTAMP:20250909T233827Z
+DTSTAMP:20250923T043017Z
 DTSTART:20251019T050000Z
 DTEND:20251019T050000Z
 SUMMARY:River and Bay Orienteering Series #1, Illawarra Kareelah Orienteers / Uringa Orienteers
@@ -933,5 +916,73 @@ DTSTART:20251021T073000Z
 DTEND:20251021T073000Z
 SUMMARY:RED HILL - BCC Sponsored Event Night Nav Event 3 4th Term Series, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21420
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21828@eventor.orienteering.asn.au
+DTSTAMP:20250920T215241Z
+DTSTART:20251022T040000Z
+DTEND:20251022T040000Z
+SUMMARY:Royal Park - Launceston Spring Twilight #1, Esk Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21828
+GEO:-41.4383543351616;147.131486938424
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22776@eventor.orienteering.asn.au
+DTSTAMP:20250731T064930Z
+DTSTART:20251022T053000Z
+DTEND:20251022T053000Z
+SUMMARY:2025/26 Sydney Summer Series #3 – Lane Cove, Bennelong Northside Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22776
+GEO:-33.8424279786618;151.186125112587
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22619@eventor.orienteering.asn.au
+DTSTAMP:20250616T005746Z
+DTSTART:20251022T053000Z
+DTEND:20251022T053000Z
+SUMMARY:ACT Learn to Orienteer, Week 2, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/22619
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22296@eventor.orienteering.asn.au
+DTSTAMP:20250922T013258Z
+DTSTART:20251022T060000Z
+DTEND:20251022T060000Z
+SUMMARY:ACT Runners Shop Twilight Series #1: John Knight Park, Bushflyers
+URL:https://eventor.orienteering.asn.au/Events/Show/22296
+GEO:-35.2347169433244;149.073985934741
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22935@eventor.orienteering.asn.au
+DTSTAMP:20250828T235011Z
+DTSTART:20251022T060000Z
+DTEND:20251022T060000Z
+SUMMARY:Newcastle Summer Street Series #2, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22935
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22812@eventor.orienteering.asn.au
+DTSTAMP:20250801T081442Z
+DTSTART:20251022T073000Z
+DTEND:20251022T073000Z
+SUMMARY:Melbourne Park Street Wednesday Summer Series - Kerrimuir, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22812
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22844@eventor.orienteering.asn.au
+DTSTAMP:20250803T021027Z
+DTSTART:20251022T080000Z
+DTEND:20251022T080000Z
+SUMMARY:Night Nav Nth - EN - Woody Point, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/22844
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23030@eventor.orienteering.asn.au
+DTSTAMP:20250919T231429Z
+DTSTART:20251022T125900Z
+DTEND:20251022T125900Z
+SUMMARY:Enter All Northern Spring Twilights at Discounted Rate, Esk Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/23030
+GEO:-41.4321875810465;147.13019346245
 END:VEVENT
 END:VCALENDAR
