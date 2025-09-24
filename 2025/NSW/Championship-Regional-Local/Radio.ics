@@ -3,24 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_22763@eventor.orienteering.asn.au
-DTSTAMP:20250918T051517Z
-DTSTART:20250916T000000Z
-DTEND:20250916T000000Z
-SUMMARY:Hunter Regional Schools Championships - Speers Point (Rescheduled), Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22763
-GEO:-32.9612414829387;151.61569961519
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22769@eventor.orienteering.asn.au
-DTSTAMP:20250829T081302Z
-DTSTART:20250916T000000Z
-DTEND:20250916T000000Z
-SUMMARY:Hunter Regional Schools Champs - Score Course (Rescheduled), Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22769
-GEO:-32.9612414829387;151.61569961519
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21618@eventor.orienteering.asn.au
 DTSTAMP:20250915T092740Z
 DTSTART:20250917T010000Z
@@ -195,7 +177,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22491
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22760@eventor.orienteering.asn.au
-DTSTAMP:20250727T044130Z
+DTSTAMP:20250923T234731Z
 DTSTART:20250923T080000Z
 DTEND:20250923T080000Z
 SUMMARY:Night Nav - West Currimundi, Sunshine Orienteers Club
@@ -519,10 +501,10 @@ GEO:-36.7032465027848;144.252786664204
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22029@eventor.orienteering.asn.au
-DTSTAMP:20250915T073251Z
+DTSTAMP:20250923T213202Z
 DTSTART:20251011T020000Z
 DTEND:20251011T020000Z
-SUMMARY:NSW MTBO Champs - Middle (extended winning time), Newcastle Orienteering Club
+SUMMARY:NSW MTBO Champs - Middle, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22029
 GEO:-32.5424533318604;151.191003122948
 END:VEVENT
@@ -633,7 +615,7 @@ GEO:-27.5786152725993;151.984093432907
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23033@eventor.orienteering.asn.au
-DTSTAMP:20250922T011653Z
+DTSTAMP:20250924T013157Z
 DTSTART:20251013T060000Z
 DTEND:20251013T060000Z
 SUMMARY:ACT MapRun Street Series: Watson, 9-13 Oct, Orienteering ACT
@@ -869,7 +851,7 @@ GEO:-37.8270702621585;145.022122948759
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22625@eventor.orienteering.asn.au
-DTSTAMP:20250923T043017Z
+DTSTAMP:20250924T101900Z
 DTSTART:20251019T050000Z
 DTEND:20251019T050000Z
 SUMMARY:River and Bay Orienteering Series #1, Illawarra Kareelah Orienteers / Uringa Orienteers
@@ -887,7 +869,7 @@ GEO:-27.4916279619699;153.115652579036
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23034@eventor.orienteering.asn.au
-DTSTAMP:20250922T011655Z
+DTSTAMP:20250924T014318Z
 DTSTART:20251020T060000Z
 DTEND:20251020T060000Z
 SUMMARY:ACT MapRun Street Series: Duffy, 16-20 Oct, Orienteering ACT
@@ -984,5 +966,30 @@ DTEND:20251022T125900Z
 SUMMARY:Enter All Northern Spring Twilights at Discounted Rate, Esk Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/23030
 GEO:-41.4321875810465;147.13019346245
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22908@eventor.orienteering.asn.au
+DTSTAMP:20250813T043336Z
+DTSTART:20251023T003000Z
+DTEND:20251023T020000Z
+SUMMARY:Mid week - Wally Tate Park, Kuraby (Maprun), Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/22908
+GEO:-27.604769448893;153.092507025043
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22815@eventor.orienteering.asn.au
+DTSTAMP:20250801T081948Z
+DTSTART:20251023T073000Z
+DTEND:20251023T073000Z
+SUMMARY:Melbourne Park Street Thursday Summer Series - Heidelberg Heights, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22815
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22819@eventor.orienteering.asn.au
+DTSTAMP:20250801T082509Z
+DTSTART:20251023T080000Z
+DTEND:20251023T080000Z
+SUMMARY:Geelong Park Street Thursday Summer Series - Barrabool Hills, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22819
 END:VEVENT
 END:VCALENDAR
