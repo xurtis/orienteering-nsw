@@ -222,7 +222,7 @@ GEO:-33.7470054227026;151.041010411466
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21059@eventor.orienteering.asn.au
-DTSTAMP:20250902T114905Z
+DTSTAMP:20250926T080211Z
 DTSTART:20250927T020000Z
 DTEND:20250927T020000Z
 SUMMARY:1 Australian Sprint Distance Championships, Orienteering Queensland
@@ -231,7 +231,7 @@ GEO:-27.4956152856372;153.017926934095
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21060@eventor.orienteering.asn.au
-DTSTAMP:20250902T115453Z
+DTSTAMP:20250926T080701Z
 DTSTART:20250927T140000Z
 DTEND:20250928T140000Z
 SUMMARY:2 Australian Long Distance Championships, Orienteering Queensland
@@ -257,16 +257,16 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22492
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21061@eventor.orienteering.asn.au
-DTSTAMP:20250811T010354Z
+DTSTAMP:20250926T082154Z
 DTSTART:20250929T230000Z
 DTEND:20250929T230000Z
-SUMMARY:3A Australian Schools Orienteering Championships - Sprint - Team Managers Only, Orienteering Queensland
+SUMMARY:3A Australian Schools Orienteering Championships - Sprint, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/21061
 GEO:-27.6247928144853;152.970763189513
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22352@eventor.orienteering.asn.au
-DTSTAMP:20250902T115623Z
+DTSTAMP:20250926T092036Z
 DTSTART:20250929T230000Z
 DTEND:20251001T140000Z
 SUMMARY:3 4 5 Run The River , Orienteering Queensland
@@ -292,12 +292,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23004
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22761@eventor.orienteering.asn.au
-DTSTAMP:20250727T045136Z
+DTSTAMP:20250926T064125Z
 DTSTART:20250930T080000Z
 DTEND:20250930T080000Z
-SUMMARY:Nigh Nav - Sippy Downs, Sunshine Orienteers Club
+SUMMARY:Night Nav - Sippy Downs, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22761
-GEO:-26.7283848937098;153.068888659173
+GEO:-26.7250385962309;153.068724406744
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21062@eventor.orienteering.asn.au
@@ -490,6 +490,15 @@ DTEND:20251011T020000Z
 SUMMARY:NSW MTBO Champs - Middle, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22029
 GEO:-32.5424533318604;151.191003122948
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23058@eventor.orienteering.asn.au
+DTSTAMP:20250926T024104Z
+DTSTART:20251011T213000Z
+DTEND:20251011T213000Z
+SUMMARY:NT: 2025 City, Top End Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/23058
+GEO:-12.4654917798845;130.844476302974
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22959@eventor.orienteering.asn.au
@@ -976,5 +985,14 @@ DTSTART:20251023T080000Z
 DTEND:20251023T080000Z
 SUMMARY:Geelong Park Street Thursday Summer Series - Barrabool Hills, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22819
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22750@eventor.orienteering.asn.au
+DTSTAMP:20250805T080903Z
+DTSTART:20251025T083000Z
+DTEND:20251025T083000Z
+SUMMARY:Bunjil, Victorian Night'O Champs, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22750
+GEO:-37.7042921419128;144.120505575168
 END:VEVENT
 END:VCALENDAR
