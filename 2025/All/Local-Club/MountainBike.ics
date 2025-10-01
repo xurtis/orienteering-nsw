@@ -11,15 +11,6 @@ SUMMARY:Sydney MapRun Series 2025 #18 Sydney Botanic Gardens, Garingal Orienteer
 URL:https://eventor.orienteering.asn.au/Events/Show/22640
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22760@eventor.orienteering.asn.au
-DTSTAMP:20250923T234731Z
-DTSTART:20250923T080000Z
-DTEND:20250923T080000Z
-SUMMARY:Night Nav - West Currimundi, Sunshine Orienteers Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22760
-GEO:-26.7728307662685;153.119871576974
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22508@eventor.orienteering.asn.au
 DTSTAMP:20250516T051846Z
 DTSTART:20250924T083000Z
@@ -144,7 +135,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23004
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22761@eventor.orienteering.asn.au
-DTSTAMP:20250926T064125Z
+DTSTAMP:20251001T073441Z
 DTSTART:20250930T080000Z
 DTEND:20250930T080000Z
 SUMMARY:Night Nav - Sippy Downs, Sunshine Orienteers Club
@@ -153,7 +144,7 @@ GEO:-26.7250385962309;153.068724406744
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21062@eventor.orienteering.asn.au
-DTSTAMP:20250930T050116Z
+DTSTAMP:20251001T050803Z
 DTSTART:20250930T140000Z
 DTEND:20251001T140000Z
 SUMMARY:4A Australian Schools Orienteering Championships - Long, Orienteering Queensland
@@ -170,10 +161,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22502
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21063@eventor.orienteering.asn.au
-DTSTAMP:20250811T031834Z
+DTSTAMP:20251001T082404Z
 DTSTART:20251001T140000Z
 DTEND:20251002T140000Z
-SUMMARY:5A Australian Schools Orienteering Championships - Relay - Team Managers Only, Orienteering Queensland
+SUMMARY:5A Aus Schools Orienteering Champs - Relay, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/21063
 GEO:-27.673179025149;152.756736954306
 END:VEVENT
@@ -569,7 +560,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22818
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23087@eventor.orienteering.asn.au
-DTSTAMP:20250929T053901Z
+DTSTAMP:20251001T022442Z
 DTSTART:20251017T073000Z
 DTEND:20251017T073000Z
 SUMMARY:Learn to Orienteer for Lovers of Trails and the Great Outdoors, Orienteering SA
@@ -838,7 +829,7 @@ GEO:-41.4321875810465;147.13019346245
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23086@eventor.orienteering.asn.au
-DTSTAMP:20250929T054042Z
+DTSTAMP:20251001T022626Z
 DTSTART:20251022T233000Z
 DTEND:20251023T013000Z
 SUMMARY:Learn to Orienteer for Active Adults, Orienteering SA
@@ -941,7 +932,7 @@ GEO:-34.6717952036891;150.860378211732
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23031@eventor.orienteering.asn.au
-DTSTAMP:20250929T054135Z
+DTSTAMP:20251001T022901Z
 DTSTART:20251025T233000Z
 DTEND:20251026T013000Z
 SUMMARY:Learn to Orienteer for Families, Orienteering SA
@@ -1100,5 +1091,38 @@ DTSTART:20251029T073000Z
 DTEND:20251029T073000Z
 SUMMARY:Melbourne Park Street Wednesday Summer Series - Camberwell, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22813
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22711@eventor.orienteering.asn.au
+DTSTAMP:20250707T015140Z
+DTSTART:20251029T204000Z
+DTEND:20251029T204000Z
+SUMMARY:SC-ORE #1: Blue Gum School, Hackett, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/22711
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22816@eventor.orienteering.asn.au
+DTSTAMP:20250801T082052Z
+DTSTART:20251030T073000Z
+DTEND:20251030T073000Z
+SUMMARY:Melbourne Park Street Thursday Summer Series - Loughnan Hill, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22816
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23094@eventor.orienteering.asn.au
+DTSTAMP:20250929T004101Z
+DTSTART:20251030T080000Z
+DTEND:20251030T080000Z
+SUMMARY:ACT Controller Workshop 3, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/23094
+GEO:-35.2524762283913;149.069197114954
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22820@eventor.orienteering.asn.au
+DTSTAMP:20250801T082701Z
+DTSTART:20251030T080000Z
+DTEND:20251030T080000Z
+SUMMARY:Geelong Park Street Thursday Summer Series - Whats The Point? (new map), Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22820
 END:VEVENT
 END:VCALENDAR
