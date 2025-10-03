@@ -11,15 +11,6 @@ SUMMARY:Sydney MapRun Series 2025 #18 Sydney Botanic Gardens, Garingal Orienteer
 URL:https://eventor.orienteering.asn.au/Events/Show/22640
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22347@eventor.orienteering.asn.au
-DTSTAMP:20250925T024548Z
-DTSTART:20250925T003000Z
-DTEND:20250925T003000Z
-SUMMARY:OQ Midweek Champs - Glider Forest, Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/22347
-GEO:-27.6519071929051;153.00450731114
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22312@eventor.orienteering.asn.au
 DTSTAMP:20250816T055249Z
 DTSTART:20250925T140000Z
@@ -189,7 +180,7 @@ GEO:-27.355313964547;152.54936627757
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22353@eventor.orienteering.asn.au
-DTSTAMP:20250917T004002Z
+DTSTAMP:20251003T042622Z
 DTSTART:20251004T040000Z
 DTEND:20251004T040000Z
 SUMMARY:6B Australian Relay Championships - Managers and results, Orienteering Queensland
@@ -1144,5 +1135,40 @@ DTEND:20251101T100000Z
 SUMMARY:NT: 2025 CDU/Dripstone, Top End Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/23059
 GEO:-12.367541183142;130.864911077265
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21913@eventor.orienteering.asn.au
+DTSTAMP:20250106T042732Z
+DTSTART:20251101T230000Z
+DTEND:20251102T030000Z
+SUMMARY:AWOC Club Championships & 50th Birthday Event, Albury-Wodonga Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21913
+GEO:-36.151951909626;146.609628379136
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22916@eventor.orienteering.asn.au
+DTSTAMP:20250923T074038Z
+DTSTART:20251102T013000Z
+DTEND:20251102T013000Z
+SUMMARY:2025 Metro League #6 - Mitchell Park Coaching Walkthrough, Bennelong Northside Orienteers / Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22916
+GEO:-33.5619221277695;150.922055108833
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22627@eventor.orienteering.asn.au
+DTSTAMP:20250625T001535Z
+DTSTART:20251102T050000Z
+DTEND:20251102T050000Z
+SUMMARY:RBOS Cancelled Event, Illawarra Kareelah Orienteers / Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22627
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23010@eventor.orienteering.asn.au
+DTSTAMP:20250918T092338Z
+DTSTART:20251102T060000Z
+DTEND:20251102T060000Z
+SUMMARY:MapRun Parks 2025 - Moore Park, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/23010
+GEO:-27.4998489887424;152.963790096847
 END:VEVENT
 END:VCALENDAR
