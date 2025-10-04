@@ -11,24 +11,6 @@ SUMMARY:Sydney MapRun Series 2025 #18 Sydney Botanic Gardens, Garingal Orienteer
 URL:https://eventor.orienteering.asn.au/Events/Show/22640
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22312@eventor.orienteering.asn.au
-DTSTAMP:20250816T055249Z
-DTSTART:20250925T140000Z
-DTEND:20250926T140000Z
-SUMMARY:Independent Athlete Development Camp Aus Champs 2025, Orienteering NSW / Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/22312
-GEO:-27.5217271530888;152.842912836718
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22349@eventor.orienteering.asn.au
-DTSTAMP:20250906T051712Z
-DTSTART:20250925T230000Z
-DTEND:20250925T230000Z
-SUMMARY:0 Australian Championships Services & Merchandise, Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/22349
-GEO:-27.4696526215605;153.01219409602
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22980@eventor.orienteering.asn.au
 DTSTAMP:20250927T084214Z
 DTSTART:20250926T140000Z
@@ -180,7 +162,7 @@ GEO:-27.355313964547;152.54936627757
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22353@eventor.orienteering.asn.au
-DTSTAMP:20251003T042622Z
+DTSTAMP:20251004T103936Z
 DTSTART:20251004T040000Z
 DTEND:20251004T040000Z
 SUMMARY:6B Australian Relay Championships - Managers and results, Orienteering Queensland
@@ -1170,5 +1152,21 @@ DTEND:20251102T060000Z
 SUMMARY:MapRun Parks 2025 - Moore Park, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/23010
 GEO:-27.4998489887424;152.963790096847
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23036@eventor.orienteering.asn.au
+DTSTAMP:20250922T011659Z
+DTSTART:20251103T060000Z
+DTEND:20251103T060000Z
+SUMMARY:ACT MapRun Street Series: Kingston, 30 Oct - 3 Nov, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/23036
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22824@eventor.orienteering.asn.au
+DTSTAMP:20250802T064254Z
+DTSTART:20251103T073000Z
+DTEND:20251103T073000Z
+SUMMARY:Melbourne Park Street Monday Summer Series - Wantirna South, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22824
 END:VEVENT
 END:VCALENDAR
