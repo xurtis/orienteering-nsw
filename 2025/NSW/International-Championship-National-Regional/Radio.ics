@@ -3,14 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_22492@eventor.orienteering.asn.au
-DTSTAMP:20250516T045857Z
-DTSTART:20250929T083000Z
-DTEND:20250929T101500Z
-SUMMARY:Melbourne Park Street Monday Night Series - Wheelers Hill, Orienteering Victoria
-URL:https://eventor.orienteering.asn.au/Events/Show/22492
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21061@eventor.orienteering.asn.au
 DTSTAMP:20250930T071822Z
 DTSTART:20250929T230000Z
@@ -39,7 +31,7 @@ GEO:-27.6247640546759;152.970737290679
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23004@eventor.orienteering.asn.au
-DTSTAMP:20250916T023125Z
+DTSTAMP:20251006T014605Z
 DTSTART:20250929T233000Z
 DTEND:20250929T233000Z
 SUMMARY:2025 RFS Cadets Championship, Illawarra Kareelah Orienteers / Orienteering NSW / Southern Highlands Orienteers
@@ -136,9 +128,9 @@ GEO:-27.6756096840377;152.850265346479
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23008@eventor.orienteering.asn.au
-DTSTAMP:20250918T092223Z
-DTSTART:20251005T060000Z
-DTEND:20251005T060000Z
+DTSTAMP:20251006T055222Z
+DTSTART:20251004T140000Z
+DTEND:20251005T140000Z
 SUMMARY:MapRun Parks 2025 - Robelle Domain, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/23008
 GEO:-27.6818868155694;152.903703933534
@@ -605,11 +597,12 @@ GEO:-37.3460603301754;144.106709329629
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21783@eventor.orienteering.asn.au
-DTSTAMP:20241217T040929Z
+DTSTAMP:20251006T120013Z
 DTSTART:20251018T233000Z
-DTEND:20251018T233000Z
-SUMMARY:SA MTBO Champs, Wallaringa Orienteering Club
+DTEND:20251019T023000Z
+SUMMARY:SA MTBO Champs - Belair National Park, Wallaringa Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/21783
+GEO:-35.0109190673486;138.636634935021
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22730@eventor.orienteering.asn.au
@@ -1049,7 +1042,7 @@ GEO:-37.7530982109472;144.800191060796
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22659@eventor.orienteering.asn.au
-DTSTAMP:20250726T093617Z
+DTSTAMP:20251006T040754Z
 DTSTART:20251101T053000Z
 DTEND:20251101T053000Z
 SUMMARY:Cyclones Sprint - Windaroo Valley SHS, Orienteering Queensland / QLD Cyclones
@@ -1208,5 +1201,38 @@ DTSTART:20251105T080000Z
 DTEND:20251105T080000Z
 SUMMARY:Night Nav Nth - EN - Brighton, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/22847
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22712@eventor.orienteering.asn.au
+DTSTAMP:20250707T015303Z
+DTSTART:20251105T204000Z
+DTEND:20251105T204000Z
+SUMMARY:SC-ORE #2: Turner Primary School, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/22712
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22835@eventor.orienteering.asn.au
+DTSTAMP:20250802T065719Z
+DTSTART:20251106T073000Z
+DTEND:20251106T073000Z
+SUMMARY:Melbourne Park Street Thursday Summer Series - St Helena, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22835
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23095@eventor.orienteering.asn.au
+DTSTAMP:20250929T004104Z
+DTSTART:20251106T080000Z
+DTEND:20251106T080000Z
+SUMMARY:ACT Controller Workshop 4, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/23095
+GEO:-35.2524762283913;149.069197114954
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22839@eventor.orienteering.asn.au
+DTSTAMP:20250802T070132Z
+DTSTART:20251106T080000Z
+DTEND:20251106T080000Z
+SUMMARY:Geelong Park Street Thursday Summer Series - Hamlyn Heights, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22839
 END:VEVENT
 END:VCALENDAR
