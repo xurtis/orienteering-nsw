@@ -3,33 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_22355@eventor.orienteering.asn.au
-DTSTAMP:20250917T011621Z
-DTSTART:20251004T040000Z
-DTEND:20251004T040000Z
-SUMMARY:6 Australian Relay Championships - Individual Entry, Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/22355
-GEO:-27.355313964547;152.54936627757
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22353@eventor.orienteering.asn.au
-DTSTAMP:20251005T080504Z
-DTSTART:20251004T040000Z
-DTEND:20251004T040000Z
-SUMMARY:6B Australian Relay Championships - results, Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/22353
-GEO:-27.3707401934493;152.563951085245
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22894@eventor.orienteering.asn.au
-DTSTAMP:20250807T212644Z
-DTSTART:20251004T080000Z
-DTEND:20251004T080000Z
-SUMMARY:6C Australian Relay - Dinner Orders, Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/22894
-GEO:-27.3548400863103;152.549187591274
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21065@eventor.orienteering.asn.au
 DTSTAMP:20251005T030312Z
 DTSTART:20251004T140000Z
@@ -144,7 +117,7 @@ GEO:-36.7032465027848;144.252786664204
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22029@eventor.orienteering.asn.au
-DTSTAMP:20250923T213202Z
+DTSTAMP:20251011T052400Z
 DTSTART:20251011T020000Z
 DTEND:20251011T020000Z
 SUMMARY:NSW MTBO Champs - Middle, Newcastle Orienteering Club
@@ -839,7 +812,7 @@ GEO:-34.9220299496583;138.663396264608
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22731@eventor.orienteering.asn.au
-DTSTAMP:20250711T060459Z
+DTSTAMP:20251011T035217Z
 DTSTART:20251026T000000Z
 DTEND:20251026T000000Z
 SUMMARY:Summer Shorts and Sprints - Tarralla Wetlands, Dandenong Ranges Orienteering Club
@@ -930,7 +903,7 @@ DTSTART:20251028T080000Z
 DTEND:20251028T080000Z
 SUMMARY:Night Nav - Woombye, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/23190
-GEO:-26.6642296909551;152.965526695147
+GEO:-26.6684209939785;152.967619655724
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23057@eventor.orienteering.asn.au
@@ -1008,6 +981,14 @@ SUMMARY:SC-ORE #1: Blue Gum School, Hackett, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/22711
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_23220@eventor.orienteering.asn.au
+DTSTAMP:20251011T070656Z
+DTSTART:20251030T003000Z
+DTEND:20251030T003000Z
+SUMMARY:Bardon Forest (and break-up), Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/23220
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_22816@eventor.orienteering.asn.au
 DTSTAMP:20250801T082052Z
 DTSTART:20251030T073000Z
@@ -1043,7 +1024,7 @@ GEO:-33.8242792355208;151.190082966297
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22732@eventor.orienteering.asn.au
-DTSTAMP:20250711T061104Z
+DTSTAMP:20251010T232132Z
 DTSTART:20251101T030000Z
 DTEND:20251101T030000Z
 SUMMARY:Summer Shorts and Sprints - Victoria University St Albans, Bayside Kangaroos Orienteers
@@ -1357,5 +1338,31 @@ DTSTART:20251110T073000Z
 DTEND:20251110T073000Z
 SUMMARY:Melbourne Park Street Monday Summer Series - McKinnon Meander, Victorian ARDF Group
 URL:https://eventor.orienteering.asn.au/Events/Show/22825
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22829@eventor.orienteering.asn.au
+DTSTAMP:20250802T064846Z
+DTSTART:20251111T073000Z
+DTEND:20251111T073000Z
+SUMMARY:Melbourne Park Street Tuesday Summer Series - Kingsville, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22829
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21069@eventor.orienteering.asn.au
+DTSTAMP:20250803T002727Z
+DTSTART:20251111T074500Z
+DTEND:20251111T074500Z
+SUMMARY:Night Nav - EN - Upper Kedron, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/21069
+GEO:-27.4187437589562;152.916932392037
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23192@eventor.orienteering.asn.au
+DTSTAMP:20251008T050234Z
+DTSTART:20251111T080000Z
+DTEND:20251111T080000Z
+SUMMARY:Night Nav - Moffat Beach, Sunshine Orienteers Club
+URL:https://eventor.orienteering.asn.au/Events/Show/23192
+GEO:-26.7892472151689;153.140592643358
 END:VEVENT
 END:VCALENDAR
