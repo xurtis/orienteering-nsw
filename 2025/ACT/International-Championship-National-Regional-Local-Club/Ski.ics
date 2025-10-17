@@ -868,7 +868,7 @@ GEO:-42.9110736630324;147.355299856116
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22777@eventor.orienteering.asn.au
-DTSTAMP:20250731T065539Z
+DTSTAMP:20251017T101525Z
 DTSTART:20251029T053000Z
 DTEND:20251029T053000Z
 SUMMARY:2025/26 Sydney Summer Series #4 – Killara, Garingal Orienteers
@@ -1108,7 +1108,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22621
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22299@eventor.orienteering.asn.au
-DTSTAMP:20250922T013304Z
+DTSTAMP:20251017T051830Z
 DTSTART:20251105T060000Z
 DTEND:20251105T060000Z
 SUMMARY:ACT Runners Shop Twilight Series #3: Mt Mugga Mugga, Abominable O-Men
@@ -1563,5 +1563,29 @@ DTEND:20251116T060000Z
 SUMMARY:MapRun Parks 2025 - Sherwood Arboretum, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/23012
 GEO:-27.5320313511934;152.973449100332
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23120@eventor.orienteering.asn.au
+DTSTAMP:20251003T041311Z
+DTSTART:20251116T203000Z
+DTEND:20251116T203000Z
+SUMMARY:OA Workshop #1 - Great Events, Orienteering Australia
+URL:https://eventor.orienteering.asn.au/Events/Show/23120
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23038@eventor.orienteering.asn.au
+DTSTAMP:20250922T031722Z
+DTSTART:20251117T060000Z
+DTEND:20251117T060000Z
+SUMMARY:ACT MapRun Street Series: Crace, 13-17 Nov, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/23038
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22823@eventor.orienteering.asn.au
+DTSTAMP:20250802T064150Z
+DTSTART:20251117T073000Z
+DTEND:20251117T073000Z
+SUMMARY:Melbourne Park Street Monday Summer Series - Rowville Lakes, Dandenong Ranges Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22823
 END:VEVENT
 END:VCALENDAR
