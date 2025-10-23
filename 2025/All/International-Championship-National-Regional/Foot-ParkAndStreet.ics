@@ -3,49 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_23212@eventor.orienteering.asn.au
-DTSTAMP:20251016T104637Z
-DTSTART:20251016T003000Z
-DTEND:20251016T003000Z
-SUMMARY:Gold Mine Picnic Area Mt Coot-tha, Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/23212
-GEO:-27.4748024436579;152.945679551763
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23221@eventor.orienteering.asn.au
-DTSTAMP:20251012T013639Z
-DTSTART:20251016T070000Z
-DTEND:20251016T070000Z
-SUMMARY:Victoria O Training 2 - Carlton, Melbourne Forest Racers
-URL:https://eventor.orienteering.asn.au/Events/Show/23221
-GEO:-37.8010747828915;144.972310396773
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22817@eventor.orienteering.asn.au
-DTSTAMP:20250801T082139Z
-DTSTART:20251016T073000Z
-DTEND:20251016T073000Z
-SUMMARY:Melbourne Park Street Thursday Summer Series - Reservoir, Yarra Valley Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22817
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23092@eventor.orienteering.asn.au
-DTSTAMP:20250929T004107Z
-DTSTART:20251016T080000Z
-DTEND:20251016T080000Z
-SUMMARY:ACT Controller Workshop 1, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/23092
-GEO:-35.2524762283913;149.069197114954
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22818@eventor.orienteering.asn.au
-DTSTAMP:20250801T082439Z
-DTSTART:20251016T080000Z
-DTEND:20251016T080000Z
-SUMMARY:Geelong Park Street Thursday Summer Series - Gaol Break, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22818
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_23087@eventor.orienteering.asn.au
 DTSTAMP:20251001T022442Z
 DTSTART:20251017T073000Z
@@ -337,15 +294,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22296
 GEO:-35.2347169433244;149.073985934741
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22935@eventor.orienteering.asn.au
-DTSTAMP:20251022T030123Z
-DTSTART:20251022T060000Z
-DTEND:20251022T060000Z
-SUMMARY:Newcastle Summer Street Series #2 - Wallsend, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22935
-GEO:-32.8962838719824;151.670166724707
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22812@eventor.orienteering.asn.au
 DTSTAMP:20250801T081442Z
 DTSTART:20251022T073000Z
@@ -391,12 +339,21 @@ GEO:-27.604769448893;153.092507025043
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22776@eventor.orienteering.asn.au
-DTSTAMP:20251022T105300Z
+DTSTAMP:20251023T102028Z
 DTSTART:20251023T053000Z
 DTEND:20251023T053000Z
 SUMMARY:2025/26 Sydney Summer Series #3 – Lane Cove, Bennelong Northside Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22776
 GEO:-33.8424974075113;151.186219413228
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22935@eventor.orienteering.asn.au
+DTSTAMP:20251023T012841Z
+DTSTART:20251023T060000Z
+DTEND:20251023T060000Z
+SUMMARY:Newcastle Summer Street Series #2 - Wallsend, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22935
+GEO:-32.8962838719824;151.670166724707
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23235@eventor.orienteering.asn.au
@@ -513,7 +470,7 @@ GEO:-34.6717952036891;150.860378211732
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23031@eventor.orienteering.asn.au
-DTSTAMP:20251020T174217Z
+DTSTAMP:20251023T022612Z
 DTSTART:20251025T233000Z
 DTEND:20251026T013000Z
 SUMMARY:Learn to Orienteer for Families, Orienteering SA
@@ -1327,7 +1284,7 @@ GEO:-31.8388413347602;115.807540874104
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22954@eventor.orienteering.asn.au
-DTSTAMP:20250902T061801Z
+DTSTAMP:20251023T031632Z
 DTSTART:20251115T130000Z
 DTEND:20251116T130000Z
 SUMMARY:Vic MTBO Series #5 - Buxton, Bayside Kangaroos Orienteers / Central Highlands Orienteering Club
@@ -1614,5 +1571,65 @@ DTEND:20251122T090000Z
 SUMMARY:MetrO 3 Heirisson Island, Orienteering WA / WA Nomads
 URL:https://eventor.orienteering.asn.au/Events/Show/23171
 GEO:-31.9705698806813;115.88437207241
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21977@eventor.orienteering.asn.au
+DTSTAMP:20250307T022836Z
+DTSTART:20251122T130000Z
+DTEND:20251123T130000Z
+SUMMARY:Newcastle Minor (TBC), Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/21977
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22645@eventor.orienteering.asn.au
+DTSTAMP:20250619T023346Z
+DTSTART:20251122T220000Z
+DTEND:20251122T220000Z
+SUMMARY:ACT Sprint Series #1, TBA, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/22645
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22690@eventor.orienteering.asn.au
+DTSTAMP:20251005T054801Z
+DTSTART:20251122T220000Z
+DTEND:20251122T233000Z
+SUMMARY:Central Coast Summer Series 2 - Bateau Bay, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22690
+GEO:-33.3827046937655;151.481564799967
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22735@eventor.orienteering.asn.au
+DTSTAMP:20251008T030149Z
+DTSTART:20251123T000000Z
+DTEND:20251123T000000Z
+SUMMARY:Melbourne City Race 6 - Williamstown Seaport, Dandenong Ranges Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/22735
+GEO:-37.8574580495909;144.902543446192
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23226@eventor.orienteering.asn.au
+DTSTAMP:20251022T001554Z
+DTSTART:20251123T050000Z
+DTEND:20251123T050000Z
+SUMMARY:Peacehaven Park Sprint & Breakup, Highfields, Range Runners Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/23226
+GEO:-27.4641782161796;151.936858262816
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22630@eventor.orienteering.asn.au
+DTSTAMP:20250911T025816Z
+DTSTART:20251123T050000Z
+DTEND:20251123T050000Z
+SUMMARY:River and Bay Orienteering Series #5 Queens Park (new map), Illawarra Kareelah Orienteers / Uringa Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22630
+GEO:-33.9029987154521;151.247024111125
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21421@eventor.orienteering.asn.au
+DTSTAMP:20250402T083929Z
+DTSTART:20251123T060000Z
+DTEND:20251123T070000Z
+SUMMARY:BCC Sponsored Event MapRun Parks - Newfarm Park, Ugly Gully Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/21421
 END:VEVENT
 END:VCALENDAR
