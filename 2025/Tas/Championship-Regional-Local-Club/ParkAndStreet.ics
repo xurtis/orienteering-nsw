@@ -3,15 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_23087@eventor.orienteering.asn.au
-DTSTAMP:20251001T022442Z
-DTSTART:20251017T073000Z
-DTEND:20251017T073000Z
-SUMMARY:Learn to Orienteer for Lovers of Trails and the Great Outdoors, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/23087
-GEO:-34.9220005668137;138.663371803426
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21529@eventor.orienteering.asn.au
 DTSTAMP:20251021T003733Z
 DTSTART:20251017T220000Z
@@ -303,21 +294,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22812
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22844@eventor.orienteering.asn.au
-DTSTAMP:20250803T021027Z
+DTSTAMP:20251024T000544Z
 DTSTART:20251022T080000Z
 DTEND:20251022T080000Z
 SUMMARY:Night Nav Nth - EN - Woody Point, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/22844
 GEO:-27.2513100200322;153.108810151045
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23030@eventor.orienteering.asn.au
-DTSTAMP:20250919T231429Z
-DTSTART:20251022T125900Z
-DTEND:20251022T125900Z
-SUMMARY:Enter All Northern Spring Twilights at Discounted Rate, Esk Valley Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/23030
-GEO:-41.4321875810465;147.13019346245
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23086@eventor.orienteering.asn.au
@@ -348,7 +330,7 @@ GEO:-33.8424974075113;151.186219413228
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22935@eventor.orienteering.asn.au
-DTSTAMP:20251023T012841Z
+DTSTAMP:20251023T224616Z
 DTSTART:20251023T060000Z
 DTEND:20251023T060000Z
 SUMMARY:Newcastle Summer Street Series #2 - Wallsend, Newcastle Orienteering Club
@@ -449,6 +431,7 @@ DTSTART:20251025T220000Z
 DTEND:20251025T220000Z
 SUMMARY:Stephensdale - Learn to Orienteer Week 3 (North), Esk Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22961
+GEO:-41.4414707918953;147.08287070946
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22933@eventor.orienteering.asn.au
@@ -506,7 +489,7 @@ GEO:-27.5624699585819;151.935907132138
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22626@eventor.orienteering.asn.au
-DTSTAMP:20251019T215240Z
+DTSTAMP:20251023T200002Z
 DTSTART:20251026T050000Z
 DTEND:20251026T050000Z
 SUMMARY:River and Bay Orienteering Series #2, Uringa Orienteers
@@ -593,6 +576,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23190
 GEO:-26.6684209939785;152.967619655724
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_23030@eventor.orienteering.asn.au
+DTSTAMP:20251023T233921Z
+DTSTART:20251028T125900Z
+DTEND:20251028T125900Z
+SUMMARY:Enter All Northern Spring Twilights at Discounted Rate, Esk Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/23030
+GEO:-41.4321875810465;147.13019346245
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_23057@eventor.orienteering.asn.au
 DTSTAMP:20251013T053413Z
 DTSTART:20251028T130000Z
@@ -646,7 +638,7 @@ GEO:-35.3347760171229;149.071529233622
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22936@eventor.orienteering.asn.au
-DTSTAMP:20251014T224424Z
+DTSTAMP:20251023T222017Z
 DTSTART:20251029T060000Z
 DTEND:20251029T060000Z
 SUMMARY:Newcastle Summer Street Series #3 - Charlestown, Newcastle Orienteering Club
@@ -884,6 +876,7 @@ DTSTART:20251105T060000Z
 DTEND:20251105T060000Z
 SUMMARY:Newcastle Summer Street Series #4 - West Wallsend, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22937
+GEO:-32.9053989542866;151.583852267567
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22972@eventor.orienteering.asn.au
@@ -953,10 +946,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23186
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23007@eventor.orienteering.asn.au
-DTSTAMP:20251020T102603Z
+DTSTAMP:20251024T052201Z
 DTSTART:20251108T090000Z
 DTEND:20251108T090000Z
-SUMMARY:MetrO 1 BULL CREEK, Orienteering WA / WA Nomads
+SUMMARY:MetrO 1 Bull Creek, Orienteering WA / WA Nomads
 URL:https://eventor.orienteering.asn.au/Events/Show/23007
 GEO:-32.0593899491597;115.868168566239
 END:VEVENT
@@ -1221,10 +1214,10 @@ GEO:-34.9363462795606;138.592226825072
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23187@eventor.orienteering.asn.au
-DTSTAMP:20251012T230312Z
+DTSTAMP:20251024T003739Z
 DTSTART:20251114T223000Z
 DTEND:20251115T010000Z
-SUMMARY:SOS - Pymble Ladies' College, Bold Horizons Event Organiser
+SUMMARY:SOS - Pymble Ladies' College (Bold Horizons Sprint Champs), Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/23187
 GEO:-33.7464780073721;151.136403257246
 END:VEVENT
@@ -1556,10 +1549,10 @@ GEO:-35.0170421439591;137.614251803075
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23188@eventor.orienteering.asn.au
-DTSTAMP:20251012T231012Z
+DTSTAMP:20251024T004130Z
 DTSTART:20251121T223000Z
 DTEND:20251122T010000Z
-SUMMARY:SOS - Northern Beaches Christian School, Bold Horizons Event Organiser
+SUMMARY:SOS - Northern Beaches Christian School (Bold Horizons Relay Champs), Bold Horizons Event Organiser
 URL:https://eventor.orienteering.asn.au/Events/Show/23188
 GEO:-33.6736752288309;151.201499904259
 END:VEVENT
@@ -1631,5 +1624,37 @@ DTSTART:20251123T060000Z
 DTEND:20251123T070000Z
 SUMMARY:BCC Sponsored Event MapRun Parks - Newfarm Park, Ugly Gully Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/21421
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23121@eventor.orienteering.asn.au
+DTSTAMP:20251003T041215Z
+DTSTART:20251123T203000Z
+DTEND:20251123T203000Z
+SUMMARY:OA Workshop #2 - Great Organisation (governance and finance), Orienteering Australia
+URL:https://eventor.orienteering.asn.au/Events/Show/23121
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23039@eventor.orienteering.asn.au
+DTSTAMP:20250922T031724Z
+DTSTART:20251124T060000Z
+DTEND:20251124T060000Z
+SUMMARY:ACT MapRun Street Series: Reid, 20-24 Nov, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/23039
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22826@eventor.orienteering.asn.au
+DTSTAMP:20250802T064514Z
+DTSTART:20251124T073000Z
+DTEND:20251124T073000Z
+SUMMARY:Melbourne Park Street Monday Summer Series - Clarinda, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22826
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22470@eventor.orienteering.asn.au
+DTSTAMP:20250508T005019Z
+DTSTART:20251124T083000Z
+DTEND:20251124T103000Z
+SUMMARY:Orienteering ACT November Board Meeting, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/22470
 END:VEVENT
 END:VCALENDAR
