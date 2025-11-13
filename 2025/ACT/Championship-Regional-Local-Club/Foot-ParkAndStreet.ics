@@ -3,57 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_22712@eventor.orienteering.asn.au
-DTSTAMP:20251106T024253Z
-DTSTART:20251105T204000Z
-DTEND:20251105T204000Z
-SUMMARY:SC-ORE #2: Turner Primary School, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/22712
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23270@eventor.orienteering.asn.au
-DTSTAMP:20251104T211151Z
-DTSTART:20251106T060000Z
-DTEND:20251106T060000Z
-SUMMARY:NTOC Summer series #1, Northern Tablelands Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/23270
-GEO:-30.5061856312124;151.683782809097
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23285@eventor.orienteering.asn.au
-DTSTAMP:20251104T015600Z
-DTSTART:20251106T070000Z
-DTEND:20251106T070000Z
-SUMMARY:Victoria O Training 5 - Northcote High School, Melbourne Forest Racers
-URL:https://eventor.orienteering.asn.au/Events/Show/23285
-GEO:-37.7743427221829;144.988027063606
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22835@eventor.orienteering.asn.au
-DTSTAMP:20250802T065719Z
-DTSTART:20251106T073000Z
-DTEND:20251106T073000Z
-SUMMARY:Melbourne Park Street Thursday Summer Series - St Helena, Yarra Valley Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22835
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23095@eventor.orienteering.asn.au
-DTSTAMP:20251106T112423Z
-DTSTART:20251106T080000Z
-DTEND:20251106T080000Z
-SUMMARY:ACT Controller Workshop 4, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/23095
-GEO:-35.2524762283913;149.069197114954
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22839@eventor.orienteering.asn.au
-DTSTAMP:20250802T070132Z
-DTSTART:20251106T080000Z
-DTEND:20251106T080000Z
-SUMMARY:Geelong Park Street Thursday Summer Series - Hamlyn Heights, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22839
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_23278@eventor.orienteering.asn.au
 DTSTAMP:20251107T121422Z
 DTSTART:20251106T130000Z
@@ -215,7 +164,7 @@ GEO:-37.5772484377729;143.850789775256
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21831@eventor.orienteering.asn.au
-DTSTAMP:20251110T080514Z
+DTSTAMP:20251112T214123Z
 DTSTART:20251112T040000Z
 DTEND:20251112T040000Z
 SUMMARY:Queechy High School - Launceston Spring Twilight #4, Esk Valley Orienteering Club
@@ -286,7 +235,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22832
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22713@eventor.orienteering.asn.au
-DTSTAMP:20250707T015333Z
+DTSTAMP:20251113T052335Z
 DTSTART:20251112T204000Z
 DTEND:20251112T204000Z
 SUMMARY:SC-ORE #3: North Ainslie Primary School, Orienteering ACT
@@ -329,7 +278,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22836
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23020@eventor.orienteering.asn.au
-DTSTAMP:20250919T062241Z
+DTSTAMP:20251113T095328Z
 DTSTART:20251113T073000Z
 DTEND:20251113T073000Z
 SUMMARY:Night Nav - Southside - Holland Park, Toohey Forest Orienteers
@@ -1369,6 +1318,15 @@ SUMMARY:Melbourne Park Street Monday Summer Series - Coomoora, Dandenong Ranges 
 URL:https://eventor.orienteering.asn.au/Events/Show/23070
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_23300@eventor.orienteering.asn.au
+DTSTAMP:20251113T023623Z
+DTSTART:20251209T065000Z
+DTEND:20251209T065000Z
+SUMMARY:Newcastle Club's 50 Year and Christmas Social, Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/23300
+GEO:-32.9418137790618;151.657468127886
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_23075@eventor.orienteering.asn.au
 DTSTAMP:20250927T025627Z
 DTSTART:20251209T073000Z
@@ -1486,5 +1444,14 @@ DTSTART:20251212T073000Z
 DTEND:20251212T073000Z
 SUMMARY:Twilight Series Event #5 - Oaklands Park, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/22990
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23291@eventor.orienteering.asn.au
+DTSTAMP:20251109T085046Z
+DTSTART:20251213T090000Z
+DTEND:20251213T090000Z
+SUMMARY:Sprint 1 St Marks, Orienteering WA / WA Nomads
+URL:https://eventor.orienteering.asn.au/Events/Show/23291
+GEO:-31.7998156822537;115.744349868088
 END:VEVENT
 END:VCALENDAR
