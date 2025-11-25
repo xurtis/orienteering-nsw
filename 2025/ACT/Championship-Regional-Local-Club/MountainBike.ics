@@ -3,40 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_23301@eventor.orienteering.asn.au
-DTSTAMP:20251115T020145Z
-DTSTART:20251117T210000Z
-DTEND:20251117T210000Z
-SUMMARY:Prize Draw - Orienteering Research Survey , Orienteering Australia
-URL:https://eventor.orienteering.asn.au/Events/Show/23301
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21070@eventor.orienteering.asn.au
-DTSTAMP:20251118T113911Z
-DTSTART:20251118T071500Z
-DTEND:20251118T071500Z
-SUMMARY:Night Nav - EN - Wavell Heights, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/21070
-GEO:-27.3856492184452;153.055903752956
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22830@eventor.orienteering.asn.au
-DTSTAMP:20250802T064955Z
-DTSTART:20251118T073000Z
-DTEND:20251118T073000Z
-SUMMARY:Melbourne Park Street Tuesday Summer Series - Oak Park, Tuckonie Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22830
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23193@eventor.orienteering.asn.au
-DTSTAMP:20251118T234619Z
-DTSTART:20251118T080000Z
-DTEND:20251118T080000Z
-SUMMARY:Night Nav - Point Cartwright, Sunshine Orienteers Club
-URL:https://eventor.orienteering.asn.au/Events/Show/23193
-GEO:-26.6893230161195;153.13611666239
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_21620@eventor.orienteering.asn.au
 DTSTAMP:20251109T071606Z
 DTSTART:20251119T000000Z
@@ -249,7 +215,7 @@ GEO:-35.3159449147137;149.135882454462
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22690@eventor.orienteering.asn.au
-DTSTAMP:20251124T001721Z
+DTSTAMP:20251125T013348Z
 DTSTART:20251122T220000Z
 DTEND:20251123T000000Z
 SUMMARY:Central Coast Summer Series 2 - Bateau Bay, Central Coast Orienteers
@@ -302,7 +268,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23121
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23039@eventor.orienteering.asn.au
-DTSTAMP:20250922T031724Z
+DTSTAMP:20251125T104822Z
 DTSTART:20251124T060000Z
 DTEND:20251124T060000Z
 SUMMARY:ACT MapRun Street Series: Reid, 20-24 Nov, Orienteering ACT
@@ -344,7 +310,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22828
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21071@eventor.orienteering.asn.au
-DTSTAMP:20250803T003635Z
+DTSTAMP:20251125T114948Z
 DTSTART:20251125T074500Z
 DTEND:20251125T074500Z
 SUMMARY:Night Nav - EN - Clayfield, Enoggeroos
@@ -388,15 +354,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21838
 GEO:-42.8882613386156;147.301851368656
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22786@eventor.orienteering.asn.au
-DTSTAMP:20251119T043428Z
-DTSTART:20251126T053000Z
-DTEND:20251126T053000Z
-SUMMARY:2025/26 Sydney Summer Series #8 - Gordon, Bennelong Northside Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22786
-GEO:-33.7600715638567;151.146039140245
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22624@eventor.orienteering.asn.au
 DTSTAMP:20251029T235729Z
 DTSTART:20251126T053000Z
@@ -430,6 +387,15 @@ DTSTART:20251126T073000Z
 DTEND:20251126T073000Z
 SUMMARY:Melbourne Park Street Wednesday Summer Series - Way Up Upwey Way, Victorian ARDF Group
 URL:https://eventor.orienteering.asn.au/Events/Show/22834
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22786@eventor.orienteering.asn.au
+DTSTAMP:20251125T113619Z
+DTSTART:20251127T053000Z
+DTEND:20251127T053000Z
+SUMMARY:2025/26 Sydney Summer Series #8 - Gordon, Bennelong Northside Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22786
+GEO:-33.7600715638567;151.146039140245
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23273@eventor.orienteering.asn.au
@@ -653,7 +619,7 @@ GEO:-37.4167059991034;144.571145248054
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21839@eventor.orienteering.asn.au
-DTSTAMP:20251116T231758Z
+DTSTAMP:20251125T070758Z
 DTSTART:20251203T043000Z
 DTEND:20251203T043000Z
 SUMMARY:Botanical Gardens - Southern Spring Twilight Series #6, Australopers Orienteering Club
@@ -793,7 +759,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21841
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23203@eventor.orienteering.asn.au
-DTSTAMP:20251012T015604Z
+DTSTAMP:20251124T214912Z
 DTSTART:20251207T043000Z
 DTEND:20251207T043000Z
 SUMMARY:OWA Annual Celebration, Orienteering WA
@@ -1221,7 +1187,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23072
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22788@eventor.orienteering.asn.au
-DTSTAMP:20251121T064042Z
+DTSTAMP:20251125T113832Z
 DTSTART:20251223T053000Z
 DTEND:20251223T053000Z
 SUMMARY:2025/26 Sydney Summer Series #12 - Mosman, Bennelong Northside Orienteers
@@ -1244,5 +1210,14 @@ DTSTART:20251224T073000Z
 DTEND:20251224T073000Z
 SUMMARY:Melbourne Park Street Wednesday Summer Series - Blackburn Creeklands, Yarra Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/23081
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_20967@eventor.orienteering.asn.au
+DTSTAMP:20241223T123226Z
+DTSTART:20251224T130000Z
+DTEND:20251225T130000Z
+SUMMARY:ONSW Steigen Socks brought to you by ONSW Juniors, Newcastle Orienteering Club / Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/20967
+GEO:-33.8453972935629;151.074959155938
 END:VEVENT
 END:VCALENDAR
