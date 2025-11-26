@@ -3,95 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_21620@eventor.orienteering.asn.au
-DTSTAMP:20251109T071606Z
-DTSTART:20251119T000000Z
-DTEND:20251119T000000Z
-SUMMARY:Midweek Training at Tonsley, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/21620
-GEO:-35.0043073842181;138.568974487968
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21832@eventor.orienteering.asn.au
-DTSTAMP:20251119T231345Z
-DTSTART:20251119T040000Z
-DTEND:20251119T040000Z
-SUMMARY:St Patricks College - Launceston Spring Twilight #5, Esk Valley Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21832
-GEO:-41.4733357133979;147.126112366349
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21837@eventor.orienteering.asn.au
-DTSTAMP:20251119T102405Z
-DTSTART:20251119T043000Z
-DTEND:20251119T043000Z
-SUMMARY:Gordons Hill - Southern Spring Twilight Series #4, Australopers Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21837
-GEO:-42.8608307755129;147.359343621499
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22783@eventor.orienteering.asn.au
-DTSTAMP:20251119T085121Z
-DTSTART:20251119T053000Z
-DTEND:20251119T053000Z
-SUMMARY:2025/26 Sydney Summer Series #7 - Denistone, Western and Hills Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22783
-GEO:-33.8003555425683;151.083417600882
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22623@eventor.orienteering.asn.au
-DTSTAMP:20251029T235452Z
-DTSTART:20251119T053000Z
-DTEND:20251119T063000Z
-SUMMARY:ACT Learn to Orienteer, Week 6, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/22623
-GEO:-35.3496587140263;149.023887034211
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22939@eventor.orienteering.asn.au
-DTSTAMP:20251119T102134Z
-DTSTART:20251119T060000Z
-DTEND:20251119T060000Z
-SUMMARY:Newcastle Summer Street Series #6 - Chisholm, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22939
-GEO:-32.7528245532466;151.628659561101
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22301@eventor.orienteering.asn.au
-DTSTAMP:20251119T082937Z
-DTSTART:20251119T060000Z
-DTEND:20251119T080000Z
-SUMMARY:ACT Runners Shop Twilight Series #5: Cooleman Ridge, Parawanga Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22301
-GEO:-35.349632391558;149.023948584216
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22974@eventor.orienteering.asn.au
-DTSTAMP:20251119T092254Z
-DTSTART:20251119T070000Z
-DTEND:20251119T090000Z
-SUMMARY:#2 Twilight Gisborne, Central Highlands Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22974
-GEO:-37.4835825901833;144.589676599157
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22833@eventor.orienteering.asn.au
-DTSTAMP:20250802T065415Z
-DTSTART:20251119T073000Z
-DTEND:20251119T073000Z
-SUMMARY:Melbourne Park Street Wednesday Summer Series - Belmore Parklands, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22833
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22848@eventor.orienteering.asn.au
-DTSTAMP:20251120T102827Z
-DTSTART:20251119T080000Z
-DTEND:20251119T080000Z
-SUMMARY:Night Nav Nth - EN - Rothwell, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/22848
-GEO:-27.2120338821077;153.052902449368
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22714@eventor.orienteering.asn.au
 DTSTAMP:20251120T110726Z
 DTSTART:20251119T204000Z
@@ -319,7 +230,7 @@ GEO:-27.4289861315242;153.057749982111
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23194@eventor.orienteering.asn.au
-DTSTAMP:20251008T052729Z
+DTSTAMP:20251125T232055Z
 DTSTART:20251125T080000Z
 DTEND:20251125T080000Z
 SUMMARY:Night Nav - Noosa Waters, Sunshine Orienteers Club
@@ -346,7 +257,7 @@ GEO:-41.4023828622863;147.09212241438
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21838@eventor.orienteering.asn.au
-DTSTAMP:20251121T114402Z
+DTSTAMP:20251126T102742Z
 DTSTART:20251126T043000Z
 DTEND:20251126T043000Z
 SUMMARY:Knocklofty - Southern Spring Twilight Series #5, Australopers Orienteering Club
@@ -373,7 +284,7 @@ GEO:-32.7638019923473;151.751362001973
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22302@eventor.orienteering.asn.au
-DTSTAMP:20251029T235759Z
+DTSTAMP:20251126T081340Z
 DTSTART:20251126T060000Z
 DTEND:20251126T080000Z
 SUMMARY:ACT Runners Shop Twilight Series #6: Campbell Park, Bushflyers
@@ -390,7 +301,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22834
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22786@eventor.orienteering.asn.au
-DTSTAMP:20251125T113619Z
+DTSTAMP:20251126T084047Z
 DTSTART:20251127T053000Z
 DTEND:20251127T053000Z
 SUMMARY:2025/26 Sydney Summer Series #8 - Gordon, Bennelong Northside Orienteers
@@ -487,7 +398,7 @@ GEO:-35.0704729696087;147.351324377704
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23222@eventor.orienteering.asn.au
-DTSTAMP:20251124T030632Z
+DTSTAMP:20251126T075045Z
 DTSTART:20251129T220000Z
 DTEND:20251129T220000Z
 SUMMARY:2025 Big Foot Sprints, Big Foot Orienteers
@@ -646,7 +557,7 @@ GEO:-35.3765351808134;149.113909712833
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22941@eventor.orienteering.asn.au
-DTSTAMP:20251119T035209Z
+DTSTAMP:20251126T085225Z
 DTSTART:20251203T060000Z
 DTEND:20251203T060000Z
 SUMMARY:Newcastle Summer Street Series #8 - Shortland, Newcastle Orienteering Club
@@ -827,7 +738,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23070
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23300@eventor.orienteering.asn.au
-DTSTAMP:20251113T023623Z
+DTSTAMP:20251126T110140Z
 DTSTART:20251209T065000Z
 DTEND:20251209T065000Z
 SUMMARY:Newcastle Club's 50 Year and Christmas Social, Newcastle Orienteering Club
@@ -902,6 +813,7 @@ DTSTART:20251210T060000Z
 DTEND:20251210T060000Z
 SUMMARY:Newcastle Summer Street Series #9 - Maryland, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22942
+GEO:-32.8827428195163;151.659965073417
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22295@eventor.orienteering.asn.au
@@ -1219,5 +1131,14 @@ DTEND:20251225T130000Z
 SUMMARY:ONSW Steigen Socks brought to you by ONSW Juniors, Newcastle Orienteering Club / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/20967
 GEO:-33.8453972935629;151.074959155938
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23304@eventor.orienteering.asn.au
+DTSTAMP:20251118T003003Z
+DTSTART:20251225T140000Z
+DTEND:20251226T140000Z
+SUMMARY:Santa 6 Days 2025 - Event 1 - City Botanic Gardens (Gardens Point), Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/23304
+GEO:-27.47389988133;153.028946019327
 END:VEVENT
 END:VCALENDAR
