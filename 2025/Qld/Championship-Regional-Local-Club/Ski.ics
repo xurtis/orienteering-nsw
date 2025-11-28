@@ -3,33 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_23003@eventor.orienteering.asn.au
-DTSTAMP:20251121T020643Z
-DTSTART:20251120T233000Z
-DTEND:20251120T233000Z
-SUMMARY:Victorian Primary Schools Orienteering Championships East 2025, Bendigo Orienteers / Orienteering Victoria
-URL:https://eventor.orienteering.asn.au/Events/Show/23003
-GEO:-37.9705689717737;145.393327749401
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23165@eventor.orienteering.asn.au
-DTSTAMP:20251121T102327Z
-DTSTART:20251120T233000Z
-DTEND:20251121T023000Z
-SUMMARY:Yorke Peninsula  Zone Schools Orienteering Championships , Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/23165
-GEO:-35.016889509066;137.614105817173
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22987@eventor.orienteering.asn.au
-DTSTAMP:20251121T215540Z
-DTSTART:20251121T073000Z
-DTEND:20251121T073000Z
-SUMMARY:Twilight Series Event #2 - Athelstone Linear Park, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/22987
-GEO:-34.8696031677893;138.692967112323
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_23166@eventor.orienteering.asn.au
 DTSTAMP:20251109T051733Z
 DTSTART:20251121T153000Z
@@ -206,7 +179,7 @@ GEO:-37.3543730289544;144.531139069856
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21833@eventor.orienteering.asn.au
-DTSTAMP:20251112T085853Z
+DTSTAMP:20251127T225505Z
 DTSTART:20251126T040000Z
 DTEND:20251126T040000Z
 SUMMARY:Windsor Precinct - Launceston Spring Twilight #6, Esk Valley Orienteering Club
@@ -320,7 +293,7 @@ GEO:-34.9752619457124;138.513806936827
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22789@eventor.orienteering.asn.au
-DTSTAMP:20251014T004715Z
+DTSTAMP:20251128T095000Z
 DTSTART:20251128T233000Z
 DTEND:20251128T233000Z
 SUMMARY:Cyclones Sprint - KO - Mt Gravatt SHS (AM) & Yeronga SHS (PM), Orienteering Queensland / QLD Cyclones
@@ -506,7 +479,7 @@ GEO:-42.8658249794923;147.330430460978
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22780@eventor.orienteering.asn.au
-DTSTAMP:20251127T064751Z
+DTSTAMP:20251127T215217Z
 DTSTART:20251203T053000Z
 DTEND:20251203T053000Z
 SUMMARY:2025/26 Sydney Summer Series #9 – North Ryde, Garingal Orienteers
@@ -705,7 +678,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23070
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23300@eventor.orienteering.asn.au
-DTSTAMP:20251126T110140Z
+DTSTAMP:20251127T234920Z
 DTSTART:20251209T065000Z
 DTEND:20251209T065000Z
 SUMMARY:Newcastle Club's 50 Year and Christmas Social, Newcastle Orienteering Club
@@ -1134,5 +1107,14 @@ DTEND:20251227T140000Z
 SUMMARY:Santa 6 Days 2025 – Event 2: Anzac Park, Toowong, Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/23305
 GEO:-27.481501230646;152.975246888012
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23306@eventor.orienteering.asn.au
+DTSTAMP:20251118T004355Z
+DTSTART:20251227T140000Z
+DTEND:20251228T140000Z
+SUMMARY:Santa 6 Days 2025 – Event 3: Meadowlands (Minnippi Parklands), Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/23306
+GEO:-27.4879788248634;153.115346131663
 END:VEVENT
 END:VCALENDAR
