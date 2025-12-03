@@ -3,103 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_23310@eventor.orienteering.asn.au
-DTSTAMP:20251201T045330Z
-DTSTART:20251125T064500Z
-DTEND:20251125T064500Z
-SUMMARY:Ballarat SOS & Learn Orienteering Evenings #1 - Canadian Lakes, Eureka Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/23310
-GEO:-37.5881348097546;143.86765182494
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22828@eventor.orienteering.asn.au
-DTSTAMP:20250802T064746Z
-DTSTART:20251125T073000Z
-DTEND:20251125T073000Z
-SUMMARY:Melbourne Park Street Tuesday Summer Series - Paisley Park, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22828
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21071@eventor.orienteering.asn.au
-DTSTAMP:20251125T114948Z
-DTSTART:20251125T074500Z
-DTEND:20251125T074500Z
-SUMMARY:Night Nav - EN - Clayfield, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/21071
-GEO:-27.4289861315242;153.057749982111
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23194@eventor.orienteering.asn.au
-DTSTAMP:20251125T232055Z
-DTSTART:20251125T080000Z
-DTEND:20251125T080000Z
-SUMMARY:Night Nav - Noosa Waters, Sunshine Orienteers Club
-URL:https://eventor.orienteering.asn.au/Events/Show/23194
-GEO:-26.4091912823974;153.060000183496
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22975@eventor.orienteering.asn.au
-DTSTAMP:20251127T015243Z
-DTSTART:20251125T130000Z
-DTEND:20251126T130000Z
-SUMMARY:#3 Twilight Woodend, Central Highlands Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22975
-GEO:-37.3543730289544;144.531139069856
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21833@eventor.orienteering.asn.au
-DTSTAMP:20251127T225505Z
-DTSTART:20251126T040000Z
-DTEND:20251126T040000Z
-SUMMARY:Windsor Precinct - Launceston Spring Twilight #6, Esk Valley Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21833
-GEO:-41.4023828622863;147.09212241438
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21838@eventor.orienteering.asn.au
-DTSTAMP:20251126T102742Z
-DTSTART:20251126T043000Z
-DTEND:20251126T043000Z
-SUMMARY:Knocklofty - Southern Spring Twilight Series #5, Australopers Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/21838
-GEO:-42.8882613386156;147.301851368656
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22624@eventor.orienteering.asn.au
-DTSTAMP:20251029T235729Z
-DTSTART:20251126T053000Z
-DTEND:20251126T063000Z
-SUMMARY:ACT Learn to Orienteer, Week 7, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/22624
-GEO:-35.280866496857;149.17458371971
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22940@eventor.orienteering.asn.au
-DTSTAMP:20251201T104106Z
-DTSTART:20251126T060000Z
-DTEND:20251126T060000Z
-SUMMARY:Newcastle Summer Street Series #7 - Raymond Terrace, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22940
-GEO:-32.7638019923473;151.751362001973
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22302@eventor.orienteering.asn.au
-DTSTAMP:20251126T081340Z
-DTSTART:20251126T060000Z
-DTEND:20251126T080000Z
-SUMMARY:ACT Runners Shop Twilight Series #6: Campbell Park, Bushflyers
-URL:https://eventor.orienteering.asn.au/Events/Show/22302
-GEO:-35.2807068456241;149.174160074905
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22834@eventor.orienteering.asn.au
-DTSTAMP:20250802T065525Z
-DTSTART:20251126T073000Z
-DTEND:20251126T073000Z
-SUMMARY:Melbourne Park Street Wednesday Summer Series - Way Up Upwey Way, Victorian ARDF Group
-URL:https://eventor.orienteering.asn.au/Events/Show/22834
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22786@eventor.orienteering.asn.au
 DTSTAMP:20251127T103421Z
 DTSTART:20251127T053000Z
@@ -304,12 +207,21 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23069
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23320@eventor.orienteering.asn.au
-DTSTAMP:20251127T072950Z
+DTSTAMP:20251203T051444Z
 DTSTART:20251202T061500Z
 DTEND:20251202T091500Z
 SUMMARY:Ballarat SOS & Learn Orienteering Evenings #2 - Ballarat East, Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/23320
 GEO:-37.5649939155747;143.886130323844
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_21072@eventor.orienteering.asn.au
+DTSTAMP:20251203T023832Z
+DTSTART:20251202T071500Z
+DTEND:20251202T071500Z
+SUMMARY:Night Nav - EN - Arana Hills, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/21072
+GEO:-27.3885262780368;152.947015869966
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23074@eventor.orienteering.asn.au
@@ -320,17 +232,8 @@ SUMMARY:Melbourne Park Street Tuesday Summer Series - Edgewater, Tuckonie Orient
 URL:https://eventor.orienteering.asn.au/Events/Show/23074
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_21072@eventor.orienteering.asn.au
-DTSTAMP:20250803T003935Z
-DTSTART:20251202T074500Z
-DTEND:20251202T074500Z
-SUMMARY:Night Nav - EN - Arana Hills, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/21072
-GEO:-27.3885262780368;152.947015869966
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_23195@eventor.orienteering.asn.au
-DTSTAMP:20251008T053835Z
+DTSTAMP:20251202T231837Z
 DTSTART:20251202T080000Z
 DTEND:20251202T080000Z
 SUMMARY:Night Nav - Little Mountain, Sunshine Orienteers Club
@@ -348,7 +251,7 @@ GEO:-37.4167059991034;144.571145248054
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21839@eventor.orienteering.asn.au
-DTSTAMP:20251125T070758Z
+DTSTAMP:20251203T100259Z
 DTSTART:20251203T043000Z
 DTEND:20251203T043000Z
 SUMMARY:Botanical Gardens - Southern Spring Twilight Series #6, Australopers Orienteering Club
@@ -357,7 +260,7 @@ GEO:-42.8658249794923;147.330430460978
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22780@eventor.orienteering.asn.au
-DTSTAMP:20251130T074438Z
+DTSTAMP:20251203T111225Z
 DTSTART:20251203T053000Z
 DTEND:20251203T053000Z
 SUMMARY:2025/26 Sydney Summer Series #9 – North Ryde, Garingal Orienteers
@@ -366,7 +269,7 @@ GEO:-33.8126666488444;151.123489623222
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22941@eventor.orienteering.asn.au
-DTSTAMP:20251126T085225Z
+DTSTAMP:20251203T102512Z
 DTSTART:20251203T060000Z
 DTEND:20251203T060000Z
 SUMMARY:Newcastle Summer Street Series #8 - Shortland, Newcastle Orienteering Club
@@ -375,7 +278,7 @@ GEO:-32.8779472006628;151.692702714722
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22303@eventor.orienteering.asn.au
-DTSTAMP:20251201T020010Z
+DTSTAMP:20251203T082949Z
 DTSTART:20251203T060000Z
 DTEND:20251203T080000Z
 SUMMARY:ACT Runners Shop Twilight Series #7: Isaacs Ridge, Bushflyers
@@ -401,7 +304,7 @@ GEO:-27.3258704359355;153.080829966089
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23325@eventor.orienteering.asn.au
-DTSTAMP:20251201T081941Z
+DTSTAMP:20251202T120841Z
 DTSTART:20251204T070000Z
 DTEND:20251204T070000Z
 SUMMARY:Melbourne O Training 7 - New Alphington, Melbourne Forest Racers
@@ -432,7 +335,7 @@ DTSTART:20251205T073000Z
 DTEND:20251205T073000Z
 SUMMARY:Twilight Series Event #4 - River Torrens, Adelaide Oval Precinct to North Adelaide, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/22989
-GEO:-34.9169296085196;138.601335015657
+GEO:-34.9167836542325;138.601232334922
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23173@eventor.orienteering.asn.au
@@ -558,12 +461,11 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23070
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23300@eventor.orienteering.asn.au
-DTSTAMP:20251127T234920Z
+DTSTAMP:20251202T041015Z
 DTSTART:20251209T065000Z
 DTEND:20251209T065000Z
 SUMMARY:Newcastle Club's 50 Year and Christmas Social, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/23300
-GEO:-32.9418137790618;151.657468127886
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23075@eventor.orienteering.asn.au
@@ -584,12 +486,12 @@ GEO:-27.4196949846819;153.032064394682
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23196@eventor.orienteering.asn.au
-DTSTAMP:20251008T054457Z
+DTSTAMP:20251201T234502Z
 DTSTART:20251209T080000Z
 DTEND:20251209T080000Z
 SUMMARY:Night Nav - Palmwoods, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/23196
-GEO:-26.6854056495253;152.960008146869
+GEO:-26.6955463055463;152.958330884955
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22919@eventor.orienteering.asn.au
@@ -610,7 +512,7 @@ GEO:-34.8756513532116;138.649828578016
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22793@eventor.orienteering.asn.au
-DTSTAMP:20251117T040355Z
+DTSTAMP:20251201T223045Z
 DTSTART:20251210T053000Z
 DTEND:20251210T053000Z
 SUMMARY:2025/26 Sydney Summer Series #10 - Cheltenham, Big Foot Orienteers
@@ -619,7 +521,7 @@ GEO:-33.7602186068651;151.069145504369
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22942@eventor.orienteering.asn.au
-DTSTAMP:20251014T225143Z
+DTSTAMP:20251203T105100Z
 DTSTART:20251210T060000Z
 DTEND:20251210T060000Z
 SUMMARY:Newcastle Summer Street Series #9 - Maryland, Newcastle Orienteering Club
@@ -732,11 +634,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22648
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22693@eventor.orienteering.asn.au
-DTSTAMP:20251005T225831Z
+DTSTAMP:20251203T034131Z
 DTSTART:20251213T220000Z
-DTEND:20251213T233000Z
+DTEND:20251213T220000Z
 SUMMARY:Central Coast Summer Series 5 - Narara, Central Coast Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22693
+GEO:-33.4088911886518;151.34476398241
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22644@eventor.orienteering.asn.au
@@ -757,7 +660,7 @@ GEO:-37.7445810595056;145.135563272594
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23201@eventor.orienteering.asn.au
-DTSTAMP:20251009T072356Z
+DTSTAMP:20251202T095003Z
 DTSTART:20251214T000000Z
 DTEND:20251214T020000Z
 SUMMARY:Wayne Richards Park Orienteering, Hastings Orienteering Group
@@ -955,12 +858,11 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23081
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_20967@eventor.orienteering.asn.au
-DTSTAMP:20241223T123226Z
+DTSTAMP:20251202T041324Z
 DTSTART:20251224T130000Z
 DTEND:20251225T130000Z
 SUMMARY:ONSW Steigen Socks brought to you by ONSW Juniors, Newcastle Orienteering Club / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/20967
-GEO:-33.8453972935629;151.074959155938
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23304@eventor.orienteering.asn.au
@@ -973,7 +875,7 @@ GEO:-27.47389988133;153.028946019327
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23318@eventor.orienteering.asn.au
-DTSTAMP:20251126T004737Z
+DTSTAMP:20251202T035756Z
 DTSTART:20251226T130000Z
 DTEND:20251227T130000Z
 SUMMARY:Xmas 5 Days - CAMPING, Newcastle Orienteering Club
@@ -982,7 +884,7 @@ GEO:-33.0460278147939;151.406556826448
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22567@eventor.orienteering.asn.au
-DTSTAMP:20251022T032913Z
+DTSTAMP:20251202T040323Z
 DTSTART:20251226T130000Z
 DTEND:20251231T130000Z
 SUMMARY:2025 XMAS 5 DAYS, Newcastle Orienteering Club
@@ -1102,12 +1004,11 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20388
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22039@eventor.orienteering.asn.au
-DTSTAMP:20251020T075949Z
+DTSTAMP:20251202T035248Z
 DTSTART:20251231T130000Z
 DTEND:20260101T130000Z
 SUMMARY:Newcastle Communication, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22039
-GEO:-32.9276009804916;151.783471361712
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23107@eventor.orienteering.asn.au
@@ -1116,5 +1017,22 @@ DTSTART:20260101T073000Z
 DTEND:20260101T073000Z
 SUMMARY:Melbourne Park Street Thursday Summer Series - Kalparrin, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/23107
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23116@eventor.orienteering.asn.au
+DTSTAMP:20250929T045219Z
+DTSTART:20260103T043000Z
+DTEND:20260103T043000Z
+SUMMARY:Surfside Park Street Summer Series - St Leonards, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/23116
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23292@eventor.orienteering.asn.au
+DTSTAMP:20251127T130400Z
+DTSTART:20260103T090000Z
+DTEND:20260103T090000Z
+SUMMARY:Sprint 2 ECU Joondalup, Orienteering WA / WA Nomads
+URL:https://eventor.orienteering.asn.au/Events/Show/23292
+GEO:-31.7535907751694;115.773983975822
 END:VEVENT
 END:VCALENDAR
