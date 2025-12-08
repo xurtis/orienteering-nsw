@@ -3,31 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_23122@eventor.orienteering.asn.au
-DTSTAMP:20251003T040734Z
-DTSTART:20251130T203000Z
-DTEND:20251130T203000Z
-SUMMARY:OA Workshop #3 - Great Performance, Orienteering Australia
-URL:https://eventor.orienteering.asn.au/Events/Show/23122
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23040@eventor.orienteering.asn.au
-DTSTAMP:20251206T114918Z
-DTSTART:20251201T060000Z
-DTEND:20251201T060000Z
-SUMMARY:ACT MapRun Street Series: Red Hill, 27 Nov - 1 Dec, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/23040
-GEO:-35.340926374763;149.131535311482
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23069@eventor.orienteering.asn.au
-DTSTAMP:20250927T024540Z
-DTSTART:20251201T073000Z
-DTEND:20251201T073000Z
-SUMMARY:Melbourne Park Street Monday Summer Series - Carrum Downs, Nillumbik Emus Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/23069
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_23320@eventor.orienteering.asn.au
 DTSTAMP:20251203T051444Z
 DTSTART:20251202T061500Z
@@ -179,9 +154,9 @@ GEO:-35.3098205175689;149.14244418761
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22691@eventor.orienteering.asn.au
-DTSTAMP:20251207T033452Z
+DTSTAMP:20251208T070933Z
 DTSTART:20251206T220000Z
-DTEND:20251207T003000Z
+DTEND:20251207T020000Z
 SUMMARY:Central Coast Summer Series 4 - Mount Penang, Central Coast Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22691
 GEO:-33.4272335125885;151.297196695515
@@ -258,7 +233,7 @@ GEO:-12.4358784104348;130.836989040522
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23123@eventor.orienteering.asn.au
-DTSTAMP:20251003T040909Z
+DTSTAMP:20251208T001936Z
 DTSTART:20251207T203000Z
 DTEND:20251207T203000Z
 SUMMARY:OA Workshop #4 - Great Relationships and Opportunities, Orienteering Australia
@@ -357,7 +332,7 @@ DTSTART:20251210T060000Z
 DTEND:20251210T080000Z
 SUMMARY:ACT Runners Shop Twilight Series #8: North Lyneham Ridge, Red Roos
 URL:https://eventor.orienteering.asn.au/Events/Show/22304
-GEO:-35.2407889221932;149.12400764354
+GEO:-35.2408088655638;149.119150841021
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22295@eventor.orienteering.asn.au
@@ -716,7 +691,7 @@ GEO:-33.0460278147939;151.406556826448
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22567@eventor.orienteering.asn.au
-DTSTAMP:20251202T040323Z
+DTSTAMP:20251208T105854Z
 DTSTART:20251226T130000Z
 DTEND:20251231T130000Z
 SUMMARY:2025 XMAS 5 DAYS, Newcastle Orienteering Club
@@ -915,5 +890,22 @@ DTSTART:20260107T073000Z
 DTEND:20260107T073000Z
 SUMMARY:Melbourne Park Street Wednesday Summer Series - Hawthorn East, Nillumbik Emus Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/23103
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23108@eventor.orienteering.asn.au
+DTSTAMP:20250929T044051Z
+DTSTART:20260108T073000Z
+DTEND:20260108T073000Z
+SUMMARY:Melbourne Park Street Thursday Summer Series - Mill Park Lakes, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/23108
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23026@eventor.orienteering.asn.au
+DTSTAMP:20251111T081208Z
+DTSTART:20260108T073000Z
+DTEND:20260108T073000Z
+SUMMARY:NightNav - Southside - Runcorn Heights, Toohey Forest Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/23026
+GEO:-27.60621633068;153.071735065407
 END:VEVENT
 END:VCALENDAR
