@@ -3,31 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_23123@eventor.orienteering.asn.au
-DTSTAMP:20251208T001936Z
-DTSTART:20251207T203000Z
-DTEND:20251207T203000Z
-SUMMARY:OA Workshop #4 - Great Relationships and Opportunities, Orienteering Australia
-URL:https://eventor.orienteering.asn.au/Events/Show/23123
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23041@eventor.orienteering.asn.au
-DTSTAMP:20251209T063728Z
-DTSTART:20251208T060000Z
-DTEND:20251208T060000Z
-SUMMARY:ACT MapRun Street Series: National Museum, Acton, 4-8 Dec, Orienteering ACT
-URL:https://eventor.orienteering.asn.au/Events/Show/23041
-GEO:-35.2866324436483;149.120209572066
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23070@eventor.orienteering.asn.au
-DTSTAMP:20250927T024712Z
-DTSTART:20251208T073000Z
-DTEND:20251208T073000Z
-SUMMARY:Melbourne Park Street Monday Summer Series - Coomoora, Dandenong Ranges Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/23070
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_23300@eventor.orienteering.asn.au
 DTSTAMP:20251202T041015Z
 DTSTART:20251209T065000Z
@@ -403,12 +378,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23072
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22788@eventor.orienteering.asn.au
-DTSTAMP:20251125T113832Z
+DTSTAMP:20251214T224207Z
 DTSTART:20251223T053000Z
 DTEND:20251223T053000Z
 SUMMARY:2025/26 Sydney Summer Series #12 - Mosman, Bennelong Northside Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22788
-GEO:-33.807943528645;151.246089283096
+GEO:-33.8067428557015;151.246041358419
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21075@eventor.orienteering.asn.au
@@ -479,6 +454,15 @@ DTEND:20251228T140000Z
 SUMMARY:Santa 6 Days 2025 – Event 3: Meadowlands (Minnippi Parklands), Orienteering Queensland
 URL:https://eventor.orienteering.asn.au/Events/Show/23306
 GEO:-27.4879788248634;153.115346131663
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23372@eventor.orienteering.asn.au
+DTSTAMP:20251214T231947Z
+DTSTART:20251228T070000Z
+DTEND:20251228T070000Z
+SUMMARY:Xmas 5 Days - Speed Jigsaw Evening , Newcastle Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/23372
+GEO:-33.0113578802565;151.591649543503
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23307@eventor.orienteering.asn.au
@@ -727,10 +711,10 @@ GEO:-32.0279823811042;115.883171456415
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22457@eventor.orienteering.asn.au
-DTSTAMP:20250505T060052Z
+DTSTAMP:20251215T035959Z
 DTSTART:20260110T210000Z
 DTEND:20260111T000000Z
-SUMMARY:Newcastle BOSS 4 MTBO, Newcastle Orienteering Club
+SUMMARY:Newcastle BOSS 4 MTBO - Killingworth, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22457
 END:VEVENT
 BEGIN:VEVENT
@@ -766,6 +750,7 @@ DTSTART:20260112T060000Z
 DTEND:20260112T060000Z
 SUMMARY:ACT MapRun Street Series: Googong, 8-12 Jan, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/23044
+GEO:-35.4299268044207;149.229621366773
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23096@eventor.orienteering.asn.au
@@ -815,5 +800,22 @@ DTSTART:20260114T073000Z
 DTEND:20260114T073000Z
 SUMMARY:Melbourne Park Street Wednesday Summer Series - Croydon Hills, Dandenong Ranges Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/23104
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23109@eventor.orienteering.asn.au
+DTSTAMP:20250929T044148Z
+DTSTART:20260115T073000Z
+DTEND:20260115T073000Z
+SUMMARY:Melbourne Park Street Thursday Summer Series - Boulderdash, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/23109
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23027@eventor.orienteering.asn.au
+DTSTAMP:20250919T065610Z
+DTSTART:20260115T073000Z
+DTEND:20260115T073000Z
+SUMMARY:NightNav - Southside - Drewvale, Toohey Forest Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/23027
+GEO:-27.6531852863913;153.057191248262
 END:VEVENT
 END:VCALENDAR
