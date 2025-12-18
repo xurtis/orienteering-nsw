@@ -3,23 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_23084@eventor.orienteering.asn.au
-DTSTAMP:20250927T031054Z
-DTSTART:20251211T073000Z
-DTEND:20251211T073000Z
-SUMMARY:Melbourne Park Street Thursday Summer Series - Heidelberg Central, Nillumbik Emus Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/23084
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23024@eventor.orienteering.asn.au
-DTSTAMP:20251211T115225Z
-DTSTART:20251211T073000Z
-DTEND:20251211T073000Z
-SUMMARY:Night Nav - Southside - Kuraby, Toohey Forest Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/23024
-GEO:-27.6052757577107;153.0980923128
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_23342@eventor.orienteering.asn.au
 DTSTAMP:20251207T045347Z
 DTSTART:20251212T070000Z
@@ -257,7 +240,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23085
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23025@eventor.orienteering.asn.au
-DTSTAMP:20251111T081008Z
+DTSTAMP:20251218T100205Z
 DTSTART:20251218T073000Z
 DTEND:20251218T073000Z
 SUMMARY:Night Nav - Southside - Runcorn, Toohey Forest Orienteers
@@ -292,7 +275,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23072
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22788@eventor.orienteering.asn.au
-DTSTAMP:20251217T025602Z
+DTSTAMP:20251218T091230Z
 DTSTART:20251223T053000Z
 DTEND:20251223T053000Z
 SUMMARY:2025/26 Sydney Summer Series #12 - Mosman, Bennelong Northside Orienteers
@@ -758,5 +741,23 @@ DTEND:20260117T090000Z
 SUMMARY:MetrO 7 Mt Pleasant, Orienteering WA / WA Nomads
 URL:https://eventor.orienteering.asn.au/Events/Show/23175
 GEO:-32.0392977026005;115.844297440787
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22695@eventor.orienteering.asn.au
+DTSTAMP:20251122T090349Z
+DTSTART:20260117T220000Z
+DTEND:20260117T220000Z
+SUMMARY:Central Coast Summer Series 7 - Wamberal, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22695
+GEO:-33.4221203256846;151.442688058692
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22650@eventor.orienteering.asn.au
+DTSTAMP:20251104T021253Z
+DTSTART:20260117T220000Z
+DTEND:20260117T233000Z
+SUMMARY:ACT Sprint Series #6, Trinity Christian School, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/22650
+GEO:-35.4072968786866;149.088138342747
 END:VEVENT
 END:VCALENDAR
