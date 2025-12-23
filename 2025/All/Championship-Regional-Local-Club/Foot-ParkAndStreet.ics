@@ -3,32 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_23076@eventor.orienteering.asn.au
-DTSTAMP:20250927T025733Z
-DTSTART:20251216T073000Z
-DTEND:20251216T073000Z
-SUMMARY:Melbourne Park Street Tuesday Summer Series - Seaholme, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/23076
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21074@eventor.orienteering.asn.au
-DTSTAMP:20251216T111402Z
-DTSTART:20251216T074500Z
-DTEND:20251216T074500Z
-SUMMARY:Night Nav - EN - Oxford Park, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/21074
-GEO:-27.4046266120221;152.965298238653
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23197@eventor.orienteering.asn.au
-DTSTAMP:20251216T224414Z
-DTSTART:20251216T080000Z
-DTEND:20251216T080000Z
-SUMMARY:Night Nav - Peregian Springs, Sunshine Orienteers Club
-URL:https://eventor.orienteering.asn.au/Events/Show/23197
-GEO:-26.5023995594069;153.074263579726
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22378@eventor.orienteering.asn.au
 DTSTAMP:20251219T022519Z
 DTSTART:20251216T130000Z
@@ -143,7 +117,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23072
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22788@eventor.orienteering.asn.au
-DTSTAMP:20251221T232417Z
+DTSTAMP:20251223T094724Z
 DTSTART:20251223T053000Z
 DTEND:20251223T053000Z
 SUMMARY:2025/26 Sydney Summer Series #12 - Mosman, Bennelong Northside Orienteers
@@ -712,5 +686,14 @@ DTEND:20260122T073000Z
 SUMMARY:NightNav - Southside - Sunnybank Hills, Toohey Forest Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/23028
 GEO:-27.5873374944129;153.050799939881
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23327@eventor.orienteering.asn.au
+DTSTAMP:20251217T045620Z
+DTSTART:20260123T073000Z
+DTEND:20260123T093000Z
+SUMMARY:Twilight Series Event #8 - Marino - Kingston Park, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/23327
+GEO:-35.0398070130795;138.51466747395
 END:VEVENT
 END:VCALENDAR
