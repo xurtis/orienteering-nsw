@@ -12,23 +12,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23090
 GEO:-34.086789046952;151.003034587393
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_23085@eventor.orienteering.asn.au
-DTSTAMP:20250927T031214Z
-DTSTART:20251218T073000Z
-DTEND:20251218T073000Z
-SUMMARY:Melbourne Park Street Thursday Summer Series - Janefield, Nillumbik Emus Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/23085
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23025@eventor.orienteering.asn.au
-DTSTAMP:20251218T100205Z
-DTSTART:20251218T073000Z
-DTEND:20251218T073000Z
-SUMMARY:Night Nav - Southside - Runcorn, Toohey Forest Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/23025
-GEO:-27.5799019486929;153.077245604829
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_23299@eventor.orienteering.asn.au
 DTSTAMP:20251220T025254Z
 DTSTART:20251220T010000Z
@@ -686,5 +669,23 @@ DTSTART:20260124T060000Z
 DTEND:20260124T060000Z
 SUMMARY:2026  Oceania Knock Out Sprint Championship- Finals, Central Coast Orienteers / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/23169
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22721@eventor.orienteering.asn.au
+DTSTAMP:20251214T095414Z
+DTSTART:20260124T210000Z
+DTEND:20260124T210000Z
+SUMMARY:Central Coast Summer Series 8 - Terrigal, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/22721
+GEO:-33.4485411493456;151.450714948853
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22130@eventor.orienteering.asn.au
+DTSTAMP:20250927T081725Z
+DTSTART:20260125T023000Z
+DTEND:20260125T023000Z
+SUMMARY:2026 Oceania Individual Sprint Championships, Central Coast Orienteers / Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/22130
+GEO:-33.4251725449112;151.396695972713
 END:VEVENT
 END:VCALENDAR
