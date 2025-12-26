@@ -73,7 +73,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/20967
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23304@eventor.orienteering.asn.au
-DTSTAMP:20251118T003003Z
+DTSTAMP:20251226T091319Z
 DTSTART:20251225T140000Z
 DTEND:20251226T140000Z
 SUMMARY:Santa 6 Days 2025 - Event 1 - City Botanic Gardens (Gardens Point), Orienteering Queensland
@@ -677,7 +677,7 @@ DTSTART:20260124T210000Z
 DTEND:20260124T210000Z
 SUMMARY:Central Coast Summer Series 8 - Terrigal, Central Coast Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22721
-GEO:-33.4485411493456;151.450714948853
+GEO:-33.4498763433256;151.450076068458
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22130@eventor.orienteering.asn.au
@@ -687,5 +687,29 @@ DTEND:20260125T023000Z
 SUMMARY:2026 Oceania Individual Sprint Championships, Central Coast Orienteers / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/22130
 GEO:-33.4251725449112;151.396695972713
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22688@eventor.orienteering.asn.au
+DTSTAMP:20251105T043352Z
+DTSTART:20260125T130000Z
+DTEND:20260126T130000Z
+SUMMARY:2026 Oceania Sprint Relay:  National / State Team Entry, Central Coast Orienteers / Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/22688
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22687@eventor.orienteering.asn.au
+DTSTAMP:20250908T071204Z
+DTSTART:20260125T223000Z
+DTEND:20260125T223000Z
+SUMMARY:2026 Oceania Sprint Relay Championships- Individual Entry, Central Coast Orienteers / Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/22687
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23098@eventor.orienteering.asn.au
+DTSTAMP:20250929T042517Z
+DTSTART:20260126T073000Z
+DTEND:20260126T073000Z
+SUMMARY:Melbourne Park Street Monday Summer Series - Tirhatuan Park, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/23098
 END:VEVENT
 END:VCALENDAR
