@@ -3,14 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_23072@eventor.orienteering.asn.au
-DTSTAMP:20250927T025051Z
-DTSTART:20251222T073000Z
-DTEND:20251222T073000Z
-SUMMARY:Melbourne Park Street Monday Summer Series - Waverley Parklands, Nillumbik Emus Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/23072
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22788@eventor.orienteering.asn.au
 DTSTAMP:20251223T094724Z
 DTSTART:20251223T053000Z
@@ -100,7 +92,7 @@ GEO:-33.0113578802565;151.591649543503
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23307@eventor.orienteering.asn.au
-DTSTAMP:20251118T004720Z
+DTSTAMP:20251229T092445Z
 DTSTART:20251228T140000Z
 DTEND:20251229T140000Z
 SUMMARY:Santa 6 Days 2025 – Event 4: Cliveden Park, Fig Tree Pocket, Orienteering Queensland
@@ -296,7 +288,7 @@ GEO:-32.0160615712467;115.793151947446
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23331@eventor.orienteering.asn.au
-DTSTAMP:20251221T233335Z
+DTSTAMP:20251229T034847Z
 DTSTART:20260109T220000Z
 DTEND:20260110T003000Z
 SUMMARY:Summer Saturdays #1, Southern Highlands Orienteers
@@ -501,6 +493,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22650
 GEO:-35.4072968786866;149.088138342747
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_23395@eventor.orienteering.asn.au
+DTSTAMP:20251229T051303Z
+DTSTART:20260118T000000Z
+DTEND:20260118T020000Z
+SUMMARY:Old Bar Orienteering - NEW MAP!!, Hastings Orienteering Group
+URL:https://eventor.orienteering.asn.au/Events/Show/23395
+GEO:-31.9689605338025;152.588507610984
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_23045@eventor.orienteering.asn.au
 DTSTAMP:20250922T031728Z
 DTSTART:20260119T060000Z
@@ -535,7 +536,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/21456
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22799@eventor.orienteering.asn.au
-DTSTAMP:20250801T054352Z
+DTSTAMP:20251229T083546Z
 DTSTART:20260121T053000Z
 DTEND:20260121T053000Z
 SUMMARY:2025/26 Sydney Summer Series #16 - Kings Cross, Illawarra Kareelah Orienteers
@@ -734,5 +735,30 @@ DTSTART:20260128T080000Z
 DTEND:20260128T080000Z
 SUMMARY:Night Nav Nth - EN - Sandgate, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/22852
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23111@eventor.orienteering.asn.au
+DTSTAMP:20250929T044348Z
+DTSTART:20260129T073000Z
+DTEND:20260129T073000Z
+SUMMARY:Melbourne Park Street Thursday Summer Series - Donvale Pines, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/23111
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23029@eventor.orienteering.asn.au
+DTSTAMP:20251111T081423Z
+DTSTART:20260129T073000Z
+DTEND:20260129T073000Z
+SUMMARY:NightNav - Southside - Acacia Ridge, Toohey Forest Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/23029
+GEO:-27.586475016389;153.024589464894
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23157@eventor.orienteering.asn.au
+DTSTAMP:20251003T075711Z
+DTSTART:20260129T080000Z
+DTEND:20260129T080000Z
+SUMMARY:Geelong Park Street Thursday Summer Series - Montpelier, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/23157
 END:VEVENT
 END:VCALENDAR
