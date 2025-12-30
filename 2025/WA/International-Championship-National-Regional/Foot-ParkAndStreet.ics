@@ -3,24 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_22788@eventor.orienteering.asn.au
-DTSTAMP:20251223T094724Z
-DTSTART:20251223T053000Z
-DTEND:20251223T053000Z
-SUMMARY:2025/26 Sydney Summer Series #12 - Mosman, Bennelong Northside Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22788
-GEO:-33.8067428557015;151.246041358419
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21075@eventor.orienteering.asn.au
-DTSTAMP:20251223T231407Z
-DTSTART:20251223T074500Z
-DTEND:20251223T074500Z
-SUMMARY:Night Nav - EN - Ferny Grove, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/21075
-GEO:-27.3988154672439;152.9280270723
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_23081@eventor.orienteering.asn.au
 DTSTAMP:20250927T030528Z
 DTSTART:20251224T073000Z
@@ -109,7 +91,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23073
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23308@eventor.orienteering.asn.au
-DTSTAMP:20251118T004947Z
+DTSTAMP:20251230T090230Z
 DTSTART:20251229T140000Z
 DTEND:20251230T140000Z
 SUMMARY:Santa 6 Days 2025 – Event 5: Norman Creek, Coorparoo, Orienteering Queensland
@@ -118,7 +100,7 @@ GEO:-27.4884919841761;153.063449944235
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22782@eventor.orienteering.asn.au
-DTSTAMP:20251228T033338Z
+DTSTAMP:20251230T084717Z
 DTSTART:20251230T053000Z
 DTEND:20251230T053000Z
 SUMMARY:2025/26 Sydney Summer Series #13 - Cammeray, Garingal Orienteers
@@ -149,6 +131,14 @@ DTSTART:20251230T130000Z
 DTEND:20251231T130000Z
 SUMMARY:OV Street Series Class Template, Orienteering Victoria
 URL:https://eventor.orienteering.asn.au/Events/Show/20953
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23400@eventor.orienteering.asn.au
+DTSTAMP:20251230T103744Z
+DTSTART:20251230T130000Z
+DTEND:20260201T125900Z
+SUMMARY:2025/26 SSS13 MapRun - Cammeray, Garingal Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/23400
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23309@eventor.orienteering.asn.au
