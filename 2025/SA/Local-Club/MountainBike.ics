@@ -3,14 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_23081@eventor.orienteering.asn.au
-DTSTAMP:20250927T030528Z
-DTSTART:20251224T073000Z
-DTEND:20251224T073000Z
-SUMMARY:Melbourne Park Street Wednesday Summer Series - Blackburn Creeklands, Yarra Valley Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/23081
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20967@eventor.orienteering.asn.au
 DTSTAMP:20251223T203413Z
 DTSTART:20251224T130000Z
@@ -142,7 +134,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23400
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23309@eventor.orienteering.asn.au
-DTSTAMP:20251118T005344Z
+DTSTAMP:20251231T083233Z
 DTSTART:20251230T140000Z
 DTEND:20251231T140000Z
 SUMMARY:Santa 6 Days 2025 – Event 6: Sherwood Arboretum, Orienteering Queensland
@@ -304,11 +296,12 @@ GEO:-32.0279823811042;115.883171456415
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22457@eventor.orienteering.asn.au
-DTSTAMP:20251224T014034Z
+DTSTAMP:20251231T045151Z
 DTSTART:20260110T210000Z
 DTEND:20260111T000000Z
 SUMMARY:Newcastle BOSS 4 MTBO - Killingworth, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22457
+GEO:-32.9293979072602;151.5577110865
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22694@eventor.orienteering.asn.au
@@ -446,6 +439,15 @@ DTSTART:20260116T220000Z
 DTEND:20260117T003000Z
 SUMMARY:SummerSaturdays #2, Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/23333
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23401@eventor.orienteering.asn.au
+DTSTAMP:20251230T214511Z
+DTSTART:20260116T230000Z
+DTEND:20260118T040000Z
+SUMMARY:Pre-Oceania Sprint Training, Melbourne Forest Racers
+URL:https://eventor.orienteering.asn.au/Events/Show/23401
+GEO:-37.9127738824713;144.921681459382
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23118@eventor.orienteering.asn.au
@@ -750,5 +752,23 @@ DTSTART:20260129T080000Z
 DTEND:20260129T080000Z
 SUMMARY:Geelong Park Street Thursday Summer Series - Montpelier, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/23157
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22881@eventor.orienteering.asn.au
+DTSTAMP:20251214T103822Z
+DTSTART:20260131T053000Z
+DTEND:20260131T053000Z
+SUMMARY:EN Learn to Orienteer Nh Series - Peace Park, Sandgate, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/22881
+GEO:-27.3100195609128;153.055767333778
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23176@eventor.orienteering.asn.au
+DTSTAMP:20251127T130541Z
+DTSTART:20260131T090000Z
+DTEND:20260131T090000Z
+SUMMARY:MetrO 8 Piney Lakes, Orienteering WA / WA Nomads
+URL:https://eventor.orienteering.asn.au/Events/Show/23176
+GEO:-32.0534917002791;115.841406703932
 END:VEVENT
 END:VCALENDAR
