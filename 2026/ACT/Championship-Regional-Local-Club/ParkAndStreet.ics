@@ -3,15 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_23304@eventor.orienteering.asn.au
-DTSTAMP:20251226T091319Z
-DTSTART:20251225T140000Z
-DTEND:20251226T140000Z
-SUMMARY:Santa 6 Days 2025 - Event 1 - City Botanic Gardens (Gardens Point), Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/23304
-GEO:-27.47389988133;153.028946019327
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_23318@eventor.orienteering.asn.au
 DTSTAMP:20251202T035756Z
 DTSTART:20251226T130000Z
@@ -189,6 +180,7 @@ DTSTART:20260106T074500Z
 DTEND:20260106T074500Z
 SUMMARY:Night Nav - EN  - Bracken Ridge, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/21454
+GEO:-27.3197410391397;153.031770263975
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22800@eventor.orienteering.asn.au
@@ -788,5 +780,29 @@ DTSTART:20260131T230000Z
 DTEND:20260131T230000Z
 SUMMARY:Illawarra Summer Sprint Series #1 - Kiama, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/23295
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23046@eventor.orienteering.asn.au
+DTSTAMP:20250922T031730Z
+DTSTART:20260202T060000Z
+DTEND:20260202T060000Z
+SUMMARY:ACT MapRun Street Series: Ainslie, 29 Jan - 2 Feb, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/23046
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23124@eventor.orienteering.asn.au
+DTSTAMP:20251003T065759Z
+DTSTART:20260202T073000Z
+DTEND:20260202T073000Z
+SUMMARY:Melbourne Park Street Monday Summer Series - Karkarook Park, Victorian ARDF Group
+URL:https://eventor.orienteering.asn.au/Events/Show/23124
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22472@eventor.orienteering.asn.au
+DTSTAMP:20250508T005022Z
+DTSTART:20260202T083000Z
+DTEND:20260202T103000Z
+SUMMARY:Orienteering ACT February Board Meeting, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/22472
 END:VEVENT
 END:VCALENDAR
