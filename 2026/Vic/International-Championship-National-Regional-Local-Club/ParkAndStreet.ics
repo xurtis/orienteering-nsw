@@ -3,15 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_23318@eventor.orienteering.asn.au
-DTSTAMP:20251202T035756Z
-DTSTART:20251226T130000Z
-DTEND:20251227T130000Z
-SUMMARY:Xmas 5 Days - CAMPING, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/23318
-GEO:-33.0460278147939;151.406556826448
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22567@eventor.orienteering.asn.au
 DTSTAMP:20251227T100339Z
 DTSTART:20251226T130000Z
@@ -19,15 +10,6 @@ DTEND:20251231T130000Z
 SUMMARY:2025 XMAS 5 DAYS, Newcastle Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/22567
 GEO:-32.9961743164889;151.536115925507
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23305@eventor.orienteering.asn.au
-DTSTAMP:20251227T094230Z
-DTSTART:20251226T140000Z
-DTEND:20251227T140000Z
-SUMMARY:Santa 6 Days 2025 – Event 2: Anzac Park, Toowong, Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/23305
-GEO:-27.481501230646;152.975246888012
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23306@eventor.orienteering.asn.au
@@ -150,7 +132,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23116
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23292@eventor.orienteering.asn.au
-DTSTAMP:20251214T005326Z
+DTSTAMP:20260103T101212Z
 DTSTART:20260103T090000Z
 DTEND:20260103T090000Z
 SUMMARY:Sprint 2 ECU Joondalup, Orienteering WA / WA Nomads
@@ -193,7 +175,7 @@ GEO:-33.977453032814;151.229214560154
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22944@eventor.orienteering.asn.au
-DTSTAMP:20251224T033954Z
+DTSTAMP:20260103T101539Z
 DTSTART:20260107T060000Z
 DTEND:20260107T060000Z
 SUMMARY:Newcastle Summer Street Series #11 - Speers Point, Newcastle Orienteering Club
@@ -227,7 +209,7 @@ GEO:-27.60621633068;153.071735065407
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23343@eventor.orienteering.asn.au
-DTSTAMP:20251209T084727Z
+DTSTAMP:20260103T095159Z
 DTSTART:20260108T130000Z
 DTEND:20260111T130000Z
 SUMMARY:Tasmanian Junior Orienteering Training Camp - St Helens, Orienteering Tasmania
@@ -254,10 +236,10 @@ GEO:-32.0160615712467;115.793151947446
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23331@eventor.orienteering.asn.au
-DTSTAMP:20251229T034847Z
+DTSTAMP:20260103T041557Z
 DTSTART:20260109T220000Z
 DTEND:20260110T003000Z
-SUMMARY:Summer Saturdays #1, Southern Highlands Orienteers
+SUMMARY:Summer Saturdays #1 - Harrington Park, Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/23331
 GEO:-34.0312800749899;150.729783062982
 END:VEVENT
@@ -271,7 +253,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23117
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23174@eventor.orienteering.asn.au
-DTSTAMP:20251127T130432Z
+DTSTAMP:20260103T030229Z
 DTSTART:20260110T090000Z
 DTEND:20260110T090000Z
 SUMMARY:MetrO 6 Shelley, Orienteering WA / WA Nomads
@@ -409,10 +391,10 @@ GEO:-35.017391016174;138.62317870986
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23392@eventor.orienteering.asn.au
-DTSTAMP:20251221T235645Z
+DTSTAMP:20260103T042723Z
 DTSTART:20260116T220000Z
 DTEND:20260117T003000Z
-SUMMARY:Summer Saturdays #2, Southern Highlands Orienteers
+SUMMARY:Summer Saturdays #2 - Macarthur Heights, Southern Highlands Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/23392
 GEO:-34.0760915683674;150.780440684201
 END:VEVENT
@@ -573,7 +555,7 @@ GEO:-35.0398070130795;138.51466747395
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22722@eventor.orienteering.asn.au
-DTSTAMP:20251227T040204Z
+DTSTAMP:20260103T025513Z
 DTSTART:20260123T130000Z
 DTEND:20260126T130000Z
 SUMMARY:Sprint The Coast, Central Coast Orienteers
@@ -738,6 +720,15 @@ SUMMARY:Geelong Park Street Thursday Summer Series - Montpelier, Bayside Kangaro
 URL:https://eventor.orienteering.asn.au/Events/Show/23157
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_23410@eventor.orienteering.asn.au
+DTSTAMP:20260103T033948Z
+DTSTART:20260130T080000Z
+DTEND:20260130T080000Z
+SUMMARY:Snap Sprint #1 Magill Uni, SA Arrows
+URL:https://eventor.orienteering.asn.au/Events/Show/23410
+GEO:-34.9097048032152;138.672566115144
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_22881@eventor.orienteering.asn.au
 DTSTAMP:20251214T103822Z
 DTSTART:20260131T053000Z
@@ -745,6 +736,15 @@ DTEND:20260131T053000Z
 SUMMARY:EN Learn to Orienteer Nh Series - Peace Park, Sandgate, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/22881
 GEO:-27.3100195609128;153.055767333778
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23433@eventor.orienteering.asn.au
+DTSTAMP:20260103T062549Z
+DTSTART:20260131T070000Z
+DTEND:20260131T070000Z
+SUMMARY:Bike-O 75, Silvan Reservoir, Dandenong Ranges Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/23433
+GEO:-37.8235427001651;145.414159248971
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23176@eventor.orienteering.asn.au
@@ -804,5 +804,13 @@ DTSTART:20260202T083000Z
 DTEND:20260202T103000Z
 SUMMARY:Orienteering ACT February Board Meeting, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/22472
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23133@eventor.orienteering.asn.au
+DTSTAMP:20251003T070846Z
+DTSTART:20260203T073000Z
+DTEND:20260203T073000Z
+SUMMARY:Melbourne Park Street Tuesday Summer Series - Altona Meadows, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/23133
 END:VEVENT
 END:VCALENDAR
