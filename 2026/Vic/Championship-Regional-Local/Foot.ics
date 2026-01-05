@@ -12,23 +12,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22567
 GEO:-32.9961743164889;151.536115925507
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_23307@eventor.orienteering.asn.au
-DTSTAMP:20251229T092445Z
-DTSTART:20251228T140000Z
-DTEND:20251229T140000Z
-SUMMARY:Santa 6 Days 2025 – Event 4: Cliveden Park, Fig Tree Pocket, Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/23307
-GEO:-27.5172152281188;152.958532851093
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23073@eventor.orienteering.asn.au
-DTSTAMP:20250927T025227Z
-DTSTART:20251229T073000Z
-DTEND:20251229T073000Z
-SUMMARY:Melbourne Park Street Monday Summer Series - Strathaird, Dandenong Ranges Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/23073
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_23308@eventor.orienteering.asn.au
 DTSTAMP:20251230T090230Z
 DTSTART:20251229T140000Z
@@ -156,12 +139,12 @@ GEO:-27.3197410391397;153.031770263975
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22800@eventor.orienteering.asn.au
-DTSTAMP:20251117T202121Z
+DTSTAMP:20260105T001317Z
 DTSTART:20260107T053000Z
 DTEND:20260107T053000Z
 SUMMARY:2025/26 Sydney Summer Series #14 - La Perouse, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22800
-GEO:-33.977453032814;151.229214560154
+GEO:-33.9799873538092;151.229843052126
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22944@eventor.orienteering.asn.au
@@ -205,7 +188,7 @@ DTSTART:20260109T073000Z
 DTEND:20260109T073000Z
 SUMMARY:Twilight Series Event #6 - SE Parklands, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/23319
-GEO:-34.9359126242216;138.618178722032
+GEO:-34.9324274277684;138.618528084066
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23280@eventor.orienteering.asn.au
@@ -381,7 +364,7 @@ GEO:-35.017391016174;138.62317870986
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23392@eventor.orienteering.asn.au
-DTSTAMP:20260103T042723Z
+DTSTAMP:20260104T224821Z
 DTSTART:20260116T220000Z
 DTEND:20260117T003000Z
 SUMMARY:Summer Saturdays #2 - Macarthur Heights, Southern Highlands Orienteers
@@ -610,6 +593,15 @@ DTEND:20260125T023000Z
 SUMMARY:2026 Oceania Individual Sprint Championships, Central Coast Orienteers / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/22130
 GEO:-33.4251725449112;151.396695972713
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23484@eventor.orienteering.asn.au
+DTSTAMP:20260105T024729Z
+DTSTART:20260125T080000Z
+DTEND:20260125T080000Z
+SUMMARY:Trivia Night - Fundraiser for The High Performance Squad  , Orienteering Australia / Orienteering NSW
+URL:https://eventor.orienteering.asn.au/Events/Show/23484
+GEO:-33.4403666446115;151.424437437268
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22688@eventor.orienteering.asn.au
@@ -843,5 +835,29 @@ DTSTART:20260204T080000Z
 DTEND:20260204T080000Z
 SUMMARY:Night Nav Nth - EN - Redcliffe, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/22853
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23274@eventor.orienteering.asn.au
+DTSTAMP:20251029T041229Z
+DTSTART:20260205T060000Z
+DTEND:20260205T060000Z
+SUMMARY:NTOC Summer series #5, Northern Tablelands Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/23274
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23151@eventor.orienteering.asn.au
+DTSTAMP:20251003T074739Z
+DTSTART:20260205T073000Z
+DTEND:20260205T073000Z
+SUMMARY:Melbourne Park Street Thursday Summer Series - Research, Yarra Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/23151
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23158@eventor.orienteering.asn.au
+DTSTAMP:20251003T075756Z
+DTSTART:20260205T080000Z
+DTEND:20260205T080000Z
+SUMMARY:Geelong Park Street Thursday Summer Series - Stingaree, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/23158
 END:VEVENT
 END:VCALENDAR
