@@ -12,41 +12,6 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22567
 GEO:-32.9961743164889;151.536115925507
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_23308@eventor.orienteering.asn.au
-DTSTAMP:20251230T090230Z
-DTSTART:20251229T140000Z
-DTEND:20251230T140000Z
-SUMMARY:Santa 6 Days 2025 – Event 5: Norman Creek, Coorparoo, Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/23308
-GEO:-27.4884919841761;153.063449944235
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22782@eventor.orienteering.asn.au
-DTSTAMP:20251230T084717Z
-DTSTART:20251230T053000Z
-DTEND:20251230T053000Z
-SUMMARY:2025/26 Sydney Summer Series #13 - Cammeray, Garingal Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22782
-GEO:-33.8227585417709;151.218093761804
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23287@eventor.orienteering.asn.au
-DTSTAMP:20251106T014509Z
-DTSTART:20251230T070000Z
-DTEND:20251230T070000Z
-SUMMARY:Xmas 5 Days - Social Dinner, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/23287
-GEO:-33.0133694142302;151.595899219606
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23077@eventor.orienteering.asn.au
-DTSTAMP:20250927T025855Z
-DTSTART:20251230T073000Z
-DTEND:20251230T073000Z
-SUMMARY:Melbourne Park Street Tuesday Summer Series - Royal Park, Melbourne Forest Racers
-URL:https://eventor.orienteering.asn.au/Events/Show/23077
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_20953@eventor.orienteering.asn.au
 DTSTAMP:20240917T030611Z
 DTSTART:20251230T130000Z
@@ -398,7 +363,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23118
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23175@eventor.orienteering.asn.au
-DTSTAMP:20251127T130503Z
+DTSTAMP:20260106T130614Z
 DTSTART:20260117T090000Z
 DTEND:20260117T090000Z
 SUMMARY:MetrO 7 Mt Pleasant, Orienteering WA / WA Nomads
@@ -721,7 +686,7 @@ GEO:-27.3100195609128;153.055767333778
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23433@eventor.orienteering.asn.au
-DTSTAMP:20260104T091941Z
+DTSTAMP:20260106T072856Z
 DTSTART:20260131T070000Z
 DTEND:20260131T070000Z
 SUMMARY:Bike-O 75 #1, Silvan Reservoir, Dandenong Ranges Orienteering Club
@@ -859,5 +824,14 @@ DTSTART:20260205T080000Z
 DTEND:20260205T080000Z
 SUMMARY:Geelong Park Street Thursday Summer Series - Stingaree, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/23158
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23411@eventor.orienteering.asn.au
+DTSTAMP:20260104T014138Z
+DTSTART:20260206T080000Z
+DTEND:20260206T080000Z
+SUMMARY:Snap Sprint #2 Port Adelaide, SA Arrows
+URL:https://eventor.orienteering.asn.au/Events/Show/23411
+GEO:-34.8442813896444;138.498363969734
 END:VEVENT
 END:VCALENDAR
