@@ -11,31 +11,6 @@ SUMMARY:2025/26 SSS13 MapRun - Cammeray, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/23400
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_23061@eventor.orienteering.asn.au
-DTSTAMP:20260104T085000Z
-DTSTART:20260102T130000Z
-DTEND:20260103T130000Z
-SUMMARY:cancelled event, Orienteering Victoria
-URL:https://eventor.orienteering.asn.au/Events/Show/23061
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23116@eventor.orienteering.asn.au
-DTSTAMP:20250929T045219Z
-DTSTART:20260103T043000Z
-DTEND:20260103T043000Z
-SUMMARY:Surfside Park Street Summer Series - St Leonards, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/23116
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23292@eventor.orienteering.asn.au
-DTSTAMP:20260103T101212Z
-DTSTART:20260103T090000Z
-DTEND:20260103T090000Z
-SUMMARY:Sprint 2 ECU Joondalup, Orienteering WA / WA Nomads
-URL:https://eventor.orienteering.asn.au/Events/Show/23292
-GEO:-31.7535907751694;115.773983975822
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_23089@eventor.orienteering.asn.au
 DTSTAMP:20250928T052926Z
 DTSTART:20260105T073000Z
@@ -106,7 +81,7 @@ GEO:-41.3239605608525;148.247223533973
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23319@eventor.orienteering.asn.au
-DTSTAMP:20251227T042829Z
+DTSTAMP:20260109T235857Z
 DTSTART:20260109T073000Z
 DTEND:20260109T073000Z
 SUMMARY:Twilight Series Event #6 - SE Parklands, Orienteering SA
@@ -124,7 +99,7 @@ GEO:-32.0160615712467;115.793151947446
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23331@eventor.orienteering.asn.au
-DTSTAMP:20260103T041557Z
+DTSTAMP:20260110T000757Z
 DTSTART:20260109T220000Z
 DTEND:20260110T003000Z
 SUMMARY:Summer Saturdays #1 - Harrington Park, Southern Highlands Orienteers
@@ -149,7 +124,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23117
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23174@eventor.orienteering.asn.au
-DTSTAMP:20260104T131953Z
+DTSTAMP:20260110T102529Z
 DTSTART:20260110T090000Z
 DTEND:20260110T090000Z
 SUMMARY:MetrO 6 Shelley, Orienteering WA / WA Nomads
@@ -336,6 +311,14 @@ DTEND:20260117T090000Z
 SUMMARY:MetrO 7 Mt Pleasant, Orienteering WA / WA Nomads
 URL:https://eventor.orienteering.asn.au/Events/Show/23175
 GEO:-32.0392977026005;115.844297440787
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23527@eventor.orienteering.asn.au
+DTSTAMP:20260109T221521Z
+DTSTART:20260117T130000Z
+DTEND:20260118T130000Z
+SUMMARY:Northern Fun Event - EVOC AGM and Presentation, Esk Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/23527
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22695@eventor.orienteering.asn.au
@@ -537,11 +520,20 @@ GEO:-33.4403666446115;151.424437437268
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22688@eventor.orienteering.asn.au
-DTSTAMP:20260107T191200Z
+DTSTAMP:20260109T195555Z
 DTSTART:20260125T130000Z
 DTEND:20260126T130000Z
 SUMMARY:2026 Oceania Sprint Relay:  National / State Team Entry, Central Coast Orienteers / Orienteering ACT / Orienteering NSW / Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22688
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23538@eventor.orienteering.asn.au
+DTSTAMP:20260110T124458Z
+DTSTART:20260125T220000Z
+DTEND:20260125T220000Z
+SUMMARY:NT: 2026 Australia Day Come and Try, Top End Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/23538
+GEO:-12.4449443933316;130.836545753012
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22687@eventor.orienteering.asn.au
@@ -669,6 +661,14 @@ DTEND:20260131T090000Z
 SUMMARY:MetrO 8 Piney Lakes, Orienteering WA / WA Nomads
 URL:https://eventor.orienteering.asn.au/Events/Show/23176
 GEO:-32.0534917002791;115.841406703932
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23529@eventor.orienteering.asn.au
+DTSTAMP:20260109T230814Z
+DTSTART:20260131T130000Z
+DTEND:20260201T130000Z
+SUMMARY:Southern Learn to Orienteer Week 1 - Wentworth Park, Australopers Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/23529
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22696@eventor.orienteering.asn.au
@@ -848,6 +848,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23177
 GEO:-31.9750985832196;115.779579858683
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_23530@eventor.orienteering.asn.au
+DTSTAMP:20260109T230948Z
+DTSTART:20260207T130000Z
+DTEND:20260208T130000Z
+SUMMARY:Southern Learn to Orienteer Week 2 - Queens Domain, Australopers Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/23530
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_23402@eventor.orienteering.asn.au
 DTSTAMP:20260107T032935Z
 DTSTART:20260207T210000Z
@@ -911,5 +919,29 @@ DTSTART:20260207T230000Z
 DTEND:20260208T001500Z
 SUMMARY:Mornington Peninsula Sunday MapRun - Rye, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/23114
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23047@eventor.orienteering.asn.au
+DTSTAMP:20250922T031732Z
+DTSTART:20260209T060000Z
+DTEND:20260209T060000Z
+SUMMARY:ACT MapRun Street Series: Isaacs, 5-9 Feb, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/23047
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23125@eventor.orienteering.asn.au
+DTSTAMP:20251003T065854Z
+DTSTART:20260209T073000Z
+DTEND:20260209T073000Z
+SUMMARY:Melbourne Park Street Monday Summer Series - Tatterson, Dandenong Ranges Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/23125
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23134@eventor.orienteering.asn.au
+DTSTAMP:20251003T071029Z
+DTSTART:20260210T073000Z
+DTEND:20260210T073000Z
+SUMMARY:Melbourne Park Street Tuesday Summer Series - Williamstown Beach, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/23134
 END:VEVENT
 END:VCALENDAR
