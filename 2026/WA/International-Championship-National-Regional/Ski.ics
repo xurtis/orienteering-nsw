@@ -11,23 +11,6 @@ SUMMARY:2025/26 SSS13 MapRun - Cammeray, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/23400
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_23099@eventor.orienteering.asn.au
-DTSTAMP:20250929T042821Z
-DTSTART:20260106T073000Z
-DTEND:20260106T073000Z
-SUMMARY:Melbourne Park Street Tuesday Summer Series - North Melbourne, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/23099
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21454@eventor.orienteering.asn.au
-DTSTAMP:20250803T020219Z
-DTSTART:20260106T074500Z
-DTEND:20260106T074500Z
-SUMMARY:Night Nav - EN  - Bracken Ridge, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/21454
-GEO:-27.3197410391397;153.031770263975
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22800@eventor.orienteering.asn.au
 DTSTAMP:20260107T084545Z
 DTSTART:20260107T053000Z
@@ -168,7 +151,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23113
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23044@eventor.orienteering.asn.au
-DTSTAMP:20250922T031726Z
+DTSTAMP:20260113T064504Z
 DTSTART:20260112T060000Z
 DTEND:20260112T060000Z
 SUMMARY:ACT MapRun Street Series: Googong, 8-12 Jan, Orienteering ACT
@@ -202,7 +185,7 @@ GEO:-27.3402949215708;153.026347829111
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22795@eventor.orienteering.asn.au
-DTSTAMP:20260108T082819Z
+DTSTAMP:20260113T065628Z
 DTSTART:20260114T053000Z
 DTEND:20260114T053000Z
 SUMMARY:2025/26 Sydney Summer Series #15 - St Ives, Garingal Orienteers
@@ -944,11 +927,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/22697
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22652@eventor.orienteering.asn.au
-DTSTAMP:20251104T021257Z
+DTSTAMP:20260112T232630Z
 DTSTART:20260207T220000Z
 DTEND:20260207T233000Z
 SUMMARY:ACT Sprint Series #8, Karabar High School, Orienteering ACT
 URL:https://eventor.orienteering.asn.au/Events/Show/22652
+GEO:-35.3650453339495;149.223820809668
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23016@eventor.orienteering.asn.au
@@ -1089,5 +1073,14 @@ DTSTART:20260212T080000Z
 DTEND:20260212T080000Z
 SUMMARY:Geelong Park Street Thursday Summer Series - West Tech, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/23159
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23412@eventor.orienteering.asn.au
+DTSTAMP:20260104T015614Z
+DTSTART:20260213T080000Z
+DTEND:20260213T080000Z
+SUMMARY:Snap Sprint #3 Waite Campus, SA Arrows
+URL:https://eventor.orienteering.asn.au/Events/Show/23412
+GEO:-34.9695348224456;138.635157375229
 END:VEVENT
 END:VCALENDAR
