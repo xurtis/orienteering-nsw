@@ -11,24 +11,6 @@ SUMMARY:2025/26 SSS13 MapRun - Cammeray, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/23400
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22800@eventor.orienteering.asn.au
-DTSTAMP:20260107T084545Z
-DTSTART:20260107T053000Z
-DTEND:20260107T053000Z
-SUMMARY:2025/26 Sydney Summer Series #14 - La Perouse, Uringa Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22800
-GEO:-33.9799873538092;151.229843052126
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22944@eventor.orienteering.asn.au
-DTSTAMP:20260107T110355Z
-DTSTART:20260107T060000Z
-DTEND:20260107T060000Z
-SUMMARY:Newcastle Summer Street Series #11 - Speers Point, Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/22944
-GEO:-32.9545607753504;151.622761916914
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_23108@eventor.orienteering.asn.au
 DTSTAMP:20250929T044051Z
 DTSTART:20260108T073000Z
@@ -176,16 +158,16 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23100
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21455@eventor.orienteering.asn.au
-DTSTAMP:20251214T022314Z
+DTSTAMP:20260114T100718Z
 DTSTART:20260113T074500Z
 DTEND:20260113T074500Z
-SUMMARY:Night Nav - EN - Fitzgibbon - NEW MAP, Enoggeroos
+SUMMARY:Night Nav - EN - Fitzgibbon, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/21455
 GEO:-27.3402949215708;153.026347829111
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22795@eventor.orienteering.asn.au
-DTSTAMP:20260113T065628Z
+DTSTAMP:20260114T085115Z
 DTSTART:20260114T053000Z
 DTEND:20260114T053000Z
 SUMMARY:2025/26 Sydney Summer Series #15 - St Ives, Garingal Orienteers
@@ -194,7 +176,7 @@ GEO:-33.7086316524845;151.163437495703
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22945@eventor.orienteering.asn.au
-DTSTAMP:20260107T113457Z
+DTSTAMP:20260114T111039Z
 DTSTART:20260114T060000Z
 DTEND:20260114T060000Z
 SUMMARY:Newcastle Summer Street Series #12 - Merewether Heights, Newcastle Orienteering Club
@@ -385,7 +367,7 @@ GEO:-33.8743589932497;151.228916296406
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22946@eventor.orienteering.asn.au
-DTSTAMP:20251224T040405Z
+DTSTAMP:20260114T105351Z
 DTSTART:20260121T060000Z
 DTEND:20260121T060000Z
 SUMMARY:Newcastle Summer Street Series #13 - Cardiif South, Newcastle Orienteering Club
@@ -841,6 +823,15 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23411
 GEO:-34.8442813896444;138.498363969734
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_23597@eventor.orienteering.asn.au
+DTSTAMP:20260114T051755Z
+DTSTART:20260206T130000Z
+DTEND:20260207T130000Z
+SUMMARY:Bold Horizons - Adventure Running Squad, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/23597
+GEO:-33.6910767933779;151.152877141438
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_23379@eventor.orienteering.asn.au
 DTSTAMP:20251219T002145Z
 DTSTART:20260206T223000Z
@@ -1082,5 +1073,49 @@ DTEND:20260213T080000Z
 SUMMARY:Snap Sprint #3 Waite Campus, SA Arrows
 URL:https://eventor.orienteering.asn.au/Events/Show/23412
 GEO:-34.9695348224456;138.635157375229
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23380@eventor.orienteering.asn.au
+DTSTAMP:20251219T101851Z
+DTSTART:20260213T223000Z
+DTEND:20260213T223000Z
+SUMMARY:SOS - Killarney Heights, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/23380
+GEO:-33.7721965375927;151.215406023458
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23297@eventor.orienteering.asn.au
+DTSTAMP:20260103T024124Z
+DTSTART:20260213T230000Z
+DTEND:20260213T230000Z
+SUMMARY:Illawarra Summer Sprint Series #3 - Albion Park High School, Illawarra Kareelah Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/23297
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22883@eventor.orienteering.asn.au
+DTSTAMP:20251214T104130Z
+DTSTART:20260214T053000Z
+DTEND:20260214T053000Z
+SUMMARY:EN Learn to Orienteer Nth Series - Newport Park tbc, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/22883
+GEO:-27.2158041360152;153.085988097903
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23434@eventor.orienteering.asn.au
+DTSTAMP:20260112T055749Z
+DTSTART:20260214T070000Z
+DTEND:20260214T070000Z
+SUMMARY:Bike-O 75 #2, You Yangs, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/23434
+GEO:-37.9651255748439;144.408316125703
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23178@eventor.orienteering.asn.au
+DTSTAMP:20251127T130643Z
+DTSTART:20260214T090000Z
+DTEND:20260214T090000Z
+SUMMARY:MetrO 10 City Beach, Orienteering WA / WA Nomads
+URL:https://eventor.orienteering.asn.au/Events/Show/23178
+GEO:-31.9243504474523;115.767775694503
 END:VEVENT
 END:VCALENDAR
