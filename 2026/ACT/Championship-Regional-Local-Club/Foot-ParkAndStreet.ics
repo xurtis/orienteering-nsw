@@ -19,23 +19,6 @@ SUMMARY:2025/26 SSS14 MapRun - La Perouse, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/23541
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_23100@eventor.orienteering.asn.au
-DTSTAMP:20250929T042922Z
-DTSTART:20260113T073000Z
-DTEND:20260113T073000Z
-SUMMARY:Melbourne Park Street Tuesday Summer Series - West Essendon, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/23100
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_21455@eventor.orienteering.asn.au
-DTSTAMP:20260114T100718Z
-DTSTART:20260113T074500Z
-DTEND:20260113T074500Z
-SUMMARY:Night Nav - EN - Fitzgibbon, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/21455
-GEO:-27.3402949215708;153.026347829111
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22795@eventor.orienteering.asn.au
 DTSTAMP:20260114T085115Z
 DTSTART:20260114T053000Z
@@ -89,10 +72,10 @@ GEO:-27.6531852863913;153.057191248262
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23613@eventor.orienteering.asn.au
-DTSTAMP:20260116T071211Z
+DTSTAMP:20260120T085547Z
 DTSTART:20260115T130000Z
-DTEND:20260116T130000Z
-SUMMARY:2025/26 SSS14 MapRun - St Ives Chase, Garingal Orienteers
+DTEND:20260202T130000Z
+SUMMARY:2025/26 SSS15 MapRun - St Ives Chase, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/23613
 END:VEVENT
 BEGIN:VEVENT
@@ -203,7 +186,7 @@ GEO:-31.9689605338025;152.588507610984
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23045@eventor.orienteering.asn.au
-DTSTAMP:20250922T031728Z
+DTSTAMP:20260120T061615Z
 DTSTART:20260119T060000Z
 DTEND:20260119T060000Z
 SUMMARY:ACT MapRun Street Series: Chisholm, 15-19 Jan, Orienteering ACT
@@ -228,7 +211,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23101
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_21456@eventor.orienteering.asn.au
-DTSTAMP:20251214T054641Z
+DTSTAMP:20260120T101307Z
 DTSTART:20260120T074500Z
 DTEND:20260120T074500Z
 SUMMARY:Night Nav - EN - Kedron West - NEW MAP, Enoggeroos
@@ -242,7 +225,7 @@ DTSTART:20260121T053000Z
 DTEND:20260121T053000Z
 SUMMARY:2025/26 Sydney Summer Series #16 - Kings Cross, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22799
-GEO:-33.8743589932497;151.228916296406
+GEO:-33.8739581207784;151.228602837588
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22946@eventor.orienteering.asn.au
@@ -298,7 +281,7 @@ GEO:-35.0398070130795;138.51466747395
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22722@eventor.orienteering.asn.au
-DTSTAMP:20260118T100139Z
+DTSTAMP:20260120T064355Z
 DTSTART:20260123T130000Z
 DTEND:20260126T130000Z
 SUMMARY:Sprint The Coast, Central Coast Orienteers / Uringa Orienteers
@@ -329,14 +312,6 @@ DTSTART:20260124T030000Z
 DTEND:20260124T030000Z
 SUMMARY:2026 Oceania Knock Out Sprint Championship - Semi Finals, Central Coast Orienteers / Orienteering NSW
 URL:https://eventor.orienteering.asn.au/Events/Show/23168
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23119@eventor.orienteering.asn.au
-DTSTAMP:20250929T045415Z
-DTSTART:20260124T043000Z
-DTEND:20260124T043000Z
-SUMMARY:Surfside Park Street Summer Series - Barwon Heads, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/23119
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23169@eventor.orienteering.asn.au
@@ -417,6 +392,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23612
 GEO:-34.9895744793217;138.711191158918
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_23648@eventor.orienteering.asn.au
+DTSTAMP:20260120T043400Z
+DTSTART:20260125T233000Z
+DTEND:20260125T233000Z
+SUMMARY:The Consolation Cup, Central Coast Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/23648
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_23098@eventor.orienteering.asn.au
 DTSTAMP:20250929T042517Z
 DTSTART:20260126T073000Z
@@ -443,7 +426,7 @@ GEO:-27.4546652469353;152.934580724076
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22791@eventor.orienteering.asn.au
-DTSTAMP:20260116T042510Z
+DTSTAMP:20260120T111959Z
 DTSTART:20260128T053000Z
 DTEND:20260128T053000Z
 SUMMARY:2025/26 Sydney Summer Series #17 - Manly Vale, Bennelong Northside Orienteers
@@ -528,6 +511,14 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23633
 GEO:-34.1615650487064;150.611903716063
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_23119@eventor.orienteering.asn.au
+DTSTAMP:20260120T103632Z
+DTSTART:20260131T043000Z
+DTEND:20260131T043000Z
+SUMMARY:Surfside Park Street Summer Series - Barwon Heads - rescheduled due to extreme heat, Bayside Kangaroos Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/23119
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_22881@eventor.orienteering.asn.au
 DTSTAMP:20260115T005334Z
 DTSTART:20260131T053000Z
@@ -597,6 +588,15 @@ DTEND:20260131T230000Z
 SUMMARY:Illawarra Summer Sprint Series #1 - Kiama (new sprint map), Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/23295
 GEO:-34.6711865755406;150.861776734616
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23653@eventor.orienteering.asn.au
+DTSTAMP:20260120T130938Z
+DTSTART:20260131T233000Z
+DTEND:20260131T233000Z
+SUMMARY:Port Lincoln CBD, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/23653
+GEO:-34.7201662311238;135.858830723928
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23586@eventor.orienteering.asn.au
@@ -820,7 +820,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23530
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23402@eventor.orienteering.asn.au
-DTSTAMP:20260107T032935Z
+DTSTAMP:20260120T050548Z
 DTSTART:20260207T210000Z
 DTEND:20260207T210000Z
 SUMMARY:Peter Creely Memorial Fowl and Fizz (and AGM), Bendigo Orienteers
@@ -1010,6 +1010,15 @@ DTSTART:20260212T080000Z
 DTEND:20260212T080000Z
 SUMMARY:Geelong Park Street Thursday Summer Series - West Tech, Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/23159
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23654@eventor.orienteering.asn.au
+DTSTAMP:20260120T130909Z
+DTSTART:20260213T073000Z
+DTEND:20260213T073000Z
+SUMMARY:Port Lincoln: Lincoln North, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/23654
+GEO:-34.7103658369482;135.848345961509
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23412@eventor.orienteering.asn.au
@@ -1267,5 +1276,22 @@ DTSTART:20260219T080000Z
 DTEND:20260219T080000Z
 SUMMARY:Geelong Park Street Thursday Summer Series -The Dell (new map), Bayside Kangaroos Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/23160
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23344@eventor.orienteering.asn.au
+DTSTAMP:20260119T051935Z
+DTSTART:20260220T033000Z
+DTEND:20260222T033000Z
+SUMMARY:Adelaide Sprint Camp - all days, Orienteering SA
+URL:https://eventor.orienteering.asn.au/Events/Show/23344
+GEO:-34.9173943279988;138.603581360592
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23413@eventor.orienteering.asn.au
+DTSTAMP:20260104T015655Z
+DTSTART:20260220T080000Z
+DTEND:20260220T080000Z
+SUMMARY:Snap Sprint #4 Underdale, SA Arrows
+URL:https://eventor.orienteering.asn.au/Events/Show/23413
 END:VEVENT
 END:VCALENDAR
