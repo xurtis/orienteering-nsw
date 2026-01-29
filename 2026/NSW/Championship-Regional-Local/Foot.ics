@@ -35,23 +35,6 @@ SUMMARY:2025/26 SSS16 MapRun - Kings Cross, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/23682
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_23110@eventor.orienteering.asn.au
-DTSTAMP:20250929T044303Z
-DTSTART:20260122T073000Z
-DTEND:20260122T073000Z
-SUMMARY:Melbourne Park Street Thursday Summer Series - Westgarth, Nillumbik Emus Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/23110
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23028@eventor.orienteering.asn.au
-DTSTAMP:20260122T094814Z
-DTSTART:20260122T073000Z
-DTEND:20260122T073000Z
-SUMMARY:NightNav - Southside - Sunnybank Hills, Toohey Forest Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/23028
-GEO:-27.5873374944129;153.050799939881
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_23327@eventor.orienteering.asn.au
 DTSTAMP:20260123T225124Z
 DTSTART:20260123T073000Z
@@ -258,7 +241,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23111
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23029@eventor.orienteering.asn.au
-DTSTAMP:20251111T081423Z
+DTSTAMP:20260129T100630Z
 DTSTART:20260129T073000Z
 DTEND:20260129T073000Z
 SUMMARY:NightNav - Southside - Acacia Ridge, Toohey Forest Orienteers
@@ -457,11 +440,12 @@ GEO:-27.5111276001782;152.951724119186
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22796@eventor.orienteering.asn.au
-DTSTAMP:20260115T030057Z
+DTSTAMP:20260129T093451Z
 DTSTART:20260204T053000Z
 DTEND:20260204T053000Z
 SUMMARY:2025/26 Sydney Summer Series #18 - North Epping, Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22796
+GEO:-33.7541164931724;151.092252722224
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22948@eventor.orienteering.asn.au
@@ -541,7 +525,7 @@ GEO:-33.2625306320872;149.100656233078
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23701@eventor.orienteering.asn.au
-DTSTAMP:20260125T005245Z
+DTSTAMP:20260129T092125Z
 DTSTART:20260205T130000Z
 DTEND:20260206T130000Z
 SUMMARY:TRAC School Sports Session 1, Wagga and Riverina Orienteers
