@@ -35,15 +35,6 @@ SUMMARY:2025/26 SSS16 MapRun - Kings Cross, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/23682
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_23327@eventor.orienteering.asn.au
-DTSTAMP:20260123T225124Z
-DTSTART:20260123T073000Z
-DTEND:20260123T073000Z
-SUMMARY:Twilight Series Event #8 - Marino - Kingston Park, Orienteering SA
-URL:https://eventor.orienteering.asn.au/Events/Show/23327
-GEO:-35.0398070130795;138.51466747395
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_22722@eventor.orienteering.asn.au
 DTSTAMP:20260124T095240Z
 DTSTART:20260123T130000Z
@@ -199,7 +190,7 @@ GEO:-32.7658208854297;151.607084755915
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23699@eventor.orienteering.asn.au
-DTSTAMP:20260127T050726Z
+DTSTAMP:20260130T032503Z
 DTSTART:20260128T070000Z
 DTEND:20260128T070000Z
 SUMMARY:Eureka Summer Park & Street - Len T Fraser Reserve, Eureka Orienteers
@@ -472,6 +463,15 @@ DTSTART:20260204T070000Z
 DTEND:20260204T070000Z
 SUMMARY:#1 Twilight Sprint Bullengarook, Central Highlands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/23582
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23759@eventor.orienteering.asn.au
+DTSTAMP:20260130T013911Z
+DTSTART:20260204T070000Z
+DTEND:20260204T070000Z
+SUMMARY:Eureka Summer P/S - Delacombe - Doug Dean Reserve, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/23759
+GEO:-37.5827699937434;143.817529587245
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23142@eventor.orienteering.asn.au
@@ -1130,6 +1130,15 @@ SUMMARY:#3 Twilight Sprint Kyneton, Central Highlands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/23584
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_23761@eventor.orienteering.asn.au
+DTSTAMP:20260130T022741Z
+DTSTART:20260218T070000Z
+DTEND:20260218T070000Z
+SUMMARY:Eureka Summer P/S - Lake Esmond Botanical Gardens, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/23761
+GEO:-37.5754911637668;143.874726395357
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_23144@eventor.orienteering.asn.au
 DTSTAMP:20251003T073724Z
 DTSTART:20260218T073000Z
@@ -1443,6 +1452,15 @@ DTSTART:20260225T070000Z
 DTEND:20260225T070000Z
 SUMMARY:#4 Twilight Sprint Gisborne, Central Highlands Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/23585
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23760@eventor.orienteering.asn.au
+DTSTAMP:20260130T021418Z
+DTSTART:20260225T070000Z
+DTEND:20260225T070000Z
+SUMMARY:Eureka Summer P/S - Black Hill, Eureka Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/23760
+GEO:-37.5521329181801;143.873145120314
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23145@eventor.orienteering.asn.au
