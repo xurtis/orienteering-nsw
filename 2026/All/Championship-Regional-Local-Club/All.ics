@@ -35,65 +35,6 @@ SUMMARY:2025/26 SSS16 MapRun - Kings Cross, Illawarra Kareelah Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/23682
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22722@eventor.orienteering.asn.au
-DTSTAMP:20260124T095240Z
-DTSTART:20260123T130000Z
-DTEND:20260126T130000Z
-SUMMARY:Sprint The Coast, Central Coast Orienteers / Uringa Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/22722
-GEO:-33.3015074184024;151.414160673974
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23538@eventor.orienteering.asn.au
-DTSTAMP:20260110T124458Z
-DTSTART:20260125T220000Z
-DTEND:20260125T220000Z
-SUMMARY:NT: 2026 Australia Day Come and Try, Top End Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/23538
-GEO:-12.4449443933316;130.836545753012
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22687@eventor.orienteering.asn.au
-DTSTAMP:20260111T213341Z
-DTSTART:20260125T223000Z
-DTEND:20260125T223000Z
-SUMMARY:2026 Oceania Sprint Relay Championship- Individual Entry, Central Coast Orienteers / Orienteering NSW
-URL:https://eventor.orienteering.asn.au/Events/Show/22687
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22688@eventor.orienteering.asn.au
-DTSTAMP:20260126T091129Z
-DTSTART:20260125T223000Z
-DTEND:20260125T223000Z
-SUMMARY:2026 Oceania Sprint Relay., Central Coast Orienteers / Orienteering NSW
-URL:https://eventor.orienteering.asn.au/Events/Show/22688
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23612@eventor.orienteering.asn.au
-DTSTAMP:20260123T011025Z
-DTSTART:20260125T223000Z
-DTEND:20260125T223000Z
-SUMMARY:Mt Lofty Botanic Gardens - MapRun- Australia Day - Deferred, Onkaparinga Hills Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/23612
-GEO:-34.9895744793217;138.711191158918
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23648@eventor.orienteering.asn.au
-DTSTAMP:20260120T043400Z
-DTSTART:20260125T233000Z
-DTEND:20260125T233000Z
-SUMMARY:The Consolation Cup, Central Coast Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/23648
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23098@eventor.orienteering.asn.au
-DTSTAMP:20250929T042517Z
-DTSTART:20260126T073000Z
-DTEND:20260126T073000Z
-SUMMARY:Melbourne Park Street Monday Summer Series - Tirhatuan Park, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/23098
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_23102@eventor.orienteering.asn.au
 DTSTAMP:20260125T071738Z
 DTSTART:20260127T073000Z
@@ -472,6 +413,15 @@ DTEND:20260206T070000Z
 SUMMARY:Goldseekers Summer Series #2 2026, Goldseekers Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/23743
 GEO:-33.2625306320872;149.100656233078
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23816@eventor.orienteering.asn.au
+DTSTAMP:20260202T102509Z
+DTSTART:20260206T070000Z
+DTEND:20260206T070000Z
+SUMMARY:Melbourne O Training 9 - The Abbotsford Slip, Melbourne Forest Racers
+URL:https://eventor.orienteering.asn.au/Events/Show/23816
+GEO:-37.8088351834409;145.010009645112
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23804@eventor.orienteering.asn.au
@@ -1040,11 +990,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23694
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23683@eventor.orienteering.asn.au
-DTSTAMP:20260123T025535Z
+DTSTAMP:20260202T014443Z
 DTSTART:20260218T000000Z
 DTEND:20260218T000000Z
 SUMMARY:Midweek Training at Paradise, Orienteering SA
 URL:https://eventor.orienteering.asn.au/Events/Show/23683
+GEO:-34.8656046542041;138.675943594101
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23532@eventor.orienteering.asn.au
@@ -1379,7 +1330,6 @@ DTSTART:20260224T080000Z
 DTEND:20260224T080000Z
 SUMMARY:Night Nav - Golden Beach, Sunshine Orienteers Club
 URL:https://eventor.orienteering.asn.au/Events/Show/23737
-GEO:-26.5394873311815;153.078933582456
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23533@eventor.orienteering.asn.au
@@ -1391,12 +1341,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23533
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22801@eventor.orienteering.asn.au
-DTSTAMP:20251108T205253Z
+DTSTAMP:20260201T203404Z
 DTSTART:20260225T053000Z
 DTEND:20260225T053000Z
 SUMMARY:2025/26 Sydney Summer Series #21 - Rozelle, Uringa Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/22801
-GEO:-33.8699352311058;151.172080259111
+GEO:-33.8692936541326;151.173501589698
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23647@eventor.orienteering.asn.au
@@ -1620,5 +1570,21 @@ DTEND:20260301T050000Z
 SUMMARY:Clifton SHS TBC sprint and Learn to Orienteer, Range Runners Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/23588
 GEO:-27.9333023596703;151.914875814254
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23050@eventor.orienteering.asn.au
+DTSTAMP:20260202T015447Z
+DTSTART:20260302T060000Z
+DTEND:20260302T060000Z
+SUMMARY:ACT MapRun Street Series: Aranda, 26 Feb - 2 Mar, Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/23050
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23128@eventor.orienteering.asn.au
+DTSTAMP:20251003T070232Z
+DTSTART:20260302T073000Z
+DTEND:20260302T073000Z
+SUMMARY:Melbourne Park Street Monday Summer Series - Blind Creek, Dandenong Ranges Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/23128
 END:VEVENT
 END:VCALENDAR
