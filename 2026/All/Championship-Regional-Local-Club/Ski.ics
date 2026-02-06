@@ -19,32 +19,6 @@ SUMMARY:2025/26 SSS17 MapRun - Manly Vale, Bennelong Northside Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/23758
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_23646@eventor.orienteering.asn.au
-DTSTAMP:20260119T050031Z
-DTSTART:20260129T130000Z
-DTEND:20260130T130000Z
-SUMMARY:Collectors Edition - Orienteering Jigsaw Puzzle , Newcastle Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/23646
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23742@eventor.orienteering.asn.au
-DTSTAMP:20260128T071422Z
-DTSTART:20260129T130000Z
-DTEND:20260130T130000Z
-SUMMARY:Goldseekers Summer Series #1 2026, Goldseekers Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/23742
-GEO:-33.2703555128364;149.079392627538
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23747@eventor.orienteering.asn.au
-DTSTAMP:20260128T042903Z
-DTSTART:20260130T080000Z
-DTEND:20260130T080000Z
-SUMMARY:Snap Sprint #1 Magill Uni, SA Arrows
-URL:https://eventor.orienteering.asn.au/Events/Show/23747
-GEO:-34.908544772089;138.673018335448
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_23633@eventor.orienteering.asn.au
 DTSTAMP:20260131T004409Z
 DTSTART:20260130T220000Z
@@ -263,7 +237,7 @@ GEO:-27.2376955658215;153.114002123307
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23274@eventor.orienteering.asn.au
-DTSTAMP:20260128T050758Z
+DTSTAMP:20260206T030950Z
 DTSTART:20260205T060000Z
 DTEND:20260205T080000Z
 SUMMARY:NTOC Summer series #5, Northern Tablelands Orienteering Club
@@ -324,7 +298,7 @@ GEO:-12.3754591100352;130.854975847602
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23411@eventor.orienteering.asn.au
-DTSTAMP:20260128T042426Z
+DTSTAMP:20260206T093159Z
 DTSTART:20260206T080000Z
 DTEND:20260206T080000Z
 SUMMARY:Snap Sprint #1 Port Adelaide, SA Arrows
@@ -975,12 +949,31 @@ SUMMARY:Night Nav Nth - EN - Clontarf, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/22855
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_23822@eventor.orienteering.asn.au
+DTSTAMP:20260206T000953Z
+DTSTART:20260218T125900Z
+DTEND:20260218T125900Z
+SUMMARY:Enter All Northern Autumn Twilights at Discounted Rate, Esk Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/23822
+GEO:-41.4686091716533;147.125630562218
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23821@eventor.orienteering.asn.au
+DTSTAMP:20260205T233634Z
+DTSTART:20260218T130000Z
+DTEND:20260219T130000Z
+SUMMARY:Discount Entry for Northern Twilight Events, Esk Valley Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/23821
+GEO:-41.4709838000868;147.136551763883
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_23614@eventor.orienteering.asn.au
-DTSTAMP:20260117T043744Z
-DTSTART:20260219T040000Z
-DTEND:20260219T040000Z
+DTSTAMP:20260205T233336Z
+DTSTART:20260219T050000Z
+DTEND:20260219T050000Z
 SUMMARY:Northern Autumn Twilight #1 - Western Suburbs and Surrounds, Esk Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/23614
+GEO:-41.4665544661034;147.126108185834
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23276@eventor.orienteering.asn.au
@@ -1189,6 +1182,14 @@ DTEND:20260222T073900Z
 SUMMARY:Foxbar Falls, Amiens - bush sprint, Bullecourt Boulder Bounders
 URL:https://eventor.orienteering.asn.au/Events/Show/23698
 GEO:-28.5832694140969;151.765108018552
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23823@eventor.orienteering.asn.au
+DTSTAMP:20260206T054356Z
+DTSTART:20260222T210000Z
+DTEND:20260222T210000Z
+SUMMARY:Learn and Play Coaching accreditation - Practical Session on zoom, Orienteering Australia
+URL:https://eventor.orienteering.asn.au/Events/Show/23823
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23049@eventor.orienteering.asn.au
@@ -1614,5 +1615,23 @@ DTSTART:20260305T080000Z
 DTEND:20260305T080000Z
 SUMMARY:Night Nav NW - EN - Griffin, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/22857
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23705@eventor.orienteering.asn.au
+DTSTAMP:20260125T010626Z
+DTSTART:20260305T130000Z
+DTEND:20260306T130000Z
+SUMMARY:TRAC School Sports Session 4, Wagga and Riverina Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/23705
+GEO:-35.1340971719784;147.365235163207
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23808@eventor.orienteering.asn.au
+DTSTAMP:20260201T134527Z
+DTSTART:20260306T080000Z
+DTEND:20260306T080000Z
+SUMMARY:NT: 2026 Wet Season Series Event 5: Lyons, Top End Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/23808
+GEO:-12.3915654815574;130.891338176518
 END:VEVENT
 END:VCALENDAR
