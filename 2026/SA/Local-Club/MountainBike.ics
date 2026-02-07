@@ -19,50 +19,6 @@ SUMMARY:2025/26 SSS17 MapRun - Manly Vale, Bennelong Northside Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/23758
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_23633@eventor.orienteering.asn.au
-DTSTAMP:20260131T004409Z
-DTSTART:20260130T220000Z
-DTEND:20260131T003000Z
-SUMMARY:Summer Saturdays #3 - Picton, Southern Highlands Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/23633
-GEO:-34.1615650487064;150.611903716063
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23119@eventor.orienteering.asn.au
-DTSTAMP:20260120T103632Z
-DTSTART:20260131T043000Z
-DTEND:20260131T043000Z
-SUMMARY:Surfside Park Street Summer Series - Barwon Heads - rescheduled due to extreme heat, Bayside Kangaroos Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/23119
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22881@eventor.orienteering.asn.au
-DTSTAMP:20260131T072426Z
-DTSTART:20260131T053000Z
-DTEND:20260131T053000Z
-SUMMARY:EN Learn to Orienteer Term1 Series - Barry Bolton Park, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/22881
-GEO:-27.2415319331791;153.101458088836
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23433@eventor.orienteering.asn.au
-DTSTAMP:20260204T062244Z
-DTSTART:20260131T070000Z
-DTEND:20260131T070000Z
-SUMMARY:Bike-O 75 #1, Silvan Reservoir, Dandenong Ranges Orienteering Club
-URL:https://eventor.orienteering.asn.au/Events/Show/23433
-GEO:-37.8245955871794;145.405638509065
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23176@eventor.orienteering.asn.au
-DTSTAMP:20260131T102927Z
-DTSTART:20260131T090000Z
-DTEND:20260131T090000Z
-SUMMARY:MetrO 8 Piney Lakes, Orienteering WA / WA Nomads
-URL:https://eventor.orienteering.asn.au/Events/Show/23176
-GEO:-32.0534261459279;115.840983235176
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_23529@eventor.orienteering.asn.au
 DTSTAMP:20260109T230814Z
 DTSTART:20260131T130000Z
@@ -316,7 +272,7 @@ GEO:-33.6910767933779;151.152877141438
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23635@eventor.orienteering.asn.au
-DTSTAMP:20260118T054558Z
+DTSTAMP:20260207T002003Z
 DTSTART:20260206T220000Z
 DTEND:20260207T003000Z
 SUMMARY:Summer Saturdays #5 - Spring Farm, Southern Highlands Orienteers
@@ -351,7 +307,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23378
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22882@eventor.orienteering.asn.au
-DTSTAMP:20260201T074039Z
+DTSTAMP:20260207T071224Z
 DTSTART:20260207T053000Z
 DTEND:20260207T053000Z
 SUMMARY:EN Learn to Orienteer Nth Series - Redcliffe Botanic Gardens, Enoggeroos
@@ -360,7 +316,7 @@ GEO:-27.2326031301936;153.100166428308
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23177@eventor.orienteering.asn.au
-DTSTAMP:20260128T063531Z
+DTSTAMP:20260207T101458Z
 DTSTART:20260207T090000Z
 DTEND:20260207T090000Z
 SUMMARY:MetrO 9 Lake Claremont, Orienteering WA / WA Nomads
@@ -644,12 +600,12 @@ GEO:-12.3826156145228;130.895515892961
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23412@eventor.orienteering.asn.au
-DTSTAMP:20260128T042658Z
+DTSTAMP:20260207T045839Z
 DTSTART:20260213T080000Z
 DTEND:20260213T080000Z
 SUMMARY:Snap Sprint #2 Waite Campus, SA Arrows
 URL:https://eventor.orienteering.asn.au/Events/Show/23412
-GEO:-34.9695348224456;138.635157375229
+GEO:-34.9685696997377;138.634817262581
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23636@eventor.orienteering.asn.au
@@ -671,7 +627,7 @@ GEO:-33.7721965375927;151.215406023458
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23297@eventor.orienteering.asn.au
-DTSTAMP:20260117T042645Z
+DTSTAMP:20260206T225303Z
 DTSTART:20260213T230000Z
 DTEND:20260213T230000Z
 SUMMARY:Illawarra Summer Sprint Series #3 - Albion Park High School, Illawarra Kareelah Orienteers
@@ -689,7 +645,7 @@ GEO:-30.275496;153.142235
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22883@eventor.orienteering.asn.au
-DTSTAMP:20260203T225901Z
+DTSTAMP:20260206T234412Z
 DTSTART:20260214T053000Z
 DTEND:20260214T053000Z
 SUMMARY:EN Learn to Orienteer Nth Series - Newport Park, Enoggeroos
@@ -965,6 +921,15 @@ DTEND:20260219T130000Z
 SUMMARY:Discount Entry for Northern Twilight Events, Esk Valley Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/23821
 GEO:-41.4709838000868;147.136551763883
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23824@eventor.orienteering.asn.au
+DTSTAMP:20260206T234516Z
+DTSTART:20260219T003000Z
+DTEND:20260219T003000Z
+SUMMARY:Bowman Park, Bardon, Orienteering Queensland
+URL:https://eventor.orienteering.asn.au/Events/Show/23824
+GEO:-27.4558452648699;152.970438863786
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23614@eventor.orienteering.asn.au
@@ -1633,5 +1598,67 @@ DTEND:20260306T080000Z
 SUMMARY:NT: 2026 Wet Season Series Event 5: Lyons, Top End Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/23808
 GEO:-12.3915654815574;130.891338176518
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23469@eventor.orienteering.asn.au
+DTSTAMP:20260201T003557Z
+DTSTART:20260306T130000Z
+DTEND:20260307T130000Z
+SUMMARY:March Sprint 1, Nillumbik Emus Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/23469
+GEO:-37.7927102337371;145.198577947106
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23382@eventor.orienteering.asn.au
+DTSTAMP:20251219T005623Z
+DTSTART:20260306T223000Z
+DTEND:20260306T223000Z
+SUMMARY:SOS - Killara, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/23382
+GEO:-33.7561275462029;151.174360421136
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22709@eventor.orienteering.asn.au
+DTSTAMP:20260203T230538Z
+DTSTART:20260306T230000Z
+DTEND:20260306T230000Z
+SUMMARY:Capital O: NOL Individual Sprint and ACT League #1, Orienteering ACT / Red Roos
+URL:https://eventor.orienteering.asn.au/Events/Show/22709
+GEO:-35.2424384117103;149.085336804791
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23502@eventor.orienteering.asn.au
+DTSTAMP:20260202T020734Z
+DTSTART:20260307T010000Z
+DTEND:20260307T010000Z
+SUMMARY:Fingal Valley 3 Days - Day 1 - Relay - Individual Entry, Australopers Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/23502
+GEO:-41.7073700282578;147.675819708659
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23812@eventor.orienteering.asn.au
+DTSTAMP:20260202T021056Z
+DTSTART:20260307T010100Z
+DTEND:20260307T010100Z
+SUMMARY:Fingal Valley 3 Days - Day 1 - Relay - Teams & Results, Australopers Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/23812
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22708@eventor.orienteering.asn.au
+DTSTAMP:20260131T030017Z
+DTSTART:20260307T030000Z
+DTEND:20260307T030000Z
+SUMMARY:Capital O: NOL Hagaby Sprint and ACT League #2, Abominable O-Men / Orienteering ACT
+URL:https://eventor.orienteering.asn.au/Events/Show/22708
+GEO:-35.2423781241315;149.085321979365
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22886@eventor.orienteering.asn.au
+DTSTAMP:20251214T104432Z
+DTSTART:20260307T053000Z
+DTEND:20260307T053000Z
+SUMMARY:EN Learn to Orienteer Nth Series - Mango Hill, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/22886
+GEO:-27.23687135682;153.020983018424
 END:VEVENT
 END:VCALENDAR
