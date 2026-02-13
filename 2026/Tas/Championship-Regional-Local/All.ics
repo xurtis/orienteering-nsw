@@ -3,51 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_23743@eventor.orienteering.asn.au
-DTSTAMP:20260211T074239Z
-DTSTART:20260205T130000Z
-DTEND:20260206T130000Z
-SUMMARY:Goldseekers Summer Series #2 2026, Goldseekers Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/23743
-GEO:-33.2625306320872;149.100656233078
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23701@eventor.orienteering.asn.au
-DTSTAMP:20260129T092125Z
-DTSTART:20260205T130000Z
-DTEND:20260206T130000Z
-SUMMARY:TRAC School Sports Session 1, Wagga and Riverina Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/23701
-GEO:-35.1340911088086;147.365243582064
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23816@eventor.orienteering.asn.au
-DTSTAMP:20260202T102509Z
-DTSTART:20260206T070000Z
-DTEND:20260206T070000Z
-SUMMARY:Melbourne O Training 9 - The Abbotsford Slip, Melbourne Forest Racers
-URL:https://eventor.orienteering.asn.au/Events/Show/23816
-GEO:-37.8088351834409;145.010009645112
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23804@eventor.orienteering.asn.au
-DTSTAMP:20260201T130903Z
-DTSTART:20260206T080000Z
-DTEND:20260206T080000Z
-SUMMARY:NT: 2026 Wet Season Series Event 1: Nightcliff, Top End Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/23804
-GEO:-12.3754591100352;130.854975847602
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23411@eventor.orienteering.asn.au
-DTSTAMP:20260206T093159Z
-DTSTART:20260206T080000Z
-DTEND:20260206T080000Z
-SUMMARY:Snap Sprint #1 Port Adelaide, SA Arrows
-URL:https://eventor.orienteering.asn.au/Events/Show/23411
-GEO:-34.8442813896444;138.498363969734
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_23597@eventor.orienteering.asn.au
 DTSTAMP:20260201T062251Z
 DTSTART:20260206T130000Z
@@ -327,7 +282,7 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23143
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22854@eventor.orienteering.asn.au
-DTSTAMP:20260201T075534Z
+DTSTAMP:20260213T050835Z
 DTSTART:20260211T080000Z
 DTEND:20260211T080000Z
 SUMMARY:Night Nav Nth - EN - Newport, Enoggeroos
@@ -397,7 +352,7 @@ GEO:-12.3826156145228;130.895515892961
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23412@eventor.orienteering.asn.au
-DTSTAMP:20260207T045839Z
+DTSTAMP:20260213T100242Z
 DTSTART:20260213T080000Z
 DTEND:20260213T080000Z
 SUMMARY:Snap Sprint #2 Waite Campus, SA Arrows
@@ -439,6 +394,15 @@ DTEND:20260214T040000Z
 SUMMARY:Diggers Beach MapRun Orienteering, Bush n Beach Orienteering Club
 URL:https://eventor.orienteering.asn.au/Events/Show/23673
 GEO:-30.275496;153.142235
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22883@eventor.orienteering.asn.au
+DTSTAMP:20260213T064917Z
+DTSTART:20260214T053000Z
+DTEND:20260214T053000Z
+SUMMARY:EN Learn to Orienteer Nth Series - Newport Park, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/22883
+GEO:-27.2163036588657;153.083632685861
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23827@eventor.orienteering.asn.au
@@ -670,10 +634,10 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23584
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23761@eventor.orienteering.asn.au
-DTSTAMP:20260130T022741Z
+DTSTAMP:20260213T074906Z
 DTSTART:20260218T070000Z
 DTEND:20260218T070000Z
-SUMMARY:Eureka Summer P/S - Lake Esmond Botanical Gardens, Eureka Orienteers
+SUMMARY:Eureka Summer P/S #4 - Lake Esmond Botanical Gardens, Eureka Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/23761
 GEO:-37.5754911637668;143.874726395357
 END:VEVENT
@@ -687,11 +651,12 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23144
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_22855@eventor.orienteering.asn.au
-DTSTAMP:20250805T092620Z
+DTSTAMP:20260213T041949Z
 DTSTART:20260218T080000Z
 DTEND:20260218T080000Z
 SUMMARY:Night Nav Nth - EN - Clontarf, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/22855
+GEO:-27.2526058666176;153.091675857842
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23822@eventor.orienteering.asn.au
@@ -1162,22 +1127,13 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23818
 GEO:-33.444861735142;151.391886143254
 END:VEVENT
 BEGIN:VEVENT
-UID:Event_22883@eventor.orienteering.asn.au
-DTSTAMP:20260210T221208Z
+UID:Event_23847@eventor.orienteering.asn.au
+DTSTAMP:20260213T065814Z
 DTSTART:20260228T053000Z
 DTEND:20260228T053000Z
 SUMMARY:EN Learn to Orienteer Nth Series - Newport Park, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/22883
+URL:https://eventor.orienteering.asn.au/Events/Show/23847
 GEO:-27.2163036588657;153.083632685861
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22885@eventor.orienteering.asn.au
-DTSTAMP:20260203T085114Z
-DTSTART:20260228T053000Z
-DTEND:20260228T053000Z
-SUMMARY:EN Learn to Orienteer Nth Series - tbc, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/22885
-GEO:-27.2475338843222;153.083492566373
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23599@eventor.orienteering.asn.au
@@ -1652,5 +1608,32 @@ DTSTART:20260312T080000Z
 DTEND:20260312T080000Z
 SUMMARY:Night Nav NW - EN - Petrie North, Enoggeroos
 URL:https://eventor.orienteering.asn.au/Events/Show/22858
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23707@eventor.orienteering.asn.au
+DTSTAMP:20260125T011958Z
+DTSTART:20260312T130000Z
+DTEND:20260313T130000Z
+SUMMARY:TRAC School Sports Session 5, Wagga and Riverina Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/23707
+GEO:-35.1340910627489;147.365235322344
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23656@eventor.orienteering.asn.au
+DTSTAMP:20260120T131249Z
+DTSTART:20260313T073000Z
+DTEND:20260313T073000Z
+SUMMARY:Port Lincoln: Marina, Lincoln Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/23656
+GEO:-34.7435489865003;135.872975062648
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23809@eventor.orienteering.asn.au
+DTSTAMP:20260201T134915Z
+DTSTART:20260313T080000Z
+DTEND:20260313T080000Z
+SUMMARY:NT: 2026 Wet Season Series Event 6: Jingili, Top End Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/23809
+GEO:-12.3868635290056;130.867727609536
 END:VEVENT
 END:VCALENDAR
