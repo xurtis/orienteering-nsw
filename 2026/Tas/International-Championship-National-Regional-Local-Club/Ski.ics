@@ -3,68 +3,6 @@ VERSION:2.0
 PRODID:-//Svenska Orienteringsförbundet//Eventor
 METHOD:REQUEST
 BEGIN:VEVENT
-UID:Event_23597@eventor.orienteering.asn.au
-DTSTAMP:20260201T062251Z
-DTSTART:20260206T130000Z
-DTEND:20260207T130000Z
-SUMMARY:Bold Horizons - Adventure Running Squad, Bold Horizons Event Organiser
-URL:https://eventor.orienteering.asn.au/Events/Show/23597
-GEO:-33.6910767933779;151.152877141438
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23635@eventor.orienteering.asn.au
-DTSTAMP:20260207T233803Z
-DTSTART:20260206T220000Z
-DTEND:20260207T003000Z
-SUMMARY:Summer Saturdays #4 - Spring Farm, Southern Highlands Orienteers
-URL:https://eventor.orienteering.asn.au/Events/Show/23635
-GEO:-34.0741052076501;150.716690618421
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23379@eventor.orienteering.asn.au
-DTSTAMP:20260210T003001Z
-DTSTART:20260206T223000Z
-DTEND:20260206T223000Z
-SUMMARY:SOS - North Turramurra, Bold Horizons Event Organiser
-URL:https://eventor.orienteering.asn.au/Events/Show/23379
-GEO:-33.691055;151.152947
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23386@eventor.orienteering.asn.au
-DTSTAMP:20251219T014928Z
-DTSTART:20260206T223000Z
-DTEND:20260206T223000Z
-SUMMARY:SOS - Term 1 Pass, Bold Horizons Event Organiser
-URL:https://eventor.orienteering.asn.au/Events/Show/23386
-GEO:-33.691066;151.152952
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23378@eventor.orienteering.asn.au
-DTSTAMP:20251218T103356Z
-DTSTART:20260206T230000Z
-DTEND:20260207T040000Z
-SUMMARY:Queens Park Ipswich - Orienteering Instructor training, Orienteering Queensland
-URL:https://eventor.orienteering.asn.au/Events/Show/23378
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_22882@eventor.orienteering.asn.au
-DTSTAMP:20260207T071224Z
-DTSTART:20260207T053000Z
-DTEND:20260207T053000Z
-SUMMARY:EN Learn to Orienteer Nth Series - Redcliffe Botanic Gardens, Enoggeroos
-URL:https://eventor.orienteering.asn.au/Events/Show/22882
-GEO:-27.2326031301936;153.100166428308
-END:VEVENT
-BEGIN:VEVENT
-UID:Event_23177@eventor.orienteering.asn.au
-DTSTAMP:20260207T101458Z
-DTSTART:20260207T090000Z
-DTEND:20260207T090000Z
-SUMMARY:MetrO 9 Lake Claremont, Orienteering WA / WA Nomads
-URL:https://eventor.orienteering.asn.au/Events/Show/23177
-GEO:-31.9759131226031;115.779547672175
-END:VEVENT
-BEGIN:VEVENT
 UID:Event_23530@eventor.orienteering.asn.au
 DTSTAMP:20260210T100114Z
 DTSTART:20260207T130000Z
@@ -360,8 +298,16 @@ URL:https://eventor.orienteering.asn.au/Events/Show/23412
 GEO:-34.9685696997377;138.634817262581
 END:VEVENT
 BEGIN:VEVENT
+UID:Event_23848@eventor.orienteering.asn.au
+DTSTAMP:20260214T054905Z
+DTSTART:20260213T130000Z
+DTEND:20260214T130000Z
+SUMMARY:Illawarra Sprint Series 3 - Albion Park HS Mass Start, Illawarra Kareelah Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/23848
+END:VEVENT
+BEGIN:VEVENT
 UID:Event_23636@eventor.orienteering.asn.au
-DTSTAMP:20260211T215544Z
+DTSTAMP:20260214T004601Z
 DTSTART:20260213T220000Z
 DTEND:20260214T003000Z
 SUMMARY:Summer Saturdays #5 - Gregory Hills, Southern Highlands Orienteers
@@ -370,7 +316,7 @@ GEO:-34.0293217493439;150.772772172902
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23380@eventor.orienteering.asn.au
-DTSTAMP:20251219T101851Z
+DTSTAMP:20260214T041746Z
 DTSTART:20260213T223000Z
 DTEND:20260213T223000Z
 SUMMARY:SOS - Killarney Heights, Bold Horizons Event Organiser
@@ -379,7 +325,7 @@ GEO:-33.7721965375927;151.215406023458
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23297@eventor.orienteering.asn.au
-DTSTAMP:20260206T225303Z
+DTSTAMP:20260214T005652Z
 DTSTART:20260213T230000Z
 DTEND:20260213T230000Z
 SUMMARY:Illawarra Summer Sprint Series #3 - Albion Park High School, Illawarra Kareelah Orienteers
@@ -406,7 +352,7 @@ GEO:-27.2163036588657;153.083632685861
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23827@eventor.orienteering.asn.au
-DTSTAMP:20260208T091749Z
+DTSTAMP:20260214T123920Z
 DTSTART:20260214T070000Z
 DTEND:20260214T070000Z
 SUMMARY:Albany - Little Grove Primary School, Albany & Denmark Hinterland Orienteering Club
@@ -424,7 +370,7 @@ GEO:-37.9651255748439;144.408316125703
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23178@eventor.orienteering.asn.au
-DTSTAMP:20260209T112507Z
+DTSTAMP:20260214T131343Z
 DTSTART:20260214T090000Z
 DTEND:20260214T090000Z
 SUMMARY:MetrO 10 City Beach, Orienteering WA / WA Nomads
@@ -504,10 +450,10 @@ GEO:-27.4513515772516;151.94288468338
 END:VEVENT
 BEGIN:VEVENT
 UID:Event_23523@eventor.orienteering.asn.au
-DTSTAMP:20260123T112441Z
+DTSTAMP:20260214T103625Z
 DTSTART:20260215T053000Z
-DTEND:20260215T070000Z
-SUMMARY:Garingal Novelty event, Christmas Party and Club Presentations , Garingal Orienteers
+DTEND:20260215T053000Z
+SUMMARY:Garingal Novelty event, Christmas Party, AGM and Club Presentations , Garingal Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/23523
 GEO:-33.7943165180519;151.175296110721
 END:VEVENT
@@ -1635,5 +1581,41 @@ DTEND:20260313T080000Z
 SUMMARY:NT: 2026 Wet Season Series Event 6: Jingili, Top End Orienteers
 URL:https://eventor.orienteering.asn.au/Events/Show/23809
 GEO:-12.3868635290056;130.867727609536
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23383@eventor.orienteering.asn.au
+DTSTAMP:20251219T005954Z
+DTSTART:20260313T223000Z
+DTEND:20260313T223000Z
+SUMMARY:SOS - Balgowlah, Bold Horizons Event Organiser
+URL:https://eventor.orienteering.asn.au/Events/Show/23383
+GEO:-33.7961574875518;151.255148357899
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23403@eventor.orienteering.asn.au
+DTSTAMP:20251231T012341Z
+DTSTART:20260314T013000Z
+DTEND:20260314T013000Z
+SUMMARY:Come and Try It - Orienteering at Wildflower Drive, Bendigo Orienteers
+URL:https://eventor.orienteering.asn.au/Events/Show/23403
+GEO:-36.7908075457902;144.337968086625
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_23700@eventor.orienteering.asn.au
+DTSTAMP:20260124T112313Z
+DTSTART:20260314T040000Z
+DTEND:20260314T040000Z
+SUMMARY:Sawtell MapRun Orienteering, Bush n Beach Orienteering Club
+URL:https://eventor.orienteering.asn.au/Events/Show/23700
+GEO:-30.3588044159848;153.099174202192
+END:VEVENT
+BEGIN:VEVENT
+UID:Event_22887@eventor.orienteering.asn.au
+DTSTAMP:20251214T104529Z
+DTSTART:20260314T053000Z
+DTEND:20260314T053000Z
+SUMMARY:EN Learn to Orienteer Nth Series - Mungara Lakes, Enoggeroos
+URL:https://eventor.orienteering.asn.au/Events/Show/22887
+GEO:-27.2735359182182;152.960437523891
 END:VEVENT
 END:VCALENDAR
